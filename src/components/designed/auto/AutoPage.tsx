@@ -16,7 +16,16 @@
 import Image from "next/image";
 import Link from "next/link";
 import type { ReactNode } from "react";
-import { imageSize, liveHref, site, type Block, type BlockOf, type Image as ImageT, type Inline, type PageDoc } from "@/lib/content";
+import {
+  imageSize,
+  liveHref,
+  site,
+  type Block,
+  type BlockOf,
+  type Image as ImageT,
+  type Inline,
+  type PageDoc,
+} from "@/lib/content";
 import { breadcrumbs } from "@/lib/content/page";
 import { IMG, type ImageKey } from "@content/designed/images";
 import { CTA_DEFAULT } from "@content/designed/shared";
@@ -35,9 +44,30 @@ import { inlinePlain, renderInline } from "@/components/ui/InlineText";
 import { JsonLd } from "@/components/ui/JsonLd";
 import { Rating } from "../ui/Rating";
 import { WordReveal } from "../sections/WordReveal";
-import { isIcon, isStepCards, listFaq, normalize, widthOf, stripNum, subsections, townList, type Head, type Part } from "./normalize";
+import {
+  dropRepeatedLists,
+  faqLinkItems,
+  isIcon,
+  isStepCards,
+  listFaq,
+  normalize,
+  widthOf,
+  stripNum,
+  subsections,
+  townList,
+  type Head,
+  type Part,
+} from "./normalize";
 
-export type Variant = "item" | "cleanout" | "commercial" | "demolition" | "town" | "location" | "ads" | "hub";
+export type Variant =
+  | "item"
+  | "cleanout"
+  | "commercial"
+  | "demolition"
+  | "town"
+  | "location"
+  | "ads"
+  | "hub";
 type Ctx = { variant: Variant; formAnchor: string };
 
 /** Fallback hero photos (real Live Junk Free crew photos) when a page has none of its own. */
@@ -53,7 +83,14 @@ const FALLBACK: Record<Variant, ImageKey> = {
 };
 
 /** Real crew photos from livejunkfree.ca, all ≥1024px (crew-truck.webp is only 394px: not used large). */
-const CREW: ImageKey[] = ["crewAbout", "crewStreet", "job1", "job2", "job3", "crewHero"];
+const CREW: ImageKey[] = [
+  "crewAbout",
+  "crewStreet",
+  "job1",
+  "job2",
+  "job3",
+  "crewHero",
+];
 const CREW_ALT: Partial<Record<ImageKey, string>> = {
   crewAbout: "Live Junk Free crew member carrying boards to the truck",
   crewTruck: "Two Live Junk Free crew members at the truck",
@@ -72,15 +109,33 @@ const ICON_RULES: [RegExp, IconName][] = [
   [/tire/i, "tire"],
   [/mattress|bed\b|bedroom|box ?spring|bed bug/i, "bed"],
   [/sofa|couch|loveseat|sectional|recliner|chair|futon/i, "sofa"],
-  [/fridge|freezer|appliance|washer|dryer|stove|microwave|dishwasher|oven/i, "fridge"],
+  [
+    /fridge|freezer|appliance|washer|dryer|stove|microwave|dishwasher|oven/i,
+    "fridge",
+  ],
   [/tv|television|electronic|computer|e-waste|printer|monitor/i, "tv"],
   [/gym|exercise|treadmill|fitness|elliptical/i, "dumbbell"],
   [/yard|tree|brush|garden|sod|soil|dirt|leaf|lawn|hedge/i, "tree"],
-  [/demoli|shed|deck|fence|wall\b|tear|gazebo|playset|swing|pergola|hammer/i, "hammer"],
-  [/desk|table|dresser|hutch|cabinet|wall unit|shelv|wardrobe|furniture|cubicle|safe\b/i, "box"],
-  [/cardboard|paper|garbage|clutter|scrap|metal|wood|pallet|carpet|debris|drywall/i, "box"],
-  [/office|commercial|business|retail|warehouse|store|property|restaurant/i, "building"],
-  [/home|house|apartment|condo|garage|basement|estate|resident|attic|move/i, "home"],
+  [
+    /demoli|shed|deck|fence|wall\b|tear|gazebo|playset|swing|pergola|hammer/i,
+    "hammer",
+  ],
+  [
+    /desk|table|dresser|hutch|cabinet|wall unit|shelv|wardrobe|furniture|cubicle|safe\b/i,
+    "box",
+  ],
+  [
+    /cardboard|paper|garbage|clutter|scrap|metal|wood|pallet|carpet|debris|drywall/i,
+    "box",
+  ],
+  [
+    /office|commercial|business|retail|warehouse|store|property|restaurant/i,
+    "building",
+  ],
+  [
+    /home|house|apartment|condo|garage|basement|estate|resident|attic|move/i,
+    "home",
+  ],
   [/same.?day|time|fast|quick|hour|schedul|book|minute|efficien/i, "clock"],
   [/insur|safe|protect|guarant|secur|trust|licens|discreet/i, "shield"],
   [/price|pricing|cost|afford|rate|\$|save|discount|fee/i, "tag"],
@@ -91,7 +146,8 @@ const ICON_RULES: [RegExp, IconName][] = [
   [/quote|estimate|form|document/i, "file"],
   [/truck|haul|pickup|remov|disposal/i, "truck"],
 ];
-const iconFor = (t: string): IconName => ICON_RULES.find(([re]) => re.test(t))?.[1] ?? "box";
+const iconFor = (t: string): IconName =>
+  ICON_RULES.find(([re]) => re.test(t))?.[1] ?? "box";
 
 const ECO = /eco|recycl|donat|environment|green|sustainab/i;
 const short = (it: Inline[]) => inlinePlain(it).length < 48;
@@ -102,15 +158,38 @@ const short = (it: Inline[]) => inlinePlain(it).length < 48;
  * One photo holding both "before" and "after" (labels printed on the image): never cropped,
  * or the labels at its edges get cut off. Shown whole at its own shape.
  */
-const isCombinedBA = (im: ImageT) => /before.{0,12}after|after.{0,12}before/i.test(im.src.split("/").pop() ?? "");
+const isCombinedBA = (im: ImageT) =>
+  /before.{0,12}after|after.{0,12}before/i.test(im.src.split("/").pop() ?? "");
 
-function Cover({ image, sizes, priority, className }: { image: ImageT; sizes: string; priority?: boolean; className?: string }) {
+function Cover({
+  image,
+  sizes,
+  priority,
+  className,
+}: {
+  image: ImageT;
+  sizes: string;
+  priority?: boolean;
+  className?: string;
+}) {
   const whole = isCombinedBA(image);
   const sz = whole ? imageSize(image.src) : undefined;
-  const cls = ["photo", className, whole ? "whole" : ""].filter(Boolean).join(" ");
+  const cls = ["photo", className, whole ? "whole" : ""]
+    .filter(Boolean)
+    .join(" ");
   return (
-    <div className={cls} style={sz ? { aspectRatio: `${sz.width} / ${sz.height}` } : undefined}>
-      <Image src={image.src} alt={image.alt} fill sizes={sizes} loading={priority ? "eager" : "lazy"} fetchPriority={priority ? "high" : undefined} />
+    <div
+      className={cls}
+      style={sz ? { aspectRatio: `${sz.width} / ${sz.height}` } : undefined}
+    >
+      <Image
+        src={image.src}
+        alt={image.alt}
+        fill
+        sizes={sizes}
+        loading={priority ? "eager" : "lazy"}
+        fetchPriority={priority ? "high" : undefined}
+      />
     </div>
   );
 }
@@ -124,23 +203,45 @@ function IconImg({ image }: { image: ImageT }) {
 }
 
 function ctaHref(href: string, ctx: Ctx) {
-  if (!href || href === "/contact/" || /quote|book/i.test(href)) return ctx.formAnchor;
+  if (!href || href === "/contact/" || /quote|book/i.test(href))
+    return ctx.formAnchor;
   return liveHref(href) ?? href;
 }
 
 /** Call-button labels always show the business number (one old page shows a wrong number). */
-const telLabel = (label: string) => label.replace(/\(?\d{3}\)?[\s.-]*\d{3}[\s.-]*\d{4}/, site.phone.display.replace(/^\+1\s*/, ""));
+const telLabel = (label: string) =>
+  label.replace(
+    /\(?\d{3}\)?[\s.-]*\d{3}[\s.-]*\d{4}/,
+    site.phone.display.replace(/^\+1\s*/, ""),
+  );
 
-function Buttons({ items, ctx, dark }: { items: { label: string; href: string }[]; ctx: Ctx; dark?: boolean }) {
+function Buttons({
+  items,
+  ctx,
+  dark,
+}: {
+  items: { label: string; href: string }[];
+  ctx: Ctx;
+  dark?: boolean;
+}) {
   return (
     <div className="btn-row">
       {items.map((c, i) =>
         c.href.startsWith("tel:") ? (
-          <a key={c.label + i} className={dark ? "btn btn-ghost btn-glass" : "btn btn-ghost"} href={`tel:${site.phone.tel}`} data-track="phone">
+          <a
+            key={c.label + i}
+            className={dark ? "btn btn-ghost btn-glass" : "btn btn-ghost"}
+            href={`tel:${site.phone.tel}`}
+            data-track="phone"
+          >
             <Icon name="phone" /> {telLabel(c.label)}
           </a>
         ) : (
-          <Link key={c.label + i} className={i === 0 ? "btn btn-primary" : "btn btn-ghost"} href={ctaHref(c.href, ctx)}>
+          <Link
+            key={c.label + i}
+            className={i === 0 ? "btn btn-primary" : "btn btn-ghost"}
+            href={ctaHref(c.href, ctx)}
+          >
             {c.label}
           </Link>
         ),
@@ -150,7 +251,15 @@ function Buttons({ items, ctx, dark }: { items: { label: string; href: string }[
 }
 
 /** Plain text blocks (paragraphs, lists, small headings, buttons). */
-function Prose({ blocks, ctx, idx }: { blocks: Block[]; ctx: Ctx; idx: string }) {
+function Prose({
+  blocks,
+  ctx,
+  idx,
+}: {
+  blocks: Block[];
+  ctx: Ctx;
+  idx: string;
+}) {
   return (
     <>
       {blocks.map((b, k) => {
@@ -180,8 +289,10 @@ function Prose({ blocks, ctx, idx }: { blocks: Block[]; ctx: Ctx; idx: string })
             );
           case "ul":
           case "checks": {
-            const items = b.t === "ul" ? b.items : b.items.map((s) => [s] as Inline[]);
-            if (items.length >= 8 && items.every(short)) return <ChipGrid key={key} items={items} />;
+            const items =
+              b.t === "ul" ? b.items : b.items.map((s) => [s] as Inline[]);
+            if (items.length >= 8 && items.every(short))
+              return <ChipGrid key={key} items={items} />;
             const two = items.length >= 4 && items.every(short);
             return (
               <ul key={key} className={two ? "ticks two" : "ticks"}>
@@ -233,7 +344,10 @@ function ChipGrid({ items }: { items: Inline[][] }) {
     <ul className="chip-grid">
       {items.map((it, i) => {
         const text = inlinePlain(it).trim();
-        const link = it.length === 1 && typeof it[0] === "object" && "a" in it[0] ? liveHref(it[0].a) : null;
+        const link =
+          it.length === 1 && typeof it[0] === "object" && "a" in it[0]
+            ? liveHref(it[0].a)
+            : null;
         const inner = (
           <>
             <span className="ci" aria-hidden="true">
@@ -259,11 +373,36 @@ function ChipGrid({ items }: { items: Inline[][] }) {
   );
 }
 
-const PROSE = new Set<Block["t"]>(["p", "h", "eyebrow", "ul", "ol", "checks", "ctas", "price"]);
+const PROSE = new Set<Block["t"]>([
+  "p",
+  "h",
+  "eyebrow",
+  "ul",
+  "ol",
+  "checks",
+  "ctas",
+  "price",
+]);
 
 /** Cards: step cards, icon panels, item chips, text panels or photo cards. */
-function Cards({ b, title, idx }: { b: BlockOf<"cards">; title?: string; idx: string }) {
-  if (isStepCards(b, title)) return <Steps list={b.items.map((c) => ({ title: stripNum(c.title), text: c.text ? [c.text] : [] }))} />;
+function Cards({
+  b,
+  title,
+  idx,
+}: {
+  b: BlockOf<"cards">;
+  title?: string;
+  idx: string;
+}) {
+  if (isStepCards(b, title))
+    return (
+      <Steps
+        list={b.items.map((c) => ({
+          title: stripNum(c.title),
+          text: c.text ? [c.text] : [],
+        }))}
+      />
+    );
   const icons = b.items.every((c) => c.image && isIcon(c.image));
   const photos = b.items.some((c) => c.image && !isIcon(c.image));
   const anyText = b.items.some((c) => c.text);
@@ -299,7 +438,8 @@ function Cards({ b, title, idx }: { b: BlockOf<"cards">; title?: string; idx: st
     );
   }
   if (photos) {
-    const cols = b.items.length % 3 === 0 ? "g3" : b.items.length === 4 ? "g4" : "g2";
+    const cols =
+      b.items.length % 3 === 0 ? "g3" : b.items.length === 4 ? "g4" : "g2";
     return (
       <div className={`grid ${cols} cards`}>
         {b.items.map((c, i) => {
@@ -307,7 +447,11 @@ function Cards({ b, title, idx }: { b: BlockOf<"cards">; title?: string; idx: st
           const inner = (
             <>
               {c.image && !isIcon(c.image) ? (
-                <Cover image={c.image} sizes="(max-width: 640px) 100vw, (max-width: 960px) 50vw, 400px" className="card-photo" />
+                <Cover
+                  image={c.image}
+                  sizes="(max-width: 640px) 100vw, (max-width: 960px) 50vw, 400px"
+                  className="card-photo"
+                />
               ) : (
                 <div className="photo card-photo card-ph" aria-hidden="true">
                   <Icon name={iconFor(c.title)} />
@@ -315,7 +459,13 @@ function Cards({ b, title, idx }: { b: BlockOf<"cards">; title?: string; idx: st
               )}
               <div className="card-body">
                 <h3 className="h4">{c.title}</h3>
-                {c.text ? <p className="small muted">{h ? inlinePlain(c.text) : renderInline(c.text, `${idx}c${i}`)}</p> : null}
+                {c.text ? (
+                  <p className="small muted">
+                    {h
+                      ? inlinePlain(c.text)
+                      : renderInline(c.text, `${idx}c${i}`)}
+                  </p>
+                ) : null}
               </div>
             </>
           );
@@ -352,11 +502,19 @@ function Cards({ b, title, idx }: { b: BlockOf<"cards">; title?: string; idx: st
               </span>
             )}
             <h3 className="h4">{c.title.trim()}</h3>
-            {c.text ? <p className="small muted">{h ? inlinePlain(c.text) : renderInline(c.text, `${idx}p${i}`)}</p> : null}
+            {c.text ? (
+              <p className="small muted">
+                {h ? inlinePlain(c.text) : renderInline(c.text, `${idx}p${i}`)}
+              </p>
+            ) : null}
           </>
         );
         return h ? (
-          <Link key={c.title + i} href={h} className={leaf ? "panel leaf link-card" : "panel link-card"}>
+          <Link
+            key={c.title + i}
+            href={h}
+            className={leaf ? "panel leaf link-card" : "panel link-card"}
+          >
             {body}
           </Link>
         ) : (
@@ -378,12 +536,20 @@ function Mosaic({ images: raw }: { images: ImageT[] }) {
   // 2–3 photos fill big cells: only photos large enough for them.
   if (images.length <= 3) images = images.filter((im) => widthOf(im) >= 560);
   if (!images.length) return null;
-  if (images.length === 1) return <Cover image={images[0]} className="solo" sizes="(max-width: 960px) 100vw, 800px" />;
+  if (images.length === 1)
+    return (
+      <Cover
+        image={images[0]}
+        className="solo"
+        sizes="(max-width: 960px) 100vw, 800px"
+      />
+    );
   const flat = images.length >= 4 && widthOf(images[0]) < 600;
   const cells = (k: number) => (flat ? k : k + 3); // the big first photo takes 4 cells
   let gap = images.length >= 4 ? (4 - (cells(images.length) % 4)) % 4 : 0;
   // Wide cells need photos ≥600px; otherwise use fewer photos so the grid still ends flush.
-  const wideOk = (k: number) => images.slice(1, 1 + k).every((im) => widthOf(im) >= 600);
+  const wideOk = (k: number) =>
+    images.slice(1, 1 + k).every((im) => widthOf(im) >= 600);
   while (gap && !wideOk(gap === 3 ? 1 : gap) && images.length > 4) {
     images = images.slice(0, -1);
     gap = (4 - (cells(images.length) % 4)) % 4;
@@ -398,37 +564,92 @@ function Mosaic({ images: raw }: { images: ImageT[] }) {
       {images.map((im, i) => {
         const span = wide.get(i);
         const big = (i === 0 && !flat) || span === "w4" || small;
-        return <Cover key={im.src + i} image={im} className={span} sizes={big ? "(max-width: 960px) 100vw, 1200px" : span ? "(max-width: 960px) 100vw, 640px" : "(max-width: 960px) 50vw, 320px"} />;
+        return (
+          <Cover
+            key={im.src + i}
+            image={im}
+            className={span}
+            sizes={
+              big
+                ? "(max-width: 960px) 100vw, 1200px"
+                : span
+                  ? "(max-width: 960px) 100vw, 640px"
+                  : "(max-width: 960px) 50vw, 320px"
+            }
+          />
+        );
       })}
     </div>
   );
 }
 
 function Areas({ names }: { names: string[] }) {
-  const bySlug = new Map(site.towns.flatMap((t) => [[t.name.toLowerCase(), t], [t.slug, t]]));
+  const bySlug = new Map(
+    site.towns.flatMap((t) => [
+      [t.name.toLowerCase(), t],
+      [t.slug, t],
+    ]),
+  );
   return (
     <ul className="areas">
       {names.map((n) => {
         const l = n.toLowerCase();
-        const t = bySlug.get(l) ?? bySlug.get(l.replace(/[\s–—-]+/g, "-")) ?? (l === "stouffville" ? bySlug.get("whitchurch-stouffville") : l === "newmarket" ? bySlug.get("new-market") : undefined);
-        return <li key={n}>{t ? <Link href={`/locations/${t.slug}/`}>{n}</Link> : <span>{n}</span>}</li>;
+        const t =
+          bySlug.get(l) ??
+          bySlug.get(l.replace(/[\s–—-]+/g, "-")) ??
+          (l === "stouffville"
+            ? bySlug.get("whitchurch-stouffville")
+            : l === "newmarket"
+              ? bySlug.get("new-market")
+              : undefined);
+        return (
+          <li key={n}>
+            {t ? (
+              <Link href={`/locations/${t.slug}/`}>{n}</Link>
+            ) : (
+              <span>{n}</span>
+            )}
+          </li>
+        );
       })}
     </ul>
   );
 }
 
 /** Non-prose blocks. */
-function Special({ b, ctx, idx, title }: { b: Block; ctx: Ctx; idx: string; title?: string }): ReactNode {
+function Special({
+  b,
+  ctx,
+  idx,
+  title,
+}: {
+  b: Block;
+  ctx: Ctx;
+  idx: string;
+  title?: string;
+}): ReactNode {
   switch (b.t) {
     case "cards":
       return <Cards b={b} title={title} idx={idx} />;
     case "faq": {
+      const linkItems = faqLinkItems(b);
+      if (linkItems)
+        return (
+          <details className="more-items">
+            <summary>
+              {b.items[0].q}{" "}
+              <span className="muted small">({linkItems.length})</span>
+            </summary>
+            <ChipGrid items={linkItems} />
+          </details>
+        );
       const lines = listFaq(b);
       if (lines)
         return (
           <details className="more-items">
             <summary>
-              {b.items[0].q} <span className="muted small">({lines.length})</span>
+              {b.items[0].q}{" "}
+              <span className="muted small">({lines.length})</span>
             </summary>
             <div className="items">
               {lines.map((l) => (
@@ -442,13 +663,23 @@ function Special({ b, ctx, idx, title }: { b: Block; ctx: Ctx; idx: string; titl
       return <Faq items={b.items} />;
     }
     case "steps":
-      return <Steps list={b.items.map((s) => ({ title: stripNum(s.title), text: s.text }))} />;
+      return (
+        <Steps
+          list={b.items.map((s) => ({
+            title: stripNum(s.title),
+            text: s.text,
+          }))}
+        />
+      );
     case "gallery": {
       const before = b.images.find((i) => /before/i.test(i.src + i.alt));
-      const after = b.images.find((i) => i !== before && /after/i.test(i.src + i.alt));
+      const after = b.images.find(
+        (i) => i !== before && /after/i.test(i.src + i.alt),
+      );
       if (b.images.length === 2 && before && after) {
         // The slider fills the full width: only for photos big enough; smaller pairs sit side by side.
-        if (widthOf(before) >= 700 && widthOf(after) >= 700) return <BeforeAfter before={before} after={after} />;
+        if (widthOf(before) >= 700 && widthOf(after) >= 700)
+          return <BeforeAfter before={before} after={after} />;
         return (
           <div className="ba-pair">
             <figure>
@@ -472,7 +703,16 @@ function Special({ b, ctx, idx, title }: { b: Block; ctx: Ctx; idx: string; titl
       return <MapEmbed className="min-h-[320px]!" />;
     case "video":
       return (
-        <video className="video" src={b.src} muted loop playsInline autoPlay preload="none" aria-hidden="true">
+        <video
+          className="video"
+          src={b.src}
+          muted
+          loop
+          playsInline
+          autoPlay
+          preload="none"
+          aria-hidden="true"
+        >
           <track kind="captions" />
         </video>
       );
@@ -492,7 +732,15 @@ function Special({ b, ctx, idx, title }: { b: Block; ctx: Ctx; idx: string; titl
   }
 }
 
-function HeadView({ head, as = "h2", id }: { head: Head; as?: "h2" | "h1"; id?: string }) {
+function HeadView({
+  head,
+  as = "h2",
+  id,
+}: {
+  head: Head;
+  as?: "h2" | "h1";
+  id?: string;
+}) {
   const H = as;
   return (
     <>
@@ -508,7 +756,19 @@ function HeadView({ head, as = "h2", id }: { head: Head; as?: "h2" | "h1"; id?: 
 
 /* ───────────── one section ───────────── */
 
-function PartView({ p, i, ctx, photo, textIdx = 0 }: { p: Part; i: number; ctx: Ctx; photo?: ImageT; textIdx?: number }) {
+function PartView({
+  p,
+  i,
+  ctx,
+  photo,
+  textIdx = 0,
+}: {
+  p: Part;
+  i: number;
+  ctx: Ctx;
+  photo?: ImageT;
+  textIdx?: number;
+}) {
   const tone = i % 2 === 0 ? "sec white" : "sec";
   const id = `p${i}`;
   const blocks = p.blocks;
@@ -533,8 +793,14 @@ function PartView({ p, i, ctx, photo, textIdx = 0 }: { p: Part; i: number; ctx: 
             {g.map((s, k) => {
               const leaf = ECO.test(s.title);
               return (
-                <div key={s.title + k} className={leaf ? "panel leaf" : "panel"}>
-                  <span className={leaf ? "icon leaf" : "icon"} aria-hidden="true">
+                <div
+                  key={s.title + k}
+                  className={leaf ? "panel leaf" : "panel"}
+                >
+                  <span
+                    className={leaf ? "icon leaf" : "icon"}
+                    aria-hidden="true"
+                  >
                     <Icon name={iconFor(s.title)} />
                   </span>
                   <h3 className="h4">{s.title}</h3>
@@ -549,32 +815,54 @@ function PartView({ p, i, ctx, photo, textIdx = 0 }: { p: Part; i: number; ctx: 
   }
 
   // FAQ: title left, questions right (demo layout).
-  if (blocks.some((b) => b.t === "faq" && !listFaq(b))) {
-    const k = blocks.findIndex((b) => b.t === "faq" && !listFaq(b));
+  const realFaq = (b: Block) =>
+    b.t === "faq" && !listFaq(b) && !faqLinkItems(b);
+  if (blocks.some(realFaq)) {
+    const k = blocks.findIndex(realFaq);
     const before = blocks.slice(0, k);
     const after = blocks.slice(k + 1);
-    const faqs = blocks.filter((b): b is BlockOf<"faq"> => b.t === "faq" && !listFaq(b)).flatMap((b) => b.items);
+    const faqs = blocks
+      .filter((b): b is BlockOf<"faq"> => realFaq(b))
+      .flatMap((b) => b.items);
     return (
       <section className={tone} aria-labelledby={`${id}-h`}>
         <div className="wrap">
           <div className="split">
             <div className="stack">
-              <HeadView head={{ ...p.head, title: p.head.title ?? "Frequently Asked Questions" }} id={`${id}-h`} />
+              <HeadView
+                head={{
+                  ...p.head,
+                  title: p.head.title ?? "Frequently Asked Questions",
+                }}
+                id={`${id}-h`}
+              />
               <Prose blocks={before} ctx={ctx} idx={id} />
               <p className="muted">
                 Still unsure? Call{" "}
-                <a className="tlink" href={`tel:${site.phone.tel}`} data-track="phone">
+                <a
+                  className="tlink"
+                  href={`tel:${site.phone.tel}`}
+                  data-track="phone"
+                >
                   {site.phone.display}
                 </a>
               </p>
             </div>
             <Faq items={faqs} />
           </div>
-          {after.filter((b) => b.t !== "faq" || listFaq(b)).length ? (
+          {after.filter((b) => !realFaq(b)).length ? (
             <div className="stack mt-10">
-              {after.filter((b) => b.t !== "faq" || listFaq(b)).map((b, k) => (
-                <Special key={k} b={b} ctx={ctx} idx={`${id}a${k}`} title={p.head.title} />
-              ))}
+              {after
+                .filter((b) => !realFaq(b))
+                .map((b, k) => (
+                  <Special
+                    key={k}
+                    b={b}
+                    ctx={ctx}
+                    idx={`${id}a${k}`}
+                    title={p.head.title}
+                  />
+                ))}
             </div>
           ) : null}
         </div>
@@ -583,7 +871,10 @@ function PartView({ p, i, ctx, photo, textIdx = 0 }: { p: Part; i: number; ctx: 
   }
 
   // Reviews: the demo's score + review cards.
-  if (has("reviews") && blocks.every((b) => b.t === "reviews" || PROSE.has(b.t))) {
+  if (
+    has("reviews") &&
+    blocks.every((b) => b.t === "reviews" || PROSE.has(b.t))
+  ) {
     return (
       <section className={tone}>
         <div className="wrap stack-lg">
@@ -595,7 +886,13 @@ function PartView({ p, i, ctx, photo, textIdx = 0 }: { p: Part; i: number; ctx: 
             </div>
           ) : null}
           <Reviews />
-          {blocks.some((b) => b.t !== "reviews") ? <Prose blocks={blocks.filter((b) => b.t !== "reviews")} ctx={ctx} idx={id} /> : null}
+          {blocks.some((b) => b.t !== "reviews") ? (
+            <Prose
+              blocks={blocks.filter((b) => b.t !== "reviews")}
+              ctx={ctx}
+              idx={id}
+            />
+          ) : null}
         </div>
       </section>
     );
@@ -615,7 +912,9 @@ function PartView({ p, i, ctx, photo, textIdx = 0 }: { p: Part; i: number; ctx: 
             </div>
             <Areas names={names} />
           </div>
-          {ctx.variant === "location" ? <MapEmbed className="min-h-[320px]!" /> : null}
+          {ctx.variant === "location" ? (
+            <MapEmbed className="min-h-[320px]!" />
+          ) : null}
         </div>
       </section>
     );
@@ -626,10 +925,20 @@ function PartView({ p, i, ctx, photo, textIdx = 0 }: { p: Part; i: number; ctx: 
     const [intro, subs] = subsections(blocks);
     // Sub-sections (H3/H4 + text) → panel grid.
     if (subs.length >= 2 && subs.every((s) => s.body.length)) {
-      const longest = Math.max(...subs.map((s) => s.body.map(blockLen).reduce((a, b) => a + b, 0)));
-      const cols = longest > 650 ? "rows" : subs.length === 2 || subs.length === 4 ? "g2" : "g3";
+      const longest = Math.max(
+        ...subs.map((s) => s.body.map(blockLen).reduce((a, b) => a + b, 0)),
+      );
+      const cols =
+        longest > 650
+          ? "rows"
+          : subs.length === 2 || subs.length === 4
+            ? "g2"
+            : "g3";
       return (
-        <section className={tone} aria-labelledby={p.head.title ? `${id}-h` : undefined}>
+        <section
+          className={tone}
+          aria-labelledby={p.head.title ? `${id}-h` : undefined}
+        >
           <div className="wrap stack-lg">
             {p.head.title || p.head.eyebrow || intro.length ? (
               <div className="sec-head">
@@ -645,7 +954,12 @@ function PartView({ p, i, ctx, photo, textIdx = 0 }: { p: Part; i: number; ctx: 
             ) : null}
             <div className={`grid ${cols} subs`}>
               {subs.map((s, k) => (
-                <div key={s.title + k} className={ECO.test(s.title) ? "panel leaf stack-sm" : "panel stack-sm"}>
+                <div
+                  key={s.title + k}
+                  className={
+                    ECO.test(s.title) ? "panel leaf stack-sm" : "panel stack-sm"
+                  }
+                >
                   <span className="sub-n" aria-hidden="true">
                     {String(k + 1).padStart(2, "0")}
                   </span>
@@ -662,14 +976,21 @@ function PartView({ p, i, ctx, photo, textIdx = 0 }: { p: Part; i: number; ctx: 
     const img = p.image ?? photo;
     if (img) {
       return (
-        <section className={tone} aria-labelledby={p.head.title ? `${id}-h` : undefined}>
+        <section
+          className={tone}
+          aria-labelledby={p.head.title ? `${id}-h` : undefined}
+        >
           <div className="wrap">
             <div className={i % 2 ? "split-media flip" : "split-media"}>
               <div className="stack">
                 <HeadView head={p.head} id={`${id}-h`} />
                 <Prose blocks={blocks} ctx={ctx} idx={id} />
               </div>
-              <Cover image={img} sizes="(max-width: 960px) 100vw, 560px" className="tilt" />
+              <Cover
+                image={img}
+                sizes="(max-width: 960px) 100vw, 560px"
+                className="tilt"
+              />
             </div>
           </div>
         </section>
@@ -690,7 +1011,9 @@ function PartView({ p, i, ctx, photo, textIdx = 0 }: { p: Part; i: number; ctx: 
                   <HeadView head={p.head} id={`${id}-h`} />
                 </div>
               </div>
-              <div className={totalLen > 700 ? "prose-cols" : "stack content-col"}>
+              <div
+                className={totalLen > 700 ? "prose-cols" : "stack content-col"}
+              >
                 <Prose blocks={blocks} ctx={ctx} idx={id} />
               </div>
             </div>
@@ -707,7 +1030,9 @@ function PartView({ p, i, ctx, photo, textIdx = 0 }: { p: Part; i: number; ctx: 
               <HeadView head={p.head} id={`${id}-h`} />
             </div>
             <div className="lead-split">
-              <p className="lead-xl">{renderInline((first as BlockOf<"p">).c, `${id}-l`)}</p>
+              <p className="lead-xl">
+                {renderInline((first as BlockOf<"p">).c, `${id}-l`)}
+              </p>
               <div className="panel stack">
                 <Prose blocks={rest} ctx={ctx} idx={id} />
               </div>
@@ -718,17 +1043,25 @@ function PartView({ p, i, ctx, photo, textIdx = 0 }: { p: Part; i: number; ctx: 
     }
     // Heading left (sticky), text right.
     return (
-      <section className={tone} aria-labelledby={p.head.title ? `${id}-h` : undefined}>
+      <section
+        className={tone}
+        aria-labelledby={p.head.title ? `${id}-h` : undefined}
+      >
         <div className="wrap">
           {p.head.title ? (
-            <div className="split">
-              <div className="stack">
-                <HeadView head={p.head} id={`${id}-h`} />
+            <>
+              {p.head.eyebrow ? (
+                <p className="eyebrow mb-4">{p.head.eyebrow}</p>
+              ) : null}
+              <div className="split">
+                <div className="stack">
+                  <HeadView head={{ title: p.head.title }} id={`${id}-h`} />
+                </div>
+                <div className="stack">
+                  <Prose blocks={blocks} ctx={ctx} idx={id} />
+                </div>
               </div>
-              <div className="stack">
-                <Prose blocks={blocks} ctx={ctx} idx={id} />
-              </div>
-            </div>
+            </>
           ) : (
             <div className="stack content-col">
               <Prose blocks={blocks} ctx={ctx} idx={id} />
@@ -742,11 +1075,18 @@ function PartView({ p, i, ctx, photo, textIdx = 0 }: { p: Part; i: number; ctx: 
   // Heading + a line or two + buttons only → a designed call-to-action banner.
   const ctaOnly =
     blocks.some((b) => b.t === "ctas") &&
-    blocks.every((b) => b.t === "ctas" || (b.t === "h" && b.text.length <= 140) || (b.t === "p" && inlinePlain(b.c).length <= 220)) &&
+    blocks.every(
+      (b) =>
+        b.t === "ctas" ||
+        (b.t === "h" && b.text.length <= 140) ||
+        (b.t === "p" && inlinePlain(b.c).length <= 220),
+    ) &&
     blocks.filter((b) => b.t !== "ctas").length <= 3;
   if (ctaOnly && !p.image) {
     const lines = blocks.filter((b) => b.t !== "ctas");
-    const btns = blocks.filter((b): b is BlockOf<"ctas"> => b.t === "ctas").flatMap((b) => b.items);
+    const btns = blocks
+      .filter((b): b is BlockOf<"ctas"> => b.t === "ctas")
+      .flatMap((b) => b.items);
     return (
       <section className="sec tight">
         <div className="wrap">
@@ -755,7 +1095,9 @@ function PartView({ p, i, ctx, photo, textIdx = 0 }: { p: Part; i: number; ctx: 
               <Icon name="truck" />
             </span>
             <div className="stack-sm">
-              {p.head.eyebrow ? <p className="eyebrow">{p.head.eyebrow}</p> : null}
+              {p.head.eyebrow ? (
+                <p className="eyebrow">{p.head.eyebrow}</p>
+              ) : null}
               {p.head.title ? <h2 className="d3">{p.head.title}</h2> : null}
               {lines.map((b, k) =>
                 b.t === "h" ? (
@@ -778,38 +1120,73 @@ function PartView({ p, i, ctx, photo, textIdx = 0 }: { p: Part; i: number; ctx: 
 
   // Mixed section: head row (title left, short intro right), then the content in order.
   const first = blocks[0];
-  const introP = first?.t === "p" && inlinePlain(first.c).length < 320 ? first : null;
+  const introP =
+    first?.t === "p" && inlinePlain(first.c).length < 320 ? first : null;
   const body = introP ? blocks.slice(1) : blocks;
   // Narrow mixed section with its own photo → text + photo side by side.
   if (p.image && !isWide(blocks)) {
     return (
-      <section className={tone} aria-labelledby={p.head.title ? `${id}-h` : undefined}>
+      <section
+        className={tone}
+        aria-labelledby={p.head.title ? `${id}-h` : undefined}
+      >
         <div className="wrap">
           <div className={i % 2 ? "split-media flip" : "split-media"}>
             <div className="stack">
               <HeadView head={p.head} id={`${id}-h`} />
-              {groupProse(blocks).map((g, k) => (Array.isArray(g) ? <Prose key={k} blocks={g} ctx={ctx} idx={`${id}m${k}`} /> : <Special key={k} b={g} ctx={ctx} idx={`${id}m${k}`} title={p.head.title} />))}
+              {groupProse(blocks).map((g, k) =>
+                Array.isArray(g) ? (
+                  <Prose key={k} blocks={g} ctx={ctx} idx={`${id}m${k}`} />
+                ) : (
+                  <Special
+                    key={k}
+                    b={g}
+                    ctx={ctx}
+                    idx={`${id}m${k}`}
+                    title={p.head.title}
+                  />
+                ),
+              )}
             </div>
-            <Cover image={p.image} sizes="(max-width: 960px) 100vw, 560px" className="tilt" />
+            <Cover
+              image={p.image}
+              sizes="(max-width: 960px) 100vw, 560px"
+              className="tilt"
+            />
           </div>
         </div>
       </section>
     );
   }
-  const stepsOnly = body.every((b) => (b.t === "cards" && isStepCards(b, p.head.title)) || b.t === "steps" || PROSE.has(b.t));
-  const slate = ctx.variant === "commercial" && stepsOnly && body.some((b) => b.t === "steps" || b.t === "cards");
+  const stepsOnly = body.every(
+    (b) =>
+      (b.t === "cards" && isStepCards(b, p.head.title)) ||
+      b.t === "steps" ||
+      PROSE.has(b.t),
+  );
+  const slate =
+    ctx.variant === "commercial" &&
+    stepsOnly &&
+    body.some((b) => b.t === "steps" || b.t === "cards");
   return (
-    <section className={slate ? "sec slate on-dark" : tone} aria-labelledby={p.head.title ? `${id}-h` : undefined}>
+    <section
+      className={slate ? "sec slate on-dark" : tone}
+      aria-labelledby={p.head.title ? `${id}-h` : undefined}
+    >
       <div className="wrap stack-lg">
         {p.head.title || p.head.eyebrow ? (
           <div className="sec-head">
             <div className="stack-sm">
               <HeadView head={p.head} id={`${id}-h`} />
             </div>
-            {introP ? <p className="muted">{renderInline(introP.c, `${id}-intro`)}</p> : null}
+            {introP ? (
+              <p className="muted">{renderInline(introP.c, `${id}-intro`)}</p>
+            ) : null}
           </div>
         ) : introP ? (
-          <p className="muted content-col">{renderInline(introP.c, `${id}-intro`)}</p>
+          <p className="muted content-col">
+            {renderInline(introP.c, `${id}-intro`)}
+          </p>
         ) : null}
         {groupProse(body).map((g, k) =>
           Array.isArray(g) ? (
@@ -817,7 +1194,13 @@ function PartView({ p, i, ctx, photo, textIdx = 0 }: { p: Part; i: number; ctx: 
               <Prose blocks={g} ctx={ctx} idx={`${id}g${k}`} />
             </div>
           ) : (
-            <Special key={k} b={g} ctx={ctx} idx={`${id}x${k}`} title={p.head.title} />
+            <Special
+              key={k}
+              b={g}
+              ctx={ctx}
+              idx={`${id}x${k}`}
+              title={p.head.title}
+            />
           ),
         )}
       </div>
@@ -827,9 +1210,26 @@ function PartView({ p, i, ctx, photo, textIdx = 0 }: { p: Part; i: number; ctx: 
 
 /** Content that needs the full width (grids, galleries, steps…). */
 const isWide = (blocks: Block[]) =>
-  blocks.some((b) => b.t === "gallery" || b.t === "steps" || b.t === "stats" || b.t === "marquee" || b.t === "faq" || b.t === "reviews" || (b.t === "cards" && b.items.length > 3) || townList(b));
+  blocks.some(
+    (b) =>
+      b.t === "gallery" ||
+      b.t === "steps" ||
+      b.t === "stats" ||
+      b.t === "marquee" ||
+      b.t === "faq" ||
+      b.t === "reviews" ||
+      (b.t === "cards" && b.items.length > 3) ||
+      townList(b),
+  );
 
-const blockLen = (b: Block): number => (b.t === "p" ? inlinePlain(b.c).length : b.t === "ul" || b.t === "ol" ? b.items.reduce((n, it) => n + inlinePlain(it).length, 0) : b.t === "h" ? b.text.length : 40);
+const blockLen = (b: Block): number =>
+  b.t === "p"
+    ? inlinePlain(b.c).length
+    : b.t === "ul" || b.t === "ol"
+      ? b.items.reduce((n, it) => n + inlinePlain(it).length, 0)
+      : b.t === "h"
+        ? b.text.length
+        : 40;
 
 /** Consecutive prose blocks grouped, special blocks on their own. */
 function groupProse(blocks: Block[]): (Block[] | Block)[] {
@@ -846,27 +1246,64 @@ function groupProse(blocks: Block[]): (Block[] | Block)[] {
 
 /* ───────────── hero ───────────── */
 
-function Hero({ n, ctx, crumbs, image, formService, price, formHero }: { n: ReturnType<typeof normalize>; ctx: Ctx; crumbs: { label: string; href: string }[]; image: ImageT; formService?: string; price?: string; formHero: boolean }) {
-  const ctas = n.ctas.length ? n.ctas : [{ label: "Get a free quote", href: "/contact/" }];
-  const primary = ctas.find((c) => !c.href.startsWith("tel:")) ?? { label: "Get a free quote", href: "/contact/" };
+function Hero({
+  n,
+  ctx,
+  crumbs,
+  image,
+  formService,
+  price,
+  formHero,
+}: {
+  n: ReturnType<typeof normalize>;
+  ctx: Ctx;
+  crumbs: { label: string; href: string }[];
+  image: ImageT;
+  formService?: string;
+  price?: string;
+  formHero: boolean;
+}) {
+  const ctas = n.ctas.length
+    ? n.ctas
+    : [{ label: "Get a free quote", href: "/contact/" }];
+  const primary = ctas.find((c) => !c.href.startsWith("tel:")) ?? {
+    label: "Get a free quote",
+    href: "/contact/",
+  };
   const extra = ctas.filter((c) => c !== primary && !c.href.startsWith("tel:"));
   if (formHero) {
     return (
       <section className="hero-home hero-ads">
         <div className="bg parallax">
-          <Image src={image.src} alt={image.alt} fill sizes="100vw" quality={55} preload fetchPriority="high" className="object-cover" />
+          <Image
+            src={image.src}
+            alt={image.alt}
+            fill
+            sizes="100vw"
+            quality={55}
+            preload
+            fetchPriority="high"
+            className="object-cover"
+          />
         </div>
         <div className="wrap">
           <div className="stack-lg">
             {ctx.variant !== "ads" ? <Breadcrumbs crumbs={crumbs} /> : null}
             {n.eyebrow ? (
-              <div className="pill-row intro" style={{ "--d": "0ms" } as React.CSSProperties}>
+              <div
+                className="pill-row intro"
+                style={{ "--d": "0ms" } as React.CSSProperties}
+              >
                 <span className="gpill">{n.eyebrow}</span>
               </div>
             ) : (
-              <div className="pill-row intro" style={{ "--d": "0ms" } as React.CSSProperties}>
+              <div
+                className="pill-row intro"
+                style={{ "--d": "0ms" } as React.CSSProperties}
+              >
                 <span className="gpill">
-                  <Icon name="star" /> {site.rating.display} rating · {site.rating.countDisplay}+ Google reviews
+                  <Icon name="star" /> {site.rating.display} rating ·{" "}
+                  {site.rating.countDisplay}+ Google reviews
                 </span>
                 <span className="gpill">
                   <Icon name="clock" /> Same-day pickup
@@ -877,28 +1314,49 @@ function Hero({ n, ctx, crumbs, image, formService, price, formHero }: { n: Retu
               <WordReveal text={n.h1} />
             </h1>
             {n.lead.map((l, k) => (
-              <p key={k} className={k === 0 ? "lead intro" : "intro"} style={{ "--d": `${450 + k * 80}ms` } as React.CSSProperties}>
+              <p
+                key={k}
+                className={k === 0 ? "lead intro" : "intro"}
+                style={{ "--d": `${450 + k * 80}ms` } as React.CSSProperties}
+              >
                 {renderInline(l, `lead${k}`)}
               </p>
             ))}
             {n.trust.length ? (
-              <ul className="ticks intro" style={{ "--d": "560ms" } as React.CSSProperties}>
+              <ul
+                className="ticks intro"
+                style={{ "--d": "560ms" } as React.CSSProperties}
+              >
                 {n.trust.map((t) => (
                   <li key={t}>{t}</li>
                 ))}
               </ul>
             ) : null}
-            <div className="btn-row intro" style={{ "--d": "600ms" } as React.CSSProperties}>
+            <div
+              className="btn-row intro"
+              style={{ "--d": "600ms" } as React.CSSProperties}
+            >
               <Link className="btn btn-primary" href={ctx.formAnchor}>
                 {primary.label}
               </Link>
-              <a className="btn btn-ghost btn-glass" href={`tel:${site.phone.tel}`} data-track="phone">
+              <a
+                className="btn btn-ghost btn-glass"
+                href={`tel:${site.phone.tel}`}
+                data-track="phone"
+              >
                 <Icon name="phone" /> {site.phone.display}
               </a>
             </div>
           </div>
-          <div className="qcard qcard-form intro" style={{ "--d": "700ms" } as React.CSSProperties}>
-            <QuoteForm compact formType={ctx.variant === "ads" ? "landing" : "quote"} service={formService} />
+          <div
+            className="qcard qcard-form intro"
+            style={{ "--d": "700ms" } as React.CSSProperties}
+          >
+            <QuoteForm
+              compact
+              formType={ctx.variant === "ads" ? "landing" : "quote"}
+              service={formService}
+            />
           </div>
         </div>
       </section>
@@ -929,7 +1387,11 @@ function Hero({ n, ctx, crumbs, image, formService, price, formHero }: { n: Retu
             <Link className="btn btn-primary" href={ctx.formAnchor}>
               {primary.label}
             </Link>
-            <a className="btn btn-ghost" href={`tel:${site.phone.tel}`} data-track="phone">
+            <a
+              className="btn btn-ghost"
+              href={`tel:${site.phone.tel}`}
+              data-track="phone"
+            >
               <Icon name="phone" /> {site.phone.display}
             </a>
           </div>
@@ -964,15 +1426,34 @@ export type AutoPageProps = {
   formHero?: boolean;
   /** Content right under the hero (category pages: the category's services). */
   afterHero?: ReactNode;
+  /** Item names already listed elsewhere on the page (e.g. afterHero cards): old lists repeating them are dropped. */
+  listed?: string[];
 };
 
 export { iconFor };
 
-export function AutoPage({ doc, variant, calm, formService, jsonLd, summary, price, after, afterHero, related = [], formHero = variant === "ads" }: AutoPageProps) {
+export function AutoPage({
+  doc,
+  variant,
+  calm,
+  formService,
+  jsonLd,
+  summary,
+  price,
+  after,
+  afterHero,
+  listed,
+  related = [],
+  formHero = variant === "ads",
+}: AutoPageProps) {
   const n = normalize(doc);
+  n.parts = dropRepeatedLists(n.parts, listed);
   const ctx: Ctx = { variant, formAnchor: "#quote-form" };
   const crumbs = breadcrumbs(doc);
-  const heroImage = n.heroImage ?? { src: IMG[FALLBACK[variant]], alt: `Live Junk Free crew — ${doc.h1}` };
+  const heroImage = n.heroImage ?? {
+    src: IMG[FALLBACK[variant]],
+    alt: `Live Junk Free crew — ${doc.h1}`,
+  };
   // Photos for text-only sections: the page's own unused photos, every other section.
   // Photos of wide sections can't sit beside the content: they go to the pool for other sections.
   for (const p of n.parts) {
@@ -986,9 +1467,19 @@ export function AutoPage({ doc, variant, calm, formService, jsonLd, summary, pri
   let crewUsed = 0;
   const seed = [...doc.path].reduce((a, c) => a + c.charCodeAt(0), 0);
   const shown = new Set<string>(
-    [n.heroImage?.src, ...n.parts.map((p) => p.image?.src), ...n.parts.flatMap((p) => p.blocks.flatMap((b) => (b.t === "img" ? [b.image.src] : b.t === "gallery" ? b.images.map((x) => x.src) : [])))].filter(
-      (x): x is string => !!x,
-    ),
+    [
+      n.heroImage?.src,
+      ...n.parts.map((p) => p.image?.src),
+      ...n.parts.flatMap((p) =>
+        p.blocks.flatMap((b) =>
+          b.t === "img"
+            ? [b.image.src]
+            : b.t === "gallery"
+              ? b.images.map((x) => x.src)
+              : [],
+        ),
+      ),
+    ].filter((x): x is string => !!x),
   );
   if (!n.heroImage) shown.add(IMG[FALLBACK[variant]]);
   const photos = n.parts.map((p) => {
@@ -999,11 +1490,14 @@ export function AutoPage({ doc, variant, calm, formService, jsonLd, summary, pri
     if (p.image || !p.blocks.every((b) => PROSE.has(b.t))) return undefined;
     const [, subs] = subsections(p.blocks);
     if (subs.length >= 2) return undefined;
-    if (textOnly++ % 2) return undefined;
+    // Long text sections always get a photo (a wide text band with empty space beside it looks unfinished).
+    const long =
+      p.head.title && p.blocks.reduce((t, b) => t + blockLen(b), 0) >= 600;
+    if (textOnly++ % 2 && !long) return undefined;
     const k = pool.findIndex((im) => widthOf(im) >= 560);
     if (k !== -1) return pool.splice(k, 1)[0];
     // No photos of its own left: one of the crew photos from livejunkfree.ca, every 4th text section.
-    if ((textOnly - 1) % 4) return undefined;
+    if ((textOnly - 1) % 4 && !long) return undefined;
     // Never a crew photo the page already shows (hero, a section, or an earlier pick).
     for (let tries = 0; tries < CREW.length; tries++) {
       const key = CREW[(seed + crewUsed++) % CREW.length];
@@ -1019,18 +1513,44 @@ export function AutoPage({ doc, variant, calm, formService, jsonLd, summary, pri
   const textIdx: number[] = [];
   for (let i = 0, run = 0; i < n.parts.length; i++) {
     const p = n.parts[i];
-    const plain = !p.group && !p.image && !photos[i] && p.blocks.every((b) => PROSE.has(b.t)) && subsections(p.blocks)[1].length < 2;
+    const plain =
+      !p.group &&
+      !p.image &&
+      !photos[i] &&
+      p.blocks.every((b) => PROSE.has(b.t)) &&
+      subsections(p.blocks)[1].length < 2;
     textIdx.push(plain ? run : 0);
     run = plain ? run + 1 : 0;
   }
-  const titles = new Set(n.parts.map((p) => p.head.title?.trim().toLowerCase()).filter(Boolean));
-  const bandOwn = n.quote.title && !titles.has(n.quote.title.trim().toLowerCase());
-  const band = { h: bandOwn ? n.quote.title! : CTA_DEFAULT.h, p: bandOwn ? (n.quote.text ?? CTA_DEFAULT.p) : CTA_DEFAULT.p };
-  related = related.filter((r) => !titles.has(r.title.trim().toLowerCase()) && !(r.title.toLowerCase().includes("areas") && n.parts.some((p) => p.blocks.some((b) => townList(b)))));
+  const titles = new Set(
+    n.parts.map((p) => p.head.title?.trim().toLowerCase()).filter(Boolean),
+  );
+  const bandOwn =
+    n.quote.title && !titles.has(n.quote.title.trim().toLowerCase());
+  const band = {
+    h: bandOwn ? n.quote.title! : CTA_DEFAULT.h,
+    p: bandOwn ? (n.quote.text ?? CTA_DEFAULT.p) : CTA_DEFAULT.p,
+  };
+  related = related.filter(
+    (r) =>
+      !titles.has(r.title.trim().toLowerCase()) &&
+      !(
+        r.title.toLowerCase().includes("areas") &&
+        n.parts.some((p) => p.blocks.some((b) => townList(b)))
+      ),
+  );
   return (
     <PageShell calm={calm} minimal={variant === "ads"} quoteHref="#quote-form">
       {jsonLd ? <JsonLd data={jsonLd} /> : null}
-      <Hero n={n} ctx={ctx} crumbs={crumbs} image={heroImage} formService={formService} price={price} formHero={formHero} />
+      <Hero
+        n={n}
+        ctx={ctx}
+        crumbs={crumbs}
+        image={heroImage}
+        formService={formService}
+        price={price}
+        formHero={formHero}
+      />
       {n.stats ? (
         <section className="sec tight white">
           <div className="wrap">
@@ -1041,7 +1561,14 @@ export function AutoPage({ doc, variant, calm, formService, jsonLd, summary, pri
       {afterHero}
       {summary?.length ? <SummaryBox sentences={summary} /> : null}
       {n.parts.map((p, i) => (
-        <PartView key={i} p={p} i={i} ctx={ctx} photo={photos[i]} textIdx={textIdx[i]} />
+        <PartView
+          key={i}
+          p={p}
+          i={i}
+          ctx={ctx}
+          photo={photos[i]}
+          textIdx={textIdx[i]}
+        />
       ))}
       {leftover.length >= 2 ? (
         <section className={n.parts.length % 2 === 0 ? "sec white" : "sec"}>
@@ -1076,7 +1603,11 @@ export function AutoPage({ doc, variant, calm, formService, jsonLd, summary, pri
             <p className="lead">{band.p}</p>
             <div>
               <p className="muted small">{CTA_DEFAULT.callLabel}</p>
-              <a className="callbig" href={`tel:${site.phone.tel}`} data-track="phone">
+              <a
+                className="callbig"
+                href={`tel:${site.phone.tel}`}
+                data-track="phone"
+              >
                 {site.phone.display}
               </a>
             </div>
@@ -1089,9 +1620,17 @@ export function AutoPage({ doc, variant, calm, formService, jsonLd, summary, pri
           </div>
           <div className="formbox">
             {formHero ? (
-              <QuoteForm title="Request your free quote" formType={variant === "ads" ? "landing" : "quote"} service={formService} id="quote-form-2" />
+              <QuoteForm
+                title="Request your free quote"
+                formType={variant === "ads" ? "landing" : "quote"}
+                service={formService}
+                id="quote-form-2"
+              />
             ) : (
-              <QuoteForm title="Request your free quote" service={formService} />
+              <QuoteForm
+                title="Request your free quote"
+                service={formService}
+              />
             )}
           </div>
         </div>

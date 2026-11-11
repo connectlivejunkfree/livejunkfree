@@ -106,6 +106,7 @@ export function ServiceHub({ doc }: { doc: PageDoc }) {
       doc={doc}
       variant="hub"
       jsonLd={graph(breadcrumbNode(crumbs))}
+      listed={children.map((c) => c.label)}
       afterHero={
         children.length ? (
           <section className="sec white">
