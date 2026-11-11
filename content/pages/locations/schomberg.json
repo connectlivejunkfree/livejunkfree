@@ -1,0 +1,652 @@
+{
+ "id": 14610,
+ "kind": "page",
+ "path": "/locations/schomberg/",
+ "type": "location-town",
+ "template": "TownHub",
+ "seo": {
+  "title": "Junk Removal Schomberg, ON | Same-Day Service & Free Estimates",
+  "description": "Need junk removal in Schomberg, ON? Live Junk Free offers same-day junk removal, barn cleanouts, furniture removal, farm property cleanouts & free estimates.",
+  "canonical": "https://livejunkfree.ca/locations/schomberg/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+ },
+ "title": "Schomberg",
+ "h1": "Junk Removal Services in Schomberg — Small-Town Service Done Right",
+ "published": "2026-06-05T06:18:03",
+ "modified": "2026-06-06T06:27:52",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "checks",
+     "items": [
+      "Our Service Areas"
+     ]
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Junk Removal Services in Schomberg — Small-Town Service Done Right"
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Frame-1000005909-1.png",
+      "alt": "Frame 1000005909 1",
+      "width": 800,
+      "height": 65
+     }
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "a": "/contact/",
+       "c": [
+        "Live Junk Free "
+       ]
+      },
+      "is a locally operated junk removal team that has earned its reputation across King Township and York Region by doing one thing consistently: small-town service done right. We come to your Schomberg property, walk through everything in person, give you a completely free on-site estimate before touching a single item, and if you’re happy with the price, your junk is cleared the same day."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "marquee",
+     "items": [
+      "House Cleanouts",
+      "Fence Removal",
+      "Shed Demolition",
+      "Yard Waste",
+      "Retail Cleanout",
+      "Wall Demolition",
+      "Deck Demolition"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-2.png",
+      "alt": "Background 2",
+      "width": 590,
+      "height": 500
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-3.png",
+      "alt": "Background 3",
+      "width": 590,
+      "height": 500
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Across Schomberg and King Township — We're the Team People Recommend"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We are not a franchise. We don't pay royalties to a head office that's never set foot in Schomberg. We are a locally owned, fully insured junk removal team that genuinely understands the King Township community — and we price every job the same way, regardless of property type: by volume, fairly, with complete transparency."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "No Hidden Fees",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The number we hand you on-site is the complete cost. Labour, truck, fuel, disposal — everything is inside that one number. There are no line items waiting to appear after you've approved the quote. There is no \"rural access fee\" for Schomberg or King Township properties. There is no \"distance charge\" because you're north of the 400. One number, everything covered, no exceptions."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "02",
+       "title": "No Surprises",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We do not guess over the phone. We do not give online estimates based on your description. We physically come to your Schomberg or King Township property, walk through every area you need cleared — home, barn, outbuilding, garage, basement, rural lot — and calculate an accurate price based on what we actually see. No surprises, because there are no assumptions."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "03",
+       "title": "Volume-Based Pricing",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Schomberg properties range from small residential lots to large rural farms with multiple outbuildings. Volume-based pricing means your quote scales accurately and fairly with the actual job — small job, small price; large farm clearance, fair price for the volume involved. The calculation is always the same."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "04",
+       "title": "You Approve it Before We Touch a Thing",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Once we've walked the property and calculated the quote, we hand it to you. You review it. If it works, we start immediately. If it doesn't, you owe us nothing and we leave. Zero pressure. Zero obligation. Your decision, your timeline."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "05",
+       "title": "The Price You Approve is the Price on Your Invoice",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Once you've said yes, that number is locked. It doesn't increase because the barn took longer to clear than expected. It doesn't gain extra charges because we found more equipment than we anticipated. Approved is final. Always."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "06",
+       "title": "30–50% less than franchise competitors",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "No franchise royalties means Schomberg and King Township customers pay significantly less than they would with national chains — for better service from a team that actually knows this area."
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Honest Junk Removal Pricing in Schombergl — No Hidden Fees, No Surprises"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Fair Quotes, No Hourly Games"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Our pricing model is built to meet that expectation fully: honest, upfront and completely free of hidden fees or surprise charges. Prices start as low as {{cad_125}} for small loads. Book your free Schomberg junk removal estimate today — honest pricing, no hidden fees, no surprises."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Wide Service Area"
+      },
+      {
+       "title": "Local Expertise"
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-4.png",
+      "alt": "Background 4",
+      "width": 458,
+      "height": 237
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "You Point to the Junk, We'll Take Care of the Rest"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The simplest junk removal process in King Township — and possibly all of York Region. You point to what needs to go. We take care of every single thing that happens after. Here's our complete 4-step same-day junk removal process in Schomberg, Ontario — from your first call to a cleared, clean space:"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Book Your Pickup",
+       "text": [
+        "Call +1 647 922 5865 or book online in minutes. We'll confirm your same-day or next-day appointment and provide a 30-minute arrival call before we arrive."
+       ]
+      },
+      {
+       "title": "Receive a Fair, Upfront Quote",
+       "text": [
+        "Show us what needs to go, and we'll provide one clear, all-inclusive price. No hidden fees, no surprises, and no obligation to proceed."
+       ]
+      },
+      {
+       "title": "We Handle All the Heavy Lifting",
+       "text": [
+        "Once approved, our crew removes everything from furniture and appliances to barn contents, renovation debris, and yard waste. You don't lift a finger."
+       ]
+      },
+      {
+       "title": "Enjoy a Clean, Clutter-Free Property",
+       "text": [
+        "We complete a final walkthrough, sweep the area clean, and sort items responsibly through donation, recycling, and proper disposal."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "From Barn Cleanouts to Basement Cleanups — We've Got Schomberg Covered"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Schomberg and King Township represent some of the most unique and varied property types in all of York Region — heritage farm properties with multiple barns and outbuildings, established rural homes on large lots, newer residential properties in Schomberg's growing residential areas, and a local business community along Schomberg's main commercial corridor. Live Junk Free covers every single one of these property types — from the biggest barn cleanout on a King Township concession road to the smallest basement cleanup on a Schomberg residential street. Here's everything we handle:"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Barn, Farm & Rural Property Cleanouts in Schomberg",
+       "a": [
+        [
+         "Barn cleanouts and rural property clearing are the junk removal jobs that most companies in York Region either won’t take or charge a premium for. We do them regularly, properly and at the same fair volume-based price as any other job."
+        ],
+        [
+         "Barn cleanout Schomberg Ontario — full barn clearing, old equipment, lumber, scrap"
+        ],
+        [
+         "Farm property cleanout Schomberg — multiple outbuildings, large lot clearing"
+        ],
+        [
+         "Agricultural equipment removal Schomberg — old tractors, implements, machinery"
+        ],
+        [
+         "Outbuilding cleanout Schomberg — coach houses, workshops, storage sheds"
+        ],
+        [
+         "Scrap metal removal Schomberg Ontario"
+        ],
+        [
+         "Old farm equipment removal King Township"
+        ],
+        [
+         "Shed demolition and removal Schomberg"
+        ],
+        [
+         "Fence removal Schomberg Ontario"
+        ],
+        [
+         "Large rural debris removal King Township"
+        ],
+        [
+         "Equestrian property cleanout Schomberg — tack, equipment, barn contents"
+        ]
+       ]
+      },
+      {
+       "q": "Residential Junk Removal in Schomberg",
+       "a": [
+        [
+         "Complete residential junk removal for every home type across Schomberg and King Township."
+        ],
+        [
+         "Furniture removal Schomberg — sofas, beds, dressers, dining sets, chairs"
+        ],
+        [
+         "Appliance removal Schomberg — fridges, washers, dryers, stoves, dishwashers"
+        ],
+        [
+         "Garage cleanout Schomberg — tools, seasonal storage, accumulated clutter"
+        ],
+        [
+         "Basement cleanout Schomberg — deep storage, old furniture, boxes, e-waste"
+        ],
+        [
+         "Attic cleanout Schomberg — forgotten storage, old boxes, debris"
+        ],
+        [
+         "Mattress removal Schomberg"
+        ],
+        [
+         "Hot tub and spa removal Schomberg"
+        ],
+        [
+         "Exercise equipment removal Schomberg"
+        ],
+        [
+         "Yard waste removal Schomberg — branches, garden waste, outdoor furniture"
+        ],
+        [
+         "Estate cleanout Schomberg — full property clearing handled with care"
+        ],
+        [
+         "Senior home cleanout Schomberg — compassionate, patient, stress-free"
+        ],
+        [
+         "Hoarding cleanout Schomberg — non-judgmental, thorough, discreet"
+        ],
+        [
+         "Move-in / move-out junk removal Schomberg"
+        ],
+        [
+         "E-waste and electronics removal Schomberg"
+        ]
+       ]
+      },
+      {
+       "q": "Renovation & Construction Debris Removal Schomberg",
+       "a": [
+        [
+         "Renovation debris removal Schomberg — drywall, flooring, tiles, fixtures"
+        ],
+        [
+         "Post-renovation cleanout Schomberg"
+        ],
+        [
+         "Heritage home renovation debris Schomberg"
+        ],
+        [
+         "Construction waste removal Schomberg"
+        ],
+        [
+         "Kitchen renovation debris removal Schomberg"
+        ],
+        [
+         "Bathroom renovation cleanout Schomberg"
+        ],
+        [
+         "Deck demolition and removal Schomberg"
+        ],
+        [
+         "Shed demolition Schomberg ON"
+        ]
+       ]
+      },
+      {
+       "q": "Commercial Junk Removal in Schomberg",
+       "a": [
+        [
+         "Schomberg’s local businesses, commercial properties and King Township enterprises trust Live Junk Free for professional, discreet commercial cleanouts."
+        ],
+        [
+         "Office furniture removal Schomberg"
+        ],
+        [
+         "Commercial junk removal Schomberg Ontario"
+        ],
+        [
+         "Retail store cleanout Schomberg"
+        ],
+        [
+         "Restaurant equipment removal Schomberg"
+        ],
+        [
+         "Warehouse cleanout Schomberg"
+        ],
+        [
+         "Landlord junk removal Schomberg — tenant turnover, abandoned items"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "All Areas We Serve in & Around Schomberg"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We cover all of King Township and surrounding York Region and Simcoe County areas:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ]
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "- Recent Reviews -"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Read what our past customers say"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions About Junk Removal in Schomberg, ON"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Q: How much does junk removal cost in Schomberg, Ontario?",
+       "a": [
+        [
+         "A: Our Schomberg junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour. There are no hidden fees, no rural surcharges for King Township properties and no travel premiums. Prices start at $125 for small loads. We provide a free on-site estimate before any work begins — the price you approve is the exact price you pay."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you offer same-day junk removal in Schomberg?C",
+       "a": [
+        [
+         "A: Yes — same-day junk removal is available across Schomberg, King Township, Nobleton, Bond Head and surrounding York Region communities. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you handle barn and farm property cleanouts in Schomberg?",
+       "a": [
+        [
+         "A: Absolutely — barn cleanouts and rural farm property clearing across Schomberg and King Township are one of our most requested and most specialised services. We handle full barn clearing, agricultural equipment removal, outbuilding cleanouts, scrap metal removal and large rural lot clearing — no job too big, no location too remote."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you charge extra for rural properties in King Township?",
+       "a": [
+        [
+         "A: Never. Every Schomberg and King Township property is priced the same way — by the volume of junk we remove. Rural properties, large farm lots, properties on concession roads — none of these attract a surcharge or premium. Volume in, fair price out. That’s the only calculation we use."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Which King Township communities do you serve?",
+       "a": [
+        [
+         "A: We serve all of King Township including Schomberg, Nobleton, King City, Bond Head, Kettleby, Lloydtown, Pottageville and Laskay — plus surrounding communities including Aurora, Newmarket, Vaughan and Caledon."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Are you a local Schomberg company or a franchise?",
+       "a": [
+        [
+         "A: We are 100% locally owned and operated — not a national franchise. No franchise royalties means our Schomberg and King Township pricing is consistently 30–50% lower than national junk removal chains for the exact same quality of service."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you remove renovation debris in Schomberg?",
+       "a": [
+        [
+         "A: Yes — renovation debris removal including heritage home renovation waste is a regular service in Schomberg. Drywall, flooring, tiles, fixtures — we remove it all cleanly so your renovation stays on schedule."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

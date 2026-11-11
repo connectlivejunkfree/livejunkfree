@@ -1,0 +1,632 @@
+{
+ "id": 16227,
+ "kind": "page",
+ "path": "/services/residential-junk-removal-services/dirt-removal-services/",
+ "type": "service",
+ "template": "ItemRemoval",
+ "seo": {
+  "title": "Dirt Removal Services - Live JunkFree",
+  "description": "Remove unwanted dirt piles easily with Live Junk Free’s dirt hauling and outdoor cleanup services in the Greater Toronto Area. Book now for hassle-free cleanup.",
+  "canonical": "https://livejunkfree.ca/services/residential-junk-removal-services/dirt-removal-services/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/07/dirt-removal-services_before.jpg_202607151236.jpeg"
+ },
+ "title": "Dirt Removal Services",
+ "h1": "Most Trusted Residential Dirt Removal in Your Area",
+ "published": "2026-07-09T04:22:36",
+ "modified": "2026-07-23T06:24:56",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Most Trusted Residential Dirt Removal in Your Area"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We are the best in town."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Trusted by people of the Greater Toronto Area"
+      },
+      {
+       "title": "Insured, uniformed, and respectful crew"
+      },
+      {
+       "title": "Rated 5.0 on Google by 780+ customers"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Professional Dirt Removal Services"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We provide a quick, hassle-free solution to remove unwanted dirt, soil, and debris from your property, with absolutely no heavy lifting required on your part. Whether it’s from landscaping projects, construction sites, or property cleanups, we handle it all efficiently."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Here’s how our dirt removal service works: First, we give you a free, transparent quote with no hidden charges. Once you approve, our professional crew arrives at your scheduled time to carefully remove the dirt, clean the area, and haul everything away properly. Most standard dirt removal jobs are completed in under an hour."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Environmental responsibility is important to us. We don’t just dump the dirt – we sort and repurpose clean fill whenever possible, and ensure proper disposal of contaminated materials. Our trained team takes every precaution, using protective equipment to safeguard your property during the removal process."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Your Removal Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/dirt-removal-services_before.jpg_202607151236-1024x765.jpeg",
+      "alt": "dirt-removal-services",
+      "width": 800,
+      "height": 598
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book Your Dirt Removal & Unlock Exclusive Discounts"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our professional dirt removal service starts at just {{cad_125}}, and we handle everything for you. We’ll remove soil, debris, and construction waste from any location on your property – and leave the area completely clean."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "While our trained team works, you can relax knowing we’re clearing your space quickly and safely. In no time, you’ll have a clean slate ready for landscaping, construction, or whatever project comes next, with simple, stress-free dirt removal."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Ready to reclaim your outdoor space? ",
+      {
+       "a": "tel:+16479225865",
+       "c": [
+        "Call now"
+       ]
+      },
+      " at +1 647 922 5865 or book online."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "We answer calls in 1 minute."
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Dirt Gone Today – Same-Day Removal Services"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Digging heavy dirt piles alone is exhausting work, especially with large volumes or tough terrain. That’s why our professional service delivers when you need it most."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Whether you’re landscaping, renovating, or just clearing out years of accumulated debris, our same-day service means no frustrating delays. Don’t risk injury or property damage; our licensed team handles dirt removal safely every day."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Why struggle with wheelbarrows and shovels? Our fully licensed and insured professionals provide complete residential and commercial dirt removal:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Safe removal of all soil types (topsoil, clay, construction fill, etc.)"
+      ],
+      [
+       "Expert handling of large-volume or hard-to-reach debris"
+      ],
+      [
+       "Eco-conscious disposal with clean fill recycling"
+      ],
+      [
+       "Thorough site cleanup after removal"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Need Dirt Gone Urgently? Same-Day Removal Available."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Live Junk Free is Your Best Bet for Dirt Removal Services"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Schedule When It Works For You:",
+       "text": [
+        "Choose same-day, next-day, or weekend dirt removal with no rush charges. We’ll coordinate with your schedule to find the most convenient time for your project."
+       ]
+      },
+      {
+       "title": "Eco-Conscious Disposal:",
+       "text": [
+        "We responsibly recycle clean fill and soil, diverting reusable materials to community projects and properly processing contaminated earth. It’s better for our neighborhoods and environment."
+       ]
+      },
+      {
+       "title": "Book in Just 60 Seconds:",
+       "text": [
+        "Get on our schedule instantly through our website or by phone – no lengthy wait times or complicated forms to complete."
+       ]
+      },
+      {
+       "title": "Rapid, Efficient Service:",
+       "text": [
+        "What would take you days of shoveling, we can typically complete in 1-2 hours, including full removal, hauling, and site cleanup."
+       ]
+      },
+      {
+       "title": "Transparent Pricing:",
+       "text": [
+        "Your upfront quote covers everything, with no hidden fees for difficult access, heavy materials, or disposal costs."
+       ]
+      },
+      {
+       "title": "Property Protection Guaranteed",
+       "text": [
+        "Advanced techniques safeguard your landscaping and hardscapes during removal"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What to Expect from Our Dirt Removal Service"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "You’ll love how effortlessly we make dirt removal!"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "We clear soil and debris from anywhere on your property – tight backyard corners, sloped areas, or large open spaces. Our crews take extreme care to protect your landscaping and surfaces during removal."
+      ],
+      [
+       "It doesn’t matter what type of dirt or debris you need removed – from light topsoil to heavy clay, from clean fill to construction rubble. We have the proper equipment and expertise to handle all kinds of earth materials safely and efficiently."
+      ],
+      [
+       "The best part? You don’t lift a finger! We do all the heavy shoveling and hauling. When we’re done, your space will be clean and level, ready for new projects or simply enjoying your clutter-free property."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Eco-Conscious Dirt Removal & Sustainable Solutions"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We protect our environment by ensuring your dirt and debris is handled responsibly:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "We recycle clean fill and reusable soil for community projects"
+      ],
+      [
+       "We properly process and dispose of contaminated materials at licensed facilities"
+      ],
+      [
+       "We minimize landfill waste through sustainable sorting"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Get Instant Pricing – Transparent & Fair Quotes Every Time!"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Straightforward pricing with no hidden fees or surprise charges"
+      ],
+      [
+       "Free immediate estimates available by phone, text, or online form"
+      ],
+      [
+       "Special discounted rates for large-volume dirt removal and commercial projects"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Types of Dirt & Debris We Remove"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we specialize in removing all types of earth materials and construction debris from residential and commercial properties, including:"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Landscape Materials:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Topsoil and garden soil"
+      ],
+      [
+       "Sod and turf remnants"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Construction Debris:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Excavation dirt and clean fill"
+      ],
+      [
+       "Concrete fragments and rubble"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Specialty Waste:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Contaminated soil (properly contained)"
+      ],
+      [
+       "Pool backfill materials"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Bulk Items:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Large-volume dirt piles"
+      ],
+      [
+       "Retaining wall backfill"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Quick & Clean: Our 4-Step Dirt Cleanup Process"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Share Your Project Details",
+       "text": [
+        "Simply describe or send photos of your dirt/debris pile and we'll respond immediately with a solution."
+       ]
+      },
+      {
+       "title": "Get a Quote",
+       "text": [
+        "Receive an honest, upfront price with no hidden fees - guaranteed."
+       ]
+      },
+      {
+       "title": "Select Your Preferred Time",
+       "text": [
+        "Choose same-day or scheduled removal at your convenience - we work around your timeline."
+       ]
+      },
+      {
+       "title": "We Handle Everything",
+       "text": [
+        "Our professional team arrives, removes all dirt/debris, and leaves your property clean, typically in under 1 hour."
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Before & After"
+    },
+    {
+     "t": "p",
+     "c": [
+      "See the transformation we deliver – from cluttered yards to clean, usable spaces. Check out our real dirt removal projects in action."
+     ]
+    },
+    {
+     "t": "gallery",
+     "images": [
+      {
+       "src": "/images/uploads/2026/07/dirt-removal-services_before.jpg_202607151231-1024x765.jpeg",
+       "alt": "dirt-removal-services-before"
+      },
+      {
+       "src": "/images/uploads/2026/07/dirt-removal-services_before.jpg_202607151232-1024x765.jpeg",
+       "alt": "dirt-removal-services-after"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "FAQs – Dirt Removal"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Do you remove all types of dirt, including construction debris?",
+       "a": [
+        [
+         "Yes, we remove all dirt types, topsoil, clay, sand, clean fill, and construction debris. Our team is equipped for residential and commercial projects of any complexity."
+        ]
+       ]
+      },
+      {
+       "q": "How much does dirt removal cost?",
+       "a": [
+        [
+         "Prices start at $125 for basic removal. Larger quantities get volume discounts. Get free exact pricing by sharing project details via text/photo. No hidden fees, the quote includes labor, hauling, and disposal."
+        ]
+       ]
+      },
+      {
+       "q": "What areas do you serve for dirt removal?",
+       "a": [
+        [
+         "We cover the Greater Toronto Area. Contact us to confirm service for your specific address. Same-day availability varies by location."
+        ]
+       ]
+      },
+      {
+       "q": "Can I schedule a same-day dirt removal service?",
+       "a": [
+        [
+         "Yes! Same-day service is available for urgent projects, subject to crew availability. Weekend appointments are offered at no extra cost."
+        ]
+       ]
+      },
+      {
+       "q": "Do you handle large quantities of dirt removal?",
+       "a": [
+        [
+         "Absolutely. Our teams handle small garden cleanouts to construction-scale projects. Special equipment ensures efficient removal for bulk quantities. Just ask about our excavator and dump truck services."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What People Say About Us"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Areas We Serve"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ],
+      [
+       "Stouffville"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

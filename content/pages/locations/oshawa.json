@@ -1,0 +1,666 @@
+{
+ "id": 13943,
+ "kind": "page",
+ "path": "/locations/oshawa/",
+ "type": "location-town",
+ "template": "TownHub",
+ "seo": {
+  "title": "Junk Removal Oshawa | Same-Day Junk Removal Services",
+  "description": "Looking for reliable junk removal in Oshawa? Live Junk Free offers fast, affordable, and same-day junk removal services for homes, businesses, and construction cleanups across Durham Region.",
+  "canonical": "https://livejunkfree.ca/locations/oshawa/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Bolton-1.png"
+ },
+ "title": "Oshawa",
+ "h1": "Junk Removal in Oshawa, Ontario — Durham Region's Most Reliable Team Is One Call Away",
+ "published": "2026-05-27T12:42:04",
+ "modified": "2026-05-27T13:07:53",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "checks",
+     "items": [
+      "Our Service Areas"
+     ]
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Junk Removal in Oshawa, Ontario — Durham Region's Most Reliable Team Is One Call Away"
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Frame-1000005909-1.png",
+      "alt": "Frame 1000005909 1",
+      "width": 800,
+      "height": 65
+     }
+    },
+    {
+     "t": "p",
+     "c": [
+      "We are Oshawa’s trusted team for fast, affordable, and professional junk removal services across Durham Region. Whether you need residential junk removal in Oshawa, ",
+      {
+       "a": "/services/commercial-junk-removal-services/",
+       "c": [
+        "commercial junk removal"
+       ]
+      },
+      " in Oshawa, or same day junk removal Oshawa homeowners can rely on, we deliver quick response times, upfront pricing, and stress-free service every time."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "From North Oshawa and Downtown Oshawa to Lakeview, Courtice, Whitby, Ajax, Bowmanville, and Pickering, our trucks are on the road daily helping homeowners, landlords, contractors, and businesses clear unwanted clutter fast. We provide junk hauling services in Oshawa Ontario 7 days a week with flexible scheduling and free estimate junk removal Oshawa residents can trust."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call Now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "marquee",
+     "items": [
+      "House Cleanouts",
+      "Fence Removal",
+      "Shed Demolition",
+      "Yard Waste",
+      "Retail Cleanout",
+      "Wall Demolition",
+      "Deck Demolition"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-2.png",
+      "alt": "Background 2",
+      "width": 590,
+      "height": 500
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-3.png",
+      "alt": "Background 3",
+      "width": 590,
+      "height": 500
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "From North Oshawa to the Waterfront — Every Corner of This City Has Seen Our Truck"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We are not a franchise or a national chain. We are a local junk removal Oshawa Ontario company that understands the needs of homeowners, businesses, contractors, and property managers throughout Durham Region."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "Local Oshawa Crew",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "From junk removal North Oshawa appointments to junk removal Downtown Oshawa projects near the waterfront, our team knows every neighbourhood and responds quickly."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "02",
+       "title": "Free On-Site Estimates",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We provide free estimate junk removal Oshawa customers appreciate because we assess every job in person before pricing it."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "03",
+       "title": "Fair Volume-Based Pricing",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Our junk removal pricing Oshawa system is based on truck space, not hourly labour fees, making it a very affordable junk removal Oshawa option."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "04",
+       "title": "All-Inclusive Quotes",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Labour, loading, transportation, disposal, recycling, and cleanup are included in your upfront quote with no hidden charges."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "05",
+       "title": "Eco Friendly Disposal",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We proudly offer eco friendly junk removal Oshawa residents can feel good about by recycling and donating reusable items whenever possible."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "06",
+       "title": "Same-Day Junk Pickup",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Need fast service? We provide same day junk pickup Oshawa homeowners and businesses can schedule when availability allows."
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "OshawaJunk Removal Priced the Way It Should Be — By the Load, Not By the Hour"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "At Live Junk Free, our pricing model is simple, fair, and transparent. Our junk removal cost Oshawa pricing depends entirely on the amount of truck space your items occupy. Whether you need mattress removal Oshawa service, appliance disposal Oshawa support, or a complete property cleanout Oshawa landlords require, you receive one clear quote before work begins."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Wide Service Area"
+      },
+      {
+       "title": "Local Expertise"
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-4.png",
+      "alt": "Background 4",
+      "width": 458,
+      "height": 237
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Getting Rid of Junk in Oshawa Has Never Taken Less Effort — Here's Our Promise to You"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We’ve created a simple process designed around speed, convenience, and reliability for homeowners and businesses across Durham Region."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Book Your Oshawa Pickup",
+       "text": [
+        "Call us or use our online booking form to schedule same day junk removal Oshawa or next-day service anywhere in Oshawa, Whitby, Ajax, Bowmanville, Courtice, or Pickering."
+       ]
+      },
+      {
+       "title": "Free On-Site Assessment",
+       "text": [
+        "Our crew arrives on time to assess everything you need removed, whether it’s garage cleanout Oshawa jobs, basement cleanout Oshawa projects, attic cleanout Oshawa cleanups, or commercial property cleanup Oshawa services."
+       ]
+      },
+      {
+       "title": "We Remove Everything",
+       "text": [
+        "Our team handles all lifting, loading, hauling, and cleanup. We remove old furniture, appliances, yard waste, renovation debris, office equipment, drywall, flooring materials, and general clutter efficiently and safely."
+       ]
+      },
+      {
+       "title": "Responsible Disposal",
+       "text": [
+        "We sort materials carefully for recycling and donation whenever possible. Our eco friendly junk removal Oshawa process helps reduce landfill waste throughout Durham Region."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Houses, Condos, Warehouses & Everything Durham Region Throws at Us — Oshawa's Junk Removal Experts"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Oshawa’s growing residential communities, industrial spaces, commercial properties, and renovation projects create constant demand for professional junk hauling services Oshawa Ontario residents and businesses can depend on."
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Residential Junk Removal in Oshawa",
+       "a": [
+        [
+         "We provide full-service residential junk removal Oshawa homeowners trust for every type of property."
+        ],
+        [
+         "Furniture removal Oshawa — couches, beds, dressers, dining sets, chairs"
+        ],
+        [
+         "Appliance removal Oshawa Ontario — fridges, washers, dryers, stoves"
+        ],
+        [
+         "Mattress removal Oshawa"
+        ],
+        [
+         "Garage cleanout Oshawa"
+        ],
+        [
+         "Basement cleanout Oshawa"
+        ],
+        [
+         "Attic cleanout Oshawa"
+        ],
+        [
+         "Yard waste removal Oshawa"
+        ],
+        [
+         "Estate cleanout Oshawa"
+        ],
+        [
+         "Hoarding cleanout Oshawa"
+        ],
+        [
+         "Move out junk removal Oshawa"
+        ],
+        [
+         "Appliance disposal Oshawa"
+        ],
+        [
+         "Property cleanout Oshawa"
+        ],
+        [
+         "Furniture removal Newmarket — sofas, sectionals, beds, dressers, dining sets, chairs"
+        ],
+        [
+         "Appliance removal Newmarket — fridges, washers, dryers, stoves, dishwashers, microwaves"
+        ],
+        [
+         "Garage cleanout Newmarket — tools, seasonal storage, clutter, bikes, boxes"
+        ],
+        [
+         "Basement cleanout Newmarket — deep storage, old furniture, e-waste, accumulated junk"
+        ],
+        [
+         "Attic cleanout Newmarket — forgotten storage, old boxes, debris"
+        ],
+        [
+         "Mattress removal Newmarket"
+        ],
+        [
+         "Hot tub and spa removal Newmarket"
+        ],
+        [
+         "Exercise equipment removal Newmarket"
+        ],
+        [
+         "Yard waste removal Newmarket — branches, outdoor furniture, patio clutter, BBQs"
+        ],
+        [
+         "Estate cleanout Newmarket — complete property clearing handled with sensitivity and care"
+        ],
+        [
+         "Senior home cleanout Newmarket — compassionate, patient, stress-free service"
+        ],
+        [
+         "Hoarding cleanout Newmarket — non-judgmental, thorough, discreet"
+        ],
+        [
+         "Move-in / move-out junk removal Newmarket"
+        ],
+        [
+         "E-waste and electronics removal Newmarket"
+        ]
+       ]
+      },
+      {
+       "q": "Commercial & Industrial Junk Removal",
+       "a": [
+        [
+         "Businesses across Durham Region rely on our commercial junk removal Oshawa services for fast and efficient cleanup solutions."
+        ],
+        [
+         "Office furniture removal Oshawa"
+        ],
+        [
+         "Office cleanout Oshawa Ontario"
+        ],
+        [
+         "Warehouse cleanout Oshawa"
+        ],
+        [
+         "Industrial junk removal Oshawa"
+        ],
+        [
+         "Retail store cleanout Oshawa"
+        ],
+        [
+         "Corporate junk removal Oshawa"
+        ],
+        [
+         "Restaurant equipment removal Oshawa"
+        ],
+        [
+         "Commercial property cleanup Oshawa"
+        ]
+       ]
+      },
+      {
+       "q": "Construction & Renovation Debris Removal",
+       "a": [
+        [
+         "Contractors and property owners trust us for renovation debris removal Oshawa and post-construction cleanup projects."
+        ],
+        [
+         "Construction waste removal Oshawa"
+        ],
+        [
+         "Post renovation cleanout Oshawa"
+        ],
+        [
+         "Post construction cleanup Oshawa"
+        ],
+        [
+         "Contractor junk removal Oshawa"
+        ],
+        [
+         "Drywall removal Oshawa"
+        ],
+        [
+         "Flooring disposal Oshawa"
+        ],
+        [
+         "Renovation material hauling"
+        ]
+       ]
+      },
+      {
+       "q": "Light Demolition & Specialty Removal Services",
+       "a": [
+        [
+         "Need structures removed before cleanup begins? We handle light demolition Oshawa Ontario projects safely and efficiently."
+        ],
+        [
+         "Shed demolition Oshawa"
+        ],
+        [
+         "Deck removal Oshawa"
+        ],
+        [
+         "Hot tub removal Oshawa"
+        ],
+        [
+         "Fence removal Oshawa"
+        ],
+        [
+         "Playset removal Oshawa"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "All Areas We Serve in & Around Oshawa"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We proudly serve:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ]
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "- Recent Reviews -"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Read what our past customers say"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions About Junk Removal in Oshawa, ON"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Q: How much does junk removal cost in Oshawa?",
+       "a": [
+        [
+         "A: Our junk removal cost Oshawa pricing is based on volume, meaning you only pay for the amount of truck space your items occupy. We provide free estimate junk removal Oshawa homeowners and businesses can approve before any work begins."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you offer same day junk removal Oshawa services?",
+       "a": [
+        [
+         "A: Yes. We provide same day junk removal Oshawa and same day junk pickup Oshawa appointments whenever scheduling availability allows."
+        ]
+       ]
+      },
+      {
+       "q": "Q: What types of junk do you remove?",
+       "a": [
+        [
+         "A: We remove furniture, appliances, renovation debris, yard waste, office furniture, warehouse junk, drywall, flooring materials, mattresses, electronics, and more."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you handle construction waste removal Oshawa projects?",
+       "a": [
+        [
+         "A: Absolutely. We specialize in construction waste removal Oshawa contractors rely on, including drywall removal Oshawa, flooring disposal Oshawa, renovation debris, and post construction cleanup Oshawa services."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you offer commercial junk removal Oshawa businesses can book regularly?",
+       "a": [
+        [
+         "A: Yes. We provide ongoing commercial junk removal Oshawa services for offices, warehouses, retail stores, restaurants, industrial spaces, and commercial properties throughout Durham Region."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

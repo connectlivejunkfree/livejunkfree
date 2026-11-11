@@ -1,0 +1,295 @@
+{
+ "id": 9472,
+ "kind": "page",
+ "path": "/services/",
+ "type": "core",
+ "template": "Core",
+ "seo": {
+  "title": "Reliable Junk Removal Services in the Greater Toronto Area",
+  "description": "Explore our junk removal services in the Greater Toronto Area. We offer eco-friendly, and hassle-free cleanouts for homes and businesses. Call Live Junk Free today!",
+  "canonical": "https://livejunkfree.ca/services/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2025/01/cc694e4487f849490bbb53c7e3dcf59a-1024x683.jpg"
+ },
+ "title": "Services",
+ "h1": "Our Trusted Partner in Junk-Free Spaces",
+ "published": "2025-01-27T06:05:38",
+ "modified": "2026-07-19T04:50:51",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Our Trusted Partner in Junk-Free Spaces"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Dedicated to Clean, Efficient, and Eco-Friendly Junk Removal"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "At Live Junk Free, we feel that a clean environment can offer a sense of calmness and a new beginning. Whether you're working on apartment clean outs, business premises, or restoration tasks, we can help with our demolition, commercial and residential junk pick up and cleanout services to make the procedure effortless. We handle each task with attention and dignity, making sure that your area is cleansed effectively and wisely. Most importantly, when you work with us, you're not just getting rid of clutter but making space for a better, more orderly life."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/cc694e4487f849490bbb53c7e3dcf59a-1024x683.jpg",
+      "alt": "Cc694e4487f849490bbb53c7e3dcf59a",
+      "width": 800,
+      "height": 534
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Our Services"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Residential",
+       "text": [
+        "We remove the clutter from your reach while providing your living area with the fresh, organised look it demands through our quick, eco-friendly ",
+        {
+         "a": "/services/residential-junk-removal-services/",
+         "c": [
+          {
+           "b": [
+            "residential junk removal services"
+           ]
+          }
+         ]
+        },
+        " in the Greater Toronto Area."
+       ],
+       "image": {
+        "src": "/images/uploads/2025/01/e90012cbcbf4a34c72f0f7f4090a1169.jpg",
+        "alt": "E90012cbcbf4a34c72f0f7f4090a1169",
+        "width": 2048,
+        "height": 1365
+       },
+       "href": "/services/residential-junk-removal-services/"
+      },
+      {
+       "title": "Commercial",
+       "text": [
+        "Organisations of all sizes can benefit from our experienced ",
+        {
+         "a": "/services/commercial-junk-removal-services/",
+         "c": [
+          {
+           "b": [
+            "commercial junk removal services"
+           ]
+          }
+         ]
+        },
+        " in the Greater Toronto Area, which help improve efficiency while developing a neater and more structured work environment."
+       ],
+       "image": {
+        "src": "/images/uploads/2024/11/DSC08977-scaled.webp",
+        "alt": "DSC08977 scaled",
+        "width": 2560,
+        "height": 1707
+       },
+       "href": "/services/commercial-junk-removal-services/"
+      },
+      {
+       "title": "Demolition",
+       "text": [
+        "Our ",
+        {
+         "a": "/services/junk-demolition-services/",
+         "c": [
+          {
+           "b": [
+            "professional demolition services"
+           ]
+          }
+         ]
+        },
+        " in the Greater Toronto Area are prepared to manage any task, whether renovation, making room for something fresh, or tearing down an old structure."
+       ],
+       "image": {
+        "src": "/images/uploads/2026/07/Demolition-services.jpeg",
+        "alt": "Demolition services",
+        "width": 1200,
+        "height": 896
+       },
+       "href": "/services/junk-demolition-services/"
+      },
+      {
+       "title": "Cleanout",
+       "text": [
+        "From thorough ",
+        {
+         "a": "/services/junk-cleanout-services/",
+         "c": [
+          {
+           "b": [
+            "house cleanouts"
+           ]
+          }
+         ]
+        },
+        " in the Greater Toronto Area, during relocation to removing collected debris from the workplace, we guarantee a pleasant experience to anyone wishing to streamline and declutter."
+       ],
+       "image": {
+        "src": "/images/uploads/2026/07/Cleanout-Services.jpeg",
+        "alt": "Cleanout Services",
+        "width": 1200,
+        "height": 896
+       },
+       "href": "/services/junk-cleanout-services/"
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Quote",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Live Junk Free"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "All the Services You Need for a Clutter-Free Life"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "No matter what’s the setting—your house, workplace, or business—we have the know-how and commitment to effortlessly revamp it with our commercial clean out services."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Safe and Efficient",
+       "text": [
+        "Our top priority is safety, and we guarantee that all work is finished swiftly and effectively."
+       ]
+      },
+      {
+       "title": "Tailored Solutions",
+       "text": [
+        "We precisely and flexibly customise our office cleanout services to satisfy your demands."
+       ]
+      },
+      {
+       "title": "On-Time Service",
+       "text": [
+        "We value your time by providing timely, reliable support that doesn't interrupt with your daily routine."
+       ]
+      },
+      {
+       "title": "Responsible Disposal",
+       "text": [
+        "We recycle and dispose of your abandoned stuff ethically, creating a more ecologically sound future."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Do you offer specialized junk removal for hoarding situations?",
+       "a": [
+        [
+         "Yes, we at ",
+         {
+          "a": "/",
+          "c": [
+           "Live Junk Free"
+          ]
+         },
+         ", provide sensitive, discreet junk removal for hoarding situations, ensuring a respectful and non-judgmental approach."
+        ]
+       ]
+      },
+      {
+       "q": "What precautions do you take when removing junk from tight or difficult spaces?",
+       "a": [
+        [
+         "We use the right equipment and techniques to protect your property and ensure safe removal from tight spaces."
+        ]
+       ]
+      },
+      {
+       "q": "Can you help with estate cleanouts or post-move junk removal?",
+       "a": [
+        [
+         "Yes, we handle estate ",
+         {
+          "b": [
+           "cleanout services"
+          ]
+         },
+         " and post-move junk removal, making the process simple and efficient."
+        ]
+       ]
+      },
+      {
+       "q": "Do you provide recurring commercial junk removal services for businesses?",
+       "a": [
+        [
+         "Yes, we offer flexible recurring junk removal services for businesses to keep spaces clutter-free."
+        ]
+       ]
+      },
+      {
+       "q": "Are there any items you absolutely do not remove?",
+       "a": [
+        [
+         "We do not remove hazardous materials, such as chemicals or asbestos, for safety and legal reasons."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

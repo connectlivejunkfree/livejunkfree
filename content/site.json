@@ -1,0 +1,62 @@
+{
+  "_readme": "Business details used everywhere on the site. Change a value here and it updates site-wide. Every value is taken from livejunkfree.ca.",
+  "name": "Live Junk Free",
+  "url": "https://livejunkfree.ca",
+  "phone": {
+    "display": "+1 647 922 5865",
+    "tel": "+16479225865",
+    "schema": "+1-647-922-5865"
+  },
+  "email": "info@livejunkfree.ca",
+  "hours": {
+    "display": "7 days a week, 6AM to 11PM",
+    "source": "/locations/toronto/ FAQ (“We operate 7 days a week, 6AM to 11PM.”)",
+    "schema": [{ "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"], "opens": "06:00", "closes": "23:00" }]
+  },
+  "rating": {
+    "value": 5,
+    "display": "5.0",
+    "count": 780,
+    "countDisplay": "780",
+    "source": "Trustindex Google reviews widget on livejunkfree.ca (“780 Google reviews”, 5.0 stars)"
+  },
+  "socials": [
+    { "label": "Facebook", "short": "Fb", "href": "https://www.facebook.com/share/18y5rgyG68/" },
+    { "label": "Instagram", "short": "Ig", "href": "https://www.instagram.com/livejunkfree.ca" },
+    { "label": "TikTok", "short": "Tt", "href": "https://www.tiktok.com/@livejunkfree.ca" }
+  ],
+  "googleBusinessProfile": "https://maps.google.com/?cid=9440346679886628444",
+  "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d737760.8563776969!2d-79.47888510000001!3d43.754623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8cc77d6dd498a753%3A0x8302d949cb2e465c!2sLive%20Junk%20Free!5e0!3m2!1sen!2sin!4v1753969695931!5m2!1sen!2sin",
+  "searchConsoleVerification": "nqhQJAuWdKo4kcKKFaJoFjFxzJEgl_x0pWYPgEAQxZM",
+  "footerBlurb": "Whether it’s household junk, construction debris, or yard waste, we handle it all responsibly, recycling and disposing of items in an eco-friendly manner. Experience hassle-free junk removal with Live Junk Free and reclaim your space today!",
+  "copyright": "© 2026 Livejunkfree.ca | Powered By Live Junk Free",
+  "region": { "name": "Greater Toronto Area", "province": "ON", "country": "CA" },
+  "towns": [
+    { "slug": "toronto", "name": "Toronto" },
+    { "slug": "mississauga", "name": "Mississauga" },
+    { "slug": "brampton", "name": "Brampton" },
+    { "slug": "vaughan", "name": "Vaughan" },
+    { "slug": "markham", "name": "Markham" },
+    { "slug": "richmond-hill", "name": "Richmond Hill" },
+    { "slug": "oshawa", "name": "Oshawa" },
+    { "slug": "pickering", "name": "Pickering" },
+    { "slug": "ajax", "name": "Ajax" },
+    { "slug": "whitby", "name": "Whitby" },
+    { "slug": "scarborough", "name": "Scarborough" },
+    { "slug": "etobicoke", "name": "Etobicoke" },
+    { "slug": "aurora", "name": "Aurora" },
+    { "slug": "bolton", "name": "Bolton" },
+    { "slug": "bradford", "name": "Bradford" },
+    { "slug": "caledon", "name": "Caledon" },
+    { "slug": "east-gwillimbury", "name": "East Gwillimbury" },
+    { "slug": "new-market", "name": "Newmarket" },
+    { "slug": "nobleton", "name": "Nobleton" },
+    { "slug": "king-city", "name": "King City" },
+    { "slug": "port-perry", "name": "Port Perry" },
+    { "slug": "uxbridge", "name": "Uxbridge" },
+    { "slug": "schomberg", "name": "Schomberg" },
+    { "slug": "woodbridge", "name": "Woodbridge" },
+    { "slug": "whitchurch-stouffville", "name": "Whitchurch-Stouffville" },
+    { "slug": "georgina", "name": "Georgina" }
+  ]
+}

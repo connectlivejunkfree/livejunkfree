@@ -1,0 +1,548 @@
+{
+ "id": 17316,
+ "kind": "page",
+ "path": "/locations/furniture-removal-in-richmond-hill/",
+ "type": "location-service",
+ "template": "LocationService",
+ "seo": {
+  "title": "Same-day Furniture Removal in Richmond Hill Made Easy | Live Junk Free",
+  "description": "Quick Richmond Hill furniture removal for sofas, beds, tables, and junk. Same-day pickup, cleanup, and clutter removal. Call today.",
+  "canonical": "https://livejunkfree.ca/locations/furniture-removal-in-richmond-hill/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
+ },
+ "title": "furniture-removal-in-richmond-hill",
+ "h1": "Furniture Removal Services in Richmond Hill, Ontario — Because Furniture Is the Hardest Junk There Is",
+ "published": "2026-07-15T11:57:35",
+ "modified": "2026-07-15T11:25:28",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "checks",
+     "items": [
+      "Our Service Areas"
+     ]
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Furniture Removal Services in Richmond Hill, Ontario — Because Furniture Is the Hardest Junk There Is"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Old furniture gets stuck in a way nothing else does. Too big for the car. Too heavy for one back. Too good to throw out, too worn to sell, too awkward for the curb — so it stays, sometimes for years. We unstick it. One call brings a fully insured crew to your Richmond Hill home or condo with a free flat quote, careful hands for the stairs, and a donation-first plan for every piece worth saving. Most furniture is gone the same day it’s finally decided on."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "marquee",
+     "items": [
+      "House Cleanouts",
+      "Fence Removal",
+      "Shed Demolition",
+      "Yard Waste",
+      "Retail Cleanout",
+      "Wall Demolition",
+      "Deck Demolition"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-2.png",
+      "alt": "Background 2",
+      "width": 590,
+      "height": 500
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-3.png",
+      "alt": "Background 3",
+      "width": 590,
+      "height": 500
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Two-Storey Staircases, Yonge-Corridor Condos, Basement Rec Rooms — We Carry From All of Them"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Richmond Hill's furniture lives in challenging places: upstairs bedrooms in Bayview Hill and Jefferson two-storeys, compact condos along Yonge with booked elevators, and basement rec rooms whose sectionals arrived before the railing did. Live Junk Free carries out of all of it — 660+ five-star Google reviews earned on careful stairwells, spotless walls and pieces sent onward rather than under."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "A couch costs couch money — the truck decides",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Furniture is priced like everything we haul: by the truck space it fills. One sofa is a small load; a whole home's worth is more. No heavy-item fees, no per-piece menus with suspicious math, and no difference between Richmond Hill addresses."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "02",
+       "title": "Quoted in front of the piece, not over the phone",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "\"A couch\" can mean a loveseat or a nine-foot sectional with a hidden sofa bed inside — the phone can't tell which. We look first: one free at-the-door assessment, one flat figure, zero obligation attached."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "03",
+       "title": "One number, disassembly included",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Carrying, dismantling where doorways demand it, floor protection, hauling, disposal and donation logistics — all inside the quote you approve. If the wardrobe has to come apart to leave the room it was assembled in, that's included, not extra."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "04",
+       "title": "Stairs, corners and condos are the craft",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Getting a sectional down a switchback staircase without touching the walls is a learned skill, and our movers have the reps: pads on the banisters, runners on the floors, doors off hinges before anything is forced, elevator bookings respected in the Yonge-corridor buildings. The furniture leaves; the paint stays."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "05",
+       "title": "Good pieces go to good homes first",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Solid furniture with life left doesn't ride to a landfill on our watch. Donation partners get first claim on sofas, dining sets, dressers and desks — and most Richmond Hill pieces are placed within days. The genuinely finished gets recycled for materials where possible."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "06",
+       "title": "Independent pricing — 30–50% under the franchise trucks",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The national haulers price royalties into every pickup. We're locally owned with none, and Richmond Hill furniture removal lands 30–50% cheaper for the identical empty corner."
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What Furniture Removal Costs in Richmond Hill"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Flat, Volume-Based, Disassembly Included"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Small loads start at {{cad_125}} — a single sofa or mattress sits at the friendly end of the scale. Bedroom sets, multi-piece clears and whole-home furniture loads scale only with the truck space they claim, and every figure is locked free at your door before anything lifts. The quote is the invoice, stairs and all."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Wide Service Area"
+      },
+      {
+       "title": "Local Expertise"
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-4.png",
+      "alt": "Background 4",
+      "width": 458,
+      "height": 237
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "From \"We Should Get Rid of That\" to Gone — Four Steps"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The couch has waited long enough:"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "1. Book the Pickup",
+       "text": [
+        "Call +1 647 922 5865 or book online in two minutes. Crews cover all of Richmond Hill seven days a week, 6AM to 11PM, with same-day slots and a 30-minute text before arrival."
+       ]
+      },
+      {
+       "title": "2. Show Us the Pieces",
+       "text": [
+        "The sofa, the spare bedroom set, the wall unit that outlived its TV — point at everything going and get one flat, all-inclusive quote. Free either way."
+       ]
+      },
+      {
+       "title": "3. We Carry — Carefully",
+       "text": [
+        "On your yes: protection down, awkward pieces dismantled, stairs taken slow, and every item walked out by a crew that treats your railings like their deposit depends on it."
+       ]
+      },
+      {
+       "title": "4. Onward to the Right Place",
+       "text": [
+        "Donation partners take what still serves — which, with furniture, is most of it. Recyclers take the metal frames and the truly finished. The landfill gets last call, and rarely much of it."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Every Piece Richmond Hill Needs Carried Out"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "If it furnished a room and its time is up, it's on this list:"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Living Room Furniture Removal in Richmond Hill",
+       "a": [
+        [
+         "Sofas, loveseats and nine-foot sectionals — sofa beds included"
+        ],
+        [
+         "Recliners, accent chairs and ottomans"
+        ],
+        [
+         "Coffee tables, side tables and TV stands"
+        ],
+        [
+         "Wall units and entertainment centres — dismantled free"
+        ],
+        [
+         "Bookcases, shelving and display cabinets"
+        ]
+       ]
+      },
+      {
+       "q": "Bedroom Furniture Removal in Richmond Hill",
+       "a": [
+        [
+         "Mattresses and box springs, every size — bagged where buildings require"
+        ],
+        [
+         "Bed frames, headboards and platform beds with storage drawers"
+        ],
+        [
+         "Dressers, wardrobes and armoires"
+        ],
+        [
+         "Change tables, cribs and outgrown kids’ sets"
+        ],
+        [
+         "Vanities and bedroom mirrors"
+        ]
+       ]
+      },
+      {
+       "q": "Dining & Office Furniture Removal in Richmond Hill",
+       "a": [
+        [
+         "Dining tables, chair sets and extension leaves"
+        ],
+        [
+         "Hutches, buffets and china cabinets"
+        ],
+        [
+         "Desks — including the corner unit assembled inside the room"
+        ],
+        [
+         "Office chairs, filing cabinets and shelving"
+        ],
+        [
+         "Kitchen islands and bar stools"
+        ]
+       ]
+      },
+      {
+       "q": "Oversized & Multi-Piece Removals in Richmond Hill",
+       "a": [
+        [
+         "Pianos, organs and pool tables"
+        ],
+        [
+         "Whole-room furniture clears — redesigns, moves and downsizings"
+        ],
+        [
+         "Estate furniture removal, sorted with care"
+        ],
+        [
+         "Condo pickups along the Yonge corridor — elevator bookings respected"
+        ],
+        [
+         "Patio and balcony furniture"
+        ],
+        [
+         "Bed-bug-affected pieces — sealed on site, removed discreetly"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Service Areas"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "- Recent Reviews -"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Read what our past customers say"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions About Furniture Removal in Richmond Hill, ON"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Q: How much does furniture removal cost in Richmond Hill?",
+       "a": [
+        [
+         "A: The truck decides: small loads from $125, a single sofa or mattress at the low end, multi-piece clears scaling flat with combined volume. The free at-the-door quote already includes stairs, disassembly and careful handling — and it can’t change after you approve it."
+        ]
+       ]
+      },
+      {
+       "q": "Q: The sectional came in before the basement railing went up. Can it still come out?",
+       "a": [
+        [
+         "A: This is possibly our most common Richmond Hill call. Sectionals split into pieces, frames dismantle, doors come off hinges — one way or another, the furniture that “can’t leave” leaves, without a mark on the stairwell. Disassembly is included in the price."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Can you pick up from a condo with elevator bookings?",
+       "a": [
+        [
+         "A: Routinely. Give us your reservation window and the crew loads within it — pads up, corridors protected, property management satisfied. Certificates of insurance are available ahead of time where buildings require them."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Will decent furniture actually be donated?",
+       "a": [
+        [
+         "A: First and foremost. Sofas, dining sets, dressers and desks with life left go to donation partners before anything else is considered — and furniture is the category where donation succeeds most often. If you’d like a specific piece to go somewhere in particular, say so and we’ll direct it."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Is one couch or one mattress worth booking?",
+       "a": [
+        [
+         "A: Entirely. Single pieces are priced as the sliver of truck they occupy, no minimum attached — and one-item furniture runs make up a large share of our Richmond Hill schedule."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

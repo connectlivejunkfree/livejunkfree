@@ -1,0 +1,36 @@
+{
+ "id": 870,
+ "kind": "page",
+ "path": "/contact/",
+ "type": "core",
+ "template": "Core",
+ "seo": {
+  "title": "Contact Live Junk Free for Reliable Junk Removal Services",
+  "description": "Call Live Junk Free for expert junk removal services. Our team handles cleanouts, hauling, and disposal with ease. Call us for a free estimate and fast service!",
+  "canonical": "https://livejunkfree.ca/contact/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+ },
+ "title": "Contact",
+ "h1": "Book Your Appointment",
+ "published": "2024-05-15T06:18:41",
+ "modified": "2026-07-30T06:47:17",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Book Your Appointment"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "form",
+     "name": "New Form"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,665 @@
+{
+ "id": 16200,
+ "kind": "page",
+ "path": "/locations/georgina/",
+ "type": "location-town",
+ "template": "TownHub",
+ "seo": {
+  "title": "Junk Removal Georgina Ontario | Cottages & Homes | Live Junk Free",
+  "description": "Serving Keswick, Sutton, Jackson's Point & all of Georgina — Live Junk Free removes junk from cottages, rural properties & homes. Free on-site quote.",
+  "canonical": "https://livejunkfree.ca/locations/georgina/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Bolton-1.png"
+ },
+ "title": "Georgina",
+ "h1": "Junk Removal in Georgina, Ontario — Fast Local Service for Homes, Cottages, & Businesses",
+ "published": "2026-07-09T03:50:22",
+ "modified": "2026-07-09T03:50:22",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "checks",
+     "items": [
+      "Our Service Areas"
+     ]
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Junk Removal in Georgina, Ontario — Fast Local Service for Homes, Cottages, & Businesses"
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Frame-1000005909-1.png",
+      "alt": "Frame 1000005909 1",
+      "width": 800,
+      "height": 65
+     }
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "a": "/",
+       "c": [
+        "Live Junk Free"
+       ]
+      },
+      " is Georgina’s trusted local junk removal team. We serve every property type across the entire municipality — from seasonal cottages needing a full cleanout before or after the summer, to year-round family homes in Keswick, to rural properties in Pefferlaw, to businesses along Georgina’s commercial corridors. We come to you, assess everything in person, give you a completely free on-site estimate before touching a single item, and if you’re happy with it, your junk is gone the same day.",
+      {
+       "br": 1
+      },
+      "No franchise fees passed onto you. No phone estimates that change when we arrive. No charges you didn’t agree to. Just fast, professional, local junk removal across Georgina, Ontario — 7 days a week, 6AM to 11PM. Call or book online and we’ll handle the rest."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "marquee",
+     "items": [
+      "House Cleanouts",
+      "Fence Removal",
+      "Shed Demolition",
+      "Yard Waste",
+      "Retail Cleanout",
+      "Wall Demolition",
+      "Deck Demolition"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-2.png",
+      "alt": "Background 2",
+      "width": 590,
+      "height": 500
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-3.png",
+      "alt": "Background 3",
+      "width": 590,
+      "height": 500
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "From Keswick to Sutton — Georgina Residents Know Our Junk Removal Trucks Well"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We are not a national franchise. We don't charge rural surcharges for properties outside the main urban core. We are a locally owned, fully insured team that genuinely understands the Georgina community — and we price every job based on volume alone, regardless of where your property sits in the municipality."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "We come to your property first — completely free",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Whether you're on the Lake Simcoe waterfront, a rural lot in Pefferlaw, a residential street in Keswick, or a commercial property in Sutton — we come to you, walk through everything in person, and calculate your quote on the spot."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "02",
+       "title": "Volume-based pricing — the fairest method for Georgina properties",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Large rural properties often have more junk than a typical suburban home — and volume-based pricing means you pay accurately for what you actually have, not an inflated estimate based on property type or location."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "03",
+       "title": "One flat all-inclusive number",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Labour, truck, fuel and disposal — all in one number. No rural surcharge. No Lake Simcoe area premium. No \"we had to drive a bit further\" fee. One number, everything covered."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "04",
+       "title": "You approve it before we touch a single item",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Once we hand you the quote, the decision is entirely yours. Zero pressure. Zero obligation. If it works for you, we start immediately. If it doesn't, we leave with no charge."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "05",
+       "title": "The quoted price never changes",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Once you approve it, that's the final number — regardless of how long the job takes or what we find along the way. No surprises. No adjustments. No \"actually it's a bit more because...\" conversations."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "06",
+       "title": "No hourly games — ever",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We don't charge by the hour. We never have. A job that takes our crew two hours costs the same as a job quoted at the same volume that takes three hours. Your price is locked the moment you approve it."
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "GeorginaJunk Removal & Pricing Made Simple"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Fair Quotes, No Hourly Games"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Our Georgina junk removal pricing is built on one simple, fair principle: you pay based on how much space your junk fills in our truck — not by the hour, not by your postcode, not by how far your property sits from the main road."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Wide Service Area"
+      },
+      {
+       "title": "Local Expertise"
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-4.png",
+      "alt": "Background 4",
+      "width": 458,
+      "height": 237
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Clearing Out Junk in Georgina Shouldn't Be Stressful — Here's How We Make It Easy"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Whether you're clearing out a seasonal cottage before winter, decluttering a family home in Keswick, cleaning up a rural property in Pefferlaw, or clearing a business unit in Sutton — the process should be the same: simple, stress-free and completely handled for you. Here's our complete 4-step junk removal process in Georgina, Ontario — from your first call to a completely cleared space:"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Book Your Georgina Junk Removal Quickly & Easily",
+       "text": [
+        "Call +1 647 922 5865 or use our quick online booking form — it takes under 2 minutes. Tell us your Georgina location and what needs to be removed. Whether you're in Keswick, Sutton, Jackson's Point, Pefferlaw, Roches Point, Virginia, Belhaven or anywhere across the Georgina municipality — we'll confirm your same-day or next-day time slot right away. We call you 30 minutes before we arrive so you're never left waiting without notice."
+       ]
+      },
+      {
+       "title": "We Arrive On Time, Walk the Property, Quote You Fairly",
+       "text": [
+        "Our professional, uniformed Georgina junk removal crew arrives on schedule — every time, no excuses. We walk your entire property with you. For cottages and lakefront properties, we assess access, dock areas, outbuildings and waterfront storage. For rural Georgina properties, we walk the full lot — barns, sheds, fields, outbuildings, all of it. For residential and commercial properties, we go room to room, floor to floor. We give you one clear, all-inclusive flat-rate quote on the spot. No obligation to proceed. No pressure of any kind."
+       ]
+      },
+      {
+       "title": "We Take Everything, You Do Nothing",
+       "text": [
+        "Once you approve the quote, our Georgina junk removal team handles every single aspect of the physical work. Seasonal cottage contents cleared out after the summer season. Old farm equipment and barn debris hauled away from rural Pefferlaw properties. Furniture and appliances removed from Keswick family homes. Renovation debris cleared from Sutton commercial properties. Dock furniture, watercraft accessories, garden waste, garage contents — whatever it is, wherever it is on your Georgina property, our crew loads it all. You don't lift a finger."
+       ]
+      },
+      {
+       "title": "Gone, Clean, Responsibly Sorted",
+       "text": [
+        "Once the truck is loaded, we do a final walkthrough to make sure every item on your list has been cleared. We sweep up and leave your Georgina property clean — no debris left from the haul, no mess from moving items. Your junk is then sorted responsibly: usable items go to donation centres serving the Georgina and York Region community, recyclables are taken to certified processing facilities, and only what truly cannot be reused or recycled goes to landfill. We take Georgina's environment seriously — because we live and work here too."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Lakefront Homes, Rural Properties & Commercial Spaces — Georgina's Trusted Junk Removal Team"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Georgina is unlike any other municipality in York Region — a stunning mix of Lake Simcoe waterfront properties, working rural farms, year-round family homes, seasonal cottages and a growing local business community. No other junk removal company in the area has the experience, the equipment and the local knowledge to serve every corner of Georgina the way Live Junk Free does. Here's everything we handle across the entire municipality:"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Cottage & Lakefront Property Junk Removal in Georgina",
+       "a": [
+        [
+         "Georgina’s Lake Simcoe shoreline is one of the most active cottage and recreational property markets in Ontario — and seasonal cleanouts, cottage estate clearances and waterfront property decluttering are among our most requested services.",
+         {
+          "br": 1
+         },
+         {
+          "br": 1
+         }
+        ],
+        [
+         "Cottage cleanout Georgina — full seasonal or year-round cottage clearing"
+        ],
+        [
+         "Lakefront property cleanout Georgina — waterfront access, dock areas, boathouses"
+        ],
+        [
+         "Seasonal property cleanout Georgina — pre-winter and post-winter cottage clearing"
+        ],
+        [
+         "Cottage estate cleanout Georgina — full cottage property clearing handled with sensitivity"
+        ],
+        [
+         "Dock and boathouse cleanout Georgina"
+        ],
+        [
+         "Outdoor furniture removal Georgina — dock chairs, patio sets, deck furniture"
+        ],
+        [
+         "Watercraft accessory removal Georgina — old equipment, accessories, marine debris"
+        ],
+        [
+         "Jackson’s Point cottage cleanout"
+        ],
+        [
+         "Roches Point property cleanout"
+        ],
+        [
+         "Lake Simcoe area junk removal"
+        ]
+       ]
+      },
+      {
+       "q": "Rural & Farm Property Junk Removal in Georgina",
+       "a": [
+        [
+         "Large rural and farm properties around Pefferlaw, Virginia and across Georgina’s rural townships generate unique junk removal challenges — and we handle every one of them.",
+         {
+          "br": 1
+         },
+         {
+          "br": 1
+         }
+        ],
+        [
+         "Farm cleanout Georgina Ontario — barns, outbuildings, equipment sheds"
+        ],
+        [
+         "Rural property junk removal Georgina — large lot clearing, accumulated debris"
+        ],
+        [
+         "Barn cleanout Georgina — old equipment, lumber, scrap, accumulated storage"
+        ],
+        [
+         "Shed demolition and removal Georgina"
+        ],
+        [
+         "Scrap metal removal Georgina Ontario"
+        ],
+        [
+         "Old farm equipment removal Georgina"
+        ],
+        [
+         "Fence removal Georgina"
+        ],
+        [
+         "Large debris removal Georgina rural properties"
+        ]
+       ]
+      },
+      {
+       "q": "Residential Junk Removal in Georgina",
+       "a": [
+        [
+         "Complete residential junk removal across all Georgina neighbourhoods and housing types — from Keswick subdivisions to rural acreage homes.",
+         {
+          "br": 1
+         },
+         {
+          "br": 1
+         }
+        ],
+        [
+         "Furniture removal Georgina — sofas, beds, dressers, dining sets, chairs"
+        ],
+        [
+         "Appliance removal Georgina — fridges, washers, dryers, stoves, dishwashers"
+        ],
+        [
+         "Garage cleanout Georgina — tools, seasonal storage, accumulated clutter"
+        ],
+        [
+         "Basement cleanout Georgina — deep storage, old furniture, e-waste, junk"
+        ],
+        [
+         "Attic cleanout Georgina"
+        ],
+        [
+         "Mattress removal Georgina"
+        ],
+        [
+         "Hot tub and spa removal Georgina"
+        ],
+        [
+         "Exercise equipment removal Georgina"
+        ],
+        [
+         "Yard waste removal Georgina — branches, outdoor furniture, patio clutter"
+        ],
+        [
+         "Estate cleanout Georgina — full property clearing handled with care"
+        ],
+        [
+         "Hoarding cleanout Georgina — compassionate, non-judgmental service"
+        ],
+        [
+         "Move-in / move-out junk removal Georgina"
+        ],
+        [
+         "E-waste and electronics removal Georgina"
+        ]
+       ]
+      },
+      {
+       "q": "Commercial Junk Removal in Georgina",
+       "a": [
+        [
+         "Local Georgina businesses along Keswick’s commercial corridors, Sutton’s main streets and across the municipality trust Live Junk Free for professional commercial cleanouts.",
+         {
+          "br": 1
+         },
+         {
+          "br": 1
+         }
+        ],
+        [
+         "Office furniture removal Georgina"
+        ],
+        [
+         "Commercial junk removal Georgina Ontario"
+        ],
+        [
+         "Retail store cleanout Georgina"
+        ],
+        [
+         "Restaurant equipment removal Georgina"
+        ],
+        [
+         "Warehouse cleanout Georgina"
+        ],
+        [
+         "Landlord junk removal Georgina — tenant turnover, abandoned items"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "All Areas We Serve in & Around Georgina"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We cover every King Township community and surrounding York Region areas:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ]
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "- Recent Reviews -"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Read what our past customers say"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions About Junk Removal in Georgina, ON"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Q: How much does junk removal cost in Georgina, Ontario?",
+       "a": [
+        [
+         "A: Our Georgina junk removal pricing is volume-based — you pay based on how much space your items fill in our truck. Prices start at $125 for small loads. We provide a free on-site estimate before any work begins. No rural surcharges, no hourly billing, no surprises — the price you approve is the price you pay."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you offer same-day junk removal in Georgina?",
+       "a": [
+        [
+         "A: Yes — same-day junk removal is available across all of Georgina including Keswick, Sutton, Jackson’s Point, Pefferlaw and surrounding York Region communities. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you handle cottage and lakefront property cleanouts in Georgina?",
+       "a": [
+        [
+         "A: Absolutely — cottage and lakefront property cleanouts along Lake Simcoe are one of our most popular services in Georgina. We handle seasonal cleanouts, full cottage estate clearances, dock area removal, boathouse cleanouts and everything in between — no waterfront access challenge is too complicated for our team."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you serve rural properties in Pefferlaw and across Georgina?",
+       "a": [
+        [
+         "A: Yes — rural and farm property junk removal across Georgina is a core part of what we do. We serve properties in Pefferlaw, Virginia, Baldwin and all rural areas of Georgina municipality with the same pricing and professionalism as any other job — no rural surcharges, no distance premiums."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Which Georgina communities do you serve?",
+       "a": [
+        [
+         "A: We serve all of Georgina including Keswick, Sutton, Jackson’s Point, Pefferlaw, Roches Point, Virginia, Belhaven, Baldwin and every community across the municipality — plus surrounding areas including East Gwillimbury, Newmarket, Bradford, Innisfil and all of York Region."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

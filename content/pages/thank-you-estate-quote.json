@@ -1,0 +1,45 @@
+{
+ "id": 23723,
+ "kind": "page",
+ "path": "/thank-you-estate-quote/",
+ "type": "thank-you",
+ "template": "ThankYou",
+ "seo": {
+  "title": "Estate Quote Thank You — Draft Review - Live JunkFree",
+  "description": "",
+  "canonical": "https://livejunkfree.ca/thank-you-estate-quote/",
+  "robots": "follow, noindex"
+ },
+ "title": "Estate Quote Thank You — Draft Review",
+ "h1": "Thank you for requesting an estate cleanout quote.",
+ "published": "2026-11-03T07:10:52",
+ "modified": "2026-11-03T07:10:53",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Thank you for requesting an estate cleanout quote."
+    },
+    {
+     "t": "p",
+     "c": [
+      "We’ve received your request. Our team will review the details and contact you using the information provided."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "a": "tel:+16479225865",
+       "c": [
+        "Call Live Junk Free at 647-922-5865."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

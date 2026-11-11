@@ -1,0 +1,517 @@
+{
+ "id": 15887,
+ "kind": "page",
+ "path": "/services/residential-junk-removal-services/water-tank-removal-services/",
+ "type": "service",
+ "template": "ItemRemoval",
+ "seo": {
+  "title": "Water Tank Removal Services - Live JunkFree",
+  "description": "Live Junk Free offers safe water tank removal services across the Greater Toronto Area. Book today to reclaim your space.",
+  "canonical": "https://livejunkfree.ca/services/residential-junk-removal-services/water-tank-removal-services/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/07/water-tank-removal-services-before2-1.jpeg"
+ },
+ "title": "Water Tank Removal Services",
+ "h1": "Locally Trusted – A 5-Star Rated Water Tank Removal Service in Your Area",
+ "published": "2026-07-06T08:59:02",
+ "modified": "2026-07-23T05:55:14",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Locally Trusted – A 5-Star Rated Water Tank Removal Service in Your Area"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "We’re rated 5.0 on Google by 780+ customers."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Trusted by people of the Greater Toronto Area"
+      },
+      {
+       "title": "Insured, uniformed, and respectful crew"
+      },
+      {
+       "title": "Rated 5.0 on Google by 780+ customers"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Water Tank Removal Services"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we offer a fast and easy way to take out water tanks, whether they’re at your home, business, farm, or job site. We understand how much space an unused or rusty water tank can take up. If it’s just sitting there, that’s valuable space going to waste. You can get back that space without lifting a finger, thanks to our professional team."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Before we begin, we’ll give you a free, no-obligation quote with no hidden fees, and we’ll only start once you approve. Then, we’ll get to work: pumping out any remaining water, safely removing the tank, cleaning up the area, and handling all disposal. We specialize in making space and clearing out the old. With us, water tank removal is so simple, we can get it done in no time!"
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Your Ward Tank Removal Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/water-tank-removal-services-before2-1-1024x765.jpeg",
+      "alt": "water-tank-removal-services",
+      "width": 800,
+      "height": 598
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Same-Day Water Tank Removal – Call or Book Online!"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Removing an old water tank doesn’t have to be difficult. Our professional removal service starts at just {{cad_125}}, and we take care of everything for you. We’ll safely pump out any remaining water, remove your tank (including industrial and above-ground tanks), clean the area, and haul everything away, no heavy lifting or mess left behind."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "With our experienced team handling the job, you can relax while we clear out your space quickly and safely. Before you know it, you’ll have a clean, open area ready for new possibilities. Affordable, worry-free water tank removal."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Ready to reclaim your space? ",
+      {
+       "a": "/contact/",
+       "c": [
+        "Call us now"
+       ]
+      },
+      " at +1 647 922 5865 or book online."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "Call answered in 1 minute."
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Same Day Water Tank Removal – Fast, Affordable, Local!"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Removing a water tank is serious business; that’s why you need professional experts like us to handle it properly."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "When you choose Live Junk Free, you’re guaranteed a hassle-free experience from start to finish. We recognize that water tank removal often can’t wait, whether you’re renovating your property, making space for new equipment, or dealing with a leaking hazard. That’s exactly why we prioritize same-day or next-day removal services whenever possible. Our rapid response means you won’t be stuck with that eyesore for long."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Attempting yourself a same day water tank removal can lead to back injuries, dangerous spills, or even structural damage. Why risk it? Our crew is fully licensed for this specialized work and carries comprehensive insurance, so you can have complete peace of mind throughout the entire process."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our complete water tank removal package includes:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Safe extraction of all tank types (above-ground, industrial, residential)"
+      ],
+      [
+       "Professional handling of large, heavy tanks"
+      ],
+      [
+       "Environmentally responsible disposal with recycling when possible"
+      ],
+      [
+       "Complete water drainage and site cleanup"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "We Offer Same-Day Water Tank Removal."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Locals Trust Us for Water Tank Removal"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Safety First",
+       "text": [
+        "Water tanks contain heavy materials, potential contaminants, and structural components that demand professional handling. Our certified team follows strict safety protocols."
+       ]
+      },
+      {
+       "title": "Eco-Conscious Disposal",
+       "text": [
+        "We responsibly recycle metal components and ensure proper water disposal to protect our environment."
+       ]
+      },
+      {
+       "title": "Zero Property Damage Guarantee",
+       "text": [
+        "Our experts prevent dents, leaks, or structural issues during the entire removal process."
+       ]
+      },
+      {
+       "title": "Multi-Tank Discounts",
+       "text": [
+        "Removing several tanks? We offer special pricing for bulk removal projects."
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Transparent Pricing"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Our upfront quotes include all costs – no surprise fees for labor, disposal, or cleanup."
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Professional Equipment"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Our specialized pumps, tools, and hauling vehicles handle tanks of all sizes safely and efficiently."
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Quick & Simple: 4 Steps to Water Tank Removal"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Send a Photo",
+       "text": [
+        "Text or upload pictures of your water tank, and our team will respond within minutes."
+       ]
+      },
+      {
+       "title": "Get a Quote",
+       "text": [
+        "Receive fair, transparent pricing with no hidden fees."
+       ]
+      },
+      {
+       "title": "Schedule Your Slot",
+       "text": [
+        "Choose same-day or next-day removal, we work near you."
+       ]
+      },
+      {
+       "title": "We Remove It",
+       "text": [
+        "Our crew pumps out water, removes the tank, cleans the area, and hauls it all away, typically done in just 1-2 hours."
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Before & After Gallery"
+    },
+    {
+     "t": "p",
+     "c": [
+      "From heavy, unused water tanks to clean, open spaces, take a look at our real removal projects in action."
+     ]
+    },
+    {
+     "t": "gallery",
+     "images": [
+      {
+       "src": "/images/uploads/2026/07/water-tank-removal-services-before1-1024x765.jpeg",
+       "alt": "water-tank-removal-services before1"
+      },
+      {
+       "src": "/images/uploads/2026/07/water-tank-removal-services-after1-1024x765.jpeg",
+       "alt": "water-tank-removal-services after1"
+      },
+      {
+       "src": "/images/uploads/2026/07/water-tank-removal-services-before2-1024x765.jpeg",
+       "alt": "water-tank-removal-services before2"
+      },
+      {
+       "src": "/images/uploads/2026/07/water-tank-removal-services-after2-1024x765.jpeg",
+       "alt": "water-tank-removal-services after2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Water Tank Removal FAQs"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Do you remove all sizes of water tanks?",
+       "a": [
+        [
+         "Yes! We remove all sizes, from small residential tanks to large industrial ones. Our team has the equipment to handle any capacity safely and efficiently. "
+        ]
+       ]
+      },
+      {
+       "q": "Do you disconnect the tank before removal?",
+       "a": [
+        [
+         "Absolutely. We handle full disconnection of plumbing and electrical (if applicable) as part of our standard removal service."
+        ]
+       ]
+      },
+      {
+       "q": "How much does water tank removal cost?",
+       "a": [
+        [
+         "Prices vary by size/location, but we offer free upfront quotes with no hidden fees. Basic removals start at $125. "
+        ]
+       ]
+      },
+      {
+       "q": "What areas do you serve?",
+       "a": [
+        [
+         "We cover the Greater Toronto Area with reliable water tank removal services for homes and businesses. "
+        ]
+       ]
+      },
+      {
+       "q": "Can I schedule same-day pickup?",
+       "a": [
+        [
+         "Yes! We often offer same-day/next-day service when available. Just call/text for fastest scheduling. "
+        ]
+       ]
+      },
+      {
+       "q": "Do you recycle old tanks?",
+       "a": [
+        [
+         "We prioritize eco-friendly disposal, recycling all possible metal/components per environmental regulations."
+        ]
+       ]
+      },
+      {
+       "q": "Do I need to drain the tank first?",
+       "a": [
+        [
+         "No, we will properly pump out any remaining water as part of our removal process. "
+        ]
+       ]
+      },
+      {
+       "q": "Will you remove tanks from tight spaces?",
+       "a": [
+        [
+         "Yes! Basements, crawlspaces, rooftops – our team specializes in difficult-access removals without property damage. "
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What People Say About Us"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Areas We Serve"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ],
+      [
+       "Stouffville"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

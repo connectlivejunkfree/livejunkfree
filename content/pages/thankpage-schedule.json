@@ -1,0 +1,33 @@
+{
+ "id": 8690,
+ "kind": "page",
+ "path": "/thankpage-schedule/",
+ "type": "thank-you",
+ "template": "ThankYou",
+ "seo": {
+  "title": "Thank You Home Page CTA - Live JunkFree",
+  "description": "",
+  "canonical": "https://livejunkfree.ca/thankpage-schedule/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+ },
+ "title": "Thank You Home Page CTA",
+ "h1": "Thank You for Your Submission!",
+ "published": "2025-01-02T03:55:42",
+ "modified": "2025-01-02T04:16:08",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Thank You for Your Submission!"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We appreciate you taking the time to get in touch with us. Your submission has been received, and our team will review it shortly. We’ll be in contact with you soon if any further information is needed. In the meantime, feel free to explore our website or reach out to us with any immediate questions. Thank you once again!"
+    }
+   ]
+  }
+ ]
+}

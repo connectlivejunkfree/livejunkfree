@@ -1,0 +1,560 @@
+{
+ "id": 16654,
+ "kind": "page",
+ "path": "/locations/residential-junk-removal-in-port-perry/",
+ "type": "location-service",
+ "template": "LocationService",
+ "seo": {
+  "title": "Same-Day Residential Junk Removal in Port Perry | Live Junk Free",
+  "description": "Trust us for same-day residential junk removal in Port Perry. We remove junk from homes, garages, backyards, basements, and more affordably. Call us now.",
+  "canonical": "https://livejunkfree.ca/locations/residential-junk-removal-in-port-perry/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
+ },
+ "title": "residential-junk-removal-in-port-perry",
+ "h1": "Residential Junk Removal in Port Perry, Ontario — Point at It, and It's Gone",
+ "published": "2026-07-13T08:14:14",
+ "modified": "2026-07-13T08:14:14",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "checks",
+     "items": [
+      "Our Service Areas"
+     ]
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Residential Junk Removal in Port Perry, Ontario — Point at It, and It's Gone"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Somewhere in your house is the thing you’ve been meaning to deal with. The recliner nobody sits in. The freezer that quit two winters ago. The rec room that slowly became a storage room. Dealing with it takes one phone call: our fully insured local crew comes to your Port Perry home, prices whatever you point at — free, on the spot — and carries it out from wherever it sits, stairs and all. Most jobs are quoted and cleared the same day you book."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "marquee",
+     "items": [
+      "House Cleanouts",
+      "Fence Removal",
+      "Shed Demolition",
+      "Yard Waste",
+      "Retail Cleanout",
+      "Wall Demolition",
+      "Deck Demolition"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-2.png",
+      "alt": "Background 2",
+      "width": 590,
+      "height": 500
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-3.png",
+      "alt": "Background 3",
+      "width": 590,
+      "height": 500
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "In a Town Where Everyone Knows Everyone, Reputation Is Everything"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Port Perry doesn't run on advertising — it runs on recommendations traded at the marina, the arena and the Saturday market. That's exactly how Live Junk Free grew here: over 660 five-star Google reviews from homeowners who watched our crew show up on time, quote a fair number, carry heavy things through narrow century-home hallways without a scratch, and sweep up on the way out."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "Space in the truck is the whole bill",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Quarter load, half load, full load — that's the entire menu. Your recliner pays recliner prices; your packed garage pays garage prices. We never charge by the hour, never add heavy-item fees, and never price a lakefront address differently than one in town."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "02",
+       "title": "The quote happens where the junk lives",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Descriptions over the phone always miss something — the second couch, the awkward staircase, the pile behind the pile. So our quotes happen in person, at your home, looking at the real items. The number we give at the door is free, optional, and final."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "03",
+       "title": "All-in means all-in",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Lifting, loading, driving, tipping fees, fuel, the works — one figure covers everything from your hallway to the disposal facility. Once you've approved it, nothing that happens during the job can raise it."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "04",
+       "title": "Century homes need careful hands — ours are",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "A lot of Port Perry furniture has to come down staircases older than the province's highway system. Our movers pad the banisters, shield the floors, take doors off hinges when needed and dismantle oversized pieces rather than force them — original trim survives every visit."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "05",
+       "title": "No is a complete answer",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "If the quote doesn't work for you, that's the end of it — no charge for the visit, no deposit lost, no salesperson circling back next week. And if it does work, the crew starts carrying before you've finished your coffee."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "06",
+       "title": "Local ownership, franchise-free prices",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Every big-brand junk truck carries a royalty fee inside its price. Ours doesn't, because there's no head office taking a cut — just a local operation whose Port Perry rates land 30–50% under the national chains."
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Straightforward Junk Removal Pricing for Port Perry Homes"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The Truck Is the Meter"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Small pickups begin at {{cad_125}}, single items are priced like single items, and bigger clears grow only as fast as the truck fills. Every figure is settled face-to-face before a single thing is lifted — which means the invoice at the end matches the handshake at the start, every time. Book your free Port Perry quote and see the number before you decide anything."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Wide Service Area"
+      },
+      {
+       "title": "Local Expertise"
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-4.png",
+      "alt": "Background 4",
+      "width": 458,
+      "height": 237
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "From \"We Should Deal With That\" to Dealt With — in Four Steps"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The junk took years to accumulate. Getting rid of it takes an afternoon:"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "1. Book in Two Minutes",
+       "text": [
+        "Call +1 647 922 5865 or use the online form. Crews cover Port Perry and all of Scugog seven days a week, 6AM to 11PM, with same-day openings most days and a 30-minute heads-up text before arrival."
+       ]
+      },
+      {
+       "title": "2. Give Us the Tour",
+       "text": [
+        "Point out everything that's going — one item or forty. We measure it against the truck, quote one all-inclusive price, and leave the decision entirely with you."
+       ]
+      },
+      {
+       "title": "3. Hands in Pockets, Feet Up",
+       "text": [
+        "Say yes and the crew handles the rest: down from bedrooms, up from basements, out of sheds and boathouses. Floors protected, walls padded, and not a single thing carried by you."
+       ]
+      },
+      {
+       "title": "4. Tidy Finish, Thoughtful Disposal",
+       "text": [
+        "We sweep where the junk sat, load up, and sort the truck's contents afterward — donations to local partners, metals and electronics to recyclers, and landfill only for what nothing else will take."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Whatever Your Port Perry Home Has Outgrown, We Haul It"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Scugog homes collect things at their own pace. Heritage houses downtown hold generations of furniture. Cottages on the lake accumulate a strange museum of patio sets, water toys and half-working appliances. Rural properties fill their sheds first and their barns second. Wherever your home falls on that spectrum, here's what goes on the truck:"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Furniture Pickup in Port Perry",
+       "a": [
+        [
+         "Sofas, sectionals and recliners that have served their time"
+        ],
+        [
+         "Complete bedroom sets — mattresses, box springs, frames and dressers"
+        ],
+        [
+         "Dining tables, hutches and china cabinets"
+        ],
+        [
+         "Bookcases, desks and home office furniture"
+        ],
+        [
+         "Heavy antique pieces too big for the next owner’s car"
+        ],
+        [
+         "Patio, deck and dock furniture"
+        ]
+       ]
+      },
+      {
+       "q": "Appliance Pickup in Port Perry",
+       "a": [
+        [
+         "Fridges, chest freezers and beer fridges from the garage"
+        ],
+        [
+         "Washers and dryers, stacked or side-by-side"
+        ],
+        [
+         "Stoves, ovens and cooktops"
+        ],
+        [
+         "Dishwashers and microwaves"
+        ],
+        [
+         "Drained hot water tanks, water softeners and dehumidifiers"
+        ],
+        [
+         "Window AC units and space heaters"
+        ]
+       ]
+      },
+      {
+       "q": "Room, Garage & Outdoor Clearing in Port Perry",
+       "a": [
+        [
+         "Garage clear-outs — make the snowblower reachable again"
+        ],
+        [
+         "Basement, rec room and cold cellar decluttering"
+        ],
+        [
+         "Shed, bunkie and boathouse emptying"
+        ],
+        [
+         "Cottage clear-outs — end-of-season or end-of-ownership"
+        ],
+        [
+         "Yard cleanups — old swing sets, trampolines, dock sections, lumber piles"
+        ],
+        [
+         "Moving-week junk runs — everything the moving truck refuses"
+        ]
+       ]
+      },
+      {
+       "q": "Bulky, Odd & Everything-Else Items in Port Perry",
+       "a": [
+        [
+         "Hot tubs, dismantled and hauled off the deck"
+        ],
+        [
+         "Pianos, organs and pool tables"
+        ],
+        [
+         "Treadmills, home gyms and exercise bikes"
+        ],
+        [
+         "TVs, computers, printers and boxed e-waste"
+        ],
+        [
+         "Rolled carpet, old flooring and small reno debris"
+        ],
+        [
+         "Scrap metal, BBQs, lawn tractors and snowblowers past saving"
+        ],
+        [
+         "Bed-bug-affected furniture — sealed on site, removed discreetly"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Service Areas"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "- Recent Reviews -"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Read what our past customers say"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions About Residential Junk Removal in Port Perry, ON"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Q: What does junk removal cost for a Port Perry home?",
+       "a": [
+        [
+         "A: Whatever space your items claim in the truck — that’s the entire formula. Small loads start at $125, and the exact figure is quoted free at your door before anything moves. No hourly rates, no weight fees, no revisions after the fact."
+        ]
+       ]
+      },
+      {
+       "q": "Q: How soon can a crew get here?",
+       "a": [
+        [
+         "A: Often today. We run seven days a week, 6AM to 11PM, across Port Perry and all of Scugog, and same-day slots open most mornings. Call +1 647 922 5865 for a straight answer on current availability."
+        ]
+       ]
+      },
+      {
+       "q": "Q: The stuff is in the basement / upstairs / out in the boathouse — is that a problem?",
+       "a": [
+        [
+         "A: It’s the job. We carry items from exactly where they live — basements, second floors, sheds, bunkies, boathouses — with floor runners down and corners padded. You never need to stage anything at the curb."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Is it worth calling you for just one item?",
+       "a": [
+        [
+         "A: Completely. A single mattress, fridge or couch is priced as the small load it is, and one-item runs fill a good chunk of our Port Perry schedule. No minimums, no small-job surcharge."
+        ]
+       ]
+      },
+      {
+       "q": "Q: We're closing up the cottage — can you take a mixed pile of furniture, appliances and outdoor stuff in one go?",
+       "a": [
+        [
+         "A: That’s the ideal booking for volume pricing. Mixed loads all ride together and get priced by total truck space, so a cottage clear-out with a couch, a fridge, six patio chairs and a broken kayak is still just one simple quote."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+/** /llms.txt — business summary, services, service areas and key URLs for AI assistants. */
+import { llmsTxt } from "@/lib/seo/llms";
+
+export const dynamic = "force-static";
+
+export function GET() {
+  return new Response(llmsTxt(), { headers: { "Content-Type": "text/plain; charset=utf-8" } });
+}

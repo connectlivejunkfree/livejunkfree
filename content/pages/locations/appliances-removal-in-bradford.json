@@ -1,0 +1,557 @@
+{
+ "id": 16629,
+ "kind": "page",
+ "path": "/locations/appliances-removal-in-bradford/",
+ "type": "location-service",
+ "template": "LocationService",
+ "seo": {
+  "title": "Same-day Bradford Appliance Pickup for Junk and Waste | Live Junk Free",
+  "description": "Fast and safe appliances removal in Bradford. Ideal for residential, office, e waste and large item disposal. Same day service available. Book now!",
+  "canonical": "https://livejunkfree.ca/locations/appliances-removal-in-bradford/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
+ },
+ "title": "appliances-removal-in-bradford",
+ "h1": "Appliance Removal Services in Bradford, Ontario — Heavy Appliances Gone the Same Day",
+ "published": "2026-07-13T03:21:38",
+ "modified": "2026-07-13T03:21:38",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "checks",
+     "items": [
+      "Our Service Areas"
+     ]
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Appliance Removal Services in Bradford, Ontario — Heavy Appliances Gone the Same Day"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We are Bradford’s trusted appliance removal team — locally operated, fully insured and built to haul away the heaviest items in your home safely. Fridges, freezers, washers, dryers, stoves, dishwashers — from basements, kitchens, garages or upstairs laundry rooms. We come to your Bradford home, assess the job in person, hand you a completely free on-site estimate before touching a single appliance, and if you’re ready to go, it’s gone the same day. No delays, no drawn-out booking process, no runaround."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "marquee",
+     "items": [
+      "House Cleanouts",
+      "Fence Removal",
+      "Shed Demolition",
+      "Yard Waste",
+      "Retail Cleanout",
+      "Wall Demolition",
+      "Deck Demolition"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-2.png",
+      "alt": "Background 2",
+      "width": 590,
+      "height": 500
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-3.png",
+      "alt": "Background 3",
+      "width": 590,
+      "height": 500
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "From Downtown Holland Street to the Newest Subdivisions — Bradford Trusts Us With Its Heaviest Lifts"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Live Junk Free is a locally owned, fully insured junk removal team that has built its reputation across Bradford West Gwillimbury one pickup at a time — with over 660 five-star Google reviews from real customers, and a crew trained to move heavy appliances through tight hallways, basement stairs and doorframes without leaving a mark on your home."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "You pay for the space your appliances take up — nothing more",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Our pricing is calculated based on how much of our truck your items fill. A single dishwasher is priced small. A full kitchen's worth of appliances is priced accurately. The clock never runs. Your Bradford neighbourhood never affects your rate."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "02",
+       "title": "We come to your home and quote in person — every time",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "No phone estimates based on your description. We physically visit your Bradford home, look at the appliance, its location and the path out, and calculate your quote based on what we actually see. That's the only accurate way to price an appliance removal — and it's the only way we do it."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "03",
+       "title": "One flat all-inclusive number — labour, truck, fuel, disposal",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Whether it's an old chest freezer in a downtown Bradford basement, a builder-grade swap-out in one of the new subdivisions off Yonge Street, or a rural property near the Holland Marsh — your quote covers labour, truck, fuel and disposal in one number. Nothing is added afterward, no matter how heavy the item or how tricky the stairs."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "04",
+       "title": "Heavy appliances moved safely — your home stays untouched",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Fridges and washers aren't just heavy — they're awkward, and one wrong move can gouge a floor or dent a wall. Our Bradford crew uses dollies, straps and floor protection, disconnects standard hookups, and navigates tight staircases and doorways carefully, so the appliance leaves and your home stays exactly as it was."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "05",
+       "title": "You approve the price before we start — guaranteed",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Once you've reviewed the quote, the decision is entirely yours. Zero pressure. If you approve it, we start immediately. If you don't, we leave with no charge. And once you've approved it, that number never changes — regardless of how the job unfolds."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "06",
+       "title": "30–50% less than national franchise competitors",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "No franchise royalties means Bradford homeowners save significantly on every appliance pickup — for the same or better quality of service than big-name chains."
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Fair, Volume-Based Appliance Removal Pricing for Bradford Homes"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Fair Quotes, No Hourly Games"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Our pricing model at Live Junk Free has been the same since day one: fair, volume-based and completely transparent. Prices start as low as {{cad_125}} for small loads — a single appliance costs a fraction of a full load, exactly as it should. Book your free Bradford appliance removal estimate today — fair, volume-based pricing every time."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Wide Service Area"
+      },
+      {
+       "title": "Local Expertise"
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-4.png",
+      "alt": "Background 4",
+      "width": 458,
+      "height": 237
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "A Simpler Way to Get Rid of Old Appliances in Bradford"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The reason most homeowners in Bradford keep a dead fridge in the garage for years isn't that they want it there — it's that getting rid of it is a hassle. It's too heavy to move, it won't fit in a car, and the curb won't take it. Our entire same-day appliance removal process in Bradford, Ontario is built to solve exactly that. Here's how simple it actually is — 4 steps, start to finish:"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "1. Book Quickly, Get Confirmed Instantly",
+       "text": [
+        "Call +1 647 922 5865 or use our online booking form to schedule your Bradford appliance pickup in minutes. We offer same-day and next-day appointments with a 30-minute arrival notice, so you're never left waiting around."
+       ]
+      },
+      {
+       "title": "2. We Arrive, Assess, and Quote",
+       "text": [
+        "Our professional crew arrives on time, checks the appliance and its route out of your home, and provides a clear, all-inclusive quote before any work begins. There is no obligation to proceed and no hidden fees."
+       ]
+      },
+      {
+       "title": "3. We Handle All the Heavy Lifting",
+       "text": [
+        "Once approved, we disconnect standard hookups, protect your floors and doorframes, and carry the appliance out from wherever it sits — kitchens, basements, garages or upstairs laundry rooms. You don't need to move or prepare anything beforehand."
+       ]
+      },
+      {
+       "title": "4. Clean-Up & Responsible Recycling",
+       "text": [
+        "After loading, we tidy the area and haul everything to the right destination. Appliances are among the most recyclable items we collect — metals are recovered, refrigerants are handled properly, and working units are donated whenever possible."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Every Appliance, From Every Room — Bradford's Trusted Removal Team"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Bradford West Gwillimbury is one of the fastest-growing communities north of Toronto — thousands of new homes rising in subdivisions off Yonge Street and Holland Street where builder-grade appliances are already being upgraded, an established downtown core with older homes and decades-old units due for replacement, and rural properties around the Holland Marsh with garage freezers and outbuilding equipment. Whatever appliance needs to go, Live Junk Free removes it with the same professional standard, transparent pricing and same-day speed every time."
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Kitchen Appliance Removal in Bradford",
+       "a": [
+        [
+         "Fridge removal Bradford — full-size, French door, side-by-side, bar fridges"
+        ],
+        [
+         "Freezer removal Bradford — chest freezers, upright freezers, basement units"
+        ],
+        [
+         "Stove and oven removal Bradford — electric, gas (disconnected), induction"
+        ],
+        [
+         "Dishwasher removal Bradford"
+        ],
+        [
+         "Microwave and range hood removal Bradford"
+        ],
+        [
+         "Wine fridge and beverage cooler removal Bradford"
+        ]
+       ]
+      },
+      {
+       "q": "Laundry & Utility Appliance Removal in Bradford",
+       "a": [
+        [
+         "Washer removal Bradford — top-load, front-load, stacked units"
+        ],
+        [
+         "Dryer removal Bradford"
+        ],
+        [
+         "Stacked washer-dryer removal Bradford — including tight closets"
+        ],
+        [
+         "Hot water tank removal Bradford — drained tanks, basement and utility rooms"
+        ],
+        [
+         "Water softener removal Bradford"
+        ],
+        [
+         "Dehumidifier and portable AC removal Bradford"
+        ],
+        [
+         "Window and wall AC unit removal Bradford"
+        ],
+        [
+         "Furnace and old HVAC equipment removal Bradford — disconnected units"
+        ]
+       ]
+      },
+      {
+       "q": "Multi-Appliance & Renovation Pickups in Bradford",
+       "a": [
+        [
+         "Full kitchen appliance swap-out Bradford — renovation day pickups"
+        ],
+        [
+         "New appliance delivery leftovers Bradford — old unit haul-away"
+        ],
+        [
+         "Builder-grade appliance upgrades Bradford — new subdivision swap-outs"
+        ],
+        [
+         "Rental property appliance turnover Bradford"
+        ],
+        [
+         "Estate and house cleanout appliance removal Bradford"
+        ],
+        [
+         "Scrap metal and appliance combo pickups Bradford"
+        ]
+       ]
+      },
+      {
+       "q": "Commercial & Rural Appliance Removal in Bradford",
+       "a": [
+        [
+         "Restaurant appliance removal Bradford — commercial fridges, ovens, fryers"
+        ],
+        [
+         "Commercial freezer and cooler removal Bradford"
+        ],
+        [
+         "Office kitchen appliance removal Bradford"
+        ],
+        [
+         "Farm and rural property appliance removal Bradford — Holland Marsh area welcome"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Service Areas"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "- Recent Reviews -"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Read what our past customers say"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions About Appliance Removal in Bradford, ON"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Q: How much does appliance removal cost in Bradford, Ontario?",
+       "a": [
+        [
+         "A: Our Bradford appliance removal pricing is 100% volume-based — you pay based on how much space your items fill in our truck, not by the hour. Prices start at $125 for small loads and single appliances. We provide a free on-site estimate before any work begins. The price you approve is the price you pay — fair, flat and final."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you offer same-day appliance removal in Bradford?",
+       "a": [
+        [
+         "A: Yes — same-day pickups are available across all of Bradford West Gwillimbury, including the downtown core, the newer subdivisions off Yonge Street, Bond Head and surrounding communities. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Will you remove appliances from basements and upstairs laundry rooms?",
+       "a": [
+        [
+         "A: Yes — we remove appliances from exactly where they sit, including basements, upstairs laundry closets, garages and tight utility rooms. Our crew uses dollies, straps and floor protection to navigate stairs and doorways safely, so your home stays untouched."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do I need to disconnect the appliance before you arrive?",
+       "a": [
+        [
+         "A: Standard plug-in and water hookups (washers, dishwashers, fridges with water lines) we can disconnect on the spot. Gas appliances and hardwired units must be professionally disconnected by a licensed technician before removal — we’ll confirm this when you book so there are no surprises."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Can you remove just one appliance, like a single fridge?",
+       "a": [
+        [
+         "A: Absolutely — single-appliance pickups are one of our most common Bradford jobs. Because pricing is volume-based, one fridge or one washer costs a fraction of a full load. No minimum-load games, no inflated single-item fees."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

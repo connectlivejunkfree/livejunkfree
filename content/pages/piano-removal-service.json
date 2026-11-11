@@ -1,0 +1,555 @@
+{
+ "id": 13870,
+ "kind": "page",
+ "path": "/piano-removal-service/",
+ "type": "landing",
+ "template": "AdsLanding",
+ "seo": {
+  "title": "Piano Removal Near You | GTA | Live Junk Free",
+  "description": "Need piano removal in the GTA? Live Junk Free removes upright & grand pianos from any floor. Same-day available. Starting from $99. Get a free quote!",
+  "canonical": "https://livejunkfree.ca/piano-removal-service/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/07/piano-removal-services_before.jpg_202607141952.jpeg"
+ },
+ "title": "Piano- Landing Page",
+ "h1": "Piano Removal Near You — Upright, Grand & Digital Pianos Removed Across the GTA",
+ "published": "2026-05-26T07:07:24",
+ "modified": "2026-07-19T05:08:01",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Piano Removal Near You — Upright, Grand & Digital Pianos Removed Across the GTA"
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Any size. Any floor. Any condition. We lift, haul and dispose of it responsibly — same day."
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call Now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Upfront Pricing"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Starting from {{cad_249}}. Covers piano disposal, hauling, and cleanup. No hidden fees."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Same-Day Service"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Book before noon and we are there the same day across the GTA."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Fully Insured"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Fully licensed and insured on every job. Proof available on request."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/05/ChatGPT-Image-May-28-2026-03_10_27-AM-1024x683.png",
+      "alt": "ChatGPT Image May 28 2026 03 10 27 AM",
+      "width": 800,
+      "height": 534
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Piano Removal in the GTA — Done in One Visit"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Upright or grand, broken or working — Live Junk Free removes any piano from any room across the ",
+      {
+       "b": [
+        "Greater Toronto Area"
+       ]
+      },
+      ". Our trained crew handles the full job: disassembly where needed, careful removal through tight spaces, responsible disposal, and cleanup before we leave. You point. We do the rest."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Whether you need ",
+      {
+       "b": [
+        "upright piano removal near you"
+       ]
+      },
+      ", a ",
+      {
+       "b": [
+        "baby grand piano removal"
+       ]
+      },
+      ", or a ",
+      {
+       "b": [
+        "grand piano removed near you"
+       ]
+      },
+      " — we have done it before and we come prepared. Looking to ",
+      {
+       "b": [
+        "get rid of an old piano"
+       ]
+      },
+      " in the GTA? We handle responsible ",
+      {
+       "b": [
+        "piano disposal near you"
+       ]
+      },
+      ", including donation to local schools and charities before any landfill option."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call Now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Every Type of Piano We Remove"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Baby Grand Pianos"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We remove baby grand pianos with careful planning and the right equipment to ensure safe handling from start to finish."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Grand Pianos"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our team handles grand piano removal, including disassembly, transport, loading, and proper disposal with extra attention to detail."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Console Pianos"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We carefully remove console pianos while protecting their finish, internal parts, and the surrounding space during the move."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Studio Pianos"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We safely remove heavy studio pianos from rehearsal rooms, churches, schools, and other commercial spaces using proven handling methods."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Spinet Pianos"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our team transports spinet pianos with care to avoid damage to their delicate structure and internal components."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Digital Pianos"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We provide safe pickup and removal for digital pianos, handling electronic parts carefully throughout the process."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Electric Keyboards"
+    },
+    {
+     "t": "p",
+     "c": [
+      "From compact keyboards to professional electronic instruments, we offer quick and reliable removal services for all types."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Upright Pianos"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We safely remove upright pianos from homes, apartments, studios, schools, and businesses with careful handling every step of the way."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/05/junk-piano-removal-1024x683.png",
+      "alt": "Junk piano removal",
+      "width": 800,
+      "height": 534
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why GTA Homeowners Choose Live Junk Free for Piano Removal"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Upfront pricing from {{cad_249}} — price locked in before we start"
+      ],
+      [
+       "Same-day service available across Toronto, Mississauga, Brampton, Vaughan, Markham and more"
+      ],
+      [
+       "Fully licensed and insured on every job"
+      ],
+      [
+       "Eco-friendly — we donate usable pianos to local schools and charities before any disposal"
+      ],
+      [
+       "Disassembly included for baby grands and large pianos"
+      ]
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call Now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Piano Removal in Action"
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/05/ChatGPT-Image-May-28-2026-03_41_31-AM.png",
+      "alt": "ChatGPT Image May 28 2026 03 41 31 AM",
+      "width": 1672,
+      "height": 941
+     }
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call Now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Your Trusted Team for Piano Removal in the GTA"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Upright, Grand & Digital Pianos Removed Any Floor, Any Room, Same Day"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Getting rid of a piano is not a one-person job. We bring the right crew, the right equipment, and the experience to remove any piano safely — through stairs, tight hallways, and narrow doorways — without damage to your home. Upfront pricing, no hidden fees, fully insured."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "All Piano Types"
+      },
+      {
+       "title": "All GTA Cities"
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-4.png",
+      "alt": "Background 4",
+      "width": 458,
+      "height": 237
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Got a Piano Taking Up Space?"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We will move it out today."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book your Appointment",
+       "href": "/contact/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How Our Piano Removal Service Works"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Book in 60 Seconds",
+       "text": [
+        "Call 647-922-5865 or fill out the form. Tell us the piano type and your address. We offer same day piano removal across the GTA when you book before noon."
+       ]
+      },
+      {
+       "title": "We Arrive On Time",
+       "text": [
+        "Our crew shows up within the agreed window. We assess the piano, the access route, and any obstacles before we start. You will receive a firm, upfront price before we touch anything."
+       ]
+      },
+      {
+       "title": "We Do All the Heavy Lifting",
+       "text": [
+        "We use professional dollies, furniture sliders, and moving straps to protect your floors and walls throughout the removal. Disassembly is included where required — for baby grands we take the legs, pedals, and lid off on-site."
+       ]
+      },
+      {
+       "title": "Responsible Disposal",
+       "text": [
+        "We do not just take your piano to the nearest landfill. We explore every option: donation to a music school or community centre, parts salvage, and responsible recycling for what cannot be reused. We will let you know what happens to your piano after we leave."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Real Stories from Satisfied Custom"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions About Piano Removal in the GTA"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "How much does piano removal cost?",
+       "a": [
+        [
+         "Piano removal starts from $99 near you. Final price depends on the piano type — upright, baby grand, or grand piano — number of floors, and whether disassembly is needed. All prices confirmed upfront before any work begins."
+        ]
+       ]
+      },
+      {
+       "q": "Can you remove a piano from an upstairs room?",
+       "a": [
+        [
+         "Yes. We do it regularly. We bring professional equipment and a trained crew. Stairs, tight hallways, and disassembly are all handled on the day."
+        ]
+       ]
+      },
+      {
+       "q": "How fast can you remove my piano?",
+       "a": [
+        [
+         "We offer same day piano removal across most of the GTA when you book before 12pm. Call 647-922-5865 to check availability."
+        ]
+       ]
+      },
+      {
+       "q": "What happens to my piano after?",
+       "a": [
+        [
+         "We check donation options first — music schools, churches, community centres. If it cannot be donated, we recycle what we can. Responsible disposal only."
+        ]
+       ]
+      },
+      {
+       "q": "Are you insured?",
+       "a": [
+        [
+         "Yes. Fully licensed and insured on every job. We are happy to provide proof of coverage on request."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

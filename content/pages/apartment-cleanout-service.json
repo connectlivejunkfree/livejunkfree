@@ -1,0 +1,516 @@
+{
+ "id": 14434,
+ "kind": "page",
+ "path": "/apartment-cleanout-service/",
+ "type": "landing",
+ "template": "AdsLanding",
+ "seo": {
+  "title": "Apartment Cleanout Service in the GTA | Live Junk Free",
+  "description": "Need an apartment cleanout in the GTA? Live Junk Free clears furniture, appliances & clutter fast. Same-day available. Starting from $125. Landlords & tenants welcome. Book now!",
+  "canonical": "https://livejunkfree.ca/apartment-cleanout-service/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/05/apartment_cleanout_service.jpg-1024x577.jpeg"
+ },
+ "title": "Apartment Cleanout Service",
+ "h1": "Apartment Cleanout Service in the GTA — Furniture, Appliances & Clutter Cleared Fast",
+ "published": "2026-05-30T09:21:47",
+ "modified": "2026-05-30T14:46:27",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Apartment Cleanout Service in the GTA — Furniture, Appliances & Clutter Cleared Fast"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Landlords and tenants welcome. We clear everything in one visit. Starting from {{cad_125}}. Same-day available."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call Now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Upfront Pricing"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Starting from {{cad_125}}. Price confirmed before we start. No hidden fees."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Same-Day Service"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Book before noon and we are there the same day across the GTA."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Fully Insured"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We work with landlords, property managers, and tenants. Fully insured on every job."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/05/apartment_cleanout_service.jpg-1024x577.jpeg",
+      "alt": "Apartment cleanout service.jpg",
+      "width": 800,
+      "height": 451
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Apartment & Condo Cleanout in the GTA — Done in One Visit"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Whether you are a landlord clearing a unit between tenants, a tenant moving out, or a property manager handling an eviction cleanout — Live Junk Free provides a fast, professional ",
+      {
+       "b": [
+        "apartment cleanout service"
+       ]
+      },
+      " across the Greater Toronto Area. We clear furniture, appliances, and clutter in a single visit. No sorting, no multiple trips. Just a clean, empty unit.",
+      {
+       "br": 1
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We handle all types of unit cleanouts — studio apartments, 1- and 2-bedroom condos, basement suites, and full-floor units. For a ",
+      {
+       "b": [
+        "move out apartment cleanout"
+       ]
+      },
+      ", an estate cleanout, or a renovation debris clear — our crew arrives on time, works quickly, and leaves the space broom-clean before they go."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call Now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Apartment Cleanout Services We Provide"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Furniture Removal"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Sofas, beds, wardrobes, desks, and all types of furniture cleared from any unit, any floor, any building."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Appliance Removal"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Fridges, washing machines, dishwashers, and all large appliances removed and disposed of responsibly."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Move-Out Cleanouts"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Full unit clearance for tenants moving out — furniture, boxes, clothing, and everything left behind."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Estate Cleanouts"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We work with landlords and property managers to clear units quickly after evictions or estate situations — discreet, fast, and professional."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/05/apartment_cleanout_banner-1024x576.png",
+      "alt": "Apartment cleanout banner",
+      "width": 800,
+      "height": 450
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Landlords and Tenants Choose Live Junk Free"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Upfront pricing from {{cad_125}} — price locked in before we start, no hidden charges"
+      ],
+      [
+       "Furniture, appliances, boxes, clothing, renovation debris — we take everything in one trip"
+      ],
+      [
+       "Same day service across ",
+       {
+        "b": [
+         "Toronto"
+        ]
+       },
+       ", ",
+       {
+        "b": [
+         "Mississauga"
+        ]
+       },
+       ", ",
+       {
+        "b": [
+         "Brampton"
+        ]
+       },
+       ", ",
+       {
+        "b": [
+         "Vaughan"
+        ]
+       },
+       ", ",
+       {
+        "b": [
+         "Markham"
+        ]
+       },
+       ", ",
+       {
+        "b": [
+         "Scarborough"
+        ]
+       },
+       ", North York, Etobicoke and more"
+      ],
+      [
+       "Fully licensed and insured — proof of coverage available for property managers"
+      ],
+      [
+       "We work around building access and elevator booking times — just let us know when you book"
+      ]
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call Now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Apartment Cleanout in Action"
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/05/apartment_cleanout_before_and_after-1024x683.png",
+      "alt": "Apartment cleanout before and after",
+      "width": 800,
+      "height": 534
+     }
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call Now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Our Trusted Partner in Clutter-Free Spaces"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Dedicated to Fast, Professional, and Stress-Free Apartment Cleanouts"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We specialise in clearing apartments, condos, and residential units across the Greater Toronto Area. Landlords, tenants, and property managers — our trained crew handles the full cleanout in a single visit. Furniture, appliances, boxes, and clutter — all gone, all in one trip. No sorting, no multiple runs."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Wide Service Area"
+      },
+      {
+       "title": "Local Expertise"
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-4.png",
+      "alt": "Background 4",
+      "width": 458,
+      "height": 237
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Got an Apartment Full of Unwanted Items?"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We will take care of it."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book your Appointment",
+       "href": "/contact/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How It Works — 3 Simple Steps"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Book in 60 Seconds",
+       "text": [
+        "Call 647-922-5865 or fill out the form. Tell us the unit size and your address. We offer same day apartment cleanout across the GTA when you book before noon."
+       ]
+      },
+      {
+       "title": "We Arrive On Time",
+       "text": [
+        "Our crew shows up on schedule. We give you a firm upfront price before touching anything. No surprises, no extra charges."
+       ]
+      },
+      {
+       "title": "Gone — All of It",
+       "text": [
+        "We load all items into the truck, sweep up, and leave the unit empty and clean. Landlords and property managers — we know your turnover timelines and work accordingly."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Real Stories from Satisfied Custom"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "How much does an apartment cleanout cost?",
+       "a": [
+        [
+         "Our service starts from $125. The final price depends on the size of the unit and the volume of items. All prices are confirmed upfront before any work begins. No hidden fees."
+        ]
+       ]
+      },
+      {
+       "q": "Do you work with landlords and property managers?",
+       "a": [
+        [
+         "Yes. We regularly work with landlords, property managers, and real estate agents across the GTA. We understand tight turnover timelines and can work around building access and elevator bookings."
+        ]
+       ]
+      },
+      {
+       "q": "How fast can you clear the unit?",
+       "a": [
+        [
+         "We offer same day apartment cleanout across most of the GTA when you book before 12pm. Call 647-922-5865 or fill out the form to check availability."
+        ]
+       ]
+      },
+      {
+       "q": "What does the service include?",
+       "a": [
+        [
+         "Our apartment cleanout service includes removing all items from the unit, loading them into our truck, responsible disposal, and leaving the space broom-clean. All labour is included in the upfront price."
+        ]
+       ]
+      },
+      {
+       "q": "Do you clear condos and basement suites too?",
+       "a": [
+        [
+         "Yes. We clear all types of residential units — studio apartments, 1- and 2-bedroom condos, basement suites, townhouse units, and more. Size does not matter."
+        ]
+       ]
+      },
+      {
+       "q": "Are you insured?",
+       "a": [
+        [
+         "Yes. Fully licensed and insured on every job. We are happy to provide proof of coverage on request — property managers often ask for this and we have it ready."
+        ]
+       ]
+      },
+      {
+       "q": "Do you serve my area?",
+       "a": [
+        [
+         "We cover the full GTA including Toronto, Mississauga, Brampton, Vaughan, Markham, Scarborough, North York, Etobicoke, Newmarket, Ajax, Oakville, Burlington and more. Call 647-922-5865 to confirm."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

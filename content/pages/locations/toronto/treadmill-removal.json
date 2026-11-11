@@ -1,0 +1,771 @@
+{
+ "id": 16587,
+ "kind": "page",
+ "path": "/locations/toronto/treadmill-removal/",
+ "type": "location-service",
+ "template": "LocationService",
+ "seo": {
+  "title": "Treadmill Removal Toronto | Same-Day Pickup | Live Junk Free",
+  "description": "Treadmill taking up space in Toronto? Live Junk Free removes it fast — broken or working, any size. Upfront pricing, same-day available. Get a free quote!",
+  "canonical": "https://livejunkfree.ca/locations/toronto/treadmill-removal/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+ },
+ "title": "treadmill-removal",
+ "h1": "Treadmill Removal in Toronto — We Lift It, Load It & Take It Away",
+ "published": "2026-07-12T06:38:59",
+ "modified": "2026-07-12T06:38:59",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Treadmill Removal in Toronto — We Lift It, Load It & Take It Away"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "A treadmill that hasn't moved in months weighs just as much as the day you bought it — and getting it out is a two-person job at minimum."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Trusted by people of the Greater Toronto Area"
+      },
+      {
+       "title": "Insured, uniformed, and respectful crew"
+      },
+      {
+       "title": "Rated 5.0 on Google by 780+ customers"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Treadmill Removal In Toronto — Heavy Equipment Pickup Made Simple"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Here’s the thing about treadmills — they’re one of the most common items people buy with great intentions and eventually need help getting rid of. A standard treadmill can weigh anywhere from 60 to over 150 kilograms depending on the model, and most Toronto homes and condos weren’t designed with bulky fitness equipment in mind."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Getting a ",
+      {
+       "b": [
+        "treadmill removed in Toronto"
+       ]
+      },
+      " used to mean renting a truck, finding two strong friends willing to help on a Saturday, and still not being sure where to take it. That’s a lot of coordination for something that should be simple."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we take care of the entire process — including disassembly if needed, navigating tight doorways and building elevators, and responsible disposal or recycling of the machine. We offer same-day and next-day availability across the city, give you an upfront price before we touch anything, and leave the space clean when we’re done."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Call us and we’ll handle the rest."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Your Service Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
+      "alt": "DSC08963",
+      "width": 800,
+      "height": 534
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Toronto Businesses & Homeowners Trust Live Junk Free"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Why Toronto Residents Call Us First"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "We handle equipment that most people can’t move alone."
+       ]
+      },
+      " Treadmills are awkward, heavy, and often located in the worst possible spots — finished basements, second-floor spare bedrooms, or narrow condo dens. Our crew comes prepared with the right equipment and enough hands to move it safely, without taking chunks out of your walls or doorframes."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Your price is locked in before we start."
+       ]
+      },
+      " We’ve built a reputation across Toronto — backed by 598+ Google reviews — on one thing: saying what we charge and charging what we said. You get a clear quote on-site, before the treadmill moves an inch. No add-ons once the job is underway."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Same-day pickup, most days across Toronto."
+       ]
+      },
+      " Whether you’re in Etobicoke, Scarborough, or the Downtown Core, we can often be at your door the same day you call. Fitness equipment removal isn’t something that needs to sit on a three-week waitlist."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "We recycle what we can — and we mean it."
+       ]
+      },
+      " Treadmills contain steel frames, motors, and electronic components — all of which have real recycling value. We route them to certified facilities rather than dumping them whole into a landfill. If a machine is in working condition, we explore donation options first."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Licensed, insured, and genuinely careful with your property."
+       ]
+      },
+      " Boot covers go on at the door. Protective padding goes on the walls and elevator interiors. We work the way you’d want a crew working inside your home — quietly, efficiently, and without leaving a mess."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How Our Toronto Treadmill Removal Works"
+    },
+    {
+     "t": "p",
+     "c": [
+      "From Booking to Done — Here’s What to Expect"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Reserve Your Pickup Window"
+       ]
+      },
+      " Call us or fill out our online form in under two minutes. Let us know the treadmill’s location — basement, condo, second floor — and we’ll confirm your time slot. Same-day and next-day options are available across most Toronto neighbourhoods, so you’re not waiting long."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "We Arrive, Quote, and Get Moving"
+       ]
+      },
+      " Our crew shows up within your confirmed window and calls 30 minutes ahead so you know exactly when to expect us. We take a quick look at the treadmill, assess any access challenges, and give you a firm, upfront price. Once you say go, we handle everything from that point."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Out the Door, Responsibly Disposed"
+       ]
+      },
+      " We disassemble the treadmill if needed, carry it out through whatever route works best, load it onto the truck, and sweep the area clean before we leave. The machine goes to a recycling facility or, if it’s still running, we explore donation channels in the Toronto area."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Benefits of Choosing Live Junk Free for Treadmill Removal"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Flexible Scheduling",
+       "text": [
+        "We handle all the lifting, hauling, and disposal – no struggling with heavy TVs or rental trucks"
+       ]
+      },
+      {
+       "title": "All-Inclusive Pricing",
+       "text": [
+        "Your upfront quote covers everything: labor, hauling, and disposal with no surprise fees"
+       ]
+      },
+      {
+       "title": "Eco-Friendly Disposal",
+       "text": [
+        "We recycle materials and donate usable furniture to local charities"
+       ]
+      },
+      {
+       "title": "Damage-Free Guarantee",
+       "text": [
+        "We protect your home during removal with padding and careful handling"
+       ]
+      },
+      {
+       "title": "Bulk Removal Options",
+       "text": [
+        "Special rates when clearing multiple pieces of furniture"
+       ]
+      },
+      {
+       "title": "Stress-Free Pickup Service",
+       "text": [
+        "We handle lifting, loading, and hauling so you don’t have to move a thing."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Benefits Of Choosing Live Junk Free For Treadmill Removal"
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Book Today, Gone Today"
+       ]
+      },
+      " Same-day and next-day availability across Toronto, including weekends. We move on your schedule — not a week from now."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "One Quote Covers Everything"
+       ]
+      },
+      " Labour, disassembly if needed, hauling, and responsible disposal — all included in a single upfront price. No line items added at the end."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Components Recycled, Not Just Dumped"
+       ]
+      },
+      " Steel frames, motors, and electronics inside your treadmill have real recyclable value. We send them to certified processing facilities rather than a general landfill."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Your Home Stays in One Piece"
+       ]
+      },
+      " Heavy equipment through tight spaces can damage walls and floors. Our crew uses protective pads and proper technique throughout the removal — nothing gets scraped or scuffed."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "One Treadmill or a Full Gym Clearout"
+       ]
+      },
+      " We scale to whatever the job requires. A single machine or an entire condo fitness room — same crew, same quality, volume pricing for bigger loads."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "You Do Absolutely Nothing"
+       ]
+      },
+      " Not a single lift, push, or trip to the elevator lobby. We come to wherever the equipment is, handle it completely, and leave the space tidy."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What We Remove — Treadmill Removal in Toronto"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Treadmills, Gym Equipment & Everything Else Taking Up Space"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We specialize in treadmill removal, but the reality is that most people have more than one piece of equipment they’re done with. Our Toronto team removes it all in a single visit — saving you time and reducing the cost compared to multiple trips."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Treadmills — all types:"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Folding treadmills (compact and full-size)"
+      ],
+      [
+       "Commercial-grade treadmills"
+      ],
+      [
+       "Non-folding flat-deck treadmills"
+      ],
+      [
+       "Broken, non-functional, or damaged treadmills"
+      ],
+      [
+       "Manual (non-motorized) treadmills",
+       {
+        "br": 1
+       },
+       {
+        "br": 1
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Other exercise equipment we remove:"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Elliptical trainers and cross-trainers"
+      ],
+      [
+       "Stationary bikes (upright, recumbent, spin bikes)"
+      ],
+      [
+       "Rowing machines"
+      ],
+      [
+       "Weight benches, racks, and free weights"
+      ],
+      [
+       "Home gym multi-stations and cable machines"
+      ],
+      [
+       "Stair climbers and step machines"
+      ],
+      [
+       "Ski/glide machines"
+      ],
+      [
+       "Punching bags and stands"
+      ],
+      [
+       "Yoga and workout mats (bulk only)",
+       {
+        "br": 1
+       },
+       {
+        "br": 1
+       }
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Commercial gym clearouts:"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Full gym decommissions for condos, offices, and fitness studios"
+      ],
+      [
+       "Bulk equipment removal with volume pricing"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Don’t see your specific equipment listed? Call us anyway — if it’s non-hazardous, we can almost certainly take it off your hands."
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Book Your Appointment",
+       "text": [
+        "Call us or use our quick online form. Tell us what needs to go and where you're in Toronto — we'll give you an upfront price right away. No commitment needed."
+       ]
+      },
+      {
+       "title": "Our Team Arrives On Time",
+       "text": [
+        "We call 30 minutes before showing up so you're never left waiting. Our crew arrives on schedule, confirms your quote on the spot, and gets straight to work."
+       ]
+      },
+      {
+       "title": "Treadmill Removed Carefully",
+       "text": [
+        "We handle all the heavy lifting — protecting your floors, walls, and doorframes throughout. You just point, and we take care of the rest."
+       ]
+      },
+      {
+       "title": "Responsible Disposal, Every Time",
+       "text": [
+        "Usable pieces get donated to local Toronto charities. Everything else goes to certified recycling facilities. We keep as much out of landfill as possible."
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Real Toronto Spaces, Real Transformations"
+    },
+    {
+     "t": "p",
+     "c": [
+      "A spare room dominated by an unused treadmill has more potential than you’d think. Take a look at what our Toronto crew has cleared — exercise equipment that hadn’t moved in years, gone in a single visit. The room you get back is worth more than the equipment ever was."
+     ]
+    },
+    {
+     "t": "gallery",
+     "images": [
+      {
+       "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
+       "alt": "20250405_140825"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
+       "alt": "20250405_142357"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250405_142736-1024x577.webp",
+       "alt": "20250405_142736"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250405_144606-1024x577.webp",
+       "alt": "20250405_144606"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250611_115029-1024x577.webp",
+       "alt": "20250611_115029"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250611_201732-1024x577.webp",
+       "alt": "20250611_201732"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250530_110858-1024x577.webp",
+       "alt": "20250530_110858"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250526_193102-1024x577.webp",
+       "alt": "20250526_193102"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Treadmill Removal Toronto — Your Questions Answered"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Q: Do you remove broken or non-working treadmills in Toronto?",
+       "a": [
+        [
+         "A: Yes — broken treadmills are one of our most common requests. They’re too heavy to donate or sell, so we handle removal for non-functional machines of all sizes. Call to confirm same-day availability."
+        ]
+       ]
+      },
+      {
+       "q": "Q: How much does treadmill removal cost in Toronto?",
+       "a": [
+        [
+         "A: Pricing is based on truck volume and access complexity — not a flat rate. A standard folding treadmill sits at the lower end. We quote you on-site before anything moves. No surprises."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you disassemble treadmills before removing them?",
+       "a": [
+        [
+         "A: Yes, when needed. Some models must be broken down to fit through doorways or tight corners — especially in older Toronto homes. Our crew handles all disassembly. No tools required on your end."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Can you remove a treadmill from a condo or apartment in Toronto?",
+       "a": [
+        [
+         "A: Absolutely. We coordinate elevator access, follow building time restrictions, and protect hallway walls throughout the removal. Just let us know it’s a condo when booking and we’ll plan accordingly."
+        ]
+       ]
+      },
+      {
+       "q": "Q: What happens to my old treadmill after pickup — is it recycled?",
+       "a": [
+        [
+         "A: Yes. Steel frames, motors, and electronics inside treadmills are sent to certified recycling facilities. Working units are explored for donation first. We keep as much as possible out of landfill."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What People Say About Us"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Areas We Serve"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       {
+        "a": "/locations/east-gwillimbury/",
+        "c": [
+         "East Gwillimbury"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/etobicoke/",
+        "c": [
+         "Etobicoke"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/junk-removal-services-in-georgina/",
+        "c": [
+         "Georgina"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/wp-admin/setup-config.php",
+        "c": [
+         "King City"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/markham/",
+        "c": [
+         "Markham"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/mississauga/",
+        "c": [
+         "Mississauga"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/new-market/",
+        "c": [
+         "Newmarket"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/nobleton/",
+        "c": [
+         "Nobleton"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/oshawa/",
+        "c": [
+         "Oshawa"
+        ]
+       }
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ],
+      [
+       "Stouffville"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

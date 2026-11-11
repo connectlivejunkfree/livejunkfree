@@ -1,0 +1,1012 @@
+{
+ "id": 9420,
+ "kind": "page",
+ "path": "/junk-removal/",
+ "type": "landing",
+ "template": "AdsLanding",
+ "seo": {
+  "title": "Junk Removal - Live JunkFree",
+  "description": "",
+  "canonical": "https://livejunkfree.ca/junk-removal/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-East-Gwillimbury.png"
+ },
+ "title": "Junk Removal",
+ "h1": "Toronto’s 5-Star Rated Choice for Fast, Affordable & Professional Junk Removal Near You",
+ "published": "2025-01-25T07:22:30",
+ "modified": "2026-07-19T05:06:54",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Toronto’s 5-Star Rated Choice for Fast, Affordable & Professional Junk Removal Near You"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Looking for “junk removal near you”? We offer professional junk removal services, household junk pickups, and affordable junk removal for homes, offices, and construction sites."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Same-Day Pickup",
+       "href": "/contact/"
+      },
+      {
+       "label": "Call us now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    },
+    {
+     "t": "stats",
+     "items": [
+      {
+       "label": "Services Completed",
+       "value": "1,000+"
+      },
+      {
+       "label": "Happy Clients",
+       "value": "700+"
+      },
+      {
+       "label": "Years Experience",
+       "value": "6+"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/07/DSC08977-scaled-1-768x512.webp",
+      "alt": "DSC08977 scaled 1",
+      "width": 768,
+      "height": 512
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/07/DSC08963-scaled-1-768x512.webp",
+      "alt": "apartment cleanout services",
+      "width": 768,
+      "height": 512
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/08/Frame-26154-1.webp",
+      "alt": "Frame 26154 1",
+      "width": 380,
+      "height": 246
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "This Is How It Works"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "1. Book a Slot for a Pickup",
+       "text": [
+        "Looking for junk removal near you or household junk removal near you? Check your routine and get in touch with us through a call or website to",
+        {
+         "a": "/contact/",
+         "c": [
+          " schedule an appointment"
+         ]
+        },
+        " for cleaning at a convenient date and time."
+       ]
+      },
+      {
+       "title": "2. We Show Up and Clean Out",
+       "text": [
+        {
+         "a": "/about/",
+         "c": [
+          "Our professionals"
+         ]
+        },
+        " are punctual in visiting your place and take charge of lifting and promptly removing your undesired goods from there on."
+       ]
+      },
+      {
+       "title": "3. Ecological & Responsible Disposal",
+       "text": [
+        "After thorough cleaning, we haul the trash and dispose of it in an environmentally responsible manner by recycling and reusing it."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Connect Us ToFree your Space"
+    },
+    {
+     "t": "form",
+     "name": "New Form"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Say Goodbye to Clutter with Toronto’s Most Trusted & Affordable Junk Removal Services Near You!"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Are you searching for junk removal near me or trusted affordable junk pickup companies near me? Live Junk Free offers fast, friendly, and professional junk removal services. Whether you’re decluttering your home, renovating an office, or clearing out a construction site—we handle it all!"
+     ]
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Residential Junk Removal"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Overwhelmed by clutter? Whether you're clearing out the garage, prepping your home for sale, or ditching decades of unwanted junk, our household junk removal services are fast, friendly, and fully hands-free. From furniture removal to old electronics and renovation debris, we haul it all. Searching for junk removal near me, junk removal residential, or even cheap junk removal in Toronto? We’re your go-to team to reclaim your space without lifting a finger."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Commercial Junk Removal"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Running a business? Don’t let junk slow you down. Our reliable and professional junk removal services are perfect for office cleanouts, retail upgrades, warehouse disposal, and construction removal near me. Whether you're moving locations or managing a renovation, we handle everything from e-waste to bulk trash. Forget hunting for “junk removal companies near me”—we’re already trusted across Toronto for top-tier commercial clearance."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Cleanouts"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Moving out? Managing an estate? Or just tired of tripping over stuff? We specialize in full-property cleanouts, offering junk and furniture removal, hauling, sorting, and disposal services. Think of us as your personal cleanout crew—minus the headaches. Whether you're searching for junk removal and moving services, trash pickup companies near me, or simply need cheap junk removal that doesn't cut corners, we deliver quick turnarounds and cleaner outcomes."
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Instant Service Quote"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Tell Us What needs to go"
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "+1 647 922 5865",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "- Simplify Your Space -"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Items We Remove"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Appliances",
+       "image": {
+        "src": "/images/uploads/2024/12/image-5.png",
+        "alt": "Image 5",
+        "width": 101,
+        "height": 100
+       }
+      },
+      {
+       "title": "Furniture",
+       "image": {
+        "src": "/images/uploads/2024/12/image-6.png",
+        "alt": "Image 6",
+        "width": 101,
+        "height": 100
+       }
+      },
+      {
+       "title": "Carpet",
+       "image": {
+        "src": "/images/uploads/2024/12/image-14.png",
+        "alt": "Image 14",
+        "width": 101,
+        "height": 100
+       }
+      },
+      {
+       "title": "Exercise Equipments",
+       "image": {
+        "src": "/images/uploads/2024/12/image-17.png",
+        "alt": "Image 17",
+        "width": 101,
+        "height": 100
+       }
+      },
+      {
+       "title": "Wood",
+       "image": {
+        "src": "/images/uploads/2024/12/image-35.png",
+        "alt": "Image 35",
+        "width": 101,
+        "height": 100
+       }
+      },
+      {
+       "title": "Garage",
+       "image": {
+        "src": "/images/uploads/2024/12/image-36.png",
+        "alt": "Image 36",
+        "width": 101,
+        "height": 100
+       }
+      },
+      {
+       "title": "Pianos",
+       "image": {
+        "src": "/images/uploads/2024/12/image-59.png",
+        "alt": "Image 59",
+        "width": 101,
+        "height": 100
+       }
+      },
+      {
+       "title": "Yard Waste",
+       "image": {
+        "src": "/images/uploads/2024/12/image-40.png",
+        "alt": "Image 40",
+        "width": 101,
+        "height": 100
+       }
+      }
+     ]
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "View All Items",
+       "a": [
+        [
+         " .custom-list { display: flex; flex-wrap: wrap; list-style: none; padding: 0; margin: 0; } .custom-list li { width: 50%; margin-bottom: 10px; line-height: 1.6; } .custom-list li span { color: #FF691D; margin-right: 6px; } @media (max-width: 768px) { .custom-list li { width: 100%; margin-bottom: 14px; } } "
+        ],
+        [
+         "✱ Couch Removal"
+        ],
+        [
+         "✱ Mattress Removal"
+        ],
+        [
+         "✱ Boxspring Removal"
+        ],
+        [
+         "✱ Desk Removal"
+        ],
+        [
+         "✱ Dresser Removal"
+        ],
+        [
+         "✱ Television Removal"
+        ],
+        [
+         "✱ Sofa Removal"
+        ],
+        [
+         "✱ Table Removal"
+        ],
+        [
+         "✱ Wall unit Removal"
+        ],
+        [
+         "✱ Filing Cabinet Removal"
+        ],
+        [
+         "✱ Patio Furniture Removal"
+        ],
+        [
+         "✱ Treadmill Removal"
+        ],
+        [
+         "✱ Pianos"
+        ],
+        [
+         "✱ Exercise Equipment"
+        ],
+        [
+         "✱ Hutch Removal"
+        ],
+        [
+         "✱ Freezer Removal"
+        ],
+        [
+         "✱ Fridge Removal"
+        ],
+        [
+         "✱ Stove Removal"
+        ],
+        [
+         "✱ Washer & Dryer Removal"
+        ],
+        [
+         "✱ Microwave Removal"
+        ],
+        [
+         "✱ Dishwasher Removal"
+        ],
+        [
+         "✱ Water Tank Removal"
+        ],
+        [
+         "✱ Hot tub Removal"
+        ],
+        [
+         "✱ Jacuzzi Removal"
+        ],
+        [
+         "✱ E-Waste Removal"
+        ],
+        [
+         "✱ Clutter Removal"
+        ],
+        [
+         "✱ Tire Removal"
+        ],
+        [
+         "✱ Garbage Pickup"
+        ],
+        [
+         "✱ Dirt Removal"
+        ],
+        [
+         "✱ Sod Removal"
+        ],
+        [
+         "✱ Soil Removal"
+        ],
+        [
+         "✱ Paper"
+        ],
+        [
+         "✱ Cardboard"
+        ],
+        [
+         "✱ Brush"
+        ],
+        [
+         "✱ Pool table removal"
+        ],
+        [
+         "✱ Scrap metal removal"
+        ],
+        [
+         "✱ Bed bug furniture removal"
+        ],
+        [
+         "✱ Junk removal"
+        ],
+        [
+         "✱ Wood removal"
+        ],
+        [
+         "✱ Carpet removal"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Choose Us?"
+    },
+    {
+     "t": "p",
+     "c": [
+      "No matter how big or tiny, We haul it all."
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Set Up a Time For Your Residential Junk Removal Project Right Now!"
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Eco-FriendlyDisposal",
+       "image": {
+        "src": "/images/uploads/2025/01/Frame-2.png",
+        "alt": "Frame 2",
+        "width": 61,
+        "height": 61
+       }
+      },
+      {
+       "title": "Customer Satisfaction",
+       "image": {
+        "src": "/images/uploads/2025/01/image-56-1.png",
+        "alt": "Image 56 1",
+        "width": 61,
+        "height": 61
+       }
+      },
+      {
+       "title": "Affordable Pricing",
+       "image": {
+        "src": "/images/uploads/2025/01/Frame-3.png",
+        "alt": "Frame 3",
+        "width": 61,
+        "height": 61
+       }
+      },
+      {
+       "title": "Flexible Scheduling",
+       "image": {
+        "src": "/images/uploads/2025/01/image-55-1.png",
+        "alt": "Image 55 1",
+        "width": 61,
+        "height": 61
+       }
+      },
+      {
+       "title": "Safety Standards",
+       "image": {
+        "src": "/images/uploads/2025/01/image-22-1.png",
+        "alt": "Image 22 1",
+        "width": 61,
+        "height": 61
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "marquee",
+     "items": [
+      "House Cleanouts",
+      "Fence Removal",
+      "Shed Demolition",
+      "Yard Waste",
+      "Retail Cleanout",
+      "Wall Demolition",
+      "Deck Demolition"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Our Values"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "At Live Junk Free, we're more than just another name on the list of junk removal companies near me. We stand for simplicity, service, sustainability, and savings. Whether you're searching for affordable junk removal in Toronto or professional junk removal services for your home or business, our values ensure every experience is efficient, eco-conscious, and truly stress-free."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Simplicity in Cleanliness"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We believe decluttering should be simple. From junk removal residential to household junk removal, our mission is to clear your space—fast. No stress, no mess—just instant peace of mind and a clutter-free home."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Prioritising Customers’ Needs"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Whether it’s a big move or a small purge, our tailored services—from junk and furniture removal to junk removal and moving—are built around you. Transparent pricing, friendly teams, and satisfaction guaranteed."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Devotion towards Environment"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "As one of the most responsible trash pickup companies near me, we treat your junk with care. Items are reused, recycled, or donated wherever possible. Cleaner homes, greener Earth."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "The Highest Level of Efficiency"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Your time matters. Our rapid response team specializes in construction removal near me, furniture removal, and junk pickup at lightning speed. Affordable, dependable, and on time—every time."
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Ongoing Development"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "From smart logistics to eco-friendly disposal methods, we’re always growing. That’s why we’re becoming the top-rated answer when people search for junk removal near me or affordable junk removal that doesn’t cut corners."
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Instant Service Quote"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Tell Us What needs to go"
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "+1 647 922 5865",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Service Areas"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Recent Site Visit"
+    },
+    {
+     "t": "gallery",
+     "images": [
+      {
+       "src": "/images/uploads/2025/07/20250424_124141-scaled-1-768x432.webp",
+       "alt": "20250424_124141-scaled"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250424_124206-scaled-1-768x433.webp",
+       "alt": "20250424_124206-scaled"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250504_123132.webp",
+       "alt": "20250504_123132"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250512_170512.webp",
+       "alt": "20250512_170512"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250425_072039-scaled-1-768x433.webp",
+       "alt": "20250425_072039-scaled"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250425_072045-scaled-1-768x432.webp",
+       "alt": "20250425_072045-scaled"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250426_160601-scaled-1-768x433.webp",
+       "alt": "20250426_160601-scaled"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250504_123131-1.webp",
+       "alt": "20250504_123131 (1)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Instant Service Quote"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Tell Us What needs to go"
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "+1 647 922 5865",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/07/20250425_072039-scaled-1-768x433.webp",
+      "alt": "20250425 072039 scaled 1",
+      "width": 768,
+      "height": 433
+     }
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Why Live Junk Free?"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Junk Removal Services Across the GTA — Fast, Affordable & Trusted"
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Serving 30+ Cities Across GTA with Lightning-Fast, Affordable Junk Removal Solutions!"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Imagine booking professional junk removal services at the click of a button—no sweat, no stress, and no surprise costs. Whether it’s old sofas, broken appliances, or yard debris, our team shows up on time, lifts, loads, and leaves you with a spotless space. Best of all? You get affordable, upfront junk removal rates in Toronto without sacrificing quality."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Serving 35+ GTA Neighborhoods—Wherever You Are, We’re Near"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Looking for junk removal near you? We’re already in your backyard! From Toronto to Mississauga, Brampton, Scarborough, Etobicoke, Oshawa, Richmond Hill, Whitby, and beyond:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax • Aurora • Bolton • Bradford • Caledon • East Gwillimbury"
+      ],
+      [
+       "Georgina • King City • Markham • Newmarket • Nobleton • Oshawa"
+      ],
+      [
+       "Pickering • Port Perry • Richmond Hill • Schomberg • Uxbridge"
+      ],
+      [
+       "Vaughan • Woodbridge • Whitchurch–Stouffville • Whitby"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Whether you need junk removal residential, junk and furniture removal, or construction removal near me, we’re already on the road, ready to clear your clutter today."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Household Junk Removal – Decluttering homes, basements, garages & backyards"
+      ],
+      [
+       "Furniture Removal & Sofa Dumping Near You – Old couches, beds, tables – gone!"
+      ],
+      [
+       "Junk Removal and Moving – Moving out? Let us handle the heavy lifting"
+      ],
+      [
+       "Construction Removal Near You – We clear drywall, debris & renovation waste"
+      ],
+      [
+       "Junk Removal Residential Services – Safe, eco-friendly junk pickup for every home"
+      ],
+      [
+       "Affordable Junk Removal with zero hidden fees and instant quotes"
+      ],
+      [
+       "Same Day Junk Removal – Call now, we’ll be there today!"
+      ],
+      [
+       "Junk and Furniture Removal made easy, affordable, and fast"
+      ],
+      [
+       "Rated 5.0 on Google by 780+ customers"
+      ]
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/07/20250425_072054-scaled-1-768x433.webp",
+      "alt": "20250425 072054 scaled 1",
+      "width": 768,
+      "height": 433
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Instant Service Quote"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Tell Us What needs to go"
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "+1 647 922 5865",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "What types of items do you remove?",
+       "a": [
+        [
+         "We remove a wide range of items, including furniture, appliances, electronics, mattresses, construction debris, yard waste, and more. If you’re unsure if we can take a specific item, feel free to reach out to us.",
+         {
+          "br": 1
+         },
+         {
+          "br": 1
+         }
+        ]
+       ]
+      },
+      {
+       "q": "How does your pricing work?",
+       "a": [
+        [
+         "Our pricing is based on the volume of items being removed, the type of items, and the difficulty of removal. We offer upfront pricing with no hidden fees. You can also request a free estimate by contacting us or using our online booking system."
+        ]
+       ]
+      },
+      {
+       "q": "Do you recycle or donate items?",
+       "a": [
+        [
+         "Yes, we’re committed to responsible disposal practices. Whenever possible, we recycle items or donate them to local charities. Our goal is to minimize waste and give back to the community whenever we can.",
+         {
+          "br": 1
+         },
+         "What areas do you serve?"
+        ]
+       ]
+      },
+      {
+       "q": "What areas do you serve?",
+       "a": [
+        [
+         "We proudly serve [list areas/cities/regions]. If you’re unsure if we cover your area, please don’t hesitate to contact us. We’re always expanding our service areas to better serve our customers."
+        ]
+       ]
+      },
+      {
+       "q": "How far in advance do I need to schedule a pickup?",
+       "a": [
+        [
+         "We strive to accommodate our customers’ schedules as much as possible. While we do accept same-day appointments when available, we recommend scheduling your pickup at least 24-48 hours in advance to ensure availability. However, we understand that emergencies happen, so feel free to reach out to us, and we’ll do our best to accommodate your needs.",
+         {
+          "br": 1
+         },
+         {
+          "br": 1
+         }
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

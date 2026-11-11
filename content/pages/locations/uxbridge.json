@@ -1,0 +1,719 @@
+{
+ "id": 14600,
+ "kind": "page",
+ "path": "/locations/uxbridge/",
+ "type": "location-town",
+ "template": "TownHub",
+ "seo": {
+  "title": "Junk Removal Uxbridge, ON | Same-Day Service & Free Estimates",
+  "description": "Need junk removal in Uxbridge, ON? Live Junk Free offers same-day junk removal, barn cleanouts, furniture removal, acreage cleanouts & free estimates.",
+  "canonical": "https://livejunkfree.ca/locations/uxbridge/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+ },
+ "title": "Uxbridge",
+ "h1": "Junk Removal Services in Uxbridge — Because Some Things Aren't Worth Storing Anymore",
+ "published": "2026-06-06T05:57:39",
+ "modified": "2026-06-06T06:09:59",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "checks",
+     "items": [
+      "Our Service Areas"
+     ]
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Junk Removal Services in Uxbridge — Because Some Things Aren't Worth Storing Anymore"
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Frame-1000005909-1.png",
+      "alt": "Frame 1000005909 1",
+      "width": 800,
+      "height": 65
+     }
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "a": "/contact/",
+       "c": [
+        "Live Junk Free "
+       ]
+      },
+      "Uxbridge’s trusted local junk removal team — a locally operated, fully insured crew that serves every property type across Uxbridge Township: rural acreages and working farms, established residential homes in Uxbridge’s town core, heritage properties, lakefront and countryside retreats, and local businesses along Brock Street and Toronto Street. We come to you, assess everything in person, give you a free on-site estimate before touching a thing, and if you’re ready, it’s gone the same day."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call Now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "marquee",
+     "items": [
+      "House Cleanouts",
+      "Fence Removal",
+      "Shed Demolition",
+      "Yard Waste",
+      "Retail Cleanout",
+      "Wall Demolition",
+      "Deck Demolition"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-2.png",
+      "alt": "Background 2",
+      "width": 590,
+      "height": 500
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-3.png",
+      "alt": "Background 3",
+      "width": 590,
+      "height": 500
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Across Uxbridge Township — Our Trucks Are Never Far Away"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We've heard it from Uxbridge residents before: \"Most companies won't come this far out\" or \"They quoted double because of the distance.\" That's not how we operate. Every Uxbridge Township property is priced the same way — by the volume of junk we remove, not by how far we drive to get there. Goodwood gets the same fair price as the Uxbridge town core. A rural concession near Sandford gets the same professional service as a residential street near the library. We are locally owned, fully insured and genuinely committed to serving all of Uxbridge Township — not just the easy jobs close to the highway."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "Volume-based pricing — simple, consistent and fair for every Uxbridge property",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "You pay based on how much space your items fill in our truck. Whether it's a single couch from a Uxbridge townhouse or a full barn and equipment shed on a Leaskdale farm — the calculation is the same. How much truck space. One fair price. The clock never runs."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "02",
+       "title": "We come to your property and quote in person — always",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "No phone guesses. No online forms that spit out an estimate that doubles when we arrive. We physically drive to your Uxbridge Township property, walk through every area with you, and calculate your price based on what we see with our own eyes. Simple honest pricing starts with honest assessment."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "03",
+       "title": "Fair — one all-inclusive flat-rate number",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Labour, truck, fuel, disposal — all in one number. No rural travel surcharge for Goodwood or Sandford properties. No \"extended service area\" premium for properties on Uxbridge Township concession roads. One number. Everything covered."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "04",
+       "title": "Fair for small jobs and large ones",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "A single appliance removal from a Uxbridge apartment is treated with the same care and fairness as a multi-outbuilding farm clearance near Leaskdale. Small loads are priced small. Large acreage jobs are priced accurately for the volume involved — not inflated because of property type."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "05",
+       "title": "You approve it, it's locked — no changes",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We hand you the quote on-site. If it works, we start immediately. If it doesn't, you owe nothing and we leave. Once you've approved it, that number is permanent — regardless of how the job unfolds, regardless of how long it takes, regardless of what we find."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "06",
+       "title": "30–50% less than franchise competitors",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "No franchise royalties means Uxbridge customers pay significantly less than they would with national chains — for the same or better quality of work."
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Uxbridge Junk Removal Pricing That Keeps Things Simple and Fair"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Fair Quotes, No Hourly Games"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Uxbridge is a community that values straightforward dealing — fair prices, honest work and no one trying to take advantage. Our pricing model is built entirely around those values. Simple. Fair. No games. Prices start as low as {{cad_125}} for small loads. Book your free Uxbridge junk removal estimate — simple, fair and always upfront."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Wide Service Area"
+      },
+      {
+       "title": "Local Expertise"
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-4.png",
+      "alt": "Background 4",
+      "width": 458,
+      "height": 237
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book Today and Enjoy a Cleaner Property Tomorrow"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The simplest promise in Uxbridge junk removal: book today, enjoy a cleaner property tomorrow. Our same-day and next-day junk removal process in Uxbridge, Ontario is built around speed, simplicity and delivering exactly that promise — every single time. Here's our complete 4-step process from first call to clean space:"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Book Your Pickup",
+       "text": [
+        "Call +1 647 922 5865 or book online in minutes. We'll confirm your same-day or next-day appointment and provide a 30-minute arrival notice before we arrive."
+       ]
+      },
+      {
+       "title": "Get a Clear, Upfront Quote",
+       "text": [
+        "Our team arrives on time, assesses everything that needs removal, and provides one all-inclusive quote. No hidden fees and no obligation to proceed."
+       ]
+      },
+      {
+       "title": "We Handle All the Heavy Lifting",
+       "text": [
+        "From furniture and appliances to renovation debris, barn contents, yard waste, and scrap metal, our crew loads and removes it all while you relax."
+       ]
+      },
+      {
+       "title": "Enjoy a Clean, Clutter-Free Property",
+       "text": [
+        "We complete a final walkthrough, sweep the area clean, and sort items responsibly through donation, recycling, and proper disposal."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Acreages, Barns, Garages & Businesses — Complete Junk Removal in Uxbridge"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Uxbridge Township is one of Durham Region's most rurally distinct municipalities — a remarkable mix of working farm properties and acreages, established residential neighbourhoods in the Uxbridge town core, historic heritage properties, countryside retreats and a growing local business community. Live Junk Free provides complete junk removal across every single property type in Uxbridge — acreages, barns, garages, homes, condos and businesses — with the same professional standard, honest pricing and same-day capability every time."
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Acreage, Farm & Barn Cleanouts in Uxbridge",
+       "a": [
+        [
+         "Uxbridge Township’s large rural properties, working farms and historic barns represent some of the most unique and volume-heavy junk removal jobs in Durham Region — and we handle every one of them properly."
+        ],
+        [
+         "Acreage property cleanout Uxbridge — large lot clearing, accumulated debris"
+        ],
+        [
+         "Barn cleanout Uxbridge Ontario — old equipment, lumber, scrap, storage"
+        ],
+        [
+         "Farm property cleanout Uxbridge Township"
+        ],
+        [
+         "Agricultural equipment removal Uxbridge — old machinery, implements, tools"
+        ],
+        [
+         "Outbuilding cleanout Uxbridge — sheds, workshops, coach houses"
+        ],
+        [
+         "Scrap metal removal Uxbridge Ontario"
+        ],
+        [
+         "Old farm equipment removal Uxbridge Township"
+        ],
+        [
+         "Shed demolition and removal Uxbridge"
+        ],
+        [
+         "Fence removal Uxbridge Ontario"
+        ],
+        [
+         "Large rural debris removal Uxbridge Township"
+        ],
+        [
+         "Goodwood acreage property cleanout"
+        ],
+        [
+         "Leaskdale farm and rural property junk removal"
+        ]
+       ]
+      },
+      {
+       "q": "Residential Junk Removal in Uxbridge",
+       "a": [
+        [
+         "Complete residential junk removal for every home type across Uxbridge Township."
+        ],
+        [
+         "Furniture removal Uxbridge — sofas, beds, dressers, dining sets, chairs"
+        ],
+        [
+         "Appliance removal Uxbridge — fridges, washers, dryers, stoves, dishwashers"
+        ],
+        [
+         "Garage cleanout Uxbridge — tools, seasonal storage, accumulated clutter"
+        ],
+        [
+         "Basement cleanout Uxbridge — deep storage, old furniture, boxes, e-waste"
+        ],
+        [
+         "Attic cleanout Uxbridge"
+        ],
+        [
+         "Mattress removal Uxbridge"
+        ],
+        [
+         "Hot tub and spa removal Uxbridge"
+        ],
+        [
+         "Exercise equipment removal Uxbridge"
+        ],
+        [
+         "Yard waste removal Uxbridge — branches, outdoor furniture, garden waste"
+        ],
+        [
+         "Estate cleanout Uxbridge Ontario — full property clearing, handled with care"
+        ],
+        [
+         "Senior home cleanout Uxbridge — compassionate, patient, stress-free"
+        ],
+        [
+         "Hoarding cleanout Uxbridge — non-judgmental, thorough, discreet"
+        ],
+        [
+         "Move-in / move-out junk removal Uxbridge"
+        ],
+        [
+         "E-waste and electronics removal Uxbridge"
+        ]
+       ]
+      },
+      {
+       "q": "Renovation & Construction Debris Removal Uxbridge",
+       "a": [
+        [
+         "Renovation debris removal Uxbridge — drywall, flooring, tiles, fixtures"
+        ],
+        [
+         "Post-renovation cleanout Uxbridge"
+        ],
+        [
+         "Heritage property renovation debris Uxbridge"
+        ],
+        [
+         "Construction waste removal Uxbridge"
+        ],
+        [
+         "Kitchen renovation debris removal Uxbridge"
+        ],
+        [
+         "Bathroom renovation cleanout Uxbridge"
+        ],
+        [
+         "Deck demolition and removal Uxbridge"
+        ],
+        [
+         "Shed demolition Uxbridge ON"
+        ]
+       ]
+      },
+      {
+       "q": "Commercial Junk Removal in Uxbridge",
+       "a": [
+        [
+         "Local Uxbridge businesses along Brock Street, Toronto Street and across Uxbridge Township’s commercial areas trust Live Junk Free for professional, efficient commercial cleanouts."
+        ],
+        [
+         "Office furniture removal Uxbridge"
+        ],
+        [
+         "Commercial junk removal Uxbridge Ontario"
+        ],
+        [
+         "Retail store cleanout Uxbridge"
+        ],
+        [
+         "Restaurant equipment removal Uxbridge"
+        ],
+        [
+         "Office cleanout and decommission Uxbridge"
+        ],
+        [
+         "Warehouse cleanout Uxbridge Township"
+        ],
+        [
+         "Landlord junk removal Uxbridge — tenant turnover, abandoned items"
+        ],
+        [
+         "Property management junk removal Uxbridge"
+        ],
+        [
+         "Office furniture removal Scarborough"
+        ],
+        [
+         "Commercial junk removal Scarborough Ontario"
+        ],
+        [
+         "Office cleanout and decommission Scarborough"
+        ],
+        [
+         "Retail store cleanout Scarborough"
+        ],
+        [
+         "Restaurant equipment removal Scarborough"
+        ],
+        [
+         "Warehouse cleanout Scarborough"
+        ],
+        [
+         "Industrial junk removal Scarborough"
+        ],
+        [
+         "Landlord junk removal Scarborough — tenant turnover, abandoned items"
+        ],
+        [
+         "Property management junk removal Scarborough"
+        ],
+        [
+         {
+          "b": [
+           "Demolition & Removal Services in Scarborough"
+          ]
+         }
+        ],
+        [
+         "Shed demolition Scarborough ON"
+        ],
+        [
+         "Deck demolition and removal Scarborough"
+        ],
+        [
+         "Fence removal Scarborough"
+        ],
+        [
+         "Hot tub demolition Scarborough"
+        ],
+        [
+         "Above ground pool demolition Scarborough"
+        ],
+        [
+         "Playset and swing set demolition Scarborough"
+        ],
+        [
+         "Gazebo removal Scarborough"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "All Areas We Serve in & Around Uxbridge Township"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We cover all of Uxbridge Township and surrounding Durham Region communities:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ]
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "- Recent Reviews -"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Read what our past customers say"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions About Junk Removal in Uxbridge, ON"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Q: How much does junk removal cost in Uxbridge, Ontario?",
+       "a": [
+        [
+         "A: Our Uxbridge junk removal pricing is simple and volume-based — you pay based on how much space your items fill in our truck, not by the hour. There are no rural surcharges for Uxbridge Township properties and no travel premiums for properties in Goodwood, Sandford, Leaskdale or Claremont. Prices start at $125 for small loads. We provide a free on-site estimate before any work begins — the price you approve is the price you pay."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you offer same-day junk removal in Uxbridge?",
+       "a": [
+        [
+         "A: Yes — same-day junk removal is available across all of Uxbridge Township including Goodwood, Claremont, Sandford, Leaskdale and surrounding Durham Region communities. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you handle acreage and barn cleanouts in Uxbridge Township?",
+       "a": [
+        [
+         "A: Absolutely — acreage property cleanouts and barn cleanouts across Uxbridge Township are one of our most requested services. We handle full barn clearing, agricultural equipment removal, large rural lot clearing, scrap metal removal and outbuilding cleanouts — at the same fair volume-based pricing as any other job, with no rural surcharges."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you serve rural communities like Goodwood, Sandford and Leaskdale?",
+       "a": [
+        [
+         "A: Yes — we serve every community across Uxbridge Township including Goodwood, Claremont, Sandford, Leaskdale, Zephyr and Siloam — with no additional charges for rural or remote locations. Our trucks are never far away from any Uxbridge Township address."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you handle estate and senior home cleanouts in Uxbridge?",
+       "a": [
+        [
+         "A: Yes — estate cleanouts and senior home transitions in Uxbridge are handled with genuine care, patience and sensitivity. We manage the complete clearing process at your pace, treat every item respectfully and make the process as stress-free as possible."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Are you a local Uxbridge company or a franchise?",
+       "a": [
+        [
+         "A: We are 100% locally owned and operated — not a national franchise. No franchise royalties means our Uxbridge pricing is consistently 30–50% lower than national junk removal chains for the same or better quality of service."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you remove renovation and heritage property debris in Uxbridge?",
+       "a": [
+        [
+         "A: Yes — renovation debris removal including heritage property renovation waste is a regular service across Uxbridge. Drywall, flooring, tiles, fixtures — removed cleanly and quickly so your project stays on schedule."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,548 @@
+{
+ "id": 17262,
+ "kind": "page",
+ "path": "/locations/house-cleanout-in-caledon/",
+ "type": "location-service",
+ "template": "LocationService",
+ "seo": {
+  "title": "Same-day House Cleanout Services in Caledon | Live Junk Free",
+  "description": "Caledon’s top choice for house cleanouts. Live Junk Free offers same-day estate cleanouts, garage and attic cleanouts, and appliance haul-away. Book now!",
+  "canonical": "https://livejunkfree.ca/locations/house-cleanout-in-caledon/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
+ },
+ "title": "house-cleanout-in-caledon",
+ "h1": "House Cleanout Services in Caledon, Ontario — Because Out Here, It's Never Just the House",
+ "published": "2026-07-15T06:06:11",
+ "modified": "2026-07-15T06:06:11",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "checks",
+     "items": [
+      "Our Service Areas"
+     ]
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "House Cleanout Services in Caledon, Ontario — Because Out Here, It's Never Just the House"
+    },
+    {
+     "t": "p",
+     "c": [
+      "In Caledon, a house cleanout comes with company: the drive shed, the barn loft, the workshop, the garden shed, sometimes a bunkie by the pond — each holding its own decades of accumulation. City crews quote the house and act surprised by the rest. We quote the property. One free walkthrough covers every building on it, one flat figure covers the entire clear, and our fully insured crew works until the last structure is empty and swept — no matter how long the laneway or how full the loft."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "marquee",
+     "items": [
+      "House Cleanouts",
+      "Fence Removal",
+      "Shed Demolition",
+      "Yard Waste",
+      "Retail Cleanout",
+      "Wall Demolition",
+      "Deck Demolition"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-2.png",
+      "alt": "Background 2",
+      "width": 590,
+      "height": 500
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-3.png",
+      "alt": "Background 3",
+      "width": 590,
+      "height": 500
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Farmhouses Past Alton, Estates in the Hills, Village Homes in Every Hamlet — Caledon Clears With Us"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The properties out here tell long stories: century farmhouses held by the same family since the land was cleared, horse farms near Palgrave changing hands, estate homes in the Headwaters hills, and village houses in Caledon East, Inglewood and Cheltenham. Live Junk Free has emptied all of them — 660+ five-star Google reviews earned on properties where the job was measured in buildings, not rooms."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "The whole property, one volume-based price",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Every building's contents count toward one measure — total truck volume — and that sets the entire bill. House plus barn plus shed rides as a single quoted job, always cheaper than clearing them piecemeal. No hourly rates, no per-building fees, and no rural surcharge anywhere in Caledon."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "02",
+       "title": "We walk every structure before we speak a number",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Nobody — not even the owners — knows what forty years put in the barn loft. So the quote waits until we've toured the house, the outbuildings and everything between, together with you. That free walkthrough is what makes the flat figure trustworthy."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "03",
+       "title": "Approved means armoured",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Crew, trucks, fuel, tipping fees, donation runs — one number holds it all, and nothing found afterward can move it. When the drive shed turns out to be double-stacked or the cellar goes back further than expected, the surprise is ours to absorb."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "04",
+       "title": "Farm families' history gets farm-family respect",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Country properties hold things that matter: land papers and old deeds, wartime photographs, hand tools worn smooth by two generations, the good harness nobody could throw out. We sort as we clear — the significant set aside for the family, the usable routed to donation, and only the truly finished sent to disposal."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "05",
+       "title": "Your timeline, not ours",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Selling in spring? Settling an estate over months? The free quote holds while you decide, requires no deposit, and the work can run as one big clear or in stages — house first, outbuildings later. Country decisions take country time, and we're built for that."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "06",
+       "title": "Independent pricing beats the franchises by 30–50%",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The national chains price in royalty fees and often blink at rural addresses anyway. We're locally owned, we know the back roads, and Caledon cleanouts land 30–50% cheaper with us for identical work."
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What a Whole-Property Cleanout Costs in Caledon"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "One Flat Figure — House, Barn, Shed and All"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Small cleanouts start at {{cad_125}}, single buildings land mid-range, and complete properties — every structure, however many truckloads — are quoted as one locked, all-inclusive number at the free walkthrough. Distance never enters the math, and neither does time: the figure agreed on the porch is the figure paid when the last loft is swept."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Wide Service Area"
+      },
+      {
+       "title": "Local Expertise"
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-4.png",
+      "alt": "Background 4",
+      "width": 458,
+      "height": 237
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "From Full Property to Empty and Swept — the Caledon Way"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "However many buildings, the sequence is the same:"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "1. Book the Walkthrough",
+       "text": [
+        "Call +1 647 922 5865 or book online. Crews cover all of Caledon seven days a week, 6AM to 11PM, same-day slots included, with a 30-minute text before we come down the laneway."
+       ]
+      },
+      {
+       "title": "2. Tour Everything With Us",
+       "text": [
+        "House, cellar, barn, shed, workshop, bunkie — the full circuit produces one flat quote for the whole property. Free to hear, free to sleep on."
+       ]
+      },
+      {
+       "title": "3. We Clear, Building by Building",
+       "text": [
+        "On your approval the crew works structure by structure: sorting as we go, setting aside valuables and family pieces, staging donations apart from scrap and disposal, and hauling everything ourselves — lofts, ladders and back fields included."
+       ]
+      },
+      {
+       "title": "4. Swept, Emptied, Sent to the Right Ends",
+       "text": [
+        "Every cleared space gets a broom finish, leaving the property ready to list, lease or hand over. The loads split onward: donation partners first, recyclers for metal, wood and e-waste, landfill only for the remainder."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Every Property Cleanout Caledon Asks For — Farmhouse to Fence Line"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The calls carry the township's character. An estate settling a century farm outside Alton. A couple downsizing from the horse property now that the horses are gone. City buyers who got the keys to a country house — and everything the sellers left in the barn. All versions welcome:"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "House & Farmhouse Cleanouts in Caledon",
+       "a": [
+        [
+         "Complete farmhouse cleanouts — every floor, cellar and cold room"
+        ],
+        [
+         "Century-home clearing — careful around original trim and steep stairs"
+        ],
+        [
+         "Basement and summer-kitchen clear-outs"
+        ],
+        [
+         "Attic and upper-floor emptying"
+        ],
+        [
+         "Partial cleanouts — the house now, the outbuildings later"
+        ],
+        [
+         "Village home cleanouts across Caledon East, Inglewood, Cheltenham and beyond"
+        ]
+       ]
+      },
+      {
+       "q": "Barn, Shed & Outbuilding Cleanouts in Caledon",
+       "a": [
+        [
+         "Barn and loft clearing — decades of storage, feed rooms, tack rooms"
+        ],
+        [
+         "Drive shed emptying — equipment corners, lumber, the accumulation of years"
+        ],
+        [
+         "Workshop clear-outs — benches, tools flagged before loading, scrap hauled"
+        ],
+        [
+         "Garden shed, coop and small-structure clearing"
+        ],
+        [
+         "Scrap metal and old-equipment loads priced into the same job"
+        ]
+       ]
+      },
+      {
+       "q": "Estate & Transition Cleanouts in Caledon",
+       "a": [
+        [
+         "Estate property cleanouts — patient, documented, valuables returned to family"
+        ],
+        [
+         "Farm succession and downsizing clears, staged to the family’s pace"
+        ],
+        [
+         "Senior transitions from country homes, coordinated with everyone involved"
+        ],
+        [
+         "Hoarding cleanouts — discreet, judgment-free, however remote the property"
+        ],
+        [
+         "Remote coordination for family in the city or abroad, photo updates included"
+        ]
+       ]
+      },
+      {
+       "q": "Sale & Handover Cleanouts in Caledon",
+       "a": [
+        [
+         "Pre-listing property clears — house and grounds photo-ready"
+        ],
+        [
+         "New-owner cleanouts — everything the sellers left behind, gone"
+        ],
+        [
+         "Closing-day move-out clears"
+        ],
+        [
+         "Pre-renovation emptying before the trades arrive"
+        ],
+        [
+         "Tenant and farmhouse-rental turnovers"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Service Areas"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "- Recent Reviews -"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Read what our past customers say"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions About House Cleanouts in Caledon, ON"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Q: How is a whole-property cleanout priced in Caledon?",
+       "a": [
+        [
+         "A: Everything counts toward one volume-based figure — the house, the barn, the sheds, all of it measured against total truck space. Small jobs start at $125; full properties are quoted flat at the free walkthrough and locked once approved. Distance down any Caledon road never adds a cent."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Can the house and the outbuildings really be cleared in one job?",
+       "a": [
+        [
+         "A: That’s exactly how we prefer it — one visit, one crew, one price, with trucks cycling until every structure is empty. Larger properties sometimes run a second day, and if yours will, you’ll hear it straight at the walkthrough rather than at dusk on day one."
+        ]
+       ]
+      },
+      {
+       "q": "Q: We just bought a country property and the barn came \"as is.\" Can you clear what the sellers left?",
+       "a": [
+        [
+         "A: One of our most common Caledon calls. New owners inherit lofts of lumber, dead appliances and mystery crates all the time — we walk it, quote it flat, and hand you back a property that’s actually yours. Scrap metal and old equipment ride in the same load."
+        ]
+       ]
+      },
+      {
+       "q": "Q: There's family history mixed into everything. How do you protect it?",
+       "a": [
+        [
+         "A: By sorting, never shovelling. Deeds, photographs, tools with initials carved in the handles, anything that looks like it mattered to someone — it’s set aside and reviewed with the family before a single decision is made. On century properties we assume every box might hold something, because they often do."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Can the cleanout happen in stages — house first, barn in the spring?",
+       "a": [
+        [
+         "A: Absolutely. Staged clears are normal out here, the volume pricing works identically split or whole, and the quote doesn’t expire between phases. Many Caledon families clear the house for sale first and circle back for the outbuildings after closing."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

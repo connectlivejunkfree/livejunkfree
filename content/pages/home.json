@@ -1,0 +1,480 @@
+{
+ "id": 7836,
+ "kind": "page",
+ "path": "/",
+ "type": "core",
+ "template": "Core",
+ "seo": {
+  "title": "Residential & Commercial Junk Removal in Greater Toronto Area",
+  "description": "Live Junk Free offers top-rated residential and commercial junk removal, demolition, and cleanout services in the Greater Toronto Area. Call today for fast, reliable cleanup!",
+  "canonical": "https://livejunkfree.ca/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2024/05/livejunkfree-flyer-1024x374.jpg"
+ },
+ "title": "Home",
+ "h1": "Say Goodbye to Clutter and Hello to Junk-Removal!",
+ "published": "2024-12-16T04:22:28",
+ "modified": "2026-11-09T21:30:52",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Say Goodbye to Clutter and Hello to Junk-Removal!"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Redefine your surroundings with our effortless, reliable, sustainable, and swift junk removal. Let us do the job for you while you sit back and unwind!"
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call Now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "How It Works"
+    },
+    {
+     "t": "stats",
+     "items": [
+      {
+       "label": "Services Completed",
+       "value": "1,000+"
+      },
+      {
+       "label": "Happy Clients",
+       "value": "700+"
+      },
+      {
+       "label": "Years Experience",
+       "value": "6+"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/07/DSC08977-scaled-1-1024x683.webp",
+      "alt": "DSC08977 scaled 1",
+      "width": 800,
+      "height": 534
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/07/DSC08963-scaled-1-1024x683.webp",
+      "alt": "apartment cleanout services",
+      "width": 800,
+      "height": 534
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/07/Rectangle-1660-2.webp",
+      "alt": "Rectangle 1660 2",
+      "width": 394,
+      "height": 309
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Residential Removal",
+       "text": [
+        "Quick, hassle-free home junk removal."
+       ],
+       "image": {
+        "src": "/images/uploads/2024/12/image-2.png",
+        "alt": "Image 2",
+        "width": 73,
+        "height": 72
+       },
+       "href": "/services/residential-junk-removal-services/"
+      },
+      {
+       "title": "Commercial Removal",
+       "text": [
+        "Efficient office junk ",
+        {
+         "br": 1
+        },
+        " clearing."
+       ],
+       "image": {
+        "src": "/images/uploads/2024/12/image-3-1.png",
+        "alt": "Image 3 1",
+        "width": 72,
+        "height": 72
+       },
+       "href": "/services/commercial-junk-removal-services/"
+      },
+      {
+       "title": "Demolition Services",
+       "text": [
+        "Safe, reliable demolition ",
+        {
+         "br": 1
+        },
+        "services."
+       ],
+       "image": {
+        "src": "/images/uploads/2024/12/image-1.png",
+        "alt": "Image 1",
+        "width": 71,
+        "height": 71
+       },
+       "href": "/services/junk-demolition-services/"
+      },
+      {
+       "title": "Cleanouts Services",
+       "text": [
+        "Comprehensive space clean ",
+        {
+         "br": 1
+        },
+        "outs."
+       ],
+       "image": {
+        "src": "/images/uploads/2024/12/image-4.png",
+        "alt": "Image 4",
+        "width": 72,
+        "height": 72
+       },
+       "href": "/services/junk-cleanout-services/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Live Junk Free Guarantees"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Everything that offers you unmatched satisfaction after availing of our ",
+      "junk removal services ",
+      "in the Greater Toronto Area which includes ",
+      "residential junk removal",
+      ", ",
+      "commercial junk removal",
+      ", ",
+      "demolition",
+      " and ",
+      "cleanouts",
+      ". We eliminate the hassle, guaranteeing a seamless, effective, economical and environmentally responsible experience from beginning to end. "
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Same Day/Next Day Removal"
+      ],
+      [
+       "Transparent And Honest Pricing"
+      ],
+      [
+       "Happy And Friendly Team"
+      ],
+      [
+       "Professional Expertise"
+      ],
+      [
+       "Eco-Friendly Disposal"
+      ],
+      [
+       "Punctual Service"
+      ],
+      [
+       "Hassle-Free Experience"
+      ],
+      [
+       "100% Customer Satisfaction"
+      ],
+      [
+       "Flexible Scheduling"
+      ],
+      [
+       "Responsible Recycling"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Connect Us To Free your Space"
+    },
+    {
+     "t": "form",
+     "name": "New Form"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "SAVE {{cad_20}}! Same and Next day Appointments Available"
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Now",
+       "href": "/contact/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "This Is How It Works"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "1",
+       "title": "Book a Slot for a Pickup",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "",
+       "text": [
+        "Check your routine and get in touch with us through a call or website to",
+        {
+         "a": "/contact/",
+         "c": [
+          " schedule an appointment"
+         ]
+        },
+        " for cleaning at a convenient date and time."
+       ]
+      }
+     ]
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "2",
+       "title": "We Show Up and Clean Out",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "",
+       "text": [
+        {
+         "a": "/about/",
+         "c": [
+          "Our professionals"
+         ]
+        },
+        " are punctual in visiting your place and take charge of lifting and promptly removing your undesired goods from there on."
+       ]
+      }
+     ]
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "3",
+       "title": "Ecological & Responsible Disposal",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "",
+       "text": [
+        "After thorough cleaning, we haul the trash and dispose of it in an environmentally responsible manner by recycling and reusing it."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "video",
+     "src": "/images/uploads/2024/09/Ad_3_Oprimized.mp4"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Items We Remove"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Appliances"
+      },
+      {
+       "title": "Bed Frame Sets"
+      },
+      {
+       "title": "Cabinets"
+      },
+      {
+       "title": "Cardboard"
+      },
+      {
+       "title": "Deck Removal"
+      },
+      {
+       "title": "Exercise Equipment"
+      },
+      {
+       "title": "Fridge & Freezer"
+      },
+      {
+       "title": "Furniture"
+      },
+      {
+       "title": "Hot Tub"
+      },
+      {
+       "title": "Mattresses"
+      },
+      {
+       "title": "Office Furniture"
+      },
+      {
+       "title": "Office Cubicles"
+      },
+      {
+       "title": "Pianos"
+      },
+      {
+       "title": "Patio Furniture"
+      },
+      {
+       "title": "Sheds"
+      },
+      {
+       "title": "Stoves/Ovens"
+      },
+      {
+       "title": "Stumps & Branch"
+      },
+      {
+       "title": "Televisions"
+      },
+      {
+       "title": "Tires"
+      },
+      {
+       "title": "Washer/Dryers"
+      },
+      {
+       "title": "Wooden Pallets"
+      },
+      {
+       "title": "Yard Waste"
+      },
+      {
+       "title": "Televisions"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "map"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "- Recent Reviews -"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Read what our past customers say"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "form",
+     "name": "New Form"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "form",
+     "name": "New Form"
+    }
+   ]
+  }
+ ]
+}

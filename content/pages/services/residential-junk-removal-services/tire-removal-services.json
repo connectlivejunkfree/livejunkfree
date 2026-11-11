@@ -1,0 +1,675 @@
+{
+ "id": 15921,
+ "kind": "page",
+ "path": "/services/residential-junk-removal-services/tire-removal-services/",
+ "type": "service",
+ "template": "ItemRemoval",
+ "seo": {
+  "title": "Tire Removal Services - Live JunkFree",
+  "description": "Live Junk Free provides quick tire removal services and rubber waste recycling across the Greater Toronto Area. Book your pickup today to keep your property clear.",
+  "canonical": "https://livejunkfree.ca/services/residential-junk-removal-services/tire-removal-services/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/07/tire-removal-services-before1.jpeg"
+ },
+ "title": "Tire Removal Services",
+ "h1": "Your Trusted Local Tire Removal Experts",
+ "published": "2026-07-07T03:50:35",
+ "modified": "2026-07-23T06:21:56",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Your Trusted Local Tire Removal Experts"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The most reliable tire disposal service."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Trusted by people of the Greater Toronto Area"
+      },
+      {
+       "title": "Insured, uniformed, and respectful crew"
+      },
+      {
+       "title": "Rated 5.0 on Google by 780+ customers"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Professional Tire Removal Services"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Removing old tires isn’t just about hauling them away; it requires proper handling, safe transportation, and eco-friendly disposal. Whether you’re clearing out worn-out car tires, bike tires, or leftover rubber, our specialized tire removal service takes the hassle out of the process. From bulky truck tires to compact bike tires, we handle all types with care and efficiency."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We start with a free, no-obligation quote, so you know exactly what to expect from responsible tire disposal, helping you free up space without the stress."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Your Treadmill Removal Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/e-waste-removal-services-before-4.jpg",
+      "alt": "tire-removal-services",
+      "width": 800,
+      "height": 534
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Say Goodbye to Your Old Tires – Same-Day Pickup Available!"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Getting rid of old tires doesn’t have to be a struggle. Whether they’re worn-out, taking up space, or just need proper disposal, our expert team makes the process quick and hassle-free. We handle loading, hauling, and eco-friendly recycling, leaving your space clean and clutter-free."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "For tires that can’t be reused, our professional tire removal service ensures responsible disposal. We transport and recycle them properly, keeping rubber out of landfills, no heavy lifting, no mess, just seamless tire removal from start to finish."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Wondering about cost? We offer competitive rates and free estimates, so you know exactly what you’ll pay."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Ready to clear your space?"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Call us now at +1 647 922 5865 or book online at LiveJunkFree.ca."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "Call answered in 1 minute."
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Fast & Easy Tire Removal – Same-Day Service Available"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Removing old tires requires proper handling, safe transport, and environmentally responsible disposal. At ",
+      {
+       "a": "/contact/",
+       "c": [
+        "Live Junk Free"
+       ]
+      },
+      ", our specialized tire removal service eliminates all the hassle, providing a complete solution from pickup to eco-friendly recycling."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We recognize the urgency of clearing out unwanted tires, whether you’re cleaning your garage, preparing a property for sale, or managing overflow at your auto shop. That’s why we provide same-day and next-day pickup options to accommodate your timeline."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our experienced tire removal team comes equipped with the right tools and vehicles to handle your tires efficiently and safely. We use professional-grade equipment, including specialized hauling trucks and loading gear – resources most property owners don’t typically have available."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our Comprehensive Tire Removal Service Includes:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Safe loading and secure transport of all tire types"
+      ],
+      [
+       "Environmentally responsible recycling through certified facilities"
+      ],
+      [
+       "Proper documentation for commercial and municipal compliance"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "We Offer Same-Day Tire Removal!"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Top Benefits of Choosing Live Junk Free for Tire Removal"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Multi-Service Savings:"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Save when combining tire removal with other junk removal services – perfect for garage cleanouts or auto shop renovations"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Damage-Free Guarantee:"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Our professional loading equipment and techniques protect your property during removal (no scratched driveways or damaged landscaping)"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "24/7 Scheduling:"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Available weekends and evenings with emergency same-day pickup for urgent tire disposal needs"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Eco-Conscious Recycling:"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "90%+ of tires are properly processed through certified recycling programs, keeping rubber out of landfills"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Certified Professionals",
+       "text": [
+        "Fully insured teams trained in proper tire handling"
+       ]
+      },
+      {
+       "title": "Green Disposal Guarantee",
+       "text": [
+        "90%+ of materials recycled or repurposed responsibly"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Our Tire Removal Process – What to Expect"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Hassle-Free Tire Removal From Start to Finish"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "We specialize in safely removing all types of tires – from passenger car tires to massive truck tires, and everything in between. Our professional team carefully handles each job, loading and transporting tires without damaging your property."
+      ],
+      [
+       "When we’re done, your space will be clean, organized, and ready for new tires or whatever use you choose. No tire removal challenge is too big for our experienced crew – we’ve successfully removed thousands of tires in your area."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Eco-Friendly Tire Disposal That Makes an Impact"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we believe proper tire disposal shouldn’t harm the environment:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Responsible Recycling: We recycle up to 90% of tire materials through certified processors, transforming old rubber into new products"
+      ],
+      [
+       "Community Donation Program: Usable tires find new purpose through local schools, playgrounds, and urban farming initiatives"
+      ],
+      [
+       "Waste-Smart Processing: Our meticulous sorting system ensures minimal landfill contribution, because every tire deserves a second life"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "Maintains the same environmental focus while adapting tire removal services."
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Honest, Upfront Pricing You Can Trust"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We believe in transparent pricing for all tire removal services:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Free Instant Quotes: Get accurate estimates by phone, text, or online in minutes"
+      ],
+      [
+       "Flat-Rate Pricing: Know your total cost upfront with no surprise fees"
+      ],
+      [
+       "Volume Discounts: Special savings for bulk tire removal"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "We Remove All Types of Tires & Rubber Products"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we specialize in hassle-free removal of any tires and rubber materials:"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Commercial & Oversized Tires"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Semi-truck tires"
+      ],
+      [
+       "Bus/Shuttle tires"
+      ],
+      [
+       "Heavy equipment tires (loaders, excavators)"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Recreational Vehicle Tires"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "ATV/UTV tires"
+      ],
+      [
+       "Motorcycle tires"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Tire Removal Made Easy – Just 4 Simple Steps"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Share Your Tire Details",
+       "text": [
+        "Snap a few photos of your tires (car, bike, truck, etc.) and send them via text or our website. We’ll assess the size and quantity instantly."
+       ]
+      },
+      {
+       "title": "Get Your Quote",
+       "text": [
+        "Receive a fair, transparent price for removal, including pickup, hauling, and recycling. No hidden fees!"
+       ]
+      },
+      {
+       "title": "Pick Your Preferred Time",
+       "text": [
+        "Schedule same-day or next-day pickup with our team, available at your convenience."
+       ]
+      },
+      {
+       "title": "We Do the Heavy Lifting",
+       "text": [
+        "Our crew arrives on time, loads up your tires, and handles all the work. You relax, we take care of the rest."
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Real Transformations: Before & After Tire Removal"
+    },
+    {
+     "t": "p",
+     "c": [
+      "See how we’ve helped homeowners, auto shops, and businesses reclaim their space with fast, professional tire removal."
+     ]
+    },
+    {
+     "t": "gallery",
+     "images": [
+      {
+       "src": "/images/uploads/2026/07/tire-removal-services-before1-1024x765.jpeg",
+       "alt": "tire-removal-services before1"
+      },
+      {
+       "src": "/images/uploads/2026/07/tire-removal-services-after1-1024x765.jpeg",
+       "alt": "tire-removal-services after1"
+      },
+      {
+       "src": "/images/uploads/2026/07/tire-removal-services-before2-1024x765.jpeg",
+       "alt": "tire-removal-services before2"
+      },
+      {
+       "src": "/images/uploads/2026/07/tire-removal-services-after2-1024x765.jpeg",
+       "alt": "tire-removal-services after2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "FAQs – Tire Removal"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Do you remove all types of tires, including car and truck tires?",
+       "a": [
+        [
+         "Yes! We remove all tire types, passenger cars, SUVs, trucks, ATVs, farm equipment, and more. No job is too big, from single tire pickups to commercial fleet removals. All sizes and conditions accepted."
+        ]
+       ]
+      },
+      {
+       "q": "How do you dispose of old tires?",
+       "a": [
+        [
+         "We partner with certified recycling facilities that shred tires for repurposing into playground surfaces, rubberized asphalt, and other products. Functional tires get donated to community projects. Nothing goes to landfills. "
+        ]
+       ]
+      },
+      {
+       "q": "How much does tire removal cost?",
+       "a": [
+        [
+         "Prices start at $125 per tire with volume discounts available. Get a free instant quote online or by phone. Our transparent pricing includes pickup, hauling, and eco-friendly disposal with no hidden fees. "
+        ]
+       ]
+      },
+      {
+       "q": "What areas do you serve for tire removal?",
+       "a": [
+        [
+         "We service GTA and surrounding areas. Contact us with your location for confirmation. "
+        ]
+       ]
+      },
+      {
+       "q": "Can I schedule a same-day tire pickup?",
+       "a": [
+        [
+         "Absolutely! Same-day service is available for urgent requests, subject to availability. Most clients get next-day pickup when booking before noon. Emergency storm cleanups are prioritized. "
+        ]
+       ]
+      },
+      {
+       "q": "Do you recycle or repurpose used tires?",
+       "a": [
+        [
+         "90%+ get recycled through certified processors. Usable tires go to urban farms, playgrounds, and nonprofits. We provide recycling certificates for commercial clients upon request."
+        ]
+       ]
+      },
+      {
+       "q": "Is there a limit to how many tires I can dispose of at once?",
+       "a": [
+        [
+         "No limits! We handle everything from single tires to 1000+ tire cleanouts. Large commercial jobs receive dedicated dumpsters and scheduled pickups. "
+        ]
+       ]
+      },
+      {
+       "q": "Do I need to remove rims before tire removal?",
+       "a": [
+        [
+         "Not required! We provide free rim removal (steel/alloy). However, tires without rims qualify for discounted rates. Our team brings professional demounting tools to every job."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What People Say About Us"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Areas We Serve"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ],
+      [
+       "Stouffville"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

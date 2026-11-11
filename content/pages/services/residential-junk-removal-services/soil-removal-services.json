@@ -1,0 +1,609 @@
+{
+ "id": 17593,
+ "kind": "page",
+ "path": "/services/residential-junk-removal-services/soil-removal-services/",
+ "type": "service",
+ "template": "ItemRemoval",
+ "seo": {
+  "title": "Soil Removal Services - Live JunkFree",
+  "description": "Clear excess soil fast with Live Junk Free’s soil disposal and landscaping soil removal services in the Greater Toronto Area. Book a quick pickup today.",
+  "canonical": "https://livejunkfree.ca/services/residential-junk-removal-services/soil-removal-services/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/07/Soil-Removal-Service.jpeg"
+ },
+ "title": "Soil Removal Services",
+ "h1": "Most Reliable Residential Soil Removal in Your Area",
+ "published": "2026-07-17T11:47:48",
+ "modified": "2026-07-23T06:26:29",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Most Reliable Residential Soil Removal in Your Area"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We are the best in the town."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Trusted by people of the Greater Toronto Area"
+      },
+      {
+       "title": "Insured, uniformed, and respectful crew"
+      },
+      {
+       "title": "Rated 5.0 on Google by 780+ customers"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Soil Removal Services"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We provide an efficient, hassle-free solution to remove unwanted soil, dirt, and debris from your property, all without you needing to lift a shovel. Whether it’s excess topsoil, construction fill, or contaminated earth, our professional team handles every aspect of the job."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "The process begins with a free, no-obligation quote that clearly outlines all costs with complete transparency. Once you approve, our experienced crew arrives at your chosen time to carefully excavate and remove the soil while protecting your property."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Environmental responsibility guides our approach to soil disposal. We don’t simply haul away and dump the material. We carefully sort and recycle clean fill for community projects, properly process contaminated soil at licensed facilities, and minimize landfill waste through sustainable practices."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Your Service Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/Soil-Removal-Service-1024x572.jpeg",
+      "alt": "Soil Removal Services",
+      "width": 800,
+      "height": 447
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Schedule Your Soil Removal Today – Save Big Now"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Removing unwanted soil shouldn’t require heavy equipment rentals or backbreaking labor. Our expert soil removal service starts at just {{cad_125}}, and we handle every step for you. We’ll excavate and haul away dirt, clay, and debris from any area of your property, leaving the space properly graded and ready for your next project."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "While our trained crew works efficiently to clear your space, you can relax knowing the job is being done safely and correctly. In just a few hours, you’ll have a clean slate."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Ready to transform your property? ",
+      {
+       "a": "/contact/",
+       "c": [
+        "Call now"
+       ]
+      },
+      " at +1 647 922 5865 or book online."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "We answer calls in 1 minute."
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Same-Day Soil Removal Available Now"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Excavating and hauling soil yourself is exhausting work, especially for large or compacted areas. Our professional soil removal service eliminates the heavy lifting when you need it most."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Whether you’re preparing for construction, fixing drainage issues, or simply clearing excess dirt, our same-day service means no waiting. Avoid the risks of improper excavation. Our licensed team removes soil safely and efficiently, with same-day availability for urgent projects."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Why tackle soil removal alone? Our fully insured professionals provide complete solutions:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Safe removal of all soil types (topsoil, clay, contaminated earth)"
+      ],
+      [
+       "Expert excavation and proper site grading"
+      ],
+      [
+       "Responsible disposal with clean fill recycling"
+      ],
+      [
+       "Complete area cleanup and leveling"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Need Soil Removed Urgently? Same-Day Service Available"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Live Junk Free Is Your Solution for Stress-Free Soil Removal"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Schedule Around Your Needs",
+       "text": [
+        "– Choose same-day, next-day, or weekend soil removal with no premium charges. We’ll arrange the ideal time that fits your project timeline."
+       ]
+      },
+      {
+       "title": "Environmentally Responsible Processing",
+       "text": [
+        "We carefully recycle clean fill for community projects and ensure contaminated soils are properly treated at licensed facilities, protecting both your property and our ecosystem."
+       ]
+      },
+      {
+       "title": "Economical for Large-Scale Projects",
+       "text": [
+        "Clearing a construction site or multiple properties? We provide substantial discounts for bulk soil removal and ongoing excavation needs."
+       ]
+      },
+      {
+       "title": "Instant Booking Convenience",
+       "text": [
+        "– Secure your spot in just 60 seconds online or by phone, no lengthy forms or waiting for return calls."
+       ]
+      },
+      {
+       "title": "Swift, Professional Execution",
+       "text": [
+        "– What might take you days of digging, we typically finish in hours, including complete excavation, hauling, and site grading."
+       ]
+      },
+      {
+       "title": "Honest, All-Inclusive Pricing",
+       "text": [
+        "– Your quoted price is final, no surprise fees for difficult access, soil type, or disposal requirements."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How We Make Soil Removal Simple for Homeowners"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our Professional Soil Removal Service Makes the Job Effortless"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "We expertly remove soil from any area of your property, whether it’s a small garden patch, expansive backyard, or challenging sloped terrain. Our crews take exceptional care to protect your landscaping and hardscaping while efficiently excavating and hauling away unwanted dirt and debris."
+      ],
+      [
+       "It doesn’t matter what type of soil you need removed, heavy clay, nutrient-rich topsoil, or contaminated earth. We have the proper equipment and expertise to handle all varieties. Our team carefully excavates, loads, and disposes of your soil, ensuring environmentally responsible disposal through recycling clean fill and proper processing of contaminated materials."
+      ],
+      [
+       "The best part? You don’t need to lift a shovel! We handle all the heavy digging, hauling, and cleanup while you supervise. When we’re finished, your property will be perfectly graded and ready."
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Eco-Friendly Soil Disposal & Recycling Solutions"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We protect our environment through responsible soil removal practices:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Recycle Clean Fill – Donate quality soil to community gardens and construction projects"
+      ],
+      [
+       "Responsible Processing – Properly handle contaminated soil at licensed facilities"
+      ],
+      [
+       "Minimize Waste – Divert over 80% of materials from landfills through sustainable methods"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Get Instant Pricing – Fair & Transparent Quotes!"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "All-inclusive pricing with zero hidden fees"
+      ],
+      [
+       "Free on-site estimates available same day"
+      ],
+      [
+       "Special rates for large-volume and commercial soil removal"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Types of Soil We Remove"
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Common Soil Types:"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Topsoil and garden soil"
+      ],
+      [
+       "Clay and heavy, compacted earth"
+      ],
+      [
+       "Sandy and loose fill materials"
+      ],
+      [
+       "Loam and nutrient-rich soils"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Construction & Specialty Soils:"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Excavation dirt and clean fill"
+      ],
+      [
+       "Contaminated or treated soils (properly contained)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "4 Easy Steps to a Fresh, Soil-Free Lawn"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Snap & Send",
+       "text": [
+        "Text or email photos of your soil pile or excavation area, and we will respond within minutes with a customized solution for your backyard soil removal needs."
+       ]
+      },
+      {
+       "title": "Get a Fair Quote",
+       "text": [
+        "Receive honest pricing with no hidden fees, and our soil removal service quotes include all labor, equipment, and disposal costs."
+       ]
+      },
+      {
+       "title": "Choose Your Time",
+       "text": [
+        "Choose from same-day emergency soil removal or schedule in advance, and we work around your timeline for complete convenience."
+       ]
+      },
+      {
+       "title": "We Remove & Clean",
+       "text": [
+        "Our professional crew excavates, hauls away, and properly disposes of your unwanted soil, typically completing most residential jobs in 2-3 hours."
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Before & After Gallery"
+    },
+    {
+     "t": "p",
+     "c": [
+      "See dramatic property transformations – from piled soil to clean, usable spaces."
+     ]
+    },
+    {
+     "t": "gallery",
+     "images": [
+      {
+       "src": "/images/uploads/2026/07/Soil-Removal-Services-befre-1024x572.jpeg",
+       "alt": "Soil Removal Services"
+      },
+      {
+       "src": "/images/uploads/2026/07/Soil-Removal-Services-after-1024x572.jpeg",
+       "alt": "Soil Removal Services"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "FAQs – Soil Removal"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Do you remove all types of soil, including contaminated soil?",
+       "a": [
+        [
+         "Yes, we remove all soil types – topsoil, clay, sand, and properly contained contaminated soil (special handling applies). Our teams are equipped for residential and commercial soil removal projects of any scale."
+        ]
+       ]
+      },
+      {
+       "q": "How much does soil removal cost?",
+       "a": [
+        [
+         "Prices start at $125 for basic backyard soil removal. Larger projects receive volume discounts. Get free exact pricing by sharing project details via text/photo, no hidden fees."
+        ]
+       ]
+      },
+      {
+       "q": "What areas do you serve for soil removal?",
+       "a": [
+        [
+         "We cover Markham, Vaughan, Richmond Hill, and the surrounding GTA. Confirm your specific address with us. Same-day soil removal availability varies by location. Call early for the best options."
+        ]
+       ]
+      },
+      {
+       "q": "Can I schedule same-day soil removal?",
+       "a": [
+        [
+         "Absolutely! Same-day/emergency service is available when booked. Weekend soil removal appointments offered at standard rates, no extra charges."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What People Say About Us"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Areas We Serve"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ],
+      [
+       "Stouffville"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

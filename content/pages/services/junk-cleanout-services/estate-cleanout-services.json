@@ -1,0 +1,448 @@
+{
+ "id": 16434,
+ "kind": "page",
+ "path": "/services/junk-cleanout-services/estate-cleanout-services/",
+ "type": "service",
+ "template": "Cleanout",
+ "seo": {
+  "title": "Estate Cleanout Services - Live JunkFree",
+  "description": "Live Junk Free handles estate cleanout services with care and respect across the Greater Toronto Area. Book today for professional junk removal and responsible sorting.",
+  "canonical": "https://livejunkfree.ca/services/junk-cleanout-services/estate-cleanout-services/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/07/estate-cleanout-services.jpeg"
+ },
+ "title": "Estate Cleanout Services",
+ "h1": "Estate Cleanouts in Toronto & the GTA",
+ "published": "2026-07-10T07:06:41",
+ "modified": "2026-11-03T20:41:29",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Estate Cleanouts in Toronto & the GTA"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Clearing an inherited home or preparing a property for sale?Live Junk Free helps families, executors and property representatives clear unwanted furniture and household contents. Our crew handles the lifting, carrying and loading of the agreed items. You decide what stays; we remove what needs to go.Call us to discuss the property and get a quote before scheduling the cleanout."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call About Your Estate Cleanout",
+       "href": "tel:+16479225865"
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Request an Estate Quote"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Less to coordinate. More help with the physical work."
+    },
+    {
+     "t": "p",
+     "c": [
+      "An estate cleanout may come at the same time as family decisions, property arrangements, a home sale or a move. Once the family identifies the belongings to keep, the next step is getting the unwanted items out of the property."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Live Junk Free helps with the physical removal of designated furniture, household contents and accumulated clutter. We discuss the size of the cleanout, access requirements and the items to be removed before arranging the job."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call for an Estate Cleanout Quote",
+       "href": "tel:+16479225865"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/11/estate-cleanout-services-1024x765.jpeg",
+      "alt": "Estate cleanout services",
+      "width": 800,
+      "height": 598
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What we can help remove"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Estate and property cleanout enquiries commonly involve:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Sofas, tables, chairs, beds and other household furniture."
+      ],
+      [
+       "Boxes, books, unwanted household items and general clutter."
+      ],
+      [
+       "Furniture and stored contents in basements, garages and storage areas."
+      ],
+      [
+       "Selected appliances, bulky items and larger furniture, depending on access."
+      ],
+      [
+       "Several rooms or a full-property cleanout that may require multiple truckloads."
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "When you call, tell us about heavy items, unusual materials, stairs, elevators or limited access so we can confirm the scope and provide an appropriate quote."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Protect the belongings that matter"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Before removal begins, separate cash, jewellery, family photographs, documents, sentimental belongings and anything relatives want to keep. Clearly mark items that should remain in the property."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Live Junk Free is a paid removal service, not an estate appraisal or inventory service. If antiques, collections or other belongings may need valuation or sale, arrange that separately before the cleanout."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Who we help"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Families clearing inherited homes",
+       "text": [
+        "Remove furniture and household contents after identifying the belongings to keep. Arrange removal of unwanted furniture and accumulated items during a move or transition."
+       ]
+      },
+      {
+       "title": "Executors and estate representatives",
+       "text": [
+        "Discuss the cleanout scope, property access and next steps before authorizing removal. Handling the property from out of town? Let us know who can provide access and approve the removal instructions."
+       ]
+      },
+      {
+       "title": "Homeowners and realtors preparing a property for sale",
+       "text": [
+        "Clear agreed rooms and unwanted contents ahead of a listing or handover. Discuss elevator bookings, parking, stairs and loading-area requirements in advance."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Estate cleanout pricing"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Pricing based on the job—not a one-size-fits-all estate fee"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Estate cleanouts are quoted according to the amount and type of material, labour, access and number of truckloads required. Larger properties may need more than one load."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "A full truckload is {{cad_655:C}}."
+       ]
+      },
+      " Small or single-item removals start at {{cad_125:C}}; that is not the price of a whole-home estate cleanout."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Call us with the approximate number of rooms and the items to remove. We will review what the job involves and explain the price and any applicable charges before work begins."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "a": "tel:+16479225865",
+       "c": [
+        "Call for an Estate Cleanout Quote →"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Donation and recycling requests"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Have furniture or household items you would like to donate or recycle? Mention them when requesting a quote. We will confirm what options may be available for those items and any related requirements.",
+      ". "
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How an estate cleanout works"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "1. Call us.",
+       "text": [
+        "Tell us the property city, approximate scope, items to remove and any important deadline."
+       ]
+      },
+      {
+       "title": "2. Review the job.",
+       "text": [
+        "Share details or photos if helpful. We will confirm whether an additional assessment is needed for a quote."
+       ]
+      },
+      {
+       "title": "3. Agree on what goes.",
+       "text": [
+        "Identify the items to retain, confirm access and review the removal scope and price."
+       ]
+      },
+      {
+       "title": "4. Arrange removal.",
+       "text": [
+        "Our crew lifts, carries and loads the agreed unwanted items once the job details and schedule are confirmed."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Property access, locations and timing"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Live Junk Free serves properties across selected Toronto and Greater Toronto Area communities. Call with the city or postal code so we can confirm availability and any travel or access considerations."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Preparing for a listing, sale, closing or property handover? Let us know the date. We will discuss the size of the job and what scheduling options are available."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "If you are arranging the work from outside the GTA, tell us who can provide access and confirm which belongings should be removed."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "FAQs – Estate Cleanouts"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "How much does an estate cleanout cost?",
+       "a": [
+        [
+         "The price depends on the items, number of loads, access and work required. A full truckload is C$655, while small removals start at C$125. Larger properties may take several loads. Call to discuss the scope and applicable charges."
+        ]
+       ]
+      },
+      {
+       "q": "Can I call before I know exactly what needs to go?",
+       "a": [
+        [
+         "Yes. Tell us roughly how many rooms are involved, what type of furniture or contents need removing and where the property is located. We can discuss what information is needed for a quote."
+        ]
+       ]
+      },
+      {
+       "q": "Can you clear a whole house?",
+       "a": [
+        [
+         "We handle larger cleanout enquiries, including projects involving several rooms or more than one truckload. We will review the contents, access and scheduling requirements before booking."
+        ]
+       ]
+      },
+      {
+       "q": "Do I need to be at the property?",
+       "a": [
+        [
+         "Tell us who can provide access, approve the removal scope and identify which items should stay. We will confirm whether those arrangements work for the job."
+        ]
+       ]
+      },
+      {
+       "q": "Will your crew lift and carry furniture from inside?",
+       "a": [
+        [
+         "Our crew handles the agreed lifting and loading. Please tell us about stairs, elevators, heavy items or difficult access when requesting your quote."
+        ]
+       ]
+      },
+      {
+       "q": "What should I do with valuables and family documents?",
+       "a": [
+        [
+         "Identify and set aside jewellery, cash, important records, family photographs, heirlooms and other belongings to keep before removal begins. Clearly mark items that must stay."
+        ]
+       ]
+      },
+      {
+       "q": "Do you buy furniture or estate contents?",
+       "a": [
+        [
+         "No. Live Junk Free provides a paid removal and cleanout service. We do not buy, appraise or sell estate contents."
+        ]
+       ]
+      },
+      {
+       "q": "Can you meet a closing date or urgent deadline?",
+       "a": [
+        [
+         "Tell us your desired date when you call. Availability depends on the job size, location and existing schedule."
+        ]
+       ]
+      },
+      {
+       "q": "What happens to furniture I would like donated?",
+       "a": [
+        [
+         "Tell us which items you hope to donate or recycle. We will confirm what handling options are available for those items."
+        ]
+       ]
+      },
+      {
+       "q": "Can certain furniture remain for staging or family collection?",
+       "a": [
+        [
+         "Yes. Identify and clearly mark the items that should stay. If you need furniture moved within the property, ask about that separately when discussing the quote."
+        ]
+       ]
+      },
+      {
+       "q": "Can a larger cleanout happen in stages?",
+       "a": [
+        [
+         "Tell us if several visits or truckloads may be required. We will review whether staged removal is practical and how the work would be quoted."
+        ]
+       ]
+      },
+      {
+       "q": "Do I need to book a time just to get a quote?",
+       "a": [
+        [
+         "No. Call us to discuss your estate cleanout. Scheduling is discussed after we review the job."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Talk to our team about your estate cleanout"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Whether you are clearing an inherited home, preparing for a sale or removing years of accumulated belongings, start with a call. Tell us where the property is and what needs to go. We will help you understand the next step and quote process."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call 647-922-5865",
+       "href": "tel:+16479225865"
+      }
+     ]
+    },
+    {
+     "t": "form",
+     "name": "Estate Cleanout Quote"
+    }
+   ]
+  }
+ ]
+}

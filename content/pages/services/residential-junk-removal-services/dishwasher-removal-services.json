@@ -1,0 +1,605 @@
+{
+ "id": 16218,
+ "kind": "page",
+ "path": "/services/residential-junk-removal-services/dishwasher-removal-services/",
+ "type": "service",
+ "template": "ItemRemoval",
+ "seo": {
+  "title": "Dishwasher Removal Services - Live JunkFree",
+  "description": "Live Junk Free provides microwave disposal and small appliance removal services in the Greater Toronto Area. Book a pickup today and clear old kitchen items easily.",
+  "canonical": "https://livejunkfree.ca/services/residential-junk-removal-services/dishwasher-removal-services/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/07/dishwasher-removal-services_before.jfif_202607142241.jpeg"
+ },
+ "title": "Dishwasher Removal Services",
+ "h1": "Locally Trusted – Top-Rated Dishwasher Removal Service!",
+ "published": "2026-07-09T04:08:36",
+ "modified": "2026-07-23T05:54:12",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Locally Trusted – Top-Rated Dishwasher Removal Service!"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We are the best in town."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Trusted by people of the Greater Toronto Area"
+      },
+      {
+       "title": "Insured, uniformed, and respectful crew"
+      },
+      {
+       "title": "Rated 5.0 on Google by 780+ customers"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Dishwasher Removal Services"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Removing an old dishwasher is simpler than you may think. At Live Junk Free, we offer a fast and dependable dishwasher removal service for all types of units – whether it’s a built-in model, portable unit, or high-end commercial-grade appliance. We understand how much valuable kitchen space an unused dishwasher can consume when it’s no longer functioning or needed. Our professional service enables you to reclaim that space without any heavy lifting or stress on your part."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "The process is designed to be completely straightforward. We start with a free, no-obligation quote so you know precisely what to expect. Once approved, our expert team manages every aspect: thoroughly cleaning the installation area, and ensuring proper disposal or recycling of all components. We make dishwasher removal so efficient that most jobs are completed in under 45 minutes."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Your Dishwasher Removal Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/dishwasher-removal-services_before.jfif_202607142241-1024x765.jpeg",
+      "alt": "dishwasher-removal-services",
+      "width": 800,
+      "height": 598
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Say Goodbye to Your Old Dishwasher – Same-Day Pickup Available"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Removing an old dishwasher couldn’t be easier. Our professional dishwasher removal service starts at just {{cad_125}}, and we handle everything for you. We’ll safely remove your unit from water lines and electrical hookups, carefully remove it from your cabinetry, and haul it away, leaving your kitchen completely clean with no water residue or debris behind."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "With our experienced team taking care of the job, you can relax while we efficiently clear out your old dishwasher. In no time, you’ll have fresh, open under-counter space ready for your new appliance or additional kitchen storage. Budget-friendly, worry-free same day dishwasher removal that works with your finances."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Ready to reclaim your kitchen space? ",
+      {
+       "a": "tel:+16479225865",
+       "c": [
+        "Call us now"
+       ]
+      },
+      " at +1 647 922 5865 or book online at LiveJunkFree.ca"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "Calls answered in 1 minute or less"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Fast Dishwasher Removal Services in Your Area"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Removing an old dishwasher may seem straightforward, but it often presents more complications than most homeowners anticipate – which is exactly why our professional removal team specializes in handling every aspect of the process. When you choose Live Junk Free for same day dishwasher removal, you’ll experience a completely worry-free service from start to finish, with our experts managing everything to final cleanup."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We recognize that dishwasher removal often needs to happen promptly – whether you’re installing a new model, remodeling your kitchen, or finally reclaiming that valuable under-counter space. That’s why we prioritize same-day and next-day availability, getting that outdated unit out of your way faster than you’d expect."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Attempting to remove dishwashers yourself risks water leaks from supply lines, cabinet damage, and potential flooding issues. Our fully licensed and insured team eliminates these concerns while carefully protecting your kitchen throughout the entire removal process."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our complete same day dishwasher removal service includes:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Safe removal of all dishwasher types"
+      ],
+      [
+       "Professional handling of units installed in tight spaces"
+      ],
+      [
+       "Environmentally responsible disposal with recycling of all components"
+      ],
+      [
+       "Complete air dusting of the removal area"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "We Offer Same-Day Dishwasher Removal."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Old Dishwasher? One Call to Live Junk Free Does It All"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Schedule That Works for You",
+       "text": [
+        "We offer same-day, next-day, and weekend appointments to fit your timeline, so you’re never stuck waiting to reclaim your kitchen space."
+       ]
+      },
+      {
+       "title": "Transparent Pricing",
+       "text": [
+        "Your quote covers it all: safe dishwasher removal, appliance removal, eco-friendly disposal, and a spotless cleanup, no hidden fees, ever."
+       ]
+      },
+      {
+       "title": "Proper Equipment for Safe Removal",
+       "text": [
+        "Our technicians arrive with water catch mats, cabinet guards, and plumbing-safe tools to carefully remove built-in or freestanding dishwashers."
+       ]
+      },
+      {
+       "title": "Environmentally Responsible Processing",
+       "text": [
+        "We recycle every part of your old dishwasher, metal, plastic, electronics, at certified e-waste and material recovery facilities."
+       ]
+      },
+      {
+       "title": "Lightning-Fast Service",
+       "text": [
+        "What could take you hours and a soaked kitchen floor, our pros handle efficiently, often in 45 minutes or less, including cleanup."
+       ]
+      },
+      {
+       "title": "Honest Prices Guaranteed",
+       "text": [
+        "Your upfront price includes everything – no surprise fees for stairs, heavy items, or disposal costs."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Same Day Dishwasher Disposal – Easy Booking"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Our Dishwasher Removal Service is So Seamless, You’ll Be Impressed!"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "We expertly remove dishwashers from any installation, apartment kitchens, custom cabinetry setups, tight under-counter spaces, and even awkward basement or garage locations. Our skilled team carefully extracts your dishwasher without damaging floors, cabinets, or plumbing connections."
+      ],
+      [
+       "From heavy commercial-grade units to compact portable models, we handle them all with precision. We take care of all the complex work, electrical hookup removal, drainage system detachment, and eco-friendly disposal, so you don’t need to risk water damage or injury. When we’re finished, your kitchen space will be cleaner and more usable than before we came."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Eco-Conscious Dishwasher Removal That Matters"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we prioritize environmentally responsible solutions:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Responsible recycling of all metal, plastic and electronic components"
+      ],
+      [
+       "Proper drainage of residual water to prevent contamination"
+      ],
+      [
+       "Safe disposal of detergents and cleaning agents"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "We believe in solutions that benefit both our customers and the planet."
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Transparent Dishwasher Removal Pricing"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Pay only for what we remove – no hidden fees"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Clear upfront pricing provided before service"
+      ],
+      [
+       "Free same-day estimates via phone/text/online"
+      ],
+      [
+       "Special savings when removing multiple appliances"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Types of Dishwashers We Remove"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At ",
+      {
+       "a": "/",
+       "c": [
+        "Live Junk Free"
+       ]
+      },
+      ", we specialize in removing all types of Dishwashers:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Built-in models"
+      ],
+      [
+       "Portable dishwashers"
+      ],
+      [
+       "Commercial units"
+      ],
+      [
+       "Broken or non-working dishwashers"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Remove Your Dishwasher the Easy Way – Just 4 Steps"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Send Us Details",
+       "text": [
+        "Text or email photos of your dishwasher, and we'll provide a free quote within minutes"
+       ]
+      },
+      {
+       "title": "Get Your Price",
+       "text": [
+        "Select same-day or next-day removal that fits your schedule - we come to your location fully prepared."
+       ]
+      },
+      {
+       "title": "Choose Your Time",
+       "text": [
+        "Select same-day or next-day service that works for you - we come directly to your home or office."
+       ]
+      },
+      {
+       "title": "We Handle Everything",
+       "text": [
+        "Our expert team safely removes your dishwasher with most jobs completed in under 60 minutes."
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Before & After Dishwasher Removal Gallery"
+    },
+    {
+     "t": "p",
+     "c": [
+      "See the dramatic transformations we deliver. From heavy, non-functioning dishwashers to clean, spacious kitchen areas – view our actual removal projects in action"
+     ]
+    },
+    {
+     "t": "gallery",
+     "images": [
+      {
+       "src": "/images/uploads/2026/07/dishwasher-removal-services_before.jfif_202607142237-1024x765.jpeg",
+       "alt": "dishwasher-removal-services_before"
+      },
+      {
+       "src": "/images/uploads/2026/07/dishwasher-removal-services_before.jfif_202607142239-1024x765.jpeg",
+       "alt": "dishwasher-removal-services_after"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "FAQs – Dishwasher Removal"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Do you remove all types of dishwashers?",
+       "a": [
+        [
+         "Yes! We remove built-in, portable, and commercial dishwashers, any brand, size, or age. No job is too big or too small. Just let us know the model, and we’ll handle the rest."
+        ]
+       ]
+      },
+      {
+       "q": "How much does dishwasher removal cost?",
+       "a": [
+        [
+         "Dishwasher removal costs vary based on location, accessibility, and disposal requirements. Most services provide free estimates, so contact us in your area for accurate quotes. Bulk discounts available for multiple units! "
+        ]
+       ]
+      },
+      {
+       "q": "What areas do you serve for dishwasher removal?",
+       "a": [
+        [
+         "We cover all of Toronto & GTA, including Mississauga, Vaughan, Markham, and beyond. Not sure? Just ask, we likely service your area!"
+        ]
+       ]
+      },
+      {
+       "q": "Can I schedule a same-day pickup?",
+       "a": [
+        [
+         "Yes! If we have availability, we can often do same-day service. Need urgent removal? Call us, and we’ll prioritize your request."
+        ]
+       ]
+      },
+      {
+       "q": "Do I need to clean my dishwasher before removal?",
+       "a": [
+        [
+         "Nope! We remove it as-is. However, emptying it of dishes/debris helps speed up the process. No deep cleaning required."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What People Say About Us"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Areas We Serve"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ],
+      [
+       "Stouffville"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

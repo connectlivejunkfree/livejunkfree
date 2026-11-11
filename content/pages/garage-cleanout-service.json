@@ -1,0 +1,493 @@
+{
+ "id": 14444,
+ "kind": "page",
+ "path": "/garage-cleanout-service/",
+ "type": "landing",
+ "template": "AdsLanding",
+ "seo": {
+  "title": "Garage Cleanout Service in the GTA | Live Junk Free",
+  "description": "Need a garage cleanout in the GTA? Live Junk Free hauls everything away in one visit. Same-day available. Starting from $99. No hidden fees. Book now!",
+  "canonical": "https://livejunkfree.ca/garage-cleanout-service/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/05/20251128_133239.jpg-1024x577.jpeg"
+ },
+ "title": "Garage Cleanout Service",
+ "h1": "Garage Cleanout Service in the GTA — Everything Cleared in One Visit",
+ "published": "2026-05-30T09:34:17",
+ "modified": "2026-05-31T04:46:21",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Garage Cleanout Service in the GTA — Everything Cleared in One Visit"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Old tools, boxes, appliances, junk — we haul it all away. Same-day available. Starting from {{cad_125}}."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call Now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Upfront Pricing"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Starting from {{cad_125}}. Price confirmed before we start. No hidden fees."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Same-Day Service"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Book before noon and we are there the same day across the GTA."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Fully Insured"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Fully licensed and insured on every job. Proof of coverage on request."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/05/20251128_133239.jpg-1024x577.jpeg",
+      "alt": "20251128 133239.jpg",
+      "width": 800,
+      "height": 451
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Garage Cleanout in the GTA — Done in One Visit"
+    },
+    {
+     "t": "p",
+     "c": [
+      "A garage full of years of clutter is not something you can clear in a weekend. Live Junk Free provides a professional garage cleanout service across the Greater Toronto Area. Our trained crew loads everything into the truck and hauls it away in a single visit. You open the garage door. We do the rest."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We take everything: old tools, broken appliances, boxes, furniture, renovation debris, tires, and scrap metal. Whether you need a full garage cleanout before selling your home, after a renovation, or simply to reclaim your space — all garage junk removal is handled in one trip. No sorting, no trips to the dump. Just a clean, empty garage."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call Now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Everything We Remove During Garage Cleanouts"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Old Tools & Equipment"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We remove all types of old tools, power equipment, garden machinery, and hardware — no matter how heavy or bulky."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Appliances & Electronics"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Fridges, freezers, washing machines, TVs, and old electronics cleared from your garage in a single visit."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Renovation Debris"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Lumber, drywall, flooring, tiles, and all types of construction waste hauled away after your project."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "General Junk & Clutter"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Boxes, furniture, sporting equipment, tires, scrap metal, and years of accumulated clutter — all gone in one trip."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/05/garage-banner--1024x683.png",
+      "alt": "Garage banner",
+      "width": 800,
+      "height": 534
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why GTA Homeowners Choose Live Junk Free"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Upfront pricing from {{cad_125}} — price locked in before we start, no hidden charges"
+      ],
+      [
+       "Everything taken in one trip — tools, appliances, furniture, renovation debris, tires, scrap metal and more"
+      ],
+      [
+       "Same day service across ",
+       {
+        "b": [
+         "Toronto"
+        ]
+       },
+       ", ",
+       {
+        "b": [
+         "Mississauga"
+        ]
+       },
+       ", ",
+       {
+        "b": [
+         "Brampton"
+        ]
+       },
+       ", ",
+       {
+        "b": [
+         "Vaughan"
+        ]
+       },
+       ", ",
+       {
+        "b": [
+         "Markham"
+        ]
+       },
+       ", ",
+       {
+        "b": [
+         "Scarborough"
+        ]
+       },
+       ", North York, Etobicoke and more"
+      ],
+      [
+       "Fully licensed and insured — proof of coverage available on request"
+      ],
+      [
+       "Eco-friendly disposal — items donated or recycled wherever possible before landfill"
+      ]
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call Now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Garage Cleanout in Action"
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/05/garage-before-after--1024x683.png",
+      "alt": "Garage before after",
+      "width": 800,
+      "height": 534
+     }
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call Now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Our Trusted Partner in Garage-Free Spaces"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Dedicated to Fast, Reliable, and Eco-Friendly Garage Cleanouts"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We specialise in clearing garages of all sizes across the Greater Toronto Area. From single-car garages packed with decades of clutter to double-car garages full of renovation debris, our trained crew handles the full job — loading, hauling, and responsible disposal. No stress, no mess."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Wide Service Area"
+      },
+      {
+       "title": "Local Expertise"
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-4.png",
+      "alt": "Background 4",
+      "width": 458,
+      "height": 237
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Got a Cluttered Garage Taking Up Valuable Space?"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We will take care of it."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book your Appointment",
+       "href": "/contact/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How It Works — 3 Simple Steps"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Book in 60 Seconds",
+       "text": [
+        "Call 647-922-5865 or fill out the form. Tell us roughly how full the garage is and your address. We offer same day garage cleanout across the GTA when you book before noon."
+       ]
+      },
+      {
+       "title": "We Arrive On Time",
+       "text": [
+        "Our crew shows up on schedule. We give you a firm upfront price before touching anything. No surprises, no extra charges."
+       ]
+      },
+      {
+       "title": "Gone — All of It",
+       "text": [
+        "We load everything into the truck, sweep up, and leave your garage empty and clean. One visit. Done."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Real Stories from Satisfied Custom"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "How much does a garage cleanout cost?",
+       "a": [
+        [
+         "Our service starts from $99. The final price depends on how full the garage is and what types of items need to go. All prices are confirmed upfront before any work begins. No hidden fees."
+        ]
+       ]
+      },
+      {
+       "q": "Do you take everything or just certain items?",
+       "a": [
+        [
+         "We take almost everything — old tools, appliances, furniture, boxes, renovation debris, tires, and scrap metal. If you are unsure about a specific item, just ask when you book."
+        ]
+       ]
+      },
+      {
+       "q": "How fast can you do the cleanout?",
+       "a": [
+        [
+         "We offer same day garage cleanout across most of the GTA when you book before 12pm. Call 647-922-5865 or fill out the form to check availability."
+        ]
+       ]
+      },
+      {
+       "q": "What does the service include?",
+       "a": [
+        [
+         "A full garage cleanout includes loading all items into our truck, responsible disposal, and sweeping up before we leave. All labour is included in the upfront price."
+        ]
+       ]
+      },
+      {
+       "q": "Are you insured?",
+       "a": [
+        [
+         "Yes. Fully licensed and insured on every job. We are happy to provide proof of coverage on request."
+        ]
+       ]
+      },
+      {
+       "q": "Do you serve my area?",
+       "a": [
+        [
+         "We cover the full GTA including Toronto, Mississauga, Brampton, Vaughan, Markham, Scarborough, North York, Etobicoke, Newmarket, Ajax, Oakville, Burlington and more. Call 647-922-5865 to confirm."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

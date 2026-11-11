@@ -1,0 +1,380 @@
+{
+ "id": 8235,
+ "kind": "page",
+ "path": "/how-it-works/",
+ "type": "core",
+ "template": "Core",
+ "seo": {
+  "title": "How Residential & Commercial Junk Removal Works",
+  "description": "Discover how Live Junk Free handles residential and commercial junk removal, cleanouts, and demolition services in the Greater Toronto Area. Simple process, great results!",
+  "canonical": "https://livejunkfree.ca/how-it-works/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2024/05/livejunkfree-flyer-1024x374.jpg"
+ },
+ "title": "How It Works",
+ "h1": "How It Works",
+ "published": "2024-12-21T07:23:03",
+ "modified": "2026-07-06T02:15:49",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "How It Works"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Step Into Sustainability with Eco-Friendly Junk-Removal"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Once we take charge of your space, we are solely responsible for everything from decluttering to disposal. At Live Junk Free, we’re quite concerned about our customers and ensure to make the entire process hassle-free for them with our easy-to-follow steps. To make the experience even better, we work towards enhancing the well-being of our customers with the incorporation of eco-friendly practices at the time of clearance."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Regardless of the kind of waste, we assist our customers in sorting it all. When they are satisfied with our efficient ",
+      {
+       "a": "/services/residential-junk-removal-services/",
+       "c": [
+        "residential"
+       ]
+      },
+      " and ",
+      {
+       "a": "/services/commercial-junk-removal-services/",
+       "c": [
+        "commercial junk removal services"
+       ]
+      },
+      " in Markham and Scarborough",
+      {
+       "b": [
+        ", "
+       ]
+      },
+      "we obtain their consent to haul all the unnecessary items from the site, handle them cautiously and sustainably recycle them."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Let’s go clean, go green!"
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2024/12/Frame-48095737.png",
+      "alt": "Frame",
+      "width": 473,
+      "height": 89
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/gazebo-removal-services-before-1024x765.jpeg",
+      "alt": "gazebo-removal-services",
+      "width": 800,
+      "height": 598
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "marquee",
+     "items": [
+      "House Cleanouts",
+      "Fence Removal",
+      "Shed Demolition",
+      "Yard Waste",
+      "Retail Cleanout",
+      "Wall Demolition",
+      "Deck Demolition"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "On-Time Service",
+       "text": [
+        "Punctuality You Can ",
+        {
+         "br": 1
+        },
+        " Rely On."
+       ],
+       "image": {
+        "src": "/images/uploads/2024/12/image-83.png",
+        "alt": "Image 83",
+        "width": 73,
+        "height": 72
+       }
+      },
+      {
+       "title": "Same Day Removal",
+       "text": [
+        "Clearing Your Space Today, Not Tomorrow."
+       ],
+       "image": {
+        "src": "/images/uploads/2024/12/image-84.png",
+        "alt": "Image 84",
+        "width": 72,
+        "height": 72
+       }
+      },
+      {
+       "title": "We Do The Work",
+       "text": [
+        "Leave the Heavy ",
+        {
+         "br": 1
+        },
+        " Lifting to Us."
+       ],
+       "image": {
+        "src": "/images/uploads/2024/12/image-89.png",
+        "alt": "Image 89",
+        "width": 80,
+        "height": 80
+       }
+      },
+      {
+       "title": "We Recycle & Donate",
+       "text": [
+        "Giving Back Through Recycling and Donations."
+       ],
+       "image": {
+        "src": "/images/uploads/2024/12/image-88.png",
+        "alt": "Image 88",
+        "width": 72,
+        "height": 72
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How Does Our Eco-Friendly Junk Removal Work?"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "It works like magic. You wouldn’t realise how quickly your cluttered space transitions into the one you wish to possess with just a few easy steps."
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Contact Us and Seek a No-obligation Quote",
+       "text": [
+        "Whenever a need to clean up your spaces arises, just reach out to our representatives by calling on our official contact number. After hearing all your queries, our staff will revert with a resolution and educate you about our commercial and",
+        {
+         "a": "/about/",
+         "c": [
+          " residential junk pick up "
+         ]
+        },
+        " services."
+       ],
+       "image": {
+        "src": "/images/uploads/2024/12/Frame-48095745.png",
+        "alt": "Frame",
+        "width": 87,
+        "height": 113
+       },
+       "href": "/about/"
+      },
+      {
+       "title": "Our Professionals Arrive at Your Site",
+       "text": [
+        "After scheduling a two-hour arrival window at your convenience, our team members make it to your location on time with all the necessary tools and equipment. Whether the appointment has been reserved for the same day or another, punctuality remains consistent."
+       ],
+       "image": {
+        "src": "/images/uploads/2025/01/02.png",
+        "alt": "02",
+        "width": 85,
+        "height": 56
+       }
+      },
+      {
+       "title": "Request a FREE On-site Estimate",
+       "text": [
+        "Upon the arrival of our executives, kindly provide an overview of the items that need to be eliminated along with the necessary instructions that you want them to follow. After considering everything, they will offer a quote based on our simple price-per-volume formula which would be FREE OF COST."
+       ],
+       "image": {
+        "src": "/images/uploads/2025/01/03.png",
+        "alt": "03",
+        "width": 85,
+        "height": 57
+       }
+      },
+      {
+       "title": "Enjoy a Decluttered Space and Smooth Hauling",
+       "text": [
+        "Once you approve the quotation, all you need to do is just relax and our members will take over from there. They immediately get to work, lifting heavy obstacles, cleaning the entire space, and carrying all the trash along with them when leaving the site."
+       ],
+       "image": {
+        "src": "/images/uploads/2025/01/04.png",
+        "alt": "04",
+        "width": 91,
+        "height": 56
+       }
+      },
+      {
+       "title": "Your stuff is handled and recycled responsibly",
+       "text": [
+        "While ",
+        {
+         "a": "/services/residential-junk-removal-services/",
+         "c": [
+          " our experts haul materials "
+         ]
+        },
+        " after sorting them and seeking permission from you about the same, they dispose of everything in a sustainable manner without causing any harm to the surroundings."
+       ],
+       "image": {
+        "src": "/images/uploads/2025/01/05.png",
+        "alt": "05",
+        "width": 88,
+        "height": 56
+       },
+       "href": "/services/residential-junk-removal-services/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/How-Does-Our-Eco-Friendly-Junk-Removal-Work-1024x765.jpeg",
+      "alt": "How Does Our Eco-Friendly Junk Removal Work",
+      "width": 800,
+      "height": 598
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/How-Does-Our-Eco-Friendly-Junk-Removal-Work-1-1024x765.jpeg",
+      "alt": "How Does Our Eco-Friendly Junk Removal Work",
+      "width": 800,
+      "height": 598
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/How-Does-Our-Eco-Friendly-Junk-Removal-Work-2-1024x765.jpeg",
+      "alt": "How Does Our Eco-Friendly Junk Removal Work",
+      "width": 800,
+      "height": 598
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "What types of items do you remove?",
+       "a": [
+        [
+         "We remove a wide range of items, including furniture, appliances, electronics, mattresses, construction debris, yard waste, and more. If you’re unsure if we can take a specific item, feel free to reach out to us.",
+         {
+          "br": 1
+         },
+         {
+          "br": 1
+         }
+        ]
+       ]
+      },
+      {
+       "q": "How does your pricing work?",
+       "a": [
+        [
+         "Our pricing is based on the volume of items being removed, the type of items, and the difficulty of removal. We offer upfront pricing with no hidden fees. You can also request a free estimate by contacting us or using our online booking system."
+        ]
+       ]
+      },
+      {
+       "q": "Do you recycle or donate items?",
+       "a": [
+        [
+         "Yes, we’re committed to responsible disposal practices. Whenever possible, we recycle items or donate them to local charities. Our goal is to minimize waste and give back to the community whenever we can.",
+         {
+          "br": 1
+         },
+         "What areas do you serve?"
+        ]
+       ]
+      },
+      {
+       "q": "What areas do you serve?",
+       "a": [
+        [
+         "We proudly serve Greater Toronto Area. If you’re unsure if we cover your area, please don’t hesitate to contact us. We’re always expanding our service areas to better serve our customers."
+        ]
+       ]
+      },
+      {
+       "q": "How far in advance do I need to schedule a pickup?",
+       "a": [
+        [
+         "We strive to accommodate our customers’ schedules as much as possible. While we do accept same-day appointments when available, we recommend scheduling your pickup at least 24-48 hours in advance to ensure availability. However, we understand that emergencies happen, so feel free to reach out to us, and we’ll do our best to accommodate your needs.",
+         {
+          "br": 1
+         },
+         {
+          "br": 1
+         }
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+  "_readme": "Header mega-menu and footer links. Labels are the live site's own menu wording. Each group shows a short list plus an 'All …' link; the full lists live on the category pages.",
+  "mega": [
+    {
+      "label": "Residential",
+      "all": { "label": "All residential services", "href": "/services/residential-junk-removal-services/" },
+      "items": [
+        { "label": "Couch Removal Services", "href": "/services/residential-junk-removal-services/couch-removal-services/" },
+        { "label": "Mattress Removal Services", "href": "/services/residential-junk-removal-services/mattress-removal-services/" },
+        { "label": "Bed Bug Furniture Removal Services", "href": "/services/residential-junk-removal-services/bed-bug-furniture-removal-services/" },
+        { "label": "Appliances Removal Services", "href": "/services/residential-junk-removal-services/appliances-removal-services/" },
+        { "label": "Hot Tub Removal Services", "href": "/services/residential-junk-removal-services/hot-tub-removal-services/" },
+        { "label": "Piano Removal Services", "href": "/services/residential-junk-removal-services/piano-removal-services/" },
+        { "label": "Furniture Removal Services", "href": "/services/residential-junk-removal-services/furniture-removal-services/" },
+        { "label": "E-Waste Removal Services", "href": "/services/residential-junk-removal-services/e-waste-removal-services/" }
+      ]
+    },
+    {
+      "label": "Commercial",
+      "all": { "label": "All commercial services", "href": "/services/commercial-junk-removal-services/" },
+      "items": [
+        { "label": "Office Furniture Removal Services", "href": "/services/commercial-junk-removal-services/office-furniture-removal-services/" },
+        { "label": "Business Cleanout Services", "href": "/services/commercial-junk-removal-services/business-cleanout-services/" },
+        { "label": "Office Cubicle Removal Services", "href": "/services/commercial-junk-removal-services/office-cubicle-removal-services/" },
+        { "label": "Warehouse Cleanout Services", "href": "/services/commercial-junk-removal-services/warehouse-cleanout-services/" },
+        { "label": "Property Management Cleanout Services", "href": "/services/commercial-junk-removal-services/property-management-cleanout-services/" },
+        { "label": "Retail Cleanout Services", "href": "/services/commercial-junk-removal-services/retail-cleanout-services/" }
+      ]
+    },
+    {
+      "label": "Cleanouts",
+      "all": { "label": "All cleanout services", "href": "/services/junk-cleanout-services/" },
+      "items": [
+        { "label": "Estate Cleanout Services", "href": "/services/junk-cleanout-services/estate-cleanout-services/" },
+        { "label": "House Cleanout Services", "href": "/services/junk-cleanout-services/house-cleanouts-services/" },
+        { "label": "Hoarding Cleanout Services", "href": "/services/junk-cleanout-services/hoarding-cleanouts-services/" },
+        { "label": "Basement Cleanout Services", "href": "/services/junk-cleanout-services/basement-cleanout-services/" },
+        { "label": "Garage Cleanout Services", "href": "/services/junk-cleanout-services/garage-cleanout-services/" },
+        { "label": "Eviction Cleanout Services", "href": "/services/junk-cleanout-services/eviction-cleanout-services/" },
+        { "label": "Apartment Cleanout Services", "href": "/services/junk-cleanout-services/apartment-cleanouts-services/" },
+        { "label": "Storage Unit Cleanouts Services", "href": "/services/junk-cleanout-services/storage-unit-cleanouts-services/" }
+      ]
+    },
+    {
+      "label": "Demolition",
+      "all": { "label": "All demolition services", "href": "/services/junk-demolition-services/" },
+      "items": [
+        { "label": "Shed Demolition Services", "href": "/services/junk-demolition-services/shed-demolition-services/" },
+        { "label": "Deck Demolition Services", "href": "/services/junk-demolition-services/deck-demolition-services/" },
+        { "label": "Fence Demolition Services", "href": "/services/junk-demolition-services/fence-demolition-services/" },
+        { "label": "Garage Demolition Services", "href": "/services/junk-demolition-services/garage-demolition-services/" },
+        { "label": "Hot Tub Demolition Services", "href": "/services/junk-demolition-services/hot-tub-demolition-services/" },
+        { "label": "Concrete Demolition Services", "href": "/services/junk-demolition-services/concrete-demolition-services/" }
+      ]
+    }
+  ],
+  "header": [
+    { "label": "How It Works", "href": "/how-it-works/" },
+    { "label": "Locations", "href": "/locations/" },
+    { "label": "Blog", "href": "/blog/" },
+    { "label": "About", "href": "/about/" },
+    { "label": "Contact", "href": "/contact/" }
+  ],
+  "cta": { "label": "Book Now", "href": "/contact/" },
+  "footer": {
+    "services": [
+      { "label": "Residential", "href": "/services/residential-junk-removal-services/" },
+      { "label": "Commercial", "href": "/services/commercial-junk-removal-services/" },
+      { "label": "Demolition", "href": "/services/junk-demolition-services/" },
+      { "label": "Cleanouts", "href": "/services/junk-cleanout-services/" },
+      { "label": "All services", "href": "/services/" }
+    ],
+    "popular": [
+      { "label": "Couch Removal Services", "href": "/services/residential-junk-removal-services/couch-removal-services/" },
+      { "label": "Mattress Removal Services", "href": "/services/residential-junk-removal-services/mattress-removal-services/" },
+      { "label": "Bed Bug Furniture Removal Services", "href": "/services/residential-junk-removal-services/bed-bug-furniture-removal-services/" },
+      { "label": "Hot Tub Removal Services", "href": "/services/residential-junk-removal-services/hot-tub-removal-services/" },
+      { "label": "Estate Cleanout Services", "href": "/services/junk-cleanout-services/estate-cleanout-services/" },
+      { "label": "Shed Demolition Services", "href": "/services/junk-demolition-services/shed-demolition-services/" }
+    ],
+    "company": [
+      { "label": "Home", "href": "/" },
+      { "label": "About", "href": "/about/" },
+      { "label": "How It Works", "href": "/how-it-works/" },
+      { "label": "Blogs", "href": "/blog/" },
+      { "label": "Contact", "href": "/contact/" },
+      { "label": "Privacy Policy", "href": "/privacy-policy/" }
+    ]
+  }
+}

@@ -1,0 +1,1071 @@
+{
+ "id": 10266,
+ "kind": "page",
+ "path": "/tv-removal-services/",
+ "type": "landing",
+ "template": "AdsLanding",
+ "seo": {
+  "title": "TV Removal Services 1 - Live JunkFree",
+  "description": "",
+  "canonical": "https://livejunkfree.ca/tv-removal-services/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/07/tv-removal-services-before1.jpeg"
+ },
+ "title": "TV Removal Services 1",
+ "h1": "TV Removal Services",
+ "published": "2025-06-04T07:01:11",
+ "modified": "2026-08-01T03:29:16",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "TV Removal Services"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we specialize in fast, safe TV removal, whether it is a heavy, cracked flat-screen or just a TV you no longer need, even if it is not working, no problem. We remove it from anywhere, such as your living room, basement, office, or even a small apartment."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We recycle responsibly whenever possible, so you are helping the planet while clearing space. No heavy lifting, no hassle, just call us, and we will handle the rest."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We are the local experts with same-day service available. We offer affordable, reliable, and eco-friendly services."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Your TV Removal Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
+      "alt": "DSC08963",
+      "width": 800,
+      "height": 534
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We offer Premium Service, with the Best Rates"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We offer top-notch TV removal starting at just {{cad_125}}. Just sit back and relax, we handle everything from start to finish. Our professional team will safely remove your TV, clean up the area, and take care of all the lifting for you. No stress, no mess, just quick and easy service. Before you know it, your space will be clear."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Ready to free up your space? Call us now at +1 647 922 5865 or book online."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "Call answered in 1 minute."
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Our Simple 4-Step Process"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "1. Send Us a Photo or Description",
+       "text": [
+        "Text or upload a pic of your TV."
+       ]
+      },
+      {
+       "title": "2. Get a Quote",
+       "text": [
+        "Flat-rate pricing upfront."
+       ]
+      },
+      {
+       "title": "3. Pick Your Time",
+       "text": [
+        "Same-day or next-day slots."
+       ]
+      },
+      {
+       "title": "4. We Remove It",
+       "text": [
+        "Done in under 30 minutes."
+       ]
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/image-2.jpg.png",
+      "alt": "Image 2.jpg",
+      "width": 520,
+      "height": 654
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Before & After TV Removal"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Check out our before-and-after photos! We have helped clear out homes packed with old TVs, even turned cluttered rooms into fresh, open spaces."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "(photo slider or grid here)"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Same Day TV Removal Service Near You"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We offer TV removal service that specializes in all types, from massive rear-projection units to modern flat screens and everything in between. At Live Junk Free, we eliminate the hassle with careful, professional removal that’s fast and stress-free. Even if you have several to dispose of, we have the equipment and expertise to handle them."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our comprehensive television removal service includes:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Safe removal of all TV types (flat screens, plasmas, CRTs, etc.)"
+      ],
+      [
+       "Handling of large television removal (no disassembly required)"
+      ],
+      [
+       "Eco-friendly disposal with recycling prioritization"
+      ],
+      [
+       "Spotless cleanup after removal"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "We Offer Same-Day TV Removal."
+       ]
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/06/20250504_123132.webp",
+      "alt": "20250504",
+      "width": 800,
+      "height": 450
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Locally TrustedThe Best TV Removal in Town is Here!"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "We are the best in town"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Trusted by people of the Greater Toronto Area"
+      ],
+      [
+       "Insured, uniformed, and respectful crew"
+      ],
+      [
+       "Rated 5.0 on Google by 780+ customers"
+      ]
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book TV Removal Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2024/12/Rectangle-1660.png",
+      "alt": "Rectangle 1660",
+      "width": 415,
+      "height": 325
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "LIMITED OFFER: Book Today and get discounts"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Same-day availability",
+       "text": [
+        "Swift, safe, and efficient service — we get the job done when you need it most."
+       ]
+      },
+      {
+       "title": "Fast 4-step booking",
+       "text": [
+        "Simple, quick, and hassle-free scheduling that fits your daily routine."
+       ]
+      },
+      {
+       "title": "100% satisfaction guarantee",
+       "text": [
+        "We handle your junk responsibly with a 100% satisfaction promise and sustainable disposal."
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Your TV Removal Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "Prefer to call? ",
+          {
+           "a": "tel:+16479225865",
+           "c": [
+            "+1 647 922 5865"
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How Our TV Removal Services Work"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Our Removal Service is So Smooth, Everyone Notices!"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "We manage TV removal in residential spaces, including tight staircases, basements, and high-rise buildings."
+      ],
+      [
+       "Our team safely disconnects and removes your TV without causing any mess or damage."
+      ],
+      [
+       "From sleek flat screens to large projection TVs and all residential models, our service covers it all."
+      ],
+      [
+       "We lift, haul, and dispose of your old TV without you lifting a finger."
+      ],
+      [
+       "We clean up after you, leaving your space neat and junk-free."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "TV recycling and Donating"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "We protect the planet by ensuring your TV is disposed of responsibly:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Recycle glass, plastics, and metals responsibly"
+      ],
+      [
+       "Donate working TVs to local charities"
+      ],
+      [
+       "Minimize landfill waste"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "We focus on the eco-friendly aspect and highlight the positive impact it has on both the customer and the environment."
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Get Instant Pricing – No Surprises, Clear and Transparent Pricing"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "You only pay for what we remove."
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Straightforward quotes with no hidden fees."
+      ],
+      [
+       "Free instant estimates via phone, text, or online."
+      ],
+      [
+       "Discounts for bulk removals (e.g., student housing cleanouts)."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What makes us the Best TV Removal Services near you"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Safety",
+       "text": [
+        "Old TVs, especially bulky models, can be hazardous when not disposed of properly."
+       ]
+      },
+      {
+       "title": "Better Use of Space",
+       "text": [
+        "Clear out your living room, basement, or home office to make room for new furniture."
+       ]
+      },
+      {
+       "title": "Avoid Injury",
+       "text": [
+        "TV removal can be risky with large, heavy units, so let us handle the heavy lifting."
+       ]
+      },
+      {
+       "title": "Peace of Mind",
+       "text": [
+        "Getting rid of unused or outdated TVs frees up space and eliminates clutter."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Types of TVs We Remove:"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "At Live Junk Free, we specialize in removing all types of appliances:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Flat screens (LCD, LED, OLED)"
+      ],
+      [
+       "Plasma and projection TVs"
+      ],
+      [
+       "CRT (tube) televisions"
+      ],
+      [
+       "Large television removal (70+ inches)Large television removal (70+ inches)"
+      ],
+      [
+       "Smart TVs and broken units"
+      ]
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book TV Removal Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2024/05/IMG_1614-scaled-1.jpg",
+      "alt": "IMG 1614 scaled 1",
+      "width": 1600,
+      "height": 1200
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Same-Day Removal Services- We Remove It All"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Furniture Removal Services"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Mattress & box spring removal"
+      ],
+      [
+       "Sofa removal (including leather, sofa beds, and sofas)"
+      ],
+      [
+       "Dresser & hutch removal"
+      ],
+      [
+       "Desk removal (with drawer disassembly)"
+      ],
+      [
+       "Patio & old furniture removal"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Appliance Removal Services"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Fridge & freezer removal"
+      ],
+      [
+       "Stove/oven removal (door disassembly included)"
+      ],
+      [
+       "Washer & dryer removal"
+      ],
+      [
+       "Dishwasher removal"
+      ],
+      [
+       "Hot water tank removal"
+      ],
+      [
+       "Microwave removal"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Heavy-Duty & Specialty Removals"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Hot tub & jacuzzi removal (including jet servicing)"
+      ],
+      [
+       "Pool table removal (disassembly & setup)"
+      ],
+      [
+       "Load-bearing wall removal (basements included)"
+      ],
+      [
+       "Cabinet removal (filing cabinets, kitchen cabinets)"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "E-Waste & Scrap Removal"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Television removal (large screens included)"
+      ],
+      [
+       "E-waste recycling"
+      ],
+      [
+       "Scrap metal & appliance recycling"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Advantages of removing TV with Live Junk Free"
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Frame-427323582.png",
+      "alt": "Frame",
+      "width": 97,
+      "height": 70
+     }
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Why leave it to the pros?"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Still unsure if hiring experts is worth it? Here's why our television removal service is the smarter choice:"
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "Convenience",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We handle all the lifting, hauling, and disposal - no struggling with heavy TVs or rental trucks"
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "02",
+       "title": "Time-saving",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Old television removal is labor-intensive - our team works fast with same-day service"
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "03",
+       "title": "Safety",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Avoid injuries from lifting heavy TVs - our crew uses proper equipment"
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "04",
+       "title": "Eco-friendly",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Over 75% of TVs we collect are properly recycled"
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "05",
+       "title": "Cost-effective",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Cheaper than DIY (truck rentals, dump fees) with upfront pricing"
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "06",
+       "title": "Stress-free",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "No logistics, no cleanup - just certified, insured pros"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What People Say About Us"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Areas We Serve"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We proudly offer TV removal in:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       {
+        "a": "/locations/east-gwillimbury/",
+        "c": [
+         "East Gwillimbury"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/etobicoke/",
+        "c": [
+         "Etobicoke"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/junk-removal-services-in-georgina/",
+        "c": [
+         "Georgina"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/wp-admin/setup-config.php",
+        "c": [
+         "King City"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/markham/",
+        "c": [
+         "Markham"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/mississauga/",
+        "c": [
+         "Mississauga"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/new-market/",
+        "c": [
+         "Newmarket"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/nobleton/",
+        "c": [
+         "Nobleton"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/oshawa/",
+        "c": [
+         "Oshawa"
+        ]
+       }
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ],
+      [
+       "Stouffville —call to confirm your area!"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We also handle full furniture and appliance removal if you’re decluttering or moving"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Ready to remove your TV and dispose of it today?"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Whether you're upgrading to a new TV or just tired of that old one taking up space…"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Let us do the heavy lifting, literally."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Now – It Takes 60 Seconds",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "Or call/text us at ",
+          {
+           "a": "tel:+16479225865",
+           "c": [
+            "+1 647 922 5865"
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "Live Junk Free. Enjoy Your Space Again."
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "TV Removal FAQs"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "1. Do you take all kinds of TVs?",
+       "a": [
+        [
+         "Yes, we remove big flat screens, old tube TVs, projectors that is any type. It doesn’t matter if it’s huge or tiny. We’ll remove it safely without any hassle."
+        ]
+       ]
+      },
+      {
+       "q": "2. Do you recycle old TVs?",
+       "a": [
+        [
+         "We recycle if your TV works, we donate it. If it’s broken, we recycle it properly, not throwing it in the trash. We care about the planet."
+        ]
+       ]
+      },
+      {
+       "q": "3. How much does it cost?",
+       "a": [
+        [
+         "The price depends on your TV’s size and where you live. Just call us and we’ll give you a fair price with no surprises. Always free to ask."
+        ]
+       ]
+      },
+      {
+       "q": "4. Where do you work?",
+       "a": [
+        [
+         "We serve in the Greater Toronto Area. Not sure if we will come to you? Just call! We’ll check and let you know right away."
+        ]
+       ]
+      },
+      {
+       "q": "5. Can you come today?",
+       "a": [
+        [
+         "Yes, we can come today, and we will remove your TV the same day. Call early to book a quick pickup, we’ll try our best to reach you as soon as possible."
+        ]
+       ]
+      },
+      {
+       "q": "6. Do I need to take it off the wall?",
+       "a": [
+        [
+         "No, we can unplug and unmount it for you. But if it’s already down, that’s fine too. We’ll handle it either way."
+        ],
+        [
+         {
+          "b": [
+           " "
+          ]
+         }
+        ]
+       ]
+      },
+      {
+       "q": "7. Can you take many TVs at once?",
+       "a": [
+        [
+         "Sure! Cleaning out a bunch? No problem. Tell us how many you’ve got, and we’ll haul them all in one trip."
+        ]
+       ]
+      },
+      {
+       "q": "8. Where does my TV go after?",
+       "a": [
+        [
+         "Good TVs go to people who need them. Broken ones get recycled safely, so no harmful stuff in landfills. We make sure it’s done right."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Old TV Taking Up Space?"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Free up your space. Clear your mind. Let us handle the heavy lifting."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote + Off Today",
+       "href": "/contact/"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

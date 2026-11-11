@@ -1,0 +1,620 @@
+{
+ "id": 13894,
+ "kind": "page",
+ "path": "/locations/new-market/",
+ "type": "location-town",
+ "template": "TownHub",
+ "seo": {
+  "title": "Junk Removal Newmarket Ontario | Same-Day Service | Live Junk Free",
+  "description": "Locally owned junk removal in Newmarket, ON — free on-site estimate, same-day available 7 days a week. Furniture, appliances, estate cleanouts & more. Call +1 647 922 5865!",
+  "canonical": "https://livejunkfree.ca/locations/new-market/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Bolton-1.png"
+ },
+ "title": "New Market",
+ "h1": "Junk Removal in Newmarket, Ontario — Neighbourly Service, Professional Results, Same Day",
+ "published": "2026-05-26T15:34:51",
+ "modified": "2026-07-04T08:47:55",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "checks",
+     "items": [
+      "Our Service Areas"
+     ]
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Junk Removal in Newmarket, Ontario — Neighbourly Service, Professional Results, Same Day"
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "a": "/contact/",
+       "c": [
+        "Live Junk Free"
+       ]
+      },
+      " is a locally operated team — not a franchise, not a national call centre — and we treat every Newmarket home and business the way we’d want our own treated. We arrive on time, assess everything in person, hand you a completely free on-site estimate before touching a thing, and if you’re happy with it, your junk is cleared the same day. Professional results, neighbourly service, every single time."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We serve all of Newmarket — from the historic Main Street corridor and Fairy Lake area to Stonehaven, Glenway, Summerhill Estates, Woodland Hill and every neighbourhood across town. Our same-day junk removal service in Newmarket, Ontario runs 7 days a week, 6AM to 11PM. Call or book online and we’ll be there."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call Now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "marquee",
+     "items": [
+      "House Cleanouts",
+      "Fence Removal",
+      "Shed Demolition",
+      "Yard Waste",
+      "Retail Cleanout",
+      "Wall Demolition",
+      "Deck Demolition"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-2.png",
+      "alt": "Background 2",
+      "width": 590,
+      "height": 500
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-3.png",
+      "alt": "Background 3",
+      "width": 590,
+      "height": 500
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Newmarket Has Talked — Here's Why Our Junk Removal Crew Gets Recommended Street by Street"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Families in Stonehaven and Glenway call us for garage and basement cleanouts. Homeowners near Fairy Lake and Davis Drive call us for estate cleanouts and furniture removal. Business owners along Main Street and Yonge Street call us for commercial cleanouts, office furniture removal and retail cleanouts. And they all come back — and they all refer their neighbours — because we do exactly what we say we're going to do, every single time. We're not a call-centre franchise dispatching random contractors. We're a real, locally operated junk removal company with a professional crew, fully insured, that shows up on time and treats your Etobicoke home or condo the way it deserves to be treated. No scuffs on your walls. No mess left behind. No billing surprises."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "Zero guessing — we quote in person, every time.",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Our Newmarket junk removal crew comes to your property, physically walks through every area you need cleared, and assesses the full job before calculating your price. No guessing on the phone. No estimate that needs to be \"adjusted\" once we see the actual volume. What we see in person is what we price."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "02",
+       "title": "Volume-based pricing — the only honest method.",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Your quote is based entirely on how much space your items take up in our truck. Small load, small price. Large load, scaled price. The clock is never running. Your neighbourhood in Newmarket never factors into your bill. Pure volume, pure fairness."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "03",
+       "title": "One all-inclusive flat-rate number.",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Labour, truck, fuel, disposal — everything is inside that one number. We do not add line items after you've approved the quote. We do not discover \"extra disposal fees\" at the end. What you approve is a complete, locked price."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "04",
+       "title": "Zero obligation to proceed.",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Once we hand you the quote, the decision is entirely yours. Take your time. If it works, we start immediately. If it doesn't, we leave — no charge, no sales pressure, no awkwardness."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "05",
+       "title": "Zero overpaying vs franchise competitors.",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Because we don't pay franchise royalties, Newmarket customers consistently pay 30–50% less than they would with national junk removal chains for the exact same work. Local ownership means local pricing."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "06",
+       "title": "Senior and estate cleanout consideration.",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "For Newmarket families dealing with estate cleanouts or senior home transitions, we handle pricing with extra sensitivity and care — and we always ensure the process is as stress-free as possible."
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Zero Guessing, Zero Overpaying — Newmarket's Most Transparent Junk Removal Pricing"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Newmarket residents are smart, community-minded and value-conscious — you work hard for your money and you expect fair treatment from every company you hire. When it comes to junk removal pricing, too many companies in York Region still rely on vague phone estimates, hourly billing that drags out, or a \"final number\" that somehow grows between the quote and the invoice."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Wide Service Area"
+      },
+      {
+       "title": "Local Expertise"
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-4.png",
+      "alt": "Background 4",
+      "width": 458,
+      "height": 237
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "We've Made Junk Removal in Newmarket So Simple, You'll Wonder Why You Waited This Long"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Most people in Newmarket put off dealing with junk not because they don't want it gone — but because they expect the process to be complicated, time-consuming or stressful. We've spent years designing our same-day junk removal service in Newmarket, Ontario to eliminate every one of those concerns. Here's our complete 4-step process — simple, fast and stress-free from first call to clean space:"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Book Your Newmarket Junk Removal in 2 Minutes",
+       "text": [
+        "Call +1 647 922 5865 or fill out our quick online booking form. Tell us your Newmarket location and roughly what you need removed. Whether you're in Stonehaven, Glenway, Summerhill Estates, Woodland Hill, Leslie Valley, Armitage, Huron Heights or anywhere else across Newmarket — we'll confirm your same-day or next-day time slot immediately. We call ahead 30 minutes before arrival so you know exactly when we're coming. No vague 4-hour windows, no all-day waiting.. to schedule your junk removal & hauling in Etobicoke, Toronto at a time that fits your schedule. Our booking process is quick, flexible, and entirely tailored around your convenience."
+       ]
+      },
+      {
+       "title": "We Arrive On Time & Give You a Free On-Site Quote",
+       "text": [
+        "Our professional, uniformed Newmarket junk removal crew arrives precisely when we said we would. We walk through your entire property with you — the garage, basement, backyard, every room, any outdoor structures, sheds or storage areas. We take note of everything that needs to go and calculate an accurate, all-inclusive flat-rate quote on the spot. One number. Everything included. Zero obligation to proceed — if it doesn't work for you, we leave immediately and you owe us nothing."
+       ]
+      },
+      {
+       "title": "You Say Go, We Handle Every Single Thing",
+       "text": [
+        "The moment you approve the quote, our Newmarket junk removal team takes over entirely. We carry everything out — from the deepest corner of your basement, the highest shelf in your garage, the back of your Newmarket backyard shed. Furniture removal Newmarket, appliance removal, estate items, renovation debris, yard waste, e-waste — our crew handles every item from every location. You sit back. We do the work. Completely."
+       ]
+      },
+      {
+       "title": "Cleared, Cleaned & Responsibly Sorted",
+       "text": [
+        "Once every item is loaded, we do a final walkthrough with you to confirm everything is gone. We sweep up the area and leave it clean — no debris from the haul, no mess from moving items out. Your junk is then sorted responsibly: usable items go to donation organisations serving the Newmarket and York Region community, recyclables go to certified processing facilities, and only what genuinely cannot be saved goes to landfill. We care about this community — and that means we handle its waste responsibly."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "From Main Street Businesses to Quiet Cul-de-Sacs — Newmarket's Go-To Junk Removal Team"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Newmarket blends a thriving historic commercial core with established family neighbourhoods, growing subdivisions and an active local business community. Whether you're a homeowner on a quiet Newmarket crescent, a retailer on Main Street, a landlord managing a rental property, or a family dealing with a loved one's estate — Live Junk Free is Newmarket's go-to junk removal team for every property type, every job size and every situation."
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Residential Junk Removal in Newmarket",
+       "a": [
+        [
+         "Complete residential junk removal across every Newmarket neighbourhood — no job too big, no item too heavy."
+        ],
+        [
+         "Furniture removal Newmarket — sofas, sectionals, beds, dressers, dining sets, chairs"
+        ],
+        [
+         "Appliance removal Newmarket — fridges, washers, dryers, stoves, dishwashers, microwaves"
+        ],
+        [
+         "Garage cleanout Newmarket — tools, seasonal storage, clutter, bikes, boxes"
+        ],
+        [
+         "Basement cleanout Newmarket — deep storage, old furniture, e-waste, accumulated junk"
+        ],
+        [
+         "Attic cleanout Newmarket — forgotten storage, old boxes, debris"
+        ],
+        [
+         "Mattress removal Newmarket"
+        ],
+        [
+         "Hot tub and spa removal Newmarket"
+        ],
+        [
+         "Exercise equipment removal Newmarket"
+        ],
+        [
+         "Yard waste removal Newmarket — branches, outdoor furniture, patio clutter, BBQs"
+        ],
+        [
+         "Estate cleanout Newmarket — complete property clearing handled with sensitivity and care"
+        ],
+        [
+         "Senior home cleanout Newmarket — compassionate, patient, stress-free service"
+        ],
+        [
+         "Hoarding cleanout Newmarket — non-judgmental, thorough, discreet"
+        ],
+        [
+         "Move-in / move-out junk removal Newmarket"
+        ],
+        [
+         "E-waste and electronics removal Newmarket"
+        ]
+       ]
+      },
+      {
+       "q": "Commercial Junk Removal in Newmarket",
+       "a": [
+        [
+         "Main Street businesses, Yonge Street retailers, office complexes and commercial properties across Newmarket trust Live Junk Free for fast, professional commercial cleanouts."
+        ],
+        [
+         "Office furniture removal Newmarket"
+        ],
+        [
+         "Commercial junk removal Newmarket Ontario"
+        ],
+        [
+         "Retail store cleanout Newmarket — shelving, fixtures, display units, furniture"
+        ],
+        [
+         "Office cleanout and decommission Newmarket"
+        ],
+        [
+         "Restaurant equipment removal Newmarket"
+        ],
+        [
+         "Warehouse cleanout Newmarket"
+        ],
+        [
+         "Landlord junk removal Newmarket — tenant turnover, abandoned items"
+        ],
+        [
+         "Property management junk removal Newmarket"
+        ]
+       ]
+      },
+      {
+       "q": "Demolition & Removal Services in Newmarket",
+       "a": [
+        [
+         "Need something dismantled before it can be removed? Our Newmarket team handles light demolition services."
+        ],
+        [
+         "Shed demolition Newmarket ON"
+        ],
+        [
+         "Deck demolition and removal Newmarket"
+        ],
+        [
+         "Fence removal Newmarket"
+        ],
+        [
+         "Hot tub demolition Newmarket"
+        ],
+        [
+         "Above ground pool demolition Newmarket"
+        ],
+        [
+         "Playset and swing set demolition Newmarket"
+        ],
+        [
+         "Gazebo removal Newmarket"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "All Areas We Serve in & Around Newmarket"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We cover every Newmarket neighbourhood and surrounding York Region communities:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ]
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "- Recent Reviews -"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Read what our past customers say"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions About Junk Removal in Newmarket, ON"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Q: How much does junk removal cost in Newmarket, Ontario?",
+       "a": [
+        [
+         "A: Our Newmarket junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour. Prices start at $125 for small loads. We always provide a completely free on-site estimate before any work begins — zero guessing, zero surprises. The price you approve is the exact price you pay."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you offer same-day junk removal in Newmarket?",
+       "a": [
+        [
+         "A: Yes — same-day junk removal is available across all of Newmarket including Stonehaven, Glenway, Summerhill Estates, Woodland Hill, Huron Heights and surrounding York Region communities. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you handle estate and senior home cleanouts in Newmarket?",
+       "a": [
+        [
+         "A: Yes — estate cleanouts and senior home transitions are one of our most requested services in Newmarket. We handle the entire process with patience, sensitivity and genuine care — clearing the full property at your pace, treating every item respectfully, and making a difficult process as stress-free as possible."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you do commercial junk removal on Main Street and along Yonge Street in Newmarket?",
+       "a": [
+        [
+         "A: Absolutely — commercial junk removal across Newmarket’s business districts including Main Street, Yonge Street and the broader commercial corridor is a core part of our service. Retail cleanouts, office furniture removal, restaurant equipment removal and warehouse clearances — we handle it all efficiently and professionally."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Which Newmarket neighbourhoods do you serve?",
+       "a": [
+        [
+         "A: We serve all of Newmarket including Stonehaven, Glenway, Summerhill Estates, Woodland Hill, Huron Heights, Leslie Valley, Armitage and every neighbourhood across town — plus surrounding communities including Aurora, East Gwillimbury, Bradford, Holland Landing, Sharon and all of York Region."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Are you a local Newmarket company or a franchise?",
+       "a": [
+        [
+         {
+          "b": [
+           "Q: Which Etobicoke neighbourhoods do you serve?"
+          ]
+         }
+        ],
+        [
+         "A: We are 100% locally owned and operated — not affiliated with any national franchise. No franchise markups means our Newmarket pricing is consistently 30–50% lower than national chains for the exact same work."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you remove renovation debris in Newmarket?",
+       "a": [
+        [
+         "A: Yes — renovation and construction debris removal is a popular service across Newmarket. Drywall, flooring, tiles, bathroom and kitchen debris — we remove it all quickly and cleanly so your renovation keeps moving on schedule."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

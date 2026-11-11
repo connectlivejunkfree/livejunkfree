@@ -1,0 +1,611 @@
+{
+ "id": 16339,
+ "kind": "page",
+ "path": "/services/commercial-junk-removal-services/office-furniture-removal-services/",
+ "type": "service",
+ "template": "Commercial",
+ "seo": {
+  "title": "office-furniture-removal-services - Live JunkFree",
+  "description": "Need office furniture removal in Toronto & GTA? Live Junk Free removes desks, chairs & cubicles same day — fully insured, no hidden fees. Call +1 647 922 5865!",
+  "canonical": "https://livejunkfree.ca/services/commercial-junk-removal-services/office-furniture-removal-services/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/07/Office-Furniture-Removal-Services-before.jpg"
+ },
+ "title": "office-furniture-removal-services",
+ "h1": "Toronto's Most Trusted Office Furniture Removal Company!",
+ "published": "2026-07-10T02:52:06",
+ "modified": "2026-07-23T06:39:07",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Toronto's Most Trusted Office Furniture Removal Company!"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We are the best in town."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Trusted by people of the Greater Toronto Area"
+      },
+      {
+       "title": "Insured, uniformed, and respectful crew"
+      },
+      {
+       "title": "Rated 5.0 on Google by 780+ customers"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Office Furniture Removal Services"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Getting rid of old office furniture is simpler than you think. At Live Junk Free, we provide a fast, hassle-free solution to remove unwanted desks, chairs, filing cabinets, and other office items from your workspace. We know how much valuable square footage gets wasted by outdated conference tables, broken workstations, and unused storage units sitting around."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our office furniture removal team handles the entire process so you can focus on running your business. It starts with a free, no-obligation quote based on your specific needs. Once approved, our professional movers will efficiently disassemble, remove, and haul away all your unwanted office furnishings. We take care to protect your floors and walls during the process, leaving your space clean and ready for new furniture or alternative uses."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We specialize in helping businesses of all sizes reclaim their workspace efficiently. Our experienced crew can typically complete most office furniture removal services in a single visit, minimizing disruption to your operations."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Your Office Furniture Removal Service Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/Office-Furniture-Removal-Services.jpg",
+      "alt": "Office Furniture Removal Services",
+      "width": 612,
+      "height": 408
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Call Now or Book Online for Affordable Office Furniture Removal"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Clearing out old office furniture shouldn’t disrupt your business. Our professional office furniture removal service starts at just {{cad_125}}, and we handle everything from start to finish. We’ll carefully remove unwanted workstations, conference tables, filing cabinets, and more, including disassembly if needed, then thoroughly clean the area and haul everything away. No heavy lifting for your staff and no mess left behind!"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "With our specialized office furniture team, you can continue operations while we efficiently clear your space. Soon you’ll have a clean, open area ready for renovations, new furnishings, or expanded workspace. Streamlined, business-friendly furniture removal at competitive rates."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Ready to transform your office space? Call us at +1 647 922 5865 or book online."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "Call answered in 1 minute."
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Same-Day Office Furniture Removal Service Near You"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Clearing out old office furniture presents unique challenges, which is why businesses trust our professional office furniture removal services. When you choose ",
+      {
+       "a": "/contact/",
+       "c": [
+        "Live Junk Free"
+       ]
+      },
+      ", you get a seamless, disruption-free experience tailored for commercial spaces."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We recognize that office timelines can’t wait, whether you’re renovating, relocating, upgrading workstations, or simply need to clear space fast. That’s why we offer same-day and after-hours office furniture removal across Toronto, often completing jobs during evenings or weekends to avoid business interruptions."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Attempting office furniture removal with your staff risks injuries and productivity loss. Our fully insured, uniformed professionals come equipped with:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Specialized tools for safe disassembly of workstations"
+      ],
+      [
+       "Equipment to handle heavy filing cabinets and conference tables"
+      ],
+      [
+       "Floor protection systems for your office flooring"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "We Offer Same-Day Office Furniture Removal Service"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Advantages of Choosing Live Junk Free for Office Furniture Removal"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Time Efficiency",
+       "text": [
+        "– We complete in hours what might take you days"
+       ]
+      },
+      {
+       "title": "Volume Discounts",
+       "text": [
+        "– Special rates for whole office clearouts"
+       ]
+      },
+      {
+       "title": "Flexible Scheduling",
+       "text": [
+        "– Book next-day, weekend, or same-day slots to fit your timeline"
+       ]
+      },
+      {
+       "title": "Damage Protection",
+       "text": [
+        "– Floor padding and wall guards prevent property damage"
+       ]
+      },
+      {
+       "title": "One-Call Service",
+       "text": [
+        "– We handle disassembly, removal & final air dust"
+       ]
+      },
+      {
+       "title": "Workspace Protection",
+       "text": [
+        "– Commercial-grade floor guards and corner protectors safeguard your office flooring during the entire removal process"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How Our Office Furniture Removal Services Work"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Sustainable Office Furniture Removal That Supports Our Community"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we combine efficient service with environmental responsibility:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Modular furniture systems are carefully disassembled and recycled"
+      ],
+      [
+       "Metal components from workstations are processed at certified facilities"
+      ],
+      [
+       "Office electronics were responsibly wiped and recycled"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "We Take Pride in Our Sustainable Office Solutions."
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Transparent Office Furniture Removal Pricing – No Surprises"
+    },
+    {
+     "t": "p",
+     "c": [
+      "You only pay for what we remove."
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Free instant estimates via virtual survey, email, or office walkthrough"
+      ],
+      [
+       "Volume discounts for multi-floor office clearouts or recurring contracts"
+      ],
+      [
+       "Corporate pricing with detailed invoices for accounting"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Types of Office Furniture We Remove:"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we specialize in removing all commercial furniture, regardless of condition, from offices and workplaces"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Office Seating"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Executive chairs and conference room seating"
+      ],
+      [
+       "Reception area furniture and waiting room benches"
+      ],
+      [
+       "Task chairs and stool seating"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Storage Solutions"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Filing cabinets (lateral and vertical)"
+      ],
+      [
+       "Bookcases and storage units"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Our Simple 4-Step Office Furniture Removal Process"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Send us Photos",
+       "text": [
+        "Email or text photos of your office furniture, and we'll respond within 30 minutes with a solution."
+       ]
+      },
+      {
+       "title": "Get a Quote",
+       "text": [
+        "Receive transparent, all-inclusive pricing, no hidden fees for disassembly or elevator use."
+       ]
+      },
+      {
+       "title": "Pick Your Time",
+       "text": [
+        "Choose after-hours, weekend, or business-hour slots to minimize office disruption."
+       ]
+      },
+      {
+       "title": "We Remove It",
+       "text": [
+        "Our uniformed team arrives on time, removes all items, and leaves your space broom-clean, typically in 2-4 hours."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Before & After Office Furniture Removal Gallery"
+    },
+    {
+     "t": "p",
+     "c": [
+      "See the incredible workspace transformations we’ve completed! From cramped offices packed with outdated furniture to open, functional areas, view our actual office furniture removal projects."
+     ]
+    },
+    {
+     "t": "gallery",
+     "images": [
+      {
+       "src": "/images/uploads/2026/07/Office-Furniture-Removal-Services-before.jpg",
+       "alt": "Office Furniture Removal Services"
+      },
+      {
+       "src": "/images/uploads/2026/07/Office-Furniture-Removal-Services-after-1024x765.jpeg",
+       "alt": "Office Furniture Removal Services"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
+       "alt": "20250405_140825"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
+       "alt": "20250405_142357"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Office Furniture Removal FAQs"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "What types of office furniture do you remove?",
+       "a": [
+        [
+         "We remove all office furniture, including desks, chairs, cubicles, filing cabinets, conference tables, and storage units."
+        ]
+       ]
+      },
+      {
+       "q": "Do you dismantle desks, cubicles, and other large office furniture?",
+       "a": [
+        [
+         "Yes, our team professionally disassembles all modular furniture systems and large office items before removal."
+        ]
+       ]
+      },
+      {
+       "q": "How much does office furniture removal cost?",
+       "a": [
+        [
+         "Prices start at $125, based on volume. We provide free, no-obligation quotes tailored to your specific needs."
+        ]
+       ]
+      },
+      {
+       "q": "What areas do you serve for office furniture removal?",
+       "a": [
+        [
+         "We serve Toronto and surrounding areas, including Mississauga, Vaughan, Markham, and Scarborough."
+        ]
+       ]
+      },
+      {
+       "q": "Can I schedule a same-day office furniture pickup?",
+       "a": [
+        [
+         "Yes, we often have same-day or next-day availability for urgent office cleanouts."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What People Say About Us"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Areas We Serve"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ],
+      [
+       "Stouffville"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,747 @@
+{
+ "id": 18629,
+ "kind": "page",
+ "path": "/locations/cleanout-services-in-newmarket/",
+ "type": "location-service",
+ "template": "LocationService",
+ "seo": {
+  "title": "Cleanout Services in Newmarket - Live JunkFree",
+  "description": "Cleanout services in Newmarket that fit around a full calendar — estate, downsizing, moving and hoarding cleanouts by an insured crew.",
+  "canonical": "https://livejunkfree.ca/locations/cleanout-services-in-newmarket/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/07/cleanout-services-in-Newmarket.jpeg"
+ },
+ "title": "Cleanout Services in Newmarket",
+ "h1": "Professional Cleanout Services in Newmarket",
+ "published": "2026-07-25T12:56:12",
+ "modified": "2026-07-25T12:56:12",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Professional Cleanout Services in Newmarket"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Cleanout services in Newmarket that fit around a full calendar — estate, downsizing, moving and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished swept without asking a busy household to rearrange its week, seven days a week."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "/contact/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Trusted by people of the Canada"
+      },
+      {
+       "title": "Insured, uniformed, and respectful crew"
+      },
+      {
+       "title": "Rated 5.0 on Google by 780+ customers"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "text": "CLEANOUT SERVICES ACROSS EVERY NEWMARKET NEIGHBOURHOOD"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "★★★★★ 700+ Five-Star Google Reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Cleanout Services From Main Street to the Davis Corridor — All of Newmarket, Fit Into a Busy Week"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Newmarket runs on appointment books and school calendars, and our cleanout crews work around both. Along historic Main Street and the older downtown streets, it’s estate and downsizing cleanouts in homes held for generations, cleared with patience and the character kept. Through Stonehaven, Summerhill Estates and the family subdivisions, it’s the town’s steadiest job: garage, basement and moving cleanouts squeezed into a weekend so Monday starts normally. Near the Davis Drive corridor, it’s office and clinic-adjacent cleanouts for practices and small businesses closing a chapter. And across the Leslie Street and Harry Walker Parkway business parks, it’s landlord and tenant-turnover cleanouts run on lease dates that don’t move. The 660+ five-star Google reviews behind Live Junk Free come from every one of those addresses — flat written quotes, a crew that worked around the family’s actual schedule, and a property handed back cleared without costing anyone their week."
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/cleanout-services-in-Newmarket-765x1024.jpeg",
+      "alt": "cleanout-services-in-Newmarket",
+      "width": 765,
+      "height": 1024
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "text": "WHY CHOOSE OUR CLEANOUT SERVICES"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Six Reasons Newmarket Fits Its Cleanouts Into a Real Calendar With Us"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "Flat truck-volume cleanout pricing — from {{cad_125}}, no rush fees for a tight week",
+       "text": [
+        [
+         "Newmarket cleanouts price one way: your contents’ share of the truck, from {{cad_125}} for a single space and scaling openly for whole homes. Sorting, every carry, hauling and all disposal fees sit inside one written figure — no hourly clocks, no weight charges, and no premium for booking around a packed calendar."
+        ]
+       ]
+      },
+      {
+       "n": "02",
+       "title": "Free walkthrough cleanout quotes that work with your week, not against it",
+       "text": [
+        [
+         "A crew lead walks the space, hears what the cleanout is for and when it actually needs to happen, and writes one firm flat quote with a schedule built around appointment books, school runs and shift work. Free, unhurried, and realistic about how busy Newmarket families actually are."
+        ]
+       ]
+      },
+      {
+       "n": "03",
+       "title": "Weekend and evening cleanouts that don't touch a workweek",
+       "text": [
+        [
+         "Most Newmarket cleanouts book for Saturday, Sunday or after 5PM precisely because that’s when families have the bandwidth to make decisions — and our crews run those hours as standard, not as a special favour. Monday starts the same as any other Monday."
+        ]
+       ]
+      },
+      {
+       "n": "04",
+       "title": "Estate cleanouts with a family's whole history honoured, quickly when needed",
+       "text": [
+        [
+         "Whether the timeline is open-ended or tight, the belongings get the same care: keepsakes, documents and valuables set aside first, and anything meaningful that surfaces mid-clear comes to the family, never a bin by default — all inside whatever window the family actually has available."
+        ]
+       ]
+      },
+      {
+       "n": "05",
+       "title": "Hoarding and heavy cleanouts, judgment-free and scheduled quietly",
+       "text": [
+        [
+         "Overwhelmed homes clear with respect: unmarked scheduling on request, no commentary, a steady room-by-room pace, and coordination with family or support workers where it helps — arranged around the times that work for everyone involved, not just for us."
+        ]
+       ]
+      },
+      {
+       "n": "06",
+       "title": "Independent cleanout pricing — 30–50% under the franchise chains",
+       "text": [
+        [
+         "No head-office royalties inside our quotes and no rush-fee culture on top — local crews, our own trucks, honest volume pricing. Identical Newmarket cleanouts invoice 30–50% below the national brands, whatever the timeline."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "text": "CLEANOUT PRICING"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Newmarket Cleanout Pricing — One Number, Whatever the Week Allows"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "How Every Newmarket Cleanout Quote Gets Written"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Small cleanouts start at {{cad_125}} and scale purely with truck volume — a closet’s worth is a sliver, a garage a few more, a full home fills trucks and prices in plain sight at the walkthrough. The written figure covers sorting, carrying, hauling and every disposal fee; it freezes on approval and holds whatever the basement or the crawlspace remembers. Weekend and evening execution is included in the number, never surcharged."
+     ]
+    },
+    {
+     "t": "checks",
+     "items": [
+      "Cleanout + Haul-Away in One Number",
+      "No Hourly Rates"
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now +1 647 922 5865",
+       "href": "tel:+16479225865"
+      }
+     ]
+    },
+    {
+     "t": "price",
+     "label": "Newmarket Cleanouts From",
+     "value": "{{cad_125}}"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Volume-priced and all-inclusive — sorting, carrying, hauling and disposal in one figure."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get Your Free Quote",
+       "href": "/contact/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "text": "HOW OUR CLEANOUTS WORK"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "The Newmarket Cleanout Fit — Four Steps That Work Around Your Week"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Built for households with more on the calendar than time to clear it:"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "Book Your Newmarket Cleanout Walkthrough",
+       "text": [
+        [
+         "Two minutes at +1 647 922 5865 — or online — sets the visit at whatever hour actually works. The crew lead tours the space, hears what the cleanout is for, and writes one flat quote with a schedule built around your real week, not an ideal one."
+        ]
+       ]
+      },
+      {
+       "n": "02",
+       "title": "Protect the Keep-List, Approve the Quote",
+       "text": [
+        [
+         "Family items, documents, valuables and anything flagged get set aside first. The written number locks, and the clearing books into the gap your calendar actually has — a Saturday, an evening, a week the family’s away."
+        ]
+       ]
+      },
+      {
+       "n": "03",
+       "title": "The Cleanout Runs Efficiently, Sorted as It Goes",
+       "text": [
+        [
+         "Donations stream one way, recycling another, true waste last — floors protected, doorways padded, meaningful finds brought to you mid-job rather than binned by default. Most single spaces clear inside a single visit."
+        ]
+       ]
+      },
+      {
+       "n": "04",
+       "title": "Swept, Empty and Handed Back Before Monday",
+       "text": [
+        [
+         "The space hands back broom-swept — house, garage or unit — with debris gone on our own trucks and donation or disposal documentation available for the estate, the landlord or your own file, and nothing left over to think about during the workweek."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "text": "OUR CLEANOUT SERVICES"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Cleanout Services for Newmarket's Homes, Estates, Offices and Rentals"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Whatever’s full, here’s the clearing that fits your calendar:"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Estate & Downsizing Cleanout Services in Newmarket"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Full estate cleanouts through historic Main Street and the older downtown streets"
+      ],
+      [
+       "Keepsakes, documents and valuables set aside for the family, always"
+      ],
+      [
+       "Downsizing clears ahead of moves to smaller homes or retirement living"
+      ],
+      [
+       "Executor and out-of-town family coordination with documentation"
+      ],
+      [
+       "Donation-first sorting recorded for the estate file"
+      ],
+      [
+       "Sale-ready handovers, scheduled around the family's real availability"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Fast Garage, Basement & Moving Cleanout Services in Newmarket"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Weekend garage cleanouts — most finish inside a single Saturday"
+      ],
+      [
+       "Basement clear-outs from storage-swamp back to family space"
+      ],
+      [
+       "Pre-listing purges that get Newmarket homes photo-ready"
+      ],
+      [
+       "Sold-home cleanouts finished broom-swept before closing"
+      ],
+      [
+       "Pre-move and post-move cleanouts so the truck carries only keepers"
+      ],
+      [
+       "Same-day completion standard for single-space jobs"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Office & Small-Business Cleanout Services in Newmarket"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Practice and clinic-adjacent cleanouts along the Davis Drive corridor"
+      ],
+      [
+       "Retiring or relocating business cleanouts, weekend-executed"
+      ],
+      [
+       "Filing rooms, storage rooms and equipment cleared with e-waste recycled"
+      ],
+      [
+       "Storefront and unit clear-outs on Main Street, after hours"
+      ],
+      [
+       "Documentation available for closing or transition files"
+      ],
+      [
+       "Broom-swept handovers ready for the next tenant"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Landlord & Hoarding Cleanout Services in Newmarket"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Tenant turnover and abandonment cleanouts, photographed and documented"
+      ],
+      [
+       "Post-eviction clearing handled lawfully and discreetly"
+      ],
+      [
+       "Business-park unit cleanouts along Leslie Street and Harry Walker Parkway"
+      ],
+      [
+       "Judgment-free hoarding cleanouts, unmarked scheduling on request"
+      ],
+      [
+       "Recurring portfolio arrangements on one invoice"
+      ],
+      [
+       "Re-rental-ready handovers on the turnover date"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "text": "CLEANOUT SERVICE AREA"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Cleanout Services Across Newmarket and Every Town Around It"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Main Street to the Davis corridor, Stonehaven to the business parks — every Newmarket neighbourhood and every community around it rides our daily cleanout routes:"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "a": "/locations/cleanout-services-in-ajax/",
+         "c": [
+          "Ajax "
+         ]
+        },
+        "• ",
+        {
+         "a": "/locations/cleanout-services-in-aurora/",
+         "c": [
+          "Aurora"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/cleanout-services-in-bolton/",
+         "c": [
+          "Bolton"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/cleanout-services-in-bradford/",
+         "c": [
+          "Bradford"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/cleanout-services-in-brampton/",
+         "c": [
+          "Brampton"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/cleanout-services-in-caledon/",
+         "c": [
+          "Caledon"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/cleanout-services-in-east-gwillimbury/",
+         "c": [
+          "East Gwillimbury"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/cleanout-services-in-etobicoke/",
+         "c": [
+          "Etobicoke"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/cleanout-services-in-georgina/",
+         "c": [
+          "Georgina"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/cleanout-services-in-king-city/",
+         "c": [
+          "King City"
+         ]
+        }
+       ]
+      },
+      {
+       "br": 1
+      },
+      {
+       "b": [
+        "• ",
+        {
+         "a": "/locations/cleanout-services-in-markham/",
+         "c": [
+          "Markham"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/cleanout-services-in-mississauga/",
+         "c": [
+          "Mississauga"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/cleanout-services-in-newmarket/",
+         "c": [
+          "Newmarket"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/cleanout-services-in-nobleton/",
+         "c": [
+          "Nobleton"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/cleanout-services-in-oshawa/",
+         "c": [
+          "Oshawa"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/cleanout-services-in-port-perry/",
+         "c": [
+          "Port Perry"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/cleanout-services-in-pickering/",
+         "c": [
+          "Pickering"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/cleanout-services-in-richmond-hill/",
+         "c": [
+          "Richmond Hill"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/cleanout-services-in-scarborough/",
+         "c": [
+          "Scarborough "
+         ]
+        },
+        "• ",
+        {
+         "a": "/locations/cleanout-services-in-schomberg/",
+         "c": [
+          "Schomberg"
+         ]
+        },
+        " • ",
+        {
+         "a": "/cleanout-services-toronto/",
+         "c": [
+          "Toronto "
+         ]
+        },
+        "• ",
+        {
+         "a": "/locations/cleanout-services-in-uxbridge/",
+         "c": [
+          "Uxbridge"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/cleanout-services-in-vaughan/",
+         "c": [
+          "Vaughan"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/cleanout-services-in-woodbridge/",
+         "c": [
+          "Woodbridge"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/cleanout-services-in-whitby/",
+         "c": [
+          "Whitby"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/cleanout-services-in-whitchurch-stouffville/",
+         "c": [
+          "Whitchurch-Stouffville"
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now — +1 647 922 5865",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "text": "— RECENT REVIEWS —"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Newmarket Cleanout Reviews — Fit Into a Full Week, Five Stars Anyway"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "★★★★★"
+    },
+    {
+     "t": "p",
+     "c": [
+      "700+ five-star Google reviews — estate, garage, office and hoarding cleanouts across Newmarket, York Region and the GTA."
+     ]
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "text": "CLEANOUT FAQ"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Cleanout Services in Newmarket — Busy-Calendar Questions, Real Answers"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "How quickly can I schedule a cleanout service in Newmarket?",
+       "a": [
+        [
+         "We offer flexible scheduling, including same-day and next-day appointments when available. Whether you need an urgent property cleanout or want to schedule a future date, we’ll work around your timeline."
+        ]
+       ]
+      },
+      {
+       "q": "Can you complete the cleanout while I'm at work?",
+       "a": [
+        [
+         "While advance bookings help secure your preferred time slot, we also accommodate last-minute requests whenever possible. Contact us, and we’ll do our best to arrange a convenient appointment."
+        ]
+       ]
+      },
+      {
+       "q": "How long will my cleanout take?",
+       "a": [
+        [
+         "The duration depends on the size of the property and the volume of items to be removed. Most residential cleanouts are completed within a few hours, while larger estate or commercial cleanouts may require a full day."
+        ]
+       ]
+      },
+      {
+       "q": "What kinds of items do you remove during a cleanout?",
+       "a": [
+        [
+         "Yes. We offer flexible scheduling, including weekend appointments and, when available, evening services to minimize disruption to your routine or business operations."
+        ]
+       ]
+      },
+      {
+       "q": "Do you clean up after removing the junk?",
+       "a": [
+        [
+         "Simply identify the items you want removed and ensure our crew has access to the property. There’s no need to move heavy objects or bag your junk—we handle all the lifting, loading, and responsible disposal for you."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

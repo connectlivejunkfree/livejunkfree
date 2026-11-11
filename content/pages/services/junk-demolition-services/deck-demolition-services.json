@@ -1,0 +1,593 @@
+{
+ "id": 16378,
+ "kind": "page",
+ "path": "/services/junk-demolition-services/deck-demolition-services/",
+ "type": "service",
+ "template": "Demolition",
+ "seo": {
+  "title": "Deck Demolition Services - Live JunkFree",
+  "description": "Remove old decks easily with Live Junk Free’s expert deck demolition and disposal services in the Greater Toronto Area. Book your demolition today.",
+  "canonical": "https://livejunkfree.ca/services/junk-demolition-services/deck-demolition-services/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/07/deck-demolition-services-before1-1024x572.jpeg"
+ },
+ "title": "Deck Demolition Services",
+ "h1": "Your Trusted Local Experts for Deck Demolition & Removal",
+ "published": "2026-07-10T04:18:57",
+ "modified": "2026-07-23T08:21:07",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Your Trusted Local Experts for Deck Demolition & Removal"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We are the best in town."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Trusted by people of the Greater Toronto Area"
+      },
+      {
+       "title": "Insured, uniformed, and respectful crew"
+      },
+      {
+       "title": "Rated 5.0 on Google by 780+ customers"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Best Deck Demolition and Removal Services"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Perhaps you’re dreaming of creating a beautiful new outdoor living area, but that aging, splintered deck is standing in your way. Over time, what was once a charming addition to your home can become a dangerous liability, with loose boards, protruding nails, and unstable railings that threaten your family’s safety."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Professional deck demolition and removal requires specialized skills, proper tools, and careful execution. That’s exactly what our expert team brings to every project. We’re equipped with professional-grade deck board removal tools and techniques to efficiently dismantle your old deck without damaging your property. One simple call to us is all it takes to transform that eyesore into a clean slate ready for your new project."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Your Service Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/deck-demolition-services-before1-1024x572.jpeg",
+      "alt": "deck-demolition-services",
+      "width": 800,
+      "height": 447
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Tired of Looking at That Old, Unsafe Deck? Call Now or Book Online"
+    },
+    {
+     "t": "p",
+     "c": [
+      "That weathered eyesore in your backyard isn’t getting any better with time. What was once a place for summer barbecues and family gatherings has likely become a splintered, wobbly hazard. The nails are popping up, the boards are rotting, and every time you look at it, you’re reminded of the work it needs."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Here’s the good news: removing that old deck doesn’t have to be your problem anymore. At ",
+      {
+       "a": "/",
+       "c": [
+        "Live Junk Free"
+       ]
+      },
+      ", we specialize in making old decks disappear quickly, safely, and affordably. Our professional deck demolition service starts at just {{cad_125}}, and we handle every step from the first loose board to the final sweep of your clean, open yard."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Ready to reclaim your space? Call us at +1 647 922 5865 or book online."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "Call answered in 1 minute."
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Same-Day Deck Demolition Service in Your Neighborhood"
+    },
+    {
+     "t": "p",
+     "c": [
+      "That old deck isn’t just an eyesore, it’s an accident waiting to happen. What most homeowners don’t realize is that tearing down a deck properly requires more than just a hammer and some muscle. Old wood, rusted nails, and unstable structures make deck removal dangerous and frustrating."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "That’s where our professional deck demolition team comes in. We handle every aspect of the job so you don’t have to risk injury or frustration. Whether you’re making space for a new outdoor living area, eliminating a safety hazard, or just tired of looking at that deteriorating structure, we offer same-day and next-day deck removal throughout the area."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our fully insured crew arrives prepared with:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Specialized deck removal tools for safe, efficient demolition"
+      ],
+      [
+       "Protective gear to handle splintered wood and rusted fasteners"
+      ],
+      [
+       "Equipment to handle concrete footings and deep-set posts"
+      ],
+      [
+       "Eco-friendly disposal methods for all materials"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "We Offer Same-Day Deck Demolition Service"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Advantages of Choosing Live Junk Free for Professional Deck Demolition"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Quick Turnaround",
+       "text": [
+        "– Most deck demolition projects are completed in just 3-5 hours"
+       ]
+      },
+      {
+       "title": "Volume Discounts",
+       "text": [
+        "– Special pricing when removing multiple decks or large structures"
+       ]
+      },
+      {
+       "title": "Convenient Scheduling",
+       "text": [
+        "– Available weekdays, weekends, and holidays with same-day emergency service"
+       ]
+      },
+      {
+       "title": "Property Safeguards",
+       "text": [
+        "– Protective measures prevent damage to your home, siding, and landscaping"
+       ]
+      },
+      {
+       "title": "Weather-Resilient",
+       "text": [
+        "– Our teams work safely in rain, snow, or extreme temperatures"
+       ]
+      },
+      {
+       "title": "Eco-Conscious Approach",
+       "text": [
+        "– Over 85% of materials recycled or repurposed"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How Our Deck Demolition Services Work"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Our Efficient Process Delivers Outstanding Results"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Our professional team specializes in deck demolition and removal for any property, whether it’s an elevated structure, built on uneven ground, or surrounded by delicate landscaping. Our experienced crew carefully performs each deck board removal using specialized deck board removal tools and techniques to protect your property while efficiently removing deck boards and railings."
+      ],
+      [
+       "From small backyard platforms to expansive multi-level decks, we handle every aspect of demolition deck projects with precision."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Responsible Deck Demolition That Protects Our Planet"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we don’t just tear down decks – we remove them responsibly:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "All wood, composite, and metal materials are carefully sorted for recycling"
+      ],
+      [
+       "Concrete footings and supports are crushed for reuse in construction projects"
+      ],
+      [
+       "Railings and hardware are properly processed at certified recycling facilities"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "We combine expert deck demolition with sustainable practices to minimize waste and benefit our environment."
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Honest Deck Removal Pricing – No Surprises"
+    },
+    {
+     "t": "p",
+     "c": [
+      "You only pay for what we remove."
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Free same-day estimates by phone, text, or online form"
+      ],
+      [
+       "Special reduced rates for multiple deck removals"
+      ],
+      [
+       "Price-match guarantee on all written quotes"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Types of Decks We Demolish & Remove"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we professionally handle all types of deck removal projects in any condition:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Wood Decks – Including pressure-treated, cedar, and redwood structures"
+      ],
+      [
+       "Composite Decks – All brands and material types"
+      ],
+      [
+       "Multi-Level Decks – Complex designs with stairs and multiple tiers"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Our Simple 4-Step Deck Demolition Process"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Send us Photos",
+       "text": [
+        "Simply take a few pictures of your deck and text or upload them to us, and we will respond within 30 minutes with a free, no-obligation quote."
+       ]
+      },
+      {
+       "title": "Get Your Quote",
+       "text": [
+        "Receive straightforward pricing with no hidden fees, and we will explain costs based on your deck's size, materials, and condition."
+       ]
+      },
+      {
+       "title": "Pick Your Time",
+       "text": [
+        "Select same-day emergency service, next-day availability, or schedule a future date that works for you."
+       ]
+      },
+      {
+       "title": "We Remove It",
+       "text": [
+        "Our crew arrives on time, safely demolishes your deck, removes all debris, and leaves your yard clean, typically in just 2-4 hours."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "See Our Deck Removal Transformations"
+    },
+    {
+     "t": "p",
+     "c": [
+      "View real before & after photos of completed projects in our gallery."
+     ]
+    },
+    {
+     "t": "gallery",
+     "images": [
+      {
+       "src": "/images/uploads/2026/07/deck-demolition-services-before1-1024x572.jpeg",
+       "alt": "deck-demolition-services"
+      },
+      {
+       "src": "/images/uploads/2026/07/deck-demolition-services-after1-1024x572.jpeg",
+       "alt": "deck-demolition-services"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Deck Demolition FAQs"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Do you remove all types of decks, including wood and composite?",
+       "a": [
+        [
+         "Yes, we professionally demolish and remove all deck types, wood, composite, and even concrete pool decks."
+        ]
+       ]
+      },
+      {
+       "q": "How much does deck demolition cost?",
+       "a": [
+        [
+         "Our services start at $125, with final pricing based on size, materials, and complexity. We provide free, no-obligation estimates."
+        ]
+       ]
+      },
+      {
+       "q": "What areas do you serve for deck demolition?",
+       "a": [
+        [
+         "We serve Schomberg, Mississauga, Newmarket, Nobleton, Oshawa, Aurora, Bolton, East Gwillimbury, Toronto, and throughout the GTA."
+        ]
+       ]
+      },
+      {
+       "q": "Do I need a permit for deck removal?",
+       "a": [
+        [
+         "Most municipalities don’t require permits for demolition, but we’ll advise on local regulations and can handle permits if needed."
+        ]
+       ]
+      },
+      {
+       "q": "How long does deck demolition take?",
+       "a": [
+        [
+         "Most standard decks take 3-5 hours. Multi-level or complex designs may take longer."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What People Say About Us"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Areas We Serve"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ],
+      [
+       "Stouffville"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

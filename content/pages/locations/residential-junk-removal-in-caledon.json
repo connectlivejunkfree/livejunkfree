@@ -1,0 +1,560 @@
+{
+ "id": 17272,
+ "kind": "page",
+ "path": "/locations/residential-junk-removal-in-caledon/",
+ "type": "location-service",
+ "template": "LocationService",
+ "seo": {
+  "title": "Same-Day Residential Junk Removal in Caledon | Live Junk Free",
+  "description": "Same-day residential junk removal in Caledon for homes, garages, and yards. We handle appliances, furniture, and full cleanouts affordably and fast. Call us now.",
+  "canonical": "https://livejunkfree.ca/locations/residential-junk-removal-in-caledon/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
+ },
+ "title": "residential-junk-removal-in-caledon",
+ "h1": "Residential Junk Removal in Caledon, Ontario — When There's Always Room, Nothing Ever Leaves",
+ "published": "2026-07-15T06:46:34",
+ "modified": "2026-07-15T06:46:34",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "checks",
+     "items": [
+      "Our Service Areas"
+     ]
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Residential Junk Removal in Caledon, Ontario — When There's Always Room, Nothing Ever Leaves"
+    },
+    {
+     "t": "p",
+     "c": [
+      "In the city, clutter runs out of room and forces a decision. In Caledon, it never has to — there’s always another corner of the basement, another shelf in the shed, another spot in the loft. Which is how a house quietly ends up storing three sofas and two dead freezers. We’re the decision, made easy: one call, a free flat quote at your door, and a fully insured crew that carries it all out — from whichever building it’s been hiding in — usually the same day."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "marquee",
+     "items": [
+      "House Cleanouts",
+      "Fence Removal",
+      "Shed Demolition",
+      "Yard Waste",
+      "Retail Cleanout",
+      "Wall Demolition",
+      "Deck Demolition"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-2.png",
+      "alt": "Background 2",
+      "width": 590,
+      "height": 500
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-3.png",
+      "alt": "Background 3",
+      "width": 590,
+      "height": 500
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Bolton Subdivisions, Hamlet Homes, Farmhouse Kitchens — Caledon's Junk Leaves With Us"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The township's homes span every kind: busy family houses on North Hill and South Hill, village homes in Caledon East and Inglewood, and farmhouses down long laneways where the nearest neighbour is a field away. Live Junk Free picks up from all of them, at the same flat rates — 660+ five-star Google reviews earned by arriving when we said, quoting what we meant, and carrying like the floors were our own."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "The truck is the only measure",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Your price reflects how much truck space the items fill — a lone mattress is a sliver, a basement's worth is more — and absolutely nothing else. Not the weight, not the stairs, not the twenty minutes of gravel to reach you. Every Caledon address, town or township, pays the same way."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "02",
+       "title": "Quotes happen at the junk, not at the phone",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Country homes especially underestimate themselves — \"just a couch and a few things\" has a way of becoming a shed's supporting cast. So we look first: one free, in-person assessment, one flat figure, zero obligation attached."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "03",
+       "title": "All-inclusive means the number can't grow",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Carrying, loading, fuel, tipping fees, the drive out and back — the quote holds every cost before you approve it. Whatever the job reveals once we're lifting, your figure is already finished changing."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "04",
+       "title": "We carry from wherever it landed",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The couch in the basement, the freezer in the summer kitchen, the mattress in the loft over the garage — items get picked up from their actual resting place, not a staging spot you had to create. Floors runnered, corners padded, doorframes respected, every trip."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "05",
+       "title": "A free quote with no clock attached",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "No deposit, no expiry, no follow-up pestering. Approve it and the crew starts immediately; think on it through a season and it's still good. Country pace is fine by us."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "06",
+       "title": "Local and franchise-free — 30–50% below the chains",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The national junk brands price royalties into every pickup and think twice about rural routes anyway. We're independently owned, we run the concessions daily, and Caledon homeowners keep 30–50% on identical work."
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Junk Removal Pricing for Caledon Homes"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Flat, Volume-Based, and Identical on Every Road"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Small pickups start at {{cad_125}}, single items sit at the friendly end, and bigger clears grow only as the truck fills. The figure is settled free at your door before anything lifts, and it reads the same whether you're two streets off Highway 50 or the last mailbox before the forest. No distance fees, no fuel recovery lines, no surprises."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Wide Service Area"
+      },
+      {
+       "title": "Local Expertise"
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-4.png",
+      "alt": "Background 4",
+      "width": 458,
+      "height": 237
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Four Steps to a Lighter House, Anywhere in Caledon"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The stuff had years to settle in. It leaves in an afternoon:"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "1. Book the Truck",
+       "text": [
+        "Call +1 647 922 5865 or book online in two minutes. Crews run the whole township seven days a week, 6AM to 11PM, with same-day slots most days and a 30-minute text before we're down your road."
+       ]
+      },
+      {
+       "title": "2. Walk Us Through It",
+       "text": [
+        "Point at everything that's going — one item or a houseful. We measure it against the truck and hand you a single flat, all-inclusive quote. Free either way."
+       ]
+      },
+      {
+       "title": "3. We Lift, You Don't",
+       "text": [
+        "On your yes, the crew carries: out of basements, down from lofts, across yards and through mudrooms. Protection down, corners padded, and your only job is deciding what stays."
+       ]
+      },
+      {
+       "title": "4. Tidied, Loaded, Sorted On",
+       "text": [
+        "The cleared spots get swept, the truck heads out, and the load splits by conscience: donation partners take the usable, recyclers take metals and electronics, and landfill gets only the last resort."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Whatever Your Caledon Home Has Been Storing — Consider It Handled"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Space breeds inventory out here. The spare-room set from two houses ago. The appliances that retired to outbuildings instead of leaving. The exercise bike serving as a coat rack in its third room. All of it qualifies:"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Furniture Pickup in Caledon",
+       "a": [
+        [
+         "Sofas, sectionals and the spares that never found a home"
+        ],
+        [
+         "Mattresses, box springs and complete bed sets"
+        ],
+        [
+         "Dressers, wardrobes and heavy antique pieces"
+        ],
+        [
+         "Kitchen and dining sets, hutches and sideboards"
+        ],
+        [
+         "Desks, bookcases and home office leftovers"
+        ],
+        [
+         "Porch, patio and bunkie furniture"
+        ]
+       ]
+      },
+      {
+       "q": "Appliance Pickup in Caledon",
+       "a": [
+        [
+         "Fridges and freezers — kitchen, cellar or shed-resident"
+        ],
+        [
+         "Washers and dryers, mudroom pairs included"
+        ],
+        [
+         "Stoves, ovens and cooktops"
+        ],
+        [
+         "Dishwashers, microwaves and countertop retirees"
+        ],
+        [
+         "Drained hot water and pressure tanks"
+        ],
+        [
+         "Dehumidifiers, window ACs and space heaters"
+        ]
+       ]
+      },
+      {
+       "q": "Room & Property Pickups in Caledon",
+       "a": [
+        [
+         "Basement and cellar decluttering"
+        ],
+        [
+         "Garage and shed overflow clearing"
+        ],
+        [
+         "Loft and attic item retrieval — ladders are our problem"
+        ],
+        [
+         "Yard items — old play sets, trampolines, dock sections, lumber"
+        ],
+        [
+         "Moving-week clears of everything not making the trip"
+        ],
+        [
+         "Single-item runs — one couch is a perfectly good booking"
+        ]
+       ]
+      },
+      {
+       "q": "The Oversized and Odd in Caledon",
+       "a": [
+        [
+         "Hot tubs — drained, dismantled, hauled off the deck"
+        ],
+        [
+         "Pianos, organs and pool tables"
+        ],
+        [
+         "Treadmills, home gyms and the coat-rack exercise bike"
+        ],
+        [
+         "TVs, computers and boxed e-waste"
+        ],
+        [
+         "Rolled carpet, old flooring and small reno debris"
+        ],
+        [
+         "BBQs, mowers, snowblowers and scrap metal"
+        ],
+        [
+         "Bed-bug-affected furniture — sealed on site, removed discreetly"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Service Areas"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "- Recent Reviews -"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Read what our past customers say"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions About Residential Junk Removal in Caledon, ON"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Q: What does junk removal cost for a Caledon home?",
+       "a": [
+        [
+         "A: The truck decides: small loads start at $125, single items stay proportionally cheap, and larger clears scale only with the space they fill. The flat figure arrives free at your door, includes every cost, and can’t change after you approve it — no matter where in the township you live."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do rural addresses pay more than Bolton addresses?",
+       "a": [
+        [
+         "A: Not with us. Distance never enters the price — the last mailbox on a concession road pays the same volume-based rate as a subdivision driveway. The gravel is our problem."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Can you take things from the shed, the loft, the summer kitchen — not just the house?",
+       "a": [
+        [
+         "A: Anywhere on the property counts. We regularly pull furniture from lofts, freezers from cellars and mattresses from bunkies — ladders, awkward stairs and long carries included in the price, not added to it."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Is a single item worth a booking out here?",
+       "a": [
+        [
+         "A: Completely. One couch, one fridge, one mattress — priced as the small load it is, no rural minimum propping it up. Single-item stops thread through our Caledon routes every week."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Everything's spread across the property — can it all go in one pickup?",
+       "a": [
+        [
+         "A: That’s the smart way to book it. Items from the house, the garage and the shed all ride as one combined load priced by total volume — always cheaper than separate trips, and the whole property gets lighter at once."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

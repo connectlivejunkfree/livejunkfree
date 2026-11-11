@@ -1,0 +1,545 @@
+{
+ "id": 17033,
+ "kind": "page",
+ "path": "/locations/appliances-removal-in-brampton/",
+ "type": "location-service",
+ "template": "LocationService",
+ "seo": {
+  "title": "Same-day Appliance Removal in Brampton for Homes and Offices | Live Junk Free",
+  "description": "Reliable appliances removal in Brampton. We handle home junk, commercial loads, bulky items, electronics. Eco friendly and fast. Call us now!",
+  "canonical": "https://livejunkfree.ca/locations/appliances-removal-in-brampton/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
+ },
+ "title": "appliances-removal-in-brampton",
+ "h1": "Appliance Removal Services in Brampton, Ontario — Out of the Kitchen, Off Your Hands, Today",
+ "published": "2026-07-14T08:14:42",
+ "modified": "2026-07-14T08:13:37",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "checks",
+     "items": [
+      "Our Service Areas"
+     ]
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Appliance Removal Services in Brampton, Ontario — Out of the Kitchen, Off Your Hands, Today"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Brampton homes work their appliances hard. Many houses run two full kitchens, big households push washers through multiple loads a day, and when a machine finally quits, it tends to quit in the least convenient spot — wedged into a basement suite, boxed into a corner, or heavier than any two family members can safely move. One call solves it: our fully insured crew arrives, quotes free on the spot, disconnects the standard hookups, and carries the old unit out without a scratch on your home. Same-day pickup, most days."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "marquee",
+     "items": [
+      "House Cleanouts",
+      "Fence Removal",
+      "Shed Demolition",
+      "Yard Waste",
+      "Retail Cleanout",
+      "Wall Demolition",
+      "Deck Demolition"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-2.png",
+      "alt": "Background 2",
+      "width": 590,
+      "height": 500
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-3.png",
+      "alt": "Background 3",
+      "width": 590,
+      "height": 500
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "From Bramalea's Original Streets to Mount Pleasant's Newest — Brampton Trusts Us With the Heavy Stuff"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Live Junk Free has hauled appliances out of every kind of Brampton home: split-levels in Bramalea where the freezer's been running since the nineties, basement-suite kitchens in Springdale, brand-new builds in Mount Pleasant swapping builder units for upgrades, and everything across Castlemore, Heart Lake and downtown. The 660+ five-star Google reviews behind our name were earned one careful staircase at a time."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "Appliances are priced by truck space — not by weight",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "A dishwasher takes a small bite of the truck and costs accordingly; a kitchen's full set takes more. That's the entire formula. The fact that a fridge weighs as much as a piano changes nothing — weight, awkwardness and stairs are all absorbed into the flat volume rate."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "02",
+       "title": "We quote after seeing the unit and its exit path",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The appliance is only half the job — the other half is the route: the basement turn, the narrow suite doorway, the backyard gate. Our quotes come after a free in-person look at both, which is why they hold. No phone guesses, no revised numbers later."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "03",
+       "title": "One figure covers pickup to processing",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Disconnection of standard hookups, the dolly work, floor protection, hauling, recycling and disposal fees — all inside the single price you approve before we start. However stubborn the stairwell turns out to be, the number doesn't move."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "04",
+       "title": "Two-kitchen homes are our home turf",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Thousands of Brampton houses run a second kitchen downstairs — which means twice the appliances reaching end-of-life. We clear basement-suite units through side entrances and narrow stairs routinely, single machines or full double-kitchen swap-outs, without disturbing tenants or family living below."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "05",
+       "title": "The quote is free and the choice is yours",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "No deposit, no commitment, no expiry. Approve the number and the appliance is on our dolly within minutes; decline and we leave with a handshake. Either way, the visit costs you nothing."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "06",
+       "title": "Local and franchise-free — 30–50% below the chains",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The national haulers price royalty fees into every pickup. We're independently owned with none, and Brampton customers see it directly: the same fridge, gone for 30–50% less."
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Appliance Removal Pricing in Brampton, Without the Fine Print"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Volume-Based, Flat, and Quoted at Your Door"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Small loads start at {{cad_125}}, a single appliance stays at the affordable end, and multi-unit pickups — a whole kitchen, both kitchens, or appliances plus other junk — scale only with the truck space they claim. Every figure is confirmed in person before work begins, and no discovery mid-job can change it. Book the free quote and judge the number yourself."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Wide Service Area"
+      },
+      {
+       "title": "Local Expertise"
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-4.png",
+      "alt": "Background 4",
+      "width": 458,
+      "height": 237
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Dead Appliance to Done Deal — the Brampton Process"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "From your call to a cleared kitchen corner, here's the whole sequence:"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "1. Book the Pickup",
+       "text": [
+        "Call +1 647 922 5865 or book online in minutes. Trucks cover all of Brampton seven days a week, 6AM to 11PM, with same-day slots most days and a text 30 minutes before arrival."
+       ]
+      },
+      {
+       "title": "2. Get the At-the-Door Quote",
+       "text": [
+        "We look at the appliance, check its path out — hallway, stairs, side entrance — and hand you one flat, all-inclusive figure. Free, and no hard feelings if you pass."
+       ]
+      },
+      {
+       "title": "3. Disconnect, Protect, Carry",
+       "text": [
+        "On approval: water lines and plugs disconnected (licensed technicians must handle gas and hardwired units first), floors covered, doorframes padded, and the machine dollied out by a crew that does this daily."
+       ]
+      },
+      {
+       "title": "4. Recycled the Way Appliances Should Be",
+       "text": [
+        "Old units head to the right end: refrigerant-bearing machines processed properly, metals recovered at licensed facilities, and still-working appliances offered to donation partners before recycling is even considered."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Every Appliance a Brampton Home Can Retire — We Haul It"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "With two-kitchen houses, big families and a constant churn of renovations and new builds, Brampton retires more appliances per street than almost anywhere. Whatever's died, upgraded or simply overstayed:"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Kitchen Appliance Removal in Brampton",
+       "a": [
+        [
+         "Full-size fridges, French-door units and side-by-sides"
+        ],
+        [
+         "Chest and upright freezers — including the basement veteran"
+        ],
+        [
+         "Stoves, ovens and cooktops (gas units disconnected by a licensed tech first)"
+        ],
+        [
+         "Dishwashers, built-in and portable"
+        ],
+        [
+         "Microwaves, range hoods and countertop appliances by the boxful"
+        ],
+        [
+         "Second-kitchen and basement-suite appliance sets"
+        ]
+       ]
+      },
+      {
+       "q": "Laundry & Utility Appliance Removal in Brampton",
+       "a": [
+        [
+         "Washers and dryers — front-load, top-load and stacked pairs in tight closets"
+        ],
+        [
+         "Drained hot water tanks from basements and utility rooms"
+        ],
+        [
+         "Water softeners and filtration tanks"
+        ],
+        [
+         "Portable and window AC units, fans and dehumidifiers"
+        ],
+        [
+         "Disconnected furnaces and old HVAC equipment"
+        ]
+       ]
+      },
+      {
+       "q": "Multi-Unit & Renovation Pickups in Brampton",
+       "a": [
+        [
+         "Whole-kitchen swap-outs on renovation day"
+        ],
+        [
+         "Both-kitchens clearing when a basement suite gets refreshed"
+        ],
+        [
+         "Old-unit haul-away after new appliance deliveries"
+        ],
+        [
+         "Landlord and rental turnover appliance removal"
+        ],
+        [
+         "Appliances-plus-junk combo loads — one truck, one price"
+        ]
+       ]
+      },
+      {
+       "q": "Commercial Appliance Removal in Brampton",
+       "a": [
+        [
+         "Restaurant equipment — commercial fridges, freezers, ovens and fryers"
+        ],
+        [
+         "Plaza and storefront appliance clear-outs"
+        ],
+        [
+         "Office kitchen and breakroom unit removal"
+        ],
+        [
+         "Multi-unit pickups for Brampton property managers"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Service Areas"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "- Recent Reviews -"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Read what our past customers say"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions About Appliance Removal in Brampton, ON"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Q: What does it cost to remove an appliance in Brampton?",
+       "a": [
+        [
+         "A: Truck space sets the price — small loads start at $125, and a single fridge or washer sits at the low end of the scale. Weight and stairs never add a cent, and the flat figure quoted free at your door is exactly what you’ll pay."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Can you take an appliance out of a basement apartment?",
+       "a": [
+        [
+         "A: Every week — basement-suite kitchens are everywhere in Brampton and their appliances exit through the same narrow stairs and side doors they entered. Our crews handle the tight turns with dollies, straps and door-frame padding, and tenants barely notice we were there."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do I need to unhook anything before you come?",
+       "a": [
+        [
+         "A: Leave plug-in units and standard water hookups to us — washers, dishwashers and fridge water lines get disconnected on the spot. The one rule: gas stoves and hardwired equipment must be disconnected by a licensed technician before removal. Mention the appliance type when booking and we’ll confirm what applies."
+        ]
+       ]
+      },
+      {
+       "q": "Q: The fridge still works — we just upgraded. Does it have to be scrapped?",
+       "a": [
+        [
+         "A: Hopefully not. Working appliances are offered to our donation partners first, and a functional fridge or washer usually finds a second home. Recycling is the backup plan, not the default."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Can you take both kitchens' worth of appliances at once?",
+       "a": [
+        [
+         "A: Yes — and it’s cheaper together. A double-kitchen clear rides as one combined load priced by total volume, which always beats booking two separate pickups. Add any other junk to the same truck while it’s there."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,434 @@
+{
+ "id": 8301,
+ "kind": "page",
+ "path": "/commercial-landing/",
+ "type": "landing",
+ "template": "AdsLanding",
+ "seo": {
+  "title": "Commercial Landing - Live JunkFree",
+  "description": "We provide junk removal services in Toronto with best price guaranteed and do same day pickup.",
+  "canonical": "https://livejunkfree.ca/commercial-landing/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Bolton.png"
+ },
+ "title": "Commercial Landing",
+ "h1": "Stress-Free Junk Removal in Your City",
+ "published": "2024-12-23T05:05:23",
+ "modified": "2026-07-14T07:35:00",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Stress-Free Junk Removal in Your City"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Need junk gone? Contact us for fast, reliable, and eco-friendly service"
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "tel:+16479225865"
+      }
+     ]
+    },
+    {
+     "t": "rating",
+     "value": 5
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "4.8 Rating"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "250+ Reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "{{percent_10}} Off, Limited Offer, Avail-Now!"
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Now",
+       "href": "/contact/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What Do We Remove?"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We provide junk removal services in Toronto with ",
+      {
+       "b": [
+        "best price guaranteed"
+       ]
+      },
+      " and do",
+      {
+       "b": [
+        " same day pickup."
+       ]
+      },
+      " LiveJunkFree is trusted by 100+ people having done 500+ jobs in the last 3months, our process for junk removal is simple"
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "tel:+16479225865"
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Pallets",
+       "image": {
+        "src": "/images/uploads/2024/12/pexels-magda-ehlers-pexels-6364029.jpg",
+        "alt": "Pexels magda ehlers pexels",
+        "width": 1279,
+        "height": 853
+       }
+      },
+      {
+       "title": "Office Furniture",
+       "image": {
+        "src": "/images/uploads/2024/12/pexels-sander-153644-3359003.jpg",
+        "alt": "Pexels sander 153644",
+        "width": 1280,
+        "height": 828
+       }
+      },
+      {
+       "title": "Business Services",
+       "image": {
+        "src": "/images/uploads/2024/12/pexels-melanfolia-17042518.jpg",
+        "alt": "Pexels melanfolia",
+        "width": 1280,
+        "height": 853
+       }
+      },
+      {
+       "title": "Warehouse",
+       "image": {
+        "src": "/images/uploads/2024/12/pexels-tiger-lily-4483610.jpg",
+        "alt": "Pexels tiger lily",
+        "width": 1280,
+        "height": 853
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
+      "alt": "DSC08963",
+      "width": 800,
+      "height": 534
+     }
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Office Cubicle"
+      ],
+      [
+       "Property Management Cleancuts"
+      ],
+      [
+       "Retail Cleancuts"
+      ],
+      [
+       "Commercial Removal"
+      ],
+      [
+       "Deck Removal"
+      ],
+      [
+       "Exercise Equipment"
+      ],
+      [
+       "Fridge & Freezers"
+      ],
+      [
+       "Furniture"
+      ],
+      [
+       "Hot Tubs"
+      ],
+      [
+       "Mattresses"
+      ],
+      [
+       "Office Furniture"
+      ],
+      [
+       "Office Cubicles"
+      ],
+      [
+       "Pianos"
+      ],
+      [
+       "Patio Furniture"
+      ],
+      [
+       "Sheds"
+      ],
+      [
+       "Stoves/Ovens"
+      ],
+      [
+       "Stumps& Branch"
+      ],
+      [
+       "Televisions"
+      ],
+      [
+       "Tires"
+      ],
+      [
+       "Washer/Dryers"
+      ],
+      [
+       "Wooden pallets"
+      ],
+      [
+       "Yard Waste"
+      ]
+     ]
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "View All Items",
+       "a": [
+        [
+         " Responsive Item List * { box-sizing: border-box; margin: 0; padding: 0; } body { font-family: Arial, sans-serif; } .container { display: flex; flex-wrap: wrap; justify-content: space-between; padding: 10px; } .item { color: #0e2d76; flex: 1 1 22%; margin: 5px; text-align: left;font-weight:600;font-size:15px; } @media (max-width: 1200px) { .item { flex: 1 1 48%; } } @media (max-width: 768px) { .item { flex: 1 1 48%; } } @media (max-width: 480px) { .item { flex: 1 1 48%; } } "
+        ],
+        [
+         "Business Cleanouts"
+        ],
+        [
+         "Office Furniture Removal"
+        ],
+        [
+         "Property Mangement Cleanouts"
+        ],
+        [
+         "Warehouse Cleanouts"
+        ],
+        [
+         "Retail Cleanouts"
+        ],
+        [
+         "Office Cubical Removal"
+        ],
+        [
+         "Pallet Removal"
+        ],
+        [
+         "Commercial Junk Removal"
+        ],
+        [
+         "Safes"
+        ],
+        [
+         "Shelving Storage"
+        ],
+        [
+         "Computers"
+        ],
+        [
+         "Monitors"
+        ],
+        [
+         "Electronics"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Happy Customers"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How it Works?"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "You Call Us"
+      },
+      {
+       "title": "We Give You Estimate"
+      },
+      {
+       "title": "We arrive ready to remove"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why LiveJunkfree"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Fast & Reliable Service",
+       "text": [
+        "We guarantee same-day service for most jobs, ensuring you're never left waiting."
+       ],
+       "image": {
+        "src": "/images/uploads/2024/09/clock-app.png",
+        "alt": "Clock app",
+        "width": 512,
+        "height": 512
+       }
+      },
+      {
+       "title": "Customer-First Approach",
+       "text": [
+        "Our clients love us for our prompt, professional, and hassle-free service."
+       ],
+       "image": {
+        "src": "/images/uploads/2024/09/best-practice.png",
+        "alt": "Best practice",
+        "width": 512,
+        "height": 512
+       }
+      },
+      {
+       "title": "Years of Experience",
+       "text": [
+        "With years of experience, we've handled all types of junk removal jobs."
+       ],
+       "image": {
+        "src": "/images/uploads/2024/09/briefcase.png",
+        "alt": "Briefcase",
+        "width": 512,
+        "height": 512
+       }
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Our Features"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Complete Removal",
+       "text": [
+        "From furniture to the kitchen sink, we take it all! Explore What We Remove to learn more"
+       ]
+      },
+      {
+       "title": "Same-Day Service",
+       "text": [
+        "Need it gone fast? Book a same or next-day appointment for quick, hassle-free removal"
+       ]
+      },
+      {
+       "title": "Eco-Friendly Solutions",
+       "text": [
+        "We recycle and donate items to give them a second life whenever possible."
+       ]
+      },
+      {
+       "title": "Transparent Pricing",
+       "text": [
+        "No hidden costs—our all-inclusive pricing ensures you know exactly what to expect."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Now",
+       "href": "/contact/"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

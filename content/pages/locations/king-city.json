@@ -1,0 +1,670 @@
+{
+ "id": 14542,
+ "kind": "page",
+ "path": "/locations/king-city/",
+ "type": "location-town",
+ "template": "TownHub",
+ "seo": {
+  "title": "Junk Removal King City | Professional Junk Removal Services",
+  "description": "Looking for reliable junk removal in King City? Live Junk Free provides professional, same-day junk removal services for homes, estates, farms, and businesses. Get a free estimate today.",
+  "canonical": "https://livejunkfree.ca/locations/king-city/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Bolton-1.png"
+ },
+ "title": "King City",
+ "h1": "Junk Removal in King City — Professional Service for Properties That Deserve Better",
+ "published": "2026-05-31T05:07:59",
+ "modified": "2026-06-01T11:05:56",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "checks",
+     "items": [
+      "Our Service Areas"
+     ]
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Junk Removal in King City — Professional Service for Properties That Deserve Better"
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Frame-1000005909-1.png",
+      "alt": "Frame 1000005909 1",
+      "width": 800,
+      "height": 65
+     }
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "a": "/",
+       "c": [
+        "Live Junk Free"
+       ]
+      },
+      " is King City’s trusted junk removal team — a locally operated, fully insured crew that brings the same level of professionalism to a junk removal job as you’d expect from any premium service in this community. We arrive on time, treat your property with absolute care and respect, give you a completely free on-site estimate before touching a single item, and deliver results that match what King City properties deserve."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "marquee",
+     "items": [
+      "House Cleanouts",
+      "Fence Removal",
+      "Shed Demolition",
+      "Yard Waste",
+      "Retail Cleanout",
+      "Wall Demolition",
+      "Deck Demolition"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-2.png",
+      "alt": "Background 2",
+      "width": 590,
+      "height": 500
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-3.png",
+      "alt": "Background 3",
+      "width": 590,
+      "height": 500
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "King City Homeowners Don't Want Hassle — That's Why They Call Live Junk Free"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "From King City's most established estate properties to new executive builds across King Township — our clients trust us because we deliver a consistently premium experience, every single time. No shortcuts. No excuses. No surprises."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "Clear pricing — always in person, always before we start",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We never quote over the phone and hope for the best. We come to your King City or King Township property, walk through every area that needs clearing, and give you an accurate all-inclusive flat-rate quote on the spot. What we see is what we price."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "02",
+       "title": "Volume-based — the only transparent pricing method",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Your quote is based on how much space your items fill in our truck. One fair number for a small load. A scaled, still-fair number for a large estate cleanout. Your property's prestige or size in King City does not inflate your rate — volume does the calculation, nothing else."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "03",
+       "title": "One number covers everything — no fine print",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Labour, truck, fuel, disposal, multiple trips if needed — every cost is inside that one quoted number. We do not discover \"extra fees\" after the job is done. We do not add charges because an estate property took longer than a townhouse. One quote. Everything covered."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "04",
+       "title": "Professional crew — no shortcuts, ever",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Every Live Junk Free crew member is uniformed, trained and briefed on the care standards required for King City properties. We do not rush. We do not leave items half-loaded. We do not cut corners on how items are carried out. Your property is treated with the same respect throughout the job as it was at the beginning."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "05",
+       "title": "You approve it. It's locked. End of story",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Once you've reviewed and approved the quote, that number cannot change. No matter what we find. No matter how long it takes. No matter how many outbuildings or floors are involved. What you approved is the final number — guaranteed."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "06",
+       "title": "30–50% less than franchise competitors",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "No franchise royalties means King City customers receive professional-grade service at significantly lower prices than national chains — without any sacrifice in quality."
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Clear PricingProfessional Crews & No Shortcuts"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The King City Difference"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Our pricing in King City is built on three non-negotiable commitments: clarity, professionalism and zero shortcuts. Prices start as low as {{cad_125}} for small loads. Book your free King City junk removal estimate today — clear pricing, professional crew, no shortcuts."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Wide Service Area"
+      },
+      {
+       "title": "Local Expertise"
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-4.png",
+      "alt": "Background 4",
+      "width": 458,
+      "height": 237
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "One Visit, One Quote, One Clean Property — That's How We Do It"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "King City doesn't do complicated — and neither does our junk removal process. We've refined every step to deliver maximum results with minimum disruption to your property, your schedule and your peace of mind. Here's our complete 4-step junk removal process in King City, Ontario — one visit, one quote, one clean property:"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Book Your King City Junk Removal — Fast & Easy",
+       "text": [
+        "Call +1 647 922 5865 or book online in minutes. Tell us your location and what needs to go, and we'll schedule same-day or next-day service with a convenient arrival notice."
+       ]
+      },
+      {
+       "title": "One Visit — Full Property Assessment & Upfront Quote",
+       "text": [
+        "Our professional crew arrives on time, assesses everything that needs removal, and provides a clear, all-inclusive quote before any work begins. No hidden fees and no obligation."
+       ]
+      },
+      {
+       "title": "One Professional Crew Handles Everything",
+       "text": [
+        "Once approved, our team handles the entire removal process—from furniture and appliances to renovation debris, estate contents, yard waste, and more. You don't need to lift a finger."
+       ]
+      },
+      {
+       "title": "One Clean Property — Swept, Sorted, Done",
+       "text": [
+        "After loading everything, we sweep the area, complete a final walkthrough, and responsibly sort items for donation, recycling, or proper disposal. Your property is left clean and clutter-free."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "From Estate Homes to Commercial Sites — King City's Trusted Cleanup Team"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "King City and King Township represent some of the most varied and premium property types in all of York Region — sprawling estate homes, working equestrian facilities, executive new builds, rural farm properties, and a growing commercial corridor. Live Junk Free is the only junk removal team in King City with the professionalism, experience and genuine local knowledge to serve every single one of them — at the standard these properties deserve."
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Estate & Executive Home Junk Removal in King City",
+       "a": [
+        [
+         "King City is home to some of York Region’s most prestigious estate properties — and we handle every cleanout at the level these properties require."
+        ],
+        [
+         "Estate home cleanout King City — full multi-floor property clearing"
+        ],
+        [
+         "Executive home cleanout King City — pre-sale, post-renovation, full declutter"
+        ],
+        [
+         "Estate furniture removal King City — antiques handled with care, bulk removed efficiently"
+        ],
+        [
+         "Pre-sale property cleanout King City — complete clearing before listing"
+        ],
+        [
+         "Post-renovation cleanout King City — construction debris, old fixtures, materials"
+        ],
+        [
+         "Multi-outbuilding estate cleanout King City — garages, barns, coach houses, sheds"
+        ],
+        [
+         "Senior estate transition King City — compassionate, sensitive, thorough service"
+        ],
+        [
+         "Deceased estate cleanout King City — handled with discretion and respect"
+        ]
+       ]
+      },
+      {
+       "q": "Equestrian & Rural Property Junk Removal in King Township",
+       "a": [
+        [
+         "King Township is one of Ontario’s premier equestrian communities — and we specialise in the unique junk removal needs of agricultural and equestrian properties."
+        ],
+        [
+         "Farm cleanout King Township — barns, equipment sheds, outbuildings"
+        ],
+        [
+         "Equestrian property cleanout King City — old tack, equipment, barn debris"
+        ],
+        [
+         "Rural property junk removal King Township"
+        ],
+        [
+         "Barn cleanout King Township — old equipment, lumber, scrap, accumulated storage"
+        ],
+        [
+         "Scrap metal removal King City Ontario"
+        ],
+        [
+         "Old farm and agricultural equipment removal King Township"
+        ],
+        [
+         "Fence removal King City"
+        ],
+        [
+         "Large debris removal King Township rural properties"
+        ]
+       ]
+      },
+      {
+       "q": "Residential Junk Removal in King City",
+       "a": [
+        [
+         "Complete residential junk removal for every home type across King City and King Township."
+        ],
+        [
+         "Furniture removal King City — sofas, beds, dressers, dining sets, chairs, antiques"
+        ],
+        [
+         "Appliance removal King City — fridges, washers, dryers, stoves, dishwashers"
+        ],
+        [
+         "Garage cleanout King City — tools, seasonal storage, accumulated clutter"
+        ],
+        [
+         "Basement cleanout King City — deep storage, old furniture, e-waste, boxes"
+        ],
+        [
+         "Attic cleanout King City"
+        ],
+        [
+         "Mattress removal King City"
+        ],
+        [
+         "Hot tub and spa removal King City"
+        ],
+        [
+         "Exercise equipment removal King City"
+        ],
+        [
+         "Yard waste removal King City — branches, outdoor furniture, garden waste"
+        ],
+        [
+         "Hoarding cleanout King City — compassionate, non-judgmental, thorough"
+        ],
+        [
+         "Move-in / move-out junk removal King City"
+        ],
+        [
+         "E-waste and electronics removal King City"
+        ]
+       ]
+      },
+      {
+       "q": "Commercial Junk Removal in King City",
+       "a": [
+        [
+         "King City’s growing commercial corridor and business community trust Live Junk Free for professional, discreet commercial cleanouts."
+        ],
+        [
+         "Office furniture removal King City"
+        ],
+        [
+         "Commercial junk removal King City Ontario"
+        ],
+        [
+         "Office cleanout and decommission King City"
+        ],
+        [
+         "Retail store cleanout King City"
+        ],
+        [
+         "Restaurant equipment removal King City"
+        ],
+        [
+         "Warehouse cleanout King Township"
+        ],
+        [
+         "Landlord junk removal King City — tenant turnover, abandoned items"
+        ],
+        [
+         {
+          "b": [
+           "Demolition & Removal Services in King City"
+          ]
+         }
+        ],
+        [
+         "Shed demolition King City ON"
+        ],
+        [
+         "Deck demolition and removal King City"
+        ],
+        [
+         "Fence removal King City"
+        ],
+        [
+         "Hot tub demolition King City"
+        ],
+        [
+         "Barn structure demolition King Township"
+        ],
+        [
+         "Above ground pool demolition King City"
+        ],
+        [
+         "Gazebo removal King City"
+        ],
+        [
+         "Playset demolition King City"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "All Areas We Serve in & Around King City"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We cover every King Township community and surrounding York Region areas:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ]
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "- Recent Reviews -"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Read what our past customers say"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions About Junk Removal in King City, ON"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Q: How much does junk removal cost in King City, Ontario?",
+       "a": [
+        [
+         "A: Our King City junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour and not based on your property type or size. Prices start at $125 for small loads. We provide a completely free on-site estimate before any work begins. The price you approve is guaranteed to be the final price — no adjustments, no surprises."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you offer same-day junk removal in King City?",
+       "a": [
+        [
+         "A: Yes — same-day junk removal is available across all of King City and King Township including Nobleton, Schomberg, Kettleby, Pottageville and Bond Head. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you handle estate home cleanouts in King City?",
+       "a": [
+        [
+         "A: Yes — estate and executive home cleanouts are one of our most requested and most specialised services in King City. We handle multi-floor properties, multiple outbuildings, garages, coach houses and full property clearing with the level of care and professionalism that King City properties require. Pre-sale cleanouts, post-renovation debris, senior estate transitions and deceased estate clearances are all handled with precision and sensitivity."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you handle equestrian and farm property cleanouts in King Township?",
+       "a": [
+        [
+         "A: Absolutely — equestrian, farm and rural property cleanouts across King Township are a core part of our service offering. We handle barn cleanouts, old tack and equipment removal, farm debris, scrap metal and large rural property clearing with the experience and equipment to do it properly."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Which King Township communities do you serve?",
+       "a": [
+        [
+         "A: We serve all of King Township including King City, Nobleton, Schomberg, Kettleby, Pottageville, Bond Head, Lloydtown and Laskay — plus surrounding communities including Aurora, Vaughan, Newmarket, Caledon and all of York Region."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you charge more for large estate properties in King City?",
+       "a": [
+        [
+         "A: No — every King City and King Township property is priced the same way: by the volume of junk we remove. A larger estate property with more items will naturally involve more truck space — and that’s priced accordingly and fairly. But we never add a premium simply because the property is large, prestigious or in King City. Volume in, fair price out. Always."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

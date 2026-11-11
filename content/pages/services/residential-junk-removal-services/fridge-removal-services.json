@@ -1,0 +1,546 @@
+{
+ "id": 20502,
+ "kind": "page",
+ "path": "/services/residential-junk-removal-services/fridge-removal-services/",
+ "type": "service",
+ "template": "ItemRemoval",
+ "seo": {
+  "title": "Fridge Removal Services - Live JunkFree",
+  "description": "Live Junk Free offers eco friendly fridge removal services across the Greater Toronto Area. Call today to book your old fridge pickup with appliance removal, junk hauling, and green disposal.",
+  "canonical": "https://livejunkfree.ca/services/residential-junk-removal-services/fridge-removal-services/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/07/Fridge-Removal-Service.jpg"
+ },
+ "title": "Fridge Removal Services",
+ "h1": "Locally Trusted – Top Fridge Removal Service!",
+ "published": "2026-08-04T07:03:47",
+ "modified": "2026-08-04T06:18:22",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Locally Trusted – Top Fridge Removal Service!"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We are the best in the town."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Trusted by people of the Greater Toronto Area"
+      },
+      {
+       "title": "Insured, uniformed, and respectful crew"
+      },
+      {
+       "title": "Rated 5.0 on Google by 780+ customers"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Fridge Removal Services"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Removing an old refrigerator is simpler than you think. At Live Junk Free, we offer a fast and efficient fridge removal service for any location in your home – whether it’s in the kitchen, basement, or garage. We understand how much space an unused refrigerator can waste when it’s no longer functioning or needed. With our professional service, you can reclaim that valuable space without any heavy lifting or hassle on your part."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "The process couldn’t be easier. We start with a completely free, no-obligation quote so you know exactly what to expect. Once approved, our experienced team takes care of everything: safely disconnecting the appliance, carefully removing it from your home, thoroughly cleaning the area, and ensuring proper disposal or recycling of the unit. We make refrigerator removal so straightforward that most jobs are completed in under an hour."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Your Service Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/Fridge-Removal-Service.jpg",
+      "alt": "Fridge Removal Service",
+      "width": 800,
+      "height": 600
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Same-Day Fridge Removal – Best Value When You Book Now"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Removing an old refrigerator doesn’t need to be difficult. Our professional removal service starts at just {{cad_125}}, and we handle everything for you. We’ll safely disconnect your fridge, remove it carefully, and haul it away, leaving your space completely clean with no mess behind."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "With ",
+      {
+       "a": "/about/",
+       "c": [
+        "our experienced team"
+       ]
+      },
+      " taking care of the job, you can relax while we quickly clear out your appliance. In no time, you’ll have fresh, open space ready for your new fridge or other uses. Affordable, worry-free refrigerator removal."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Quick, Local, Same Day Fridge Removal Services"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Removing an old refrigerator is a significant challenge, which is why our professional appliance removal team is here to handle it for you. When you choose Live Junk Free, you are guaranteed a completely stress-free experience from start to finish."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We recognize that fridge removal often can’t wait – whether you’re renovating your kitchen, moving to a new home, or simply tired of that non-working appliance taking up space. That’s why we offer same-day or next-day removal services whenever possible, ensuring you get your valuable space back quickly."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Attempting to move heavy refrigerators yourself can lead to back injuries, property damage, or electrical hazards. Our fully licensed and insured team eliminates these risks while protecting your floors and walls throughout the entire removal process."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Choose Professional Fridge Removal? Here's Why We're the Smart Choice:"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Flexible Scheduling",
+       "text": [
+        "We accommodate your schedule with same-day, next-day, and weekend service options available when you need them most."
+       ]
+      },
+      {
+       "title": "No Hidden Fees",
+       "text": [
+        "Your upfront quote includes all labor, disposal costs, and cleanup – no surprise charges ever."
+       ]
+      },
+      {
+       "title": "Right Tools for the Job",
+       "text": [
+        "Our team arrives equipped with appliance dollies, straps, and specialized trucks to safely handle heavy, bulky refrigerators."
+       ]
+      },
+      {
+       "title": "Eco-Conscious Disposal",
+       "text": [
+        "We ensure all materials, including metals, plastics, and refrigerants, are properly recycled according to environmental regulations."
+       ]
+      },
+      {
+       "title": "Massive Time Savings",
+       "text": [
+        "What could take you an entire weekend of struggling, we typically complete in under 2"
+       ]
+      },
+      {
+       "title": "Same-Day Service",
+       "text": [
+        "Urgent fridge removal available when you need it most"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Fridge Removal Made Easy – Here's How It Works"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our Fridge Removal Service is So Seamless, You’ll Be Amazed!"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "We expertly remove refrigerators from any location, kitchens, narrow basement stairwells, tight apartment hallways, and even awkward garage setups. Our skilled team carefully extracts your fridge without damaging floors, walls, or doorways."
+      ],
+      [
+       "From massive commercial freezers to compact apartment refrigerators, we handle them all with precision. We take care of all the heavy lifting, safe disconnection, and eco-friendly disposal so you don’t need to risk injury. When we are finished, your space will be cleaner and more usable than before we arrived."
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Eco-Conscious Fridge Removal That Matters",
+        {
+         "br": 1
+        }
+       ]
+      },
+      "At Live Junk Free, we’re committed to sustainable solutions:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Smart breakdown to maximize recyclable materials"
+      ],
+      [
+       "Minimized landfill contribution through proper sorting"
+      ],
+      [
+       "Environmentally safe disposal of all hazardous materials"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "We focus on the eco-friendly aspect and highlight the positive impact it has on both the customer and the environment."
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Fair & Transparent Fridge Pricing"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Pay only for the fridge we remove – nothing more"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Clear upfront quotes are provided before we arrive"
+      ],
+      [
+       "Free instant estimates via phone, text, or our website"
+      ],
+      [
+       "Special discounts when removing multiple appliances"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Types of Fridges We Remove"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we specialize in removing all types of fridges:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Standard refrigerators"
+      ],
+      [
+       "Mini-fridges"
+      ],
+      [
+       "Side-by-side units"
+      ],
+      [
+       "Built-in models"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Our Simple 4-Step Fridge Removal Process"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Send Us Details",
+       "text": [
+        "Text or email photos of your refrigerator, and we'll respond with a free quote within minutes."
+       ]
+      },
+      {
+       "title": "Get Your Price",
+       "text": [
+        "Receive honest, upfront pricing with no hidden costs or surprises"
+       ]
+      },
+      {
+       "title": "Choose Your Time",
+       "text": [
+        "Select same-day or next-day removal that fits your schedule - we come to you."
+       ]
+      },
+      {
+       "title": "We Handle Everything",
+       "text": [
+        "Our team safely removes your fridge, cleans the area, and hauls it away, typically completed in under 90 minutes."
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Before & After Fridge Removal Gallery"
+    },
+    {
+     "t": "p",
+     "c": [
+      "See the transformation we deliver. From bulky, broken refrigerators to clean, functional spaces – view our actual removal projects."
+     ]
+    },
+    {
+     "t": "gallery",
+     "images": [
+      {
+       "src": "/images/uploads/2026/07/Fridge-Removal-Service-before-1024x572.jpeg",
+       "alt": "Fridge Removal Service"
+      },
+      {
+       "src": "/images/uploads/2026/07/Fridge-Removal-Service-after-1024x572.jpeg",
+       "alt": "Fridge Removal Service after"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "FAQs - Fridge Removal"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "1. Do you remove all types of refrigerators?",
+       "a": [
+        [
+         "Yes! We remove all types – standard fridges, mini-fridges, side-by-sides, and residential units. No fridge is too big or small for our professional removal team."
+        ]
+       ]
+      },
+      {
+       "q": "2. Will you disconnect my fridge before removal?",
+       "a": [
+        [
+         "Absolutely. Our team safely disconnects water lines and power before removal. Just point us to the fridge – we handle everything."
+        ]
+       ]
+      },
+      {
+       "q": "3. What happens to my old fridge after removal?",
+       "a": [
+        [
+         "We responsibly recycle 90 %+ of materials. Freon is properly recovered, metals are recycled, and usable parts may be donated to local organizations."
+        ]
+       ]
+      },
+      {
+       "q": "4. How much does fridge removal cost?",
+       "a": [
+        [
+         "Prices vary by fridge size/type. We offer free, no-obligation quotes – just send us details about your fridge for an accurate estimate."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What People Say About Us"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Areas We Serve"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ],
+      [
+       "Stouffville"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

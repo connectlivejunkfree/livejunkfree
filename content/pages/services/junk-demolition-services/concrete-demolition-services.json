@@ -1,0 +1,789 @@
+{
+ "id": 16419,
+ "kind": "page",
+ "path": "/services/junk-demolition-services/concrete-demolition-services/",
+ "type": "service",
+ "template": "Demolition",
+ "seo": {
+  "title": "Concrete Demolition Services - Live JunkFree",
+  "description": "Live Junk Free provides concrete demolition and heavy debris removal services across the Greater Toronto Area. Book your service today for efficient foundation cleanup",
+  "canonical": "https://livejunkfree.ca/services/junk-demolition-services/concrete-demolition-services/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/07/concrete-demolition-services.jpeg"
+ },
+ "title": "Concrete Demolition Services",
+ "h1": "Your Trusted Local Experts for Concrete Demolition Services",
+ "published": "2026-07-10T06:26:52",
+ "modified": "2026-07-23T08:24:51",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Your Trusted Local Experts for Concrete Demolition Services"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We are the best in town."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Trusted by people of the Greater Toronto Area"
+      },
+      {
+       "title": "Insured, uniformed, and respectful crew"
+      },
+      {
+       "title": "Rated 5.0 on Google by 780+ customers"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Best Concrete Demolition Services"
+    },
+    {
+     "t": "p",
+     "c": [
+      "One call to Live Junk Free transforms your damaged concrete into a clean, blank canvas ready for new construction. Our experts carefully evaluate each project to determine the optimal demolition approach, considering critical factors like slab thickness, rebar content, proximity to structures, and disposal logistics. For concrete demolition of driveways and foundations, we deploy industrial breakers and precision saw-cutting equipment. Concrete block wall demolition requires specialized techniques to prevent collateral damage, while our concrete demolition chemical options provide alternative solutions for delicate areas where mechanical methods aren’t suitable."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we handle every aspect from initial assessment to final cleanup, including hauling away all debris and recycling concrete rubble whenever possible. We provide transparent concrete demolition cost estimates upfront with no hidden fees, so you know exactly what to expect. Whether you need to remove a small sidewalk or undertake large-scale concrete demolition and removal of commercial flooring, we bring the same commitment to safety, efficiency, and customer satisfaction to every job."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Your Service Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/concrete-demolition-services-1024x765.jpeg",
+      "alt": "concrete-demolition-services",
+      "width": 800,
+      "height": 598
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Break Free from Problematic Concrete – Expert Demolition Made Simple"
+    },
+    {
+     "t": "p",
+     "c": [
+      "That damaged concrete isn’t fixing itself. What was once a solid, level surface has become a hazardous patchwork of cracks, pits, and uneven slabs. The structure is deteriorating, the rebar is exposed, and every passing season makes the damage worse."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "a": "/contact/",
+       "c": [
+        "Live Junk Free"
+       ]
+      },
+      " specializes in making unsafe concrete disappear quickly, safely, and affordably. Our professional concrete demolition service starts at just {{cad_125}}, and we handle every step from the first break to final site cleanup."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We take care of all the heavy work, including breaking up and removing concrete slabs of all thicknesses, completing concrete block wall demolition without collateral damage, extracting all rebar and reinforcement materials, and hauling away tons of rubble and debris."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Ready to reclaim your space? Call us at +1 647 922 5865 or book online."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "Call answered in 1 minute."
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Same-Day Concrete Demolition Service in Your Area"
+    },
+    {
+     "t": "p",
+     "c": [
+      "That damaged concrete isn’t just unsightly – it’s an accident waiting to happen. Many property owners don’t realize proper concrete demolition requires more than just breaking up slabs, with hidden challenges like buried utilities, structural reinforcements, and hazardous dust that make DIY attempts risky."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our professional concrete demolition team handles every complexity so you don’t have to. Whether you’re preparing for new construction, removing safety hazards, or updating your property, we offer same-day and next-day demolition services throughout your area."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our Fully Equipped Crew Arrives With:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Industrial concrete breakers and jackhammers for efficient slab demolition"
+      ],
+      [
+       "Saws and cutting equipment for precision concrete removal"
+      ],
+      [
+       "Dust suppression systems to protect your property and neighborhood"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Advantages of Choosing Live Junk Free for Professional Swing Set demolition"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Fast & Efficient Service",
+       "text": [
+        "Most concrete demolition projects completed in just 4-8 hours"
+       ]
+      },
+      {
+       "title": "Cost Savings",
+       "text": [
+        "Special pricing for large-scale or multiple demolition projects"
+       ]
+      },
+      {
+       "title": "Flexible Scheduling",
+       "text": [
+        "Available 7 days a week with 24/7 emergency service"
+       ]
+      },
+      {
+       "title": "Property Protection",
+       "text": [
+        "Advanced techniques safeguard surrounding structures and utilities"
+       ]
+      },
+      {
+       "title": "All-Weather Operation",
+       "text": [
+        "Projects continue rain or shine with proper site protection"
+       ]
+      },
+      {
+       "title": "Complete Site Restoration",
+       "text": [
+        "Includes debris removal, grading, and final cleanup"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How Our Concrete Demolition Services Work"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Our Proven Process Delivers Flawless Results"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Our professional team specializes in concrete demolition for all property types, from residential driveway removals to large-scale commercial slab demolitions. Our experienced crews carefully execute each project using industrial-grade equipment and precision techniques to protect surrounding structures while efficiently breaking down and removing concrete."
+      ],
+      [
+       "From small patio demolitions to complete foundation removals, we handle every aspect with expert precision."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Environmentally Responsible Concrete Demolition"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we don’t just break concrete – we remove it responsibly:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "All demolished concrete is crushed and recycled as construction aggregate"
+      ],
+      [
+       "Reinforcement materials like rebar are processed at metal recycling facilities"
+      ],
+      [
+       "Concrete washout water is properly contained and disposed of"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "We combine professional concrete demolition with sustainable practices to minimize environmental impact."
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Honest Pricing You Can Trust"
+    },
+    {
+     "t": "p",
+     "c": [
+      "You only pay for what we demolish."
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Free same-day estimates available by phone, text, or online assessment"
+      ],
+      [
+       "Special discounted rates for large-scale or multiple concrete demolition projects"
+      ],
+      [
+       "Written price-match guarantee on all our competitive quotes"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Types of Concrete We Demolish & Remove"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we professionally handle all concrete structures in any condition:"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Flatwork & Slabs"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Driveway and walkway demolitions"
+      ],
+      [
+       "Patio and pool deck removals"
+      ],
+      [
+       "Basement floor tear-outs"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Vertical Structures"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Concrete block wall demolition"
+      ],
+      [
+       "Foundation and footing removals"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Our Simple 4-Step Concrete Demolition Process"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Share Your Project Details",
+       "text": [
+        "Send us photos of your concrete surface or structure via text or email, and we'll respond within 30 minutes with a free, no-obligation quote for your demolition needs."
+       ]
+      },
+      {
+       "title": "Receive Your Transparent Estimate",
+       "text": [
+        "Get honest pricing for your concrete slab demolition, block wall removal, or foundation tear-out with all costs clearly explained upfront, no hidden fees or surprises."
+       ]
+      },
+      {
+       "title": "Select Your Preferred Schedule",
+       "text": [
+        "Choose from our flexible options, including same-day emergency service, next-day availability, or book a future date that aligns with your construction timeline."
+       ]
+      },
+      {
+       "title": "Professional Demolition Day",
+       "text": [
+        "Our experienced crew arrives fully equipped with industrial breakers, excavators, and dust control systems to safely complete your concrete demolition project."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Concrete Demolition Before & After Gallery"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our photo gallery showcases real projects where we’ve turned problematic concrete into blank slates for new beginnings."
+     ]
+    },
+    {
+     "t": "gallery",
+     "images": [
+      {
+       "src": "/images/uploads/2026/07/concrete-demolition-services-before-1024x765.jpeg",
+       "alt": "concrete-demolition-services"
+      },
+      {
+       "src": "/images/uploads/2026/07/concrete-demolition-services-after-1024x765.jpeg",
+       "alt": "concrete-demolition-services after"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Concrete Demolition FAQs"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Do you remove concrete driveways, patios, and foundations?",
+       "a": [
+        [
+         "Yes, we professionally demolish and remove all types of concrete structures, including driveways, patios, foundations, slabs, and retaining walls."
+        ]
+       ]
+      },
+      {
+       "q": "How much does concrete demolition cost?",
+       "a": [
+        [
+         "Concrete demolition pricing varies based on project size, complexity, and specific requirements. Contact us for a free, no-obligation estimate tailored to your needs."
+        ]
+       ]
+      },
+      {
+       "q": "What areas do you serve for concrete demolition?",
+       "a": [
+        [
+         "We serve the Greater Toronto Area, including Bradford, Port Perry, Pickering, Richmond Hill, Scarborough, Schomberg, Mississauga, and surrounding communities."
+        ]
+       ]
+      },
+      {
+       "q": "Do I need a permit for concrete removal?",
+       "a": [
+        [
+         "Most residential concrete removal doesn’t require permits, but we handle all necessary approvals for structural or large-scale projects."
+        ]
+       ]
+      },
+      {
+       "q": "Do you handle reinforced concrete demolition?",
+       "a": [
+        [
+         "Yes, we specialize in reinforced concrete demolition with proper rebar extraction and disposal."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What People Say About Us"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Areas We Serve"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ],
+      [
+       "Stouffville"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Common Questions About Concrete Demolition Services"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Concrete demolition can involve removing driveways, patios, sidewalks, slabs, foundations, and other concrete structures from residential and commercial properties. Below are answers to common questions about concrete removal costs, equipment, safety, permits, recycling, site preparation, and DIY concrete demolition."
+     ]
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Read What People Ask About Concrete Demolition Services",
+       "a": [
+        [
+         "1. How much does concrete removal cost per square foot or cubic yard?"
+        ],
+        [
+         "Concrete removal costs depend on the thickness, total volume, reinforcement, accessibility, and amount of labour and hauling required. Live Junk Free provides project-specific quotes based on the concrete that needs to be demolished, removed, and hauled away."
+        ],
+        [
+         "2. What is the average price to demolish a two-car concrete driveway?"
+        ],
+        [
+         "The cost to demolish a two-car concrete driveway depends on its total square footage, thickness, reinforcement, accessibility, and disposal requirements. Live Junk Free can assess the driveway and provide a quote that accounts for demolition, loading, hauling, and cleanup."
+        ],
+        [
+         "3. Does the quote include hauling, dumping fees, and recycling of the old concrete?"
+        ],
+        [
+         "The scope of the quote should clearly identify whether demolition, loading, hauling, disposal, and recycling are included. Live Junk Free provides full-service concrete demolition and removal, so customers do not have to arrange separate hauling for the demolished concrete."
+        ],
+        [
+         "4. Is it more expensive to remove reinforced concrete with rebar or wire mesh than unreinforced concrete?"
+        ],
+        [
+         "Yes, reinforced concrete can require additional labour and specialized equipment because rebar and wire mesh need to be cut or separated during demolition. The extra work can affect the overall cost compared with removing standard unreinforced concrete."
+        ],
+        [
+         "5. What are the hidden costs, such as saw-cutting fees or heavy equipment delivery charges?"
+        ],
+        [
+         "Potential additional costs can come from difficult access, unusually thick concrete, reinforcement, saw-cutting, specialized equipment, extensive hauling, or work outside the original scope. With Live Junk Free, discussing these conditions during the estimate helps establish the expected scope and pricing before demolition begins."
+        ],
+        [
+         "6. How much extra does it cost to break up and remove a thick concrete foundation or slab?"
+        ],
+        [
+         "Thick foundations and slabs generally require more time, heavier equipment, and additional hauling compared with thinner concrete surfaces. The final price depends on thickness, reinforcement, total volume, accessibility, and whether the foundation needs to be broken into smaller sections for removal."
+        ],
+        [
+         "Concrete Demolition Process, Equipment & Safety"
+        ],
+        [
+         "7. What specialized machinery is used for concrete demolition?"
+        ],
+        [
+         "Depending on the project, concrete demolition may involve jackhammers, concrete saws, breakers, skid steers, excavators, and other heavy-duty demolition equipment. The equipment selected depends on the concrete’s thickness, size, location, reinforcement, and accessibility."
+        ],
+        [
+         "8. How do contractors break up concrete without damaging underground utilities?"
+        ],
+        [
+         "Before demolition, the work area should be assessed for underground utilities and known utility locations. Utility lines should be identified and marked before heavy equipment or excavation begins, and crews should use appropriate demolition methods around areas where underground services may be present."
+        ],
+        [
+         "9. What is the difference between robotic concrete demolition and traditional methods?"
+        ],
+        [
+         "Traditional concrete demolition typically uses handheld tools or larger equipment such as excavators and skid steers. Robotic demolition equipment can be remotely operated and may be useful in confined or hazardous environments where keeping workers farther away from the demolition area provides an additional safety advantage."
+        ],
+        [
+         "10. How long does it typically take to demolish and haul away a concrete patio or sidewalk?"
+        ],
+        [
+         "The timeline depends on the size, thickness, reinforcement, accessibility, and amount of concrete being removed. A small patio or sidewalk may be completed in a relatively short period, while larger or heavily reinforced concrete projects require more demolition and hauling time."
+        ],
+        [
+         "11. Can concrete be demolished quietly, or will it always cause severe noise disruption?"
+        ],
+        [
+         "Concrete demolition is naturally noisy, particularly when jackhammers, breakers, or heavy machinery are used. However, experienced crews can use appropriate equipment and controlled techniques to limit unnecessary noise and complete the work efficiently."
+        ],
+        [
+         "12. How do contractors control silica dust and flying debris during the smashing process?"
+        ],
+        [
+         "Concrete demolition can create silica-containing dust and flying fragments, so appropriate safety measures are important. Professional crews can use methods such as dust suppression, suitable protective equipment, controlled demolition techniques, and proper work-area management to reduce exposure and debris hazards."
+        ],
+        [
+         "Concrete Demolition Permits, Property Protection & Regulations"
+        ],
+        [
+         "13. Do I need a municipal permit to tear up a driveway or sidewalk on my property?"
+        ],
+        [
+         "Permit requirements depend on the municipality and the type and location of the concrete being removed. Driveways and sidewalks may also be subject to local rules involving road access, curbs, boulevard areas, drainage, or utility infrastructure. Check with your municipality before starting a project if permit requirements are unclear."
+        ],
+        [
+         "14. How do contractors protect my lawn, landscaping, and existing structures from heavy tire tracks and impact?"
+        ],
+        [
+         "Professional demolition crews plan equipment access carefully and use appropriate techniques to reduce unnecessary damage to surrounding areas. The available access route, equipment size, distance from the structure, and condition of the property are considered when planning concrete removal."
+        ],
+        [
+         "15. What type of liability insurance should a concrete demolition company carry?"
+        ],
+        [
+         "A professional concrete demolition company should carry appropriate commercial liability insurance for the type of work it performs. This helps protect against potential property damage or other incidents during the project. Customers can request confirmation of insurance coverage before hiring a contractor."
+        ],
+        [
+         "16. Who is responsible for calling 811 or the local utility-locating service to mark utility lines?"
+        ],
+        [
+         "The responsibility varies depending on the location and project. Before demolition or excavation, the homeowner and contractor should confirm who is responsible for arranging utility locates and ensure that required markings are completed before work begins."
+        ],
+        [
+         "17. Are there restrictions on what hours of the day a contractor can perform heavy jackhammering?"
+        ],
+        [
+         "Yes, municipalities may have noise bylaws that restrict construction and demolition activities during certain hours. The permitted working hours vary by location, so the contractor and homeowner should confirm the applicable local requirements before scheduling noisy demolition work."
+        ],
+        [
+         "Concrete Recycling, Disposal & Site Cleanup"
+        ],
+        [
+         "18. Can old concrete be recycled into gravel or aggregate, and does that lower the cost?"
+        ],
+        [
+         "Yes. Demolished concrete can often be processed into recycled aggregate or other construction materials. Recycling can reduce the amount of material sent to landfill, although whether it lowers the customer’s total removal cost depends on transportation, processing, volume, and local disposal rates."
+        ],
+        [
+         "19. Will the contractor fill the hole or trench left behind with dirt and level the ground?"
+        ],
+        [
+         "Basic concrete removal and site cleanup do not always include complete backfilling or landscaping. If removing a slab, foundation, or other structure leaves a hole or uneven area, discuss backfilling and leveling with Live Junk Free when requesting your quote."
+        ],
+        [
+         "20. Do companies provide grading and compacting services so the site is ready for new construction?"
+        ],
+        [
+         "Some demolition contractors can provide or arrange additional site-preparation work such as grading, compacting, and backfilling. These services should be confirmed before the project starts because they may fall outside the standard concrete demolition and removal scope."
+        ],
+        [
+         "21. How heavy is concrete debris, and will the dumpster damage my driveway?"
+        ],
+        [
+         "Concrete is extremely heavy, so even a relatively small demolition project can generate a significant amount of debris. Dumpsters and heavy equipment can also put considerable weight on a driveway, which is why full-service concrete removal can be preferable when you want the debris loaded and hauled away without leaving a dumpster on the property."
+        ],
+        [
+         "DIY vs. Professional Concrete Demolition"
+        ],
+        [
+         "22. Can I rent a jackhammer and do DIY concrete demolition safely?"
+        ],
+        [
+         "Small concrete projects may appear suitable for DIY removal, but jackhammering involves significant physical effort, vibration, flying debris, noise, dust, and potential utility hazards. Professional demolition is generally a safer and more efficient choice for large, thick, reinforced, or difficult-to-access concrete."
+        ],
+        [
+         "23. At what thickness or square footage does concrete removal become impossible for a DIYer?"
+        ],
+        [
+         "There is no single thickness or square-footage limit that makes a project impossible for every homeowner. However, thick slabs, reinforced concrete, large driveways, foundations, and projects requiring heavy equipment quickly become more difficult and risky without professional tools and experience."
+        ],
+        [
+         "24. How much money do I actually save by breaking it up myself and hiring someone just to haul it away?"
+        ],
+        [
+         "DIY demolition can reduce labour costs, but you still need to consider jackhammer or equipment rental, protective gear, transportation, disposal fees, your time, and the physical work involved. For larger projects, hiring a company such as Live Junk Free for both demolition and removal can be more convenient because one crew handles the breaking, loading, hauling, and cleanup."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

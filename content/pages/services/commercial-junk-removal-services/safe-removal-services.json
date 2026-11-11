@@ -1,0 +1,618 @@
+{
+ "id": 16454,
+ "kind": "page",
+ "path": "/services/commercial-junk-removal-services/safe-removal-services/",
+ "type": "service",
+ "template": "Commercial",
+ "seo": {
+  "title": "Safe Removal Services - Live JunkFree",
+  "description": "Remove heavy safes safely with Live Junk Free’s commercial safe removal services in the Greater Toronto Area. Book now for professional hauling.",
+  "canonical": "https://livejunkfree.ca/services/commercial-junk-removal-services/safe-removal-services/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/07/Safe-Removal-Services.jpeg"
+ },
+ "title": "Safe Removal Services",
+ "h1": "Most Trusted Safe Removal Service in Your Area",
+ "published": "2026-07-10T08:44:32",
+ "modified": "2026-07-23T08:15:16",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Most Trusted Safe Removal Service in Your Area"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We are the best in town."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Trusted by people of the Greater Toronto Area"
+      },
+      {
+       "title": "Insured, uniformed, and respectful crew"
+      },
+      {
+       "title": "Rated 5.0 on Google by 780+ customers"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Professional Safe Removal Services"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Live Junk Free provides complete commercial removal services, specializing in the efficient removal of Safes, workstations, and office furniture, all handled by our professional team so you don’t have to lift a finger."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Get started with a free, no-obligation quote and enjoy transparent pricing with no hidden fees. Once approved, our experienced crew arrives at your scheduled time to dismantle and remove all Safes, partitions, and office furniture safely and efficiently. Most standard office removals are completed in just a few hours, leaving your space clutter-free and ready for its next use."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We prioritize eco-friendly disposal, ensuring materials like metal frames, fabric panels, and laminate surfaces are recycled or donated whenever possible, diverting waste from landfills. Our team takes care to protect your office floors, walls, and remaining furniture during the removal process."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Your Service Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/Safe-Removal-Services-1024x765.jpeg",
+      "alt": "Safe Removal Services",
+      "width": 800,
+      "height": 598
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book Now & Save on Office Safe Removal"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Tired of old Safes cluttering your workspace? Our office removal service starts at just {{cad_125}}, and we handle it all – workstations, partitions, desks, filing cabinets, and office furniture – no matter how big your space."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Sit back while our professional team quickly and safely clears your office. Whether it’s a single Safe or an entire floor, we ensure proper disposal through recycling and donation, leaving your space clean and ready for its next use."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Ready to remove those old Safes? Call now at +1 647 922 5865 or book online."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "We answer calls in 1 minute."
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Same-Day Safe Removal Available"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Got piles of Safe taking up space? Renovating your home? Our same-day service handles it quickly, no waiting, no hassle."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "While Safe might seem manageable, hauling bulky planks, pallets, or furniture can be surprisingly difficult. Don’t risk injury or waste time breaking it down yourself. Our professional, insured team handles all types of Safe removal safely and efficiently."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our Complete Safe Removal Service Includes:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Removal of all Safe materials from homes, job sites, or storage areas"
+      ],
+      [
+       "Handling of lumber, pallets, furniture, demolition debris, and more"
+      ],
+      [
+       "Eco-friendly recycling and responsible disposal at certified facilities"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Need Safe Removal Soon? Same-Day Service Available"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Choose Live Junk Free for Professional Safe Removal?"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Work On Your Schedule",
+       "text": [
+        "Pick same-day, next-day, or weekend removal with no extra fees. We’ll work around your home or business hours for maximum convenience."
+       ]
+      },
+      {
+       "title": "Eco-Friendly & Responsible Disposal",
+       "text": [
+        "We recycle or repurpose 90%+ of Safe materials at certified facilities. Quality lumber gets donated to community projects while scraps are properly processed."
+       ]
+      },
+      {
+       "title": "Save on Big Projects",
+       "text": [
+        "Clearing construction sites or multiple properties? We offer special rates for bulk Safe removal and regular service contracts."
+       ]
+      },
+      {
+       "title": "Book in 60 Seconds",
+       "text": [
+        "Get on our schedule instantly online or by phone – no complicated estimates or waiting periods."
+       ]
+      },
+      {
+       "title": "Honest Pricing You Can Trust",
+       "text": [
+        "Your upfront quote covers all labor, hauling, and disposal – no surprise charges for heavy items or difficult access."
+       ]
+      },
+      {
+       "title": "5-Star Rated Service",
+       "text": [
+        "Consistently excellent reviews for reliability and eco-friendly practices"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How Our Safe Removal Service Works"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our Safe Removal Service is So Effortless, You’ll Love It"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "We can take away any type of waste from your home, office, or job site – whether it’s a pile of old lumber in your garage, broken furniture in your basement, or construction scraps from your renovation."
+      ],
+      [
+       {
+        "a": "/about/",
+        "c": [
+         "Our team"
+        ]
+       },
+       " comes prepared to handle all kinds of Safe materials safely and carefully. We protect your floors and walls while we work, and make sure everything is cleaned up when we’re done. It doesn’t matter if it’s small pieces or big stacks, we remove it all with the same care and professionalism."
+      ],
+      [
+       "The best part? You don’t have to do any heavy lifting. We take care of all the hard work, moving, loading, and hauling everything away. When we leave, your space will be clean, open, and ready to use however you want."
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Safe & Eco-Friendly Safe Removal"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We protect your property and the environment through responsible, Safe disposal:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Responsible recycling of all reusable Safe materials"
+      ],
+      [
+       "Donation program for quality furniture and lumber"
+      ],
+      [
+       "Zero landfill policy for repairable items"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Get Instant Pricing – Transparent & Competitive Rates"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "All-inclusive pricing with no hidden fees"
+      ],
+      [
+       "Free same-day estimates via phone/text/email"
+      ],
+      [
+       "Discounted rates for large removals"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Types of Safe We Remove"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At ",
+      {
+       "a": "/contact/",
+       "c": [
+        "Live Junk Free"
+       ]
+      },
+      ", we specialize in the safe removal and eco-friendly disposal of all Safe materials for homes and businesses, including:"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Common Safe Types:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Furniture (tables, chairs, dressers)"
+      ],
+      [
+       "Flooring and decking materials"
+      ],
+      [
+       "Pallets and shipping crates"
+      ],
+      [
+       "Fencing and landscaping timber"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Construction & Demolition Safe:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Framing lumber and plySafe"
+      ],
+      [
+       "Renovation debris"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Our Simple 4-Step Safe Removal Process"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Send a Photo",
+       "text": [
+        "Text or email photos of your Safe pile. We'll respond within minutes with a solution."
+       ]
+      },
+      {
+       "title": "Get a Quote",
+       "text": [
+        "Receive honest, upfront pricing with no hidden fees - just straightforward costs for your Safe removal."
+       ]
+      },
+      {
+       "title": "Pick Your Time",
+       "text": [
+        "Choose same-day or next-day pickup, whatever suits your schedule."
+       ]
+      },
+      {
+       "title": "We Remove It",
+       "text": [
+        "Our professional crew arrives on time, safely removes all Safe materials, and leaves your space clean, typically in under an hour."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Before & After Safe Removal Gallery"
+    },
+    {
+     "t": "p",
+     "c": [
+      "See the transformation for yourself – check out real Safe removal projects we’ve completed."
+     ]
+    },
+    {
+     "t": "gallery",
+     "images": [
+      {
+       "src": "/images/uploads/2026/07/Safe-Removal-Services-before-1024x765.jpeg",
+       "alt": "Safe Removal Services"
+      },
+      {
+       "src": "/images/uploads/2026/07/Safe-Removal-Services-after-1024x765.jpeg",
+       "alt": "Safe Removal Services after"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "FAQs – Safe Removal"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "1. Do you remove all types of safes?",
+       "a": [
+        [
+         "Yes, we remove all types including wall safes, floor safes, and heavy commercial safes."
+        ]
+       ]
+      },
+      {
+       "q": "2. How much does safe removal cost?",
+       "a": [
+        [
+         "Prices start at $125 and vary based on size, weight, and location. We provide free estimates."
+        ]
+       ]
+      },
+      {
+       "q": "3. What areas do you serve?",
+       "a": [
+        [
+         "We cover the entire GTA including Toronto, Mississauga, Brampton, Vaughan, and surrounding areas."
+        ]
+       ]
+      },
+      {
+       "q": "4. Can you do a same-day safe removal?",
+       "a": [
+        [
+         "Yes, we offer same-day and emergency safe removal when available."
+        ]
+       ]
+      },
+      {
+       "q": "5. Do you remove safes from upper floors or basement?",
+       "a": [
+        [
+         "Absolutely, we are equipped to handle safe removal from any location in your property."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What People Say About Us"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Areas We Serve"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ],
+      [
+       "Stouffville"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

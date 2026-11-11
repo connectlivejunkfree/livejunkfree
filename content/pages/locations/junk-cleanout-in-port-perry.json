@@ -1,0 +1,548 @@
+{
+ "id": 16649,
+ "kind": "page",
+ "path": "/locations/junk-cleanout-in-port-perry/",
+ "type": "location-service",
+ "template": "LocationService",
+ "seo": {
+  "title": "Same-day Junk Cleanout Services in Port Perry | Live Junk Free",
+  "description": "Same-day junk cleanouts in Port Perry by Live Junk Free. We handle estate cleanouts, garage junk, attic debris, and appliances. Schedule your service today!",
+  "canonical": "https://livejunkfree.ca/locations/junk-cleanout-in-port-perry/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
+ },
+ "title": "junk-cleanout-in-port-perry",
+ "h1": "Junk Cleanout Services in Port Perry, Ontario — Whole Spaces Emptied, Not Just Items Removed",
+ "published": "2026-07-13T07:47:07",
+ "modified": "2026-07-13T07:51:19",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "checks",
+     "items": [
+      "Our Service Areas"
+     ]
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Junk Cleanout Services in Port Perry, Ontario — Whole Spaces Emptied, Not Just Items Removed"
+    },
+    {
+     "t": "p",
+     "c": [
+      "There’s a difference between hauling away a couch and clearing out a space that’s been filling up for years. Cleanouts are our specialty. Whether it’s a family home, a lakeside cottage, a barn on a Scugog concession road or a storage unit you’d rather stop paying for, our fully insured Port Perry crew walks the space with you, quotes one locked-in price on the spot for free, and then empties it — sorted, swept and finished, usually in a single visit."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "marquee",
+     "items": [
+      "House Cleanouts",
+      "Fence Removal",
+      "Shed Demolition",
+      "Yard Waste",
+      "Retail Cleanout",
+      "Wall Demolition",
+      "Deck Demolition"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-2.png",
+      "alt": "Background 2",
+      "width": 590,
+      "height": 500
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-3.png",
+      "alt": "Background 3",
+      "width": 590,
+      "height": 500
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "The Cleanout Crew Scugog Calls When It's Time to Let a Space Go"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Port Perry is a town of long-held properties — heritage homes near the Queen Street downtown that stay in families for generations, cottages on Lake Scugog passed from parents to kids, farms and outbuildings that quietly gather half a century of stuff. Letting go of what's inside them is a big job, and Live Junk Free has become the crew Scugog trusts to do it — over 660 five-star Google reviews earned one careful, honest cleanout at a time."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "The load sets the price — nothing else does",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Every cleanout is priced on truck volume alone. A garage that fills a quarter truck costs quarter-truck money; a full estate that takes two loads is quoted as exactly that, up front. There's no hourly meter running while we work and no premium for any Port Perry address, however far down the concession road."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "02",
+       "title": "No cleanout gets priced sight unseen",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Anyone who quotes a full cleanout over the phone is guessing — and you'll pay for the guess later. We visit the property, open every door you want opened, look in the loft and behind the barn, and only then commit to a number. The walkthrough costs nothing."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "03",
+       "title": "One figure, everything included, locked before we lift",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Crew, truck, fuel, tipping fees, donation runs — the quote covers the whole operation. If the attic holds triple what we all expected, the price you approved is still the price you pay. Surprises inside the house never become surprises on the bill."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "04",
+       "title": "Estate and hoarding cleanouts get patience, not just muscle",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Some cleanouts follow a death, a move into care, or years of a struggle nobody planned. Our crew treats those jobs differently: slower, quieter, with photos, papers, jewelry and anything sentimental pulled aside for the family, and usable belongings routed to donation instead of the dump."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "05",
+       "title": "You hold the yes — and the no",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We quote; you decide. Approve it and the cleanout starts that minute. Decline and we leave without a fee, a deposit or a follow-up sales call. Nobody should feel pushed into emptying a property before they're ready."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "06",
+       "title": "Independent pricing beats the franchises by 30–50%",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The national cleanout brands carry royalty costs on every job, and their invoices show it. We're locally owned with no franchise overhead — which is why the same Port Perry cleanout typically lands 30–50% cheaper with us."
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What a Cleanout Actually Costs in Port Perry"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Flat, Volume-Based, and Settled at the Front Door"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Small cleanouts start at {{cad_125}}, and even the biggest jobs — full homes, estates, barns — are quoted as one firm figure during your free walkthrough. No hourly billing, no disposal fees tacked on later, no revised invoice when the job runs long. The number we shake on is the number you pay when the space is empty."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Wide Service Area"
+      },
+      {
+       "title": "Local Expertise"
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-4.png",
+      "alt": "Background 4",
+      "width": 458,
+      "height": 237
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How a Port Perry Cleanout Goes From Booked to Broom-Clean"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Most people expect a cleanout to eat weeks of their life. Ours takes four steps and, in most cases, one day:"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "1. Call and Pick Your Day",
+       "text": [
+        "Reach us at +1 647 922 5865 or book online in about two minutes. Crews cover Port Perry and all of Scugog seven days a week, 6AM to 11PM, with same-day openings most days and a 30-minute text before we pull in."
+       ]
+      },
+      {
+       "title": "2. Open the Doors, Get the Number",
+       "text": [
+        "Walk us through everything — the house, the crawlspace, the boathouse, the barn. We size up the full job and hand you one all-inclusive quote. Free to receive, free to refuse."
+       ]
+      },
+      {
+       "title": "3. The Crew Clears It All",
+       "text": [
+        "On your go-ahead, we start emptying: sorting as we work, setting aside anything valuable or sentimental, staging donations separately from disposal, and carrying every last box out ourselves. Your job is to point; ours is everything after that."
+       ]
+      },
+      {
+       "title": "4. Swept Out and Sent to the Right Places",
+       "text": [
+        "Every cleared room gets swept before we leave. Then the load splits by destination — donation partners take what still has life in it, recyclers take metal, wood and electronics, and landfill gets only the remainder."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Homes, Cottages, Barns, Estates — Every Cleanout Scugog Asks For"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Cleanout calls in Port Perry rarely sound alike. An executor settling a century home near downtown. A family clearing the cottage before the sale closes in fall. A farmer finally reclaiming a drive shed. A landlord facing whatever a tenant left behind. Different stories, same solution — a crew that empties the space completely and handles everything in it responsibly:"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Home & Property Cleanouts in Port Perry",
+       "a": [
+        [
+         "Whole-house cleanouts — every floor, closet and crawlspace emptied"
+        ],
+        [
+         "Basement and cold room clearing"
+        ],
+        [
+         "Garage cleanouts — from one cluttered bay to wall-to-wall"
+        ],
+        [
+         "Attic and loft clear-outs"
+        ],
+        [
+         "Pre-sale property cleanouts — listing-ready, often within days of your call"
+        ],
+        [
+         "Pre-renovation clearing — empty rooms before the contractors arrive"
+        ]
+       ]
+      },
+      {
+       "q": "Cottage, Farm & Rural Cleanouts in Port Perry",
+       "a": [
+        [
+         "Lake Scugog cottage clear-outs — seasonal closes, sales and inheritances"
+        ],
+        [
+         "Boathouse and bunkie clearing"
+        ],
+        [
+         "Barn and drive shed cleanouts — decades of equipment, lumber and storage"
+        ],
+        [
+         "Shed and outbuilding emptying across Scugog’s hamlets and concession roads"
+        ],
+        [
+         "Farm property cleanouts — scrap metal and old machinery included"
+        ]
+       ]
+      },
+      {
+       "q": "Estate & Sensitive Cleanouts in Port Perry",
+       "a": [
+        [
+         "Estate cleanouts — respectful, unhurried, with valuables set aside for family"
+        ],
+        [
+         "Downsizing support for longtime Port Perry homeowners"
+        ],
+        [
+         "Senior transition cleanouts — coordinated around care-home timelines"
+        ],
+        [
+         "Hoarding cleanouts — discreet, judgment-free and paced to the person"
+        ],
+        [
+         "Probate and bereavement property clearing"
+        ]
+       ]
+      },
+      {
+       "q": "Rental, Storage & Commercial Cleanouts in Port Perry",
+       "a": [
+        [
+         "Tenant turnover and abandoned-belongings cleanouts"
+        ],
+        [
+         "Eviction and foreclosure property clearing"
+        ],
+        [
+         "Storage unit cleanouts — stop the monthly bill for good"
+        ],
+        [
+         "Downtown Queen Street shop and office cleanouts"
+        ],
+        [
+         "Restaurant, retail and back-room clear-outs across Scugog"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Service Areas"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "- Recent Reviews -"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Read what our past customers say"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions About Junk Cleanouts in Port Perry, ON"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Q: How much should I budget for a cleanout in Port Perry?",
+       "a": [
+        [
+         "A: It comes down to volume. Small cleanouts start at $125, single rooms and garages sit in the lower range, and full homes or estates are quoted as one flat figure at your free walkthrough. Whatever number you approve is final — hours, difficulty and distance never move it."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Can one visit really empty an entire house?",
+       "a": [
+        [
+         "A: Almost always, yes. A garage or basement typically takes a couple of hours; a full home is usually done within the day, with multiple truckloads if needed. We’ll give you an honest timeline during the walkthrough."
+        ]
+       ]
+      },
+      {
+       "q": "Q: We're settling my mother's estate and don't know what's valuable. How do you handle that?",
+       "a": [
+        [
+         "A: Carefully, and with the family in charge. As we clear, anything that looks significant — documents, photos, jewelry, collectibles, cash — gets set aside for you rather than loaded. Nothing questionable leaves the property without your sign-off, and we’re comfortable working alongside family members who want to be present."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you clear cottages and properties on Lake Scugog?",
+       "a": [
+        [
+         "A: All season long. Cottage cleanouts before a sale, end-of-season clear-outs, boathouses and bunkies, and waterfront properties with tricky access are regular jobs for us — and your volume-based price stays the same regardless of location."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Will you take on a barn or drive shed full of decades of stuff?",
+       "a": [
+        [
+         "A: Gladly — barn cleanouts are some of the most satisfying work we do around Scugog. Old equipment, scrap metal, lumber, tires and general accumulation all go, and the scrap and metal get recycled rather than dumped."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,221 @@
+{
+ "id": 8607,
+ "kind": "page",
+ "path": "/about/",
+ "type": "core",
+ "template": "Core",
+ "seo": {
+  "title": "Learn About Live Junk Free for Junk Removal in Greater Toronto Area",
+  "description": "Learn about Live Junk Free, the trusted name in residential and commercial junk removal, cleanouts, and demolition services across the Greater Toronto Area. Contact us today!",
+  "canonical": "https://livejunkfree.ca/about/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2024/11/DSC08963-1024x683.webp"
+ },
+ "title": "About",
+ "h1": "About",
+ "published": "2025-01-01T04:07:54",
+ "modified": "2026-07-06T07:20:26",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "About"
+    },
+    {
+     "t": "p",
+     "c": [
+      "With years of experience, acumen and devotion, Live JunkFree has gained a reputation as a professional commercial and ",
+      {
+       "a": "/services/residential-junk-removal-services/",
+       "c": [
+        {
+         "b": [
+          "residential junk removal services"
+         ]
+        }
+       ]
+      },
+      " provider dealing with multiple domains such as household junk, construction debris, yard waste and more. Not just removing the junk from the spaces but our experts are quite efficient in hauling, recycling and disposing of items in an eco-friendly manner."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Since we’re known highly for making the process smooth for our clients, we are able to achieve this through customization. In addition, we also contend to remain ahead of our competitors with constant research about current trends and innovations in decluttering methods."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
+      "alt": "DSC08963",
+      "width": 800,
+      "height": 534
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Transform Your Space with Junk-Free Professional Assistance"
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get In Touch",
+       "href": "tel:16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Our Mission"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Even though we have been proving ourselves time and again with our top-notch quality services, we constantly aspire to level up our house and ​​​​",
+      {
+       "a": "/services/commercial-junk-removal-services/",
+       "c": [
+        {
+         "b": [
+          "office junk removal"
+         ]
+        }
+       ]
+      },
+      " services. Our mission is to make cleanouts easygoing and convenient by devoting attention to the smallest of details and upholding our high standards of personalisation which offers unparalleled comfort to the customers. With customised solutions that guarantee optimum ease and fulfilment with the least amount of labour and time, we hope to meet the individual demands of every client."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Junk Removal with Unmatched Quality"
+    },
+    {
+     "t": "rating",
+     "value": 5
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Rated 5 star by customers"
+    },
+    {
+     "t": "stats",
+     "items": [
+      {
+       "label": "Services Listed",
+       "value": "60+"
+      },
+      {
+       "label": "Happy Customers",
+       "value": "250+"
+      },
+      {
+       "label": "Site Demolitions",
+       "value": "130+"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Live JunkFree Guarantees"
+    },
+    {
+     "t": "p",
+     "c": [
+      "While everyone should have access to a clean and healthy lifestyle, we at Live Junk Free ensure that you can attain the same through our wide range of excellent junk removal, ",
+      {
+       "a": "/services/junk-cleanout-services/",
+       "c": [
+        "cleanouts"
+       ]
+      },
+      " and ",
+      {
+       "a": "/services/junk-demolition-services/",
+       "c": [
+        {
+         "b": [
+          "demolition services"
+         ]
+        }
+       ]
+      },
+      ", specially curated to make your life easier. From the very beginning till the end, we take note that each step is accomplished properly including lifting hefty items, eliminating the junk from the premises and taking them away to dispose of sustainably. Instead of just focusing on delivering the services, it’s the flawlessness of the service that we guarantee."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What Makes LiveJunkFree Unique ?"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Experience and Expertise",
+       "text": [
+        "Being in the industry for over a decade now comes with an immense amount of understanding of what exactly is expected of us. In addition, constantly evolving ourselves with time according to the dynamics has truly benefited us in various ways and made us stand out among our competitors."
+       ]
+      },
+      {
+       "title": "Customer-Centric Approach",
+       "text": [
+        "While we aim to make lives convenient with our residential and ​​commercial clean out services, customers’ comfort level always remains our top priority. Whether scheduling the slot according to their preferred timing or decluttering the space as per their instructions, our objective is to bestow them with the best of experiences."
+       ]
+      },
+      {
+       "title": "Environmentally Responsible Practices",
+       "text": [
+        "Although we all understand how significant it is to preserve nature for the generations to come, very few work towards it. While being one of those few, we prioritise and incorporate nature-friendly disposal strategies in our process of home and office rubbish clearance to reduce the damage we cause and encourage sustainability."
+       ]
+      },
+      {
+       "title": "Transparent Pricing",
+       "text": [
+        {
+         "a": "/",
+         "c": [
+          "Live Junk Free"
+         ]
+        },
+        " not only believes that trust is the foundation of any relationship, but we also abide by the same and ensure that we are transparent about pricing and other details with our customers. Additionally, our quotation is free from any hidden costs while being extremely fair and budget-friendly."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

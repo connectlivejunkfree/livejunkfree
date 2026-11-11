@@ -1,0 +1,741 @@
+{
+ "id": 16111,
+ "kind": "page",
+ "path": "/services/residential-junk-removal-services/hot-tub-removal-services/",
+ "type": "service",
+ "template": "ItemRemoval",
+ "seo": {
+  "title": "Hot Tub Removal Services - Live JunkFree",
+  "description": "Need hot tub removal in Toronto & GTA? Live Junk Free removes hot tubs & jacuzzis fast — same day, fully insured, no hidden fees. Call +1 647 922 5865!",
+  "canonical": "https://livejunkfree.ca/services/residential-junk-removal-services/hot-tub-removal-services/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/07/hot-tub-removal-services_before.jfif_202607142121.jpeg"
+ },
+ "title": "Hot Tub Removal Services",
+ "h1": "Locally Trusted – The Best Hot Tub Removal in Town is Here!",
+ "published": "2026-07-07T08:46:31",
+ "modified": "2026-07-23T06:12:30",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Locally Trusted – The Best Hot Tub Removal in Town is Here!"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We are the best in town"
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Trusted by people of the Greater Toronto Area"
+      },
+      {
+       "title": "Insured, uniformed, and respectful crew"
+      },
+      {
+       "title": "Rated 5.0 on Google by 780+ customers"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Easy Hot Tub Removal Services"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Taking out a hot tub is simpler than you think. Live Junk Free offers a fast and simple way to remove old hot tubs, whether they are located indoors or outdoors. We are aware of the amount of space that an old hot tub can occupy. If these are not in use, then a considerable amount of space is being wasted. You can reclaim the space occupied by your hot tub without lifting a finger, provided by the Live Junk Free team."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Before starting your work, we will provide you with a complimentary free quote with no hidden charges and will wait for your approval. After that, we will commence the demolition work, take out the hot tub, tidy up the site, and handle the removal and disposal. We excel at helping you free up space and clear out! With our team, hot-tub removals are so simple that we can do them in no time!"
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Your Hot Tub Removal Service",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/Hot-Tub-Removal-Service.jpg",
+      "alt": "Hot Tub Removal Services",
+      "width": 760,
+      "height": 428
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Call Now or Book Online Today with the Best Price"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Removing an old hot tub doesn’t have to be a headache. Our professional removal service starts at just {{cad_255}}, and we handle every step for you. We will carefully remove your hot tub, air dust the area, and haul everything away with no heavy lifting or mess left behind."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "With our team on the job, you can relax while we clear out your space quickly and safely. Before long, you will have a fresh, open area ready for whatever comes next. Affordable, stress-free hot tub removal."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Ready to free up your space? ",
+      {
+       "a": "tel:+16479225865",
+       "c": [
+        "Call us now"
+       ]
+      },
+      " at +1 647 922 5865 or book online."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "Call answered in 1 minute."
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Same Day Hot Tub Removal Service Near You"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Taking out a hot tub is quite the task, which is why it’s helpful to have a professional demolition company like us come in and take care of it."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "When you choose Live Junk Free, you can count on a stress-free experience."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We understand that some situations require urgent action, whether you are preparing for a home makeover, clearing space for new landscaping, or simply tired of looking at that old tub. That’s why we offer same-day or next-day removal services whenever possible. Our quick response ensures you don’t have to wait long to reclaim your space."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Accepting difficult tasks such as hot tub demolition can result in muscle soreness and, in the worst case, personal injury. Why take a chance?"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our team is not only licensed for this type of work but also fully insured, so you can relax knowing that everything will go smoothly during the process."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "In addition to demolitions, we’re prepared for junk removal, business cleanouts, appliance removal, and"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our full-service hot tub removal includes:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Safe removal of all types of tubs"
+      ],
+      [
+       "Handling of large, heavy tubs"
+      ],
+      [
+       "Eco-friendly disposal with recycling whenever possible"
+      ],
+      [
+       "Thorough air dusting, and we leave your space spotless"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "We Offer Same-Day Hot Tub Removal Service."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Advantages of Removing Your Hot Tub with Live Junk Free"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Flexible Scheduling"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Work around your timeline with next-day or weekend slots available. Same-day services are also available."
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "No Hidden Costs"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Our upfront pricing includes all labor, disposal fees."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Proper Equipment",
+       "text": [
+        "We come prepared with specialized tools and vehicles to handle heavy, bulky tubs."
+       ]
+      },
+      {
+       "title": "Responsible Disposal",
+       "text": [
+        "We ensure all materials are properly recycled or disposed of according to regulations."
+       ]
+      },
+      {
+       "title": "Time Savings",
+       "text": [
+        "What might take you days to complete, we can finish in just hours."
+       ]
+      },
+      {
+       "title": "Instant booking",
+       "text": [
+        "Get on our schedule in 60 seconds online or by phone, no waiting for callbacks."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How Our Hot Tub Removal Services Work"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Eco-Friendly Disposal That Makes a Difference"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We go the extra mile to protect the planet:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Responsible recycling of acrylic, metal, and plumbing components"
+      ],
+      [
+       "Donate working units to community centers when possible"
+      ],
+      [
+       "Minimize landfill waste through smart dismantling"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We focus on the eco-friendly aspect and highlight the positive impact it has on both the customer and the environment."
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Honest Hot Tub Pricing – No Surprises, Clear and Transparent Pricing"
+    },
+    {
+     "t": "p",
+     "c": [
+      "You only pay for what we remove."
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Clear upfront quotes – before we even show up."
+      ],
+      [
+       "Free instant estimates via phone, text, or our website."
+      ],
+      [
+       "Bulk removal discounts for multi-tub jobs."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Types of Hot Tubs We Remove:"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we specialize in removing all types of appliances:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Hot Tubs (All types, sizes & conditions)"
+      ],
+      [
+       "Jacuzzis & Luxury Spas"
+      ],
+      [
+       "Hot Tub Patios & Deck Installations"
+      ],
+      [
+       "Outdoor Hot Tubs (Backyard, garden, or poolside units)"
+      ],
+      [
+       "Indoor Hot Tubs"
+      ],
+      [
+       "Acrylic Hot Tubs"
+      ],
+      [
+       "Wooden Hot Tubs"
+      ],
+      [
+       "Broken/Non-Working Tubs"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Our Simple 4-Step Process to book a Hot Tub removal"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Send a Photo",
+       "text": [
+        "Text or upload pictures of your hot tub, and our team will get back in a few minutes."
+       ]
+      },
+      {
+       "title": "Get a Quote",
+       "text": [
+        "Receive fair, transparent pricing with no hidden fees."
+       ]
+      },
+      {
+       "title": "Schedule Your Slot",
+       "text": [
+        "Choose same-day or next-day removal, we work near you."
+       ]
+      },
+      {
+       "title": "We Remove It",
+       "text": [
+        "Our crew removes, airdusts, and hauls away, which is done in 1-2 hours."
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The Difference One Removal Makes: Before & After"
+    },
+    {
+     "t": "p",
+     "c": [
+      "See the difference we make. From heavy, unused hot tubs to clean, open spaces – check out our real removal projects"
+     ]
+    },
+    {
+     "t": "gallery",
+     "images": [
+      {
+       "src": "/images/uploads/2026/07/hot-tub-removal-services_before.jfif_202607142121-1024x765.jpeg",
+       "alt": "hot-tub-removal-services_before"
+      },
+      {
+       "src": "/images/uploads/2026/07/hot-tub-removal-services_before.jfif_202607142124-1024x765.jpeg",
+       "alt": "hot-tub-removal-services_after"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Hot Tub Removal FAQs"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "What types of hot tubs do you remove?",
+       "a": [
+        [
+         "We remove all types, including indoor, outdoor, in-ground, and above-ground hot tubs."
+        ]
+       ]
+      },
+      {
+       "q": "Do you offer same-day hot tub removal?",
+       "a": [
+        [
+         "Yes! We offer same-day and next-day services whenever possible."
+        ]
+       ]
+      },
+      {
+       "q": "How do you ensure safe removal without property damage?",
+       "a": [
+        [
+         "Our trained team uses proper tools and techniques to prevent damage during removal. We take extra care when moving large or heavy pieces."
+        ]
+       ]
+      },
+      {
+       "q": "What are the costs involved in hot tub removal?",
+       "a": [
+        [
+         "The hot tub removal cost varies depending on the size, location, and difficulty of the job. Contact us for a free quote!"
+        ]
+       ]
+      },
+      {
+       "q": "Do I need to prepare the area before your team arrives?",
+       "a": [
+        [
+         "We recommend clearing the path to your hot tub to allow for easier access. If you’re unsure what to do, our team will guide you before the appointment."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "text": "HOT TUB REMOVAL SERVICE AREA"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Hot Tub Removal Service Areas We Cover"
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "a": "/locations/ajax/hot-tub-removal-services-in-ajax/",
+         "c": [
+          "Ajax"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/aurora/hot-tub-removal-services-in-aurora/",
+         "c": [
+          "Aurora"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/bolton/hot-tub-removal-services-in-bolton/",
+         "c": [
+          "Bolton "
+         ]
+        },
+        "• ",
+        {
+         "a": "/locations/bradford/hot-tub-removal-services-in-bradford/",
+         "c": [
+          "Bradford"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/brampton/hot-tub-removal-services-in-brampton/",
+         "c": [
+          "Brampton"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/caledon/hot-tub-removal-services-in-caledon/",
+         "c": [
+          "Caledon "
+         ]
+        },
+        "• ",
+        {
+         "a": "/locations/east-gwillimbury/hot-tub-removal-services-in-east-gwillimbury/",
+         "c": [
+          "East Gwillimbury"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/etobicoke/hot-tub-removal-services-in-etobicoke/",
+         "c": [
+          "Etobicoke"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/georgina/hot-tub-removal-services-in-georgina/",
+         "c": [
+          "Georgina "
+         ]
+        },
+        "• ",
+        {
+         "a": "/locations/king-city/hot-tub-removal-services-in-king-city/",
+         "c": [
+          "King City"
+         ]
+        }
+       ]
+      },
+      {
+       "br": 1
+      },
+      {
+       "b": [
+        "• ",
+        {
+         "a": "/locations/markham/hot-tub-removal-services-in-markham/",
+         "c": [
+          "Markham"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/mississauga/hot-tub-removal-services-in-mississauga/",
+         "c": [
+          "Mississauga "
+         ]
+        },
+        "• ",
+        {
+         "a": "/locations/new-market/hot-tub-removal-services-in-new-market/",
+         "c": [
+          "Newmarket "
+         ]
+        },
+        "• ",
+        {
+         "a": "/locations/nobleton/hot-tub-removal-services-in-nobleton/",
+         "c": [
+          "Nobleton "
+         ]
+        },
+        "• ",
+        {
+         "a": "/locations/oshawa/hot-tub-removal-services-in-oshawa/",
+         "c": [
+          "Oshawa "
+         ]
+        },
+        "• ",
+        {
+         "a": "/locations/port-perry/hot-tub-removal-services-in-port-perry/",
+         "c": [
+          "Port Perry"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/pickering/hot-tub-removal-services-in-pickering/",
+         "c": [
+          "Pickering "
+         ]
+        },
+        "• ",
+        {
+         "a": "/locations/richmond-hill/hot-tub-removal-services-in-richmond-hill/",
+         "c": [
+          "Richmond Hill"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/scarborough/hot-tub-removal-services-in-scarborough/",
+         "c": [
+          "Scarborough"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/schomberg/hot-tub-removal-services-in-schomberg/",
+         "c": [
+          "Schomberg "
+         ]
+        },
+        "• ",
+        {
+         "a": "/locations/toronto/hot-tub-removal-services-in-toronto/",
+         "c": [
+          "Toronto"
+         ]
+        },
+        " • ",
+        {
+         "a": "/locations/uxbridge/hot-tub-removal-services-in-uxbridge/",
+         "c": [
+          "Uxbridge "
+         ]
+        },
+        "• ",
+        {
+         "a": "/locations/vaughan/hot-tub-removal-services-in-vaughan/",
+         "c": [
+          "Vaughan "
+         ]
+        },
+        "• ",
+        {
+         "a": "/locations/woodbridge/hot-tub-removal-services-in-woodbridge/",
+         "c": [
+          "Woodbridge "
+         ]
+        },
+        "• ",
+        {
+         "a": "/locations/whitby/hot-tub-removal-services-in-whitby/",
+         "c": [
+          "Whitby "
+         ]
+        },
+        "• ",
+        {
+         "a": "/locations/whitchurch-stouffville/hot-tub-removal-services-in-whitchurch-stouffville/",
+         "c": [
+          "Whitchurch-Stouffville"
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call Now — +1 647 922 5865",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What People Say About Us"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "reviews"
+    }
+   ]
+  }
+ ]
+}

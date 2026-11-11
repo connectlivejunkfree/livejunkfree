@@ -1,0 +1,596 @@
+{
+ "id": 18413,
+ "kind": "page",
+ "path": "/locations/komal/",
+ "type": "test",
+ "template": "None",
+ "seo": {
+  "title": "Komal - Live JunkFree",
+  "description": "Old TVs, computers & electronics taking up space? Live Junk Free safely removes & recycles e-waste removal services across the GTA. Same-day available. Call +1 647 922 5865!",
+  "canonical": "https://livejunkfree.ca/locations/komal/",
+  "robots": "follow, noindex",
+  "ogImage": "/images/uploads/2026/07/E-Waste-Removal-Service.jpeg"
+ },
+ "title": "Komal",
+ "h1": "Locally Trusted – 5-Star Rated E-Waste Removal Service!",
+ "published": "2026-07-24T07:17:38",
+ "modified": "2026-07-24T07:17:38",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Locally Trusted – 5-Star Rated E-Waste Removal Service!"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We’re the Top Choice for Electronics Recycling."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "/contact/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Trusted by people of the Greater Toronto"
+      },
+      {
+       "title": "Insured, uniformed, and respectful crew"
+      },
+      {
+       "title": "Rated 5.0 on Google by 780+ customers"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "text": "TRUSTED ACROSS THE CITY"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "★★★★★ 660+ Five-Star Google Reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Oshawa Homes Have Kept Us Busy for Years — and Kept Rating Us Five Stars"
+    },
+    {
+     "t": "p",
+     "c": [
+      "From the postwar bungalows of central Oshawa to family streets in Donevan and Pinecrest and the new builds up in Windfields, our trucks are a familiar sight across the city. The 660+ five-star Google reviews behind Live Junk Free come from Oshawa homeowners who got what they were promised: punctual crews, honest flat quotes, careful hands on the staircase, and a clean sweep before we pull away."
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/DSC08963-scaled-1-1024x683-3.webp",
+      "alt": "DSC08963 scaled 1 1024x683 3",
+      "width": 800,
+      "height": 534
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "text": "WHY CHOOSE US"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Six Reasons Oshawa Calls Us Instead of Waiting for Collection Day"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "Truck space is the price tag — full stop",
+       "text": [
+        [
+         "Everything you’re tossing gets measured against the truck: a fraction of the box costs a fraction of the price. Weight doesn’t matter. Stairs don’t matter. How long it takes doesn’t matter. And no Oshawa postal code pays more than any other."
+        ]
+       ]
+      },
+      {
+       "n": "02",
+       "title": "Quotes are given standing in front of your junk",
+       "text": [
+        [
+         "Not over the phone, not from photos, not from a form. A crew member looks at the actual pile — including the part of it you forgot to mention — and hands you one flat number. It’s free, it’s firm, and you’re welcome to say no."
+        ]
+       ]
+      },
+      {
+       "n": "03",
+       "title": "Everything's inside the number",
+       "text": [
+        [
+         "The carry, the load, the drive, the disposal fees, the fuel — one figure covers the lot. Approve it and it’s frozen; nothing discovered mid-job, from a heavier-than-expected dresser to a second trip downstairs, can nudge it upward."
+        ]
+       ]
+      },
+      {
+       "n": "04",
+       "title": "Your house is treated like it's still for sale",
+       "text": [
+        [
+         "Runner mats on the floors, pads on the corners, furniture taken apart before it’s ever forced through a doorframe. Whether it’s a 1950s bungalow with narrow halls or a brand-new build with untouched trim, our movers leave zero evidence they were there — except the missing junk."
+        ]
+       ]
+      },
+      {
+       "n": "05",
+       "title": "Pressure isn't part of the service",
+       "text": [
+        [
+         "You get the quote; you make the call. Yes means the truck gets loaded right then. No means we thank you for your time and leave — no fee, no deposit, no callback campaign. Quotes don’t expire, so “later” works too."
+        ]
+       ]
+      },
+      {
+       "n": "06",
+       "title": "Independent means 30–50% cheaper",
+       "text": [
+        [
+         "The famous junk brands are franchises, and franchise royalties ride along in every quote they give. We’re locally owned with no such overhead — the biggest single reason Oshawa homeowners pay us 30–50% less for the same truckload."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "text": "PRICING"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Junk Removal Pricing for Oshawa Homes, Minus the Guesswork"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "Volume Decides. You Approve. That's It."
+    },
+    {
+     "t": "p",
+     "c": [
+      "Small pickups start at {{cad_125}}, one-item jobs stay cheap because they barely dent the truck, and bigger clears scale in plain sight. Every figure is settled at your door before work starts — no hourly clocks, no weight scales, no “it turned out to be more than we thought” phone calls. Book the free quote; keep the number or don’t."
+     ]
+    },
+    {
+     "t": "checks",
+     "items": [
+      "Local Expertise",
+      "Wide Service Area"
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now +1 647 922 5865",
+       "href": "tel:+16479225865"
+      }
+     ]
+    },
+    {
+     "t": "price",
+     "label": "Small Pickups Start At",
+     "value": "{{cad_125}}"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Priced by truck volume only — stairs, weight & awkward items included, never extra."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get Your Free Quote",
+       "href": "/contact/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "text": "HOW IT WORKS"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Four Steps From Cluttered to Cleared in Oshawa"
+    },
+    {
+     "t": "p",
+     "c": [
+      "No calendars to check, no limits to count. Just this:"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "Pick Your Window",
+       "text": [
+        [
+         " Call +1 647 922 5865 or book online — it takes about two minutes. Trucks run across Oshawa seven days a week, 6AM to 11PM, with same-day slots most mornings and a 30-minute heads-up text before we knock. "
+        ]
+       ]
+      },
+      {
+       "n": "02",
+       "title": "Point It Out",
+       "text": [
+        [
+         " Walk the crew past everything that’s leaving — the bedroom set, the garage shelf, the freezer in the basement. One flat, all-in quote lands in your hand. No obligation attached to it. "
+        ]
+       ]
+      },
+      {
+       "n": "03",
+       "title": "Let the Crew Work",
+       "text": [
+        [
+         " On your go, it all starts moving: down the stairs, out the side door, onto the truck. Floors protected, corners padded, oversized pieces dismantled — and none of it lifted by you. "
+        ]
+       ]
+      },
+      {
+       "n": "04",
+       "title": "Clean Exit, Conscious Disposal",
+       "text": [
+        [
+         " The space gets swept, the truck gets sorted: donation partners take the usable, recyclers take metals and electronics, and landfill gets last call only. You get your room back — and your Saturday. "
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "text": "OUR SERVICES"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What We Haul Out of Oshawa Homes Every Week"
+    },
+    {
+     "t": "p",
+     "c": [
+      "The city truck takes bags and bins. We take everything else — the big, the heavy, the awkward and the “how did we even get this down here.” From every kind of Oshawa home:"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Furniture Pickup in Oshawa"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Couches, sectionals and sleeper sofas"
+      ],
+      [
+       "Mattresses, box springs and complete bed sets"
+      ],
+      [
+       "Dressers, armoires and mirrored wardrobes"
+      ],
+      [
+       "Kitchen tables, chair sets and china cabinets"
+      ],
+      [
+       "Recliners, rockers and the chair nobody's allowed to throw out — until now"
+      ],
+      [
+       "Desks, bookcases and home office castoffs"
+      ],
+      [
+       "Patio sets, gazebos and deck furniture"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Appliance Pickup in Oshawa"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Fridges and freezers — including basement and garage units"
+      ],
+      [
+       "Washers and dryers, stacked or side-by-side"
+      ],
+      [
+       "Stoves, ovens and cooktops"
+      ],
+      [
+       "Dishwashers, microwaves and window AC units"
+      ],
+      [
+       "Drained hot water tanks and water softeners"
+      ],
+      [
+       "The dead beer fridge that outlived three TVs"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Room-by-Room Clearing in Oshawa"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Garage clear-outs — parking spot restoration a specialty"
+      ],
+      [
+       "Basement and rec room resets"
+      ],
+      [
+       "Attic, closet and spare room decluttering"
+      ],
+      [
+       "Shed and backyard structure emptying"
+      ],
+      [
+       "Yard pickups — swing sets, trampolines, fencing, lumber"
+      ],
+      [
+       "Post-move sweeps of whatever the movers left behind"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The Big, Odd and Curb-Rejected in Oshawa"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Hot tubs — drained, cut down and hauled off"
+      ],
+      [
+       "Pianos, organs and pool tables"
+      ],
+      [
+       "Treadmills, home gyms and weight benches"
+      ],
+      [
+       "TVs, monitors, towers and bins of e-waste"
+      ],
+      [
+       "Carpet rolls, old flooring and light demo debris"
+      ],
+      [
+       "BBQs, mowers, snowblowers and scrap metal"
+      ],
+      [
+       "Bed-bug-affected furniture — sealed on site and removed discreetly"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "text": "SERVICE AREA"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "All Areas We Serve in & Around Oshawa"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our residential trucks run daily routes through every Oshawa neighbourhood and across Durham Region and the GTA:"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "a": "/locations/toronto/",
+         "c": [
+          "Ajax"
+         ]
+        },
+        " • Aurora • Bolton • Bradford • Brampton • Caledon • East Gwillimbury • Etobicoke • Georgina • KingCity"
+       ]
+      },
+      {
+       "br": 1
+      },
+      {
+       "b": [
+        "• Markham • Mississauga • Newmarket • Nobleton • Oshawa • Port Perry • Pickering • Richmond Hill • Scarborough • Schomberg • Toronto • Uxbridge • Vaughan • Woodbridge • Whitby • Whitchurch-Stouffville"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now — +1 647 922 5865",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "text": "— RECENT REVIEWS —"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Read What Our Past Customers Say"
+    },
+    {
+     "t": "h",
+     "l": 4,
+     "text": "★★★★★"
+    },
+    {
+     "t": "p",
+     "c": [
+      "660+ five-star Google reviews from homeowners across Oshawa and the GTA."
+     ]
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "eyebrow",
+     "text": "FAQ"
+    },
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions About Residential Junk Removal in Oshawa, ON"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "How is the price calculated for junk removal in Oshawa?",
+       "a": [
+        [
+         "One input: the space your items take up in our truck. Loads start at $125 at the small end, and your exact figure is quoted free, in person, before anything is lifted. Weight, stairs, time and item type never factor in — and the approved number never changes."
+        ]
+       ]
+      },
+      {
+       "q": "Why not just put it out for city collection?",
+       "a": [
+        [
+         "For bags and small items, absolutely do. But bulky pickups come with calendars, item rules and curb deadlines — and plenty of things aren’t accepted at all. We exist for the rest of it: everything at once, from inside the house, on the day you choose."
+        ]
+       ]
+      },
+      {
+       "q": "Can you really come the same day I call?",
+       "a": [
+        [
+         "Very often, yes. Oshawa trucks run seven days a week, 6AM to 11PM, and morning calls regularly turn into afternoon pickups. Dial +1 647 922 5865 and we’ll give you today’s honest availability."
+        ]
+       ]
+      },
+      {
+       "q": "Do I need to haul anything outside beforehand?",
+       "a": [
+        [
+         "No — leave everything exactly where it is. Basements, upstairs bedrooms, garages, backyard sheds: the carrying is the core of what you’re paying for, and it comes with floor runners, corner pads and careful hands included."
+        ]
+       ]
+      },
+      {
+       "q": "Is one mattress or one couch too small to book?",
+       "a": [
+        [
+         "Never. Single items are priced as the sliver of truck space they use, with no minimum charge inflating the bill. A large share of our Oshawa route sheet is exactly these jobs."
+        ]
+       ]
+      },
+      {
+       "q": "What happens to my old furniture and appliances?",
+       "a": [
+        [
+         "They get sorted, not dumped. Usable pieces go to donation partners, metals and electronics to licensed recyclers, and only the true remainder reaches landfill. If you’re curious where something ended up, ask — we’ll tell you."
+        ]
+       ]
+      },
+      {
+       "q": "Local company or national franchise?",
+       "a": [
+        [
+         "Fully local — owned and operated here, no franchise, no royalties buried in the quote. That’s precisely why our Oshawa rates come in 30–50% under the big-name chains for the identical job."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

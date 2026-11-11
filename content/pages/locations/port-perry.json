@@ -1,0 +1,669 @@
+{
+ "id": 14561,
+ "kind": "page",
+ "path": "/locations/port-perry/",
+ "type": "location-town",
+ "template": "TownHub",
+ "seo": {
+  "title": "Junk Removal Port Perry | Same-Day Junk Removal Services",
+  "description": "Need junk removal in Port Perry, ON? We provide fast, affordable, and professional junk hauling, estate cleanouts, cottage cleanouts, and commercial junk removal services.",
+  "canonical": "https://livejunkfree.ca/locations/port-perry/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Bolton-1.png"
+ },
+ "title": "Port Perry",
+ "h1": "Junk Removal Services in Port Perry, Ontario — Local Experts, Fair Pricing, Fast Results",
+ "published": "2026-06-01T13:59:58",
+ "modified": "2026-06-01T14:12:13",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "checks",
+     "items": [
+      "Our Service Areas"
+     ]
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Junk Removal Services in Port Perry, Ontario — Local Experts, Fair Pricing, Fast Results"
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Frame-1000005909-1.png",
+      "alt": "Frame 1000005909 1",
+      "width": 800,
+      "height": 65
+     }
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "a": "/",
+       "c": [
+        "Live Junk Free "
+       ]
+      },
+      "is Port Perry’s trusted junk removal service. We are local experts who know this area — from the historic downtown Port Perry streets to the rural roads of Scugog Township, from the lakefront properties along Lake Scugog to the rural homes and farms across Blackstock, Caesarea, Prince Albert and beyond. We come to your property, assess everything in person, give you a completely free on-site estimate before we move a single item, and deliver fast, clean results the same day you call."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Call Now",
+       "href": "tel:+16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "marquee",
+     "items": [
+      "House Cleanouts",
+      "Fence Removal",
+      "Shed Demolition",
+      "Yard Waste",
+      "Retail Cleanout",
+      "Wall Demolition",
+      "Deck Demolition"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-2.png",
+      "alt": "Background 2",
+      "width": 590,
+      "height": 500
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-3.png",
+      "alt": "Background 3",
+      "width": 590,
+      "height": 500
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Across Port Perry and Scugog — We're the Team People Recommend"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "In a community like Port Perry, reputation travels fast — through the local coffee shops on Queen Street, across the docks at Lake Scugog, between neighbours in Blackstock and Caesarea, and through the tight networks of Scugog Township's rural communities. The fact that Live Junk Free has become the team Port Perry and Scugog people consistently recommend to one another isn't something we advertise — it's something we've earned, one job and one satisfied customer at a time."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "We come to you and quote in person — always",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "No phone estimates. No online calculators. We physically visit your Port Perry or Scugog property, walk through every area you need cleared, and calculate your price based on what we actually see — not what we assume."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "02",
+       "title": "Volume-based pricing — fair for every property type",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Whether you're clearing a small room in a Port Perry townhouse or a full rural property in Blackstock — you pay based on how much space your junk fills in our truck. Nothing else. Your property size, your neighbourhood and your postcode never affect your rate."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "03",
+       "title": "One flat all-inclusive number — labour, truck, fuel, disposal",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "All of it in one number. No line items discovered after the fact. No \"disposal surcharge\" added at checkout. No \"travel fee\" for properties outside the town core. One number. Complete."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "04",
+       "title": "No heavy lifting for you — ever",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "From the moment you approve the quote, our crew handles every physical aspect of the job. We carry items from every floor, every room, every corner of your property. You do not lift, move, sort or carry a single item. Not one."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "05",
+       "title": "No stress — we manage the entire process",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Booking is simple. Our arrival is on time. Our crew is professional and courteous. Our process is clean and efficient. And when we leave, your space is clear and swept. No mess. No chaos. No follow-up phone calls about surprises."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "06",
+       "title": "You approve the price before we start — guaranteed",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The quote we hand you on-site is the final number. Once you approve it, it is locked. It does not change because the job took longer than expected. It does not gain extra charges. What you agreed to is what you pay — no exceptions, no negotiations after the fact."
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "No Hidden Fees, No Heavy Lifting, No Stress — That's Our Promise"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Fair Quotes, No Hourly Games"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Port Perry homeowners and businesses deserve junk removal without hidden fees, heavy lifting, or unnecessary stress. At Live Junk Free, our pricing starts at just {{cad_125}} for small loads, with transparent quotes and full-service removal. Get your free Port Perry junk removal estimate today."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Wide Service Area"
+      },
+      {
+       "title": "Local Expertise"
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-4.png",
+      "alt": "Background 4",
+      "width": 458,
+      "height": 237
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "From a Single Couch to a Full Property Cleanout — We've Got It Covered"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Whether you need one item removed or an entire property cleared — our process in Port Perry works exactly the same way: simple booking, on-time arrival, free on-site estimate, complete removal and a clean finish. Here's our full 4-step junk removal process in Port Perry and Scugog Township, Ontario:"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Book Your Port Perry Junk Removal",
+       "text": [
+        "Call +1 647 922 5865 or book online in minutes. Let us know your location and what needs removal, and we'll schedule a same-day or next-day appointment with a convenient arrival notice."
+       ]
+      },
+      {
+       "title": "Get a Free Upfront Estimate",
+       "text": [
+        "Our professional crew arrives on time, assesses everything that needs to be removed, and provides a clear, all-inclusive quote. No hidden fees and no obligation to proceed."
+       ]
+      },
+      {
+       "title": "We Handle All the Work",
+       "text": [
+        "Once approved, our team removes everything from furniture and appliances to estate contents, renovation debris, office furniture, and yard waste. You won't need to lift, sort, or move anything."
+       ]
+      },
+      {
+       "title": "Clean-Up & Responsible Disposal",
+       "text": [
+        "After the job is complete, we perform a final walkthrough, sweep the area, and leave your property clean. Usable items are donated, recyclable materials are processed properly, and landfill waste is kept to a minimum."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Residential, Commercial & Property Cleanouts — Port Perry's Go-To Junk Removal Company"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Port Perry and Scugog Township cover a remarkable range of property types — lakefront cottages and waterfront homes along Lake Scugog, established residential neighbourhoods in Port Perry's town core, rural farms and acreage properties across Scugog Township, and a growing local business and commercial community. Live Junk Free is Port Perry's go-to junk removal company because we serve every single one of these property types with the same professional standard, fair pricing and fast results — no matter the size, no matter the location."
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Cottage & Lakefront Property Junk Removal in Port Perry",
+       "a": [
+        [
+         "Lake Scugog is one of the most active cottage and recreational property communities in Durham Region — and seasonal cleanouts, waterfront property clearing and cottage estate cleanouts are among our most requested Port Perry services."
+        ],
+        [
+         "Cottage cleanout Port Perry — full seasonal or year-round cottage clearing"
+        ],
+        [
+         "Lakefront property cleanout Port Perry — waterfront access, dock areas, boathouses"
+        ],
+        [
+         "Lake Scugog cottage junk removal"
+        ],
+        [
+         "Seasonal property cleanout Port Perry — pre and post-season clearing"
+        ],
+        [
+         "Cottage estate cleanout Port Perry — full waterfront property clearing"
+        ],
+        [
+         "Dock and boathouse cleanout Port Perry"
+        ],
+        [
+         "Outdoor and dock furniture removal Port Perry"
+        ],
+        [
+         "Watercraft accessory removal Port Perry"
+        ],
+        [
+         "Caesarea cottage cleanout"
+        ],
+        [
+         "Seagrave lakefront property cleanout"
+        ]
+       ]
+      },
+      {
+       "q": "Residential Junk Removal in Port Perry",
+       "a": [
+        [
+         "Complete residential junk removal for every home type across Port Perry and Scugog Township."
+        ],
+        [
+         "Furniture removal Port Perry — sofas, beds, dressers, dining sets, tables, chairs"
+        ],
+        [
+         "Appliance removal Port Perry — fridges, washers, dryers, stoves, dishwashers"
+        ],
+        [
+         "Garage cleanout Port Perry — tools, seasonal storage, accumulated clutter, bikes"
+        ],
+        [
+         "Basement cleanout Port Perry — deep storage, old furniture, e-waste, boxes"
+        ],
+        [
+         "Attic cleanout Port Perry"
+        ],
+        [
+         "Mattress removal Port Perry"
+        ],
+        [
+         "Hot tub and spa removal Port Perry"
+        ],
+        [
+         "Exercise equipment removal Port Perry"
+        ],
+        [
+         "Yard waste removal Port Perry — branches, outdoor furniture, patio clutter"
+        ],
+        [
+         "Estate cleanout Port Perry — full property clearing, handled with care and sensitivity"
+        ],
+        [
+         "Senior home cleanout Port Perry — compassionate, patient, stress-free service"
+        ],
+        [
+         "Hoarding cleanout Port Perry — non-judgmental, discreet, thorough"
+        ],
+        [
+         "Move-in / move-out junk removal Port Perry"
+        ],
+        [
+         "E-waste and electronics removal Port Perry"
+        ]
+       ]
+      },
+      {
+       "q": "Rural & Farm Property Junk Removal in Scugog Township",
+       "a": [
+        [
+         "Scugog Township’s rural properties — across Blackstock, Prince Albert, Utica and the surrounding farmland — require a junk removal team with the equipment and experience to handle large rural jobs properly."
+        ],
+        [
+         "Farm cleanout Scugog Township — barns, outbuildings, equipment sheds"
+        ],
+        [
+         "Rural property junk removal Port Perry — large lot clearing, accumulated debris"
+        ],
+        [
+         "Barn cleanout Scugog Township"
+        ],
+        [
+         "Old farm equipment removal Scugog"
+        ],
+        [
+         "Scrap metal removal Port Perry Ontario"
+        ],
+        [
+         "Shed demolition and removal Port Perry"
+        ],
+        [
+         "Large debris removal Scugog rural properties"
+        ],
+        [
+         "Fence removal Port Perry"
+        ]
+       ]
+      },
+      {
+       "q": "Commercial Junk Removal in Port Perry",
+       "a": [
+        [
+         "Port Perry’s growing local business community along Queen Street, Water Street and across the commercial corridor trusts Live Junk Free for fast, professional commercial cleanouts."
+        ],
+        [
+         "Office furniture removal Port Perry"
+        ],
+        [
+         "Commercial junk removal Port Perry Ontario"
+        ],
+        [
+         "Retail store cleanout Port Perry"
+        ],
+        [
+         "Restaurant equipment removal Port Perry"
+        ],
+        [
+         "Office cleanout and decommission Port Perry"
+        ],
+        [
+         "Warehouse cleanout Port Perry"
+        ],
+        [
+         "Landlord junk removal Port Perry — tenant turnover, abandoned items"
+        ],
+        [
+         "Property management junk removal Port Perry"
+        ],
+        [
+         {
+          "b": [
+           "Demolition & Removal Services in Port Perry"
+          ]
+         }
+        ],
+        [
+         "Shed demolition Port Perry ON"
+        ],
+        [
+         "Deck demolition and removal Port Perry"
+        ],
+        [
+         "Fence removal Port Perry"
+        ],
+        [
+         "Hot tub demolition Port Perry"
+        ],
+        [
+         "Above ground pool demolition Port Perry"
+        ],
+        [
+         "Playset and swing set demolition Port Perry"
+        ],
+        [
+         "Barn structure demolition Scugog Township"
+        ],
+        [
+         "Gazebo removal Port Perry"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "All Areas We Serve in & Around Port Perry"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We serve every Port Perry and Scugog Township community plus surrounding Durham Region areas:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ]
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "- Recent Reviews -"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Read what our past customers say"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions About Junk Removal in Port Perry, ON"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Q: How much does junk removal cost in Port Perry, Ontario?",
+       "a": [
+        [
+         "A: Our Port Perry junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour. There are no hidden fees, no rural surcharges and no travel premiums for properties across Scugog Township. Prices start at $125 for small loads. We provide a free on-site estimate before any work begins — the price you approve is the price you pay, guaranteed."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you offer same-day junk removal in Port Perry?",
+       "a": [
+        [
+         "A: Yes — same-day junk removal is available across all of Port Perry and Scugog Township including Blackstock, Caesarea, Prince Albert, Seagrave and surrounding Durham Region communities. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you handle cottage and lakefront property cleanouts on Lake Scugog?",
+       "a": [
+        [
+         "A: Absolutely — Lake Scugog cottage cleanouts and lakefront property clearing are one of our most popular services in Port Perry. We handle full seasonal cleanouts, pre-listing property clearing, boathouse and dock area removal, and complete cottage estate clearances — with experience in waterfront access and the unique needs of seasonal properties."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you serve rural properties across Scugog Township?",
+       "a": [
+        [
+         "A: Yes — we serve every rural property across Scugog Township including Blackstock, Prince Albert, Utica, Seagrave and Nestleton Station — with the same pricing and professionalism as any other job. No rural surcharges, no distance premiums, no refusals based on location."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "id": 872,
+ "kind": "page",
+ "path": "/locations/",
+ "type": "core",
+ "template": "Core",
+ "seo": {
+  "title": "Find Live Junk Free Locations for Junk Removal Services",
+  "description": "Discover Live Junk Free locations offering professional junk removal services. Our team is ready to provide fast and eco-friendly solutions near you.",
+  "canonical": "https://livejunkfree.ca/locations/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2025/12/Compassionate-and-Discreet-Hoarding-Cleanouts-by-Live-Junk-Free.jpeg"
+ },
+ "title": "Locations",
+ "h1": "Service Areas",
+ "published": "2024-05-15T06:19:43",
+ "modified": "2026-07-06T01:54:38",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Service Areas"
+    },
+    {
+     "t": "p",
+     "c": [
+      "No matter where you reside in the vast expanse of Canada, our team of junk removal experts has your back everywhere, you can check out our ",
+      {
+       "a": "/locations/",
+       "c": [
+        "service areas here"
+       ]
+      },
+      ". We have been operating in nearly every prominent site over the years with our ",
+      {
+       "a": "/services/junk-demolition-services/",
+       "c": [
+        "eco-friendly demolition"
+       ]
+      },
+      ", ",
+      {
+       "a": "/services/junk-cleanout-services/",
+       "c": [
+        "cleanouts"
+       ]
+      },
+      ", home and ",
+      {
+       "b": [
+        "office cleanout services "
+       ]
+      },
+      "and unmatched commitment to maintaining the realm’s appealing splendour. Consequently, we have developed numerous amicable and reliable connections with a significant segment of the populace and hope to continue building more."
+     ]
+    },
+    {
+     "t": "map"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Service Areas"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "a": "/locations/ajax/",
+        "c": [
+         "Ajax"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/aurora/",
+        "c": [
+         "Aurora"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/bolton/",
+        "c": [
+         "Bolton"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/bradford/",
+        "c": [
+         "Bradford"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/brampton/",
+        "c": [
+         "Brampton"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/caledon/",
+        "c": [
+         "Caledon"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/east-gwillimbury/",
+        "c": [
+         "East Gwillimbury"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/etobicoke/",
+        "c": [
+         "Etobicoke"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/georgina/",
+        "c": [
+         "Georgina"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/king-city/",
+        "c": [
+         "King City"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/markham/",
+        "c": [
+         "Markham"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/mississauga/",
+        "c": [
+         "Mississauga"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/new-market/",
+        "c": [
+         "Newmarket"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/nobleton/",
+        "c": [
+         "Nobleton"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/oshawa/",
+        "c": [
+         "Oshawa"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/port-perry/",
+        "c": [
+         "Port Perry"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/pickering/",
+        "c": [
+         "Pickering"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/richmond-hill/",
+        "c": [
+         "Richmond Hill"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/scarborough/",
+        "c": [
+         "Scarborough"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/schomberg/",
+        "c": [
+         "Schomberg"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/toronto/",
+        "c": [
+         "Toronto"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/uxbridge/",
+        "c": [
+         "Uxbridge"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/vaughan/",
+        "c": [
+         "Vaughan"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/woodbridge/",
+        "c": [
+         "Woodbridge"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/whitby/",
+        "c": [
+         "Whitby"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/whitchurch-stouffville/",
+        "c": [
+         "Whitchurch Stouffville"
+        ]
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

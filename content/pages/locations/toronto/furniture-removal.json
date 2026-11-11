@@ -1,0 +1,846 @@
+{
+ "id": 16567,
+ "kind": "page",
+ "path": "/locations/toronto/furniture-removal/",
+ "type": "location-service",
+ "template": "LocationService",
+ "seo": {
+  "title": "Furniture Removal Toronto | Same-Day Pickup | Live Junk Free",
+  "description": "Need furniture removal in Toronto? Live Junk Free picks up sofas, mattresses, bed frames & more — same day, no hidden fees. Get your free quote today.",
+  "canonical": "https://livejunkfree.ca/locations/toronto/furniture-removal/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+ },
+ "title": "furniture-removal",
+ "h1": "Furniture Removal in Toronto — Fast, Friendly & Stress-Free",
+ "published": "2026-07-12T03:47:04",
+ "modified": "2026-07-12T03:47:04",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Furniture Removal in Toronto — Fast, Friendly & Stress-Free"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "That old sectional isn't going to move itself — and it really shouldn't have to be your problem."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Trusted by people of the Greater Toronto Area"
+      },
+      {
+       "title": "Insured, uniformed, and respectful crew"
+      },
+      {
+       "title": "Rated 5.0 on Google by 780+ customers"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Removing Old Furniture in Toronto Doesn’t Have to Be Complicated"
+    },
+    {
+     "t": "p",
+     "c": [
+      "There’s a moment most Toronto homeowners know well — you’ve finally decided that old couch has to go, but then you realize: ",
+      {
+       "i": [
+        "how exactly does this happen?"
+       ]
+      },
+      " It won’t fit in your car. The city won’t take it on garbage day. And you definitely don’t want it sitting on the curb indefinitely."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "That’s exactly the kind of problem our ",
+      {
+       "b": [
+        "furniture removal service in Toronto"
+       ]
+      },
+      " was built to solve."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "At ",
+      {
+       "a": "/",
+       "c": [
+        "Live Junk Free"
+       ]
+      },
+      ", we’ve helped thousands of Toronto residents clear out everything from single pieces to entire room overhauls. Whether you’re downsizing a condo in Liberty Village, clearing out a house in Scarborough after an estate, or simply refreshing a spare bedroom in North York — we handle the heavy lifting so you don’t have to."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We’re a local Toronto team, not a national call centre. When you book with us, you’re talking to people who actually know the city, know its neighbourhoods, and show up when they say they will. No runaround, no surprises on your invoice, no mystery fees."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "If you need furniture picked up in Toronto, we’re the team to call."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Your Service Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
+      "alt": "DSC08963",
+      "width": 800,
+      "height": 534
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Toronto Homeowners Trust Live Junk Free"
+    },
+    {
+     "t": "p",
+     "c": [
+      "There’s no shortage of options when it comes to ",
+      {
+       "a": "/locations/toronto/",
+       "c": [
+        {
+         "b": [
+          "junk removal in Toronto"
+         ]
+        }
+       ]
+      },
+      " — so what makes us different? Honestly, it comes down to a few things that matter most to the people we work with every day."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "We respect your time."
+       ]
+      },
+      " You’ll get a confirmed arrival window, not a six-hour guessing game. Our team shows up, gets the job done, and gets out of your way. Toronto’s busy — we know you have better things to do."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "No hidden fees, ever."
+       ]
+      },
+      " Before we move a single item, you’ll know exactly what it costs. Our quotes are based on truck space used, given upfront, and locked in. What we quote is what you pay."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "We do all the heavy lifting — literally."
+       ]
+      },
+      " From the second floor of a Leslieville townhouse to a basement storage room in Etobicoke, our crew brings the muscle, the equipment, and the experience to remove furniture safely without damaging your walls, floors, or doorframes."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "We’re environmentally responsible."
+       ]
+      },
+      " Not everything you’re done with needs to go to a landfill. We actively donate usable furniture to local Toronto organizations and recycle what we can. You can feel good about clearing out your space."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "We’re genuinely local."
+       ]
+      },
+      " We operate in Toronto and surrounding areas — we’re not a franchise dispatched from a call centre. When you call us, you get a local team that’s accountable to this community."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What We Remove — Furniture Pickup in Toronto, Big or Small"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Whether it’s one oversized item or an entire apartment’s worth of pieces, our ",
+      {
+       "b": [
+        "furniture removal service in Toronto"
+       ]
+      },
+      " covers it all. Here’s a breakdown of what we commonly handle:"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Sofa & Couch Removal"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Sofas are one of the trickiest items to dispose of on your own — too heavy to carry alone, too bulky for most vehicles. We remove couches, sectionals, loveseats, and pullout sofa beds from any room in your home, including tight stairwells and narrow condo hallways."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Bedroom Furniture Removal"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Bed frames, box springs, mattresses, dressers, armoires, nightstands — we remove it all. Mattress disposal in particular is something many people struggle with, since the city of Toronto has specific rules around curbside pickup. We handle it the right way."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Dining Room & Living Room Sets"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Clearing out a full room? No problem. We remove dining tables, chairs, sideboards, china cabinets, bookshelves, entertainment units, and TV stands. If you’re renovating or staging your home for sale, we can clear a space quickly and efficiently."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Office Furniture Disposal"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Toronto businesses, landlords, and home offices all eventually need old desks, chairs, filing cabinets, and shelving gone. We work with both residential and small commercial clients across the city."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Old Appliances & Miscellaneous Items"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Beyond traditional furniture, we also remove old appliances, exercise equipment, outdoor patio sets, and more. If it’s bulky, heavy, or just taking up space — we’ll take it."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Estate & Cleanout Services"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Going through a loved one’s home or clearing out a rental property? We approach estate cleanouts with care and efficiency. We work at your pace and can handle large volumes of furniture in a single visit."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Benefits of Choosing Live Junk Free for Furniture Removal"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Flexible Scheduling",
+       "text": [
+        "We handle all the lifting, hauling, and disposal – no struggling with heavy TVs or rental trucks"
+       ]
+      },
+      {
+       "title": "All-Inclusive Pricing",
+       "text": [
+        "Your upfront quote covers everything: labor, hauling, and disposal with no surprise fees"
+       ]
+      },
+      {
+       "title": "Eco-Friendly Disposal",
+       "text": [
+        "We recycle materials and donate usable furniture to local charities"
+       ]
+      },
+      {
+       "title": "Damage-Free Guarantee",
+       "text": [
+        "We protect your home during removal with padding and careful handling"
+       ]
+      },
+      {
+       "title": "Bulk Removal Options",
+       "text": [
+        "Special rates when clearing multiple pieces of furniture"
+       ]
+      },
+      {
+       "title": "Stress-Free Pickup Service",
+       "text": [
+        "We handle lifting, loading, and hauling so you don’t have to move a thing."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Transparent Furniture Removal Pricing in Toronto"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We believe pricing should never be a guessing game. Our furniture disposal costs in Toronto are based on the volume of space your items take up in our truck — not a per-item rate that can add up fast."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "What affects the price:"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Number of items and their size"
+      ],
+      [
+       "How much truck space is required"
+      ],
+      [
+       "Whether items need to be carried from an upper floor or difficult location"
+      ],
+      [
+       "Any special handling requirements"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Typical scenarios:"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "A single sofa or mattress removal is usually among the most affordable options"
+      ],
+      [
+       "A bedroom set or living room clearout falls into a mid-range load"
+      ],
+      [
+       "Full apartment or estate cleanouts are larger loads with volume pricing"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We provide your quote upfront, on-site, before we begin — so you always know what you’re paying. No surprise charges once the truck is loaded.",
+      {
+       "br": 1
+      },
+      {
+       "br": 1
+      },
+      {
+       "b": [
+        "Looking for furniture removal near you in Toronto? Contact us for a free, no-obligation quote."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "We Remove ALL Types of Furniture!"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we pick up old, broken, or unwanted furniture from homes, condos, and businesses across Toronto — no item is too big, too heavy, or too awkward:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "b": [
+         "Sofas & Sectionals"
+        ]
+       },
+       " (loveseats, sleeper sofas, pull-out couches, recliners)"
+      ],
+      [
+       {
+        "b": [
+         "Mattresses & Bed Frames"
+        ]
+       },
+       " (single, double, queen, king — all sizes)"
+      ],
+      [
+       {
+        "b": [
+         "Bedroom Sets"
+        ]
+       },
+       " (dressers, armoires, nightstands, headboards)"
+      ],
+      [
+       {
+        "b": [
+         "Dining Room Furniture"
+        ]
+       },
+       " (tables, chairs, china cabinets, sideboards)"
+      ],
+      [
+       {
+        "b": [
+         "Living Room Pieces"
+        ]
+       },
+       " (coffee tables, bookshelves, entertainment units, TV stands)"
+      ],
+      [
+       {
+        "b": [
+         "Home Office Furniture"
+        ]
+       },
+       " (desks, office chairs, filing cabinets, shelving units)"
+      ],
+      [
+       {
+        "b": [
+         "Outdoor & Patio Furniture"
+        ]
+       },
+       " (garden sets, deck chairs, umbrellas, storage boxes)"
+      ],
+      [
+       {
+        "b": [
+         "Bulk Furniture Cleanouts"
+        ]
+       },
+       " (full rooms, estate clearances, rental property turnover)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How Our Toronto Furniture Removal Works"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Book Your Appointment",
+       "text": [
+        "Call us or use our quick online form. Tell us what needs to go and where you're in Toronto — we'll give you an upfront price right away. No commitment needed."
+       ]
+      },
+      {
+       "title": "Our Team Arrives On Time",
+       "text": [
+        "We call 30 minutes before showing up so you're never left waiting. Our crew arrives on schedule, confirms your quote on the spot, and gets straight to work."
+       ]
+      },
+      {
+       "title": "Furniture Removed Carefully",
+       "text": [
+        "We handle all the heavy lifting — protecting your floors, walls, and doorframes throughout. You just point, and we take care of the rest."
+       ]
+      },
+      {
+       "title": "Responsible Disposal, Every Time",
+       "text": [
+        "Usable pieces get donated to local Toronto charities. Everything else goes to certified recycling facilities. We keep as much out of landfill as possible."
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "See the Difference – Before & After Furniture Removal"
+    },
+    {
+     "t": "p",
+     "c": [
+      "From bulky, unwanted furniture to clean, open spaces – take a look at our real ",
+      {
+       "a": "/locations/toronto/couch-removal/",
+       "c": [
+        "couch removal"
+       ]
+      },
+      " projects."
+     ]
+    },
+    {
+     "t": "gallery",
+     "images": [
+      {
+       "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
+       "alt": "20250405_140825"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
+       "alt": "20250405_142357"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250405_142736-1024x577.webp",
+       "alt": "20250405_142736"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250405_144606-1024x577.webp",
+       "alt": "20250405_144606"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250611_115029-1024x577.webp",
+       "alt": "20250611_115029"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250611_201732-1024x577.webp",
+       "alt": "20250611_201732"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250530_110858-1024x577.webp",
+       "alt": "20250530_110858"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250526_193102-1024x577.webp",
+       "alt": "20250526_193102"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions About Furniture Removal in Toronto"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Q: Can you remove furniture from inside my home, or does it need to be at the curb?",
+       "a": [
+        [
+         "We come to wherever your furniture is — basement, second floor, spare bedroom, wherever. You don’t need to move anything to the curb or even outside the front door. Our crew handles all the carrying and loading."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you offer same-day furniture removal in Toronto?",
+       "a": [
+        [
+         "A: Yes, in many cases we can accommodate same-day or next-day pickups depending on our schedule and your location in the city. It’s worth calling us directly if you need a quick turnaround — we’ll let you know what’s available."
+        ]
+       ]
+      },
+      {
+       "q": "Q: What happens to my old furniture after you pick it up?",
+       "a": [
+        [
+         "A: We don’t send everything straight to a landfill. Furniture in good condition is donated to local organizations or families in need. Anything that can be recycled is processed responsibly. We only dispose of items that genuinely can’t be reused."
+        ]
+       ]
+      },
+      {
+       "q": "Q: How much does furniture removal cost in Toronto?",
+       "a": [
+        [
+         "A: Pricing depends on the volume of items you need removed. A single item like a couch or mattress is typically at the lower end, while full-room or estate cleanouts are larger jobs priced accordingly. We give you a firm quote before we start — no surprises."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Can you help with furniture removal for a condo in Toronto?",
+       "a": [
+        [
+         "A: Absolutely. Condos are one of our most common job types in Toronto. We work with building schedules, use service elevators, and navigate tight hallways and stairwells with care. Just let us know it’s a condo when you book so we can plan accordingly."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What People Say About Us"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Areas We Serve"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       {
+        "a": "/locations/east-gwillimbury/",
+        "c": [
+         "East Gwillimbury"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/etobicoke/",
+        "c": [
+         "Etobicoke"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/junk-removal-services-in-georgina/",
+        "c": [
+         "Georgina"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/wp-admin/setup-config.php",
+        "c": [
+         "King City"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/markham/",
+        "c": [
+         "Markham"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/mississauga/",
+        "c": [
+         "Mississauga"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/new-market/",
+        "c": [
+         "Newmarket"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/nobleton/",
+        "c": [
+         "Nobleton"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/oshawa/",
+        "c": [
+         "Oshawa"
+        ]
+       }
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ],
+      [
+       "Stouffville"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

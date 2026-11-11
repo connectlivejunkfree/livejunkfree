@@ -1,0 +1,587 @@
+{
+ "id": 17583,
+ "kind": "page",
+ "path": "/services/residential-junk-removal-services/stove-removal-services/",
+ "type": "service",
+ "template": "ItemRemoval",
+ "seo": {
+  "title": "Stove Removal Services - Live JunkFree",
+  "description": "Live Junk Free provides professional stove removal services throughout the Greater Toronto Area. Book your appliance pickup now for junk removal, eco-friendly recycling, and fast service.",
+  "canonical": "https://livejunkfree.ca/services/residential-junk-removal-services/stove-removal-services/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/07/stove-removal-services.jpeg"
+ },
+ "title": "Stove Removal Services",
+ "h1": "Fast & Easy Stove Removal – Same Day Service",
+ "published": "2026-07-17T11:13:28",
+ "modified": "2026-07-23T05:51:53",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Fast & Easy Stove Removal – Same Day Service"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "We are the best in the town."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Trusted by people of the Greater Toronto Area"
+      },
+      {
+       "title": "Insured, uniformed, and respectful crew"
+      },
+      {
+       "title": "Rated 5.0 on Google by 780+ customers"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Stove Removal Services"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Removing an old stove is easier than you might expect. At Live Junk Free, we provide a quick and reliable stove removal service for any type of cooking appliance – whether it’s a freestanding range, built-in oven, or commercial kitchen unit. We know how much valuable kitchen space an unused stove can occupy when it’s no longer working or needed. Our professional service lets you reclaim that space without any heavy lifting or complications on your part."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "The process is designed to be completely hassle-free. We begin with a free, no-obligation quote so you know exactly what to expect. Once you approve, our skilled team handles every detail: safely disconnecting gas, carefully removing the appliance from your kitchen, thoroughly cleaning the surrounding area, and ensuring proper disposal or recycling of all components. We make stove removal so efficient that most jobs are finished in under an hour."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Your Service Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/stove-removal-services-1024x765.jpeg",
+      "alt": "stove-removal-services",
+      "width": 800,
+      "height": 598
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Quick Stove Removal – Best Deal When You Book Now"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Removing an old stove doesn’t have to be a challenge. Our professional stove removal service starts at just {{cad_125}}, and we take care of everything for you. We’ll safely disconnect your gas or electric stove, carefully remove it from your kitchen, and haul it away – leaving your space completely clean and ready for your new appliance."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "With our experienced team handling the job, you can relax while we quickly and safely clear out your old stove. Before you know it, you’ll have a fresh, open kitchen space ready for renovation or your new cooking range. Affordable, hassle-free stove removal that fits your budget."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Ready to reclaim your kitchen space?"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "a": "/contact/",
+       "c": [
+        "Call us now"
+       ]
+      },
+      " at +1 647 922 5865 or book online at LiveJunkFree.ca"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What Makes Our Stove Removal Service Stand Out"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Removing an old stove is a major undertaking, which is why ",
+      {
+       "a": "/about/",
+       "c": [
+        "our professional appliance removal team"
+       ]
+      },
+      " specializes in making the process completely stress-free. When you choose Live Junk Free, you can trust us to handle every aspect of your stove removal from start to finish."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We understand that stove removal often needs to happen quickly – whether you’re renovating your kitchen, upgrading to a new model, or preparing a property for sale. That’s why we offer same-day and next-day removal services whenever possible, helping you reclaim your kitchen space without delay."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Attempting to remove a heavy stove yourself comes with significant risks that our professional team helps you avoid. The awkward weight and size of stoves can easily lead to back injuries or muscle strains during lifting. Our fully licensed and insured team eliminates all these risks while carefully protecting your kitchen throughout the entire removal process, giving you complete peace of mind."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our complete stove removal service includes:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Safe disconnection of gas or electrical lines by certified technicians"
+      ],
+      [
+       "Professional removal of all stove types (gas, electric, induction, commercial)"
+      ],
+      [
+       "Careful handling of heavy or built-in units"
+      ],
+      [
+       "Environmentally responsible disposal and recycling"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Choose Professional Stove Removal? Here's What Makes Us the Best Choice:"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Transparent Pricing",
+       "text": [
+        "Your upfront quote covers all labor, disposal fees, and cleanup with absolutely no hidden costs."
+       ]
+      },
+      {
+       "title": "Professional Equipment",
+       "text": [
+        "Our team arrives with appliance dollies, protective padding, and specialized tools to safely handle heavy ranges and built-in units."
+       ]
+      },
+      {
+       "title": "Eco-Friendly Solutions",
+       "text": [
+        "We ensure all materials including metals, glass, and components are properly recycled or donated according to environmental standards."
+       ]
+      },
+      {
+       "title": "Flexible Scheduling",
+       "text": [
+        "We work around your timeline with same-day, next-day, and weekend service options to fit your busy schedule."
+       ]
+      },
+      {
+       "title": "Expert Time Savings",
+       "text": [
+        "What might take you days of difficult work, our professionals typically complete in under 90 minutes"
+       ]
+      },
+      {
+       "title": "Bulk Removal Savings",
+       "text": [
+        "Special discounted rates available when removing multiple kitchen appliances together"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Stove Removal Made Easy – Here's How It Works"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our Stove Removal Service is So Efficient, You’ll Be Impressed!"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "We professionally remove stoves from any kitchen setup – cramped apartments, narrow galley kitchens, basement suites, and even commercial spaces. Our experienced team carefully extracts your stove without damaging floors, countertops, or walls."
+      ],
+      [
+       "From massive commercial ranges to compact built-in ovens, we handle them all with precision. We take care of all the heavy lifting, safe disconnection of gas or electrical lines, and eco-friendly disposal so you don’t need to risk injury. When we are finished, your kitchen space will be cleaner and more usable than before we arrived."
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Sustainable Stove Removal – Good for You, Better for the Planet",
+        {
+         "br": 1
+        }
+       ]
+      },
+      "At Live Junk Free, we prioritize environmentally responsible solutions:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Metal components properly recycled at certified facilities"
+      ],
+      [
+       "Gas lines safely purged and capped by licensed technicians"
+      ],
+      [
+       "Minimal landfill waste through careful dismantling"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "We believe in solutions that benefit both our customers and the planet."
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Honest Stove Removal Pricing"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Pay only for what we remove – no hidden fees"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Receive clear quotes before we begin work"
+      ],
+      [
+       "Free instant estimates by phone/text/online"
+      ],
+      [
+       "Discounted rates for multiple appliance removals"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Types of Stoves We Remove"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we specialize in removing all types of stoves:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Gas stoves (expert in how to remove gas stove)"
+      ],
+      [
+       "Electric ranges"
+      ],
+      [
+       "Built-in ovens (including remove oven door Frigidaire stove)"
+      ],
+      [
+       "Residential kitchen equipment"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Our Simple 4-Step Stove Removal Process"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Send Us Photos",
+       "text": [
+        "Text or email pictures of your stove, and we will provide a free quote within minutes."
+       ]
+      },
+      {
+       "title": "Get Your Price",
+       "text": [
+        "Receive transparent, upfront pricing with no hidden fees."
+       ]
+      },
+      {
+       "title": "Schedule Your Removal",
+       "text": [
+        "Choose same-day or next-day service that works for you - we come to your location."
+       ]
+      },
+      {
+       "title": "We Take Care of It All",
+       "text": [
+        "Our team safely removes your stove, cleans the area, and hauls it away - most jobs completed in under 90 minutes."
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Before & After Stove Removal Gallery"
+    },
+    {
+     "t": "p",
+     "c": [
+      "From outdated, space-hogging stoves to clean, functional kitchens – view our real stove removal projects in action."
+     ]
+    },
+    {
+     "t": "gallery",
+     "images": [
+      {
+       "src": "/images/uploads/2026/07/stove-removal-services-before-1024x572.jpeg",
+       "alt": "stove-removal-services"
+      },
+      {
+       "src": "/images/uploads/2026/07/stove-removal-services-after-1024x572.jpeg",
+       "alt": "stove-removal-services"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "FAQs – Stove Removal"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "1. Do you remove all types of stoves, including gas and electric?",
+       "a": [
+        [
+         "Yes! We remove all stove types – gas, electric, induction, and residential ranges. Our team handles every model safely and professionally, regardless of fuel type or size."
+        ]
+       ]
+      },
+      {
+       "q": "2. Will you disconnect my stove before removal?",
+       "a": [
+        [
+         "Absolutely. Our licensed technicians properly disconnect gas/electric lines and safely cap gas connections. You don’t need to do anything – we handle all disconnections professionally."
+        ]
+       ]
+      },
+      {
+       "q": "3. How much does stove removal cost?",
+       "a": [
+        [
+         "Our pricing depends on the stove type, location, and any required disconnections. We provide free, no-obligation quotes to give you accurate pricing for your specific situation. Contact us for details."
+        ]
+       ]
+      },
+      {
+       "q": "4. What areas do you serve for stove removal?",
+       "a": [
+        [
+         "We serve all of Toronto and the Greater Toronto Area, including North York, Scarborough, Mississauga, and Vaughan. Call to confirm service in your exact neighborhood."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What People Say About Us"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Areas We Serve"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ],
+      [
+       "Stouffville"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

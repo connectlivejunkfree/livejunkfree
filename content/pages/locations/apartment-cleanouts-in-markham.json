@@ -1,0 +1,548 @@
+{
+ "id": 16660,
+ "kind": "page",
+ "path": "/locations/apartment-cleanouts-in-markham/",
+ "type": "location-service",
+ "template": "LocationService",
+ "seo": {
+  "title": "Same-day Apartment Cleanout Services in Markham | Live Junk Free",
+  "description": "Markham’s trusted provider for apartment cleanouts. We offer same-day furniture and appliance removal, clutter cleanout, and tenant junk disposal. Call now!",
+  "canonical": "https://livejunkfree.ca/locations/apartment-cleanouts-in-markham/",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
+ },
+ "title": "apartment-cleanouts-in-markham",
+ "h1": "Apartment Cleanout Services in Markham, Ontario — Full Units Emptied, Elevators and All",
+ "published": "2026-07-13T08:28:18",
+ "modified": "2026-07-13T08:28:18",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "checks",
+     "items": [
+      "Our Service Areas"
+     ]
+    },
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Apartment Cleanout Services in Markham, Ontario — Full Units Emptied, Elevators and All"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Clearing an apartment isn’t like clearing a house — everything has to travel down a hallway, into an elevator you had to reserve, past a concierge with rules, and out through a loading dock on a schedule. We do this every week across Markham. Our fully insured crew meets you at the unit, quotes the whole cleanout free and in person, coordinates with your building’s requirements, and empties the apartment — often between your elevator booking’s start and end time."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "marquee",
+     "items": [
+      "House Cleanouts",
+      "Fence Removal",
+      "Shed Demolition",
+      "Yard Waste",
+      "Retail Cleanout",
+      "Wall Demolition",
+      "Deck Demolition"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-2.png",
+      "alt": "Background 2",
+      "width": 590,
+      "height": 500
+     }
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-3.png",
+      "alt": "Background 3",
+      "width": 590,
+      "height": 500
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "From Downtown Markham Towers to Thornhill Walk-Ups — We Know These Buildings"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Markham's rental and condo stock is as varied as the city itself: glass high-rises around Markham Centre, established buildings in Thornhill and Milliken, stacked towns in Cornell and Berczy, and basement apartments across every neighbourhood. Live Junk Free has cleaned out units in all of them — earning 660+ five-star Google reviews from owners, tenants, landlords and property managers who needed a unit empty by a deadline and got exactly that."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "Priced by what fills the truck — not the floor you live on",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "A studio's worth of furniture is a small load; a packed two-bedroom is a bigger one. That's the entire pricing logic. Being on the 24th floor, needing the freight elevator, or living at the far end of the hallway adds nothing to your bill."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "02",
+       "title": "We quote inside the unit, never over the phone",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Apartments hide their volume — closets, lockers, balconies, that storage cage in the parking garage. A phone guess would shortchange one of us. Instead, a crew member views the actual unit and everything going, then hands you one firm, free, no-obligation number."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "03",
+       "title": "One figure covers the entire operation",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Labour, hallway and elevator protection, loading, hauling, disposal fees, fuel — all inside the quote you approve. If the elevator runs slow or the couch needs dismantling to leave the unit, the price doesn't budge."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "04",
+       "title": "We work the way condo buildings require",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Elevator reservations, certificates of insurance for property management, floor and wall protection in common areas, loading dock time limits — we've handled every version of Markham condo logistics. Tell us your building's rules and we'll arrive ready to follow them, keeping you onside with the board and the concierge."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "05",
+       "title": "Approve first, pay what you approved",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The walkthrough and quote commit you to nothing. Green-light the number and the crew starts immediately; decline and we leave with a handshake, no fee. Once approved, the figure is frozen no matter how the job unfolds."
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "06",
+       "title": "30–50% below the franchise trucks",
+       "text": []
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "National junk brands price in their royalty fees; we have none to pass along. Markham apartment cleanouts with us routinely cost 30–50% less than the same job quoted by a big-name chain."
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What an Apartment Cleanout Costs in Markham"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Volume Pricing, Confirmed at the Unit Door"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Small cleanouts start at {{cad_125}}, single-item pickups stay proportionally cheap, and even a completely full two-bedroom is quoted as one flat, all-inclusive figure before anything leaves the unit. No hourly billing that punishes slow elevators, no high-rise surcharges, no invoice edits afterward. Book your free Markham walkthrough and get the real number first."
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Wide Service Area"
+      },
+      {
+       "title": "Local Expertise"
+      }
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Schedule Now",
+       "href": "tel:16479225865"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2025/01/Background-4.png",
+      "alt": "Background 4",
+      "width": 458,
+      "height": 237
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "An Empty Unit by Your Deadline — Here's the Process"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Whether the lease ends Friday or the condo closes at month-end, the path from full to empty is four steps:"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "1. Book Around Your Building's Schedule",
+       "text": [
+        "Call +1 647 922 5865 or book online, and tell us about your elevator window if you have one. We work seven days a week, 6AM to 11PM across Markham, offer same-day and next-day slots, and time our arrival to your booking — with a 30-minute heads-up text."
+       ]
+      },
+      {
+       "title": "2. Walk the Unit, Get the Number",
+       "text": [
+        "Show us the apartment plus anything extra — the balcony, the storage locker, the parking-level cage. One free, all-inclusive quote follows on the spot. Yours to accept or decline."
+       ]
+      },
+      {
+       "title": "3. We Empty the Unit, Building-Politely",
+       "text": [
+        "On approval, the crew pads the doorway, protects the hallway and elevator as required, and moves everything out — furniture dismantled when it won't fit, loads staged neatly at the dock, common areas left spotless. You supervise as much or as little as you like."
+       ]
+      },
+      {
+       "title": "4. Swept, Photographed-Ready, and Responsibly Sorted",
+       "text": [
+        "We finish with a sweep so the unit is ready for inspection, staging photos or key handover. The truckload then splits by destination: donation partners first, recyclers for metals and electronics, landfill only for the remainder."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Every Kind of Unit Cleanout Markham Buildings See"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "The calls come from every direction: a tenant moving overseas with two weeks' notice, a landlord staring at an abandoned unit in Milliken, adult children clearing a parent's Unionville condo, an investor flipping a furnished rental near Markham Centre. Different situations, one requirement — a completely empty unit, on time. Here's what we handle:"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Move-Out & Lease-End Cleanouts in Markham",
+       "a": [
+        [
+         "Full apartment cleanouts before key return — deposit-inspection ready"
+        ],
+        [
+         "Partial clear-outs — take the junk, leave what’s moving with you"
+        ],
+        [
+         "Last-minute lease-end jobs on tight timelines"
+        ],
+        [
+         "Furnished rental and Airbnb unit resets"
+        ],
+        [
+         "Student apartment clear-outs — Markham and nearby campus housing"
+        ]
+       ]
+      },
+      {
+       "q": "Landlord & Property Management Cleanouts in Markham",
+       "a": [
+        [
+         "Abandoned-unit and tenant-turnover cleanouts"
+        ],
+        [
+         "Eviction unit clearing — documented and efficient"
+        ],
+        [
+         "Between-tenant refresh clear-outs"
+        ],
+        [
+         "Multi-unit and whole-floor cleanouts for property managers"
+        ],
+        [
+         "COI provided for building management on request"
+        ]
+       ]
+      },
+      {
+       "q": "Condo & Downsizing Cleanouts in Markham",
+       "a": [
+        [
+         "Estate condo cleanouts — patient, respectful, valuables set aside for family"
+        ],
+        [
+         "Senior downsizing from condos and apartments — paced to the person"
+        ],
+        [
+         "Pre-sale condo cleanouts — empty and swept before listing photos"
+        ],
+        [
+         "Storage locker and parking-cage clear-outs — with or without the unit"
+        ],
+        [
+         "Balcony and terrace clearing — planters, old furniture, BBQs"
+        ]
+       ]
+      },
+      {
+       "q": "What Comes Out of a Markham Apartment Cleanout",
+       "a": [
+        [
+         "Sofas, beds, wardrobes and every piece of furniture — dismantled if the elevator demands it"
+        ],
+        [
+         "Fridges, washers, portable ACs and in-unit appliances"
+        ],
+        [
+         "Mattresses and box springs, bagged where buildings require it"
+        ],
+        [
+         "Electronics, TVs and boxed e-waste"
+        ],
+        [
+         "Kitchenware, clothing, boxes and years of closet accumulation"
+        ],
+        [
+         "Carpets, shelving and renovation leftovers"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Service Areas"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "- Recent Reviews -"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Read what our past customers say"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions About Apartment Cleanouts in Markham, ON"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Q: How much does it cost to clean out an apartment in Markham?",
+       "a": [
+        [
+         "A: Pricing follows truck volume, nothing else. Small loads start at $125; a typical one-bedroom cleanout lands mid-range and a packed two-bedroom higher — but always as one flat figure quoted free at the unit before work begins. Floor level, elevator waits and hallway length never affect it."
+        ]
+       ]
+      },
+      {
+       "q": "Q: My building requires an elevator booking — how does that work with you?",
+       "a": [
+        [
+         "A: Perfectly, as long as we know the window. Tell us your reservation time when booking and we’ll arrive ready to load within it. Our crews are used to Markham condo logistics — protection pads for the elevator cab, respect for time limits, and quick staging at the loading dock."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Does my condo need insurance paperwork from you?",
+       "a": [
+        [
+         "A: Many Markham buildings ask for a certificate of insurance before outside crews work on site. We’re fully insured and can provide documentation to your property management in advance — just mention it when you book so it’s sorted before cleanout day."
+        ]
+       ]
+      },
+      {
+       "q": "Q: A tenant left everything behind — can you clear the unit fast?",
+       "a": [
+        [
+         "A: This is one of our most common Markham calls. We clear abandoned units quickly and completely, can photograph the process for your records if requested, and leave the apartment swept and ready for the next tenant — often within a day of your call."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Can you empty my parents' condo? They're downsizing and it's emotional.",
+       "a": [
+        [
+         "A: We handle downsizing and estate condo cleanouts regularly, and we treat them differently than a standard job — slower pace, family involvement welcomed, and anything sentimental or valuable pulled aside rather than loaded. Usable furniture goes to donation, which many families find comforting."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

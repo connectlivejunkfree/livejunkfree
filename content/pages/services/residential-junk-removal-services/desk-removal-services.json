@@ -1,0 +1,596 @@
+{
+ "id": 17802,
+ "kind": "page",
+ "path": "/services/residential-junk-removal-services/desk-removal-services/",
+ "type": "service",
+ "template": "ItemRemoval",
+ "seo": {
+  "title": "Desk Removal Services - Live JunkFree",
+  "description": "Need desk removal in Toronto & GTA? Live Junk Free removes office & home desks fast — same day, fully insured, no hidden fees. Call +1 647 922 5865!",
+  "canonical": "https://livejunkfree.ca/services/residential-junk-removal-services/desk-removal-services/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "ogImage": "/images/uploads/2026/07/desk-removal-services.jpeg"
+ },
+ "title": "Desk Removal Services",
+ "h1": "Most Trusted Choice for Desk Removal Services in Your Area",
+ "published": "2026-07-19T09:53:08",
+ "modified": "2026-07-23T05:18:48",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Most Trusted Choice for Desk Removal Services in Your Area"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Always Focused on Eco-Friendly Disposal"
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Trusted by people of the Greater Toronto Area"
+      },
+      {
+       "title": "Insured, uniformed, and respectful crew"
+      },
+      {
+       "title": "Rated 5.0 on Google by 780+ customers"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Same Day Desk Removal Services"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Removing old desks from your home or office doesn’t need to be difficult. At Live Junk Free, we take care of everything for you. Just give us a call or send us a picture of the desk you want removed, and we’ll give you a fair price right away with no hidden charges. You can choose any time that works best for you – we even offer same-day service if you need quick removal."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "When our team arrives, they will carefully take apart and remove your desk without damaging your space. We use special tools and protective coverings to keep your floors and walls safe. The best part is we don’t just throw desks in the trash. We work hard to recycle the materials or donate good-quality desks to schools and charities so they can be used again."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Most desk removals take less than one hour from start to finish. Our workers are fully trained and insured, so you don’t need to worry about anything. They will do all the heavy lifting, air dust afterwards, and make sure your space looks neat when they leave."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Your Service Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/desk-removal-services-1024x765.jpeg",
+      "alt": "desk-removal-services",
+      "width": 800,
+      "height": 598
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Book Now & Get the Best Office Cleanout Deal"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Getting rid of old office furniture shouldn’t be a stressful hassle. Our professional desk removal service starts at just {{cad_125}}, and we take care of everything for you. We’ll carefully remove your desk from any office or workspace, disassemble it if needed, and haul everything away – no heavy lifting or mess left for you to handle."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "With our skilled team handling the job, you can focus on your work while we clear your space efficiently. Before you know it, you’ll have a clean, open area ready for new furniture or whatever comes next – quality desk removal that’s both affordable and completely worry-free."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Ready to upgrade your workspace?"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Call us now at +1 647 922 5865 or book online."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "Calls answered in 60 seconds!"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Thinking of Same Day Desk Removal Service?"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Getting rid of an old desk can be tough, and maybe it’s heavy, broken, or just stuck in place. Don’t worry! We make desk removal super easy and stress-free. Whether you’re cleaning out a home office or updating your workspace, we’ll take care of it fast. Need more gone? We also offer same-day removal services."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "At ",
+      {
+       "a": "/contact/",
+       "c": [
+        "Live Junk Free"
+       ]
+      },
+      ", we specialize in effortless office furniture removal when timing matters most. Whether you’re renovating your workspace, relocating your business, or simply upgrading your office setup, our same-day and next-day services ensure you won’t be stuck with unwanted furniture longer than necessary."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our comprehensive desk removal service includes:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Safe removal of all desk types (L-shaped, standing, executive, etc.)"
+      ],
+      [
+       "Expert handling of how to remove desk drawers (no DIY struggles required)"
+      ],
+      [
+       "Eco-friendly disposal with recycling or donation prioritization"
+      ],
+      [
+       "Spotless cleanup after removal"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "In a rush? We offer same-day desk removal! "
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Choose Live Junk Free for Desk Removal?"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Convenient Scheduling That Works For You",
+       "text": [
+        "We offer same-day, next-day, and weekend appointments with no rush fees. Whether you need urgent removal after business hours or scheduled service during a renovation"
+       ]
+      },
+      {
+       "title": "Hassle-Free Booking",
+       "text": [
+        "Secure your removal slot in under a minute through our simple online system or quick phone call. No paperwork, no waiting for callbacks – just instant confirmation."
+       ]
+      },
+      {
+       "title": "Efficient Professional Service",
+       "text": [
+        "What would take your staff half a day of struggling, our trained crews complete in about an hour"
+       ]
+      },
+      {
+       "title": "Transparent Pricing Guarantee",
+       "text": [
+        "Your upfront quote includes all labor, disposal fees, and taxes. No hidden charges, no last-minute surprises – just honest pricing from start to finish."
+       ]
+      },
+      {
+       "title": "Licensed & Insured Professionals",
+       "text": [
+        "Our uniformed teams are background-checked and fully insured, giving you peace of mind during office cleanouts."
+       ]
+      },
+      {
+       "title": "Property Protection Guarantee",
+       "text": [
+        "Every removal includes floor protection pads, corner guards, and special lifting equipment to prevent scratches or dents to your walls and flooring."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How Our Desk Removal Services Work"
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Eco-Friendly Disposal & Donations"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We protect the planet by ensuring your desk is disposed of responsibly:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Donate usable desks to charities"
+      ],
+      [
+       "Recycle wood, metal, and glass components"
+      ],
+      [
+       "Minimize landfill waste sustainably"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "We recycle or donate items whenever possible. It is good for the planet and great for you."
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Get Instant Pricing – No Surprises, Just Fast & Fair Quotes! "
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "You only pay for what we haul."
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Straightforward quotes with no hidden fees"
+      ],
+      [
+       "Free instant estimates via phone/text"
+      ],
+      [
+       "Bulk removal discounts for offices"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Types of Desks We Remove"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "L-shaped, U-shaped, and standing desks"
+      ],
+      [
+       "Executive, computer, and writing desks"
+      ],
+      [
+       "File cabinets and office furniture"
+      ],
+      [
+       "Heavy wooden or glass desks"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Our Simple 4-Step Process for Desk Removal"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Send a Photo",
+       "text": [
+        "Text or upload a pic of your desk."
+       ]
+      },
+      {
+       "title": "Get Your Price",
+       "text": [
+        "Get pricing with no hidden charges"
+       ]
+      },
+      {
+       "title": "Pick a Time",
+       "text": [
+        "Same-day or next-day slots."
+       ]
+      },
+      {
+       "title": "We remove It Away",
+       "text": [
+        "Done in under 30 minutes!"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Before & After Gallery"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Watch the transformation happen right before your eyes. Our skilled team carefully removes every desk and office item, clearing your space completely, leaving you with a fresh, open area ready for new possibilities."
+     ]
+    },
+    {
+     "t": "gallery",
+     "images": [
+      {
+       "src": "/images/uploads/2026/07/desk-removal-services-before.jpg",
+       "alt": "desk-removal-services"
+      },
+      {
+       "src": "/images/uploads/2026/07/desk-removal-services-after-1024x765.jpeg",
+       "alt": "desk-removal-services"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "FAQs"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "1. Do you remove all types of desks?",
+       "a": [
+        [
+         "Yes, we take away any desk, big, small, office, gaming, or standing. Even if it’s old or broken, we’ll handle it easily. Just tell us what you need."
+        ]
+       ]
+      },
+      {
+       "q": "2. Can you disassemble my desk before removing it?",
+       "a": [
+        [
+         "Yes, if your desk needs to be taken apart, we’ll do it safely. We handle the heavy stuff, so you just relax while we take care of everything."
+        ]
+       ]
+      },
+      {
+       "q": "3. What areas do you serve for desk removal?",
+       "a": [
+        [
+         "We work in Toronto, Markham, Mississauga, Richmond Hill, and nearby spots. Not sure? Just call us and we’ll check if we cover your area."
+        ]
+       ]
+      },
+      {
+       "q": "4. How much does desk removal cost?",
+       "a": [
+        [
+         "Prices change based on size and location, but we’ll tell you upfront, no surprises! Call for a free estimate so you know the cost first."
+        ]
+       ]
+      },
+      {
+       "q": "5. Can you recycle or donate my desk?",
+       "a": [
+        [
+         "Yes, if it’s in good shape, we donate it. If not, we recycle it. We hate waste and always try to help the planet."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What People Say About Us"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Areas We Serve"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       "East Gwillimbury"
+      ],
+      [
+       "Etobicoke"
+      ],
+      [
+       "Georgina"
+      ],
+      [
+       "King City"
+      ],
+      [
+       "Markham"
+      ],
+      [
+       "Mississauga"
+      ],
+      [
+       "Newmarket"
+      ],
+      [
+       "Nobleton"
+      ],
+      [
+       "Oshawa"
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ],
+      [
+       "Stouffville"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

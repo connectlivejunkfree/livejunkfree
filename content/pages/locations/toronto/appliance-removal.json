@@ -1,0 +1,724 @@
+{
+ "id": 16233,
+ "kind": "page",
+ "path": "/locations/toronto/appliance-removal/",
+ "type": "location-service",
+ "template": "LocationService",
+ "seo": {
+  "title": "Appliance Removal Toronto | Same-Day Pickup | Live Junk Free",
+  "description": "Need appliance removal Toronto? Live Junk Free picks up old fridges, washers, dryers & more — same day, fully insured, no hidden fees. Call +1 647 922 5865!",
+  "canonical": "https://livejunkfree.ca/locations/toronto/appliance-removal/",
+  "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+ },
+ "title": "appliance-removal",
+ "h1": "Appliance Removal Toronto — We Handle the Heavy Stuff",
+ "published": "2026-07-09T04:36:01",
+ "modified": "2026-07-12T02:22:10",
+ "sections": [
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 1,
+     "text": "Appliance Removal Toronto — We Handle the Heavy Stuff"
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "Old fridge blocking your kitchen? Washer finally gave up? We'll pick it up today — no fuss, no mess."
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Get a Free Quote",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Trusted by people of the Greater Toronto Area"
+      },
+      {
+       "title": "Insured, uniformed, and respectful crew"
+      },
+      {
+       "title": "Rated 5.0 on Google by 780+ customers"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Appliance Removal in Toronto — Simpler Than You Think"
+    },
+    {
+     "t": "p",
+     "c": [
+      "That broken fridge has been sitting in your basement for three months. The old washer is taking up half your laundry room. And every time you look at them, you think — I really need to deal with this. We get it."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "At ",
+      {
+       "a": "/",
+       "c": [
+        "Live Junk Free"
+       ]
+      },
+      ", appliance removal in Toronto is something we do every single day. We work across all Toronto neighbourhoods — from Liberty Village condos to detached homes in North York, east-end houses in Scarborough, and townhouses in Etobicoke. If it plugs in and you don’t want it anymore, we’ll take it."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "What makes us worth calling? We show up when we say we will, we carry everything out ourselves, and we don’t hit you with surprise charges at the end. Our pricing is clear upfront. Our team is professional and insured. And if your old appliance is still in working condition, we’ll try to donate it — keeping it out of Toronto’s landfills."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Same-day appliance removal in Toronto is available most days. Just call or text — we’ll sort the rest."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Your Service Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
+      "alt": "DSC08963",
+      "width": 800,
+      "height": 534
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Toronto Homeowners Call Live Junk Free First"
+    },
+    {
+     "t": "p",
+     "c": [
+      "There’s no shortage of junk removal options in Toronto. Here’s why people keep choosing us — and why they come back:"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "✓ We actually show up on time — no vague arrival windows or last-minute cancellations"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "✓ You get a real quote before we touch anything — no guessing, no inflated invoices"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "✓ We carry everything out ourselves — you don’t lift a finger, regardless of which floor it’s on"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "✓ We’re fully licensed and insured — your home and your appliances are protected throughout"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "✓ We sort for recycling and donation — working appliances go to families who need them, not landfill"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "✓ Toronto locals trust us — 598+ five-star reviews from homeowners, landlords, and property managers across the GTA"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What Appliances Do We Remove in Toronto?"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We handle all household and ",
+      {
+       "a": "/services/commercial-junk-removal-services/",
+       "c": [
+        "commercial appliances"
+       ]
+      },
+      " — big or small, working or broken. Here’s a breakdown of what we take:"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Refrigerators & Freezers"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Fridges are bulky, awkward, and surprisingly heavy. Whether it’s a standard unit or a side-by-side double door, our Toronto team gets it out safely — even from tight basements and narrow hallways. Working units get donated locally when possible."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Washing Machines & Dryers"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Front-loaders, top-loaders, stackable units, standalone dryers — we remove all of them across Toronto homes and apartments. Laundry rooms are one of our most common jobs."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Stoves & Ovens"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Gas or electric, freestanding or built-in — we disconnect and haul away stoves and ovens. We follow proper safety protocols for gas appliances before any removal begins."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Dishwashers & Microwaves"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Built-in or countertop, we remove both. Dishwasher removal often involves some plumbing disconnection, which our team handles as part of the job."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Water Heaters & HVAC Units"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Tank water heaters, air conditioners, and dehumidifiers all qualify. These are heavy items that most people can’t safely move alone — our crew is equipped for exactly this."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Bulk Appliance Clearouts"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Clearing a rental property, renovating a kitchen, or managing a multi-unit building? We do bulk appliance removal across Toronto at better rates. This is also a great time to combine with our ",
+      {
+       "a": "/locations/furniture-removal/",
+       "c": [
+        "furniture removal"
+       ]
+      },
+      " in Toronto service if you’re clearing a full space."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Benefits of Choosing Live Junk Free for Appliances Removal"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Flexible Scheduling",
+       "text": [
+        "Work around your timeline with next-day or weekend slots available. Same-day services are also available."
+       ]
+      },
+      {
+       "title": "All-Inclusive Pricing",
+       "text": [
+        "Your upfront quote covers everything: labor, hauling, and disposal with no surprise fees"
+       ]
+      },
+      {
+       "title": "Eco-Friendly Disposal",
+       "text": [
+        "We recycle materials and donate usable furniture to local charities"
+       ]
+      },
+      {
+       "title": "Damage-Free Guarantee",
+       "text": [
+        "We protect your home during removal with padding and careful handling"
+       ]
+      },
+      {
+       "title": "Bulk Removal Options",
+       "text": [
+        "Special rates when clearing multiple pieces of furniture"
+       ]
+      },
+      {
+       "title": "Stress-Free Pickup Service",
+       "text": [
+        "We handle lifting, loading, and hauling so you don’t have to move a thing."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What Does Appliance Removal Cost in Toronto?"
+    },
+    {
+     "t": "p",
+     "c": [
+      "The cost of appliance disposal in Toronto depends on size, quantity, and how hard the item is to access. Here’s a rough idea of what most people pay:"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "A few things worth knowing before you book:",
+      {
+       "br": 1
+      },
+      "✓ We give you a firm price on-site before anything is moved — no surprises at the end",
+      {
+       "br": 1
+      },
+      "✓ Removing multiple appliances in one visit almost always saves you money",
+      {
+       "br": 1
+      },
+      "✓ Text us a photo and we’ll give you a ballpark estimate right away",
+      {
+       "br": 1
+      },
+      "✓ No fuel surcharges, no disposal fees tacked on, no hidden anything",
+      {
+       "br": 1
+      },
+      "✓ For cheap appliance removal in Toronto that doesn’t mean cutting corners — this is us"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "We Remove ALL Types of Appliances!"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we help remove old, broken, or unwanted appliances from homes, condos, and businesses across Toronto:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Refrigerators & Freezers (top-freezer, side-by-side, mini fridges, chest freezers)"
+      ],
+      [
+       "Washing Machines & Dryers (front-load, top-load, stackable units)"
+      ],
+      [
+       "Stoves, Ranges & Ovens (gas and electric models)"
+      ],
+      [
+       "Dishwashers & Microwaves (built-in and countertop units)"
+      ],
+      [
+       "Water Heaters & Dehumidifiers"
+      ],
+      [
+       "Air Conditioners & HVAC Units"
+      ],
+      [
+       "Commercial Appliances (restaurant equipment, prep coolers, small commercial units)"
+      ],
+      [
+       "Bulk Appliance Pickups (multiple appliances removed in one visit)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How Our Toronto Appliance Removal Process Works"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Book Your Appointment",
+       "text": [
+        "Call us at +1 647 922 5865 or book online. Let us know what you need removed and pick a time that suits you. Same-day slots are often available across Toronto."
+       ]
+      },
+      {
+       "title": "Our Team Arrives On Time",
+       "text": [
+        "Our uniformed Toronto crew arrives within your agreed window. We call 30 minutes ahead so you're never left guessing. No vague arrival times, no waiting around all day."
+       ]
+      },
+      {
+       "title": "Appliance Removed Carefully",
+       "text": [
+        "We assess the item, confirm your upfront quote on the spot, and once you're happy, we get straight to work — protecting your floors, walls, and surrounding cabinetry throughout."
+       ]
+      },
+      {
+       "title": "Responsible Disposal",
+       "text": [
+        "Working appliances get donated to local Toronto charities or resale programs. Everything else goes to certified recycling facilities. We keep as much out of landfill as possible."
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "l": 3,
+     "text": "See the Difference – Before & After Appliance Removal"
+    },
+    {
+     "t": "p",
+     "c": [
+      "From bulky, unwanted appliances to clean, open spaces – take a look at our real ",
+      {
+       "a": "/locations/toronto/couch-removal/",
+       "c": [
+        "couch removal"
+       ]
+      },
+      " projects."
+     ]
+    },
+    {
+     "t": "gallery",
+     "images": [
+      {
+       "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
+       "alt": "20250405_140825"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
+       "alt": "20250405_142357"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250405_142736-1024x577.webp",
+       "alt": "20250405_142736"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250405_144606-1024x577.webp",
+       "alt": "20250405_144606"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250611_115029-1024x577.webp",
+       "alt": "20250611_115029"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250611_201732-1024x577.webp",
+       "alt": "20250611_201732"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250530_110858-1024x577.webp",
+       "alt": "20250530_110858"
+      },
+      {
+       "src": "/images/uploads/2025/07/20250526_193102-1024x577.webp",
+       "alt": "20250526_193102"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Frequently Asked Questions — Appliance Removal Toronto"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Q: How do I get rid of old appliances in Toronto?",
+       "a": [
+        [
+         "A: The easiest option by far is calling a local appliance removal company like Live Junk Free. You book a time, we show up, we carry everything out, and we handle disposal — recycling and donation where possible. If your appliance still works, you could list it on Kijiji or Facebook Marketplace. The City of Toronto also has a large item pickup program for certain appliances — check toronto.ca for scheduled pickup dates in your area. That said, if you need it gone quickly or the appliance is broken, professional removal is the most practical route."
+        ]
+       ]
+      },
+      {
+       "q": "Q: What is the easiest way to dispose of appliances?",
+       "a": [
+        [
+         "A: Hiring a professional removal team is genuinely the easiest way — you don’t move anything yourself, you don’t need to figure out where it goes, and it’s done in under an hour in most cases. For free disposal, the City of Toronto’s large item collection program accepts certain appliances at scheduled times. Some appliance retailers also offer haul-away of your old unit when they deliver a new one — worth asking when you make your purchase. For broken or unusable appliances, a junk removal service like ours is your simplest path forward."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Does the City of Toronto offer free appliance removal?",
+       "a": [
+        [
+         "A: Yes, the City of Toronto has a large item collection program that includes certain appliances. You can schedule through toronto.ca — typically requiring a few days’ notice. Keep in mind you’d need to bring the appliance to the curb yourself, and not all appliance types are accepted. For anything urgent, in a tight space, or not covered by the city program, a private removal service is faster and far more convenient."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Can you remove appliances from a condo or apartment in Toronto?",
+       "a": [
+        [
+         "A: Absolutely — condo and apartment appliance removal is something we do across Toronto regularly. We coordinate elevator access where needed, follow building rules, and use the right equipment for narrow hallways and tight stairwells. Just mention the building details when you book and we’ll plan accordingly."
+        ]
+       ]
+      },
+      {
+       "q": "Q: Do you recycle appliances in Toronto?",
+       "a": [
+        [
+         "A: Yes. Working appliances go to local Toronto donation programs or charity resellers where possible. For broken units, we sort the materials — metals, plastics, refrigerants — and take them to certified recycling facilities. We actively try to keep as much as possible out of landfill. Eco-friendly appliance removal in Toronto is something we genuinely practise, not just market speak."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What People Say About Us"
+    },
+    {
+     "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Areas We Serve"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Ajax"
+      ],
+      [
+       "Aurora"
+      ],
+      [
+       "Bolton"
+      ],
+      [
+       "Bradford"
+      ],
+      [
+       "Brampton"
+      ],
+      [
+       "Caledon"
+      ],
+      [
+       {
+        "a": "/locations/east-gwillimbury/",
+        "c": [
+         "East Gwillimbury"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/etobicoke/",
+        "c": [
+         "Etobicoke"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/junk-removal-services-in-georgina/",
+        "c": [
+         "Georgina"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/wp-admin/setup-config.php",
+        "c": [
+         "King City"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/markham/",
+        "c": [
+         "Markham"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/mississauga/",
+        "c": [
+         "Mississauga"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/new-market/",
+        "c": [
+         "Newmarket"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/nobleton/",
+        "c": [
+         "Nobleton"
+        ]
+       }
+      ],
+      [
+       {
+        "a": "/locations/oshawa/",
+        "c": [
+         "Oshawa"
+        ]
+       }
+      ],
+      [
+       "Port Perry"
+      ],
+      [
+       "Pickering"
+      ],
+      [
+       "Richmond Hill"
+      ],
+      [
+       "Scarborough"
+      ],
+      [
+       "Schomberg"
+      ],
+      [
+       "Toronto"
+      ],
+      [
+       "Uxbridge"
+      ],
+      [
+       "Vaughan"
+      ],
+      [
+       "Woodbridge"
+      ],
+      [
+       "Whitby"
+      ],
+      [
+       "Whitchurch-Stouffville"
+      ],
+      [
+       "Stouffville"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
