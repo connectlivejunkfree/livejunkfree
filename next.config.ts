@@ -30,10 +30,13 @@ const nextConfig: NextConfig = {
       fallback: [],
     };
   },
+  // Photos are pre-built as WebP at fixed widths (scripts/build-images.mjs) and
+  // served as static files; src/lib/image-loader.ts picks the right width.
   images: {
-    qualities: [60, 75],
-    formats: ["image/avif", "image/webp"],
-    minimumCacheTTL: 60 * 60 * 24 * 30,
+    loader: "custom",
+    loaderFile: "./src/lib/image-loader.ts",
+    deviceSizes: [640, 828, 1200, 1600],
+    imageSizes: [128, 384],
   },
   async headers() {
     return [
@@ -46,6 +49,7 @@ const nextConfig: NextConfig = {
         ],
       },
       { source: "/images/:path*", headers: [{ key: "Cache-Control", value: "public, max-age=31536000, immutable" }] },
+      { source: "/_img/:path*", headers: [{ key: "Cache-Control", value: "public, max-age=31536000, immutable" }] },
     ];
   },
   // Content files are read at build time; include them for any server-rendered route too.

@@ -32,6 +32,7 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+.vercel.env
 # .env only holds the non-secret NEXT_PUBLIC_REVIEW_MODE default, so it is committed.
 !.env
 !.env.example
@@ -52,3 +53,10 @@ next-env.d.ts
 
 # written by next dev
 AGENTS.md
+
+# pre-built image sizes (made by npm run build)
+/public/_img/
+
+# secrets for the Vercel import (never commit)
+vercel.env
+*.env
