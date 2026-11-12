@@ -246,6 +246,11 @@ function cleanBlocks1(blocks: Block[]): Block[] {
         continue;
       }
     }
+    if (b.t === "faq" && b.items.length === 1 && /^\s*(read|learn|see|show|view) more\b/i.test(b.items[0].q)) {
+      // An old "Read More" toggle hiding the rest of a section's text → just show the text.
+      for (const a of b.items[0].a) if (plainInline(a).trim() && !CSS_LEAK.test(plainInline(a))) out.push({ t: "p", c: a });
+      continue;
+    }
     if (b.t === "faq" && b.items.length === 1) {
       // An old "View all items" accordion holding a long list → heading + list (shown as a chip grid).
       // Some old accordions start with page-builder CSS pasted as text ("* { box-sizing… }"): dropped.
@@ -751,4 +756,62 @@ export function dropRepeatedLists(parts: Part[], shown: string[] = []): Part[] {
       blocks: p.blocks.filter((_, bi) => !drop.has(`${pi}:${bi}`)),
     }))
     .filter((p) => p.blocks.length || p.group || (p.head.title && p.image));
+}
+
+/**
+ * Old pages built a feature list as separate one-item "step" sections, each followed by
+ * its paragraph ("Have Total Charge…", text, "Remove Trash…", text). Once merged into one
+ * section they would show as narrow one-card rows: a run of 2+ becomes one card grid.
+ */
+export function mergeStepRuns(parts: Part[]): Part[] {
+  for (const p of parts) {
+    const out: Block[] = [];
+    for (let i = 0; i < p.blocks.length; i++) {
+      const run: BlockOf<"cards">["items"] = [];
+      let j = i;
+      while (j < p.blocks.length) {
+        const b = p.blocks[j];
+        // the old sections' small icon images sit between the items
+        if (b.t === "img" && isIcon(b.image) && p.blocks[j + 1]?.t === "steps") {
+          j += 1;
+          continue;
+        }
+        // …or already turned into one-card blocks
+        if (b.t === "cards" && b.items.length === 1 && b.items[0].text) {
+          run.push(b.items[0]);
+          j += 1;
+          continue;
+        }
+        if (b.t !== "steps" || b.items.length !== 1) break;
+        const it = b.items[0];
+        const next = p.blocks[j + 1];
+        if (it.text.length) {
+          run.push({ title: it.title, text: it.text.flat() });
+          j += 1;
+        } else if (next?.t === "p") {
+          run.push({ title: it.title, text: next.c });
+          j += 2;
+        } else if (next?.t === "h") {
+          run.push({ title: it.title, text: [next.text] });
+          j += 2;
+        } else break;
+      }
+      if (run.length >= 2) {
+        out.push({ t: "cards", items: run });
+        i = j - 1;
+      } else out.push(p.blocks[i]);
+    }
+    // A lone card (no photo) would sit alone in a grid row: it is really a label for what
+    // follows ("Residential Services (45+ Services)" + chips, "Furniture Removal" + list),
+    // so it becomes a sub-heading (+ its short line). Sub-heading + list runs then render as panels.
+    p.blocks = out.flatMap((b, k): Block[] => {
+      if (b.t !== "cards" || b.items.length !== 1) return [b];
+      const c = b.items[0];
+      if (c.image && !isIcon(c.image)) return [b];
+      const head: Block = { t: "h", l: 3, text: c.title.trim() };
+      if (!c.text) return k < out.length - 1 ? [head] : [b];
+      return [head, { t: "p", c: c.text }];
+    });
+  }
+  return parts;
 }

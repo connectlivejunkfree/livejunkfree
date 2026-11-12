@@ -471,7 +471,10 @@
   .tbl td:last-child{font-weight:600;white-space:nowrap}
   .panel .tbl{background:#fff}
   @media (max-width:640px){.tbl th:nth-child(2),.tbl td:nth-child(2){display:none}.tbl.two-col td:nth-child(2){display:table-cell}.tbl th,.tbl td{padding:14px 16px}}
-  .areas{display:flex;flex-wrap:wrap;gap:8px;list-style:none}
+  .areas{display:flex;flex-wrap:wrap;gap:8px;list-style:none;align-content:flex-start;align-self:start}
+  /* chip lists never spread their rows over a tall neighbouring column */
+  .items,.chip-grid{align-content:start;align-self:start}
+  @media (min-width:961px){.split>.areas{position:sticky;top:110px}}
   .areas li a,.areas li{display:inline-block}
   .areas a{text-decoration:none;font-weight:500;padding:9px 16px;border:1px solid var(--line);border-radius:999px;font-size:.94rem;background:#fff;min-height:44px;display:inline-flex!important;align-items:center}
   .areas a:hover{border-color:var(--ink)}

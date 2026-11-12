@@ -46,6 +46,7 @@ import { Rating } from "../ui/Rating";
 import { WordReveal } from "../sections/WordReveal";
 import {
   dropRepeatedLists,
+  mergeStepRuns,
   faqLinkItems,
   isIcon,
   isStepCards,
@@ -1447,7 +1448,7 @@ export function AutoPage({
   formHero = variant === "ads",
 }: AutoPageProps) {
   const n = normalize(doc);
-  n.parts = dropRepeatedLists(n.parts, listed);
+  n.parts = dropRepeatedLists(mergeStepRuns(n.parts), listed);
   const ctx: Ctx = { variant, formAnchor: "#quote-form" };
   const crumbs = breadcrumbs(doc);
   const heroImage = n.heroImage ?? {

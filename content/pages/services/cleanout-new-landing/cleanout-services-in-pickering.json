@@ -42,7 +42,7 @@
      "t": "cards",
      "items": [
       {
-       "title": "Get a QuickService",
+       "title": "Get a Quick Service",
        "text": []
       },
       {
@@ -288,10 +288,10 @@
      "t": "ul",
      "items": [
       [
-       "Business Business"
+       "Business Cleanouts"
       ],
       [
-       "Warehouses Business"
+       "Warehouse Cleanouts"
       ],
       [
        "Retail Cleanouts"
@@ -317,7 +317,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/06/Commercial-Services-1024x576.webp",
-      "alt": "Residential Services",
+      "alt": "Commercial Services",
       "width": 800,
       "height": 450
      }
