@@ -11,17 +11,28 @@ export const dynamicParams = false;
 
 export function generateStaticParams() {
   const pages = Math.ceil(blogPosts().length / POSTS_PER_PAGE);
-  return Array.from({ length: Math.max(0, pages - 1) }, (_, i) => ({ n: String(i + 2) }));
+  return Array.from({ length: Math.max(0, pages - 1) }, (_, i) => ({
+    n: String(i + 2),
+  }));
 }
 
-export async function generateMetadata({ params }: PageProps<"/blog/page/[n]">): Promise<Metadata> {
+export async function generateMetadata({
+  params,
+}: PageProps<"/blog/page/[n]">): Promise<Metadata> {
   const n = Number((await params).n);
   const doc = getDoc("/blog/")!;
   const base = pageMetadata(doc);
-  return { ...base, title: { absolute: `${doc.seo.title} – Page ${n}` }, alternates: { canonical: `https://livejunkfree.ca/blog/page/${n}/` } };
+  return {
+    ...base,
+    title: { absolute: `${doc.seo.title} – Page ${n}` },
+    description: `Junk removal, cleanout and decluttering tips from Live Junk Free — blog page ${n}.`,
+    alternates: { canonical: `https://livejunkfree.ca/blog/page/${n}/` },
+  };
 }
 
-export default async function BlogPage({ params }: PageProps<"/blog/page/[n]">) {
+export default async function BlogPage({
+  params,
+}: PageProps<"/blog/page/[n]">) {
   const n = Number((await params).n);
   const doc = getDoc("/blog/");
   if (!doc || !Number.isInteger(n) || n < 2) notFound();
