@@ -1,19 +1,19 @@
 {
  "batch": {
   "fail": 0,
-  "allowed": 486,
+  "allowed": 487,
   "pages": {}
  },
  "site": {
   "hits": 1145,
-  "allowed": 6097,
+  "allowed": 6127,
   "routes": 736
  },
  "byCategory": {
   "timing": {
    "batchFail": 0,
    "site": 190,
-   "allowed": 4141
+   "allowed": 4135
   },
   "specialist": {
    "batchFail": 0,
@@ -23,7 +23,7 @@
   "handling": {
    "batchFail": 0,
    "site": 552,
-   "allowed": 868
+   "allowed": 905
   },
   "guarantees": {
    "batchFail": 0,

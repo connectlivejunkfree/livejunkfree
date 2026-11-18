@@ -95,3 +95,21 @@ When placing photos (C.1–C.4): inspect each image first. Label a city or job t
  Crew imagery is used; actual job city, subject and reuse permission not independently established. Select an inspected, approved LJF job photo/video relevant to office furniture removal; individual asset selection pending. | Alt text generalised where it was a camera filename. |
 
 Source folders (Media Inventory M1–M4): Before and after pics, Jobs, Concrete Removal.jpg, Concrete Slabs Removal Mississauga.jpg.
+
+## QA 18 Nov round (19 Nov 2026): photos swapped or still unverified
+
+Answers C.1–C.4 apply: use approved photos from the Drive folders, show the right service, and mask faces, addresses and plates. Until approved photos are placed:
+
+| Page | Was | Now | Real photo needed |
+|---|---|---|---|
+| B1-14 Estate cleanouts (hero) | `estate-cleanout.jpg`, which actually shows a crew member sweeping a backyard deck | Neutral crew photo (`crew-hero.webp`, loading the truck) | Household / estate contents being carried out |
+| All cleanout pages without their own photo, incl. B1-21 Office cleanouts (hero fallback) | The same backyard deck photo | Neutral crew photo | Per service: office furniture leaving an office; boxes out of a basement; and so on |
+| All demolition pages without their own photo, incl. B1-42 Concrete (hero fallback) | `deck-after.jpg` (a deck job) | Neutral crew photo (`crew-truck-street.webp`) | Concrete removal: the Drive files `Concrete Removal.jpg` and `Concrete Slabs Removal Mississauga.jpg` (C.3), once visually matched |
+| B1-33 Water tank | Generic "crew carrying boards" photo | The page's own water-tank photos, with alt text fixed ("Water tank before removal" / "After a water tank removal") | Confirm these are LJF jobs (C.1) |
+| B1-40 Garage demolition (before/after slider) | Presented as one job | Labelled "example project photo" | A verified before/after pair from the same job (C.2) |
+| B1-28 Bed bug service, B1-29 Piano (galleries) | Alt text said "after" on a "before" file | Alt text now taken from each file's own before/after name | Confirm the pairing (C.2) |
+| B1-13 Bed bug landing | "Bed shot.jpg" and a composite before/after PNG | Alt text fixed; images kept | Confirm rights, and mask any identifying details (C.4) |
+| B1-36 Warehouse | An office photo among the warehouse images | Unchanged (it's the page's own upload); alt fixed | A real warehouse cleanout photo |
+| Every page | 5-star graphic beside "Read our Google reviews" | Stars hidden until a verified rating is set (B8.1) | Not a photo: needs the verified Google count and rating, or a permitted widget (C.5) |
+
+Full-page screenshots of all 49 pages at 390 px and 1280 px (19 Nov) are in `~/Downloads/livejunkfree-extras/qa-2026-11-19-fullpage/`. They're kept out of the repo, so the push stays small.

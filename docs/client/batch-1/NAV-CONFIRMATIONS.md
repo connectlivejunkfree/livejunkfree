@@ -1,4 +1,35 @@
-# Client answers applied (18 Nov 2026)
+# Client answers applied, and claims still held for Nav
+
+## QA 18 Nov round (19 Nov 2026): wording held until Nav confirms
+
+The 18 Nov independent QA asked for unconfirmed claims to be reworded safely, not deleted (prompt v3 §1). The items below are on the site **in safe, conditional wording**. Each is held in `content/business-facts.json`, so Nav's answer updates every page on the next build. Question numbers refer to `LJF_Info_Needed_Part1_Urgent.pdf` / `LJF_Info_Needed_Part2.pdf`.
+
+| Claim | Pages | Wording on the site now | Fact key (status) | Question for Nav |
+|---|---|---|---|---|
+| Hot tub preparation: who drains it and isolates the power | B1-26 + hot tub location pages | "The hot tub must be drained and its power disconnected by a qualified person before pickup." | `hotTubPrep` (pending-nav) | Part 2 B-5 #4–#7 |
+| Water tank preparation | B1-33 | "The tank must be drained and disconnected by a qualified person before pickup." | `waterTankPrep` (pending-nav) | Part 2 B-5 #4–#7 |
+| Deck: electrical / hot-tub connections | B1-41 | "Any electrical or hot-tub connections must be safely disconnected by a qualified person; we confirm responsibility before work starts." | `deckPrep` (pending-nav) | Part 2 B-5 #10–#12 |
+| Carpet: lifting and stripping vs haul-away | B1-31 | H1 "Carpet Removal and Haul-Away Across the GTA"; "Tell us about the carpet and underlay; we'll confirm what removal is included in your quote." | `carpetScope` | Part 2 B-5 #14 |
+| Warehouse racking and large equipment | B1-36, B1-35 | "Ask us about racking, large equipment or heavy materials; the scope is confirmed at the onsite estimate." | `equipmentScope` | Part 2 B-5 #16 |
+| Shed pads / foundations; structural and attached garages | B1-39, B1-40, B1-42, B1-47 | "Structural or attached demolition work is subject to assessment and isn't guaranteed for every project." No foundations, pads, block walls or concrete pool decks are offered | `structuralDemolition`, `siteWorkScope` | Part 2 B-5 #10–#12 |
+| After-hours / overnight work | B1-21, B1-50 | "Weekend pickups are available, subject to scheduling. Ask us about after-hours scheduling; availability and any after-hours rates are confirmed with your quote." | `weekendPickup` | Part 1 B-2 |
+| Phone hours: which days | footer, every page | "Phone hours: 7 am–11 pm." Not in the schema until the days are confirmed | `businessHours` | Part 1 B-2 |
+| Google review count and rating | site-wide | "Read our Google reviews". The star graphic is hidden until a verified rating is set | `reviews.count`, `reviews.rating` | Part 2 B-8 #1 |
+| Served communities (26) | all location pages | "Serving [town] and surrounding areas" | `docs/client/batch-1/service-areas-for-nav.md` | Part 2 B-8 #4 |
+| Job photos and permissions | 15 photo rows | Neutral crew photos instead of wrong-context photos; labelled "example project photo" where the job isn't verified | `MEDIA-NEEDED.md` | Part 2 C |
+| Bed Load on the bed bug pages | B1-13, B1-28 | "Call for a quote"; Bed Load rates not linked | `content/pricing.json` → `bedLoad` | Answers A1.2 |
+
+Removed outright, because the answers rule them out (not waiting on Nav):
+- guarantees, including "Fair Pricing Guaranteed", "our quotes are guaranteed" and "we'll make it right"
+- "price is final" / "the bill won't change", flat pricing, bulk / multi-unit / bundle / special rates
+- certificates of insurance, floor runners and padding, photo documentation, donation receipts
+- deep cleaning, sorting and sweeping as standard
+- "Charity Before Landfill", donations to schools or community centres
+- "best price", "most trusted", "hundreds of" projects, 5-star claims
+- local office or representatives
+
+## Answers of 18 Nov 2026, applied in the previous round
+
 
 Every claim that the audit marked *BUSINESS CONFIRMATION / HOLD CLAIM* now uses the wording approved in `LJF_Akshat_Point_by_Point_Answers_18_Nov_2026.pdf`. The approved text lives in `content/business-facts.json`. Pages reference it as `{{fact:key}}`, so a wording change there updates every page on the next build.
 

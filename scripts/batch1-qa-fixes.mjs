@@ -263,6 +263,7 @@ const PAGES = [
   ]],
   ["B1-25", `${S}/residential-junk-removal-services/furniture-removal-services`, [
     ["OBS-53", rep("Need that old furniture gone today? We’ve got you covered. ", "Need old furniture removed? ")],
+    ["OBS-55", rep(/^same-day when available schedule$/, "flexible pickup schedule")],
     ["OBS-53", (doc) => { for (const b of blocks(doc)) for (const it of b.items ?? []) if (it && typeof it === "object" && /entire weekend of stress/.test(JSON.stringify(it.text ?? ""))) it.text = ["Our crew arrives equipped to lift and carry, and we take care moving items through your home."]; return doc; }],
   ]],
   ["B1-26", `${S}/residential-junk-removal-services/hot-tub-removal-services`, [
