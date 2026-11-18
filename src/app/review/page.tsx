@@ -5,7 +5,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { builtRows, manifest, BUILD_PHASE } from "@/lib/content";
+import { builtRows, getDoc, manifest, resolvePrices, BUILD_PHASE } from "@/lib/content";
 import { REVIEW_MODE } from "@/lib/env";
 
 export const metadata: Metadata = { title: "All pages — Live Junk Free preview", robots: { index: false, follow: false } };
@@ -34,7 +34,7 @@ export default function ReviewIndex() {
                 <li key={r.path}>
                   <Link href={r.path}>
                     <span>
-                      <span className="block font-medium">{r.h1}</span>
+                      <span className="block font-medium">{resolvePrices(getDoc(r.path)?.h1 || r.h1)}</span>{/* the page's own (processed) H1, not the manifest's original */}
                       <code>{r.path}</code>
                     </span>
                     <span className="status designed">{r.template}</span>
