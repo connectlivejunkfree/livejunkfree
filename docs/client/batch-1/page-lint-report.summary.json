@@ -4,7 +4,7 @@
   "pages": {}
  },
  "site": {
-  "fail": 869,
+  "fail": 867,
   "routes": 736
  },
  "byCheck": {
@@ -42,7 +42,7 @@
   },
   "image-alt-wrong-city": {
    "batch": 0,
-   "site": 11
+   "site": 9
   },
   "heading-leading-hyphen": {
    "batch": 0,

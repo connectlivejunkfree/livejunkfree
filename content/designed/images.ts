@@ -12,7 +12,7 @@ export const LOGO = {
 } as const;
 
 export const IMG = {
-  crewStreet: "/images/crew-truck-street.webp", // two crew members in front of the LJF truck (home hero)
+  crewStreet: "/images/brand/og-default.webp", // two crew members in front of the LJF truck (home hero)
   crewHero: "/images/crew-hero.webp", // crew loading the LJF truck
   crewAbout: "/images/crew-about.webp", // crew member carrying boards to the truck
   crewTruck: "/images/crew-truck.webp", // two crew members at the truck

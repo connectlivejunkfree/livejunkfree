@@ -9,7 +9,7 @@
   "description": "Remove old decks easily with Live Junk Free’s expert deck demolition and disposal services in the Greater Toronto Area. Book your demolition today.",
   "canonical": "https://livejunkfree.ca/services/junk-demolition-services/deck-demolition-services/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/07/deck-demolition-services-before1-1024x572.jpeg"
+  "ogImage": "/images/deck-before.jpg"
  },
  "title": "Deck Demolition Services",
  "h1": "Your Trusted Local Experts for Deck Demolition & Removal",
@@ -79,7 +79,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/2026/07/deck-demolition-services-before1-1024x572.jpeg",
+      "src": "/images/deck-before.jpg",
       "alt": "Deck Demolition: Live Junk Free job photo",
       "width": 800,
       "height": 447
@@ -379,7 +379,7 @@
      "t": "gallery",
      "images": [
       {
-       "src": "/images/uploads/2026/07/deck-demolition-services-before1-1024x572.jpeg",
+       "src": "/images/deck-before.jpg",
        "alt": "Deck Demolition: Live Junk Free job photo"
       },
       {

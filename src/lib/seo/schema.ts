@@ -20,7 +20,7 @@ export function businessNode() {
     url: `${SITE}/`,
     telephone: site.phone.schema,
     email: site.email,
-    logo: abs("/images/brand/logo.webp"),
+    logo: abs("/images/logo.webp"),
     image: abs("/images/brand/og-default.webp"),
     priceRange: "$$",
     currenciesAccepted: "CAD",
