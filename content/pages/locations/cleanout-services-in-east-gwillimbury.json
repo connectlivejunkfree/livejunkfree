@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in East Gwillimbury for hamlets and highway corridor alike — estate, farmhouse, downsizing and hoarding cleanouts by an insured crew, quoted flat on site with no hamlet surcharge, sorted donation-first, and finished swept the same day whenever size allows, seven days a week."
+     "text": "Cleanout services in East Gwillimbury for hamlets and highway corridor alike — estate, farmhouse, downsizing and hoarding cleanouts by an insured crew, quoted flat on site with no hamlet surcharge, sorted donation-first, and finished swept the same day whenever size allows."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Google Reviews"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "East Gwillimbury lives two lives, and our cleanout crews serve both daily. Through the century hamlets — Holland Landing, Sharon, Mount Albert, Queensville — it’s estate and downsizing work in homes held for generations, cleared with patience while the old-town character stays intact. On the concessions between, it’s farmhouse and outbuilding cleanouts: a working family’s accumulation sorted respectfully, barn to cellar. Along the fast-growing 404 corridor and Green Lane’s newer streets, it’s garage, basement and moving cleanouts for young households filling homes faster than they can sort them. And near the employment lands, it’s office, storage and commercial cleanouts between tenants. The 660+ five-star Google reviews behind Live Junk Free come from every one of those addresses — flat written quotes with no hamlet premium, careful hands on whatever generation the belongings came from, and space handed back exactly as promised."
+      "East Gwillimbury lives two lives, and our cleanout crews serve both daily. Through the century hamlets — Holland Landing, Sharon, Mount Albert, Queensville — it’s estate and downsizing work in homes held for generations, cleared with patience while the old-town character stays intact. On the concessions between, it’s farmhouse and outbuilding cleanouts: a working family’s accumulation sorted respectfully, barn to cellar. Along the fast-growing 404 corridor and Green Lane’s newer streets, it’s garage, basement and moving cleanouts for young households filling homes faster than they can sort them. And near the employment lands, it’s office, storage and commercial cleanouts between tenants. The Google reviews behind Live Junk Free come from every one of those addresses — flat written quotes with no hamlet premium, careful hands on whatever generation the belongings came from, and space handed back exactly as promised."
      ]
     },
     {
@@ -114,10 +114,10 @@
      "items": [
       {
        "n": "01",
-       "title": "Flat truck-volume cleanout pricing — from {{cad_125}}, same in every hamlet",
+       "title": "Contact us for a quote",
        "text": [
         [
-         "EG cleanouts price by one measure only: your contents’ share of the truck, from {{cad_125}} and scaling openly to whole properties. Sharon, Queensville, Mount Albert or the 404 corridor — the number is identical for the identical load, with no hamlet fee, no distance charge, no exceptions."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -159,10 +159,10 @@
       },
       {
        "n": "06",
-       "title": "Independent cleanout pricing — 30–50% under the franchise chains",
+       "title": "Independent cleanout pricing",
        "text": [
         [
-         "No head-office royalties inside our quotes and no distance padding for the smaller communities either — local crews, our own trucks, one honest number. Identical EG cleanouts invoice 30–50% below the national brands."
+         "No head-office royalties inside our quotes and no distance padding for the smaller communities either — local crews, our own trucks, one honest number."
         ]
        ]
       }
@@ -189,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "Small cleanouts start at {{cad_125}} and scale purely with truck volume — a closet’s worth is a sliver, a garage a few more, a full home or farm property fills trucks and prices in plain sight at the walkthrough. The written figure covers sorting, carrying, hauling and every disposal fee; it freezes on approval and holds whatever the cellar or the drive shed reveals. Multi-day whole-property clears get the full plan and price up front."
+      "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Multi-day whole-property clears get the full plan and price up front."
      ]
     },
     {
@@ -210,13 +210,13 @@
     },
     {
      "t": "price",
-     "label": "EG Cleanouts From",
-     "value": "{{cad_125}}"
+     "label": "EG Cleanouts Pricing",
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
      "c": [
-      "Volume-priced and all-inclusive — sorting, carrying, hauling and disposal in one figure."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -677,7 +677,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — estate, farmhouse, downsizing and hoarding cleanouts across East Gwillimbury, York Region and the GTA."
+      "Google reviews — estate, farmhouse, downsizing and hoarding cleanouts across East Gwillimbury, York Region and the GTA."
      ]
     },
     {
@@ -703,7 +703,7 @@
        "q": "How much do cleanout services cost in East Gwillimbury?",
        "a": [
         [
-         "Truck volume decides, identically in every community: small cleanouts from $125, full properties scaling openly with what their contents fill — with zero hamlet or distance premium anywhere in the municipality. The exact figure is written free at the walkthrough and holds to the invoice."
+         "The exact figure is written free at the walkthrough."
         ]
        ]
       },
@@ -748,7 +748,7 @@
        ]
       },
       {
-       "q": "Why are your cleanout rates 30–50% below the national brands?",
+       "q": "Why are your cleanout rates",
        "a": [
         [
          "No franchise royalty inside the quote and no smaller-community padding on top — local crews, our own trucks, one honest number. The identical cleanout simply costs less, hamlet or highway corridor."

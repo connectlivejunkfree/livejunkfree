@@ -4,8 +4,8 @@
  * motion layer. The review toolbar shows only in review mode.
  */
 import type { Metadata, Viewport } from "next";
-import { GoogleTagManager } from "@next/third-parties/google";
 import { Bricolage_Grotesque, Geist } from "next/font/google";
+import { GtmGate } from "@/components/layout/GtmGate";
 import { TrackingListeners } from "@/components/layout/TrackingListeners";
 import { MotionLayer } from "@/components/motion/MotionLayer";
 import { ReviewBar } from "@/components/review/ReviewBar";
@@ -34,7 +34,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     // data-scroll-behavior lets Next.js turn smooth scrolling off during page changes,
     // so each new page opens at the top.
     <html lang="en-CA" data-scroll-behavior="smooth" className={`${display.variable} ${body.variable}`}>
-      {GTM_ID ? <GoogleTagManager gtmId={GTM_ID} /> : null}
+      {/* GTM only on livejunkfree.ca, never on Vercel previews (Answers A4.1). */}
+      {GTM_ID ? <GtmGate gtmId={GTM_ID} /> : null}
       <body>
         {REVIEW_MODE ? <ReviewBar /> : null}
         {children}

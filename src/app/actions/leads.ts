@@ -4,19 +4,22 @@
  * Lead submission (quote, landing and booking forms).
  *   1. validate (zod) + honeypot + rate limit + Turnstile
  *   2. save to Supabase `leads` (and create signed upload URLs for photos)
- *   3. email info@livejunkfree.ca via Resend
- *   4. return the thank-you page to redirect to (keeps Ads conversion tracking working)
+ *   3. email the team (internal notification) and the customer (acknowledgement) via Resend,
+ *      after the response when the lead is saved (src/lib/email/lead-emails.tsx, docs/EMAILS.md)
+ *   4. return the thank-you page to redirect to (keeps Ads conversion tracking working) and the
+ *      lead id (the browser fires the conversion event once per lead id)
  * Never loses a lead silently: if saving AND emailing both fail, the visitor is
  * told to call instead.
  */
+import { after } from "next/server";
 import { headers } from "next/headers";
-import { notifyLead } from "@/lib/leads/notify";
+import { sendNewLeadEmails, type LeadRecord } from "@/lib/email/lead-emails";
 import { rateLimited, verifyTurnstile } from "@/lib/leads/guard";
 import { BookingLeadSchema, MAX_PHOTOS, QuoteLeadSchema, type BookingLead, type QuoteLead } from "@/lib/leads/schema";
 import { PHOTO_BUCKET, supabaseAdmin } from "@/lib/supabase/server";
 
 export type LeadResult =
-  | { ok: true; redirectTo: string; uploads: { path: string; token: string }[] }
+  | { ok: true; redirectTo: string; uploads: { path: string; token: string }[]; leadId: string | null }
   | { ok: false; message: string; fields?: Record<string, string>; callUs?: boolean };
 
 const THANK_YOU = {
@@ -32,7 +35,7 @@ function fieldErrors(issues: { path: PropertyKey[]; message: string }[]) {
 
 export async function submitLead(input: unknown, turnstileToken?: string, honeypot?: string): Promise<LeadResult> {
   // Bots fill every field: pretend success, store nothing.
-  if (honeypot) return { ok: true, redirectTo: THANK_YOU.default, uploads: [] };
+  if (honeypot) return { ok: true, redirectTo: THANK_YOU.default, uploads: [], leadId: null };
 
   const h = await headers();
   const ip = (h.get("x-forwarded-for") ?? "").split(",")[0].trim() || h.get("x-real-ip");
@@ -72,10 +75,22 @@ export async function submitLead(input: unknown, turnstileToken?: string, honeyp
       wbraid: a.wbraid || null,
       landing_path: a.landing_path || null,
     };
-    for (let attempt = 1; attempt <= 2 && !leadId; attempt++) {
-      const { data, error } = await db.from("leads").insert(row).select("id").single();
-      if (error) console.error(`[lead] supabase insert failed (attempt ${attempt})`, error.message);
-      else leadId = data.id as string;
+    // Enquiry context (audit G05). Needs supabase/migrations/20261118000000_lead_status_emails.sql;
+    // until that runs, the insert is retried without these columns so no lead is lost.
+    const context = {
+      service_detail: lead.service_detail || null,
+      city: lead.city || null,
+      page_id: lead.page_id || null,
+      pricing_selection: lead.pricing_selection || null,
+      callback_time: lead.callback_time || null,
+    };
+    let full = true;
+    for (let attempt = 1; attempt <= 3 && !leadId; attempt++) {
+      const { data, error } = await db.from("leads").insert(full ? { ...row, ...context } : row).select("id").single();
+      if (error) {
+        console.error(`[lead] supabase insert failed (attempt ${attempt})`, error.message);
+        if (full && /column|schema cache|PGRST204/i.test(`${error.code} ${error.message}`)) full = false;
+      } else leadId = data.id as string;
     }
     // Photos upload straight from the browser to private storage using one-time signed URLs.
     if (leadId) {
@@ -93,34 +108,42 @@ export async function submitLead(input: unknown, turnstileToken?: string, honeyp
     console.info("[lead — not saved, Supabase not configured]", JSON.stringify(lead));
   }
 
-  // 2. Email the team.
-  const mail = await notifyLead({
-    subject: `New ${lead.form_type} request — ${lead.name} (${lead.source_path})`,
-    replyTo: lead.email || undefined,
-    rows: [
-      ["Form", lead.form_type],
-      ["Page", `https://livejunkfree.ca${lead.source_path}`],
-      ["Name", lead.name],
-      ["Phone", lead.phone],
-      ["Email", lead.email],
-      ["Address", "street_address" in lead ? [lead.street_address, lead.unit, lead.city].filter(Boolean).join(", ") : undefined],
-      ["Postal code", lead.postal_code],
-      ["Service", lead.service],
-      ["Preferred date", lead.preferred_date],
-      ["Arrival window", "arrival_window" in lead ? lead.arrival_window : undefined],
-      ["Details", lead.details],
-      ["Photos", lead.photo_count ? `${lead.photo_count} (in Supabase storage)` : undefined],
-      ["Source", [a.utm_source, a.utm_medium, a.utm_campaign].filter(Boolean).join(" / ") || undefined],
-      ["gclid", a.gclid],
-      ["Lead id", leadId],
-    ],
-  });
-
-  // Saved nowhere and emailed nowhere (with both services configured) → ask them to call.
-  if (db && !leadId && !mail.sent) {
-    return { ok: false, message: "We couldn't send your request. Please call us at +1 647 922 5865.", callUs: true };
+  // 2. Email the team + acknowledge the customer.
+  const record: LeadRecord = {
+    id: leadId ?? crypto.randomUUID(),
+    form_type: lead.form_type,
+    name: lead.name,
+    phone: lead.phone,
+    email: lead.email || null,
+    postal_code: lead.postal_code || null,
+    address: "street_address" in lead ? [lead.street_address, lead.unit, lead.city].filter(Boolean).join(", ") : null,
+    service: lead.service || null,
+    service_detail: lead.service_detail || null,
+    city: lead.city || null,
+    source_path: lead.source_path,
+    page_id: lead.page_id || null,
+    pricing_selection: lead.pricing_selection || null,
+    callback_time: lead.callback_time || null,
+    preferred_date: lead.preferred_date || null,
+    arrival_window: "arrival_window" in lead ? lead.arrival_window : null,
+    details: lead.details || null,
+    photo_count: lead.photo_count,
+    gclid: a.gclid || null,
+    utm_source: a.utm_source || null,
+    utm_medium: a.utm_medium || null,
+    utm_campaign: a.utm_campaign || null,
+  };
+  if (leadId) {
+    // Saved: email after the response so the visitor isn't kept waiting.
+    after(() => sendNewLeadEmails(record).then(() => undefined));
+  } else {
+    // Not saved: email now, and if that fails too, ask the visitor to call.
+    const mail = await sendNewLeadEmails(record);
+    if (db && mail.internal.status !== "sent") {
+      return { ok: false, message: "We couldn't send your request. Please call us at +1 647 922 5865.", callUs: true };
+    }
   }
 
   const estate = /estate/i.test(lead.source_path) || /estate/i.test(lead.service ?? "");
-  return { ok: true, redirectTo: estate ? THANK_YOU.estate : THANK_YOU.default, uploads };
+  return { ok: true, redirectTo: estate ? THANK_YOU.estate : THANK_YOU.default, uploads, leadId };
 }

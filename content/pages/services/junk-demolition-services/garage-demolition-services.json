@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "Tearing down an old garage shouldn’t be stressful. Our professional garage demolition and removal service starts at just {{cad_125}}, and we handle the entire process for you. We’ll safely demolish your worn-out garage, whether it’s wood, metal, or concrete construction, haul away all debris, and leave your property completely clean. No heavy lifting, no mess left behind."
+      "Tearing down an old garage shouldn’t be stressful. We’ll safely demolish your worn-out garage, whether it’s wood, metal, or concrete construction, haul away all debris, and leave your property completely clean. No heavy lifting, no mess left behind."
      ]
     },
     {
@@ -137,240 +137,11 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
       }
-     ]
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Same Day Garage Demolition Service in Your Area"
-    },
-    {
-     "t": "p",
-     "c": [
-      "Tearing down an old garage is far more challenging than most people realize. That is exactly why our professional garage demolition team handles every aspect for you. When you choose our service, you’re guaranteed a completely stress-free experience from the first call to the final cleanup."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "We understand some projects can’t wait. Whether you’re preparing for property expansion, creating a new parking space, or simply tired of that unsafe eyesore, we offer same-day or next-day garage demolition and removal throughout the service area. Our rapid response means your property could be cleared and ready for new possibilities in just hours."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "Attempting demolition of a garage yourself poses serious risks, from injury due to heavy materials and structural collapse to improper disposal fines. Our fully insured crew arrives equipped with professional-grade tools and extensive experience to:"
-     ]
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "Safely demolish wood, metal, or concrete garages of all sizes"
-      ],
-      [
-       "Handle challenging foundations (concrete slabs, asphalt pads)"
-      ],
-      [
-       "Completely remove all debris, we leave nothing behind"
-      ],
-      [
-       "Responsible recycling of materials whenever possible"
-      ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "b": [
-        "We Offer Same-Day Garage Demolition Service"
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Advantages of Choosing Live Junk Free for Garage Demolition"
-    },
-    {
-     "t": "cards",
-     "items": [
-      {
-       "title": "Time-Saving Efficiency",
-       "text": [
-        "– We complete full garage demolition and removal in just 4-6 hours"
-       ]
-      },
-      {
-       "title": "Multi-Garage Discounts",
-       "text": [
-        "– Special reduced rates when removing multiple structures or entire property cleanouts"
-       ]
-      },
-      {
-       "title": "Flexible Scheduling",
-       "text": [
-        "– Available 7 days a week with same-day, after-hours, and emergency time slots"
-       ]
-      },
-      {
-       "title": "Property Protection",
-       "text": [
-        "– Professional equipment and techniques safeguard your driveway, landscaping, and adjacent structures"
-       ]
-      },
-      {
-       "title": "All-Weather Operation",
-       "text": [
-        "– Our crews work safely in rain, snow, or extreme heat without delays"
-       ]
-      },
-      {
-       "title": "Complete Site Prep",
-       "text": [
-        "– Includes foundation removal, grading, and final cleanup for construction-ready spaces"
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "How Our Garage Demolition Services Work"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Our Streamlined Process Will Exceed Your Expectations"
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "Our professional team handles garage demolition and removal in any location, whether it’s an attached structure, positioned on challenging terrain, or surrounded by delicate landscaping. Our skilled crew carefully executes each demolition using specialized techniques to protect your property, ensuring no damage to surrounding areas. From single-car garages to large workshops, we manage every aspect of the job with expert precision."
-      ],
-      [
-       "Our crew arrives fully equipped to handle even the most challenging demolition garage projects, ensuring all materials are removed responsibly. When we’re finished, your space won’t just be empty – it will be properly graded and ready for your next project."
-      ]
-     ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Responsible Garage Demolition That Makes a Difference"
-    },
-    {
-     "t": "p",
-     "c": [
-      "At Live Junk Free, we don’t just demolish garages – we do it with environmental responsibility:"
-     ]
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "Wood, metal, and roofing materials are carefully sorted and recycled"
-      ],
-      [
-       "Concrete slabs and foundations are crushed for reuse in construction projects"
-      ],
-      [
-       "All remaining debris is processed at certified recycling facilities"
-      ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "b": [
-        {
-         "i": [
-          "We take pride in combining expert garage demolition and removal with eco-conscious practices to minimize landfill waste and support our community."
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Transparent Garage Demolition Pricing – Guaranteed"
-    },
-    {
-     "t": "p",
-     "c": [
-      "You only pay for what we remove."
-     ]
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "Instant estimates via phone, text, or our online quoting system"
-      ],
-      [
-       "Special discounts available for multiple garage removals or property cleanouts"
-      ],
-      [
-       "No hidden fees, our written quotes are binding and guaranteed"
-      ]
-     ]
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Types of Garages We Demolish & Remove"
-    },
-    {
-     "t": "p",
-     "c": [
-      "At ",
-      {
-       "a": "/contact/",
-       "c": [
-        "Live Junk Free"
-       ]
-      },
-      ", we professionally demolish and remove all types of garages in any condition:"
-     ]
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "Detached Garages – Wood, metal, or concrete structures"
-      ],
-      [
-       "Attached Garages – Seamless removal without damaging your home"
-      ],
-      [
-       "Concrete Block Garages – Heavy-duty demolition capabilities"
-      ]
      ]
     }
    ]
@@ -394,19 +165,19 @@
       {
        "title": "Get Your Quote",
        "text": [
-        "Get honest, upfront pricing with no hidden costs. We will clearly explain the garage demolition cost based on your structure's size, construction materials, and accessibility."
+        "We will clearly explain the garage demolition cost based on your structure's size, construction materials, and accessibility."
        ]
       },
       {
        "title": "Pick Your Time",
        "text": [
-        "Choose from same-day emergency service, next-day availability, or schedule a future date that works best for your timeline."
+        ""
        ]
       },
       {
        "title": "We Remove It",
        "text": [
-        "Our skilled crew arrives on time, safely executes the demolition of a garage, removes all debris, and leaves your property spotless."
+        "Our skilled crew arrives on time, safely executes the demolition of a garage, removes all debris, and leaves your property tidy."
        ]
       }
      ]
@@ -455,7 +226,7 @@
        "q": "Do you demolish both attached and detached garages?",
        "a": [
         [
-         "Yes, our professional team handles both attached and detached garage demolition with equal expertise, using specialized techniques to protect your main structure when removing attached units."
+         "Tell us whether the garage is attached or detached when you call. We'll look at the structure, utilities and access at the free onsite estimate and confirm what we can take on."
         ]
        ]
       },
@@ -463,7 +234,7 @@
        "q": "How much does garage demolition cost?",
        "a": [
         [
-         "Our garage demolition services start at just $125 for basic structures, with final pricing depending on size, materials, and complexity. We provide free, no-obligation estimates."
+         "We provide free, no-obligation estimates."
         ]
        ]
       },
@@ -479,7 +250,7 @@
        "q": "Do I need a permit for garage demolition?",
        "a": [
         [
-         "Permit requirements vary by municipality, but our team will advise you on local regulations and can often handle the permit process for you as part of our service."
+         "{{fact:permits}}"
         ]
        ]
       },
@@ -487,7 +258,7 @@
        "q": "How long does a garage demolition project take?",
        "a": [
         [
-         "Most standard garage demolition projects are completed in 4-6 hours from start to final cleanup, with larger or more complex structures potentially taking slightly longer."
+         "Timing confirmed at your estimate"
         ]
        ]
       }

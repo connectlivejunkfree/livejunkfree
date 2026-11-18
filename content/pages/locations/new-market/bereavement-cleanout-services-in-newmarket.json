@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Bereavement cleanout services in Newmarket from Live Junk Free happen on whatever day actually gets the whole family in the same place — a weekend, an evening — because nobody should have to manage a walkthrough like this alone on a workday while everyone else is stuck at their jobs."
+     "text": "{{fact:scheduling}}"
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because settling a loved one’s home rarely fits neatly into one person’s calendar — a sibling might only be free on weekends, another might need an evening after work, and being present together for at least part of the process matters to a lot of families. Live Junk Free treats weekend and evening scheduling as standard, not a special request, so families aren’t forced to work around a weekday slot that only suits one person."
+      "Because settling a loved one’s home rarely fits neatly into one person’s calendar — a sibling might only be free on weekends, another might need an evening after work, and being present together for at least part of the process matters to a lot of families. {{fact:scheduling}}"
      ]
     },
     {
@@ -132,7 +132,7 @@
       },
       {
        "n": "02",
-       "title": "Evening bereavement cleanout for after-work coordination",
+       "title": "{{fact:weekendPickup}}",
        "text": [
         [
          "Family members who can only meet after work get the same crew and the same flat number as anyone available during a weekday."
@@ -168,7 +168,7 @@
       },
       {
        "n": "06",
-       "title": "Independent bereavement cleanout pricing, 30–50% under the bigger outfits",
+       "title": "Independent bereavement cleanout pricing",
        "text": [
         [
          "National franchise cleanout companies build significant overhead into every quote. Live Junk Free carries none of that, without compromising on the patience this work requires."
@@ -198,21 +198,21 @@
     {
      "t": "p",
      "c": [
-      "What never enters the calculation is which day or time the visit actually happens. A Saturday walkthrough costs the same as a Tuesday one, and an evening appointment costs the same as a weekday afternoon. The figure is confirmed for free at an in-person walkthrough, and once locked in, it holds."
+      "What never enters the calculation is which day or time the visit actually happens. {{fact:scheduling}} The figure is confirmed for free at an in-person walkthrough."
      ]
     },
     {
      "t": "checks",
      "items": [
       "Haul-Away",
-      "No Stairs Surcharges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
@@ -220,7 +220,7 @@
     {
      "t": "price",
      "label": "Newmarket Bereavement Cleanout",
-     "value": "{{cad_125:suffix}}"
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
@@ -271,7 +271,7 @@
        "title": "Property Walkthrough & Quote",
        "text": [
         [
-         "We walk through the property with you in person, at a time that fits your family’s schedule, and provide one clear, all-inclusive quote."
+         "We walk through the property with you in person, at a time that fits your family’s schedule, and provide one clear, quote."
         ]
        ]
       },
@@ -346,7 +346,7 @@
        "Bereavement cleanouts across every Newmarket neighbourhood"
       ],
       [
-       "Saturday, Sunday and evening scheduling as standard"
+       "{{fact:weekendPickup}}"
       ],
       [
        "Family updates available for anyone coordinating from off-island"
@@ -372,7 +372,7 @@
        "Bereavement cleanouts coordinated directly with executors or legal representatives"
       ],
       [
-       "Weekend and evening walkthroughs available for out-of-town executors"
+       "{{fact:weekendPickup}}"
       ],
       [
        "Documentation provided for estate or legal requirements"
@@ -643,7 +643,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — occupied-home, full home and rural bereavement cleanouts across Whitby, Durham Region and the GTA. The comment that comes up most: nobody rushed us, and nobody made us feel like a job on a schedule."
+      "Google reviews — occupied-home, full home and rural bereavement cleanouts across Whitby, Durham Region and the GTA. The comment that comes up most: nobody rushed us, and nobody made us feel like a job on a schedule."
      ]
     },
     {

@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Google Reviews"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Word travels fast between the plazas on Harwood Avenue, the industrial units along Bayly Street, and the offices clustered near the Ajax GO station — and a lot of our commercial junk removal work in Ajax now comes from referrals. Behind Live Junk Free sit 700+ five-star Google reviews, many from Durham Region property managers and business owners who tested us once on a single office cleanout and then put us on speed dial. What they mention most: junk removal quotes that hold, crews that respect a working business, and floors you could show a client an hour after we leave."
+      "Word travels fast between the plazas on Harwood Avenue, the industrial units along Bayly Street, and the offices clustered near the Ajax GO station — and a lot of our commercial junk removal work in Ajax now comes from referrals. Behind Live Junk Free sit Google reviews, many from Durham Region property managers and business owners who tested us once on a single office cleanout and then put us on speed dial. What they mention most: junk removal quotes that hold, crews that respect a working business, and floors you could show a client an hour after we leave."
      ]
     },
     {
@@ -144,7 +144,7 @@
        "title": "Commercial-grade care for your Ajax premises",
        "text": [
         [
-         "Storefront glass, lobby tile, freshly painted corridors — commercial spaces are full of things that scratch. We roll out floor runners, pad the doorways, and break down oversized fixtures before they travel. When our junk hauling truck pulls out of your lot, the only change to the property is the empty space."
+         "Storefront glass, lobby tile, freshly painted corridors — commercial spaces are full of things that scratch. {{fact:propertyProtection}}. When our junk hauling truck pulls out of your lot, the only change to the property is the empty space."
         ]
        ]
       },
@@ -153,7 +153,7 @@
        "title": "Junk pickup scheduled around Ajax business hours — not ours",
        "text": [
         [
-         "Open 6AM to 11PM, seven days a week, our trucks handle pre-open clear-outs for restaurants, post-close pickups for retail, and Sunday warehouse purges when the industrial park sits empty. Your customers never see a junk removal job in progress unless you want them to."
+         "Your customers never see a junk removal job in progress unless you want them to."
         ]
        ]
       },
@@ -162,7 +162,7 @@
        "title": "Locally owned junk removal — franchise prices minus the franchise",
        "text": [
         [
-         "The big-name junk removal brands operating in Ajax are franchises carrying royalty fees in every invoice. We’re independent, local, and overhead-light — which is why the same commercial junk removal job typically lands 30–50% cheaper with us, whether it’s a one-time cleanout or a standing monthly pickup."
+         "The big-name junk removal brands operating in Ajax are franchises carrying royalty fees in every invoice."
         ]
        ]
       }
@@ -189,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "The math never changes: your junk’s footprint in our truck sets the junk removal cost, starting at {{cad_125}} for small commercial pickups. A single desk barely registers; a full office decommission fills the box and scales accordingly — and you see the exact figure before a single item is lifted. No fuel surcharges appearing on the invoice, no “disposal fees” bolted on at the dump, no bin sitting in your Ajax parking lot charging rent by the day."
+      "The math never changes: your junk’s footprint in our truck sets the junk removal cost, starting at {{min_price:C}} for small commercial pickups. A single desk barely registers; a full office decommission fills the box and scales accordingly — and you see the exact figure before a single item is lifted."
      ]
     },
     {
@@ -210,13 +210,13 @@
     },
     {
      "t": "price",
-     "label": "Commercial Junk Pickups From",
-     "value": "{{cad_125}}"
+     "label": "Commercial Junk Pickups Pricing",
+     "value": "Junk Load from {{min_price:C}}"
     },
     {
      "t": "p",
      "c": [
-      "One volume-based junk removal rate — labour, hauling, disposal and cleanup all in."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -336,7 +336,7 @@
        "Boardroom furniture, reception desks and lobby seating"
       ],
       [
-       "Copier, printer, server and IT equipment disposal with certified e-waste recycling"
+       "Copier, printer, server and IT equipment disposal with e-waste recycling"
       ],
       [
        "Landlord-ready, broom-swept handover at end of lease"
@@ -677,7 +677,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — including offices, retailers, restaurants and property managers across Ajax and Durham Region."
+      "Google reviews — including offices, retailers, restaurants and property managers across Ajax and Durham Region."
      ]
     },
     {
@@ -703,7 +703,7 @@
        "q": "What does commercial junk removal cost in Ajax?",
        "a": [
         [
-         "Pricing runs on truck volume alone, starting at $125 for small pickups. You get an exact flat figure during a free on-site walkthrough of your Ajax property before anything moves — and that written number is final. Stairs, dock time, heavy items and disposal fees are all inside it."
+         "Pricing runs on truck volume alone, starting at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). You get an exact flat figure during a free on-site walkthrough of your Ajax property before anything moves — and that written number is final. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
         ]
        ]
       },
@@ -711,7 +711,7 @@
        "q": "Is full-service junk removal really cheaper than a dumpster rental in Ajax?",
        "a": [
         [
-         "The same geography that built Schomberg — the crossroads. Our trucks already run the 9, the 27 and the 400 corridor daily, so staging a crew here costs nothing extra, which is why full-property cleanouts that other companies price high for small villages book normally with us."
+         "The same geography that built Schomberg — the crossroads."
         ]
        ]
       },

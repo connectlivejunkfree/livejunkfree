@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -136,7 +136,7 @@
        "b": [
         {
          "i": [
-          "Calls answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -168,7 +168,7 @@
     {
      "t": "p",
      "c": [
-      "We understand the urgency of removing scrap metal, whether you’re clearing out after a renovation, upgrading appliances, managing industrial waste, or simply reclaiming valuable space. That’s why we offer flexible same-day and next-day scrap metal pickup to meet your timeline."
+      "We understand the urgency of removing scrap metal, whether you’re clearing out after a renovation, upgrading appliances, managing industrial waste, or simply reclaiming valuable space. That’s why we offer flexible same-day and next-day scrap metal pickup to meet your timeline, subject to scheduling."
      ]
     },
     {
@@ -193,7 +193,7 @@
        "Thorough cleanup with all debris hauled away"
       ],
       [
-       "Environmentally responsible recycling through certified facilities"
+       "Environmentally responsible recycling through recycling facilities"
       ],
       [
        "Complete property restoration, no leftover mess"
@@ -222,7 +222,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Damage-Free Guarantee"
+     "text": "Careful Removal"
     },
     {
      "t": "h",
@@ -237,7 +237,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "– Available weekends and evenings with emergency same-day service for urgent metal disposal needs"
+     "text": "{{fact:nextAvailable}}"
     },
     {
      "t": "h",
@@ -247,7 +247,7 @@
     {
      "t": "p",
      "c": [
-      "– 100% of materials processed through certified green facilities – turning waste into valuable resources"
+      "{{fact:recycling}}"
      ]
     },
     {
@@ -268,7 +268,7 @@
     {
      "t": "p",
      "c": [
-      "Need it gone today? We offer urgent same-day Scrap metal pickup for quick cleanouts"
+      "Need it gone today? We offer urgent same-day Scrap metal pickup for quick cleanouts, subject to scheduling."
      ]
     }
    ]
@@ -311,7 +311,7 @@
      "t": "ul",
      "items": [
       [
-       "Responsible Recycling – We ensure 100% of collected metals are processed through certified recycling facilities, giving scrap new life as raw materials for manufacturing"
+       "Responsible Recycling – We ensure 100% of collected metals are processed through recycling facilities, giving scrap new life as raw materials for manufacturing"
       ],
       [
        "Community Impact Program – Recycled metals support local industries and reduce mining demands, helping build a more sustainable future for our community"
@@ -350,7 +350,7 @@
      "t": "ul",
      "items": [
       [
-       "Free Instant Quotes – Get accurate estimates by phone, text, or online in minutes, no obligation"
+       "{{fact:freeOnsiteEstimates}}"
       ],
       [
        "Competitive Market-Based Pricing – We pay you top dollar for your scrap metal based on current market rates"
@@ -433,7 +433,7 @@
       {
        "title": "Pick Your Preferred Time",
        "text": [
-        "Schedule same-day or next-day scrap metal collection with our team. We’re available at your convenience, even for urgent metal waste disposal needs."
+        "Schedule same-day or next-day scrap metal collection with our team, subject to scheduling. We’re available at your convenience, even for urgent metal waste disposal needs."
        ]
       },
       {
@@ -516,7 +516,7 @@
        "q": "Do you recycle all collected scrap metal?",
        "a": [
         [
-         "Absolutely! 100% of materials go to certified recycling facilities."
+         "Absolutely! 100% of materials go to recycling facilities."
         ]
        ]
       },
@@ -524,7 +524,7 @@
        "q": "Do I need to separate different types of metal?",
        "a": [
         [
-         "No need – our team handles all sorting. Though separated metals may get you better rates."
+         "No need – our team handles all sorting."
         ]
        ]
       },

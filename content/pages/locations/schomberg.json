@@ -5,8 +5,8 @@
  "type": "location-town",
  "template": "TownHub",
  "seo": {
-  "title": "Junk Removal Schomberg, ON | Same-Day Service & Free Estimates",
-  "description": "Need junk removal in Schomberg, ON? Live Junk Free offers same-day junk removal, barn cleanouts, furniture removal, farm property cleanouts & free estimates.",
+  "title": "Junk Removal Schomberg, ON | Service & Free Estimates",
+  "description": "Need junk removal in Schomberg, ON? Live Junk Free offers same-day junk removal when available, barn cleanouts, furniture removal, farm property cleanouts & free estimates.",
   "canonical": "https://livejunkfree.ca/locations/schomberg/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
  },
@@ -115,7 +115,7 @@
      "items": [
       {
        "n": "01",
-       "title": "No Hidden Fees",
+       "title": "{{fact:competitorComparison}}",
        "text": []
       }
      ]
@@ -123,7 +123,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The number we hand you on-site is the complete cost. Labour, truck, fuel, disposal — everything is inside that one number. There are no line items waiting to appear after you've approved the quote. There is no \"rural access fee\" for Schomberg or King Township properties. There is no \"distance charge\" because you're north of the 400. One number, everything covered, no exceptions."
+     "text": "The number we hand you on-site is the complete cost. {{fact:taxNote}}. {{fact:pricingIntro.extra}} There are no line items waiting to appear after you've approved the quote. There is no \"rural access fee\" for Schomberg or King Township properties. There is no \"distance charge\" because you're north of the 400. One number, everything covered, no exceptions."
     },
     {
      "t": "steps",
@@ -190,7 +190,7 @@
      "items": [
       {
        "n": "06",
-       "title": "30–50% less than franchise competitors",
+       "title": "",
        "text": []
       }
      ]
@@ -207,7 +207,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Honest Junk Removal Pricing in Schomberg — No Hidden Fees, No Surprises"
+     "text": "Honest Junk Removal Pricing in Schomberg, No Surprises"
     },
     {
      "t": "h",
@@ -217,7 +217,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Our pricing model is built to meet that expectation fully: honest, upfront and completely free of hidden fees or surprise charges. Prices start as low as {{cad_125}} for small loads. Book your free Schomberg junk removal estimate today — honest pricing, no hidden fees, no surprises."
+     "text": "Prices start as low as {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). Book your free Schomberg junk removal estimate today — honest pricing, no surprises."
     },
     {
      "t": "cards",
@@ -260,7 +260,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The simplest junk removal process in King Township — and possibly all of York Region. You point to what needs to go. We take care of every single thing that happens after. Here's our complete 4-step same-day junk removal process in Schomberg, Ontario — from your first call to a cleared, clean space:"
+     "text": "The simplest junk removal process in King Township — and possibly all of York Region. You point to what needs to go. We take care of every single thing that happens after. Here's our complete 4-step same-day junk removal when available process in Schomberg, Ontario — from your first call to a cleared, clean space:"
     },
     {
      "t": "cards",
@@ -268,13 +268,13 @@
       {
        "title": "Book Your Pickup",
        "text": [
-        "Call +1 647 922 5865 or book online in minutes. We'll confirm your same-day or next-day appointment and provide a 30-minute arrival call before we arrive."
+        "Call +1 647 922 5865 or book online in minutes. We'll confirm your same-day or next-day appointment when available and provide a 30-minute arrival call before we arrive."
        ]
       },
       {
        "title": "Receive a Fair, Upfront Quote",
        "text": [
-        "Show us what needs to go, and we'll provide one clear, all-inclusive price. No hidden fees, no surprises, and no obligation to proceed."
+        "Show us what needs to go, and we'll provide one clear, price., no surprises, and no obligation to proceed."
        ]
       },
       {
@@ -562,7 +562,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -592,7 +592,7 @@
        "q": "Q: How much does junk removal cost in Schomberg, Ontario?",
        "a": [
         [
-         "A: Our Schomberg junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour. There are no hidden fees, no rural surcharges for King Township properties and no travel premiums. Prices start at $125 for small loads. We provide a free on-site estimate before any work begins — the price you approve is the exact price you pay."
+         "A: Our Schomberg junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour. Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). We provide a free on-site estimate before any work begins — the price you approve is the exact price you pay."
         ]
        ]
       },
@@ -600,7 +600,7 @@
        "q": "Q: Do you offer same-day junk removal in Schomberg?C",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across Schomberg, King Township, Nobleton, Bond Head and surrounding York Region communities. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+         "A: Yes — same-day junk removal is available across Schomberg, King Township, Nobleton, Bond Head and surrounding York Region communities. Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },
@@ -632,7 +632,7 @@
        "q": "Q: Are you a local Schomberg company or a franchise?",
        "a": [
         [
-         "A: We are 100% locally owned and operated — not a national franchise. No franchise royalties means our Schomberg and King Township pricing is consistently 30–50% lower than national junk removal chains for the exact same quality of service."
+         "A: We are 100% locally owned and operated — not a national franchise."
         ]
        ]
       },

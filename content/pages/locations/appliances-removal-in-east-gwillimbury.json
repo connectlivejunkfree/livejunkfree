@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Appliance Removal in East Gwillimbury Same day Junk Pickup | Live Junk Free",
-  "description": "Safe and quick appliances removal in East Gwillimbury. Great for residential, e waste, bulky items, green disposal. Call for same day pickup!",
+  "title": "Appliance Removal in East Gwillimbury Same day Junk Pickup when available | Live Junk Free",
+  "description": "Safe and quick appliances removal in East Gwillimbury. Great for residential, e waste, bulky items, green disposal. Call for same day pickup when available!",
   "canonical": "https://livejunkfree.ca/locations/appliances-removal-in-east-gwillimbury/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "appliances-removal-in-east-gwillimbury",
+ "title": "Appliances Removal in East Gwillimbury",
  "h1": "Appliance Removal Services in East Gwillimbury, Ontario — For a Town Full of Fresh Starts",
  "published": "2026-07-15T07:03:33",
  "modified": "2026-07-15T07:03:33",
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "East Gwillimbury runs on two clocks: subdivisions in Queensville and around Sharon filling with first owners, and village and rural homes in Holland Landing, Mount Albert and the concessions that have kept their appliances running for decades. Live Junk Free hauls from both — 700+ five-star Google reviews earned on punctual trucks, honest flat numbers and floors treated like they were just installed. In half this town, they were."
+     "text": "East Gwillimbury runs on two clocks: subdivisions in Queensville and around Sharon filling with first owners, and village and rural homes in Holland Landing, Mount Albert and the concessions that have kept their appliances running for decades. Live Junk Free hauls from both — Google reviews earned on punctual trucks, honest flat numbers and floors treated like they were just installed. In half this town, they were."
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Standard disconnection, floor and trim protection, the carry, the haul, every recycling fee — all inside one price, locked before we start. A stubborn stacked unit or a tight cellar turn is our complication, never your surcharge."
+     "text": "A stubborn stacked unit or a tight cellar turn is our complication, never your surcharge."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent pricing — 30–50% under the franchise trucks",
+       "title": "Independent pricing",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national haulers carry royalty fees in every quote. We're locally owned with none, and East Gwillimbury pickups land 30–50% cheaper for the identical result."
+     "text": "The national haulers carry royalty fees in every quote."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small loads start at {{cad_125}}, single machines stay at the low end, and multi-appliance pickups — the old house's set, the builder units, the freezer that shouldn't have moved — ride as one combined load priced by total truck space. The free at-the-door quote is the entire negotiation; the receipt matches it to the dollar."
+     "text": "The free at-the-door quote is the entire negotiation; the receipt matches it to the dollar."
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Book Around Your Chaos",
        "text": [
-        "Call +1 647 922 5865 or book online — two minutes, even mid-move. Crews cover East Gwillimbury seven days a week, 6AM to 11PM, with same-day slots and a 30-minute text so the pickup lands between your other deliveries."
+        "Call +1 647 922 5865 or book online — two minutes, even mid-move."
        ]
       },
       {
        "title": "2. Quote at the Machine",
        "text": [
-        "We assess the unit, its hookups and its exit path, then hand you one flat, all-inclusive figure. Free to hear, free to decline."
+        "We assess the unit, its hookups and its exit path, then hand you one flat, figure. Free to hear, free to decline."
        ]
       },
       {
@@ -272,7 +272,7 @@
       {
        "title": "4. Retired Responsibly",
        "text": [
-        "Working units go to donation partners first, refrigerant-bearing machines get licensed processing, and the metals get recovered. A proper end, every time."
+        "A proper end, every time."
        ]
       }
      ]
@@ -471,7 +471,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -501,7 +501,7 @@
        "q": "Q: What does appliance removal cost in East Gwillimbury?",
        "a": [
         [
-         "A: Truck volume sets it — small loads from $125, a single fridge or washer at the low end, multi-unit pickups scaling only with combined space. The flat figure is quoted free at your door with weight, stairs and awkwardness already inside it, and it can’t change after approval."
+         "The flat figure is quoted free at your door with weight, stairs and awkwardness already inside it, and it can’t change after approval."
         ]
        ]
       },

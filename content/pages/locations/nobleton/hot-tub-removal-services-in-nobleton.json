@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Hot Tub Removal Services in Nobleton from Live Junk Free — done safely and in one visit, draining, disconnecting, cutting apart and hauling away by an insured crew, quoted flat on site with no minimum-job padding, and the yard left clear the same day, seven days a week."
+     "text": "{{fact:nextAvailable}}"
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Nobleton is a village of people who build and fix their own projects, and hot tub removal is usually the one part they’d rather hand off. Around the village core, it’s a tub tucked behind a house, drained and cleared to make room for whatever’s actually planned next. On the big lots where owners run real workshops, it’s a tub cleared out of the way of a new build or a workshop expansion. Out on the surrounding concessions and hobby farms, it’s a tub left by a previous owner in a yard full of other projects, cleared alongside whatever else needs to go. And whatever the size — a single portable spa or a full six-seater — Live Junk Free prices it the same honest way, without a minimum charge inflating a small job. The 700+ five-star Google reviews behind Live Junk Free come from every one of those properties — a hot tub removal crew that drained it properly, cut it down safely without wrecking the deck underneath, and hauled every piece away the same visit."
+      "Nobleton is a village of people who build and fix their own projects, and hot tub removal is usually the one part they’d rather hand off. Around the village core, it’s a tub tucked behind a house, drained and cleared to make room for whatever’s actually planned next. On the big lots where owners run real workshops, it’s a tub cleared out of the way of a new build or a workshop expansion. Out on the surrounding concessions and hobby farms, it’s a tub left by a previous owner in a yard full of other projects, cleared alongside whatever else needs to go. And whatever the size — a single portable spa or a full six-seater — Live Junk Free prices it the same honest way, without a minimum charge inflating a small job. The Google reviews behind Live Junk Free come from every one of those properties — a hot tub removal crew that drained it properly, cut it down safely without wrecking the deck underneath, and hauled every piece away the same visit."
      ]
     },
     {
@@ -117,7 +117,7 @@
        "title": "One flat hot tub removal price — no minimum-job padding, ever",
        "text": [
         [
-         "A hot tub isn’t a normal junk item, and Live Junk Free’s quote reflects the real work: draining the water, disconnecting whatever needs disconnecting, cutting the shell into manageable sections, and hauling every piece away. A small portable spa prices like the small job it is — no minimum charge, no inflated baseline, just the real work priced honestly."
+         "A hot tub isn’t a normal junk item, and Live Junk Free’s quote reflects the real work: draining the water, disconnecting whatever needs disconnecting, cutting the shell into manageable sections, and hauling every piece away."
         ]
        ]
       },
@@ -159,10 +159,10 @@
       },
       {
        "n": "06",
-       "title": "Independent hot tub removal pricing — 30–50% under the bigger outfits",
+       "title": "Independent hot tub removal pricing",
        "text": [
         [
-         "The national junk removal brands price hot tub removal with a franchise premium built in, and treat villages like Nobleton as out-of-zone with a surcharge on top. Live Junk Free does neither — the reason identical hot tub removals in Nobleton invoice 30–50% lighter with us."
+         "The national junk removal brands price hot tub removal with a franchise premium built in, and treat villages like Nobleton as out-of-zone with a surcharge on top."
         ]
        ]
       }
@@ -189,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "Pricing is set on site once the crew sees the tub’s size, condition and access — a single portable spa prices small, a full six-and-seven-seat tub prices accordingly, and there’s no floor on the number either way. Anything with unusually difficult access (long laneways, tight side-yard gates) gets factored in honestly at the walkthrough, without a rural or village markup. The figure covers draining, cutting, hauling and responsible disposal or recycling as one price, with nothing added after the fact."
+      "Pricing is set on site once the crew sees the tub’s size, condition and access — a single portable spa prices small, a full six-and-seven-seat tub prices accordingly, and there’s no floor on the number either way. Anything with unusually difficult access (long laneways, tight side-yard gates) gets factored in honestly at the walkthrough, without a rural or village markup."
      ]
     },
     {
@@ -211,7 +211,7 @@
     {
      "t": "price",
      "label": "Nobleton Hot Tub Removal Price",
-     "value": "{{cad_265}}"
+     "value": "Priced at your free onsite estimate"
     },
     {
      "t": "p",
@@ -244,7 +244,7 @@
     {
      "t": "p",
      "c": [
-      "A hot tub removal appointment follows four steps: booking, a free on-site quote, the drain-and-cut-out process, and same-day haul-away. Most jobs finish within a couple of hours."
+      "A hot tub removal appointment follows four steps: booking, a free on-site quote, the drain-and-cut-out process, and same-day haul-away when available."
      ]
     }
    ]
@@ -259,7 +259,7 @@
        "title": "Book Your Hot Tub Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots are usually available, seven days a week, 6AM to 11PM. Tell us the tub’s rough size and location, village or concession."
+         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots are usually available. Tell us the tub’s rough size and location, village or concession."
         ]
        ]
       },
@@ -283,10 +283,10 @@
       },
       {
        "n": "04",
-       "title": "Your Yard Is Clear the Same Day",
+       "title": "Your Yard Is Clear",
        "text": [
         [
-         "The space where the tub sat gets left clean, with metal components, motors and pumps routed to recycling and the rest disposed of responsibly. Most Nobleton hot tub removals finish within a couple of hours."
+         "The space where the tub sat gets left clean, with metal components, motors and pumps routed to recycling and the rest disposed of responsibly."
         ]
        ]
       }
@@ -330,7 +330,7 @@
        "Full-size hot tub removal from village lots around the King Road corner"
       ],
       [
-       "Portable and inflatable spa removal, no cutting required and no minimum charge"
+       "{{fact:competitorComparison}}"
       ]
      ]
     },
@@ -349,7 +349,7 @@
        "Tubs left by a previous owner, cleared alongside anything else in the yard"
       ],
       [
-       "Long-laneway access included at no extra charge"
+       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -641,7 +641,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — heritage, waterfront, farmhouse and estate hot tub removals across Port Perry, Scugog and Durham Region."
+      "Google reviews — heritage, waterfront, farmhouse and estate hot tub removals across Port Perry, Scugog and Durham Region."
      ]
     },
     {
@@ -807,7 +807,7 @@
        "q": "Can you clear a hot tub from a hobby farm or rural property?",
        "a": [
         [
-         "Yes, and it’s regular work for us on the concessions around the village. Long laneways are included at no extra charge, and crews work calmly around any animals or active operations on the property. "
+         "Yes, and it’s regular work for us on the concessions around the village. {{fact:pricingIntro.extra}} "
         ]
        ]
       }

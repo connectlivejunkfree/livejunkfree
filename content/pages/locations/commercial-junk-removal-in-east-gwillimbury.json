@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Junk Removal Reviews on Google"
+     "text": "★★★★★ Junk Removal Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "We were running junk removal routes up Yonge Street through Holland Landing back when the 404 extension was still a line on a map — so unlike the haulers now discovering East Gwillimbury exists, we know the difference between a Queensville concession and a Green Lane loading dock. The 660+ five-star Google reviews behind Live Junk Free carry that history: local shop owners, new-corridor warehouse managers and EG landlords all describing the same service — a junk removal quote that stayed put, a crew that showed up when the phone call said, and a property handed back swept, whether the floor was 1890s pine or last year’s polished concrete."
+      "We were running junk removal routes up Yonge Street through Holland Landing back when the 404 extension was still a line on a map — so unlike the haulers now discovering East Gwillimbury exists, we know the difference between a Queensville concession and a Green Lane loading dock. The Google reviews behind Live Junk Free carry that history: local shop owners, new-corridor warehouse managers and EG landlords all describing the same service — a junk removal quote that stayed put, a crew that showed up when the phone call said, and a property handed back swept, whether the floor was 1890s pine or last year’s polished concrete."
      ]
     },
     {
@@ -148,19 +148,19 @@
       },
       {
        "n": "05",
-       "title": "Junk pickup windows that bend around your hours — 6AM to 11PM, daily",
+       "title": "{{fact:nextAvailable}}",
        "text": [
         [
-         "Main-street shops book us before open; the corridor warehouses book us between shifts or on Sundays when the docks sit quiet. With trucks out seven days a week from 6AM to 11PM, your East Gwillimbury junk removal happens whenever your operation isn’t looking."
+         "Main-street shops book us before open; the corridor warehouses book us between shifts or on Sundays when the docks sit quiet."
         ]
        ]
       },
       {
        "n": "06",
-       "title": "Independent junk removal pricing — 30–50% under the franchise chains",
+       "title": "Independent junk removal pricing",
        "text": [
         [
-         "The national junk brands treat northern York Region as an expansion market and price it accordingly, royalties included. We’re local and independent — no franchise fees inside our quotes and no “remote area” markup either. The result shows up on the invoice: 30–50% less for the same truckload."
+         "The national junk brands treat northern York Region as an expansion market and price it accordingly, royalties included. We’re local and independent — no franchise fees inside our quotes and no “remote area” markup either."
         ]
        ]
       }
@@ -187,7 +187,7 @@
     {
      "t": "p",
      "c": [
-      "The rule: your load’s share of the truck sets the price, starting at {{cad_125}} for small commercial junk pickups. A single retired display case from a Holland Landing shop barely registers; a full bay cleanout on the Green Lane corridor fills the box and scales in the open. Every figure is confirmed in writing at your door first — and once approved it cannot move, no matter what the mezzanine turns out to be hiding."
+      "The rule: your load’s share of the truck sets the price, starting at {{min_price:C}} for small commercial junk pickups. A single retired display case from a Holland Landing shop barely registers; a full bay cleanout on the Green Lane corridor fills the box and scales in the open. Every figure is confirmed in writing at your door first — and once approved it cannot move, no matter what the mezzanine turns out to be hiding."
      ]
     },
     {
@@ -208,13 +208,13 @@
     },
     {
      "t": "price",
-     "label": "EG Commercial Junk Removal From",
-     "value": "{{cad_125}}"
+     "label": "EG Commercial Junk Removal Pricing",
+     "value": "Junk Load from {{min_price:C}}"
     },
     {
      "t": "p",
      "c": [
-      "One volume-based number — dismantling, every carry, hauling and disposal inside it."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -257,7 +257,7 @@
        "title": "Reserve Your East Gwillimbury Junk Pickup",
        "text": [
         [
-         "Call +1 647 922 5865 or book online in a couple of minutes. EG sits directly on our daily York Region routes — 6AM to 11PM, seven days — so same-day junk removal is realistic most mornings, and the 30-minute heads-up call is standard whether you’re on Yonge Street or a Queensville sideroad."
+         "Call +1 647 922 5865 or book online in a couple of minutes."
         ]
        ]
       },
@@ -675,7 +675,7 @@
     {
      "t": "p",
      "c": [
-      "700+five-star Google reviews — shops, warehouses, contractors and landlords across East Gwillimbury, York Region and the GTA."
+      "Google reviews — shops, warehouses, contractors and landlords across East Gwillimbury, York Region and the GTA."
      ]
     },
     {
@@ -701,7 +701,7 @@
        "q": "What does commercial junk removal cost in East Gwillimbury?",
        "a": [
         [
-         "Truck volume is the whole equation: small pickups from $125, larger loads scaling with the space they occupy and nothing else. The exact number is written during a free on-site walkthrough anywhere in EG before work begins, with labour, dismantling and all disposal fees already inside it."
+         "Truck volume is the whole equation: small pickups from {{min_price:C}}, larger loads scaling with the space they occupy and nothing else. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
         ]
        ]
       },
@@ -733,7 +733,7 @@
        "q": "How fast can a junk removal truck reach my EG business?",
        "a": [
         [
-         "Same-day is common. EG sits on routes we run seven days a week between 6AM and 11PM, so a morning call at +1 647 922 5865 regularly turns into an afternoon junk pickup — and we quote you today’s genuine availability, not a hopeful estimate."
+         "Same-day is common, subject to scheduling."
         ]
        ]
       },
@@ -757,7 +757,7 @@
        "q": "Why choose an independent over a franchise junk removal brand?",
        "a": [
         [
-         "Price and accountability. Franchise quotes carry royalties to a distant head office; ours don’t, which is most of the 30–50% gap on identical jobs. And when the company is local, the person answerable for your East Gwillimbury clear-out is the same one who quoted it."
+         "Price and accountability. And when the company is local, the person answerable for your East Gwillimbury clear-out is the same one who quoted it."
         ]
        ]
       }

@@ -5,8 +5,8 @@
  "type": "location-town",
  "template": "TownHub",
  "seo": {
-  "title": "Junk Removal Uxbridge, ON | Same-Day Service & Free Estimates",
-  "description": "Need junk removal in Uxbridge, ON? Live Junk Free offers same-day junk removal, barn cleanouts, furniture removal, acreage cleanouts & free estimates.",
+  "title": "Junk Removal Uxbridge, ON | Service & Free Estimates",
+  "description": "Need junk removal in Uxbridge, ON? Live Junk Free offers same-day junk removal when available, barn cleanouts, furniture removal, acreage cleanouts & free estimates.",
   "canonical": "https://livejunkfree.ca/locations/uxbridge/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
  },
@@ -145,7 +145,7 @@
      "items": [
       {
        "n": "03",
-       "title": "Fair — one all-inclusive flat-rate number",
+       "title": "Fair — one flat-rate number",
        "text": []
       }
      ]
@@ -153,7 +153,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Labour, truck, fuel, disposal — all in one number. No rural travel surcharge for Goodwood or Sandford properties. No \"extended service area\" premium for properties on Uxbridge Township concession roads. One number. Everything covered."
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} No rural travel surcharge for Goodwood or Sandford properties. No \"extended service area\" premium for properties on Uxbridge Township concession roads. One number. Everything covered."
     },
     {
      "t": "steps",
@@ -175,7 +175,7 @@
      "items": [
       {
        "n": "05",
-       "title": "You approve it, it's locked — no changes",
+       "title": "{{fact:competitorComparison}}",
        "text": []
       }
      ]
@@ -190,7 +190,7 @@
      "items": [
       {
        "n": "06",
-       "title": "30–50% less than franchise competitors",
+       "title": "",
        "text": []
       }
      ]
@@ -217,7 +217,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Uxbridge is a community that values straightforward dealing — fair prices, honest work and no one trying to take advantage. Our pricing model is built entirely around those values. Simple. Fair. No games. Prices start as low as {{cad_125}} for small loads. Book your free Uxbridge junk removal estimate — simple, fair and always upfront."
+     "text": "Uxbridge is a community that values straightforward dealing — fair prices, honest work and no one trying to take advantage. Our pricing model is built entirely around those values. Simple. Fair. No games. Prices start as low as {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). Book your free Uxbridge junk removal estimate — simple, fair and always upfront."
     },
     {
      "t": "cards",
@@ -260,7 +260,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The simplest promise in Uxbridge junk removal: book today, enjoy a cleaner property tomorrow. Our same-day and next-day junk removal process in Uxbridge, Ontario is built around speed, simplicity and delivering exactly that promise — every single time. Here's our complete 4-step process from first call to clean space:"
+     "text": "The simplest promise in Uxbridge junk removal: book today, enjoy a cleaner property tomorrow. Our same-day and next-day junk removal process in Uxbridge, Ontario is built around speed, simplicity and delivering exactly that promise — every single time, subject to scheduling. Here's our complete 4-step process from first call to clean space:"
     },
     {
      "t": "cards",
@@ -268,13 +268,13 @@
       {
        "title": "Book Your Pickup",
        "text": [
-        "Call +1 647 922 5865 or book online in minutes. We'll confirm your same-day or next-day appointment and provide a 30-minute arrival notice before we arrive."
+        "Call +1 647 922 5865 or book online in minutes. We'll confirm your same-day or next-day appointment when available and provide a 30-minute arrival notice before we arrive."
        ]
       },
       {
        "title": "Get a Clear, Upfront Quote",
        "text": [
-        "Our team arrives on time, assesses everything that needs removal, and provides one all-inclusive quote. No hidden fees and no obligation to proceed."
+        "Our team arrives on time, assesses everything that needs removal, and provides one quote. and no obligation to proceed."
        ]
       },
       {
@@ -303,7 +303,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Uxbridge Township is one of Durham Region's most rurally distinct municipalities — a remarkable mix of working farm properties and acreages, established residential neighbourhoods in the Uxbridge town core, historic heritage properties, countryside retreats and a growing local business community. Live Junk Free provides complete junk removal across every single property type in Uxbridge — acreages, barns, garages, homes, condos and businesses — with the same professional standard, honest pricing and same-day capability every time."
+     "text": "Uxbridge Township is one of Durham Region's most rurally distinct municipalities — a remarkable mix of working farm properties and acreages, established residential neighbourhoods in the Uxbridge town core, historic heritage properties, countryside retreats and a growing local business community. Live Junk Free provides complete junk removal across every single property type in Uxbridge — acreages, barns, garages, homes, condos and businesses — with the same professional standard, honest pricing and same-day capability every time, subject to scheduling."
     },
     {
      "t": "faq",
@@ -629,7 +629,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -659,7 +659,7 @@
        "q": "Q: How much does junk removal cost in Uxbridge, Ontario?",
        "a": [
         [
-         "A: Our Uxbridge junk removal pricing is simple and volume-based — you pay based on how much space your items fill in our truck, not by the hour. There are no rural surcharges for Uxbridge Township properties and no travel premiums for properties in Goodwood, Sandford, Leaskdale or Claremont. Prices start at $125 for small loads. We provide a free on-site estimate before any work begins — the price you approve is the price you pay."
+         "A: Our Uxbridge junk removal pricing is simple and volume-based — you pay based on how much space your items fill in our truck, not by the hour. Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). We provide a free on-site estimate before any work begins."
         ]
        ]
       },
@@ -667,7 +667,7 @@
        "q": "Q: Do you offer same-day junk removal in Uxbridge?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of Uxbridge Township including Goodwood, Claremont, Sandford, Leaskdale and surrounding Durham Region communities. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+         "A: Yes — same-day junk removal is available across all of Uxbridge Township including Goodwood, Claremont, Sandford, Leaskdale and surrounding Durham Region communities. Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },
@@ -675,7 +675,7 @@
        "q": "Q: Do you handle acreage and barn cleanouts in Uxbridge Township?",
        "a": [
         [
-         "A: Absolutely — acreage property cleanouts and barn cleanouts across Uxbridge Township are one of our most requested services. We handle full barn clearing, agricultural equipment removal, large rural lot clearing, scrap metal removal and outbuilding cleanouts — at the same fair volume-based pricing as any other job, with no rural surcharges."
+         "A: Absolutely — acreage property cleanouts and barn cleanouts across Uxbridge Township are one of our most requested services."
         ]
        ]
       },
@@ -683,7 +683,7 @@
        "q": "Q: Do you serve rural communities like Goodwood, Sandford and Leaskdale?",
        "a": [
         [
-         "A: Yes — we serve every community across Uxbridge Township including Goodwood, Claremont, Sandford, Leaskdale, Zephyr and Siloam — with no additional charges for rural or remote locations. Our trucks are never far away from any Uxbridge Township address."
+         "Our trucks are never far away from any Uxbridge Township address."
         ]
        ]
       },
@@ -699,7 +699,7 @@
        "q": "Q: Are you a local Uxbridge company or a franchise?",
        "a": [
         [
-         "A: We are 100% locally owned and operated — not a national franchise. No franchise royalties means our Uxbridge pricing is consistently 30–50% lower than national junk removal chains for the same or better quality of service."
+         "A: We are 100% locally owned and operated — not a national franchise."
         ]
        ]
       },

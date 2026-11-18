@@ -5,7 +5,7 @@
  "type": "location-town",
  "template": "TownHub",
  "seo": {
-  "title": "Junk Removal Nobleton Ontario | Same-Day Service | Live Junk Free",
+  "title": "Junk Removal Nobleton Ontario | Free Onsite Estimates | Live Junk Free",
   "description": "Clearing out your Nobleton property? Live Junk Free handles furniture, appliances, estate cleanouts & renovation debris — fully insured, upfront pricing. Call +1 647 922 5865!",
   "canonical": "https://livejunkfree.ca/locations/nobleton/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -146,7 +146,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "What we quote is exactly what you pay. No hidden fees, surprise add-ons, or last-minute charges."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "steps",
@@ -215,7 +215,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Straightforward Junk Removal Pricing in Nobleton: What We Quote Is What You Pay, Period"
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "h",
@@ -531,7 +531,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -561,7 +561,7 @@
        "q": "How much does junk removal cost in Nobleton?",
        "a": [
         [
-         "Pricing depends on the amount of junk, item type, and how much truck space is required. Live Junk Free provides upfront quotes with no hidden fees before the job begins."
+         "Pricing depends on the amount of junk, item type, and how much truck space is required."
         ]
        ]
       },

@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Hot Tub Removal Services in East Gwillimbury from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub, quoted flat on site with no hamlet premium, seven days a week."
+     "text": "Hot Tub Removal Services in East Gwillimbury from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub, quoted flat on site with no hamlet premium."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -132,7 +132,7 @@
        "title": "Removal for tubs that barely had time to age",
        "text": [
         [
-         "Growth-corridor households sometimes need something removed that’s only a few years old, and it’s priced the same as anything else — no assumption that newer means easier or cheaper."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -165,7 +165,7 @@
       },
       {
        "n": "06",
-       "title": "Independent pricing, 30–50% under the bigger outfits",
+       "title": "Independent pricing",
        "text": [
         [
          "National junk removal franchises build a royalty into every quote, and some pad small-community jobs further. Live Junk Free does neither."
@@ -217,7 +217,7 @@
     {
      "t": "price",
      "label": "East Gwillimbury Hot Tub Removal Price",
-     "value": "{{cad_265}}"
+     "value": "Priced at your free onsite estimate"
     },
     {
      "t": "p",
@@ -250,7 +250,7 @@
     {
      "t": "p",
      "c": [
-      "A hot tub removal appointment follows four steps: booking, a free on-site quote, the drain-and-cut-out process, and same-day haul-away. Most jobs finish within a couple of hours."
+      "A hot tub removal appointment follows four steps: booking, a free on-site quote, the drain-and-cut-out process, and same-day haul-away when available."
      ]
     }
    ]
@@ -265,7 +265,7 @@
        "title": "Book Your Hot Tub Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available, seven days a week, 6AM to 11PM."
+         "Call +1 647 922 5865 or book online — same-day slots are usually available."
         ]
        ]
       },
@@ -289,7 +289,7 @@
       },
       {
        "n": "04",
-       "title": "Your Yard Is Clear the Same Day",
+       "title": "Your Yard Is Clear",
        "text": [
         [
          "Metal components, motors and pumps are routed to recycling and the rest is disposed of responsibly."
@@ -623,7 +623,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — heritage, waterfront, farmhouse and estate hot tub removals across Port Perry, Scugog and Durham Region."
+      "Google reviews — heritage, waterfront, farmhouse and estate hot tub removals across Port Perry, Scugog and Durham Region."
      ]
     },
     {
@@ -789,7 +789,7 @@
        "q": "Can you remove a hot tub the same day I call?",
        "a": [
         [
-         "Often, yes — trucks run seven days a week, 6AM to 11PM. "
+         "{{fact:sameDay}}. "
         ]
        ]
       }

@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Hoarding cleanouts in Woodbridge from Live Junk Free are handled the way family would handle it — privately, without judgment, and at whatever pace the family actually needs — a free confidential quote, an experienced crew, and donation-first sorting throughout, seven days a week."
+     "text": "Hoarding cleanouts in Woodbridge from Live Junk Free are handled the way family would handle it — privately, without judgment, and at whatever pace the family actually needs — a free confidential quote, an experienced crew, and donation-first sorting throughout."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "In Woodbridge, a hoarding cleanout is often about a home that’s been in the family for a long time — a grandparent’s house, a place several generations grew up visiting, where belongings built up gradually over decades. Live Junk Free treats that history with real respect. Around the older village streets, it’s a family quietly arranging a cleanout for a home that means more than its square footage. In Pine Valley and Weston Downs, it’s the same care applied to larger estate properties, where a hoarding situation on a bigger property still gets the same patient, private treatment as anything smaller. Across East and West Woodbridge more broadly, it’s whatever pace the family actually needs — sometimes one visit, sometimes several sessions spread out so nobody feels rushed through something difficult. The 700+ five-star reviews behind Live Junk Free reflect that same standard consistently — patient work, kept promises, and a family’s trust honoured the whole way through."
+      "In Woodbridge, a hoarding cleanout is often about a home that’s been in the family for a long time — a grandparent’s house, a place several generations grew up visiting, where belongings built up gradually over decades. Live Junk Free treats that history with real respect. Around the older village streets, it’s a family quietly arranging a cleanout for a home that means more than its square footage. In Pine Valley and Weston Downs, it’s the same care applied to larger estate properties, where a hoarding situation on a bigger property still gets the same patient, private treatment as anything smaller. Across East and West Woodbridge more broadly, it’s whatever pace the family actually needs — sometimes one visit, sometimes several sessions spread out so nobody feels rushed through something difficult. The Google reviews behind Live Junk Free reflect that same standard consistently — patient work, kept promises, and a family’s trust honoured the whole way through."
      ]
     },
     {
@@ -160,7 +160,7 @@
        "title": "Free on-site quotes, with an honest cost to clean out a hoarder's house",
        "text": [
         [
-         "A crew member walks the property, sees the real scope, and gives one flat number before anything moves — no guessing from a phone description, and no surprise costs once the work is underway."
+         "A crew member walks the property, sees the real scope, and gives one flat number before anything moves — no guessing from a phone description, and once the work is underway."
         ]
        ]
       }
@@ -193,7 +193,7 @@
     {
      "t": "checks",
      "items": [
-      "Sorting, Hauling and Disposal in One Price",
+      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -201,7 +201,7 @@
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
@@ -209,7 +209,7 @@
     {
      "t": "price",
      "label": "Woodbridge Hoarding Cleanouts",
-     "value": "{{cad_125:suffix}}"
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
@@ -387,9 +387,6 @@
      "items": [
       [
        "Cleanouts arranged by adult children, siblings or other family members"
-      ],
-      [
-       "Regular updates and photo documentation for family members who can't be present"
       ],
       [
        "Coordination with social workers, healthcare providers or case managers"
@@ -862,7 +859,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — generational family home, residential and estate hoarding cleanouts across Woodbridge, Vaughan and the GTA."
+      "Google reviews — generational family home, residential and estate hoarding cleanouts across Woodbridge, Vaughan and the GTA."
      ]
     },
     {

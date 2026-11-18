@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -69,7 +69,7 @@
     {
      "t": "p",
      "c": [
-      "The process couldn’t be easier. We start with a completely free, no-obligation quote so you know exactly what to expect. Once approved, our experienced team takes care of everything: safely disconnecting the appliance, carefully removing it from your home, thoroughly cleaning the area, and ensuring proper disposal or recycling of the unit. We make refrigerator removal so straightforward that most jobs are completed in under an hour."
+      "The process couldn’t be easier. We start with a completely free, no-obligation quote so you know exactly what to expect."
      ]
     },
     {
@@ -102,7 +102,7 @@
     {
      "t": "p",
      "c": [
-      "Removing an old refrigerator doesn’t need to be difficult. Our professional removal service starts at just {{cad_125}}, and we handle everything for you. We’ll safely disconnect your fridge, remove it carefully, and haul it away, leaving your space completely clean with no mess behind."
+      "Removing an old refrigerator doesn’t need to be difficult. We’ll safely disconnect your fridge, remove it carefully, and haul it away, leaving your space completely clean with no mess behind."
      ]
     },
     {
@@ -125,12 +125,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Quick, Local, Same Day Fridge Removal Services"
+     "text": "Quick, Local, Fridge Removal Services"
     },
     {
      "t": "p",
      "c": [
-      "Removing an old refrigerator is a significant challenge, which is why our professional appliance removal team is here to handle it for you. When you choose Live Junk Free, you are guaranteed a completely stress-free experience from start to finish."
+      "Removing an old refrigerator is a significant challenge, which is why our professional appliance removal team is here to handle it for you. {{fact:scheduling}}"
      ]
     },
     {
@@ -164,9 +164,9 @@
        ]
       },
       {
-       "title": "No Hidden Fees",
+       "title": "{{fact:competitorComparison}}",
        "text": [
-        "Your upfront quote includes all labor, disposal costs, and cleanup – no surprise charges ever."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -178,17 +178,17 @@
       {
        "title": "Eco-Conscious Disposal",
        "text": [
-        "We ensure all materials, including metals, plastics, and refrigerants, are properly recycled according to environmental regulations."
+        ""
        ]
       },
       {
        "title": "Massive Time Savings",
        "text": [
-        "What could take you an entire weekend of struggling, we typically complete in under 2"
+        "Timing confirmed at your estimate"
        ]
       },
       {
-       "title": "Same-Day Service",
+       "title": "Same-Day Service when available",
        "text": [
         "Urgent fridge removal available when you need it most"
        ]
@@ -276,7 +276,7 @@
     {
      "t": "p",
      "c": [
-      "Pay only for the fridge we remove – nothing more"
+      "Pay only for the fridge we remove"
      ]
     },
     {
@@ -286,7 +286,7 @@
        "Clear upfront quotes are provided before we arrive"
       ],
       [
-       "Free instant estimates via phone, text, or our website"
+       "{{fact:freeOnsiteEstimates}}"
       ],
       [
        "Special discounts when removing multiple appliances"
@@ -340,25 +340,25 @@
       {
        "title": "Send Us Details",
        "text": [
-        "Text or email photos of your refrigerator, and we'll respond with a free quote within minutes."
+        "{{fact:freeOnsiteEstimates}}"
        ]
       },
       {
        "title": "Get Your Price",
        "text": [
-        "Receive honest, upfront pricing with no hidden costs or surprises"
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Choose Your Time",
        "text": [
-        "Select same-day or next-day removal that fits your schedule - we come to you."
+        "Select same-day or next-day removal when available that fits your schedule - we come to you."
        ]
       },
       {
        "title": "We Handle Everything",
        "text": [
-        "Our team safely removes your fridge, cleans the area, and hauls it away, typically completed in under 90 minutes."
+        "Our team safely removes your fridge, cleans the area, and hauls it away."
        ]
       }
      ]
@@ -411,7 +411,7 @@
        "q": "2. Will you disconnect my fridge before removal?",
        "a": [
         [
-         "Absolutely. Our team safely disconnects water lines and power before removal. Just point us to the fridge – we handle everything."
+         "Absolutely. Just point us to the fridge – we handle everything."
         ]
        ]
       },
@@ -419,7 +419,7 @@
        "q": "3. What happens to my old fridge after removal?",
        "a": [
         [
-         "We responsibly recycle 90 %+ of materials. Freon is properly recovered, metals are recycled, and usable parts may be donated to local organizations."
+         "We responsibly recycle 90 %+ of materials."
         ]
        ]
       },

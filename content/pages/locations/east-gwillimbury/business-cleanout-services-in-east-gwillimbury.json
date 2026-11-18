@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Google Reviews"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -173,7 +173,7 @@
       },
       {
        "n": "06",
-       "title": "Independent business cleanout pricing, 30–50% under the bigger outfits",
+       "title": "Independent business cleanout pricing",
        "text": [
         [
          "National junk removal franchises build a royalty into every quote, and some quietly pad small-community jobs further. Live Junk Free does neither."
@@ -209,14 +209,14 @@
     {
      "t": "p",
      "c": [
-      "What never enters the calculation is which of East Gwillimbury’s communities the business is in. A Green Lane corridor unit and a hamlet shop get quoted by the identical formula. The figure is confirmed for free at an on-site walkthrough, and it’s the number on the invoice, with nothing added once the crew starts hauling."
+      "What never enters the calculation is which of East Gwillimbury’s communities the business is in. A Green Lane corridor unit and a hamlet shop get quoted by the identical formula. The figure is confirmed for free at an on-site walkthrough."
      ]
     },
     {
      "t": "checks",
      "items": [
       "Hauling-Away",
-      "No Stairs Surcharges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -231,12 +231,12 @@
     {
      "t": "price",
      "label": "East Gwillimbury Business Cleanout",
-     "value": "{{cad_125}}"
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
      "c": [
-      "Volume-priced and all-inclusive — sorting, carrying, hauling and disposal in one figure."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -303,7 +303,7 @@
       },
       {
        "n": "04",
-       "title": "Your Space Is Ready the Same Day",
+       "title": "Your Space Is Ready",
        "text": [
         [
          "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and ready for whatever comes next."
@@ -410,7 +410,7 @@
        "Same flat pricing regardless of distance from either community"
       ],
       [
-       "Long driveway or laneway access included at no extra charge"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Careful handling around active farm operations"
@@ -690,7 +690,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — corridor, hamlet and farm-adjacent business cleanouts across East Gwillimbury, York Region and the GTA."
+      "Google reviews — corridor, hamlet and farm-adjacent business cleanouts across East Gwillimbury, York Region and the GTA."
      ]
     },
     {
@@ -867,7 +867,7 @@
        "q": "Can you clear the space the same day I call?",
        "a": [
         [
-         "Often, yes — trucks run seven days a week, 6AM to 11PM."
+         "{{fact:sameDay}}."
         ]
        ]
       },
@@ -1082,7 +1082,7 @@
          "Scheduling depends on crew availability, the size of the job, and the requested service date. Providing the property details and approximate amount of junk can help the team determine the appropriate scheduling options."
         ],
         [
-         "28. Do you offer same-day business cleanout services in East Gwillimbury?"
+         "28. Do you offer same-day business cleanout services in East Gwillimbury, subject to scheduling?"
         ],
         [
          "Same-day service may be available depending on the schedule, job size, and crew availability. Contact Live Junk Free with your requirements to check available options."

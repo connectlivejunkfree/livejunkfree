@@ -4,7 +4,7 @@
 import { plain } from "@/components/designed/ui/Rich";
 import type { FaqItem } from "@content/designed/faqs";
 import { AREAS } from "@content/designed/locations";
-import { HOURS, SITE, SOCIAL } from "@content/designed/site";
+import { SITE, SOCIAL } from "@content/designed/site";
 import type { Crumb } from "@content/designed/types";
 
 const abs = (path: string) => new URL(path, SITE.url).toString();
@@ -19,9 +19,10 @@ export function localBusiness() {
     url: abs("/"),
     telephone: SITE.phoneE164,
     email: SITE.email,
-    logo: abs("/images/logo.webp"),
+    logo: abs("/images/brand/logo.webp"),
+    // Region only: no street address is published (audit R9: "serving [city]", no local office claims).
+    address: { "@type": "PostalAddress", addressRegion: "ON", addressCountry: "CA" },
     areaServed: AREAS.map((a) => ({ "@type": "City", name: a.name })),
-    openingHours: HOURS.schema,
     sameAs: SOCIAL.map((s) => s.href),
   };
 }

@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-Day Residential Junk Removal in Whitchurch-Stouffville | Live Junk Free",
-  "description": "Get expert same-day residential junk removal in Whitchurch-Stouffville. We remove garage junk, old appliances, yard debris, and household clutter fast.",
+  "title": "Residential Junk Removal in Whitchurch-Stouffville | Live Junk Free",
+  "description": "Get expert same-day residential junk removal in Whitchurch-Stouffville, subject to scheduling. We remove garage junk, old appliances, yard debris, and household clutter fast.",
   "canonical": "https://livejunkfree.ca/locations/residential-junk-removal-in-whitchurch-stouffville/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "residential-junk-removal-in-whitchurch-stouffville",
+ "title": "Residential Junk Removal in Whitchurch-Stouffville",
  "h1": "Residential Junk Removal in Whitchurch-Stouffville, Ontario — Little and Often Beats the Giant Purge",
  "published": "2026-07-16T02:44:11",
  "modified": "2026-07-16T02:44:11",
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Plenty of our Whitchurch-Stouffville customers aren't one-time callers — they're households that ring us each time something retires: the appliance swap in spring, the furniture refresh in fall, the shed sort before winter. The 660+ five-star Google reviews behind Live Junk Free read like a town ledger of small jobs done right: on time, flat-quoted, carried carefully, gone."
+     "text": "Plenty of our Whitchurch-Stouffville customers aren't one-time callers — they're households that ring us each time something retires: the appliance swap in spring, the furniture refresh in fall, the shed sort before winter. The Google reviews behind Live Junk Free read like a town ledger of small jobs done right: on time, flat-quoted, carried carefully, gone."
     },
     {
      "t": "steps",
@@ -109,7 +109,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Volume pricing means a single mattress or sofa is billed as the sliver of truck it uses — no minimum charge propping it up, no \"trip fee\" punishing you for calling early instead of waiting for a pile. Loads start at {{cad_125}} and scale only as the truck fills."
+     "text": "Loads start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard) and scale only as the truck fills."
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Carrying, loading, fuel, disposal and donation fees — everything rides inside the approved quote. Whether the piece slides out easily or demands doors off hinges, the price was settled at hello."
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Whether the piece slides out easily or demands doors off hinges, the price was settled at hello."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent pricing, 30–50% under the franchise trucks",
+       "title": "Independent pricing",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national junk brands price royalties into every pickup — hard to justify on a one-sofa job. We're locally owned with none, and Whitchurch-Stouffville pickups land 30–50% cheaper across the board."
+     "text": "The national junk brands price royalties into every pickup — hard to justify on a one-sofa job."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small pickups start at {{cad_125}}, single items sit at the friendly end, and larger clears grow only with the truck space they claim — never with time, weight or the length of a country laneway. The figure quoted free at your door is the figure on the receipt. Little jobs, big jobs: same honest math."
+     "text": "Small pickups start at {{min_price:C}}, single items sit at the friendly end, and larger clears grow only with the truck space they claim — never with time, weight or the length of a country laneway. The figure quoted free at your door is the figure on the receipt. Little jobs, big jobs: same honest math."
     },
     {
      "t": "cards",
@@ -252,15 +252,15 @@
      "t": "cards",
      "items": [
       {
-       "title": "1. Book in Two Minutes",
+       "title": "1. Book",
        "text": [
-        "Call +1 647 922 5865 or book online. Crews cover the whole town — Stouffville, Ballantrae, the rural roads — seven days a week, 6AM to 11PM, with same-day slots and a 30-minute text before arrival."
+        "Call +1 647 922 5865 or book online."
        ]
       },
       {
        "title": "2. Point at What's Retiring",
        "text": [
-        "The sofa, the dead freezer, the mattress, the corner that got away — show us and get one flat, all-inclusive quote on the spot. Free either way."
+        "The sofa, the dead freezer, the mattress, the corner that got away — show us and get one flat, quote on the spot. Free either way."
        ]
       },
       {
@@ -483,7 +483,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -513,7 +513,7 @@
        "q": "Q: What does junk removal cost in Whitchurch-Stouffville?",
        "a": [
         [
-         "A: Truck space is the whole formula — small loads from $125, single items at the low end, larger clears scaling flat with volume. The free at-the-door quote already includes stairs, weight and careful handling, and it can’t change once approved."
+         "A: Truck space is the whole formula — small loads from {{min_price:C}}, single items at the low end, larger clears scaling flat with volume. The free at-the-door quote already includes stairs, weight and careful handling, and it can’t change once approved."
         ]
        ]
       },
@@ -545,7 +545,7 @@
        "q": "Q: The new appliance arrives this week — can the old one go before then?",
        "a": [
         [
-         "A: Almost always. Same-day and next-day slots run seven days a week, 6AM to 11PM — call +1 647 922 5865 with your delivery date and we’ll clear the corner ahead of it."
+         "A: Almost always."
         ]
        ]
       }

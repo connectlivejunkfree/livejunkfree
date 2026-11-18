@@ -69,7 +69,7 @@
     {
      "t": "p",
      "c": [
-      "We understand the stress that comes with eviction situations. That’s why our team arrives on time, handles every step with care, and makes sure the space is left spotless. From furniture and trash to appliances and clutter, we take it all."
+      "We understand the stress that comes with eviction situations. That’s why our team arrives on time, handles every step with care, and makes sure the space is left tidy. From furniture and trash to appliances and clutter, we take it all."
      ]
     },
     {
@@ -102,7 +102,7 @@
     {
      "t": "p",
      "c": [
-      "We start at just {{cad_125}}. Our team handles all the heavy lifting, sweeping up afterward, and making sure everything is properly handled and disposed of. With Live Junk Free, you can move forward without the mess or the hassle."
+      "Our team handles all the heavy lifting, sweeping up afterward, and making sure everything is properly handled and disposed of. With Live Junk Free, you can move forward without the mess or the hassle."
      ]
     },
     {
@@ -110,9 +110,9 @@
      "c": [
       "Need an urgent cleanout? We’re here to help with ",
       {
-       "a": "https://livejunkfree.ca.com/services/",
+       "a": "/services/services/",
        "c": [
-        "same-day or next-day service"
+        "Or next-day service"
        ]
       },
       "s."
@@ -135,7 +135,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Eviction Cleanout Services Near You"
+     "text": "Eviction Cleanout Services Near You"
     },
     {
      "t": "p",
@@ -152,7 +152,7 @@
     {
      "t": "p",
      "c": [
-      "Let us do the heavy lifting while you get the property ready for its next chapter. We even offer weekend and evening cleanouts."
+      "Let us do the heavy lifting while you get the property ready for its next chapter. {{fact:scheduling}}"
      ]
     },
     {
@@ -183,7 +183,7 @@
      "c": [
       {
        "b": [
-        "We Offer Same-Day Eviction Cleanout services."
+        "We Offer Eviction Cleanout services."
        ]
       }
      ]
@@ -203,29 +203,29 @@
       {
        "title": "Licensed & Insured",
        "text": [
-        "We follow all legal rules and protect you from risks. You can trust us for safe, professional service."
+        "{{fact:eviction}}"
        ]
       },
       {
        "title": "Local Experts",
        "text": [
-        "We know eviction laws in your area. This helps us work fast and avoid delays."
+        "Tell us your deadline when you book and we'll plan the clear-out around it."
        ]
       },
       {
        "title": "Affordable Rates",
        "text": [
-        "Prices start at just {{cad_125}}, with no surprise fees. You get great service without overspending."
+        "You get great service without overspending."
        ]
       },
       {
        "title": "Speedy Service",
        "text": [
-        "Need it done today? We offer same-day cleanouts so you meet deadlines."
+        "Need it done today? We offer same-day cleanouts when available so you meet deadlines."
        ]
       },
       {
-       "title": "100% Satisfaction Guarantee",
+       "title": "",
        "text": [
         "If you’re not happy, we’ll make it right. Your peace of mind is our promise."
        ]
@@ -259,7 +259,7 @@
        "We handle eviction cleanouts in any property, whether it’s a cluttered apartment, a packed-up house, or a commercial space. Our team efficiently clears out all unwanted items while respecting the property’s condition."
       ],
       [
-       "From old furniture and appliances to piles of debris and personal belongings, we take care of it all. We handle the sorting, hauling, and proper disposal, so you don’t have to worry about anything. When we’re done, the property will be spotless and ready for its next chapter."
+       "From old furniture and appliances to piles of debris and personal belongings, we take care of it all. We handle the sorting, hauling, and proper disposal, so you don’t have to worry about anything. When we’re done, the property will be tidy and ready for its next chapter."
       ]
      ]
     },
@@ -316,10 +316,10 @@
      "t": "ul",
      "items": [
       [
-       "Instant quote via text or phone, and no hidden costs"
+       "Send photos by text for a faster estimate or phone"
       ],
       [
-       "Bulk pricing available for large cleanouts"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Custom pricing for multi-unit buildings"
@@ -366,7 +366,7 @@
     {
      "t": "p",
      "c": [
-      "We clear out everything left behind:"
+      "Once the owner or manager confirms lawful possession, we can remove what was left behind:"
      ]
     },
     {
@@ -410,19 +410,19 @@
       {
        "title": "Get a Quote",
        "text": [
-        "We provide clear, upfront pricing with zero hidden fees."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Schedule Your Slot",
        "text": [
-        "Choose a same-day or next-day cleanout. Flexible timing across the GTA."
+        "Choose a same-day or next-day cleanout when available. Flexible timing across the GTA."
        ]
       },
       {
        "title": "We Remove It All",
        "text": [
-        "Our team arrives, clears the space, tidies up, and hauls everything away within 1–3 hours."
+        "Timing confirmed at your estimate"
        ]
       }
      ]
@@ -443,27 +443,27 @@
      "images": [
       {
        "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
-       "alt": "20250405_140825"
+       "alt": "Eviction Cleanout: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
-       "alt": "20250405_142357"
+       "alt": "Eviction Cleanout: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142736-1024x577.webp",
-       "alt": "20250405_142736"
+       "alt": "Eviction Cleanout: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_144606-1024x577.webp",
-       "alt": "20250405_144606"
+       "alt": "Eviction Cleanout: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250611_115029-1024x577.webp",
-       "alt": "20250611_115029"
+       "alt": "Eviction Cleanout: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250611_201732-1024x577.webp",
-       "alt": "20250611_201732"
+       "alt": "Eviction Cleanout: Live Junk Free job photo"
       }
      ]
     }
@@ -507,7 +507,7 @@
        "q": "How much does an eviction cleanout cost?",
        "a": [
         [
-         "Prices start at $125 and depend on the volume and complexity of the job. Contact us for a free quote!"
+         "Contact us for a free quote!"
         ]
        ]
       },
@@ -515,7 +515,7 @@
        "q": "Can you clean out multiple units or a whole building?",
        "a": [
         [
-         "Absolutely. We offer volume discounts for multi-unit properties and apartment buildings."
+         "Absolutely."
         ]
        ]
       }
@@ -747,283 +747,6 @@
       {
        "label": "Schedule Now — +1 647 922 5865",
        "href": "tel:+16479225865"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Common Questions About Eviction Cleanout Services"
-    },
-    {
-     "t": "p",
-     "c": [
-      "Eviction cleanouts can be more complicated than a standard junk removal job because landlords may be dealing with abandoned belongings, tight timelines, property-access issues, and legal requirements. At Live Junk Free, we help property owners and managers clear unwanted items efficiently while treating tenant belongings and the property with care. From apartments and rental homes to outdoor areas and storage spaces, our team can handle the heavy lifting and removal. Here are answers to common questions about eviction cleanout costs, timelines, preparation, and disposal."
-     ]
-    },
-    {
-     "t": "faq",
-     "items": [
-      {
-       "q": "Read What People Ask About Eviction Cleanouts",
-       "a": [
-        [
-         "1. What is the average cost of an eviction cleanout service for a standard rental property?"
-        ],
-        [
-         "The cost depends on the amount and type of items being removed, property size, accessibility, labour required, and disposal needs. A small apartment cleanout may cost considerably less than a full house with furniture, appliances, and accumulated belongings. Live Junk Free can assess the volume and provide a clear estimate before the work begins."
-        ],
-        [
-         "2. Do eviction cleanout companies charge by the hour, the truckload, or a flat eviction rate?"
-        ],
-        [
-         "Pricing models vary between cleanout companies. Some charge according to the volume of junk being removed, while others consider labour, truck space, and special disposal requirements. Live Junk Free can provide pricing based on the specific size and requirements of your eviction cleanout."
-        ],
-        [
-         "3. How quickly can an eviction cleanout crew respond once a writ of possession is executed?"
-        ],
-        [
-         "Response times depend on crew availability, the property’s location, and the size of the job. Property managers should contact the cleanout company as early as possible when they know a unit will need clearing. Live Junk Free can discuss scheduling options for time-sensitive eviction cleanouts across the GTA."
-        ],
-        [
-         "4. Who is responsible for paying for the eviction cleanout—the landlord or the evicted tenant?"
-        ],
-        [
-         "The landlord or property owner typically arranges and initially pays the cleanout company. Whether those costs can later be recovered from a former tenant depends on the circumstances and applicable Ontario rules. Landlords should keep invoices and other documentation and obtain legal advice before attempting to recover costs."
-        ],
-        [
-         "5. What is the difference between a standard junk removal job and a legal eviction cleanout?"
-        ],
-        [
-         "A standard junk removal job generally involves items the customer has clearly identified as unwanted. An eviction cleanout may involve property left behind by a former tenant, making proper authorization, documentation, and compliance with Ontario’s rules especially important. The removal should only proceed when the landlord or authorized party has the legal right to dispose of the items."
-        ],
-        [
-         "6. Are dump fees and hazardous waste disposal charges included in the initial cleanout estimate?"
-        ],
-        [
-         "Disposal costs depend on what is found at the property and the type of materials involved. Standard household junk may be included in the quoted removal price, while certain hazardous or specialty materials can require separate handling. Live Junk Free can identify unusual disposal requirements before or during the cleanout."
-        ],
-        [
-         "7. Is there an extra fee if the tenant left behind a large volume of perishable, rotting food?"
-        ],
-        [
-         "Large quantities of spoiled food can require additional labour and specialized handling, particularly when strong odours, pests, or contamination are present. The final cost may therefore differ from a standard household junk removal. A property assessment can help determine the appropriate scope and pricing."
-        ],
-        [
-         "8. Can a landlord sue the former tenant to recover the costs of the cleanout service?"
-        ],
-        [
-         "Potentially, but the ability to recover cleanout expenses depends on the circumstances and applicable landlord-tenant law. Landlords should keep photographs, invoices, receipts, notices, and other evidence showing the condition of the property and the costs incurred. For legal recovery questions, consult an Ontario landlord-tenant lawyer or qualified legal professional."
-        ],
-        [
-         "9. Do cleanout companies offer discounts for property managers who need regular eviction services?"
-        ],
-        [
-         "Some junk removal companies may offer preferred pricing or customized arrangements for recurring property-management work. Pricing can depend on the number of properties, frequency of cleanouts, average job size, and service requirements. Property managers can ask Live Junk Free about ongoing or multiple-property cleanout needs."
-        ],
-        [
-         "10. What happens to the price if the property requires biohazard or extreme hoarding remediation?"
-        ],
-        [
-         "Biohazard contamination and extreme hoarding conditions can significantly change the scope of a cleanout. Specialized remediation, protective equipment, sanitation, or licensed professionals may be required rather than standard junk removal. Live Junk Free can identify situations that require specialized handling before proceeding."
-        ],
-        [
-         "11. Are landlords legally required to store the tenant’s property for a certain number of days before hiring a cleanout service?"
-        ],
-        [
-         "Landlords should ",
-         {
-          "b": [
-           "not assume that they can immediately dispose of everything left behind"
-          ]
-         },
-         " after an eviction. Ontario has specific rules governing abandoned tenant property, including circumstances where landlords may have obligations regarding storage or disposal. Property managers should confirm the applicable rules before authorizing a cleanout."
-        ],
-        [
-         "12. Can an eviction cleanout take place before the sheriff officially executes the eviction?"
-        ],
-        [
-         "A landlord should not use a cleanout company to remove a tenant’s belongings while the tenant still has legal possession of the unit. The timing of removal must comply with the eviction process and Ontario law. Once the landlord has lawful possession and disposal is legally permitted, a cleanout company can be scheduled."
-        ],
-        [
-         "13. How long does it typically take a crew to clear out a 2-bedroom apartment after an eviction?"
-        ],
-        [
-         "A straightforward two-bedroom apartment may be cleared in a few hours, but the actual timeframe depends on the amount of furniture, boxes, appliances, debris, stairs, elevators, and access conditions. Larger volumes or difficult access can extend the job. Live Junk Free can provide a more accurate timeframe after assessing the cleanout requirements."
-        ],
-        [
-         "14. Do cleanout companies coordinate directly with local law enforcement or the sheriff’s department?"
-        ],
-        [
-         "Cleanout companies generally focus on removing and hauling items rather than carrying out the legal eviction itself. Any required sheriff, enforcement, or law-enforcement involvement should be arranged through the appropriate authorities or property representative. The cleanout crew should only begin work once lawful access has been established."
-        ],
-        [
-         "15. Does the landlord need to be physically present at the property during the entire cleanout process?"
-        ],
-        [
-         "Not necessarily, provided the landlord or authorized property manager has arranged lawful access and given clear instructions. Before the crew arrives, the property representative should confirm access details, areas to clear, items that must remain, and any building requirements. This can help the cleanout proceed efficiently without the landlord staying onsite throughout."
-        ],
-        [
-         "16. What happens if the evicted tenant shows up and tries to stop the cleanout crew from working?"
-        ],
-        [
-         "The crew should not become involved in a confrontation or attempt to enforce an eviction themselves. Work may need to stop while the landlord or appropriate authorities address the situation. Having proper eviction documentation and lawful possession established before scheduling the cleanout helps reduce this risk."
-        ],
-        [
-         "17. Can a cleanout company change the door locks and secure the property after clearing it out?"
-        ],
-        [
-         "Some junk removal companies may coordinate with a locksmith, but lock changes are separate from the physical removal service. Property managers should arrange lock changes with a qualified locksmith when necessary and ensure that doing so is legally permitted. Live Junk Free can focus on clearing the unwanted contents from the property."
-        ],
-        [
-         "18. Do eviction cleanout services provide a Certificate of Insurance (COI) to protect against property damage claims?"
-        ],
-        [
-         "Insurance requirements vary by company and property. Commercial landlords and apartment buildings may require contractors to provide a Certificate of Insurance before entering the premises. Property managers should confirm insurance and documentation requirements with the cleanout provider before booking."
-        ],
-        [
-         "19. How do crews handle parking large junk trucks in tight apartment complexes during a time-sensitive eviction?"
-        ],
-        [
-         "The cleanout should be planned around the building’s loading zones, parking restrictions, elevator access, and property-management requirements. Where necessary, the property manager can arrange loading access or temporary parking authorization. Good access planning can significantly reduce delays during a time-sensitive cleanout."
-        ],
-        [
-         "20. Will the cleanout company document the property’s condition with before-and-after photos for legal evidence?"
-        ],
-        [
-         "Photos can be useful for documenting the condition of a rental property, but they should be discussed and agreed upon before the job. Property managers should also take their own detailed photographs before removal begins. Cleanout photos should be considered supporting documentation rather than a substitute for legal evidence or professional advice."
-        ],
-        [
-         "21. What items are cleanout companies legally prohibited from throwing away during an eviction?"
-        ],
-        [
-         "A cleanout company should not dispose of property simply because it appears unwanted. Items subject to legal storage, notice, ownership, environmental, or disposal requirements may need special treatment. Property managers should identify anything that must remain and confirm that disposal is legally authorized before the crew removes it."
-        ],
-        [
-         "22. Do cleanout services take abandoned vehicles, motorcycles, or trailers left on the property?"
-        ],
-        [
-         "Vehicles and other registered property can involve ownership, title, towing, and regulatory requirements that differ from ordinary junk removal. A standard cleanout crew may not be able to simply haul them away. Property managers should confirm ownership and arrange an appropriate licensed vehicle-removal service when necessary."
-        ],
-        [
-         "23. Will the team check for hidden weapons, illegal drugs, or hazardous materials before clearing rooms?"
-        ],
-        [
-         "Cleanout crews are not law-enforcement officers or forensic investigators and should not be expected to search for illegal items. If workers encounter suspected weapons, drugs, suspicious chemicals, or other dangerous materials, they should avoid handling them and notify the appropriate person or authority. Hazardous materials may require specialized professionals."
-        ],
-        [
-         "24. Do eviction cleanouts include deep cleaning, sanitizing, and odor removal to make the unit market-ready?"
-        ],
-        [
-         "Basic junk removal and deep cleaning are different services. Once unwanted contents are removed, the property may still require sweeping, sanitizing, carpet cleaning, pest treatment, painting, or professional odour remediation. Property managers can arrange additional services depending on the unit’s condition."
-        ],
-        [
-         "25. Will the crew remove tenant-installed fixtures, temporary walls, or damaged carpeting?"
-        ],
-        [
-         "Some removable fixtures, carpeting, partitions, or other materials may require demolition or specialized removal rather than standard junk hauling. Whether they can be removed depends on the material, installation, property condition, and authorization from the owner. The scope should be confirmed before work begins."
-        ],
-        [
-         "26. What happens to pets or stray animals that were abandoned by the tenant inside the property?"
-        ],
-        [
-         "Junk removal crews should not simply remove or dispose of animals. If pets or animals are discovered, the property owner or manager should contact the appropriate animal-control, humane-society, or veterinary resource for safe handling. The animals should be kept separate from the cleanout work whenever possible."
-        ],
-        [
-         "27. Do cleanout services donate usable items to charity, or does everything go straight to the landfill?"
-        ],
-        [
-         "Not everything necessarily has to go to landfill. Usable furniture, household goods, and other appropriate items may be directed toward donation or reuse when practical and accepted by receiving organizations. Items that cannot be reused are handled through appropriate disposal or recycling channels."
-        ],
-        [
-         "28. Can a cleanout company handle a property with a severe bedbug, flea, or cockroach infestation?"
-        ],
-        [
-         "Severe pest infestations require careful planning because moving contaminated furniture and belongings can spread pests to other locations. Pest-control treatment may need to happen before or alongside the cleanout. Property managers should disclose known infestations when booking so the appropriate precautions can be considered."
-        ],
-        [
-         "29. Will the crew pack and box up items if local laws require the landlord to inventory the tenant’s belongings?"
-        ],
-        [
-         "Packing and inventorying tenant property may be different from ordinary junk removal. If belongings must be preserved, the landlord or property manager should establish an inventory and storage procedure before disposal is authorized. A cleanout crew may be able to assist with labour if that service is agreed upon in advance."
-        ],
-        [
-         "30. Do they handle the cleanup of outdoor areas, abandoned patios, and shared rental storage lockers?"
-        ],
-        [
-         "An eviction cleanout can often include more than the main living areas. Depending on authorization and access, crews may remove unwanted items from garages, patios, balconies, yards, storage areas, and other designated spaces. Property managers should identify all areas requiring service before the job begins."
-        ],
-        [
-         "31. How do cleanout workers protect themselves against needle sticks or biohazard exposure in neglected rentals?"
-        ],
-        [
-         "Workers should use appropriate protective equipment and avoid handling unidentified sharp or contaminated materials directly. Needles, bodily fluids, unknown chemicals, and serious contamination can require specialized hazardous-material or biohazard professionals. Known hazards should always be disclosed to the cleanout company before workers enter the property."
-        ],
-        [
-         "32. What should a crew do if they discover sensitive identity documents like social security cards or birth certificates?"
-        ],
-        [
-         "Sensitive personal documents should not simply be thrown into ordinary garbage. The property manager should determine the appropriate lawful handling, storage, return, or secure destruction process. In Canada, examples may include passports, health cards, tax documents, financial records, and other documents containing personal information."
-        ],
-        [
-         "33. How does the cleanout process change if the property was used as an illegal drug laboratory?"
-        ],
-        [
-         "A suspected drug-production site can present serious chemical and contamination hazards. Standard junk removal should not proceed until the property has been assessed and cleared by the appropriate authorities or qualified remediation professionals. Specialized hazardous-material remediation may be necessary before ordinary contents can safely be removed."
-        ],
-        [
-         "34. What steps should a landlord take if the tenant claims the cleanout crew stole or destroyed valuable electronics?"
-        ],
-        [
-         "The landlord should preserve all documentation relating to the cleanout, including photographs, authorization records, item inventories, invoices, and communications. If valuable belongings were not legally authorized for disposal, the situation should be addressed promptly with the appropriate legal or insurance professionals. Clear documentation before removal can help prevent disputes."
-        ],
-        [
-         "35. How do state and local regulations dictate where an evicted tenant’s property can be placed, such as the curb vs. storage?"
-        ],
-        [
-         "Rules governing abandoned tenant property depend on the jurisdiction and circumstances. In Ontario, landlords should follow the applicable Residential Tenancies Act requirements and should not assume that placing belongings at the curb automatically satisfies their legal obligations. When there is uncertainty, obtain legal guidance before moving or disposing of tenant property."
-        ],
-        [
-         "36. How can a landlord find a licensed and bonded cleanout company that specializes in legal evictions?"
-        ],
-        [
-         "Start by asking whether the company regularly works with landlords, property managers, rental buildings, and eviction-related cleanouts. Verify insurance, business credentials, service areas, reviews, and the company’s procedures for handling tenant property. Property managers should also ask how the company handles hazardous materials, documentation, and restricted items."
-        ],
-        [
-         "37. What documentation does a landlord need to provide to the cleanout company before work can begin?"
-        ],
-        [
-         "The company may need property access information, the scope of work, contact details, building rules, parking or loading instructions, and confirmation that the person authorizing the service has the right to do so. For eviction-related work, landlords should also have the relevant legal documentation and ensure that disposal is authorized before the crew arrives."
-        ],
-        [
-         "38. Can you write a comprehensive eviction cleanout checklist for property managers?"
-        ],
-        [
-         "Yes. A practical checklist should cover ",
-         {
-          "b": [
-           "legal authorization, tenant-property requirements, access, inventory, photographs, items to preserve, hazardous materials, building rules, cleanout scheduling, disposal, and final inspection"
-          ]
-         },
-         ". Keeping a standardized checklist can help property managers reduce delays and create a consistent process for every eviction cleanout."
-        ],
-        [
-         "39. How can landlords legally protect themselves from wrongful disposal claims by former tenants?"
-        ],
-        [
-         "The safest approach is to confirm lawful possession, understand the applicable tenant-property requirements, document the property’s condition, identify items that must be preserved, and maintain records of all removal and disposal activities. Before disposing of disputed or potentially valuable belongings, landlords should obtain appropriate legal advice. A detailed paper trail can help demonstrate what was removed and why."
-        ],
-        [
-         "40. What are the best strategies to speed up a cleanout so the property can be re-rented as fast as possible?"
-        ],
-        [
-         "Start planning as soon as lawful possession and disposal requirements are clear. Confirm building access, reserve elevators or loading areas, identify items that must remain, photograph the property, and provide the cleanout crew with clear instructions. Booking junk removal, cleaning, repairs, pest treatment, and other follow-up services in the right sequence can help reduce downtime and prepare the unit for its next tenant faster."
-        ]
-       ]
       }
      ]
     }

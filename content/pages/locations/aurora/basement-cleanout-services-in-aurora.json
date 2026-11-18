@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -290,22 +290,22 @@
      "t": "checks",
      "items": [
       "Haul-Away",
-      "No Stairs Surcharges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
     },
     {
      "t": "price",
-     "label": "Aurora Basement Cleanout Services Starts From",
-     "value": "{{cad_125:suffix}}"
+     "label": "Aurora Basement Cleanout Pricing",
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
@@ -474,12 +474,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Basement Cleanout Services Near Me in Aurora"
+     "text": "Basement Cleanout Services Near Me in Aurora"
     },
     {
      "t": "p",
      "c": [
-      "Sometimes a basement cleanout cannot wait for another weekend. You may have a tenant moving in, a renovation starting, a property listing approaching or a move that needs to happen quickly. Live Junk Free offers basement cleanouts near me with same-day availability when scheduling permits. Its Aurora cleanout service states that crews operate seven days a week and offer same-day slots. Along with basement cleaning and junk removal, Live Junk Free also provides other eligible cleanout and demolition services, including garage, estate, eviction, hoarding, apartment, storage unit and office cleanouts, as well as selected demolition projects."
+      "Sometimes a basement cleanout cannot wait for another weekend. You may have a tenant moving in, a renovation starting, a property listing approaching or a move that needs to happen quickly. Live Junk Free offers basement cleanouts near me with same-day availability when scheduling permits. Along with basement cleaning and junk removal, Live Junk Free also provides other eligible cleanout and demolition services, including garage, estate, eviction, hoarding, apartment, storage unit and office cleanouts, as well as selected demolition projects."
      ]
     },
     {
@@ -813,7 +813,7 @@
     {
      "t": "p",
      "c": [
-      "More than 700 five-star Google reviews across restaurant strip-outs, heritage storefront closures, mall and big-box clearances and landlord re-lease preparations — from Main Street South through York Region and across the GTA."
+      "Google reviews across restaurant strip-outs, heritage storefront closures, mall and big-box clearances and landlord re-lease preparations — from Main Street South through York Region and across the GTA."
      ]
     },
     {

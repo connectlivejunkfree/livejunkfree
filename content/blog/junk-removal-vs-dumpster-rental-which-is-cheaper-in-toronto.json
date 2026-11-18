@@ -173,7 +173,7 @@
       "Live Junk Free’s Toronto junk removal service currently advertises volume-based pricing starting at ",
       {
        "b": [
-        "{{cad_125}} for small loads"
+        "{{min_price:C}} for a 1/16 Junk Load (1 cubic yard)"
        ]
       },
       ", with a free on-site estimate and no Toronto premium or GTA surcharge."
@@ -420,7 +420,7 @@
      "c": [
       {
        "b": [
-        "Same-Day Cleanup"
+        "Same-Day when available Cleanup"
        ]
       }
      ]
@@ -587,7 +587,7 @@
     {
      "t": "p",
      "c": [
-      "If you’re thinking about hauling junk yourself, disposal fees should also be included in your budget."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -927,7 +927,7 @@
        "Electronic waste removal"
       ],
       [
-       "Same-day and next-day appointments"
+       "And next-day appointments"
       ],
       [
        "Responsible recycling and disposal"
@@ -937,7 +937,7 @@
     {
      "t": "p",
      "c": [
-      "Our Toronto service uses volume-based pricing, with small loads starting at {{cad_125}}, and we provide a free on-site estimate before beginning the work."
+      "Our Toronto service uses volume-based pricing, with small loads starting at {{min_price:C}}, and we provide a free on-site estimate before beginning the work."
      ]
     },
     {

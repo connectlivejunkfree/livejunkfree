@@ -6,7 +6,7 @@
  "template": "AdsLanding",
  "seo": {
   "title": "Garage Cleanout Service in the GTA | Live Junk Free",
-  "description": "Need a garage cleanout in the GTA? Live Junk Free hauls everything away in one visit. Same-day available. Starting from $99. No hidden fees. Book now!",
+  "description": "Need a garage cleanout in the GTA? Live Junk Free hauls everything away in one visit. Same-day available. Book now!",
   "canonical": "https://livejunkfree.ca/garage-cleanout-service/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/20251128_133239.jpg-1024x577.jpeg"
@@ -26,7 +26,7 @@
     {
      "t": "p",
      "c": [
-      "Old tools, boxes, appliances, junk — we haul it all away. Same-day available. Starting from {{cad_125}}."
+      "Old tools, boxes, appliances, junk — we haul it all away. Same-day available."
      ]
     },
     {
@@ -50,7 +50,7 @@
     {
      "t": "p",
      "c": [
-      "Starting from {{cad_125}}. Price confirmed before we start. No hidden fees."
+      "Price confirmed before we start."
      ]
     }
    ]
@@ -60,12 +60,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Service"
+     "text": "Same-Day Service when available"
     },
     {
      "t": "p",
      "c": [
-      "Book before noon and we are there the same day across the GTA."
+      "Across the GTA."
      ]
     }
    ]
@@ -91,7 +91,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/05/20251128_133239.jpg-1024x577.jpeg",
-      "alt": "20251128 133239.jpg",
+      "alt": "Garage Cleanout: Live Junk Free job photo",
       "width": 800,
       "height": 451
      }
@@ -221,13 +221,13 @@
      "t": "ul",
      "items": [
       [
-       "Upfront pricing from {{cad_125}} — price locked in before we start, no hidden charges"
+       "Contact us for a quote"
       ],
       [
        "Everything taken in one trip — tools, appliances, furniture, renovation debris, tires, scrap metal and more"
       ],
       [
-       "Same day service across ",
+       "Service across ",
        {
         "b": [
          "Toronto"
@@ -394,7 +394,7 @@
      "t": "cards",
      "items": [
       {
-       "title": "Book in 60 Seconds",
+       "title": "Book",
        "text": [
         "Call 647-922-5865 or fill out the form. Tell us roughly how full the garage is and your address. We offer same day garage cleanout across the GTA when you book before noon."
        ]
@@ -402,7 +402,7 @@
       {
        "title": "We Arrive On Time",
        "text": [
-        "Our crew shows up on schedule. We give you a firm upfront price before touching anything. No surprises, no extra charges."
+        "Our crew shows up on schedule. We give you a firm upfront price before touching anything."
        ]
       },
       {
@@ -420,7 +420,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Real Stories from Satisfied Custom"
+     "text": "Real Stories from Satisfied Customers"
     },
     {
      "t": "reviews"
@@ -441,7 +441,7 @@
        "q": "How much does a garage cleanout cost?",
        "a": [
         [
-         "Our service starts from $99. The final price depends on how full the garage is and what types of items need to go. All prices are confirmed upfront before any work begins. No hidden fees."
+         "The final price depends on how full the garage is and what types of items need to go. All prices are confirmed upfront before any work begins."
         ]
        ]
       },

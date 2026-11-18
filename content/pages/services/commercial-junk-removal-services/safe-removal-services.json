@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -69,7 +69,7 @@
     {
      "t": "p",
      "c": [
-      "Get started with a free, no-obligation quote and enjoy transparent pricing with no hidden fees. Once approved, our experienced crew arrives at your scheduled time to dismantle and remove all Safes, partitions, and office furniture safely and efficiently. Most standard office removals are completed in just a few hours, leaving your space clutter-free and ready for its next use."
+      "Once approved, our experienced crew arrives at your scheduled time to dismantle and remove all Safes, partitions, and office furniture safely and efficiently. Most standard office removals are completed in just a few hours, leaving your space clutter-free and ready for its next use."
      ]
     },
     {
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "Tired of old Safes cluttering your workspace? Our office removal service starts at just {{cad_125}}, and we handle it all – workstations, partitions, desks, filing cabinets, and office furniture – no matter how big your space."
+      "Tired of old Safes cluttering your workspace? Our office removal service starts at just {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), and we handle it all – workstations, partitions, desks, filing cabinets, and office furniture – no matter how big your space."
      ]
     },
     {
@@ -130,7 +130,7 @@
        "b": [
         {
          "i": [
-          "We answer calls in 1 minute."
+          "Easy Booking by Phone or Online"
          ]
         }
        ]
@@ -149,7 +149,7 @@
     {
      "t": "p",
      "c": [
-      "Got piles of Safe taking up space? Renovating your home? Our same-day service handles it quickly, no waiting, no hassle."
+      "Got piles of Safe taking up space? Renovating your home? Our same-day service when available handles it quickly, no waiting, no hassle."
      ]
     },
     {
@@ -174,7 +174,7 @@
        "Handling of lumber, pallets, furniture, demolition debris, and more"
       ],
       [
-       "Eco-friendly recycling and responsible disposal at certified facilities"
+       "Eco-friendly recycling and responsible disposal at recycling facilities"
       ]
      ]
     },
@@ -203,13 +203,13 @@
       {
        "title": "Work On Your Schedule",
        "text": [
-        "Pick same-day, next-day, or weekend removal with no extra fees. We’ll work around your home or business hours for maximum convenience."
+        "We’ll work around your home or business hours for maximum convenience."
        ]
       },
       {
        "title": "Eco-Friendly & Responsible Disposal",
        "text": [
-        "We recycle or repurpose 90%+ of Safe materials at certified facilities. Quality lumber gets donated to community projects while scraps are properly processed."
+        "Quality lumber gets donated to community projects while scraps are properly processed."
        ]
       },
       {
@@ -219,7 +219,7 @@
        ]
       },
       {
-       "title": "Book in 60 Seconds",
+       "title": "Book",
        "text": [
         "Get on our schedule instantly online or by phone – no complicated estimates or waiting periods."
        ]
@@ -227,7 +227,7 @@
       {
        "title": "Honest Pricing You Can Trust",
        "text": [
-        "Your upfront quote covers all labor, hauling, and disposal – no surprise charges for heavy items or difficult access."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -299,24 +299,24 @@
        "Donation program for quality furniture and lumber"
       ],
       [
-       "Zero landfill policy for repairable items"
+       "For repairable items"
       ]
      ]
     },
     {
      "t": "p",
      "c": [
-      "Get Instant Pricing – Transparent & Competitive Rates"
+      "{{fact:freeOnsiteEstimates}}"
      ]
     },
     {
      "t": "ul",
      "items": [
       [
-       "All-inclusive pricing with no hidden fees"
+       "{{fact:competitorComparison}}"
       ],
       [
-       "Free same-day estimates via phone/text/email"
+       "Free estimates via phone/text/email"
       ],
       [
        "Discounted rates for large removals"
@@ -400,25 +400,25 @@
       {
        "title": "Send a Photo",
        "text": [
-        "Text or email photos of your Safe pile. We'll respond within minutes with a solution."
+        "Text or email photos of your Safe pile. {{fact:freeOnsiteEstimates.long}}"
        ]
       },
       {
        "title": "Get a Quote",
        "text": [
-        "Receive honest, upfront pricing with no hidden fees - just straightforward costs for your Safe removal."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Pick Your Time",
        "text": [
-        "Choose same-day or next-day pickup, whatever suits your schedule."
+        "Choose same-day or next-day pickup when available, whatever suits your schedule."
        ]
       },
       {
        "title": "We Remove It",
        "text": [
-        "Our professional crew arrives on time, safely removes all Safe materials, and leaves your space clean, typically in under an hour."
+        "Our professional crew arrives on time, safely removes all Safe materials, and leaves your space clean."
        ]
       }
      ]
@@ -475,7 +475,7 @@
        "q": "2. How much does safe removal cost?",
        "a": [
         [
-         "Prices start at $125 and vary based on size, weight, and location. We provide free estimates."
+         "Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard) and vary based on size, weight, and location. We provide free estimates."
         ]
        ]
       },

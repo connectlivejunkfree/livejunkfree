@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -69,7 +69,7 @@
     {
      "t": "p",
      "c": [
-      "Our professional property cleanout team is equipped to remove unwanted furniture, appliances, debris, and leftover belongings, leaving the space spotless and move-in ready. We understand that every situation is unique, whether it’s an estate cleanout after a loved one’s passing or a property line cleanout to clear overgrown vegetation and discarded items. No matter the size or condition of the property, we arrive fully prepared to manage all aspects of the job, including heavy lifting and proper disposal."
+      "Our professional property cleanout team is equipped to remove unwanted furniture, appliances, debris, and leftover belongings, leaving the space tidy. We understand that every situation is unique, whether it’s an estate cleanout after a loved one’s passing or a property line cleanout to clear overgrown vegetation and discarded items. No matter the size or condition of the property, we arrive fully prepared to manage all aspects of the job, including heavy lifting and proper disposal."
      ]
     },
     {
@@ -102,13 +102,13 @@
     {
      "t": "p",
      "c": [
-      "Starting at just {{cad_125}}, our professional property cleanout services take care of every detail, from removing old furniture and appliances to clearing out debris and deep-cleaning the space. Whether you’re managing an estate cleanout, preparing a rental property, or clearing out a foreclosed home, we handle all types of properties with efficiency and care."
+      "Whether you’re managing an estate cleanout, preparing a rental property, or clearing out a foreclosed home, we handle all types of properties with efficiency and care."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Need it done quickly? We offer same-day and next-day property cleanouts, making us the ideal choice for urgent situations like evictions, quick turnovers, or last-minute property sales."
+      "Need it done quickly? We offer same-day and next-day property cleanouts, making us the ideal choice for urgent situations like evictions, quick turnovers, or last-minute property sales, subject to scheduling."
      ]
     },
     {
@@ -133,7 +133,7 @@
     {
      "t": "p",
      "c": [
-      "Cluttered properties can delay sales, rentals, or renovations, but with our expert team, clearing out any space is quick and hassle-free. We offer same-day and next-day property cleanout services throughout the region, helping you prepare estates, rental units, or vacant properties for their next chapter without unnecessary delays."
+      "Cluttered properties can delay sales, rentals, or renovations, but with our expert team, clearing out any space is quick and hassle-free. We offer same-day and next-day property cleanout services throughout the region, helping you prepare estates, rental units, or vacant properties for their next chapter without unnecessary delays, subject to scheduling."
      ]
     },
     {
@@ -145,7 +145,7 @@
     {
      "t": "p",
      "c": [
-      "Our uniformed, insured crew works diligently while treating your property with care. Need after-hours service? We provide evening and weekend cleanouts to accommodate urgent timelines or sensitive situations."
+      "Our uniformed, insured crew works diligently while treating your property with care. Need after-hours service? {{fact:scheduling}}"
      ]
     },
     {
@@ -176,7 +176,7 @@
      "c": [
       {
        "b": [
-        "We Offer Same-Day Property Cleanout Services"
+        "We Offer Property Cleanout Services"
        ]
       }
      ]
@@ -208,17 +208,17 @@
       {
        "title": "Transparent & Affordable Pricing",
        "text": [
-        "– Pricing starts at just {{cad_125}}. We provide clear, upfront quotes with no hidden fees, making professional property cleanouts affordable for every budget."
+        "Contact us for a quote"
        ]
       },
       {
-       "title": "Fast Response, Same-Day Service",
+       "title": "Fast Response, Service",
        "text": [
-        "– Need urgent help? We offer same-day and next-day cleanouts across the GTA to get your space cleared on your timeline."
+        "– Need urgent help? We offer same-day and next-day cleanouts across the GTA to get your space cleared on your timeline, subject to scheduling."
        ]
       },
       {
-       "title": "Satisfaction Guaranteed",
+       "title": "{{fact:licensedInsured}}",
        "text": [
         "– If you’re not completely satisfied, we’ll fix it. Your peace of mind matters to us."
        ]
@@ -317,7 +317,7 @@
        "Transparent pricing for estate cleanout services and rentals"
       ],
       [
-       "Volume discounts are available for multi-unit or large-scale cleanouts"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Custom pricing for property line cleanouts and complex projects"
@@ -404,19 +404,19 @@
       {
        "title": "Get Your Transparent Quote",
        "text": [
-        "Receive fair, upfront pricing for your professional property cleanout with no hidden fees, just honest, straightforward costs."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Pick Your Preferred Time",
        "text": [
-        "Choose same-day, next-day, or schedule in advance. We work around your timeline, including evenings and weekends, for urgent situations."
+        "Choose same-day, next-day, or schedule in advance, subject to scheduling. We work around your timeline, including evenings and weekends, for urgent situations."
        ]
       },
       {
        "title": "We Handle Everything",
        "text": [
-        "Our experienced team arrives on time, clears out the entire property in just 2-4 hours, and leaves it spotless, ready for new tenants, staging, or renovations."
+        "Timing confirmed at your estimate"
        ]
       }
      ]
@@ -433,7 +433,7 @@
     {
      "t": "p",
      "c": [
-      "See the incredible transformation from cluttered homes, packed estates, and neglected rental properties to completely cleared, move-in-ready spaces. Our results demonstrate what we can do for your property."
+      "See the incredible transformation from cluttered homes, packed estates, and neglected rental properties to completely cleared, spaces. Our results demonstrate what we can do for your property."
      ]
     },
     {
@@ -489,7 +489,7 @@
        "q": "How much does a property management cleanout cost?",
        "a": [
         [
-         "Prices start at just $125. The final cost depends on how much we remove. We offer upfront quotes with no hidden fees."
+         "The final cost depends on how much we remove."
         ]
        ]
       },

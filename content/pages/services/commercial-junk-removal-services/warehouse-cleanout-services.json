@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -97,18 +97,18 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Call Now or Book Online – Honest Pricing, No Hidden Fees"
+     "text": "Call Now or Book Online – Honest Pricing"
     },
     {
      "t": "p",
      "c": [
-      "Starting at just {{cad_125}}, our warehouse cleanout team handles everything, lifting, sorting, sweeping, and disposing of junk responsibly. Whether it’s a small stockroom or a massive facility, we make your warehouse cleanout smooth from start to finish."
+      "Whether it’s a small stockroom or a massive facility, we make your warehouse cleanout smooth from start to finish."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Need it cleared fast? We offer same-day and next-day warehouse cleanouts"
+      "Need it cleared fast? We offer same-day and next-day warehouse cleanouts, subject to scheduling."
      ]
     },
     {
@@ -133,7 +133,7 @@
     {
      "t": "p",
      "c": [
-      "Warehouse clutter can slow down your operations, but with Live Junk Free, clearing it out is fast and easy. We offer same-day and next-day warehouse cleanout services ",
+      "Warehouse clutter can slow down your operations, but with Live Junk Free, clearing it out is fast and easy. We offer same-day and next-day warehouse cleanout services, subject to scheduling. ",
       {
        "a": "/locations/",
        "c": [
@@ -146,13 +146,13 @@
     {
      "t": "p",
      "c": [
-      "Whether you are relocating, closing, or reorganizing, our team removes everything, shelving, pallets, broken equipment, old inventory, and debris. From small storage areas to large distribution centers, we handle all types of warehouse cleanouts with speed and care."
+      "Whether you are relocating, closing, or reorganizing, our team removes shelving, pallets, broken equipment, old inventory, and debris. From small storage areas to large distribution centers, we handle all types of warehouse cleanouts with speed and care."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Our trained, insured crew works efficiently and respects your space. Need flexibility? We also offer after-hours and weekend cleanouts to match your schedule."
+      "Our trained, insured crew works efficiently and respects your space. Need flexibility?"
      ]
     },
     {
@@ -183,7 +183,7 @@
      "c": [
       {
        "b": [
-        "We Offer Same-Day Warehouse Cleanout Services"
+        "We Offer Warehouse Cleanout Services"
        ]
       }
      ]
@@ -215,17 +215,17 @@
       {
        "title": "Transparent & Affordable Pricing",
        "text": [
-        "– Pricing starts at just {{cad_125}}, with clear quotes and no hidden fees. Whether it’s a small space or a large facility, we make it easy to clean out your warehouse on budget."
+        "Whether it’s a small space or a large facility, we make it easy to clean out your warehouse on budget."
        ]
       },
       {
-       "title": "Fast Response, Same-Day Service",
+       "title": "Fast Response, Service",
        "text": [
-        "– In a hurry? We offer same-day and next-day warehouse cleanouts to keep your project moving."
+        "– In a hurry? We offer same-day and next-day warehouse cleanouts to keep your project moving, subject to scheduling."
        ]
       },
       {
-       "title": "Satisfaction Guaranteed",
+       "title": "{{fact:licensedInsured}}",
        "text": [
         "– We’re not done until you’re satisfied. We stand by the quality of our work."
        ]
@@ -267,7 +267,7 @@
        " handles it all with care, speed, and efficiency."
       ],
       [
-       "We remove everything: unused inventory, broken equipment, racking systems, pallets, packaging waste, and more. Whether it’s a simple junk removal or a full warehouse cleanout, no job is too big or too messy for us to handle."
+       "We remove items such as unused inventory, broken equipment, racking systems, pallets, packaging waste, and more. Whether it’s a simple junk removal or a full warehouse cleanout, no job is too big or too messy for us to handle."
       ],
       [
        "Need to clean out my warehouse today? We’re ready when you are, fast, flexible, and fully insured to get the job done right."
@@ -334,7 +334,7 @@
        "Transparent pricing for warehouse cleanouts and bulk removals"
       ],
       [
-       "Volume discounts for large or ongoing cleanouts"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Custom rates for oversized facilities or complex cleanout my warehouse projects"
@@ -418,19 +418,19 @@
       {
        "title": "Get a Quote",
        "text": [
-        "We provide clear, upfront pricing for your warehouse cleanout, with no hidden fees or surprises."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Schedule Your Slot",
        "text": [
-        "Choose a time that works best, same-day, next-day, or by appointment. We’re flexible and fast."
+        "Choose a time that works best, same-day, next-day, or by appointment, subject to scheduling. We’re flexible and fast."
        ]
       },
       {
        "title": "We Clean It Out",
        "text": [
-        "Our crew arrives on time, removes all items in 1–3 hours, and leaves your warehouse clean, clear, and ready for its next phase."
+        "Timing confirmed at your estimate"
        ]
       }
      ]
@@ -447,7 +447,7 @@
     {
      "t": "p",
      "c": [
-      "From cluttered loading bays and messy storerooms to spotless, fully cleared warehouses, our warehouse cleanouts speak for themselves"
+      "From cluttered loading bays and messy storerooms to tidy, fully cleared warehouses, our warehouse cleanouts speak for themselves"
      ]
     },
     {
@@ -487,7 +487,7 @@
        "q": "What types of items do you remove from warehouses?",
        "a": [
         [
-         "We remove almost everything: old inventory, damaged goods, pallets, storage racks, office furniture, packing materials, and more."
+         "We remove items such as old inventory, damaged goods, pallets, storage racks, office furniture, packing materials, and more."
         ]
        ]
       },
@@ -495,7 +495,7 @@
        "q": "How much does a warehouse cleanout cost?",
        "a": [
         [
-         "Pricing starts at $125 and depends on the size of the space and the volume of items. We provide upfront quotes with no hidden fees."
+         "Contact us for a quote"
         ]
        ]
       },

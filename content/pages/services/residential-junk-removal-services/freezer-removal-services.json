@@ -6,7 +6,7 @@
  "template": "ItemRemoval",
  "seo": {
   "title": "Freezer Removal Services - Live JunkFree",
-  "description": "Live Junk Free handles freezer removal safely in the Greater Toronto Area. Book your appliance removal now for junk clearance, eco-friendly recycling, and same day pickup.",
+  "description": "Live Junk Free handles freezer removal safely in the Greater Toronto Area. Book your appliance removal now for junk clearance, eco-friendly recycling, and same day pickup when available.",
   "canonical": "https://livejunkfree.ca/services/residential-junk-removal-services/freezer-removal-services/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/furniture-removal-services_before.jpg_202607142157.jpeg"
@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -69,7 +69,7 @@
     {
      "t": "p",
      "c": [
-      "The process couldn’t be easier. We begin with a completely free estimate – no obligations, no hidden fees. Once you give the green light, our experienced team springs into action. Every step is handled professionally: safe disconnection from power, careful removal through tight spaces, responsible disposal following environmental standards, and a thorough cleanup of the area."
+      "The process couldn’t be easier. We begin with a completely free estimate – no obligations. Once you give the green light, our experienced team springs into action. Every step is handled professionally: safe disconnection from power, careful removal through tight spaces, responsible disposal following environmental standards, and a thorough cleanup of the area."
      ]
     },
     {
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "Removing an old freezer shouldn’t be a hassle. Our professional removal service starts at just {{cad_125}}, and we handle everything from start to finish. We’ll safely disconnect your unit, protect your floors and doorways during removal, and haul everything away, leaving your space completely clean and ready for whatever comes next."
+      "Removing an old freezer shouldn’t be a hassle. We’ll safely disconnect your unit, protect your floors and doorways during removal, and haul everything away, leaving your space completely clean and ready for whatever comes next."
      ]
     },
     {
@@ -137,7 +137,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -190,7 +190,7 @@
        "Environmentally responsible disposal with recycling of all components"
       ],
       [
-       "Complete a thorough dusting of the removal area, leaving your space spotless"
+       "Complete a thorough dusting of the removal area, leaving your space tidy"
       ]
      ]
     },
@@ -199,7 +199,7 @@
      "c": [
       {
        "b": [
-        "We Offer Same-Day Freezer Removal"
+        "We Offer Freezer Removal"
        ]
       }
      ]
@@ -225,7 +225,7 @@
       {
        "title": "Honest Pricing",
        "text": [
-        "Your upfront quote covers all labor, disposal fees, and cleanup, no hidden costs ever."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -237,13 +237,13 @@
       {
        "title": "Eco-Conscious Disposal",
        "text": [
-        "We properly recycle metals, plastics, and refrigerants while donating working units to local charities when possible."
+        ""
        ]
       },
       {
        "title": "Massive Time Savings",
        "text": [
-        "What might take you days of struggling and multiple trips, we typically complete in under two hours."
+        "Timing confirmed at your estimate"
        ]
       },
       {
@@ -339,7 +339,7 @@
        "Get clear quotes before we arrive"
       ],
       [
-       "Free instant estimates by phone/text/online"
+       "{{fact:freeOnsiteEstimates}}"
       ],
       [
        "Special rates for multiple appliance removals"
@@ -396,25 +396,25 @@
       {
        "title": "Send Us Details",
        "text": [
-        "Text or upload photos of your freezer, and we'll provide a free quote within minutes."
+        "{{fact:freeOnsiteEstimates}}"
        ]
       },
       {
        "title": "Get Your Price",
        "text": [
-        "Receive transparent, upfront pricing with no hidden costs."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Schedule Your Pickup",
        "text": [
-        "Choose same-day or next-day removal that works for your schedule."
+        "Choose same-day or next-day removal when available that works for your schedule."
        ]
       },
       {
        "title": "We Do the Rest",
        "text": [
-        "Our team safely removes your freezer, cleans the area, and hauls it away - usually completed in under 90 minutes."
+        "Timing confirmed at your estimate"
        ]
       }
      ]
@@ -467,7 +467,7 @@
        "q": "Will you disconnect my freezer before taking it?",
        "a": [
         [
-         "Absolutely. Our team will safely disconnect and prepare your freezer for removal at no extra charge. Just ensure it’s emptied beforehand."
+         "Absolutely. {{fact:pricingIntro.extra}} Just ensure it’s emptied beforehand."
         ]
        ]
       },
@@ -475,7 +475,7 @@
        "q": "How much does freezer removal cost?",
        "a": [
         [
-         "Prices depend on size and location, but we provide free upfront quotes with no hidden fees. Contact us for an instant estimate."
+         "{{fact:freeOnsiteEstimates}}"
         ]
        ]
       },

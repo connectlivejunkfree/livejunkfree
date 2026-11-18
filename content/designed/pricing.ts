@@ -1,58 +1,71 @@
 /**
- * Pricing. Only two figures are published on livejunkfree.ca:
- *   - small or single-item removals start at C$125
- *   - a full truckload is C$655
- * Everything else is volume-based and confirmed with a free on-site estimate.
+ * Pricing for the designed pages and the interactive truck.
+ *
+ * Exact figures from Nav's rate card (content/pricing.json → junkLoad / bedLoad),
+ * approved in docs/client/batch-1/LJF_Akshat_Point_by_Point_Answers_18_Nov_2026.pdf.
+ * Junk Load and Bed Load are separate schedules; each has its own labour note.
+ * "From C$125" applies only to a standard 1/16 Junk Load (Answers A1.3); services
+ * the card doesn't price use the quote wording (A1.6). See docs/PRICING.md.
  */
+import pricingJson from "@content/pricing.json";
+import { fact } from "@/lib/content/facts";
 
-export const PRICES = {
-  from: "C$125",
-  fromLabel: "Small or single-item removals",
-  full: "C$655",
-  fullLabel: "Full truckload",
-} as const;
+type RawSize = { id: string; label: string; cubicYards: number; fillPercent: number; price: number | null };
+type RawProduct = { label: string; description: string; labour: string; defaultSize: string; sizes: RawSize[] };
 
-/** Truck load sizes for the LoadMeter: what usually fits. `fill` = lit truck cells (of 8). */
-export type Load = { k: string; eq: string; items: string[]; fill: number };
+export type LoadSize = RawSize & {
+  /** "C$265", or the quote wording while a price is missing. */
+  display: string;
+  /** "4 cubic yards" */
+  volume: string;
+};
+export type ProductKey = "junkLoad" | "bedLoad";
+export type LoadProduct = { key: ProductKey; label: string; description: string; labour: string; defaultIndex: number; sizes: LoadSize[] };
 
-export const LOADS: Load[] = [
-  { k: "1/8", eq: "About one pickup-truck bed", items: ["A couch", "A mattress + box spring", "A few boxes"], fill: 1 },
-  { k: "1/4", eq: "A small room or a garage corner", items: ["Bedroom set", "Washer + dryer", "Patio set"], fill: 2 },
-  { k: "1/2", eq: "A one-bedroom apartment", items: ["Living room furniture", "Basement storage", "Hot tub (cut down)"], fill: 4 },
-  { k: "3/4", eq: "A full garage or large basement", items: ["Garage cleanout", "Renovation debris", "Office move-out"], fill: 6 },
-  { k: "Full", eq: "A small house cleanout", items: ["Estate cleanout", "Whole-house declutter", "Small shed teardown"], fill: 8 },
-];
+export const PRICING_STATUS: string = (pricingJson as { _status?: string })._status ?? "";
 
-export const DEFAULT_LOAD = 1;
+const cad = (n: number) => `C$${Number.isInteger(n) ? n : n.toFixed(2)}`;
+const yd = (n: number) => `${n} cubic yard${n === 1 ? "" : "s"}`;
+
+function product(key: ProductKey): LoadProduct {
+  const p = (pricingJson as unknown as Record<ProductKey, RawProduct>)[key];
+  const sizes = p.sizes.map((s) => ({ ...s, display: s.price === null ? fact("quoteText") : cad(s.price), volume: yd(s.cubicYards) }));
+  const defaultIndex = Math.max(0, sizes.findIndex((s) => s.id === p.defaultSize));
+  return { key, label: p.label, description: p.description, labour: p.labour, defaultIndex, sizes };
+}
+
+export const PRODUCTS: Record<ProductKey, LoadProduct> = { junkLoad: product("junkLoad"), bedLoad: product("bedLoad") };
 
 export const LOAD_METER = {
   tag: "Load size",
-  fitsLabel: "What usually fits",
-  footnote:
-    "You pay for the space your items fill in our truck, with a free on-site estimate and no hidden fees. The price you approve is the price you pay.",
-  cta: "Get my exact price",
-  secondary: "How pricing works",
+  intro: fact("pricingIntro"),
+  extra: fact("pricingIntro", "extra"),
+  estimates: fact("freeOnsiteEstimates", "long"),
+  curbside: fact("curbsideDiscount"),
+  tax: fact("taxNote"),
+  call: "Call",
+  cta: "Get a quote",
 };
 
-/** Pricing sentences used on individual pages (all from livejunkfree.ca). */
+/** Pricing sentences used on individual designed pages. */
 export const PRICE_NOTES = {
-  howItWorks:
-    "Small or single-item removals start at C$125. A full truckload is C$655. Final price depends on volume, item type and access, confirmed with a free on-site estimate.",
-  estate: "A full truckload is C$655, small removals start at C$125. Larger properties may take several loads.",
-  commercial: "Clear quotes starting at C$125, with volume discounts for multi-site cleanouts.",
-  deck: "Our services start at C$125, with final pricing based on size, materials, and complexity. We provide free, no-obligation estimates.",
+  howItWorks: `${fact("minimumPrice")}. ${fact("fullLoadPrice")}. ${fact("taxNote")}.`,
+  estate: `Estate cleanouts are priced by the load sizes needed and the work involved. ${fact("quoteText")}`,
+  commercial: fact("quoteText"),
+  deck: fact("quoteText"),
 } as const;
 
-/** Couch page pricing panels (livejunkfree.ca couch removal page). */
+/** Couch page pricing panels (a couch is standard junk removal, so the Junk Load card applies). */
 export const COUCH_PRICING = [
   {
-    title: "Single item removal starting at C$125",
-    text: "One couch, one pickup, all cleanup included. Perfect for a single sofa, loveseat, or recliner.",
-    ticks: ["Disassembly if required", "Floor & wall protection", "Post-removal area cleanup", "Eco-responsible disposal"],
+    title: fact("minimumPrice", "short"),
+    text: `The final quote depends on the items, access and work required and is confirmed before removal begins. ${fact("taxNote")}.`,
+    // Manisha 18 Nov: don't present disposal or other charges as included in the displayed rate.
+    ticks: [fact("labourJunk"), "Disassembly, stairs and long carries reviewed in your quote", "Recycled or donated where practical"],
   },
   {
-    title: "Save more by choosing a multi-item bundle",
-    text: "Removing a couch and a few other items? Bundle them together for a better rate on the whole job.",
-    ticks: ["Couches + any other furniture", "Appliances included", "Mattresses & bed frames", "All cleanup & disposal included"],
+    title: "More than one item?",
+    text: "Removing a couch and a few other items? Tell us everything and we'll quote it as one job at your free onsite estimate.",
+    ticks: ["Couches and other furniture", "Appliances (disconnected)", "Mattresses and bed frames", "Any disposal or extra handling charges explained in your quote"],
   },
 ];

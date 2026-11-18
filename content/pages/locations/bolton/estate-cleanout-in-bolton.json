@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -154,10 +154,10 @@
       },
       {
        "n": "05",
-       "title": "Rural and concession coordination, no distance premium",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "Farm properties and homes well outside the village core get the identical pricing structure as anything downtown."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -193,34 +193,34 @@
     {
      "t": "p",
      "c": [
-      "What never enters the calculation is the property’s distance from town, or an assumption that older furniture should cost extra just because it’s heavier. A Queen Street heritage home and a farm well out on the concessions get quoted by the identical formula. The figure is confirmed privately at a free walkthrough, and it’s the number that appears on the invoice."
+      "What never enters the calculation is the property’s distance from town, or an assumption that older furniture should cost extra just because it’s heavier. A Queen Street heritage home and a farm well out on the concessions get quoted by the identical formula. The figure is confirmed privately at a free walkthrough."
      ]
     },
     {
      "t": "checks",
      "items": [
       "Estate Cleanout + Haul-Away in One Number",
-      "No Hourly Rates, No Weight Charges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
     },
     {
      "t": "price",
-     "label": "Bolton Estate Cleanouts From",
-     "value": "{{cad_125:suffix}}"
+     "label": "Bolton Estate Cleanouts Pricing",
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
      "c": [
-      "Volume-priced and all-inclusive — sorting, carrying, hauling and disposal in one figure."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -382,7 +382,7 @@
        "Same flat pricing regardless of distance from town"
       ],
       [
-       "Long driveway or laneway access included at no extra charge"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Multi-visit scheduling for larger or more complex situations"
@@ -650,7 +650,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — heavy-furniture, heritage and rural estate cleanouts across Bolton, Caledon and the GTA. The comment that comes up most: the crew actually had the strength and equipment for the furniture, instead of struggling with pieces that were heavier than expected."
+      "Google reviews — heavy-furniture, heritage and rural estate cleanouts across Bolton, Caledon and the GTA. The comment that comes up most: the crew actually had the strength and equipment for the furniture, instead of struggling with pieces that were heavier than expected."
      ]
     },
     {

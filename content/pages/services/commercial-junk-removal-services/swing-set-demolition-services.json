@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -85,7 +85,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
-      "alt": "DSC08963",
+      "alt": "Swing Set Demolition: Live Junk Free job photo",
       "width": 800,
       "height": 534
      }
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "We specialize in making outdated play structures disappear quickly, safely, and affordably. Our professional swing set demolition service starts at just {{cad_125}}, and we handle every step from detaching the first swing to final cleanup of your yard."
+      "We specialize in making outdated play structures disappear quickly, safely, and affordably."
      ]
     },
     {
@@ -124,7 +124,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -138,7 +138,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Swing Set demolition Service in Your Area"
+     "text": "Swing Set demolition Service in Your Area"
     },
     {
      "t": "p",
@@ -149,7 +149,7 @@
     {
      "t": "p",
      "c": [
-      "Our professional Swing Set demolition team eliminates these hazards by handling every aspect of your project. Whether you’re making space for a new playset, creating more yard space, or simply removing a safety concern, we offer same-day and next-day removal services throughout the region. Our experienced crews handle all types of swing sets using specialized tools and techniques to protect your lawn while completely clearing your outdoor space."
+      "Our professional Swing Set demolition team eliminates these hazards by handling every aspect of your project. Whether you’re making space for a new playset, creating more yard space, or simply removing a safety concern, we offer same-day and next-day removal services throughout the region, subject to scheduling. Our experienced crews handle all types of swing sets using specialized tools and techniques to protect your lawn while completely clearing your outdoor space."
      ]
     },
     {
@@ -180,7 +180,7 @@
      "c": [
       {
        "b": [
-        "We Provide Same-Day Swing Set demolition Service"
+        "We Provide Swing Set demolition Service"
        ]
       }
      ]
@@ -200,7 +200,7 @@
       {
        "title": "Quick & Thorough Service",
        "text": [
-        "– Most Swing Set demolitions completed in just 2-4 hours"
+        "Timing confirmed at your estimate"
        ]
       },
       {
@@ -212,7 +212,7 @@
       {
        "title": "Flexible Scheduling",
        "text": [
-        "– Available weekends and evenings with same-day emergency service"
+        ""
        ]
       },
       {
@@ -282,7 +282,7 @@
      "t": "ul",
      "items": [
       [
-       "All metal components are processed at certified recycling centers"
+       "All metal components are processed at recycling centers"
       ],
       [
        "Untreated wood is repurposed or recycled whenever possible"
@@ -324,13 +324,13 @@
      "t": "ul",
      "items": [
       [
-       "Free same-day estimates via phone, text, or online request"
+       "Free estimates via phone, text, or online request"
       ],
       [
        "Special rates for multiple structure removals"
       ],
       [
-       "Written price-match guarantee on all quotes"
+       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -407,13 +407,13 @@
       {
        "title": "Get a Quote",
        "text": [
-        "Receive honest pricing for your Swing Set demolition with no hidden fees."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Pick Your Time",
        "text": [
-        "Choose same-day, next-day, or schedule in advance, we work around your schedule."
+        "Choose same-day when available, next-day, or schedule in advance, we work around your schedule."
        ]
       },
       {
@@ -476,7 +476,7 @@
        "q": "How much does Swing Set demolition cost?",
        "a": [
         [
-         "Prices start at $125, with final cost depending on the size, material, and complexity of your set. We offer free, no-obligation quotes."
+         "We offer free, no-obligation quotes."
         ]
        ]
       },
@@ -500,7 +500,7 @@
        "q": "How long does removal take?",
        "a": [
         [
-         "Most standard Swing Set demolitions take 2-4 hours from start to cleanup."
+         "Most standard Swing Set demolitions from start to cleanup."
         ]
        ]
       }

@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -132,10 +132,10 @@
       },
       {
        "n": "02",
-       "title": "One flat bereavement cleanout price, locked once approved",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "Labour, truck, fuel and disposal are all included, and once a quote is approved, that number doesn’t change — regardless of how long the clearing takes."
+         "{{fact:taxNote}}. {{fact:pricingIntro.extra}}"
         ]
        ]
       },
@@ -168,7 +168,7 @@
       },
       {
        "n": "06",
-       "title": "Independent bereavement cleanout pricing, 30–50% under the bigger outfits",
+       "title": "Independent bereavement cleanout pricing",
        "text": [
         [
          "National franchise cleanout companies build significant overhead into every quote. Live Junk Free carries none of that, without compromising on the patience this work requires."
@@ -205,14 +205,14 @@
      "t": "checks",
      "items": [
       "Haul-Away",
-      "No Stairs Surcharges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
@@ -220,7 +220,7 @@
     {
      "t": "price",
      "label": "Oshawa Bereavement Cleanout",
-     "value": "{{cad_125:suffix}}"
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
@@ -271,7 +271,7 @@
        "title": "Property Walkthrough & Quote",
        "text": [
         [
-         "We walk through the property with you in person, scope what’s genuinely there, and provide one clear, all-inclusive quote — never estimated over the phone."
+         "We walk through the property with you in person, scope what’s genuinely there, and provide one clear, quote — never estimated over the phone."
         ]
        ]
       },
@@ -643,7 +643,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — occupied-home, full home and rural bereavement cleanouts across Whitby, Durham Region and the GTA. The comment that comes up most: nobody rushed us, and nobody made us feel like a job on a schedule."
+      "Google reviews — occupied-home, full home and rural bereavement cleanouts across Whitby, Durham Region and the GTA. The comment that comes up most: nobody rushed us, and nobody made us feel like a job on a schedule."
      ]
     },
     {

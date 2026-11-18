@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -129,7 +129,7 @@
      "items": [
       {
        "n": "01",
-       "title": "Office Cleanout Services With No Rural Surcharge and No Minimum",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "A single professional suite, a converted-house office or one unit in the industrial park is a normal booking here. Your office cleanout price is calculated on the furniture and the contents, never on how far the truck travelled to reach Uxbridge."
@@ -141,7 +141,7 @@
        "title": "Heritage Walk-Up and Stair-Access Office Cleanouts",
        "text": [
         [
-         "Second-storey Brock Street suites, narrow staircases, tight landings and street-only loading. We plan the carry and the crew size at the walkthrough, protect the common stairwell and the shared entrance, and charge no stairs surcharge."
+         "Second-storey Brock Street suites, narrow staircases, tight landings and street-only loading."
         ]
        ]
       },
@@ -159,7 +159,7 @@
        "title": "Computer, Monitor and Office Electronics Removal",
        "text": [
         [
-         "Desktops, laptops, monitors, servers, printers, copiers, phone systems, cabling and network hardware cleared and routed to certified electronics recycling rather than landfill, with a record of what left the suite."
+         "{{fact:recycling}}"
         ]
        ]
       },
@@ -177,7 +177,7 @@
        "title": "Furniture donation, resale and electronics recycling on every office cleanout",
        "text": [
         [
-         "Serviceable desks, chairs and workstation systems go to resale or our donation partners, electronics to certified recycling and metal to scrap, with only the remainder to landfill. Anything that finds a buyer or a charity comes off what you pay rather than going in the truck by default."
+         "Serviceable desks, chairs and workstation systems go to resale or our donation partners, electronics to recycling and metal to scrap, with only the remainder to landfill. Anything that finds a buyer or a charity comes off what you pay rather than going in the truck by default."
         ]
        ]
       }
@@ -272,7 +272,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We Give Instant Pricing For Office Cleanout Services"
+     "text": "{{fact:freeOnsiteEstimates}}"
     },
     {
      "t": "p",
@@ -283,29 +283,29 @@
     {
      "t": "p",
      "c": [
-      "Three factors never enter the calculation. Distance — a converted-house office out toward Sandford, Goodwood or Leaskdale is priced identically to a Brock Street suite, because travel is our cost to absorb rather than a line on your invoice. Urgency — a cleanout booked for tomorrow costs the same as one booked next month. Job size — a single room is priced on its contents exactly as a whole building is, with no minimum applied. We confirm your figure in writing at the walkthrough and hold it through to completion."
+      "Three factors never enter the calculation. Urgency — a cleanout booked for tomorrow costs the same as one booked next month. Job size — a single room is priced on its contents exactly as a whole building is, with no minimum applied. We confirm your figure in writing at the walkthrough and hold it through to completion."
      ]
     },
     {
      "t": "checks",
      "items": [
       "Haul-Away",
-      "No Stairs Surcharges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
     },
     {
      "t": "price",
-     "label": "Uxbridge Office Cleanout Services Starts From",
-     "value": "{{cad_125:suffix}}"
+     "label": "Uxbridge Office Cleanout Pricing",
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
@@ -333,7 +333,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "How Office Cleanout Services Work in Uxbridge — Best Service Guaranteed"
+     "text": "How Office Cleanout Services Work in Uxbridge"
     }
    ]
   },
@@ -371,10 +371,10 @@
       },
       {
        "n": "04",
-       "title": "Suites returned swept and lease-ready",
+       "title": "Suites returned swept",
        "text": [
         [
-         "The office is left broom-swept and empty, storage rooms and outbuildings included — to base condition where the lease requires it — ready for the landlord’s inspection. Your photo documentation and invoice are issued the same day."
+         "The office is left broom-swept and empty, storage rooms and outbuildings included — to base condition where the lease requires it —."
         ]
        ]
       }
@@ -474,12 +474,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Junk Removal, Demolition & Cleanout Services in Uxbridge"
+     "text": "Junk Removal, Demolition & Cleanout Services in Uxbridge"
     },
     {
      "t": "p",
      "c": [
-      "Same-day service covers far more than office cleanout services across Uxbridge. Our commercial junk removal handles Brock Street shops, offices, cafés and restaurants, Toronto Street and Reach Street professional suites, industrial park units, farm workshops and agricultural businesses throughout the township, with same-day attendance wherever access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from town homes, country properties and rural acreage alike. Our demolition services cover office partition and cubicle removal, interior strip-outs, tenant improvement removal and built-in fixtures, along with sheds, drive sheds, barns, garages, decks, fences, gazebos, above-ground pools and hot tubs. Where a property requires complete clearing, we provide same-day office cleanout, retail cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than office cleanout services across Uxbridge. Our commercial junk removal handles Brock Street shops, offices, cafés and restaurants, Toronto Street and Reach Street professional suites, industrial park units, farm workshops and agricultural businesses throughout the township, with same-day attendance wherever access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from town homes, country properties and rural acreage alike. Our demolition services cover office partition and cubicle removal, interior strip-outs, tenant improvement removal and built-in fixtures, along with sheds, drive sheds, barns, garages, decks, fences, gazebos, above-ground pools and hot tubs. Where a property requires complete clearing, we provide same-day office cleanout, retail cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -517,7 +517,7 @@
      "t": "ul",
      "items": [
       [
-       "Second-storey suites above the Brock Street shops are the defining Uxbridge office job: one staircase, a turn on the landing, doorways narrower than the desk that came in before the door was replaced, and no loading dock within blocks. We measure the carry route before quoting, break down desks and cabinets rather than forcing them, protect the stairwell and shared entrance because other tenants are still using it, and load from the street inside whatever window the town and your neighbours allow. No stairs surcharge, ever."
+       "Second-storey suites above the Brock Street shops are the defining Uxbridge office job: one staircase, a turn on the landing, doorways narrower than the desk that came in before the door was replaced, and no loading dock within blocks. We measure the carry route before quoting, break down desks and cabinets rather than forcing them, protect the stairwell and shared entrance because other tenants are still using it, and load from the street inside whatever window the town and your neighbours allow."
       ]
      ]
     },
@@ -560,7 +560,7 @@
      "t": "ul",
      "items": [
       [
-       "Desktops, laptops, monitors, servers, printers, copiers, shredders, phone systems, UPS units, cabling and network hardware. Electronics go to certified recycling, not landfill, and you get a written list of what left the suite for your records. Anything holding data is handled on your instruction, whether that means removal after your own wipe or collection alongside your IT provider's process."
+       "Desktops, laptops, monitors, servers, printers, copiers, shredders, phone systems, UPS units, cabling and network hardware. Electronics go to recycling, not landfill, and you get a written list of what left the suite for your records. Anything holding data is handled on your instruction, whether that means removal after your own wipe or collection alongside your IT provider's process."
       ]
      ]
     }
@@ -803,7 +803,7 @@
     {
      "t": "p",
      "c": [
-      "More than 700 five-star Google reviews across restaurant strip-outs, heritage storefront closures, mall and big-box clearances and landlord re-lease preparations — from Main Street South through York Region and across the GTA."
+      "Google reviews across restaurant strip-outs, heritage storefront closures, mall and big-box clearances and landlord re-lease preparations — from Main Street South through York Region and across the GTA."
      ]
     },
     {
@@ -1150,7 +1150,7 @@
        "q": "Will you actually come out here, or is there a minimum on office cleanout services?",
        "a": [
         [
-         "No minimum, and no rural surcharge either. One small suite in Uxbridge is a normal booking. That is the main reason people here call us rather than a contractor from the city who prices the drive into every quote. "
+         "One small suite in Uxbridge is a normal booking. That is the main reason people here call us rather than a contractor from the city who prices the drive into every quote. "
         ]
        ]
       },
@@ -1158,7 +1158,7 @@
        "q": "Our office is up a narrow staircase on Brock Street with no loading dock. Can you still do it?",
        "a": [
         [
-         "Yes, and there is no stairs surcharge. Stair carries, landing turns and street loading affect the crew size and the time we allow, not your invoice. Tell us the staircase and doorway situation at booking and we bring the right crew rather than finding out on the morning."
+         "Stair carries, landing turns and street loading affect the crew size and the time we allow, not your invoice. Tell us the staircase and doorway situation at booking and we bring the right crew rather than finding out on the morning."
         ]
        ]
       },
@@ -1166,7 +1166,7 @@
        "q": "Do you charge extra for an office out toward Sandford, Goodwood or Leaskdale?",
        "a": [
         [
-         "Yes. Desktops, laptops, monitors, servers, printers, copiers, phone systems and cabling all go to certified electronics recycling rather than landfill, and you get a written list of what left the floor for your asset records."
+         "Yes."
         ]
        ]
       },

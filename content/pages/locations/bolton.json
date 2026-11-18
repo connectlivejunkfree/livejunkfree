@@ -6,7 +6,7 @@
  "template": "TownHub",
  "seo": {
   "title": "Junk Removal Services in Bolton | Fast & Affordable Junk Pickup",
-  "description": "Looking for reliable junk removal services in Bolton? Live Junk Free offers fast, affordable, and eco-friendly junk pickup for homes and businesses. Call today for same-day service.",
+  "description": "Looking for reliable junk removal services in Bolton? Live Junk Free offers fast, affordable, and eco-friendly junk pickup for homes and businesses. Call today for same-day service when available.",
   "canonical": "https://livejunkfree.ca/locations/bolton/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Bolton.png"
@@ -45,7 +45,7 @@
     {
      "t": "p",
      "c": [
-      "Whether it’s a single bulky item or a full property cleanout, our trained local crew handles all the heavy lifting, hauling, and disposal — so you don’t have to lift a finger. No stress, no mess, and absolutely no hidden fees."
+      "Whether it’s a single bulky item or a full property cleanout, our trained local crew handles all the heavy lifting, hauling, and disposal — so you don’t have to lift a finger. No stress, no mess."
      ]
     },
     {
@@ -254,12 +254,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "How Our Same-Day Junk Removal Service Works in Bolton — Fast, Clean, 4 Easy Steps"
+     "text": "How Our Junk Removal Service Works in Bolton — Fast, Clean, 4 Easy Steps"
     },
     {
      "t": "h",
      "l": 3,
-     "text": "Getting rid of junk in Bolton has never been simpler. Our streamlined process is designed to take the stress completely off your shoulders from the moment you contact us to the moment we leave your property spotless. Here's how it works:"
+     "text": "Getting rid of junk in Bolton has never been simpler. Our streamlined process is designed to take the stress completely off your shoulders from the moment you contact us to the moment we leave your property tidy. Here's how it works:"
     },
     {
      "t": "cards",
@@ -279,13 +279,13 @@
       {
        "title": "Free On-Site Quote — You Approve It",
        "text": [
-        "Before anything gets touched, we assess the junk and provide a clear, upfront quote. Our pricing is based purely on the volume of items in the truck. No surprises, no add-ons. You say yes, we get to work. You're not happy? You pay nothing."
+        "Before anything gets touched, we assess the junk and provide a clear, upfront quote. Our pricing is based purely on the volume of items in the truck. You say yes, we get to work. You're not happy? You pay nothing."
        ]
       },
       {
        "title": "We Haul It All & Leave It Clean",
        "text": [
-        "Our team handles all the lifting, loading, and hauling. Once everything is cleared, we sweep up and leave your space completely clean. Your junk goes to our facility where we sort for recycling, donation, and responsible disposal. That's it. Same-day junk removal in Bolton, ON — done in 4 simple steps, on your schedule."
+        "Our team handles all the lifting, loading, and hauling. Once everything is cleared, we sweep up and leave your space completely clean. Your junk goes to our facility where we sort for recycling, donation, and responsible disposal. That's it. Same-day junk removal when available in Bolton, ON — done in 4 simple steps, on your schedule."
        ]
       }
      ]
@@ -468,7 +468,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -498,7 +498,7 @@
        "q": "Q1. How much does junk removal cost in Bolton, Ontario?",
        "a": [
         [
-         "Junk removal costs in Bolton typically start at around $125 for a small load and go up based on the volume of items in our truck. We offer free on-site estimates, so you’ll know the exact price before we begin. There are no hidden charges — labour, loading, and disposal are all included."
+         "Junk removal costs in Bolton typically start at around {{min_price:C}} for a small load and go up based on the volume of items in our truck. We offer free on-site estimates, so you’ll know the exact price before we begin."
         ]
        ]
       },

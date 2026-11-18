@@ -1,3 +1,4 @@
+import { fact } from "@/lib/content/facts";
 /**
  * FAQ lists, taken from the matching pages on livejunkfree.ca (checked 7 Nov 2026).
  * Answers support <Rich> markup (**bold**, [link](/path/)).
@@ -16,7 +17,7 @@ const HOW = {
   pricing: {
     q: "How does your pricing work?",
     // "or using our online booking system" left out: the new site has no booking engine.
-    a: "Our pricing is based on the volume of items being removed, the type of items, and the difficulty of removal. We offer upfront pricing with no hidden fees. You can also request a free estimate by contacting us.",
+    a: "Our pricing is based on the volume of items being removed, the type of items, and the difficulty of removal. Your quote explains the scope and any taxes or additional charges before work begins. You can also request a free estimate by contacting us.",
   },
   recycle: {
     q: "Do you recycle or donate items?",
@@ -28,7 +29,7 @@ const HOW = {
   },
   advance: {
     q: "How far in advance do I need to schedule a pickup?",
-    a: "We strive to accommodate our customers' schedules as much as possible. While we do accept same-day appointments when available, we recommend scheduling your pickup at least 24-48 hours in advance to ensure availability. However, we understand that emergencies happen, so feel free to reach out to us, and we'll do our best to accommodate your needs.",
+    a: "We strive to accommodate our customers' schedules as much as possible. Same-day appointments may be available, subject to scheduling, but booking a day or two ahead gives you the most choice. If you're in a hurry, call us and we'll do our best.",
   },
 } satisfies Record<string, FaqItem>;
 
@@ -36,11 +37,11 @@ const HOW = {
 const TO = {
   cost: {
     q: "How much does junk removal cost in Toronto, Ontario?",
-    a: "Our Toronto junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour. There are no Toronto premiums, no GTA surcharges, no hidden fees. Prices start at $125 for small loads. We provide a completely free on-site estimate before any work begins — the price you approve is the price you pay. Full stop.",
+    a: `Our Toronto junk removal pricing is volume-based: you pay based on how much space your items fill in our truck. ${fact("minimumPrice")}. Displayed load rates exclude applicable taxes. We provide a free onsite estimate, and your quote explains the scope and any taxes or additional charges before work begins.`,
   },
   sameDay: {
     q: "Do you offer same-day junk removal in Toronto?",
-    a: "Yes — same-day junk removal is available across all of Toronto, including downtown, North York, Scarborough, East York, Etobicoke, Midtown and every neighbourhood in between. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 for same-day availability.",
+    a: `${fact("sameDay")} across Toronto, including downtown, North York, Scarborough, East York, Etobicoke and Midtown. Call ${fact("phone", "display")} to check today's availability.`,
   },
   condo: {
     q: "Do you do condo and high-rise junk removal in Toronto?",
@@ -56,7 +57,7 @@ const TO = {
 const ESTATE = {
   cost: {
     q: "How much does an estate cleanout cost?",
-    a: "The price depends on the items, number of loads, access and work required. A full truckload is C$655, while small removals start at C$125. Larger properties may take several loads. Call to discuss the scope and applicable charges.",
+    a: `The price depends on the items, number of loads, access and work required. ${fact("quoteText")} Larger properties may take several loads. Applicable taxes and any job-specific charges are identified in the final quote.`,
   },
   early: {
     q: "Can I call before I know exactly what needs to go?",
@@ -99,7 +100,7 @@ export const FAQS = {
       { q: "Do you only remove pull-out couches?", a: "We take all furniture, sectionals, recliners, mattresses, and even whole room clearouts." },
       { q: "Can you remove them from the apartments?", a: "Yes! We service high-rises, condos, and walk-ups; no job is too tricky." },
       { q: "What if my couch won't fit through the door?", a: "We expertly disassemble furniture to remove it safely without damage." },
-      { q: "Do you take other items too?", a: "Yes! Ask about bundle deals for TVs, tables, and other junk." },
+      { q: "Do you take other items too?", a: "Yes. Tell us everything that needs to go and we'll include it in one quote." },
       { q: "Are you insured?", a: "Absolutely. We're fully licensed and insured for your protection." },
     ],
   },
@@ -118,10 +119,10 @@ export const FAQS = {
   deck: {
     items: [
       { q: "Do you remove all types of decks, including wood and composite?", a: "Yes, we professionally demolish and remove all deck types, wood, composite, and even concrete pool decks." },
-      { q: "How much does deck demolition cost?", a: "Our services start at $125, with final pricing based on size, materials, and complexity. We provide free, no-obligation estimates." },
+      { q: "How much does deck demolition cost?", a: `Deck demolition is quoted per project, based on size, materials and access. ${fact("quoteText")} ${fact("freeOnsiteEstimates", "long")}` },
       { q: "What areas do you serve for deck demolition?", a: "We serve Schomberg, Mississauga, Newmarket, Nobleton, Oshawa, Aurora, Bolton, East Gwillimbury, Toronto, and throughout the GTA." },
-      { q: "Do I need a permit for deck removal?", a: "Most municipalities don't require permits for demolition, but we'll advise on local regulations and can handle permits if needed." },
-      { q: "How long does deck demolition take?", a: "Most standard decks take 3-5 hours. Multi-level or complex designs may take longer." },
+      { q: "Do I need a permit for deck removal?", a: fact("permits") },
+      { q: "How long does deck demolition take?", a: "It depends on the deck's size, materials and access. We'll give you a time estimate when we see it at the free onsite estimate." },
     ],
   },
   toronto: { title: "Toronto questions", items: [TO.cost, TO.sameDay, TO.condo, TO.restaurant] },

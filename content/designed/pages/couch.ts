@@ -1,3 +1,4 @@
+import { fact } from "@/lib/content/facts";
 import { FAQS } from "../faqs";
 import { cityLinks } from "../nav";
 import { COUCH_PRICING } from "../pricing";
@@ -14,8 +15,8 @@ export const COUCH: ItemContent = {
     image: "couch",
     alt: "Living room after a Live Junk Free couch removal",
     callout: {
-      title: "Starting at C$125",
-      note: "Single item, all cleanup included.",
+      title: fact("minimumPrice", "short"),
+      note: `For a 1/16 Junk Load (1 cubic yard). ${fact("taxNote")}. Final quote confirmed before removal begins.`,
     },
   },
   take: {
@@ -39,7 +40,7 @@ export const COUCH: ItemContent = {
     { icon: "stairs", title: "Stairs and tight spaces", text: "We disassemble pieces when needed and protect your floors and door frames throughout." },
     { icon: "building", title: "Condos and apartments", text: "We service high-rises, condos, and walk-ups; no job is too tricky." },
     { icon: "leaf", leaf: true, title: "Donated when possible", text: "Responsible disposal through recycling centers or donation partners." },
-    { icon: "box", title: "Add other items", text: "Removing a couch and a few other items? Bundle them together for a better rate on the whole job." },
+    { icon: "box", title: "Add other items", text: "Removing a couch and a few other items? Tell us everything and we'll price it as one job." },
   ],
   pricing: {
     title: "Couch removal pricing",
@@ -50,9 +51,9 @@ export const COUCH: ItemContent = {
     title: "How couch removal works",
     list: [
       { title: "Text us a photo of your couch", text: "Show us the couch and the space it's in — that's all we need to give you an accurate quote." },
-      { title: "Receive a clear, all-in quote", text: "Labor, hauling, and disposal — all included. Nothing added at the door." },
-      { title: "Choose a time that works for you", text: "Pick same-day, next morning, or any time that suits your schedule — including weekends." },
-      { title: "We arrive, we remove, we clean up", text: "Disassembly if needed, careful extraction, full cleanup. Most jobs are wrapped up in under an hour." },
+      { title: "Receive a clear quote", text: "We look at the items and access and explain the quote, including any taxes or additional charges, before work begins." },
+      { title: "Choose a time that works for you", text: "Pick a time that suits your schedule. We confirm the time when you book." },
+      { title: "We arrive, we remove, we clean up", text: "Disassembly if needed, careful carrying, and a tidy work area when we leave." },
     ],
   },
   reviews: REVIEW_SETS.couch,

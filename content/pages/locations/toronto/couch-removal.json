@@ -5,12 +5,12 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Couch Removal Toronto | Same-Day Pickup | Live Junk Free",
-  "description": "Couch removal Toronto made easy with Live Junk Free. Fast, affordable & eco-friendly couch pickup across Toronto. Same-day service. Call +1 647 922 5865!",
+  "title": "Couch Removal Toronto | Free Onsite Estimates | Live Junk Free",
+  "description": "Couch removal Toronto made easy with Live Junk Free. Fast, affordable & eco-friendly couch pickup across Toronto. Same-day service when available. Call +1 647 922 5865!",
   "canonical": "https://livejunkfree.ca/locations/toronto/couch-removal/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
  },
- "title": "couch-removal",
+ "title": "Couch Removal",
  "h1": "Couch Removal Toronto – Fast & Affordable Pickup",
  "published": "2026-07-12T02:51:28",
  "modified": "2026-07-12T02:51:28",
@@ -46,7 +46,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -68,13 +68,13 @@
     {
      "t": "p",
      "c": [
-      "Our professional team specializes in couch removal in Toronto and across the Greater Toronto Area. We offer same-day and next-day pickup, so you don’t have to wait around for days. From a single sofa in a downtown condo to a full sectional in a North York home — we handle it all with care and efficiency."
+      "Our professional team specializes in couch removal in Toronto and across the Greater Toronto Area. We offer same-day and next-day pickup, so you don’t have to wait around for days, subject to scheduling. From a single sofa in a downtown condo to a full sectional in a North York home — we handle it all with care and efficiency."
      ]
     },
     {
      "t": "p",
      "c": [
-      "What makes us different? We’re not just about hauling junk away. We believe in eco-friendly disposal — donating usable couches to local Toronto charities and recycling materials responsibly. Our pricing is always upfront with no hidden fees, and our crew is fully licensed and insured for your peace of mind."
+      "What makes us different? We’re not just about hauling junk away. We believe in eco-friendly disposal — donating usable couches to local Toronto charities and recycling materials responsibly."
      ]
     },
     {
@@ -96,7 +96,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
-      "alt": "DSC08963",
+      "alt": "Couch Removal: Live Junk Free job photo",
       "width": 800,
       "height": 534
      }
@@ -108,12 +108,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Fast Booking & Best Price Guaranteed – Call Now!"
+     "text": "Fast Booking – Call Now!"
     },
     {
      "t": "p",
      "c": [
-      "Getting rid of an old couch should not be a hassle. Our professional removal service starts at just {{cad_125}}, and we take care of everything for you. We will carefully remove your couch from places like the basement, apartment, or any tight space, remove it away, and leave your area clean and clutter-free. No heavy lifting, no mess, just a smooth and easy process."
+      "Getting rid of an old couch should not be a hassle. Our professional removal service starts at just {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), and we take care of everything for you. We will carefully remove your couch from places like the basement, apartment, or any tight space, remove it away, and leave your area clean and clutter-free. No heavy lifting, no mess, just a smooth and easy process."
      ]
     },
     {
@@ -135,7 +135,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -256,9 +256,9 @@
        ]
       },
       {
-       "title": "All-Inclusive Pricing",
+       "title": "Pricing",
        "text": [
-        "Your upfront quote covers everything: labor, hauling, and disposal with no surprise fees"
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -268,7 +268,7 @@
        ]
       },
       {
-       "title": "Damage-Free Guarantee",
+       "title": "Careful Removal",
        "text": [
         "We protect your home during removal with padding and careful handling"
        ]
@@ -375,7 +375,7 @@
      "c": [
       {
        "b": [
-        "Fair & Transparent Couch Removal Pricing – No Hidden Fees"
+        "Fair & Transparent Couch Removal Pricing"
        ]
       }
      ]
@@ -393,10 +393,10 @@
        "You Only Pay for What We Remove – No inflated fees or unnecessary charges"
       ],
       [
-       "Free Instant Estimates – Get a clear quote via phone, text, or our website before we arrive"
+       "{{fact:freeOnsiteEstimates}}"
       ],
       [
-       "Multi-Item Discounts – Special rates when removing multiple pieces of furniture"
+       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -505,35 +505,35 @@
      "images": [
       {
        "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
-       "alt": "20250405_140825"
+       "alt": "Couch Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
-       "alt": "20250405_142357"
+       "alt": "Couch Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142736-1024x577.webp",
-       "alt": "20250405_142736"
+       "alt": "Couch Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_144606-1024x577.webp",
-       "alt": "20250405_144606"
+       "alt": "Couch Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250611_115029-1024x577.webp",
-       "alt": "20250611_115029"
+       "alt": "Couch Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250611_201732-1024x577.webp",
-       "alt": "20250611_201732"
+       "alt": "Couch Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250530_110858-1024x577.webp",
-       "alt": "20250530_110858"
+       "alt": "Couch Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250526_193102-1024x577.webp",
-       "alt": "20250526_193102"
+       "alt": "Couch Removal: Live Junk Free job photo"
       }
      ]
     }
@@ -585,7 +585,7 @@
        "q": "Do you take other items too?",
        "a": [
         [
-         "Yes! Ask about bundle deals for TVs, tables, and other junk."
+         "Yes!"
         ]
        ]
       }

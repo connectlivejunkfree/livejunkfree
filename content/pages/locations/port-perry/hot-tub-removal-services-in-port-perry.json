@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Hot Tub Removal Services in Port Perry from Live Junk Free — done safely and in one visit, draining, disconnecting, cutting apart and hauling away by an insured crew, quoted flat on site with no scenic-town markup, and the yard left clear the same day, seven days a week."
+     "text": "{{fact:nextAvailable}}"
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Pickering’s hot tubs tell the same story as its houses — some have been sitting unused since the eighties, and some just arrived with a new-build lot. In Bay Ridges and West Shore, the city’s original bungalow and sidesplit streets, it’s a tub the first owners installed decades ago, drained and cleared as the house finally gets its renovation. Through Liverpool, Village East and Dunbarton, it’s straightforward backyard removal ahead of a deck or patio rebuild. On the larger lots of Rougemount, Rosebank and Highbush, it’s tubs cleared to make room for additions and bigger backyard plans. And in rising Seaton, it’s a different job entirely — old tubs left behind on newly acquired lots, cleared before construction or landscaping begins. The 700+ five-star Google reviews behind Live Junk Free come from every one of those addresses — a hot tub removal crew that drained it properly, cut it down safely without wrecking the deck underneath, and hauled every piece away the same visit, whichever decade the tub came from."
+      "Pickering’s hot tubs tell the same story as its houses — some have been sitting unused since the eighties, and some just arrived with a new-build lot. In Bay Ridges and West Shore, the city’s original bungalow and sidesplit streets, it’s a tub the first owners installed decades ago, drained and cleared as the house finally gets its renovation. Through Liverpool, Village East and Dunbarton, it’s straightforward backyard removal ahead of a deck or patio rebuild. On the larger lots of Rougemount, Rosebank and Highbush, it’s tubs cleared to make room for additions and bigger backyard plans. And in rising Seaton, it’s a different job entirely — old tubs left behind on newly acquired lots, cleared before construction or landscaping begins. The Google reviews behind Live Junk Free come from every one of those addresses — a hot tub removal crew that drained it properly, cut it down safely without wrecking the deck underneath, and hauled every piece away the same visit, whichever decade the tub came from."
      ]
     },
     {
@@ -159,10 +159,10 @@
       },
       {
        "n": "06",
-       "title": "Independent hot tub removal pricing — 30–50% under the bigger outfits",
+       "title": "Independent hot tub removal pricing",
        "text": [
         [
-         "The national junk removal brands price hot tub removal with a franchise premium built in, and some add a scenic-town or waterfront surcharge on top. Live Junk Free does neither — the reason identical hot tub removals in Port Perry invoice 30–50% lighter with us."
+         "The national junk removal brands price hot tub removal with a franchise premium built in, and some add a scenic-town or waterfront surcharge on top."
         ]
        ]
       }
@@ -189,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "Pricing is set on site once the crew sees the tub’s size, condition and access — small portable spas price lower, full-size six-and-seven-seat tubs price accordingly, and anything with unusually difficult access (waterfront lanes, island properties, long farm laneways) gets factored in honestly at the walkthrough, without a scenic or distance markup. The number covers draining, cutting, hauling and responsible disposal or recycling as one figure, with nothing added after the fact."
+      "Pricing is set on site once the crew sees the tub’s size, condition and access — small portable spas price lower, full-size six-and-seven-seat tubs price accordingly, and anything with unusually difficult access (waterfront lanes, island properties, long farm laneways) gets factored in honestly at the walkthrough, without a scenic or distance markup."
      ]
     },
     {
@@ -211,7 +211,7 @@
     {
      "t": "price",
      "label": "Port Perry Hot Tub Removal Price",
-     "value": "{{cad_265}}"
+     "value": "Priced at your free onsite estimate"
     },
     {
      "t": "p",
@@ -259,7 +259,7 @@
        "title": "Book Your Hot Tub Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots are usually available, seven days a week, 6AM to 11PM. Tell us the tub’s rough size and location, town or waterfront."
+         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots are usually available. Tell us the tub’s rough size and location, town or waterfront."
         ]
        ]
       },
@@ -283,10 +283,10 @@
       },
       {
        "n": "04",
-       "title": "Your Yard Is Clear the Same Day",
+       "title": "Your Yard Is Clear",
        "text": [
         [
-         "The space where the tub sat gets left clean, with metal components, motors and pumps routed to recycling and the rest disposed of responsibly. Most Port Perry hot tub removals finish within a couple of hours."
+         "The space where the tub sat gets left clean, with metal components, motors and pumps routed to recycling and the rest disposed of responsibly."
         ]
        ]
       }
@@ -390,7 +390,7 @@
        "Tubs left by a previous owner, cleared alongside anything else in the yard"
       ],
       [
-       "Long-laneway access included at no extra charge"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Multi-structure properties with more than one tub or spa"
@@ -677,7 +677,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — heritage, waterfront, farmhouse and estate hot tub removals across Port Perry, Scugog and Durham Region."
+      "Google reviews — heritage, waterfront, farmhouse and estate hot tub removals across Port Perry, Scugog and Durham Region."
      ]
     },
     {
@@ -811,7 +811,7 @@
        "q": "How much does hot tub removal cost in Port Perry?",
        "a": [
         [
-         "Pricing is confirmed on site once the crew sees the tub’s size, condition and how hard it is to get to — with no scenic-town or waterfront premium anywhere in the township. A portable spa costs less than a full six-seater with tight dock access, and the number covers draining, cutting, hauling and disposal together."
+         "Pricing is confirmed on site once the crew sees the tub’s size, condition and how hard it is to get to — with no scenic-town or waterfront premium anywhere in the township. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
         ]
        ]
       },
@@ -819,7 +819,7 @@
        "q": "Is there really no charge for waterfront or island properties?",
        "a": [
         [
-         "Never. The same flat pricing applies at a Queen Street backyard and at the end of a Scugog Island lane — no distance fee, no access charge, no seasonal surcharge."
+         "Never."
         ]
        ]
       },

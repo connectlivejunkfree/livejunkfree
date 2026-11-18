@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-Day Residential Junk Removal in Caledon | Live Junk Free",
-  "description": "Same-day residential junk removal in Caledon for homes, garages, and yards. We handle appliances, furniture, and full cleanouts affordably and fast. Call us now.",
+  "title": "Residential Junk Removal in Caledon | Live Junk Free",
+  "description": "Same-day residential junk removal in Caledon for homes, garages, and yards, subject to scheduling. We handle appliances, furniture, and full cleanouts affordably and fast. Call us now.",
   "canonical": "https://livejunkfree.ca/locations/residential-junk-removal-in-caledon/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "residential-junk-removal-in-caledon",
+ "title": "Residential Junk Removal in Caledon",
  "h1": "Residential Junk Removal in Caledon, Ontario — When There's Always Room, Nothing Ever Leaves",
  "published": "2026-07-15T06:46:34",
  "modified": "2026-07-15T06:46:34",
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The township's homes span every kind: busy family houses on North Hill and South Hill, village homes in Caledon East and Inglewood, and farmhouses down long laneways where the nearest neighbour is a field away. Live Junk Free picks up from all of them, at the same flat rates — 660+ five-star Google reviews earned by arriving when we said, quoting what we meant, and carrying like the floors were our own."
+     "text": "The township's homes span every kind: busy family houses on North Hill and South Hill, village homes in Caledon East and Inglewood, and farmhouses down long laneways where the nearest neighbour is a field away."
     },
     {
      "t": "steps",
@@ -131,7 +131,7 @@
      "items": [
       {
        "n": "03",
-       "title": "All-inclusive means the number can't grow",
+       "title": "Means the number can't grow",
        "text": []
       }
      ]
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Local and franchise-free — 30–50% below the chains",
+       "title": "Local and franchise-free",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national junk brands price royalties into every pickup and think twice about rural routes anyway. We're independently owned, we run the concessions daily, and Caledon homeowners keep 30–50% on identical work."
+     "text": "The national junk brands price royalties into every pickup and think twice about rural routes anyway."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small pickups start at {{cad_125}}, single items sit at the friendly end, and bigger clears grow only as the truck fills. The figure is settled free at your door before anything lifts, and it reads the same whether you're two streets off Highway 50 or the last mailbox before the forest. No distance fees, no fuel recovery lines, no surprises."
+     "text": "Small pickups start at {{min_price:C}}, single items sit at the friendly end, and bigger clears grow only as the truck fills. The figure is settled free at your door before anything lifts, and it reads the same whether you're two streets off Highway 50 or the last mailbox before the forest."
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Book the Truck",
        "text": [
-        "Call +1 647 922 5865 or book online in two minutes. Crews run the whole township seven days a week, 6AM to 11PM, with same-day slots most days and a 30-minute text before we're down your road."
+        "Call +1 647 922 5865 or book."
        ]
       },
       {
        "title": "2. Walk Us Through It",
        "text": [
-        "Point at everything that's going — one item or a houseful. We measure it against the truck and hand you a single flat, all-inclusive quote. Free either way."
+        "Point at everything that's going — one item or a houseful. We measure it against the truck and hand you a single flat, quote. Free either way."
        ]
       },
       {
@@ -486,7 +486,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -516,7 +516,7 @@
        "q": "Q: What does junk removal cost for a Caledon home?",
        "a": [
         [
-         "A: The truck decides: small loads start at $125, single items stay proportionally cheap, and larger clears scale only with the space they fill. The flat figure arrives free at your door, includes every cost, and can’t change after you approve it — no matter where in the township you live."
+         "A: The truck decides: small loads start at {{min_price:C}}, single items stay proportionally cheap, and larger clears scale only with the space they fill. The flat figure arrives free at your door, includes every cost, and can’t change after you approve it — no matter where in the township you live."
         ]
        ]
       },

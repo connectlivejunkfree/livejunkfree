@@ -1,3 +1,4 @@
+import { fact } from "@/lib/content/facts";
 import { FAQS } from "../faqs";
 import { REVIEW_SETS } from "../reviews";
 import { svc } from "../routes";
@@ -53,7 +54,8 @@ export const ESTATE: CleanoutContent = {
   },
   pricing: {
     title: "How estate cleanouts are priced",
-    intro: "A full truckload is C$655, small removals start at C$125. Larger properties may take several loads.",
+    // Answers A1.3 / A1.6: cleanouts aren't priced from the Junk Load minimum.
+    intro: `Estate cleanouts are priced by the load sizes needed and the work involved. ${fact("quoteText")} Larger properties may take several loads.`,
   },
   reviews: REVIEW_SETS.estate,
   faq: FAQS.estate,

@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -146,10 +146,10 @@
       },
       {
        "n": "03",
-       "title": "One all-inclusive number — no hidden line items during an already difficult process.",
+       "title": "One number — no hidden line items during an already difficult process.",
        "text": [
         [
-         "Labour, truck, fuel and disposal are all included. We will never add a surprise charge to an invoice during a time when you have enough to manage already."
+         "{{fact:taxNote}}. {{fact:pricingIntro.extra}} We will never add a surprise charge to an invoice during a time when you have enough to manage already."
         ]
        ]
       },
@@ -164,7 +164,7 @@
       },
       {
        "n": "05",
-       "title": "The approved price is locked.",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Once you’re ready and you approve the quote, that number does not change — regardless of how long the clearing takes or what we encounter while doing it."
@@ -173,7 +173,7 @@
       },
       {
        "n": "06",
-       "title": "30–50% less than national franchise cleanout companies",
+       "title": "",
        "text": [
         [
          "without compromising on the patience and care this work actually requires."
@@ -209,7 +209,7 @@
     {
      "t": "checks",
      "items": [
-      "Hauling + Sorting + Disposal in One Price",
+      "{{fact:competitorComparison}}",
       "Labour, Truck, Fuel and Disposal"
      ]
     },
@@ -217,7 +217,7 @@
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
@@ -225,12 +225,12 @@
     {
      "t": "price",
      "label": "Bereavement Cleanout",
-     "value": "{{cad_125:suffix}}"
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
      "c": [
-      "Volume-priced and all-inclusive — sorting, carrying, hauling and disposal in one figure."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -282,7 +282,7 @@
        "title": "Property Walkthrough & Quote",
        "text": [
         [
-         "We walk through the property with you, discuss any special requests, and provide one clear, all-inclusive quote with no hidden fees."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -347,7 +347,7 @@
        "Keepsakes and anything meaningful set aside before anything else is touched"
       ],
       [
-       "Multi-visit scheduling available at no extra cost"
+       "{{fact:competitorComparison}}"
       ]
      ]
     },
@@ -363,7 +363,7 @@
        "Bereavement cleanouts for smaller-footprint units, handled with the same care"
       ],
       [
-       "Certificates of insurance, freight elevator bookings and building rules handled directly with management"
+       "{{fact:licensedInsured}}"
       ],
       [
        "Discreet timing coordinated with concierge where relevant"
@@ -414,7 +414,7 @@
        "Outbuilding coordination where the estate includes more than the main house"
       ],
       [
-       "No distance surcharge, regardless of how far the property sits from the city"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Real patience for properties with generations of accumulated belongings"
@@ -660,7 +660,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — full home, condo, senior transition and rural bereavement cleanouts across the GTA. The comment that comes up most: nobody rushed us, and nobody made us feel like a job on a schedule."
+      "Google reviews — full home, condo, senior transition and rural bereavement cleanouts across the GTA. The comment that comes up most: nobody rushed us, and nobody made us feel like a job on a schedule."
      ]
     },
     {
@@ -821,7 +821,7 @@
        "q": "How much does a bereavement cleanout cost?",
        "a": [
         [
-         "A: Pricing is volume-based and starts from $125 for smaller spaces. Every estimate is free, in-person and entirely no-obligation — there’s no cost to take the time you need before deciding. "
+         "Every estimate is free, in-person and entirely no-obligation — there’s no cost to take the time you need before deciding. "
         ]
        ]
       }

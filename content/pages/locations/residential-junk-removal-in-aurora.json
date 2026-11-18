@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-Day Residential Junk Removal in Aurora",
-  "description": "Book expert same-day residential junk removal in Aurora. We clean out basements, remove old appliances, clear yard debris, and haul away unwanted furniture.",
+  "title": "Residential Junk Removal in Aurora",
+  "description": "Book expert same-day residential junk removal in Aurora, subject to scheduling. We clean out basements, remove old appliances, clear yard debris, and haul away unwanted furniture.",
   "canonical": "https://livejunkfree.ca/locations/residential-junk-removal-in-aurora/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
  },
  "title": "Residential Junk Removal in Aurora",
- "h1": "Junk removal Toronto — same-day pickup, no hidden fees",
+ "h1": "Junk removal Toronto — same-day pickup when available",
  "published": "2025-08-24T12:40:28",
  "modified": "2025-08-24T12:40:29",
  "sections": [
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Junk removal Toronto — same-day pickup, no hidden fees"
+     "text": "Junk removal Toronto — same-day pickup when available"
     },
     {
      "t": "p",
@@ -36,7 +36,7 @@
         "Junk removal Toronto"
        ]
       },
-      " residents need shouldn’t be complicated — and with Live Junk Free, it never is. Whether you’re clearing out a basement in Scarborough, a condo in the Downtown Core, or a garage in North York, our crew shows up on time, takes everything with us, and leaves your space clean. No truck rentals, no guesswork, no waiting around. Just reliable, same-day service from a team that knows this city inside out."
+      " residents need shouldn’t be complicated — and with Live Junk Free, it never is. Whether you’re clearing out a basement in Scarborough, a condo in the Downtown Core, or a garage in North York, our crew shows up on time, takes everything with us, and leaves your space clean. No truck rentals, no guesswork, no waiting around. Just reliable, same-day service when available from a team that knows this city inside out."
      ]
     },
     {
@@ -173,7 +173,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We don't treat every load the same. Usable furniture and appliances are directed to local Toronto donation partners before anything goes near a landfill. Metal, electronics, and other recyclable materials are sent to certified processing facilities. We actively track what leaves our truck and where it ends up."
+     "text": "We don't treat every load the same. Usable furniture and appliances are directed to local Toronto donation partners before anything goes near a landfill. We actively track what leaves our truck and where it ends up."
     },
     {
      "t": "steps",
@@ -188,7 +188,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Before we move a single item, you know exactly what it costs. Our pricing is based on truck volume — honest, transparent, and confirmed on-site. No fuel add-ons discovered after loading, no staircase fees appearing on the invoice, no surprises of any kind. What we say upfront is what you pay."
+     "text": "Before we move a single item, you know exactly what it costs. Our pricing is based on truck volume — honest, transparent, and confirmed on-site."
     },
     {
      "t": "steps",
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Heavy items through tight spaces can leave marks — on walls, floors, doorframes, elevator interiors. Our crew uses protective coverings and proper handling equipment throughout every job. Licensed and insured, we treat every Toronto home and business with the same level of care we'd want for our own."
+     "text": "Heavy items through tight spaces can leave marks — on walls, floors, doorframes, elevator interiors. {{fact:propertyProtection}}. Licensed and insured, we treat every Toronto home and business with the same level of care we'd want for our own."
     },
     {
      "t": "steps",
@@ -280,7 +280,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Toronto is the most efficient, fast-moving city in Canada — and your junk removal experience should match that energy. No complicated booking systems. No unclear processes. No wondering what happens next. Here's our entire same-day junk removal process in Toronto, Ontario — 4 steps, start to finish, nothing hidden:"
+     "text": "No complicated booking systems. No unclear processes. No wondering what happens next. Here's our entire same-day junk removal when available process in Toronto, Ontario — 4 steps, start to finish, nothing hidden:"
     },
     {
      "t": "cards",
@@ -340,7 +340,7 @@
        "q": "02 - Residential Removal",
        "a": [
         [
-         "Our pricing is based on the volume of items being removed, the type of items, and the difficulty of removal. We offer upfront pricing with no hidden fees. You can also request a free estimate by contacting us or using our online booking system."
+         "Our pricing is based on the volume of items being removed, the type of items, and the difficulty of removal. You can also request a free estimate by contacting us or using our online booking system."
         ]
        ]
       },
@@ -547,7 +547,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },

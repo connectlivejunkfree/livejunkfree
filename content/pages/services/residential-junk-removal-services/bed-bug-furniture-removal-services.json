@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -63,19 +63,19 @@
     {
      "t": "p",
      "c": [
-      "Live Junk Free makes bed bug furniture removal safe and stress-free. We provide a professional solution to eliminate bed bug-infested furniture, mattresses, and other contaminated items, ensuring your home is pest-free without any hassle."
+      "Live Junk Free makes bed bug furniture removal safe and stress-free."
      ]
     },
     {
      "t": "p",
      "c": [
-      "First, we offer a free, transparent quote with no hidden fees. Once approved, our experienced team arrives at your scheduled time to safely remove all bed bug-infested furniture, following strict protocols to prevent the spread of bed bugs. Most jobs are completed quickly, leaving your space clean and secure."
+      "Once approved, our experienced team arrives at your scheduled time to safely remove all bed bug-infested furniture, following strict protocols to prevent the spread of bed bugs. Most jobs are completed quickly, leaving your space clean and secure."
      ]
     },
     {
      "t": "p",
      "c": [
-      "We prioritize safe and responsible disposal. Instead of risking contamination, we ensure that all bed bug-infested furniture is properly disposed of or destroyed under health regulations. Our trained crew handles all items with care, protecting your property while maintaining a clean work area."
+      "We prioritize safe and responsible disposal. Our trained crew handles all items with care, protecting your property while maintaining a clean work area."
      ]
     },
     {
@@ -108,19 +108,19 @@
     {
      "t": "p",
      "c": [
-      "Bed bug-infested furniture taking over your space? Our bed bug furniture removal service starts at just {{cad_125}}, and we handle everything. We’ll safely remove mattresses, couches, chairs, and other infested furniture, no matter where it’s stored in your home or business."
+      "Bed bug-infested furniture taking over your space? We’ll safely remove mattresses, couches, chairs, and other infested furniture, no matter where it’s stored in your home or business."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Sit back while our trained team clears your space quickly and efficiently. Whether it’s a single piece or an entire room of contaminated furniture, we follow strict protocols to prevent the spread of bed bugs and ensure proper disposal, leaving your home pest-free and clutter-free."
+      "Sit back while our trained team clears your space quickly and efficiently."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Ready to eliminate bed bug hazards? Call now at +1 647 922 5865 or book online for fast, reliable bed bug furniture removal in Toronto."
+      "Call now at +1 647 922 5865 or book online for fast, reliable bed bug furniture removal in Toronto."
      ]
     },
     {
@@ -130,7 +130,7 @@
        "b": [
         {
          "i": [
-          "We answer calls in 1 minute."
+          "Easy Booking by Phone or Online"
          ]
         }
        ]
@@ -144,12 +144,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Bed Bug Furniture Removal"
+     "text": "Bed Bug Furniture Removal"
     },
     {
      "t": "p",
      "c": [
-      "Dealing with bed bug-infested furniture? Don’t wait, our same-day removal service eliminates the risk quickly, with no hassle and no delays."
+      "Dealing with bed bug-infested furniture? Don’t wait, our same-day removal when available service eliminates the risk quickly, with no hassle and no delays."
      ]
     },
     {
@@ -177,7 +177,7 @@
        "Proper disposal following health and safety regulations"
       ],
       [
-       "Post-removal area cleanup for a pest-free space"
+       "Cleanup of the work area after removal"
       ]
      ]
     },
@@ -206,13 +206,13 @@
       {
        "title": "Schedule When It Works For You",
        "text": [
-        "– Choose same-day, next-day, or weekend removal with no emergency fees. We accommodate your schedule, whether you’re a homeowner, landlord, or business manager."
+        "– Choose same-day, next-day, or weekend removal, subject to scheduling. We accommodate your schedule, whether you’re a homeowner, landlord, or business manager."
        ]
       },
       {
        "title": "Guaranteed Safe Disposal Protocol",
        "text": [
-        "– We provide 100% contained removal and destruction at approved facilities. All infested items are properly sealed and transported to prevent any spread of bed bugs."
+        "All infested items are properly sealed and transported to prevent any spread of bed bugs."
        ]
       },
       {
@@ -222,7 +222,7 @@
        ]
       },
       {
-       "title": "Book in Just 60 Seconds",
+       "title": "Book",
        "text": [
         "– Get on our schedule instantly online or by phone, no complicated assessments or lengthy paperwork required."
        ]
@@ -230,7 +230,7 @@
       {
        "title": "Transparent Pricing You Can Trust",
        "text": [
-        "– Your upfront quote includes all labor, hazardous material handling, and proper disposal, no surprise charges for large items or difficult access situations."
+        "{{fact:taxNote}}. {{fact:pricingIntro.extra}}"
        ]
       },
       {
@@ -239,78 +239,6 @@
         "– We use careful removal techniques to prevent damage to your floors, walls, and other furnishings during the process"
        ]
       }
-     ]
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Our Process: Bed Bug Furniture Removal Made Simple"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Our Bed Bug Furniture Removal Process is So Simple & Effective – You’ll Be Relieved"
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "Our bed bug furniture removal service efficiently eliminates infested items from any location, whether it’s a bedroom filled with contaminated mattresses, a living room with infected sofas, or an entire apartment complex dealing with a severe infestation. Our professional team takes special precautions to protect your property while swiftly removing all bed bug-ridden furniture to prevent further spread."
-      ],
-      [
-       "It makes no difference what type of furniture needs removal – beds, couches, dressers, or even large sectional sofas. We handle them all with the same level of expertise and care. Our crew carefully collects, seals, and transports all infested items according to strict health and safety regulations, ensuring complete containment of the pest problem."
-      ],
-      [
-       "The best part? You don’t need to touch a single contaminated item. We manage all the heavy lifting, protective wrapping, and hazardous removal while you supervise from a safe distance."
-      ]
-     ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Safe & Responsible Bed Bug Furniture Disposal"
-    },
-    {
-     "t": "p",
-     "c": [
-      "We protect your community through proper infected furniture removal:"
-     ]
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "100% containment & destruction at approved facilities"
-      ],
-      [
-       "Sealed transport to prevent infestation spread"
-      ],
-      [
-       "Zero risk disposal following health regulations"
-      ]
-     ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Get Immediate Pricing – Honest & Upfront Rates"
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "All-inclusive pricing with no surprise charges"
-      ],
-      [
-       "Free photo estimates via phone/text"
-      ],
-      [
-       "Discounted rates for multi-room/multi-unit removal"
-      ]
      ]
     }
    ]
@@ -390,19 +318,19 @@
       {
        "title": "Get a Quote",
        "text": [
-        "Receive honest pricing with no hidden fees, guaranteed."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Schedule Pickup",
        "text": [
-        "Select same-day or scheduled service that works best for you."
+        "Select same-day when available or scheduled service that works best for you."
        ]
       },
       {
        "title": "We Remove It",
        "text": [
-        "Our trained team arrives in protective gear, removes all infested furniture, and leaves your space sanitized, typically in under 1 hour."
+        "Our trained team arrives in protective gear, removes all infested furniture, and tidies the work area, typically in under 1 hour."
        ]
       }
      ]
@@ -471,7 +399,7 @@
        "q": "Do I need to treat the furniture before removal?",
        "a": [
         [
-         "No, our team handles all contaminated items safely. Just schedule pickup, and we’ll take care of the rest."
+         "{{fact:bedBugScope}} {{fact:pestProfessional}}"
         ]
        ]
       },

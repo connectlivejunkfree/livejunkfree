@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -147,7 +147,7 @@
        "title": "Affordable Eviction Cleanout Pricing in Scarborough",
        "text": [
         [
-         "Our eviction cleanout pricing in Scarborough starts at {{cad_125}}. The final price depends on the quantity and type of belongings, labour requirements, access and complexity of the removal."
+         "The final price depends on the quantity and type of belongings, labour requirements, access and complexity of the removal."
         ]
        ]
       },
@@ -276,7 +276,7 @@
     {
      "t": "p",
      "c": [
-      "Our eviction cleanout services start at {{cad_125}}. Larger cleanouts are priced according to the actual volume and complexity of the project."
+      "Larger cleanouts are priced according to the actual volume and complexity of the project."
      ]
     },
     {
@@ -289,22 +289,22 @@
      "t": "checks",
      "items": [
       "Haul-Away",
-      "No Stairs Surcharges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
     },
     {
      "t": "price",
-     "label": "Scarborough Eviction Cleanout Services Starts From",
-     "value": "{{cad_125:suffix}}"
+     "label": "Scarborough Eviction Cleanout Pricing",
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
@@ -473,7 +473,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Junk Removal, Demolition & Cleanout Services in Scarborough"
+     "text": "Junk Removal, Demolition & Cleanout Services in Scarborough"
     },
     {
      "t": "p",
@@ -481,7 +481,7 @@
       "An eviction cleanout may be only one part of preparing a Scarborough property. Live Junk Free also provides ",
       {
        "b": [
-        "same-day junk removal in Scarborough"
+        "Junk removal in Scarborough"
        ]
       },
       ", along with house cleanouts, apartment cleanouts, basement cleanouts, garage cleanouts, estate cleanouts, hoarding cleanouts, storage unit cleanouts and office cleanouts. When additional removal work is needed, our demolition services include deck, fence, shed and hot tub demolition, giving property owners more options for clearing unwanted materials and structures."
@@ -824,7 +824,7 @@
     {
      "t": "p",
      "c": [
-      "More than 700 five-star Google reviews across restaurant strip-outs, heritage storefront closures, mall and big-box clearances and landlord re-lease preparations — from Main Street South through York Region and across the GTA."
+      "Google reviews across restaurant strip-outs, heritage storefront closures, mall and big-box clearances and landlord re-lease preparations — from Main Street South through York Region and across the GTA."
      ]
     },
     {
@@ -1184,7 +1184,7 @@
        "q": "How much does an eviction cleanout cost in Scarborough?",
        "a": [
         [
-         "Eviction cleanout services start at $125. The final cost depends on the volume and type of items, labour requirements, access and overall complexity. Contact us for a free quote. "
+         "The final cost depends on the volume and type of items, labour requirements, access and overall complexity. Contact us for a free quote. "
         ]
        ]
       },

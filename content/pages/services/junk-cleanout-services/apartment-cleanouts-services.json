@@ -102,7 +102,7 @@
     {
      "t": "p",
      "c": [
-      "Few things create more stress than an apartment that needs to be empty by a certain date. Whether you’re a tenant facing a final walkthrough, a landlord who just got the keys back to a unit full of leftovers, or a family clearing a loved one’s home, waiting days for a junk company isn’t an option. Our crews regularly complete same-day and next-day cleanouts, arriving with a truck, tools, and enough hands to clear a full unit in a single visit."
+      "Few things create more stress than an apartment that needs to be empty by a certain date. Whether you’re a tenant facing a final walkthrough, a landlord who just got the keys back to a unit full of leftovers, or a family clearing a loved one’s home, waiting days for a junk company isn’t an option. Our crews regularly complete same-day and next-day cleanouts, arriving with a truck, tools, and enough hands to clear a full unit in a single visit, subject to scheduling."
      ]
     },
     {
@@ -136,7 +136,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -150,7 +150,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Full-Service Apartment Cleanouts – One Crew, One Visit, Empty Unit"
+     "text": "Full-Service Apartment Cleanouts – One Crew, Planned Around Your Building"
     },
     {
      "t": "p",
@@ -167,7 +167,7 @@
     {
      "t": "p",
      "c": [
-      "Our team coordinates directly with building management when needed — booking service elevators, following move-out procedures, and laying floor and wall protection through lobbies and corridors. Inside the unit, we do the sorting, dismantling, bagging, and carrying, so you never lift a thing."
+      "{{fact:propertyProtection}}. Inside the unit, we do the sorting, dismantling, bagging, and carrying, so you never lift a thing."
      ]
     },
     {
@@ -216,15 +216,15 @@
        ]
       },
       {
-       "title": "Zero Damage to the Building",
+       "title": "Careful Removal",
        "text": [
-        "Floor runners, corner guards, and insured crews protect the unit and every common area in between"
+        "{{fact:propertyProtection}}"
        ]
       },
       {
        "title": "Scheduling Built Around Deadlines",
        "text": [
-        "Evenings, weekends, and same-day slots timed to your lease end, closing, or tenant move-in"
+        "Evenings, weekends, and same-day slots when available timed to your lease end, closing, or tenant move-in"
        ]
       },
       {
@@ -242,7 +242,7 @@
       {
        "title": "Building-Friendly Crews",
        "text": [
-        "We book elevators, follow condo rules, and protect every hallway we pass through"
+        "We follow condo rules and protect the hallways we pass through. {{fact:accessCoordination}}"
        ]
       }
      ]
@@ -395,7 +395,7 @@
       {
        "title": "Set the Date",
        "text": [
-        "Choose a same-day, next-day, or scheduled slot that lines up with your lease deadline, closing date, or turnover schedule."
+        "Choose a same-day, next-day, or scheduled slot that lines up with your lease deadline, closing date, or turnover schedule, subject to scheduling."
        ]
       },
       {
@@ -414,7 +414,7 @@
     {
      "t": "p",
      "c": [
-      "Take a look at real apartment cleanouts we’ve completed across the GTA — cluttered bedrooms, overflowing living rooms, and abandoned units transformed into empty, move-in-ready spaces in a matter of hours."
+      "Take a look at real apartment cleanouts we’ve completed across the GTA — cluttered bedrooms, overflowing living rooms, and abandoned units transformed into empty, spaces in a matter of hours."
      ]
     },
     {
@@ -422,27 +422,27 @@
      "images": [
       {
        "src": "/images/uploads/2025/07/20250611_115029-1024x577.webp",
-       "alt": "20250611_115029"
+       "alt": "Apartment Cleanouts: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250611_201732-1024x577.webp",
-       "alt": "20250611_201732"
+       "alt": "Apartment Cleanouts: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
-       "alt": "20250405_140825"
+       "alt": "Apartment Cleanouts: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
-       "alt": "20250405_142357"
+       "alt": "Apartment Cleanouts: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142736-1024x577.webp",
-       "alt": "20250405_142736"
+       "alt": "Apartment Cleanouts: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_144606-1024x577.webp",
-       "alt": "20250405_144606"
+       "alt": "Apartment Cleanouts: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/apartment-cleanouts-services-before-1024x577.jpg",
@@ -470,7 +470,7 @@
        "q": "What does your apartment cleanout service include?",
        "a": [
         [
-         "Everything from sorting and dismantling to hauling and final sweep-up. We clear furniture, appliances, mattresses, electronics, boxes, clothing, and general clutter from every room, closet, balcony, and storage locker — leaving the unit broom-clean and inspection-ready."
+         "Everything from sorting and dismantling to hauling and final sweep-up. We clear furniture, appliances, mattresses, electronics, boxes, clothing, and general clutter from every room, closet, balcony, and storage locker — leaving the unit broom-clean."
         ]
        ]
       },
@@ -486,7 +486,7 @@
        "q": "How much does an apartment cleanout cost?",
        "a": [
         [
-         "Pricing is based on the volume your items occupy in our truck, not on hourly rates. Send photos or book a free on-site assessment, and you’ll receive a firm all-inclusive quote before any work begins — with no add-on fees afterward."
+         "Pricing is based on the volume your items occupy in our truck, not on hourly rates. Send photos or book a free on-site assessment, and you’ll receive a firm quote before any work begins — with no add-on fees afterward."
         ]
        ]
       },
@@ -729,277 +729,6 @@
       {
        "label": "Schedule Now — +1 647 922 5865",
        "href": "tel:+16479225865"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Common Questions About Apartment Cleanout Services"
-    },
-    {
-     "t": "p",
-     "c": [
-      "Apartment cleanouts often come with questions about pricing, what can be removed, scheduling, building access, and disposal. At Live Junk Free, we help GTA residents understand what to expect before booking a cleanout. Below are answers to some of the most common questions about apartment junk removal and cleanout services. Whether you’re moving, downsizing, handling an estate, or simply clearing unwanted items, these answers can help you plan your cleanout with confidence."
-     ]
-    },
-    {
-     "t": "faq",
-     "items": [
-      {
-       "q": "Read What People Ask About Apartment Cleanouts",
-       "a": [
-        [
-         "1. What is the average cost to clean out a 1-bedroom vs. a 3-bedroom apartment?"
-        ],
-        [
-         "Apartment cleanout costs depend on the amount of junk, furniture, appliances, labour, accessibility, and disposal requirements rather than bedroom count alone. A 3-bedroom apartment will generally cost more when it contains significantly more items than a 1-bedroom unit. Live Junk Free can provide a clear estimate based on the volume and type of items that need to be removed."
-        ],
-        [
-         "2. Do cleanout companies charge by the truckload, weight, or hours worked?"
-        ],
-        [
-         "Pricing models vary between cleanout companies. At Live Junk Free, the cost can depend on the amount of space your unwanted items occupy, the type of materials being removed, and the work involved. We aim to provide straightforward pricing before the job begins."
-        ],
-        [
-         "3. How much extra do companies charge for walk-up apartments without an elevator?"
-        ],
-        [
-         "A walk-up apartment may require additional labour when crews have to carry heavy furniture and other items down several flights of stairs. The number of floors, amount of junk, item weight, and accessibility can all affect the final price."
-        ],
-        [
-         "4. Is there a separate fee for heavy appliance recycling?"
-        ],
-        [
-         "Certain appliances require special handling and recycling. Items such as refrigerators, freezers, washers, and dryers may involve additional disposal or recycling costs depending on their type and applicable disposal requirements."
-        ],
-        [
-         "5. Can I get a binding price estimate online, or does someone need to see the apartment first?"
-        ],
-        [
-         "In many cases, photos and details about the items can help provide an initial estimate. For larger or more complex apartment cleanouts, additional information or an on-site assessment may be needed to determine the scope accurately."
-        ],
-        [
-         "6. Are disposal and landfill fees included in the initial cleanout quote?"
-        ],
-        [
-         "This depends on the service provider and the materials being removed. Live Junk Free provides clear information about the expected cost so customers understand what they are paying for before the cleanout begins."
-        ],
-        [
-         "7. Do companies offer discounts if I pile all the trash near the front door myself?"
-        ],
-        [
-         "Having items already gathered in an accessible location can sometimes reduce the amount of labour required. However, pricing depends on the overall volume and scope of the job rather than simply where the items are placed."
-        ],
-        [
-         "8. What is the cost difference between a junk removal service and a move-out cleaning service?"
-        ],
-        [
-         "Junk removal focuses on removing unwanted furniture, appliances, boxes, debris, and other items from the apartment. Move-out cleaning focuses on cleaning floors, kitchens, bathrooms, surfaces, and other areas. Live Junk Free specializes in removing unwanted items and junk from your property."
-        ],
-        [
-         "9. Is a deposit required to book an apartment cleanout service?"
-        ],
-        [
-         "Payment and deposit policies vary between companies. When booking with Live Junk Free, customers can discuss scheduling and payment requirements in advance so there are no surprises."
-        ],
-        [
-         "10. What is the cancellation policy if my landlord changes the move-out date?"
-        ],
-        [
-         "Move-out dates can change unexpectedly, so it is best to contact the cleanout company as soon as possible. Live Junk Free can discuss rescheduling options based on appointment availability and the timing of your request."
-        ],
-        [
-         "11. Will a cleanout service take absolutely everything, or are there items they refuse?"
-        ],
-        [
-         "Live Junk Free can remove a wide range of household junk, furniture, appliances, electronics, boxes, and general unwanted items. Certain hazardous, regulated, or restricted materials may require specialized handling and cannot be accepted as regular junk."
-        ],
-        [
-         "12. Do cleanout companies handle hazardous materials like paint, batteries, or old chemicals?"
-        ],
-        [
-         "Hazardous materials often require specialized disposal and may not be accepted by standard junk removal services. If you have paint, chemicals, batteries, or other potentially hazardous materials, let Live Junk Free know before your appointment so the appropriate disposal options can be discussed."
-        ],
-        [
-         "13. Can a cleanout service take down and remove mounted TVs and heavy shelving?"
-        ],
-        [
-         "Some mounted items and shelving can be removed when they only require basic disassembly. More complicated electrical, structural, or construction work may require a specialized contractor, so it is best to confirm the scope before booking."
-        ],
-        [
-         "14. Do they pick up mattresses, and is there an extra environmental fee for them?"
-        ],
-        [
-         "Yes, mattresses are commonly included in apartment junk removal services. Depending on the type of mattress and local disposal requirements, additional recycling or disposal costs may apply."
-        ],
-        [
-         "15. Will the team sort through clutter to find valuables, or do they dump everything together?"
-        ],
-        [
-         "Customers should identify valuables, important documents, sentimental belongings, and anything they want to keep before the cleanout begins. Live Junk Free removes the items designated for removal, so anything that must stay should be clearly separated and communicated to the crew."
-        ],
-        [
-         "16. Do cleanout services sweep and vacuum the floors after the junk is removed?"
-        ],
-        [
-         "A basic cleanup may be possible after items are removed, depending on the service booked. However, a full move-out cleaning or deep cleaning is different from junk removal and may require a separate cleaning service."
-        ],
-        [
-         "17. Can I hire a service to only remove large furniture and leave the small trash?"
-        ],
-        [
-         "Yes. You do not necessarily need to book a complete apartment cleanout if you only need specific items removed. Live Junk Free can remove unwanted large furniture and other selected items according to the scope of your booking."
-        ],
-        [
-         "18. Do cleanout companies handle hoarding situations, and how do they approach them?"
-        ],
-        [
-         "Hoarding cleanouts can involve significantly more items, difficult access, and additional sorting and disposal requirements. A professional cleanout team can help remove unwanted belongings systematically, while hazardous or biohazardous conditions may require specialized remediation."
-        ],
-        [
-         "19. Will they remove carpeting or old vinyl flooring if requested?"
-        ],
-        [
-         "Some loose carpeting and flooring materials may be suitable for removal, but permanent flooring removal can involve demolition work. Tell Live Junk Free what type of flooring needs to be removed so the service requirements can be confirmed before booking."
-        ],
-        [
-         "20. Can a cleanout company deliver some items to a donation center and throw away the rest?"
-        ],
-        [
-         "When suitable items can be reused, donation may be an option. Live Junk Free can help separate reusable belongings from items that need recycling or disposal, depending on the items and available donation options."
-        ],
-        [
-         "21. How many days in advance do I need to book a full apartment cleanout?"
-        ],
-        [
-         "It is best to schedule a full apartment cleanout as early as possible, particularly when you have a strict move-out deadline. If you need urgent removal, ask Live Junk Free about available same-day or short-notice appointments."
-        ],
-        [
-         "22. How long does it typically take a crew to clear out a standard 2-bedroom apartment?"
-        ],
-        [
-         "The time required depends on the amount of junk, furniture, appliances, number of workers, building access, elevator availability, and parking. A lightly furnished apartment may take considerably less time than a unit packed with belongings."
-        ],
-        [
-         "23. Can a cleanout be done if I am not physically present at the apartment?"
-        ],
-        [
-         "Yes, an apartment cleanout may be possible without you being there if appropriate access has been arranged and the removal instructions are clear. Make sure the cleanout team has access to the property and knows exactly which items should be removed."
-        ],
-        [
-         "24. What happens if the cleanout crew exceeds the elevator reservation time set by my building?"
-        ],
-        [
-         "Elevator restrictions can cause delays, particularly in condos and high-rise buildings. Before the appointment, provide Live Junk Free with your building’s elevator schedule and reserve sufficient time based on the expected size of the cleanout."
-        ],
-        [
-         "25. Do cleanout companies provide a Certificate of Insurance (COI) to show my landlord?"
-        ],
-        [
-         "Some apartment and condominium buildings require contractors to provide proof of insurance or a Certificate of Insurance. If your property manager requires a COI, ask about the requirement before scheduling your cleanout."
-        ],
-        [
-         "26. Where do the cleanout trucks typically park if the building only has a tight alleyway?"
-        ],
-        [
-         "The truck needs to be parked in a legal and accessible location that allows the crew to safely load items. For apartments with restricted access, narrow driveways, alleys, or loading areas, provide parking instructions before the appointment."
-        ],
-        [
-         "27. Do I need to get a parking permit for the junk removal truck ahead of time?"
-        ],
-        [
-         "Parking requirements vary by building and municipality. If your apartment, condo, or property requires a parking permit or loading reservation for commercial vehicles, arrange it before the cleanout to prevent unnecessary delays."
-        ],
-        [
-         "28. Can an apartment cleanout be scheduled for weekends or after-hours?"
-        ],
-        [
-         "Weekend availability depends on the company’s schedule. If you need a weekend, evening, or urgent appointment, contact Live Junk Free in advance so available scheduling options can be confirmed."
-        ],
-        [
-         "29. What happens to items that are accidentally left behind but weren’t meant to be thrown away?"
-        ],
-        [
-         "Clearly separate and label everything you want to keep before the crew arrives. Once an item has been removed and disposed of, recovering it may not be possible, so careful preparation is important."
-        ],
-        [
-         "30. Will the crew bring their own boxes, bins, and heavy-duty trash bags?"
-        ],
-        [
-         "Professional junk removal crews generally arrive with the equipment needed to collect and load the materials being removed. However, packing supplies for moving or storing belongings are not necessarily part of a junk removal service."
-        ],
-        [
-         "31. How do I coordinate an estate cleanout from a different state or city?"
-        ],
-        [
-         "If you cannot be present, you can arrange access through an authorized family member, property manager, realtor, or another trusted person. Provide clear instructions about what should be removed, kept, donated, or recycled before the crew arrives."
-        ],
-        [
-         "32. What are the legal requirements for a cleanout after a tenant eviction?"
-        ],
-        [
-         "Eviction cleanouts can involve specific legal requirements regarding a former tenant’s belongings. Property owners and managers should make sure they have the appropriate legal authority to remove and dispose of property before scheduling a cleanout."
-        ],
-        [
-         "33. Can a cleanout service help document items for insurance or probate court?"
-        ],
-        [
-         "Some cleanout projects may involve photographs or basic documentation, but junk removal companies are not generally responsible for legal valuations or probate decisions. If documentation is required for insurance or probate, establish those requirements before the cleanout."
-        ],
-        [
-         "34. How do companies handle cleanouts involving biohazards or mold?"
-        ],
-        [
-         "Serious mold, biohazard contamination, or unsafe materials may require specialized remediation before ordinary junk removal can take place. Inform Live Junk Free about any known hazardous conditions before booking so the appropriate service approach can be determined."
-        ],
-        [
-         "35. What is the fastest way to clear an apartment to avoid a landlord lease penalty?"
-        ],
-        [
-         "Start by separating the belongings you want to keep from everything that needs to go. Then arrange building access, elevator reservations, parking, and professional junk removal as early as possible. For urgent deadlines, contact Live Junk Free to ask about the earliest available appointment."
-        ],
-        [
-         "36. Do cleanout services offer shredding or destruction services for sensitive financial documents?"
-        ],
-        [
-         "Sensitive financial records should be handled through secure document-destruction or shredding services. Do not place confidential documents in ordinary junk piles without confirming how they will be handled."
-        ],
-        [
-         "37. What should I pack before the apartment cleanout crew arrives?"
-        ],
-        [
-         "Set aside important documents, valuables, medications, electronics, sentimental belongings, and anything you plan to keep. Clearly label or remove these items before the Live Junk Free crew begins the cleanout."
-        ],
-        [
-         "38. How can I safely dispose of an old couch if I can’t afford a professional service?"
-        ],
-        [
-         "Check your municipality’s bulky-item collection and waste disposal options first. If the couch is still in usable condition, selling or donating it may also be an option. If you need convenient removal, a professional junk removal service can handle the lifting and hauling."
-        ],
-        [
-         "39. Can you write a step-by-step checklist to clean out an apartment in 48 hours?"
-        ],
-        [
-         "Start by creating five categories: ",
-         {
-          "b": [
-           "Keep, Sell, Donate, Recycle, and Remove"
-          ]
-         },
-         ". Pack essential belongings first, arrange disposal for large items, coordinate elevator and parking access, schedule junk removal, and complete a final inspection after everything unwanted has been removed."
-        ],
-        [
-         "40. How do I figure out if an old piece of apartment furniture is worth selling vs. donating?"
-        ],
-        [
-         "Consider the furniture’s condition, age, brand, quality, and current resale demand. If you need to vacate quickly and the item has little resale value, donating it may be more practical than spending time trying to sell it."
-        ]
-       ]
       }
      ]
     }

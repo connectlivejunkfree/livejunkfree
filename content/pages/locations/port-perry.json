@@ -5,7 +5,7 @@
  "type": "location-town",
  "template": "TownHub",
  "seo": {
-  "title": "Junk Removal Port Perry | Same-Day Junk Removal Services",
+  "title": "Junk Removal Port Perry | Junk Removal Services",
   "description": "Need junk removal in Port Perry, ON? We provide fast, affordable, and professional junk hauling, estate cleanouts, cottage cleanouts, and commercial junk removal services.",
   "canonical": "https://livejunkfree.ca/locations/port-perry/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -47,7 +47,7 @@
         "Live Junk Free "
        ]
       },
-      "is Port Perry’s trusted junk removal service. We are local experts who know this area — from the historic downtown Port Perry streets to the rural roads of Scugog Township, from the lakefront properties along Lake Scugog to the rural homes and farms across Blackstock, Caesarea, Prince Albert and beyond. We come to your property, assess everything in person, give you a completely free on-site estimate before we move a single item, and deliver fast, clean results the same day you call."
+      "is Port Perry’s trusted junk removal service. We are local experts who know this area — from the historic downtown Port Perry streets to the rural roads of Scugog Township, from the lakefront properties along Lake Scugog to the rural homes and farms across Blackstock, Caesarea, Prince Albert and beyond. We come to your property, assess everything in person, give you a completely free on-site estimate before we move a single item, and deliver fast, clean results the same day you call, subject to scheduling."
      ]
     },
     {
@@ -146,7 +146,7 @@
      "items": [
       {
        "n": "03",
-       "title": "One flat all-inclusive number — labour, truck, fuel, disposal",
+       "title": "One flat number — labour, truck, fuel, disposal",
        "text": []
       }
      ]
@@ -199,7 +199,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The quote we hand you on-site is the final number. Once you approve it, it is locked. It does not change because the job took longer than expected. It does not gain extra charges. What you agreed to is what you pay — no exceptions, no negotiations after the fact."
+     "text": "The quote we hand you on-site is the final number. It does not change because the job took longer than expected. It does not gain extra charges."
     }
    ]
   },
@@ -208,7 +208,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "No Hidden Fees, No Heavy Lifting, No Stress — That's Our Promise"
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "h",
@@ -218,7 +218,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Port Perry homeowners and businesses deserve junk removal without hidden fees, heavy lifting, or unnecessary stress. At Live Junk Free, our pricing starts at just {{cad_125}} for small loads, with transparent quotes and full-service removal. Get your free Port Perry junk removal estimate today."
+     "text": "At Live Junk Free, our pricing starts at just {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), with transparent quotes and full-service removal. Get your free Port Perry junk removal estimate today."
     },
     {
      "t": "cards",
@@ -269,13 +269,13 @@
       {
        "title": "Book Your Port Perry Junk Removal",
        "text": [
-        "Call +1 647 922 5865 or book online in minutes. Let us know your location and what needs removal, and we'll schedule a same-day or next-day appointment with a convenient arrival notice."
+        "Call +1 647 922 5865 or book online in minutes. Let us know your location and what needs removal, and we'll schedule a same-day or next-day appointment when available with a convenient arrival notice."
        ]
       },
       {
        "title": "Get a Free Upfront Estimate",
        "text": [
-        "Our professional crew arrives on time, assesses everything that needs to be removed, and provides a clear, all-inclusive quote. No hidden fees and no obligation to proceed."
+        "Our professional crew arrives on time, assesses everything that needs to be removed, and provides a clear, quote. and no obligation to proceed."
        ]
       },
       {
@@ -603,7 +603,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -633,7 +633,7 @@
        "q": "Q: How much does junk removal cost in Port Perry, Ontario?",
        "a": [
         [
-         "A: Our Port Perry junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour. There are no hidden fees, no rural surcharges and no travel premiums for properties across Scugog Township. Prices start at $125 for small loads. We provide a free on-site estimate before any work begins — the price you approve is the price you pay, guaranteed."
+         "A: Our Port Perry junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour. Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). We provide a free on-site estimate before any work begins., guaranteed."
         ]
        ]
       },
@@ -641,7 +641,7 @@
        "q": "Q: Do you offer same-day junk removal in Port Perry?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of Port Perry and Scugog Township including Blackstock, Caesarea, Prince Albert, Seagrave and surrounding Durham Region communities. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+         "A: Yes — same-day junk removal is available across all of Port Perry and Scugog Township including Blackstock, Caesarea, Prince Albert, Seagrave and surrounding Durham Region communities. Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },
@@ -657,7 +657,7 @@
        "q": "Q: Do you serve rural properties across Scugog Township?",
        "a": [
         [
-         "A: Yes — we serve every rural property across Scugog Township including Blackstock, Prince Albert, Utica, Seagrave and Nestleton Station — with the same pricing and professionalism as any other job. No rural surcharges, no distance premiums, no refusals based on location."
+         "A: Yes — we serve every rural property across Scugog Township including Blackstock, Prince Albert, Utica, Seagrave and Nestleton Station — with the same pricing and professionalism as any other job."
         ]
        ]
       }

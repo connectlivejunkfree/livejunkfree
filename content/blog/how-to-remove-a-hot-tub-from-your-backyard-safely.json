@@ -166,7 +166,7 @@
     {
      "t": "p",
      "c": [
-      "If you’re not qualified to disconnect the electrical connection, ",
+      "",
       {
        "b": [
         "don’t attempt to do it yourself"
@@ -178,7 +178,7 @@
     {
      "t": "p",
      "c": [
-      "Have a qualified electrician disconnect the hot tub safely before physical removal begins."
+      ""
      ]
     },
     {
@@ -194,7 +194,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "2. Disconnect the Plumbing"
+     "text": "2."
     },
     {
      "t": "p",
@@ -1110,7 +1110,7 @@
       {
        "title": "How do you remove a hot tub from a backyard?",
        "text": [
-        "The process generally involves disconnecting the electrical and plumbing connections, draining the tub, removing the cover, assessing access, and then moving or dismantling the hot tub before loading and hauling it away."
+        ""
        ]
       },
       {
@@ -1128,7 +1128,7 @@
       {
        "title": "Do I need an electrician to disconnect my hot tub?",
        "text": [
-        "If the hot tub is hardwired or connected to a dedicated electrical circuit, electrical disconnection should be handled by a qualified electrician. Do not cut or disconnect electrical wiring if you are not qualified to do so."
+        "If the hot tub is hardwired or connected to a dedicated electrical circuit, electrical disconnection should be handled by a qualified electrician."
        ]
       },
       {
@@ -1208,7 +1208,7 @@
       "The safest process starts with ",
       {
        "b": [
-        "disconnecting the power, draining the water, planning the removal route, and determining whether the tub can be moved whole or needs to be dismantled"
+        ""
        ]
       },
       "."

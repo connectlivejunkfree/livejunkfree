@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Hot Tub Removal Services in Markham from Live Junk Free — done safely and in one visit, draining, disconnecting, cutting apart and hauling away by an insured crew, quoted flat on site with certified electronics recycling included, and the yard left clear the same day, seven days a week."
+     "text": "{{fact:recycling}}"
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "A hot tub is more electronics than most people realize — a control panel, a heater unit, a pump motor — and in a city built on tech, Live Junk Free treats that circuitry the way Markham expects. Through Unionville and Markham Village’s heritage streets, it’s a tub tucked behind a home held for decades, drained and cleared as the backyard gets its own update. In Berczy, Cornell and the newer east-end communities, it’s removal from full, often multigenerational households — a backyard the whole family uses, cleared with the same care as anything else on the property. Near Commerce Valley and the towers around Markham Centre, it’s rooftop and terrace hot tub removal handled by the building’s rules. And across the city more broadly, it’s a tub’s control panel, heater and motor routed to certified electronics recyclers as standard, not an afterthought. The 700+ five-star Google reviews behind Live Junk Free come from every one of those addresses — a hot tub removal crew that drained it properly, cut it down safely without wrecking the deck underneath, and recycled every electronic component the right way."
+      "A hot tub is more electronics than most people realize — a control panel, a heater unit, a pump motor — and in a city built on tech, Live Junk Free treats that circuitry the way Markham expects. Through Unionville and Markham Village’s heritage streets, it’s a tub tucked behind a home held for decades, drained and cleared as the backyard gets its own update. In Berczy, Cornell and the newer east-end communities, it’s removal from full, often multigenerational households — a backyard the whole family uses, cleared with the same care as anything else on the property. Near Commerce Valley and the towers around Markham Centre, it’s rooftop and terrace hot tub removal handled by the building’s rules. The Google reviews behind Live Junk Free come from every one of those addresses — a hot tub removal crew that drained it properly, cut it down safely without wrecking the deck underneath, and recycled every electronic component the right way."
      ]
     },
     {
@@ -117,7 +117,7 @@
        "title": "One flat hot tub removal price — draining, cutting and hauling all included",
        "text": [
         [
-         "A hot tub isn’t a normal junk item, and Live Junk Free’s quote reflects the real work: draining the water, disconnecting whatever needs disconnecting, cutting the shell into manageable sections, and hauling every piece away. All of it sits inside one written price agreed on site — no surprise fee for the water, the weight or the extra hour it takes to do it properly."
+         "A hot tub isn’t a normal junk item, and Live Junk Free’s quote reflects the real work: draining the water, disconnecting whatever needs disconnecting, cutting the shell into manageable sections, and hauling every piece away."
         ]
        ]
       },
@@ -132,10 +132,10 @@
       },
       {
        "n": "03",
-       "title": "Certified recycling for the hot tub's electronics, not just the shell",
+       "title": "Recycling for the hot tub's electronics, not just the shell",
        "text": [
         [
-         "A hot tub’s control panel, heater element and pump motor are electronic components that deserve better than a landfill, and in a tech city, we treat them that way. Every electronic piece routes to a certified recycler as standard, with documentation available if your household or a family member wants the record."
+         "A hot tub’s control panel, heater element and pump motor are electronic components that deserve better than a landfill, and in a tech city, we treat them that way. Every electronic piece routes to a recycler as standard, with documentation available if your household or a family member wants the record."
         ]
        ]
       },
@@ -153,16 +153,16 @@
        "title": "Condo and tower terrace removal, run by the building's book",
        "text": [
         [
-         "Rooftop and terrace hot tub removal near Commerce Valley and Markham Centre gets handled properly: COIs to management at booking, freight elevators reserved ahead, common areas protected throughout, and the crew in and out inside the window the building grants."
+         "{{fact:insuranceDocs}}."
         ]
        ]
       },
       {
        "n": "06",
-       "title": "Independent hot tub removal pricing — 30–50% under the bigger outfits",
+       "title": "Independent hot tub removal pricing",
        "text": [
         [
-         "The national junk removal brands price hot tub removal with a franchise premium built in. Live Junk Free is locally owned with none of that markup — the reason identical hot tub removals in Markham invoice 30–50% lighter with us."
+         "The national junk removal brands price hot tub removal with a franchise premium built in."
         ]
        ]
       }
@@ -189,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "Pricing is set on site once the crew sees the tub’s size, condition and access — small portable spas price lower, full-size six-and-seven-seat tubs price accordingly, and anything with unusually difficult access (rooftop terraces, basement tubs, tight side-yard gates) gets factored in honestly at the walkthrough. The number covers draining, cutting, hauling, certified electronics recycling and responsible disposal as one figure, with nothing added after the fact."
+      "Pricing is set on site once the crew sees the tub’s size, condition and access — small portable spas price lower, full-size six-and-seven-seat tubs price accordingly, and anything with unusually difficult access (rooftop terraces, basement tubs, tight side-yard gates) gets factored in honestly at the walkthrough."
      ]
     },
     {
@@ -211,7 +211,7 @@
     {
      "t": "price",
      "label": "Markham Hot Tub Removal Price",
-     "value": "{{cad_265}}"
+     "value": "Priced at your free onsite estimate"
     },
     {
      "t": "p",
@@ -259,7 +259,7 @@
        "title": "Book Your Hot Tub Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots are usually available, seven days a week, 6AM to 11PM. Tell us the tub’s rough size and location, house or condo terrace."
+         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots are usually available. Tell us the tub’s rough size and location, house or condo terrace."
         ]
        ]
       },
@@ -283,10 +283,10 @@
       },
       {
        "n": "04",
-       "title": "Your Space Is Clear the Same Day",
+       "title": "Your Space Is Clear",
        "text": [
         [
-         "The space where the tub sat gets left clean, with the control panel, heater and motor routed to certified electronics recyclers, metal frame components to metal recyclers, and the rest disposed of responsibly. Most Markham hot tub removals finish within a couple of hours."
+         "{{fact:recycling}}"
         ]
        ]
       }
@@ -369,7 +369,7 @@
        "Rooftop and terrace hot tub removal near Commerce Valley and Markham Centre"
       ],
       [
-       "COIs, freight elevator bookings and building rules handled before arrival"
+       "{{fact:licensedInsured}}"
       ],
       [
        "Estate and downsizing removal carried out floor by floor"
@@ -641,7 +641,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — heritage, waterfront, farmhouse and estate hot tub removals across Port Perry, Scugog and Durham Region."
+      "Google reviews — heritage, waterfront, farmhouse and estate hot tub removals across Port Perry, Scugog and Durham Region."
      ]
     },
     {
@@ -775,7 +775,7 @@
        "q": "How much does hot tub removal cost in Markham?",
        "a": [
         [
-         "Pricing is confirmed on site once the crew sees the tub’s size, condition and how hard it is to get to — a portable spa costs less than a full six-seater with tight gate access. The number covers draining, cutting, hauling, certified electronics recycling and disposal together, with nothing added afterward. "
+         "Pricing is confirmed on site once the crew sees the tub’s size, condition and how hard it is to get to — a portable spa costs less than a full six-seater with tight gate access. "
         ]
        ]
       },
@@ -783,7 +783,7 @@
        "q": "What happens to the hot tub's control panel and electronics?",
        "a": [
         [
-         "They’re recycled properly as standard, not an add-on. The control panel, heater element and pump motor route to certified electronics recyclers, with documentation available if your household needs the record — the same standard we’d want in a city built on technology. "
+         "They’re recycled properly as standard, not an add-on. "
         ]
        ]
       },
@@ -807,7 +807,7 @@
        "q": "Can you remove a hot tub from a condo rooftop or terrace near Commerce Valley?",
        "a": [
         [
-         "Yes, and it’s handled by the building’s book. Certificates of insurance go to management at booking, freight elevators reserve ahead, and the tub is cut down and carried through common areas without a mark left behind. "
+         "Yes, and it’s handled by the building’s book. {{fact:insuranceDocs}}. "
         ]
        ]
       }

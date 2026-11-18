@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Commercial junk removal built for Toronto's tightest spaces — free flat-rate quotes on site, an insured crew that handles laneways, walk-ups and tower docks alike, and same-day junk pickup available seven days a week."
+     "text": "{{fact:nextAvailable}}"
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Junk Removal Reviews on Google"
+     "text": "★★★★★ Junk Removal Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Any hauler can empty a suburban bay with a dock and a parking lot. Toronto is a different exam: storefronts served only by a laneway, restaurants up a century staircase, towers with fifteen pages of dock rules, streets where a truck can’t idle unplanned. The 660+ five-star Google reviews behind Live Junk Free are full of businesses that had already been told “we can’t access that” — and then watched our junk removal crew plan the route, book the elevator, thread the laneway and clear the space at the flat price written on arrival. Access is the product here; the hauling is almost the easy part."
+      "Any hauler can empty a suburban bay with a dock and a parking lot. Toronto is a different exam: storefronts served only by a laneway, restaurants up a century staircase, towers with fifteen pages of dock rules, streets where a truck can’t idle unplanned. The Google reviews behind Live Junk Free are full of businesses that had already been told “we can’t access that” — and then watched our junk removal crew plan the route, book the elevator, thread the laneway and clear the space at the flat price written on arrival. Access is the product here; the hauling is almost the easy part."
      ]
     },
     {
@@ -142,13 +142,13 @@
        "title": "Junk removal fluent in tower rules, condo boards and BIA sensibilities",
        "text": [
         [
-         "COIs filed with property management, elevators and dock windows booked ahead, protection laid through every common area, noise and street presence kept minimal on retail strips. From the financial core to a Danforth storefront, we clear like a contractor the building would vouch for."
+         "{{fact:insuranceDocs}}. From the financial core to a Danforth storefront, we clear like a contractor the building would vouch for."
         ]
        ]
       },
       {
        "n": "05",
-       "title": "Junk pickup timed to Toronto's rhythms — 6AM to 11PM, all seven days",
+       "title": "{{fact:nextAvailable}}",
        "text": [
         [
          "Restaurants clear between last call and prep, strip retailers before the sidewalks fill, offices on weekends when the elevators free up. Our trucks run the city daily, so your junk removal lands in the hour Toronto gives you — early, late or Sunday."
@@ -157,10 +157,10 @@
       },
       {
        "n": "06",
-       "title": "Independent junk removal rates — 30–50% under the franchise trucks",
+       "title": "Independent junk removal rates",
        "text": [
         [
-         "Toronto is the national chains’ most royalty-laden market — every one of their quotes ships a cut to head office. Ours don’t. Locally owned and independent, we land 30–50% lower on identical loads, and the gap only widens on recurring downtown work."
+         "Toronto is the national chains’ most royalty-laden market — every one of their quotes ships a cut to head office. Ours don’t."
         ]
        ]
       }
@@ -187,14 +187,14 @@
     {
      "t": "p",
      "c": [
-      "Small commercial junk pickups start at {{cad_125}}, and every figure above scales from truck volume alone — written at your door before work begins. One retired espresso machine is a sliver of the box; a full office-floor decommission fills trucks and prices in the open. Approval freezes the number against everything this city can offer: stairs, laneways, elevator queues, street congestion and the storage room nobody had opened since the last lease."
+      "Small commercial junk pickups start at {{min_price:C}}, and every figure above scales from truck volume alone — written at your door before work begins. One retired espresso machine is a sliver of the box; a full office-floor decommission fills trucks and prices in the open. Approval freezes the number against everything this city can offer: stairs, laneways, elevator queues, street congestion and the storage room nobody had opened since the last lease."
      ]
     },
     {
      "t": "checks",
      "items": [
       "No Access, Stair or Congestion Charges",
-      "COIs & Written Flat Quotes Standard"
+      "{{fact:licensedInsured}}"
      ]
     },
     {
@@ -208,13 +208,13 @@
     },
     {
      "t": "price",
-     "label": "Toronto Junk Removal From",
-     "value": "{{cad_125}}"
+     "label": "Toronto Junk Removal Pricing",
+     "value": "Junk Load from {{min_price:C}}"
     },
     {
      "t": "p",
      "c": [
-      "Volume-only pricing — dismantling, every carry, hauling and disposal in one number."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -257,7 +257,7 @@
        "title": "Book Your Toronto Junk Pickup",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the window. Trucks cover Toronto daily from 6AM to 11PM, seven days, so same-day junk removal is live most mornings, and the 30-minute inbound call gives you time to prop the laneway door or ring down to the dock."
+         "Two minutes at +1 647 922 5865 — or online — sets the window."
         ]
        ]
       },
@@ -331,13 +331,13 @@
        "Boardroom, reception and amenity-floor furniture removal"
       ],
       [
-       "Legacy IT routed to certified e-waste recyclers"
+       "Legacy IT routed to e-waste recyclers"
       ],
       [
        "Archive rooms, safes and storage floors cleared to lease deadlines"
       ],
       [
-       "COIs, dock bookings and building rules handled before arrival"
+       "{{fact:licensedInsured}}"
       ]
      ]
     },
@@ -675,7 +675,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — towers, restaurants, strip retailers, studios and property managers across Toronto and the GTA."
+      "Google reviews — towers, restaurants, strip retailers, studios and property managers across Toronto and the GTA."
      ]
     },
     {
@@ -701,7 +701,7 @@
        "q": "What does commercial junk removal cost in Toronto?",
        "a": [
         [
-         "Truck volume alone: small pickups from $125, larger loads scaling with the space they fill — and critically, access never bills. The exact figure is written free at your Toronto property before work starts, with stairs, laneways, elevator time and all disposal fees already inside, frozen on approval."
+         "Truck volume alone: small pickups from {{min_price:C}}, larger loads scaling with the space they fill — and critically, access never bills. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
         ]
        ]
       },
@@ -725,7 +725,7 @@
        "q": "Can you satisfy our condo board or building management?",
        "a": [
         [
-         "Routinely. COIs go to management at booking, freight elevators and dock windows get reserved ahead, protection goes down through every common area, and crews follow house rules without reminders. We’re the contractor concierges don’t worry about."
+         "Routinely. {{fact:insuranceDocs}}. We’re the contractor concierges don’t worry about."
         ]
        ]
       },
@@ -741,7 +741,7 @@
        "q": "How fast can a crew reach my Toronto business?",
        "a": [
         [
-         "Same-day is common. Trucks cover the city seven days a week from 6AM to 11PM, and morning calls to +1 647 922 5865 regularly become afternoon junk pickups — quoted as a real window that accounts for downtown traffic, not a fantasy one."
+         "Same-day is common, subject to scheduling."
         ]
        ]
       },
@@ -754,7 +754,7 @@
        ]
       },
       {
-       "q": "Why are your rates 30–50% below the national junk removal brands?",
+       "q": "Why are your rates",
        "a": [
         [
          "No franchise royalty in the quote — and no access surcharges stacked on top, which is where downtown invoices usually bloat. Local and independent, we price the truck space and nothing else, so the identical Toronto job simply costs less."

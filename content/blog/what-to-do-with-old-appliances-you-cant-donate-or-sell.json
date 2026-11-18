@@ -108,9 +108,6 @@
        "Motors"
       ],
       [
-       "Refrigerants"
-      ],
-      [
        "Glass"
       ],
       [
@@ -127,7 +124,7 @@
     {
      "t": "p",
      "c": [
-      "Refrigerators and freezers, for example, may contain refrigerants that require appropriate handling."
+      ""
      ]
     },
     {
@@ -307,7 +304,7 @@
     {
      "t": "p",
      "c": [
-      "Live Junk Free says it works with certified recycling facilities and aims to recover recyclable appliance materials rather than sending everything to landfill."
+      "Live Junk Free says it works with recycling facilities and aims to recover recyclable appliance materials rather than sending everything to landfill."
      ]
     }
    ]
@@ -486,7 +483,7 @@
     {
      "t": "p",
      "c": [
-      "Refrigerators and freezers require extra attention because they can contain refrigerants and other components that shouldn’t simply be released or handled improperly."
+      ""
      ]
     },
     {
@@ -504,7 +501,7 @@
     {
      "t": "p",
      "c": [
-      "Live Junk Free states that its appliance disposal process includes appropriate handling of refrigerants and other regulated substances."
+      ""
      ]
     }
    ]
@@ -838,7 +835,7 @@
     {
      "t": "p",
      "c": [
-      "Live Junk Free offers multi-unit discounts for multiple appliances and full kitchen clearouts."
+      "{{fact:competitorComparison}}"
      ]
     }
    ]
@@ -870,9 +867,6 @@
       ],
       [
        "How are refrigerators handled?"
-      ],
-      [
-       "Are refrigerants handled properly?"
       ],
       [
        "Do you accept built-in appliances?"
@@ -997,7 +991,7 @@
     {
      "t": "p",
      "c": [
-      "Don’t attempt complicated electrical, gas, or refrigerant work yourself."
+      ""
      ]
     }
    ]
@@ -1030,7 +1024,7 @@
     {
      "t": "p",
      "c": [
-      "Live Junk Free states that it recycles appliance materials through certified facilities and prioritizes material recovery wherever possible."
+      "Live Junk Free states that it recycles appliance materials through recycling facilities and prioritizes material recovery wherever possible."
      ]
     }
    ]
@@ -1205,7 +1199,7 @@
       "Live Junk Free currently lists appliance removal starting at ",
       {
        "b": [
-        "{{cad_125}} per appliance"
+        "Priced at your free onsite estimate"
        ]
       },
       ", with final pricing depending on the specific job and removal requirements."

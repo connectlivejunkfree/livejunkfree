@@ -6,7 +6,7 @@
  "template": "AdsLanding",
  "seo": {
   "title": "Hot Tub Removal Near You | GTA | Live Junk Free",
-  "description": "Need hot tub removal in the GTA? Live Junk Free removes any hot tub or spa same day. Upfront pricing starting from $99. Fully insured. Get a free quote!",
+  "description": "Need hot tub removal in the GTA? Live Junk Free removes any hot tub or spa same day, subject to scheduling. Fully insured. Get a free quote!",
   "canonical": "https://livejunkfree.ca/hot-tub-removal-service/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/Hot-Tub-Removal-Service.jpg"
@@ -26,7 +26,7 @@
     {
      "t": "p",
      "c": [
-      "Old, broken, or just unwanted. We disconnect, demolish, and haul it away. Starting from {{cad_249}}. Same-day available"
+      "Old, broken, or just unwanted. We disconnect, demolish, and haul it away. Same-day available"
      ]
     },
     {
@@ -50,7 +50,7 @@
     {
      "t": "p",
      "c": [
-      "Starting from {{cad_249}}. Price confirmed before we touch anything. No hidden fees."
+      "Price confirmed before we touch anything."
      ]
     }
    ]
@@ -60,12 +60,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Service"
+     "text": "Same-Day Service when available"
     },
     {
      "t": "p",
      "c": [
-      "Book before noon and we are there the same day across the GTA."
+      "Across the GTA."
      ]
     }
    ]
@@ -221,7 +221,7 @@
      "t": "ul",
      "items": [
       [
-       "Upfront pricing from {{cad_249}} — locked in before we start, no hidden charges"
+       "Priced at your free onsite estimate"
       ],
       [
        "Same-day service available across Toronto, Mississauga, Brampton, Vaughan, Markham and more"
@@ -358,7 +358,7 @@
      "t": "cards",
      "items": [
       {
-       "title": "Book in 60 Seconds",
+       "title": "Book",
        "text": [
         "Call 647-922-5865 or fill out the form. Tell us the hot tub size and your address. Same-day slots available when you book before noon."
        ]
@@ -384,7 +384,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Real Stories from Satisfied Custom"
+     "text": "Real Stories from Satisfied Customers"
     },
     {
      "t": "reviews"
@@ -405,15 +405,7 @@
        "q": "How much does hot tub removal cost?",
        "a": [
         [
-         "Hot tub removal starts from $99. The final price depends on the size of the unit, the access route, and whether demolition is needed. All prices are confirmed upfront before any work begins."
-        ]
-       ]
-      },
-      {
-       "q": "Do you disconnect the hot tub before removing it?",
-       "a": [
-        [
-         "Yes. Our crew handles the full process including disconnecting power and plumbing connections before any removal work begins."
+         "The final price depends on the size of the unit, the access route, and whether demolition is needed. All prices are confirmed upfront before any work begins."
         ]
        ]
       },

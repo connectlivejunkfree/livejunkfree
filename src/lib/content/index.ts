@@ -17,9 +17,11 @@ import pricingJson from "@content/pricing.json";
 import reviewsJson from "@content/reviews.json";
 import siteJson from "@content/site.json";
 import imageSizes from "@content/images.json";
+import { fact, resolveFacts } from "./facts";
 import { PageDocSchema, type ManifestRow, type PageDoc } from "./schema";
 
 export * from "./schema";
+export { fact, facts, hasFact, resolveFacts, reviewLine, specialist } from "./facts";
 
 /** Which phase is being built. Pages from later phases fall back to the old site (see src/proxy.ts). */
 export const BUILD_PHASE = Number(process.env.BUILD_PHASE ?? "1");
@@ -82,10 +84,16 @@ export function largestVariant(src: string): string {
   return variants.get(variantBase(src)) ?? src;
 }
 
-/** Resolve {{price_key}} tokens: {{cad_125}} → $125, {{cad_125:C}} → C$125, {{cad_125:suffix}} → 125$. */
+/**
+ * Resolve content tokens:
+ *   {{fact:key}} / {{fact:key.field}}  business claims (content/business-facts.json, see ./facts.ts)
+ *   {{cad_125}} → $125, {{cad_125:C}} → C$125, {{cad_125:suffix}} → 125$  (content/pricing.json)
+ */
 export function resolvePrices(text: string): string {
-  return text.replace(/\{\{(\w+)(?::(\w+))?\}\}/g, (_m, key: string, fmt?: string) => {
-    const v = pricing.prices[key]?.value ?? "";
+  return resolveFacts(text).replace(/\{\{(\w+)(?::(\w+))?\}\}/g, (_m, key: string, fmt?: string) => {
+    // {{min_price}}: the general minimum, from business-facts.json (one place to change it).
+    const min = fact("minimumPrice", "value");
+    const v = key === "min_price" ? (min ? `$${min}` : "") : (pricing.prices[key]?.value ?? "");
     const num = v.replace(/^\$/, "");
     if (fmt === "C") return `C$${num}`;
     if (fmt === "suffix") return `${num}$`;

@@ -6,7 +6,7 @@
  "template": "ItemRemoval",
  "seo": {
   "title": "Desk Removal Services - Live JunkFree",
-  "description": "Need desk removal in Toronto & GTA? Live Junk Free removes office & home desks fast — same day, fully insured, no hidden fees. Call +1 647 922 5865!",
+  "description": "Need desk removal in Toronto & GTA? Live Junk Free removes office & home desks fast — same day, fully insured, subject to scheduling. Call +1 647 922 5865!",
   "canonical": "https://livejunkfree.ca/services/residential-junk-removal-services/desk-removal-services/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/desk-removal-services.jpeg"
@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -58,18 +58,18 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same Day Desk Removal Services"
+     "text": "Desk Removal Services"
     },
     {
      "t": "p",
      "c": [
-      "Removing old desks from your home or office doesn’t need to be difficult. At Live Junk Free, we take care of everything for you. Just give us a call or send us a picture of the desk you want removed, and we’ll give you a fair price right away with no hidden charges. You can choose any time that works best for you – we even offer same-day service if you need quick removal."
+      "Removing old desks from your home or office doesn’t need to be difficult. At Live Junk Free, we take care of everything for you. You can choose any time that works best for you – we even offer same-day service if you need quick removal."
      ]
     },
     {
      "t": "p",
      "c": [
-      "When our team arrives, they will carefully take apart and remove your desk without damaging your space. We use special tools and protective coverings to keep your floors and walls safe. The best part is we don’t just throw desks in the trash. We work hard to recycle the materials or donate good-quality desks to schools and charities so they can be used again."
+      "When our team arrives, they will carefully take apart and remove your desk without damaging your space. {{fact:propertyProtection}}. The best part is we don’t just throw desks in the trash. We work hard to recycle the materials or donate good-quality desks to schools and charities so they can be used again."
      ]
     },
     {
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "Getting rid of old office furniture shouldn’t be a stressful hassle. Our professional desk removal service starts at just {{cad_125}}, and we take care of everything for you. We’ll carefully remove your desk from any office or workspace, disassemble it if needed, and haul everything away – no heavy lifting or mess left for you to handle."
+      "Getting rid of old office furniture shouldn’t be a stressful hassle. Our professional desk removal service starts at just {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), and we take care of everything for you. We’ll carefully remove your desk from any office or workspace, disassemble it if needed, and haul everything away – no heavy lifting or mess left for you to handle."
      ]
     },
     {
@@ -136,7 +136,7 @@
        "b": [
         {
          "i": [
-          "Calls answered in 60 seconds!"
+          "Calls answered!"
          ]
         }
        ]
@@ -150,12 +150,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Thinking of Same Day Desk Removal Service?"
+     "text": "Thinking of Desk Removal Service?"
     },
     {
      "t": "p",
      "c": [
-      "Getting rid of an old desk can be tough, and maybe it’s heavy, broken, or just stuck in place. Don’t worry! We make desk removal super easy and stress-free. Whether you’re cleaning out a home office or updating your workspace, we’ll take care of it fast. Need more gone? We also offer same-day removal services."
+      "Getting rid of an old desk can be tough, and maybe it’s heavy, broken, or just stuck in place. Don’t worry! We make desk removal super easy and stress-free. Whether you’re cleaning out a home office or updating your workspace, we’ll take care of it fast. Need more gone? We also offer same-day removal when available services."
      ]
     },
     {
@@ -168,7 +168,7 @@
         "Live Junk Free"
        ]
       },
-      ", we specialize in effortless office furniture removal when timing matters most. Whether you’re renovating your workspace, relocating your business, or simply upgrading your office setup, our same-day and next-day services ensure you won’t be stuck with unwanted furniture longer than necessary."
+      ", we specialize in effortless office furniture removal when timing matters most. Whether you’re renovating your workspace, relocating your business, or simply upgrading your office setup, our same-day and next-day services ensure you won’t be stuck with unwanted furniture longer than necessary, subject to scheduling."
      ]
     },
     {
@@ -190,7 +190,7 @@
        "Eco-friendly disposal with recycling or donation prioritization"
       ],
       [
-       "Spotless cleanup after removal"
+       "Tidy cleanup after removal"
       ]
      ]
     },
@@ -201,7 +201,7 @@
        "b": [
         {
          "i": [
-          "In a rush? We offer same-day desk removal! "
+          "In a rush? We offer same-day desk removal, subject to scheduling! "
          ]
         }
        ]
@@ -223,7 +223,7 @@
       {
        "title": "Convenient Scheduling That Works For You",
        "text": [
-        "We offer same-day, next-day, and weekend appointments with no rush fees. Whether you need urgent removal after business hours or scheduled service during a renovation"
+        "We offer same-day, next-day, and weekend appointments with no rush fees, subject to scheduling. Whether you need urgent removal after business hours or scheduled service during a renovation"
        ]
       },
       {
@@ -241,7 +241,7 @@
       {
        "title": "Transparent Pricing Guarantee",
        "text": [
-        "Your upfront quote includes all labor, disposal fees, and taxes. No hidden charges, no last-minute surprises – just honest pricing from start to finish."
+        "{{fact:taxNote}}. {{fact:pricingIntro.extra}}"
        ]
       },
       {
@@ -253,7 +253,7 @@
       {
        "title": "Property Protection Guarantee",
        "text": [
-        "Every removal includes floor protection pads, corner guards, and special lifting equipment to prevent scratches or dents to your walls and flooring."
+        "{{fact:propertyProtection}}."
        ]
       }
      ]
@@ -316,7 +316,7 @@
      "c": [
       {
        "b": [
-        "Get Instant Pricing – No Surprises, Just Fast & Fair Quotes! "
+        "{{fact:freeOnsiteEstimates}} "
        ]
       }
      ]
@@ -331,10 +331,10 @@
      "t": "ul",
      "items": [
       [
-       "Straightforward quotes with no hidden fees"
+       "{{fact:competitorComparison}}"
       ],
       [
-       "Free instant estimates via phone/text"
+       "{{fact:freeOnsiteEstimates}}"
       ],
       [
        "Bulk removal discounts for offices"
@@ -388,19 +388,19 @@
       {
        "title": "Get Your Price",
        "text": [
-        "Get pricing with no hidden charges"
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Pick a Time",
        "text": [
-        "Same-day or next-day slots."
+        "Or next-day slots."
        ]
       },
       {
        "title": "We remove It Away",
        "text": [
-        "Done in under 30 minutes!"
+        "Timing confirmed at your estimate"
        ]
       }
      ]

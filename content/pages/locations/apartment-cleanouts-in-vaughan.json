@@ -5,14 +5,14 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-day Apartment Cleanout Services in Vaughan | Live Junk Free",
-  "description": "Vaughan apartment cleanout with same-day service. Live Junk Free handles furniture and appliance disposal, clutter, and tenant junk. Call today!",
+  "title": "Apartment Cleanout Services in Vaughan | Live Junk Free",
+  "description": "Vaughan apartment cleanout with same-day service when available. Live Junk Free handles furniture and appliance disposal, clutter, and tenant junk. Call today!",
   "canonical": "https://livejunkfree.ca/locations/apartment-cleanouts-in-vaughan/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "apartment-cleanouts-in-vaughan",
- "h1": "Apartment Cleanout Services in Vaughan, Ontario — New Towers, Tight Units, Zero Damage",
+ "title": "Apartment Cleanouts in Vaughan",
+ "h1": "Apartment Cleanout Services in Vaughan, Ontario — New Towers, Tight Units",
  "published": "2026-07-14T03:11:16",
  "modified": "2026-07-14T03:11:16",
  "sections": [
@@ -27,7 +27,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Apartment Cleanout Services in Vaughan, Ontario — New Towers, Tight Units, Zero Damage"
+     "text": "Apartment Cleanout Services in Vaughan, Ontario — New Towers, Tight Units"
     },
     {
      "t": "p",
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The spread is wide in this city: gleaming new high-rises around the Vaughan Metropolitan Centre and Promenade, long-established basement apartments tucked into Woodbridge and Maple family homes, and everything between in Concord and Thornhill. Live Junk Free clears units across all of it — 660+ five-star Google reviews built on showing up when promised, quoting flat, and treating brand-new buildings like the showpieces they are."
+     "text": "The spread is wide in this city: gleaming new high-rises around the Vaughan Metropolitan Centre and Promenade, long-established basement apartments tucked into Woodbridge and Maple family homes, and everything between in Concord and Thornhill. Live Junk Free clears units across all of it — Google reviews built on showing up when promised, quoting flat, and treating brand-new buildings like the showpieces they are."
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Labour, elevator and corridor protection, dismantling, hauling, disposal fees, fuel — the whole operation lives in one figure. If the sofa has to come apart to exit a compact unit or the loading dock runs behind schedule, your price doesn't feel it."
+     "text": "{{fact:propertyProtection}}. If the sofa has to come apart to exit a compact unit or the loading dock runs behind schedule, your price doesn't feel it."
     },
     {
      "t": "steps",
@@ -154,7 +154,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Vaughan's towers are young, and their boards intend to keep them looking that way. We pad elevator cabs, protect corridor walls, respect dock time limits, and provide certificates of insurance to property management before the job when required. Your building's rulebook is our checklist."
+     "text": "Vaughan's towers are young, and their boards intend to keep them looking that way. {{fact:insuranceDocs}}. Your building's rulebook is our checklist."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Franchise-free pricing, 30–50% lighter",
+       "title": "Franchise-free pricing",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national junk brands carry royalty fees inside every quote. We're independent and local, so that layer simply doesn't exist — and Vaughan cleanouts land 30–50% cheaper for the identical empty unit."
+     "text": "The national junk brands carry royalty fees inside every quote."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small loads start at {{cad_125}}, a typical one-bedroom sits mid-range, and even a densely packed unit gets one fixed, all-inclusive number during the free in-unit walkthrough. High floors don't cost more. Slow elevators don't cost more. Compact-unit gymnastics don't cost more. The quote is the invoice — every time."
+     "text": "High floors don't cost more. Slow elevators don't cost more. Compact-unit gymnastics don't cost more. The quote is the invoice — every time."
     },
     {
      "t": "cards",
@@ -254,7 +254,7 @@
       {
        "title": "1. Book With the Building in Mind",
        "text": [
-        "Call +1 647 922 5865 or book online, and mention what your building needs — elevator reservation, COI for management, dock instructions. Crews run seven days a week, 6AM–11PM across Vaughan, with same-day openings and a 30-minute arrival text."
+        "{{fact:insuranceDocs}}."
        ]
       },
       {
@@ -468,7 +468,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -498,12 +498,12 @@
        "q": "Q: What does a condo or apartment cleanout cost in Vaughan?",
        "a": [
         [
-         "A: One variable: truck volume. Small loads start at $125, one-bedrooms land mid-range, and fuller units scale from there — always as a single flat figure quoted free inside the unit. Floor height, elevator speed and building logistics are our concern, never your surcharge."
+         "A: One variable: truck volume. Floor height, elevator speed and building logistics are our concern, never your surcharge."
         ]
        ]
       },
       {
-       "q": "Q: My building requires a certificate of insurance before any crew works on site. Can you provide one?",
+       "q": "Is Live Junk Free insured?",
        "a": [
         [
          "A: Yes — we’re fully insured and routinely send documentation to Vaughan property management offices ahead of the job. Mention it at booking and it’ll be in their inbox before we’re in the elevator."
@@ -522,7 +522,7 @@
        "q": "Q: The unit is tiny and the furniture barely fit going in. How does it come out?",
        "a": [
         [
-         "A: The same way it went in — in pieces, if necessary. Sofas, wardrobes and bed frames get dismantled at no extra charge when compact doorways and hallways demand it. Small units are a puzzle we solve constantly in VMC-area buildings."
+         "A: The same way it went in — in pieces, if necessary. {{fact:pricingIntro.extra}} Small units are a puzzle we solve constantly in VMC-area buildings."
         ]
        ]
       },

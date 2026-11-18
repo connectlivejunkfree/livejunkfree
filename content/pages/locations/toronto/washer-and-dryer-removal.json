@@ -5,12 +5,12 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Washer and Dryer Removal Toronto | Same-Day | Live Junk Free",
+  "title": "Washer and Dryer Removal Toronto | Free Onsite Estimates | Live Junk Free",
   "description": "Need washer and dryer removal in Toronto? Live Junk Free picks them up fast — any condition, upfront pricing, eco-friendly disposal. Get a free quote today!",
   "canonical": "https://livejunkfree.ca/locations/toronto/washer-and-dryer-removal/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
  },
- "title": "washer-and-dryer-removal",
+ "title": "Washer and Dryer Removal",
  "h1": "Washer and Dryer removal in Toronto — we disconnect, lift & haul it all away",
  "published": "2026-07-12T06:47:43",
  "modified": "2026-07-12T06:47:43",
@@ -46,7 +46,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -106,7 +106,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
-      "alt": "DSC08963",
+      "alt": "Washer and Dryer Removal: Live Junk Free job photo",
       "width": 800,
       "height": 534
      }
@@ -128,7 +128,7 @@
         "We handle disconnection — not just the lifting."
        ]
       },
-      " Most removal services expect you to disconnect the water lines, drain hoses, and electrical supply before they arrive. We don’t. Our crew handles safe disconnection as part of the service, which means you’re not scrambling under a machine with a wrench the morning of your appointment."
+      " We don’t. Our crew handles safe disconnection as part of the service, which means you’re not scrambling under a machine with a wrench the morning of your appointment."
      ]
     },
     {
@@ -139,7 +139,7 @@
         "No surprises on the invoice."
        ]
       },
-      " With 598+ verified Google reviews, our pricing reputation is something real customers have tested and confirmed. We assess your setup on-site, give you a clear number, and that number doesn’t change once the truck is loaded. No hidden fees, no last-minute surcharges."
+      " With 598+ verified Google reviews, our pricing reputation is something real customers have tested and confirmed."
      ]
     },
     {
@@ -150,7 +150,7 @@
         "Same-day and next-day availability across Toronto."
        ]
       },
-      " Appliance timelines often come with urgency — a new unit arriving tomorrow, a landlord cleanout that needs to happen this week. We accommodate same-day and next-day requests regularly across Scarborough, Etobicoke, North York, and the rest of the city."
+      " Appliance timelines often come with urgency — a new unit arriving tomorrow, a landlord cleanout that needs to happen this week. We accommodate same-day and next-day requests regularly across Scarborough, Etobicoke, North York, and the rest of the city, subject to scheduling."
      ]
     },
     {
@@ -161,7 +161,7 @@
         "Responsible disposal every time."
        ]
       },
-      " Washing machines and dryers contain metals, motors, and electronic components that have real recycling value. We work with certified facilities to process them properly. If an appliance is still working, we explore local donation channels before it goes anywhere near a disposal facility."
+      " Washing machines and dryers contain metals, motors, and electronic components that have real recycling value. We work with facilities to process them properly. If an appliance is still working, we explore local donation channels before it goes anywhere near a disposal facility."
      ]
     },
     {
@@ -236,7 +236,7 @@
     {
      "t": "p",
      "c": [
-      "What never changes: the quote we give you on-site is the price you pay. There’s no staircase fee added after the fact, no extra charge for disconnection, and no fuel surcharge appearing on your invoice."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -264,9 +264,9 @@
        ]
       },
       {
-       "title": "All-Inclusive Pricing",
+       "title": "Pricing",
        "text": [
-        "Your upfront quote covers everything: labor, hauling, and disposal with no surprise fees"
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -276,7 +276,7 @@
        ]
       },
       {
-       "title": "Damage-Free Guarantee",
+       "title": "Careful Removal",
        "text": [
         "We protect your home during removal with padding and careful handling"
        ]
@@ -320,10 +320,10 @@
      "c": [
       {
        "b": [
-        "One price covers everything"
+        "{{fact:competitorComparison}}"
        ]
       },
-      " Disconnection, labour, hauling, and responsible disposal are all included in your upfront quote. No separate charges added at the end of the job."
+      " No separate charges added at the end of the job."
      ]
     },
     {
@@ -334,7 +334,7 @@
         "Appliances recycled, not just dumped"
        ]
       },
-      " We route washing machines and dryers to certified recycling facilities that recover metals, motors, and usable components. Working units go to local donation partners before they’re processed as waste."
+      " We route washing machines and dryers to recycling facilities that recover metals, motors, and usable components. Working units go to local donation partners before they’re processed as waste."
      ]
     },
     {
@@ -345,7 +345,7 @@
         "Your property stays protected"
        ]
       },
-      " Heavy appliances through laundry room doorways are how walls get scuffed and floors get scratched. Our crew uses proper moving equipment and protective coverings throughout every removal."
+      " Heavy appliances through laundry room doorways are how walls get scuffed and floors get scratched. {{fact:propertyProtection}}."
      ]
     },
     {
@@ -538,7 +538,7 @@
       {
        "title": "Book Your Appointment",
        "text": [
-        "Call us or use our quick online form. Tell us what needs to go and where you're in Toronto — we'll give you an upfront price right away. No commitment needed."
+        "Call us or use our quick online form. Tell us what needs to go and where you're in Toronto — we'll review your items and pickup details. No commitment needed."
        ]
       },
       {
@@ -556,7 +556,7 @@
       {
        "title": "Responsible Disposal, Every Time",
        "text": [
-        "Usable pieces get donated to local Toronto charities. Everything else goes to certified recycling facilities. We keep as much out of landfill as possible."
+        "Usable pieces get donated to local Toronto charities. Everything else goes to recycling facilities. We keep as much out of landfill as possible."
        ]
       }
      ]
@@ -577,35 +577,35 @@
      "images": [
       {
        "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
-       "alt": "20250405_140825"
+       "alt": "Washer and Dryer Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
-       "alt": "20250405_142357"
+       "alt": "Washer and Dryer Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142736-1024x577.webp",
-       "alt": "20250405_142736"
+       "alt": "Washer and Dryer Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_144606-1024x577.webp",
-       "alt": "20250405_144606"
+       "alt": "Washer and Dryer Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250611_115029-1024x577.webp",
-       "alt": "20250611_115029"
+       "alt": "Washer and Dryer Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250611_201732-1024x577.webp",
-       "alt": "20250611_201732"
+       "alt": "Washer and Dryer Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250530_110858-1024x577.webp",
-       "alt": "20250530_110858"
+       "alt": "Washer and Dryer Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250526_193102-1024x577.webp",
-       "alt": "20250526_193102"
+       "alt": "Washer and Dryer Removal: Live Junk Free job photo"
       }
      ]
     }
@@ -625,7 +625,7 @@
        "q": "Q: Do you disconnect the washer and dryer before removing them?",
        "a": [
         [
-         "A: Yes — disconnection is included in our service. We handle water supply lines, drain hoses, and electrical connections. For gas dryers, we disconnect the gas line safely before the unit is moved. You don’t need to touch anything before we arrive."
+         "A: Yes — disconnection is included in our service. We handle water supply lines, drain hoses, and electrical connections. You don’t need to touch anything before we arrive."
         ]
        ]
       },
@@ -633,7 +633,7 @@
        "q": "Q: How much does washer and dryer removal cost in Toronto?",
        "a": [
         [
-         "A: Pricing depends on the number of units, appliance type, and access complexity. A single washing machine or dryer is a smaller load; a full set with pedestals in a condo suite on an upper floor involves more logistics. We give you a firm, all-inclusive quote on-site before anything moves. No surprise fees at the end."
+         "A: Pricing depends on the number of units, appliance type, and access complexity. A single washing machine or dryer is a smaller load; a full set with pedestals in a condo suite on an upper floor involves more logistics. We give you a firm, quote on-site before anything moves. at the end."
         ]
        ]
       },
@@ -657,7 +657,7 @@
        "q": "Q: What happens to old washers and dryers after pickup — are they recycled?",
        "a": [
         [
-         "A: Yes. Washing machines and dryers contain recoverable materials including steel, copper, and motor components, and we route them to certified recycling facilities in the Toronto area. If an appliance is still in working condition, we explore local donation options before it goes to processing."
+         "A: Yes. Washing machines and dryers contain recoverable materials including steel, copper, and motor components, and we route them to recycling facilities in the Toronto area. If an appliance is still in working condition, we explore local donation options before it goes to processing."
         ]
        ]
       }

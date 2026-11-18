@@ -5,7 +5,7 @@
  "type": "location-town",
  "template": "TownHub",
  "seo": {
-  "title": "Junk Removal Richmond Hill | Same-Day Junk Removal Services",
+  "title": "Junk Removal Richmond Hill | Junk Removal Services",
   "description": "Need junk removal in Richmond Hill, ON? We provide fast, affordable, and professional junk hauling, condo cleanouts, renovation debris removal, and commercial cleanup services.",
   "canonical": "https://livejunkfree.ca/locations/richmond-hill/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
@@ -46,7 +46,7 @@
         "Live Junk Free"
        ]
       },
-      " serve all of Richmond Hill — from Oak Ridges and Jefferson to Langstaff, Crosby, Harding, Mill Pond, Bayview Hill and every neighbourhood across the city. Our same-day junk removal service in Richmond Hill, Ontario runs 7 days a week, 6AM to 11PM. One call is all it takes to start clearing space without the stress."
+      " serve all of Richmond Hill — from Oak Ridges and Jefferson to Langstaff, Crosby, Harding, Mill Pond, Bayview Hill and every neighbourhood across the city. One call is all it takes to start clearing space without the stress."
      ]
     },
     {
@@ -145,7 +145,7 @@
      "items": [
       {
        "n": "03",
-       "title": "Fair — one flat number that covers everything",
+       "title": "{{fact:competitorComparison}}",
        "text": []
       }
      ]
@@ -198,7 +198,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "No franchise royalties means Richmond Hill customers consistently receive 30–50% lower pricing than national junk removal chains — for the same or better quality of service."
+     "text": "{{fact:competitorComparison}}"
     }
    ]
   },
@@ -217,7 +217,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Our pricing model at Live Junk Free is built to be exactly what it says: simple, fair and completely upfront. Prices start as low as {{cad_125}} for small loads. Book your free Richmond Hill junk removal estimate today — simple, fair and upfront from the first call."
+     "text": "Our pricing model at Live Junk Free is built to be exactly what it says: simple, fair and completely upfront. Prices start as low as {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). Book your free Richmond Hill junk removal estimate today — simple, fair and upfront from the first call."
     },
     {
      "t": "cards",
@@ -260,7 +260,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Richmond Hill residents are busy — managing homes, families, businesses and schedules that don't have room for complicated processes. Our same-day junk removal process in Richmond Hill, Ontario is built around that reality. One call to book. One visit to quote. One crew to handle everything. One less thing to worry about — here's exactly how it works:"
+     "text": "Richmond Hill residents are busy — managing homes, families, businesses and schedules that don't have room for complicated processes. Our same-day junk removal when available process in Richmond Hill, Ontario is built around that reality. One call to book. One visit to quote. One crew to handle everything. One less thing to worry about — here's exactly how it works:"
     },
     {
      "t": "cards",
@@ -268,13 +268,13 @@
       {
        "title": "Book Your Pickup in Minutes",
        "text": [
-        "Call +1 647 922 5865 or book online in under 2 minutes. Choose a convenient same-day or next-day appointment, and we'll confirm everything right away."
+        "Call +1 647 922 5865 or book. Choose a convenient same-day or next-day appointment when available, and we'll confirm everything right away."
        ]
       },
       {
        "title": "Get a Clear, Upfront Quote",
        "text": [
-        "Our crew arrives on time, reviews everything that needs removal, and provides one all-inclusive quote. No hidden fees, no surprises, and no obligation to proceed."
+        "Our crew arrives on time, reviews everything that needs removal, and provides one quote., no surprises, and no obligation to proceed."
        ]
       },
       {
@@ -303,7 +303,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Richmond Hill is one of York Region's most dynamic and densely populated cities — a place where detached homes in Oak Ridges sit alongside condo towers on Yonge Street, where thriving commercial plazas line Highway 7, and where business parks in Langstaff and Jefferson host hundreds of offices and commercial operations. Live Junk Free serves every single property type across Richmond Hill with the same professional standard, transparent pricing and same-day speed — residential, condo, office and commercial, every time."
+     "text": "Richmond Hill is one of York Region's most dynamic and densely populated cities — a place where detached homes in Oak Ridges sit alongside condo towers on Yonge Street, where thriving commercial plazas line Highway 7, and where business parks in Langstaff and Jefferson host hundreds of offices and commercial operations. Live Junk Free serves every single property type across Richmond Hill with the same professional standard, transparent pricing and same-day speed — residential, condo, office and commercial, every time, subject to scheduling."
     },
     {
      "t": "faq",
@@ -543,7 +543,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -573,7 +573,7 @@
        "q": "Q: How much does junk removal cost in Richmond Hill, Ontario?",
        "a": [
         [
-         "A: Our Richmond Hill junk removal pricing is volume-based — simple, fair and completely upfront. You pay based on how much space your items fill in our truck — not by the hour, not by your neighbourhood, not by property type. Prices start at $125 for small loads. We provide a free on-site estimate before any work begins and the price you approve is the final price — no additions, no surprises."
+         "A: Our Richmond Hill junk removal pricing is volume-based — simple, fair and completely upfront. You pay based on how much space your items fill in our truck — not by the hour, not by your neighbourhood, not by property type. Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). We provide a free on-site estimate before any work begins and the price you approve is the final price — no additions, no surprises."
         ]
        ]
       },
@@ -581,7 +581,7 @@
        "q": "Q: Do you offer same-day junk removal in Richmond Hill?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of Richmond Hill including Oak Ridges, Jefferson, Bayview Hill, Mill Pond, Langstaff, Crosby and surrounding York Region communities. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+         "A: Yes — same-day junk removal is available across all of Richmond Hill including Oak Ridges, Jefferson, Bayview Hill, Mill Pond, Langstaff, Crosby and surrounding York Region communities. Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },
@@ -589,7 +589,7 @@
        "q": "Q: Do you handle condo and high-rise junk removal in Richmond Hill?",
        "a": [
         [
-         "A: Absolutely — condo and high-rise junk removal is one of our most requested services in Richmond Hill. We handle elevator booking, building management coordination and loading dock access as part of our standard service — no extra charges for building coordination, no complexity passed onto you."
+         "A: Absolutely — condo and high-rise junk removal is one of our most requested services in Richmond Hill."
         ]
        ]
       },
@@ -613,7 +613,7 @@
        "q": "Q: Are you a local Richmond Hill company or a franchise?",
        "a": [
         [
-         "A: We are 100% locally owned and operated — not a franchise. No franchise royalties means our Richmond Hill pricing is consistently 30–50% lower than national junk removal chains for the exact same quality of service."
+         "A: We are 100% locally owned and operated — not a franchise."
         ]
        ]
       },

@@ -10,6 +10,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import { navigation, site } from "@/lib/content/client";
+import { fact } from "@/lib/content/facts";
 import { Icon, type IconName } from "../icons";
 import { Logo } from "./Logo";
 import { MobileDrawer } from "./MobileDrawer";
@@ -171,8 +172,8 @@ export function Header() {
                     <span className="eb">Free estimate</span>
                     <p className="h4">Not sure which service you need?</p>
                     <p>
-                      Send a photo or tell us what&apos;s going — we&apos;ll
-                      quote it upfront, often same day.
+                      Send a photo or tell us what&apos;s going. We&apos;ll
+                      review your items and pickup details.
                     </p>
                     <Link
                       className="btn btn-primary btn-sm"
@@ -185,9 +186,9 @@ export function Header() {
                       {site.phone.display}
                     </a>
                     <ul className="chk">
-                      <li>✓ Upfront, all-in pricing</li>
-                      <li>✓ Same-day pickup available</li>
-                      <li>✓ Fully insured crew</li>
+                      <li>✓ Transparent, upfront pricing</li>
+                      <li>✓ {fact("sameDay", "short")}</li>
+                      <li>✓ Licensed and insured</li>
                     </ul>
                   </div>
                 </div>

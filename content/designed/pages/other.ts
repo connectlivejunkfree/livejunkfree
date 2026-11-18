@@ -1,3 +1,4 @@
+import { fact } from "@/lib/content/facts";
 /**
  * Copy for the hub, pricing, contact, locations index, landing, about and blog pages.
  * Claims come from livejunkfree.ca (checked 7 Nov 2026).
@@ -17,7 +18,7 @@ export const SERVICES_HUB = {
     description: "Every Live Junk Free service on one page: residential, commercial, cleanouts and demolition across Toronto and the GTA.",
   },
   h1: "Every service, one page",
-  lead: "Start with who you are, or search for the exact item. Every service includes loading, hauling, sweep-up and responsible disposal.",
+  lead: "Start with who you are, or search for the exact item. We load and haul the agreed items, and recycle or donate suitable items where practical.",
   cardCta: "View services",
   az: {
     title: "Find your item",
@@ -34,11 +35,11 @@ export const SERVICES_HUB = {
 export const HOW_IT_WORKS = {
   meta: {
     title: "Junk Removal Pricing & How It Works | Live Junk Free",
-    description: "Small or single-item removals start at C$125. A full truckload is C$655. Volume-based pricing, confirmed with a free on-site estimate.",
+    description: `${fact("minimumPrice")}. Volume-based pricing, confirmed with a free on-site estimate.`,
   },
   crumb: "Pricing and how it works",
   h1: "Simple pricing. Price confirmed before we lift.",
-  lead: "You pay for the space your items take up in our truck, with upfront pricing and no hidden fees.",
+  lead: "You pay for the space your items take up in our truck. Your quote is confirmed before removal begins.",
   factors: {
     title: "What changes the price",
     items: [
@@ -55,7 +56,7 @@ export const HOW_IT_WORKS = {
     title: "How it works",
     list: [
       { title: "Contact us for a no-obligation quote", text: "Call our official contact number. Our staff will answer your queries and explain our services." },
-      { title: "Our professionals arrive", text: "We schedule a two-hour arrival window at your convenience and arrive on time with all the necessary tools and equipment." },
+      { title: "Our professionals arrive", text: `${fact("scheduling")} The crew arrives with the tools and equipment the job needs.` },
       { title: "Free on-site estimate", text: "Show the crew what needs to go. They quote using our simple price-per-volume formula, free of cost." },
       { title: "Load and clean up", text: "Once you approve the quote, the crew lifts everything, cleans the space and takes all the junk with them." },
       { title: "Handled responsibly", text: "Your items are sorted, then recycled or disposed of in a sustainable manner." },
@@ -67,7 +68,7 @@ export const HOW_IT_WORKS = {
 export const CONTACT = {
   meta: {
     title: "Get a Free Junk Removal Quote | Live Junk Free",
-    description: "Tell us what needs to go and get a free, no-obligation quote. Call or text +1 647 922 5865, 7 days a week, 6AM–11PM.",
+    description: "Tell us what needs to go and get a free, no-obligation quote. Call or text +1 647 922 5865.",
   },
   crumb: "Get a quote",
   h1: "Get a free quote",
@@ -99,10 +100,10 @@ export const LOCATIONS_INDEX = {
 export const LP_SAME_DAY = {
   meta: {
     title: "Same-Day Junk Removal Toronto & GTA | Live Junk Free",
-    description: "Same-day available across Toronto, 7 days a week, 6AM–11PM. Price confirmed before we lift.",
+    description: "Same-day junk removal across Toronto when our schedule allows. Price confirmed at a free onsite estimate before we lift.",
   },
   h1: "Same-day junk removal in Toronto and the GTA",
-  lead: "Same-day available across Toronto, 7 days a week, 6AM–11PM. Call for same-day availability.",
+  lead: `${fact("sameDay")}. Call to check today's availability.`,
   ticks: ["Price confirmed before we lift", "Furniture, appliances, garage and basement junk", "Donated and recycled where possible"],
   image: "crewHero" as ImageKey,
   alt: "Live Junk Free crew loading the truck",
@@ -154,11 +155,11 @@ export const ABOUT = {
   ],
   mission: {
     title: "Our mission",
-    text: "Our mission is to make cleanouts easygoing and convenient by devoting attention to the smallest of details and upholding our high standards of personalisation which offers unparalleled comfort to the customers. With customised solutions that guarantee optimum ease and fulfilment with the least amount of labour and time, we hope to meet the individual demands of every client.",
+    text: "Our mission is to make cleanouts easygoing and convenient by devoting attention to the smallest of details and upholding our high standards of personalisation which offers unparalleled comfort to the customers. With customised solutions that aim for optimum ease and fulfilment with the least amount of labour and time, we hope to meet the individual demands of every client.",
   },
   guarantee: {
-    title: "Live Junk Free guarantees",
-    text: "From the very beginning till the end, we take note that each step is accomplished properly including lifting hefty items, eliminating the junk from the premises and taking them away to dispose of sustainably. Instead of just focusing on delivering the services, it's the flawlessness of the service that we guarantee.",
+    title: "How we work",
+    text: "From the very beginning till the end, we take note that each step is accomplished properly including lifting hefty items, eliminating the junk from the premises and taking them away to dispose of sustainably. We take care at every step, from the first call to the last load leaving.",
   },
   unique: {
     title: "What makes Live Junk Free unique?",

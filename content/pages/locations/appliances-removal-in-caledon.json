@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Caledon Same-day Appliance Pickup for Residential and Commercial | Live Junk Free",
+  "title": "Caledon Same-day when available Appliance Pickup for Residential and Commercial | Live Junk Free",
   "description": "Efficient Caledon appliances removal for homes and businesses. We handle e waste, bulky loads, electronic junk, eco safe disposal. Book today!",
   "canonical": "https://livejunkfree.ca/locations/appliances-removal-in-caledon/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "appliances-removal-in-caledon",
+ "title": "Appliances Removal in Caledon",
  "h1": "Appliance Removal Services in Caledon, Ontario — However Far Out You Are, We Come Get It",
  "published": "2026-07-15T05:57:21",
  "modified": "2026-07-15T05:57:21",
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Caledon spreads its homes across some of the prettiest and least convenient geography in the GTA — century farmhouses outside Alton, horse properties near Palgrave, estate homes in the hills, village houses in Inglewood and Cheltenham. Live Junk Free serves all of it, and the 660+ five-star Google reviews behind our name include plenty that start with \"they actually came out to us.\""
+     "text": "Caledon spreads its homes across some of the prettiest and least convenient geography in the GTA — century farmhouses outside Alton, horse properties near Palgrave, estate homes in the hills, village houses in Inglewood and Cheltenham. Live Junk Free serves all of it, and the Google reviews behind our name include plenty that start with \"they actually came out to us.\""
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Standard disconnection, dolly and strap work, floor protection, the long haul out and every recycling fee at the far end — one approved price covers all of it. Rusted feet, seized doors and awkward barn thresholds change nothing."
+     "text": "{{fact:propertyProtection}}. Rusted feet, seized doors and awkward barn thresholds change nothing."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent pricing, 30–50% under the franchise trucks",
+       "title": "Independent pricing",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national brands fold royalty fees into every pickup and often hesitate at rural addresses anyway. We're locally owned, we like the back roads, and Caledon pickups run 30–50% cheaper with us for the same result."
+     "text": "The national brands fold royalty fees into every pickup and often hesitate at rural addresses anyway."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small loads start at {{cad_125}}, a single fridge or washer sits at the low end, and multi-machine clears — the kitchen unit plus the two in the shed — ride as one combined load priced by total truck space. Whether you're five minutes from Bolton or deep in the hills past Belfountain, the rate structure is identical and the free at-the-door quote is final."
+     "text": "Whether you're five minutes from Bolton or deep in the hills past Belfountain, the rate structure is identical and the free at-the-door quote is final."
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Call From Wherever You Are",
        "text": [
-        "+1 647 922 5865 or the online form — two minutes either way. Crews cover all of Caledon seven days a week, 6AM to 11PM, with same-day slots most days and a 30-minute text so you're not watching the laneway."
+        "+1 647 922 5865 or the online form — two minutes either way."
        ]
       },
       {
        "title": "2. Point Us to the Machine",
        "text": [
-        "Kitchen, cellar, barn or shed — we assess the unit and the path out, then hand you one flat, all-inclusive quote. Free, and no hard feelings if it's a no."
+        "Kitchen, cellar, barn or shed — we assess the unit and the path out, then hand you one flat, quote. Free, and no hard feelings if it's a no."
        ]
       },
       {
@@ -272,7 +272,7 @@
       {
        "title": "4. A Proper End, Not a Ditch",
        "text": [
-        "Refrigerant units get licensed processing, metals get recovered, working machines get offered to donation partners — and nothing ends up rusting at the back of a field, which around here is saying something."
+        ""
        ]
       }
      ]
@@ -474,7 +474,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -504,7 +504,7 @@
        "q": "Q: Do you charge extra for rural Caledon addresses?",
        "a": [
         [
-         "A: Never — distance isn’t in our pricing model at all. Truck volume sets the figure, starting at $125 for small loads, and a farmhouse past Belfountain pays the same rate structure as a house in Bolton. The free at-the-door quote is flat and final."
+         "A: Never — distance isn’t in our pricing model at all. The free at-the-door quote is flat and final."
         ]
        ]
       },
@@ -536,7 +536,7 @@
        "q": "Q: The new fridge arrives Thursday and the delivery crew won't take the old one. Can you?",
        "a": [
         [
-         "A: That’s one of our most common Caledon calls. Book us for Thursday afternoon — or any day around the delivery — and the old unit is gone before the new one has finished levelling. Same-day slots run seven days a week, 6AM to 11PM."
+         "A: That’s one of our most common Caledon calls. Book us for Thursday afternoon — or any day around the delivery — and the old unit is gone before the new one has finished levelling."
         ]
        ]
       }

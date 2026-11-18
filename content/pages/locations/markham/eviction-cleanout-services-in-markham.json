@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -265,7 +265,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We Give Instant Pricing For Eviction Cleanout Services"
+     "text": "{{fact:freeOnsiteEstimates}}"
     },
     {
      "t": "p",
@@ -276,7 +276,7 @@
     {
      "t": "p",
      "c": [
-      "Live Junk Free offers eviction cleanouts starting at {{cad_125}}, with pricing based on the actual volume and scope of the removal. Bulk pricing may be available for larger cleanouts, while multi-unit properties can receive custom pricing."
+      "{{fact:quoteText}}"
      ]
     },
     {
@@ -289,22 +289,22 @@
      "t": "checks",
      "items": [
       "Haul-Away",
-      "No Stairs Surcharges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
     },
     {
      "t": "price",
-     "label": "Markham Eviction Cleanout Services Starts From",
-     "value": "{{cad_125:suffix}}"
+     "label": "Markham Eviction Cleanout Pricing",
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
@@ -473,7 +473,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Junk Removal, Demolition & Cleanout Services in Markham"
+     "text": "Junk Removal, Demolition & Cleanout Services in Markham"
     },
     {
      "t": "p",
@@ -824,7 +824,7 @@
     {
      "t": "p",
      "c": [
-      "More than 700 five-star Google reviews across restaurant strip-outs, heritage storefront closures, mall and big-box clearances and landlord re-lease preparations — from Main Street South through York Region and across the GTA."
+      "Google reviews across restaurant strip-outs, heritage storefront closures, mall and big-box clearances and landlord re-lease preparations — from Main Street South through York Region and across the GTA."
      ]
     },
     {
@@ -1192,7 +1192,7 @@
        "q": "How much does an eviction cleanout cost in Markham?",
        "a": [
         [
-         "Eviction cleanout pricing starts at $125 and varies according to the amount and type of material being removed and the complexity of the job. Larger cleanouts and multi-unit properties may receive bulk or custom pricing. "
+         "Larger cleanouts and multi-unit properties may receive bulk or custom pricing. "
         ]
        ]
       },

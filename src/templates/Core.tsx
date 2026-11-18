@@ -6,6 +6,7 @@
  * Content: content/pages/home.json, about.json, how-it-works.json, contact.json, …
  */
 import Link from "next/link";
+import { fact } from "@/lib/content/facts";
 import { AutoPage, iconFor } from "@/components/designed/auto/AutoPage";
 import { BookingForm } from "@/components/forms/BookingForm";
 import { PageShell } from "@/components/layout/PageShell";
@@ -76,7 +77,7 @@ export function CoreContact({ doc }: { doc: PageDoc }) {
                   {site.email}
                 </a>
               </p>
-              <p className="small muted">{site.hours.display}</p>
+              <p className="small muted">{fact("businessHours")}.</p>
               <div className="social">
                 {site.socials.map((s) => (
                   <a key={s.label} href={s.href} target="_blank" rel="noopener noreferrer" aria-label={s.label}>

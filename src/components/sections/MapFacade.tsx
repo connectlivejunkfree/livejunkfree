@@ -6,6 +6,7 @@
  * iframe is ~1 MB of scripts, so it never loads on its own.
  * Content used: content/site.json (mapEmbed, rating, googleBusinessProfile).
  */
+import { reviewLine } from "@/lib/content/facts";
 import { useState } from "react";
 import { site } from "@/lib/content/client";
 import { Icon } from "../icons";
@@ -43,7 +44,7 @@ export function MapFacade({ className }: { className?: string }) {
           <div className="mapf-card">
             <b>Live Junk Free</b>
             <span className="small muted">
-              ★ {site.rating.display} · {site.rating.countDisplay}+ Google reviews · Serving the GTA
+              ★ {reviewLine()} · Serving the GTA
             </span>
             <button type="button" className="btn btn-dark btn-sm" onClick={() => setOn(true)}>
               Show map

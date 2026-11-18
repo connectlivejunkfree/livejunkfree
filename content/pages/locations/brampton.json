@@ -5,8 +5,8 @@
  "type": "location-town",
  "template": "TownHub",
  "seo": {
-  "title": "Junk Removal Brampton | Same-Day Pickup | Live Junk Free",
-  "description": "Need junk removal Brampton? Live Junk Free clears it out same day — upfront pricing, eco-friendly disposal, no hidden fees. Book your free quote today!",
+  "title": "Junk Removal Brampton | Free Onsite Estimates | Live Junk Free",
+  "description": "Need junk removal Brampton? Live Junk Free clears it out same day — upfront pricing, eco-friendly disposal, subject to scheduling. Book your free quote today!",
   "canonical": "https://livejunkfree.ca/locations/brampton/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2025/07/Rectangle-1660.webp"
@@ -45,7 +45,7 @@
         "junk removal in Brampton"
        ]
       },
-      " so you don’t have to wrestle appliances down the driveway or figure out what Peel Region actually takes on bulk pickup day. One call, we show up, it’s gone — same-day, upfront pricing, no drama."
+      " so you don’t have to wrestle appliances down the driveway or figure out what Peel Region actually takes on bulk pickup day. One call, we show up, it’s gone — same-day, upfront pricing, no drama, subject to scheduling."
      ]
     },
     {
@@ -94,7 +94,7 @@
     {
      "t": "p",
      "c": [
-      "Brampton is one of the fastest-growing cities in Canada — which means more moves, more renovations, more “we’ll deal with it later” moments that eventually turn into a garage you can’t park in. ",
+      "Brampton is one of the fastest-growing communities across Toronto and the GTA — which means more moves, more renovations, more “we’ll deal with it later” moments that eventually turn into a garage you can’t park in. ",
       {
        "b": [
         "Junk removal in Brampton"
@@ -106,7 +106,7 @@
     {
      "t": "p",
      "c": [
-      "That’s where Live Junk Free comes in. We handle the full job — carrying, hauling, and responsible disposal — across all of Brampton, with same-day and next-day availability in most neighbourhoods. Your price is locked in before we start, there are no hidden fees anywhere on the invoice, and our disposal approach prioritizes donation and certified recycling over landfill every single time. Give us a call and we’ll handle the rest."
+      "That’s where Live Junk Free comes in. We handle the full job — carrying, hauling, and responsible disposal — across all of Brampton, with same-day and next-day availability in most neighbourhoods. Give us a call and we’ll handle the rest."
      ]
     },
     {
@@ -156,7 +156,7 @@
      "items": [
       {
        "n": "02",
-       "title": "Same-Day Service That's Real, Not Just A Tagline",
+       "title": "Service That's Real, Not Just A Tagline",
        "text": []
       }
      ]
@@ -164,7 +164,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "A lot of companies advertise same-day removal and mean \"maybe later this week.\" We don't. Junk removal Brampton calls booked in the morning typically get a crew the same afternoon. We keep slots available throughout the week, including weekends, because we know Brampton schedules don't always line up with Monday-to-Friday availability."
+     "text": "A lot of companies advertise same-day removal when available and mean \"maybe later this week.\" We don't. We keep slots available throughout the week, including weekends, because we know Brampton schedules don't always line up with Monday-to-Friday availability."
     },
     {
      "t": "steps",
@@ -179,7 +179,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Usable furniture and appliances don't go straight to disposal. We route them to local Brampton-area donation partners first. What's recyclable metals, electronics, materials, goes to certified facilities. Only what genuinely has no other option ends up at a dump. That's the standard on every job, not just the easy ones."
+     "text": "Usable furniture and appliances don't go straight to disposal. We route them to local Brampton-area donation partners first. What's recyclable metals, electronics, materials, goes to recycling facilities. Only what genuinely has no other option ends up at a dump. That's the standard on every job, not just the easy ones."
     },
     {
      "t": "steps",
@@ -194,7 +194,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Before anything gets lifted, you get a price. That number is based on what we actually see — truck volume, item type, access complexity. And it doesn't move once we've started. No staircase surcharge appearing mid-job. No fuel levy added to the invoice. Brampton junk removal with us means the quote you approve is the number you pay."
+     "text": "Before anything gets lifted, you get a price. That number is based on what we actually see — truck volume, item type, access complexity. And it doesn't move once we've started. No fuel levy added to the invoice. Brampton junk removal with us means the quote you approve is the number you pay."
     },
     {
      "t": "steps",
@@ -209,7 +209,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Moving a fridge through a narrow hallway or carrying a sectional down a staircase is how walls get dented and floors get scratched — if it's not done right. Our crew uses proper equipment and protective coverings on every job. Licensed and insured, with the kind of care that means you're not filing a damage complaint after we leave."
+     "text": "Moving a fridge through a narrow hallway or carrying a sectional down a staircase is how walls get dented and floors get scratched — if it's not done right. {{fact:propertyProtection}}. Licensed and insured, with the kind of care that means you're not filing a damage complaint after we leave."
     },
     {
      "t": "steps",
@@ -300,7 +300,7 @@
       {
        "title": "Arrival On Time, Price Confirmed On-Site",
        "text": [
-        "Our crew calls 30 minutes ahead so you're not watching the door. When we arrive, we walk through the space, assess everything that's being removed, and give you a firm all-inclusive price before we touch a thing. Nothing moves until you say go."
+        "Our crew calls 30 minutes ahead so you're not watching the door. When we arrive, we walk through the space, assess everything that's being removed, and give you a firm price before we touch a thing. Nothing moves until you say go."
        ]
       },
       {
@@ -312,7 +312,7 @@
       {
        "title": "Responsible Brampton Disposal",
        "text": [
-        "Everything leaving your Brampton property gets sorted by our crew. Donation-worthy items go to local community partners. Recyclable materials go to certified facilities in the Peel Region. What's left goes to licensed disposal — and we actively work to make that portion as small as possible."
+        "Everything leaving your Brampton property gets sorted by our crew. Donation-worthy items go to local community partners. Recyclable materials go to recycling facilities in the Peel Region. What's left goes to licensed disposal — and we actively work to make that portion as small as possible."
        ]
       }
      ]
@@ -329,7 +329,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We take complete responsibility for making junk removal hassle-free while being committed to nature and future generations through our eco-friendly junk removal Ajax. As soon as we take your junk into our possession, we handle all of it responsibly, recycle it, and dispose of items sustainably. Our top services include:"
+     "text": "We take complete responsibility for making junk removal hassle-free while being committed to nature and future generations through our eco-friendly junk removal in Brampton. As soon as we take your junk into our possession, we handle all of it responsibly, recycle it, and dispose of items sustainably. Our top services include:"
     },
     {
      "t": "faq",
@@ -338,7 +338,7 @@
        "q": "01 - Commercial Removal",
        "a": [
         [
-         "we understand that a cluttered workspace can impact productivity and create an unprofessional environment. That’s why we offer efficient and affordable commercial junk removal services tailored to the unique needs of businesses ."
+         "Offices, shops, warehouses and rental units across Brampton: we remove furniture, fixtures and clutter and quote the job at a free onsite estimate."
         ]
        ]
       },
@@ -346,7 +346,7 @@
        "q": "02 - Residential Removal",
        "a": [
         [
-         "Our pricing is based on the volume of items being removed, the type of items, and the difficulty of removal. We offer upfront pricing with no hidden fees. You can also request a free estimate by contacting us or using our online booking system."
+         "Furniture, appliances, mattresses and garage or basement junk from Brampton homes, carried out from any room and hauled away."
         ]
        ]
       },
@@ -354,11 +354,7 @@
        "q": "03 - Demolition",
        "a": [
         [
-         "Yes, we’re committed to responsible disposal practices. Whenever possible, we recycle items or donate them to local charities. Our goal is to minimize waste and give back to the community whenever we can.",
-         {
-          "br": 1
-         },
-         "What areas do you serve?"
+         "Sheds, decks, fences, playsets and hot tubs taken down and hauled away, with the scope agreed at the estimate."
         ]
        ]
       },
@@ -366,7 +362,7 @@
        "q": "04 - Cleanouts",
        "a": [
         [
-         "We proudly serve various cities in Canada. If you’re unsure if we cover your area, please don’t hesitate to contact us. We’re always expanding our service areas to better serve our customers."
+         "Whole-house, estate, apartment, garage and basement cleanouts across Brampton. {{fact:retainedItems}}"
         ]
        ]
       }
@@ -481,13 +477,13 @@
         "Residential"
        ]
       },
-      ": Brampton families call us for all kinds of reasons. A basement in Springdale that’s been filling up for years. A garage in Heart Lake that became a storage unit somewhere along the way. A parent’s home in Chinguacousy that needs to be cleared before it goes on the market. Whatever the situation, Live Junk Free works around your schedule and handles the full job in a single visit wherever possible. Same-day ",
+      ": Brampton families call us for all kinds of reasons. A basement in Springdale that’s been filling up for years. A garage in Heart Lake that became a storage unit somewhere along the way. A parent’s home in Chinguacousy that needs to be cleared before it goes on the market. Whatever the situation, Live Junk Free works around your schedule and handles the full job in a single visit wherever possible. Same-day, subject to scheduling. ",
       {
        "b": [
         "junk removal services in Brampton"
        ]
       },
-      " are available most days — call in the morning and we can often be there the same afternoon."
+      " Timing confirmed at your estimate"
      ]
     },
     {
@@ -504,7 +500,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -541,7 +537,7 @@
            "Call us"
           ]
          },
-         " in the morning and we can often be there the same afternoon. We’ll confirm your window immediately when you book."
+         " We’ll confirm your window immediately when you book."
         ]
        ]
       },
@@ -549,7 +545,7 @@
        "q": "Q2: How much does junk removal cost in Brampton?",
        "a": [
         [
-         "A: Pricing is based on truck volume — how much space your items take up. We confirm a firm, all-inclusive quote on-site before we start. No per-item fees, no hidden charges. Call for a free estimate."
+         "A: Pricing is based on truck volume — how much space your items take up. We confirm a firm, quote on-site before we start. No per-item fees. Call for a free estimate."
         ]
        ]
       },
@@ -565,7 +561,7 @@
        "q": "Q4: Do you recycle the junk you pick up from Brampton homes?",
        "a": [
         [
-         "A: Yes. Usable items go to local donation organizations. Recyclable materials go to certified facilities in the Peel Region area. Landfill is genuinely the last resort — not the default."
+         "A: Yes. Usable items go to local donation organizations. Recyclable materials go to recycling facilities in the Peel Region area. Landfill is genuinely the last resort — not the default."
         ]
        ]
       },
@@ -573,7 +569,7 @@
        "q": "Q5: Can you remove junk from a rental property in Brampton without the tenant present?",
        "a": [
         [
-         "A: Yes — we work with landlords and property managers regularly across Brampton. As long as you have legal access, we can coordinate the full removal and clear the unit ready for the next tenant."
+         "A: Yes — we work with landlords and property managers regularly across Brampton."
         ]
        ]
       }

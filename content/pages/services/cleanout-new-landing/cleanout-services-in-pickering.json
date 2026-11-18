@@ -102,37 +102,7 @@
      "t": "cards",
      "items": [
       {
-       "title": "1000+",
-       "text": [
-        "Happy Clients"
-       ]
-      },
-      {
-       "title": "84+",
-       "text": [
-        "Service Types"
-       ]
-      },
-      {
-       "title": "6+",
-       "text": [
-        "Years Experience"
-       ]
-      },
-      {
-       "title": "100%",
-       "text": [
-        "Satisfaction"
-       ]
-      },
-      {
-       "title": "5 Star",
-       "text": [
-        "Rated Service"
-       ]
-      },
-      {
-       "title": "Fully Licensed Is Insured"
+       "title": "Fully Licensed & Insured"
       }
      ]
     }
@@ -455,7 +425,7 @@
      "t": "cards",
      "items": [
       {
-       "title": "Pickering Same-Day Cleanout Services With Honest Pricing",
+       "title": "Pickering Cleanout Services With Honest Pricing",
        "text": [
         "Property owners throughout Pickering choose our cleanout services because we make the process simple from start to finish."
        ]
@@ -464,8 +434,8 @@
     },
     {
      "t": "price",
-     "label": "Cleanout services start from just",
-     "value": "{{cad_125}}"
+     "label": "Cleanout Pricing",
+     "value": "Contact us for a quote"
     },
     {
      "t": "ul",
@@ -619,7 +589,7 @@
        "q": "How much do cleanout services cost in Pickering?",
        "a": [
         [
-         "A: Pricing is based on the volume of material removed. Small projects start at $125, while larger estate, rental property, and full-home cleanouts are quoted individually after a free on-site assessment."
+         "A: Pricing is based on the volume of material removed."
         ]
        ]
       },
@@ -723,7 +693,7 @@
        "Low Removal Cost"
       ],
       [
-       "100% Satisfaction Guaranteed"
+       "d"
       ]
      ]
     },

@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-day Junk Cleanout Services in Whitby | Live Junk Free",
-  "description": "Same-day junk cleanouts in Whitby by Live Junk Free. We remove garage junk, attic debris, appliances, and full estate contents. Book your cleanout today!",
+  "title": "Junk Cleanout Services in Whitby | Live Junk Free",
+  "description": "Same-day junk cleanouts when available in Whitby by Live Junk Free. We remove garage junk, attic debris, appliances, and full estate contents. Book your cleanout today!",
   "canonical": "https://livejunkfree.ca/locations/junk-cleanout-services-in-whitby/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "junk-cleanout-services-in-whitby",
+ "title": "Junk Cleanout Services in Whitby",
  "h1": "Junk Cleanout Services in Whitby, Ontario — Built for Households With No Spare Hours",
  "published": "2026-07-17T07:50:15",
  "modified": "2026-07-17T07:50:15",
@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Whitby runs on tight schedules: GO trains at dawn, two careers, kids’ practices stacked through the weekend. The basement everyone means to deal with never stands a chance — not because anyone lacks the will, but because nobody has the hours. So we built the cleanout that barely needs yours: a walkthrough that takes twenty minutes, one flat quote, and a fully insured crew that handles everything after — sorting, hauling, sweeping — with 6AM starts, evening slots and weekends that actually mean weekends."
+      "Whitby runs on tight schedules: GO trains at dawn, two careers, kids’ practices stacked through the weekend. The basement everyone means to deal with never stands a chance — not because anyone lacks the will, but because nobody has the hours."
      ]
     },
     {
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The town's calendars are full, and our schedule bends around them: walkthroughs before the 7:15, clears finished while the household is at work and school, weekend jobs wrapped before the tournament. Live Junk Free has earned 660+ five-star Google reviews across Durham doing exactly this — full-strength cleanouts that respect that your time is the scarcest thing in the house."
+     "text": "The town's calendars are full, and our schedule bends around them: walkthroughs before the 7:15, clears finished while the household is at work and school, weekend jobs wrapped before the tournament. Live Junk Free has earned Google reviews across Durham doing exactly this — full-strength cleanouts that respect that your time is the scarcest thing in the house."
     },
     {
      "t": "steps",
@@ -109,7 +109,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Every cleanout is priced flat by truck space: small clears cost small, whole homes scale honestly, and no Whitby neighbourhood pays a premium. The schedule, meanwhile, is yours to dictate — dawn, dusk or Saturday — at no extra charge for any of it."
+     "text": "Every cleanout is priced flat by truck space: small clears cost small, whole homes scale honestly, and no Whitby neighbourhood pays a premium."
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Crew, trucks, fuel, disposal fees, donation runs — all inside the number before you say yes. If the crawlspace holds twice the boxes or the job runs past dinner, the price stays exactly where you approved it."
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} If the crawlspace holds twice the boxes or the job runs past dinner, the price stays exactly where you approved it."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent pricing — 30–50% under the franchise names",
+       "title": "Independent pricing",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national chains price royalties into every quote. We're locally owned with none, and Whitby cleanouts land 30–50% cheaper for the identical emptied, swept space."
+     "text": "The national chains price royalties into every quote."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small cleanouts start at {{cad_125}} — a closet, a locker, one overloaded corner. Garages and basements land mid-range. Whole homes and estates resolve to one locked, all-inclusive number at the free walkthrough. Early starts, evening finishes and weekend crews cost nothing extra — convenient is the standard, not the upsell."
+     "text": "Garages and basements land mid-range. Whole homes and estates resolve to one locked, number at the free walkthrough. {{fact:scheduling}}"
     },
     {
      "t": "cards",
@@ -254,7 +254,7 @@
       {
        "title": "1. Book Around Your Week",
        "text": [
-        "Call +1 647 922 5865 or book online in two minutes. Crews run Whitby seven days a week, 6AM to 11PM — before-work walkthroughs, after-dinner clears and weekend jobs all standard, with a 30-minute text before arrival."
+        "Call +1 647 922 5865 or book."
        ]
       },
       {
@@ -370,7 +370,7 @@
          "Brooklin-to-Port-Whitby rental portfolio arrangements"
         ],
         [
-         "Office and storefront clear-outs, after-hours available"
+         "{{fact:weekendPickup}}"
         ],
         [
          "Recurring service for Whitby landlords and property managers"
@@ -474,7 +474,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -504,7 +504,7 @@
        "q": "Q: What do cleanout services cost in Whitby?",
        "a": [
         [
-         "A: Volume alone sets it — small jobs from $125, garages and basements mid-range, whole homes as one flat multi-load figure at the free walkthrough. Early, evening and weekend scheduling adds nothing, and approved prices are final whatever the space reveals."
+         "{{fact:weekendPickup}}"
         ]
        ]
       },
@@ -520,7 +520,7 @@
        "q": "Q: Can you work around commuter hours — early mornings, evenings, weekends?",
        "a": [
         [
-         "A: It’s the core of how we schedule here. Crews run 6AM to 11PM seven days a week: walkthroughs before the GO train, clears finished by pickup time, Saturday jobs wrapped before the afternoon game. No premium for any of it."
+         "A: It’s the core of how we schedule here. No premium for any of it."
         ]
        ]
       },

@@ -136,13 +136,10 @@
      "t": "ul",
      "items": [
       [
-       "Electronics (E-Waste): This is non-negotiable. Ontario has strict regulations for electronics recycling. Professional office cleanout services partner with certified e-waste recyclers who safely break down components, recover precious metals, and ensure toxic elements are contained."
+       "Electronics (E-Waste): This is non-negotiable. Ontario has strict regulations for electronics recycling. Professional office cleanout services partner with e-waste recyclers who safely break down components, recover precious metals, and ensure toxic elements are contained."
       ],
       [
        "Metal and Wood: Metal desks, filing cabinets, and shelving are highly recyclable. Wood from furniture can often be chipped for mulch or biomass fuel."
-      ],
-      [
-       "Paper and Cardboard: Secure shredding for confidential documents followed by paper recycling is a standard practice."
       ]
      ]
     }
@@ -209,9 +206,6 @@
        "Donation Coordination: They have established relationships with local charities and can efficiently handle the pickup and delivery of donatable items."
       ],
       [
-       "Documentation and Reporting: They provide documentation, including certificates of data destruction for electronics and donation receipts, which are crucial for your records and sustainability reporting."
-      ],
-      [
        "Efficient Material Handling: They have the manpower and logistics to sort materials on-site, preventing contamination of recyclable streams."
       ]
      ]
@@ -254,7 +248,7 @@
        "On-Site Sorting: Our crews sort materials directly into dedicated streams: donation, e-waste, metal, wood, and general waste."
       ],
       [
-       "Certified Processing: We transport all e-waste to R2 or e-Stewards certified facilities that provide data destruction certificates. We maximize donations to local GTA charities."
+       "We maximize donations to local GTA charities."
       ],
       [
        "Transparent Tracking: We provide details on where materials were diverted, offering you clear evidence of your company’s sustainable action."
@@ -405,7 +399,7 @@
     {
      "t": "p",
      "c": [
-      "The intersection of eco-friendliness and security is critical. Responsible electronics recycling must include guaranteed data destruction."
+      "The intersection of eco-friendliness and security is critical."
      ]
     },
     {
@@ -418,13 +412,10 @@
      "t": "ul",
      "items": [
       [
-       "Choose Certified Partners: Only use recyclers certified to R2 or e-Stewards standards, which have strict data sanitization protocols."
+       "{{fact:recycling}}"
       ],
       [
-       "Require Certification: Always obtain a Certificate of Data Destruction for any device with storage media. This is a non-negotiable document for your compliance files."
-      ],
-      [
-       "Internal Wiping (Optional): For ultra-sensitive data, some companies choose to perform their own data wiping before handing devices over for recycling."
+       "This is a non-negotiable document for your compliance files."
       ]
      ]
     }
@@ -451,9 +442,6 @@
       ],
       [
        "Risk Mitigation: Ensures compliance with Ontario’s electronic waste regulations, avoiding potential fines."
-      ],
-      [
-       "Potential Tax Benefits: Donation receipts for gifted furniture can provide charitable tax advantages."
       ],
       [
        "Employee Morale: Staff increasingly want to work for companies that reflect their values. A sustainable cleanout is a visible demonstration of those values."

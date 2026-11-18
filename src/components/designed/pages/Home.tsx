@@ -59,19 +59,22 @@ export function HomePage() {
         <Reviews ids={REVIEW_SETS.home} />
       </Sec>
 
-      <Sec variant="tight">
-        <h2 className="d3 mb-6">{HOME.stats.title}</h2>
-        <div className="stats">
-          {STATS.map((st) => (
-            <div key={st.label}>
-              <b>
-                <CountUp value={st.value} />
-              </b>
-              <span>{st.label}</span>
-            </div>
-          ))}
-        </div>
-      </Sec>
+      {/* Counters appear only once Nav confirms them (content/business-facts.json → stats). */}
+      {STATS.length ? (
+        <Sec variant="tight">
+          <h2 className="d3 mb-6">{HOME.stats.title}</h2>
+          <div className="stats">
+            {STATS.map((st) => (
+              <div key={st.label}>
+                <b>
+                  <CountUp value={st.value} />
+                </b>
+                <span>{st.label}</span>
+              </div>
+            ))}
+          </div>
+        </Sec>
+      ) : null}
 
       <Sec>
         <SecHead title={d.title} intro={d.intro} />

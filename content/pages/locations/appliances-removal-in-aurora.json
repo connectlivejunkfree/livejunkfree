@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-day Aurora Appliance Removal Service Near You | Live Junk Free",
-  "description": "Aurora’s trusted appliances removal pros. We do residential, eco-friendly, bulky item and electronic junk pickup. Call now for same-day service!",
+  "title": "Aurora Appliance Removal Service Near You | Live Junk Free",
+  "description": "Aurora’s trusted appliances removal pros. We do residential, eco-friendly, bulky item and electronic junk pickup. Call now for same-day service when available!",
   "canonical": "https://livejunkfree.ca/locations/appliances-removal-in-aurora/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "appliances-removal-in-aurora",
+ "title": "Appliances Removal in Aurora",
  "h1": "Appliance Removal Services in Aurora, Ontario — From Renovation-Day Swap-Outs to the Basement Freezer's Farewell",
  "published": "2026-07-14T12:02:20",
  "modified": "2026-07-14T12:02:20",
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Aurora spans a century of kitchens: character homes near Yonge and Wellington with doorways built for a slimmer era, family houses in Aurora Highlands mid-upgrade, and newer streets off Bayview and St. John's where builder appliances are already being traded up. Live Junk Free has carried machines out of all of them — 660+ five-star Google reviews earned on punctual arrivals, honest flat quotes and floors left exactly as we found them."
+     "text": "Aurora spans a century of kitchens: character homes near Yonge and Wellington with doorways built for a slimmer era, family houses in Aurora Highlands mid-upgrade, and newer streets off Bayview and St. John's where builder appliances are already being traded up. Live Junk Free has carried machines out of all of them — Google reviews earned on punctual arrivals, honest flat quotes and floors left exactly as we found them."
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Disconnection of standard hookups, floor and trim protection, the carrying, the hauling, every recycling and disposal fee — a single all-inclusive price covers it. If the fridge needs its doors off or the stairwell demands extra patience, your figure doesn't flinch."
+     "text": "Disconnection of standard hookups, floor and trim protection, the carrying, the hauling, every recycling and disposal fee — a single price covers it. If the fridge needs its doors off or the stairwell demands extra patience, your figure doesn't flinch."
     },
     {
      "t": "steps",
@@ -161,7 +161,7 @@
      "items": [
       {
        "n": "05",
-       "title": "Free to quote, free to decline, locked once approved",
+       "title": "{{fact:competitorComparison}}",
        "text": []
       }
      ]
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent pricing, 30–50% under the franchise trucks",
+       "title": "Independent pricing",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national brands price in royalties on every pickup. We're locally owned with none, and Aurora homeowners pocket the difference — typically 30–50% on identical jobs."
+     "text": "The national brands price in royalties on every pickup."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small loads start at {{cad_125}}, single machines stay at the friendly end of the scale, and full renovation clear-outs — every retired unit in one pickup — are priced by combined truck space, which always beats piecemeal trips. The number arrives free at your door before anything is unplugged, and it's the same number on the receipt."
+     "text": "The number arrives free at your door before anything is unplugged, and it's the same number on the receipt."
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Line Up the Pickup",
        "text": [
-        "Call +1 647 922 5865 or book online. Crews cover Aurora seven days a week, 6AM to 11PM, with same-day availability most days and a 30-minute arrival text — handy when a delivery or contractor is also on the calendar."
+        "Call +1 647 922 5865 or book online."
        ]
       },
       {
        "title": "2. Show Us the Machine and the Path",
        "text": [
-        "We assess the appliance, its hookups and its route out, then quote one flat, everything-included price. Free of charge and free of strings."
+        "We assess the appliance, its hookups and its route out, then quote one flat, everything-included price. {{fact:pricingIntro.extra}}"
        ]
       },
       {
@@ -272,7 +272,7 @@
       {
        "title": "4. Properly Retired",
        "text": [
-        "Refrigerant-bearing units are processed at licensed facilities, metals are recovered, and machines with working life left are routed to donation before recycling is considered. Nothing simply gets tipped."
+        "Nothing simply gets tipped."
        ]
       }
      ]
@@ -471,7 +471,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -501,7 +501,7 @@
        "q": "Q: How is appliance removal priced in Aurora?",
        "a": [
         [
-         "A: By the truck space the load occupies — starting at $125 for small loads — with the exact flat figure quoted free at your door. A machine’s weight, the stairs involved and the time it takes are all built in, never billed on top, and an approved price can’t change."
+         "A machine’s weight, the stairs involved and the time it takes are all built in, never billed on top, and an approved price can’t change."
         ]
        ]
       },

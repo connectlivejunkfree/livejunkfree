@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -136,7 +136,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -212,7 +212,7 @@
       {
        "title": "Teardown & Haul in One Visit",
        "text": [
-        "Dismantling, demolition, loading, and site cleanup handled by a single crew, same day"
+        "Dismantling, demolition, loading, and site cleanup handled by a single crew"
        ]
       },
       {
@@ -329,7 +329,7 @@
        "Photo-Based Estimates – Send a few shots of the structure and yard access for a fast, firm quote"
       ],
       [
-       "All-Inclusive Figure – Teardown labour, hauling, recycling, and site cleanup in one written price"
+       "Figure – Teardown labour, hauling, recycling, and site cleanup in one written price"
       ],
       [
        "Add-On Savings – Combine with shed demolition, trampoline removal, or a yard cleanout for a reduced bundle rate"
@@ -482,7 +482,7 @@
        "q": "5) How long does playset removal take and what does it cost?",
        "a": [
         [
-         "Most swing sets and playsets come down and leave the property within one to three hours; large custom towers or in-ground trampolines can take a little longer. Cost depends on the structure’s size, anchoring, and hauled volume — quoted as one firm written number from your photos, with bundle savings if we’re also removing a shed or clearing the yard."
+         "Most swing sets and playsets come down and leave the property within one to three hours; large custom towers or in-ground trampolines can take a little longer."
         ]
        ]
       }

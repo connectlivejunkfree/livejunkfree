@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-day Junk Cleanout Services in Uxbridge | Live Junk Free",
-  "description": "Same-day junk cleanouts in Uxbridge by Live Junk Free. Services include appliance removal, attic and garage junk disposal, and full estate cleanups. Book now!",
+  "title": "Junk Cleanout Services in Uxbridge | Live Junk Free",
+  "description": "Same-day junk cleanouts when available in Uxbridge by Live Junk Free. Services include appliance removal, attic and garage junk disposal, and full estate cleanups. Book now!",
   "canonical": "https://livejunkfree.ca/locations/junk-cleanout-services-in-uxbridge/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "junk-cleanout-services-in-uxbridge",
+ "title": "Junk Cleanout Services in Uxbridge",
  "h1": "Junk Cleanout Services in Uxbridge, Ontario — In a Town of Makers, Every Space Fills With Possibility",
  "published": "2026-07-16T04:29:39",
  "modified": "2026-07-16T04:21:41",
@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Uxbridge creates — and creating accumulates. The studio with a decade of canvases and half-finished projects. The workshop where the wood stock outgrew the wood. The craft room, the quilting stash, the barn that became overflow for all of it. When possibility finally needs clearing, we bring the right crew: one free walkthrough, one flat all-inclusive quote, and a fully insured team that sorts with a maker’s respect — flagging the good materials, the finished work and the tools before anything loads — then hauls, sweeps and hands back the space."
+      "Uxbridge creates — and creating accumulates. The studio with a decade of canvases and half-finished projects. The workshop where the wood stock outgrew the wood. The craft room, the quilting stash, the barn that became overflow for all of it. When possibility finally needs clearing, we bring the right crew: one free walkthrough, one flat quote, and a fully insured team that sorts with a maker’s respect — flagging the good materials, the finished work and the tools before anything loads — then hauls, sweeps and hands back the space."
      ]
     },
     {
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The township's cleanout calls have real character: century homes near the heritage core, studios and workshops behind houses across town, rural properties in Goodwood, Zephyr and Sandford with barns doing triple duty, and estates settling after long, well-lived tenures. Live Junk Free handles the whole range — 660+ five-star Google reviews earned on careful sorting and finish dates that held."
+     "text": "The township's cleanout calls have real character: century homes near the heritage core, studios and workshops behind houses across town, rural properties in Goodwood, Zephyr and Sandford with barns doing triple duty, and estates settling after long, well-lived tenures. Live Junk Free handles the whole range — Google reviews earned on careful sorting and finish dates that held."
     },
     {
      "t": "steps",
@@ -109,7 +109,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Canvases, lumber, fabric bolts or ordinary furniture: it all measures the same way — truck space filled, priced flat and up front. No hourly billing, no specialty surcharge for studios or workshops, and no travel fee anywhere in the township."
+     "text": "Canvases, lumber, fabric bolts or ordinary furniture: it all measures the same way — truck space filled, priced flat and up front."
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Crew, trucks, fuel, disposal fees, donation runs — one number, sealed before we start. When the storage room reveals a second inventory nobody counted, the discovery lands on our ledger, not your invoice."
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} When the storage room reveals a second inventory nobody counted, the discovery lands on our ledger, not your invoice."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent pricing — 30–50% under the franchise names",
+       "title": "Independent pricing",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national chains price royalties into every job. We're locally owned with none, run Uxbridge weekly, and land 30–50% cheaper on identical work."
+     "text": "The national chains price royalties into every job."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small cleanouts start at {{cad_125}} — a craft room, a locker, one overloaded corner. Garages, studios and basements land mid-range. Whole homes and full properties resolve to one locked, all-inclusive number at the free walkthrough — however many truckloads and however long the sorting deserves. The figure agreed at the door is the figure paid at the end."
+     "text": "Garages, studios and basements land mid-range. Whole homes and full properties resolve to one locked, number at the free walkthrough — however many truckloads and however long the sorting deserves. The figure agreed at the door is the figure paid at the end."
     },
     {
      "t": "cards",
@@ -254,7 +254,7 @@
       {
        "title": "1. Book the Walkthrough",
        "text": [
-        "Call +1 647 922 5865 or book online in minutes. Crews cover Uxbridge and the hamlets seven days a week, 6AM to 11PM, with same-day slots and a 30-minute text before arrival."
+        "Call +1 647 922 5865 or book online in minutes."
        ]
       },
       {
@@ -474,7 +474,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -504,7 +504,7 @@
        "q": "Q: What does a cleanout cost in Uxbridge?",
        "a": [
         [
-         "A: Volume sets it — small jobs from $125, single spaces mid-range, whole homes and properties as one flat multi-load figure at the free walkthrough. No travel fees anywhere in the township, and approved prices are final whatever the layers reveal."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },

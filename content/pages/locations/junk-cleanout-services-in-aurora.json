@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same day Junk Cleanout Services in Aurora | Live Junk Free",
-  "description": "Same day junk cleanouts in Aurora by Live Junk Free. We offer garage cleanout, appliance removal, estate cleanouts, and attic junk disposal. Call now to get started!",
+  "title": "Junk Cleanout Services in Aurora | Live Junk Free",
+  "description": "Same day junk cleanouts when available in Aurora by Live Junk Free. We offer garage cleanout, appliance removal, estate cleanouts, and attic junk disposal. Call now to get started!",
   "canonical": "https://livejunkfree.ca/locations/junk-cleanout-services-in-aurora/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "junk-cleanout-services-in-aurora",
+ "title": "Junk Cleanout Services in Aurora",
  "h1": "Junk Cleanout Services in Aurora, Ontario — Any Space, Any Size, Emptied Properly",
  "published": "2026-07-15T02:32:44",
  "modified": "2026-07-15T02:32:44",
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Aurora keeps us moving between very different doors: a two-car garage in Aurora Highlands that hasn't parked a car in years, a downtown office off Yonge Street changing hands, a storage locker a family inherited along with everything in it, and yes — full houses too. Live Junk Free handles the entire range with the same approach, and the 660+ five-star Google reviews behind our name come from every one of those job types."
+     "text": "Aurora keeps us moving between very different doors: a two-car garage in Aurora Highlands that hasn't parked a car in years, a downtown office off Yonge Street changing hands, a storage locker a family inherited along with everything in it, and yes — full houses too. Live Junk Free handles the entire range with the same approach, and the Google reviews behind our name come from every one of those job types."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent and local — 30–50% under franchise pricing",
+       "title": "Independent and local",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national cleanout brands carry royalty fees in every job they quote. We carry none, and Aurora customers keep the difference: typically 30–50% on identical work."
+     "text": "The national cleanout brands carry royalty fees in every job they quote."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small cleanouts start at {{cad_125}} — a closet, a shed, a corner of the garage. Mid-size spaces like basements and full garages land in the middle. Whole homes and estates, even multi-load ones, are still quoted as a single locked figure at the free walkthrough. The scale slides with volume; the certainty never does."
+     "text": "Mid-size spaces like basements and full garages land in the middle. Whole homes and estates, even multi-load ones, are still quoted as a single locked figure at the free walkthrough. The scale slides with volume; the certainty never does."
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Book It in Minutes",
        "text": [
-        "Call +1 647 922 5865 or book online. Aurora crews run seven days a week, 6AM to 11PM, same-day slots included, with a 30-minute text before arrival."
+        "Call +1 647 922 5865 or book online."
        ]
       },
       {
        "title": "2. Open the Space, Hear the Number",
        "text": [
-        "Show us the garage, the basement, the unit, the office — all of it. We assess the true volume and hand over one flat, all-inclusive quote. Free, and \"let me think\" is always fine."
+        "Show us the garage, the basement, the unit, the office — all of it. We assess the true volume and hand over one flat, quote. Free, and \"let me think\" is always fine."
        ]
       },
       {
@@ -474,7 +474,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -504,7 +504,7 @@
        "q": "Q: What do cleanout services cost in Aurora?",
        "a": [
         [
-         "A: The space’s volume sets it. Small jobs — a shed, a closet, a locker — start at $125; garages and basements typically land mid-range; full homes are quoted as one flat multi-load figure. Every price is confirmed free and in person before work starts, and approved numbers never move."
+         "A: The space’s volume sets it. Every price is confirmed free and in person before work starts, and approved numbers never move."
         ]
        ]
       },
@@ -520,7 +520,7 @@
        "q": "Q: Can you empty a storage unit so I can stop paying for it?",
        "a": [
         [
-         "A: Gladly — it’s one of the fastest returns on a phone call we offer. Most units clear in under an hour, get swept for the facility’s final inspection, and the monthly bill ends there. If anything inside looks worth keeping, we’ll flag it before it’s loaded."
+         "A: Gladly — it’s one of the fastest returns on a phone call we offer. If anything inside looks worth keeping, we’ll flag it before it’s loaded."
         ]
        ]
       },

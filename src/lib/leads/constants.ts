@@ -4,6 +4,8 @@
  */
 export const POSTAL_CODE = /^[ABCEGHJ-NPRSTVXY]\d[ABCEGHJ-NPRSTV-Z][ -]?\d[ABCEGHJ-NPRSTV-Z]\d$/i;
 export const BOOKING_SERVICE_OPTIONS = ["Single", "Multiple Items", "Curbside (10% Discount)"] as const;
+/** Preferred time for a callback (Answers A3.4/A3.6). Not a booking: the team agrees the pickup by phone. */
+export const CALLBACK_TIMES = ["Any time", "Morning", "Afternoon", "Evening"] as const;
 export const ARRIVAL_WINDOWS = ["6 AM - 8 AM", "8 AM - 10 AM", "10 AM - 12 PM", "12 PM - 2 PM", "2 PM - 4 PM", "4 PM - 6 PM", "6 PM - 8 PM", "8 PM - 10 PM"] as const;
 /** Names: letters (any language), spaces, apostrophes, hyphens, periods. No digits. */
 export const NAME_ALLOWED = /[^\p{L}\p{M}\s'’.-]/gu;

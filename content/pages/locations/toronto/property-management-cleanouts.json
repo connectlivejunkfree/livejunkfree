@@ -6,11 +6,11 @@
  "template": "LocationService",
  "seo": {
   "title": "Property Management Cleanouts Toronto | Live Junk Free",
-  "description": "Need property management cleanouts Toronto wide? Live Junk Free clears units fast — same-day available, upfront pricing, no hidden fees. Get a free quote!",
+  "description": "Need property management cleanouts Toronto wide? Live Junk Free clears units fast — same-day available, upfront pricing. Get a free quote!",
   "canonical": "https://livejunkfree.ca/locations/toronto/property-management-cleanouts/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
  },
- "title": "property-management-cleanouts",
+ "title": "Property Management Cleanouts",
  "h1": "Property management cleanouts Toronto — fast unit turnovers, zero stress",
  "published": "2026-07-12T05:55:43",
  "modified": "2026-07-12T05:55:43",
@@ -46,7 +46,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "We handle everything left behind — furniture, appliances, personal belongings, renovation debris, and general clutter — regardless of condition or volume. Same-day and next-day availability keeps your turnover timeline moving. Pricing is confirmed upfront before we start, with no surprise charges at the end. And we dispose of everything responsibly, donating and recycling wherever possible."
+      "We handle everything left behind — furniture, appliances, personal belongings, renovation debris, and general clutter — regardless of condition or volume. Same-day and next-day availability keeps your turnover timeline moving. Pricing is confirmed upfront before we start at the end. And we dispose of everything responsibly, donating and recycling wherever possible."
      ]
     },
     {
@@ -112,7 +112,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
-      "alt": "DSC08963",
+      "alt": "Property Management Cleanouts: Live Junk Free job photo",
       "width": 800,
       "height": 534
      }
@@ -156,7 +156,7 @@
         "Upfront pricing with no invoice surprises."
        ]
       },
-      " With 598+ Google reviews built on pricing transparency, our quotes mean something. We assess the unit in person, give you a firm number before we touch anything, and that number doesn’t change once the truck is loaded. For property managers overseeing multiple units, that predictability matters."
+      " With Google reviews built on pricing transparency, our quotes mean something. We assess the unit in person, give you a firm number before we touch anything, and that number doesn’t change once the truck is loaded. For property managers overseeing multiple units, that predictability matters."
      ]
     },
     {
@@ -220,7 +220,7 @@
         "Responsible disposal, documented"
        ]
       },
-      " Usable items donated, recyclables processed at certified facilities, landfill used only as a last resort. We handle it all and can provide disposal documentation if required for your records."
+      " Usable items donated, recyclables processed at recycling facilities, landfill used only as a last resort. We handle it all and can provide disposal documentation if required for your records."
      ]
     },
     {
@@ -275,9 +275,9 @@
        ]
       },
       {
-       "title": "All-Inclusive Pricing",
+       "title": "Pricing",
        "text": [
-        "Your upfront quote covers everything: labor, hauling, and disposal with no surprise fees"
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -287,7 +287,7 @@
        ]
       },
       {
-       "title": "Damage-Free Guarantee",
+       "title": "Careful Removal",
        "text": [
         "We protect your home during removal with padding and careful handling"
        ]
@@ -389,7 +389,7 @@
     {
      "t": "p",
      "c": [
-      "Every quote is confirmed in person before we start. What we say is what you pay — every single time."
+      "Every quote is confirmed in person before we start."
      ]
     }
    ]
@@ -566,7 +566,7 @@
       {
        "title": "Book Your Appointment",
        "text": [
-        "Call us or use our quick online form. Tell us what needs to go and where you're in Toronto — we'll give you an upfront price right away. No commitment needed."
+        "Call us or use our quick online form. Tell us what needs to go and where you're in Toronto — we'll review your items and pickup details. No commitment needed."
        ]
       },
       {
@@ -584,7 +584,7 @@
       {
        "title": "Responsible Disposal, Every Time",
        "text": [
-        "Usable pieces get donated to local Toronto charities. Everything else goes to certified recycling facilities. We keep as much out of landfill as possible."
+        "Usable pieces get donated to local Toronto charities. Everything else goes to recycling facilities. We keep as much out of landfill as possible."
        ]
       }
      ]
@@ -605,35 +605,35 @@
      "images": [
       {
        "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
-       "alt": "20250405_140825"
+       "alt": "Property Management Cleanouts: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
-       "alt": "20250405_142357"
+       "alt": "Property Management Cleanouts: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142736-1024x577.webp",
-       "alt": "20250405_142736"
+       "alt": "Property Management Cleanouts: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_144606-1024x577.webp",
-       "alt": "20250405_144606"
+       "alt": "Property Management Cleanouts: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250611_115029-1024x577.webp",
-       "alt": "20250611_115029"
+       "alt": "Property Management Cleanouts: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250611_201732-1024x577.webp",
-       "alt": "20250611_201732"
+       "alt": "Property Management Cleanouts: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250530_110858-1024x577.webp",
-       "alt": "20250530_110858"
+       "alt": "Property Management Cleanouts: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250526_193102-1024x577.webp",
-       "alt": "20250526_193102"
+       "alt": "Property Management Cleanouts: Live Junk Free job photo"
       }
      ]
     }
@@ -661,7 +661,7 @@
        "q": "Q: What does a property management cleanout cost in Toronto?",
        "a": [
         [
-         "A: Pricing is based on the volume of items and the complexity of building access — not a flat per-unit rate. A lightly furnished unit is a smaller load; a fully abandoned unit with furniture, appliances, and personal belongings throughout is priced accordingly. We give you a firm, all-inclusive quote on-site before we start. Call us for a free estimate — we respond quickly."
+         "A: Pricing is based on the volume of items and the complexity of building access — not a flat per-unit rate. A lightly furnished unit is a smaller load; a fully abandoned unit with furniture, appliances, and personal belongings throughout is priced accordingly. We give you a firm, quote on-site before we start. Call us for a free estimate — we respond quickly."
         ]
        ]
       },
@@ -685,7 +685,7 @@
        "q": "Q: What happens to items left behind by tenants — are they donated or recycled?",
        "a": [
         [
-         "A: We sort everything after removal. Furniture, appliances, and household items in usable condition are donated to Toronto-area charitable organizations. Recyclable materials go to certified processing facilities. Only items that genuinely can’t be reused or recycled end up at a disposal facility. We keep as much out of landfill as possible on every job."
+         "A: We sort everything after removal. Furniture, appliances, and household items in usable condition are donated to Toronto-area charitable organizations. Only items that genuinely can’t be reused or recycled end up at a disposal facility. We keep as much out of landfill as possible on every job."
         ]
        ]
       }

@@ -5,6 +5,7 @@
  *   CtaBand    — closing call-to-action: phone + Book Now (dark slate on sensitive pages).
  * Content used: the page's own sentences, content/site.json, manifest titles.
  */
+import { fact, reviewLine } from "@/lib/content/facts";
 import Link from "next/link";
 import { site } from "@/lib/content";
 import { Icon } from "../icons";
@@ -55,7 +56,7 @@ export function CtaBand({ title = "Call Now!", text = site.footerBlurb, formAnch
           <a className="rating" href={site.googleBusinessProfile} target="_blank" rel="noopener noreferrer">
             <Stars />
             <span>
-              <b>{site.rating.display}</b> from {site.rating.countDisplay} Google reviews
+              {reviewLine()}
             </span>
           </a>
         </div>
@@ -63,7 +64,7 @@ export function CtaBand({ title = "Call Now!", text = site.footerBlurb, formAnch
           <a className="callbig" href={`tel:${site.phone.tel}`} data-track="phone">
             {site.phone.display}
           </a>
-          <p className="muted small">{site.hours.display}</p>
+          <p className="muted small">{fact("businessHours")}.</p>
           <div className="btn-row">
             {formAnchor ? (
               <a className="btn btn-primary" href={formAnchor}>

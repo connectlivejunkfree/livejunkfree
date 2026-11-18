@@ -7,6 +7,7 @@
  *   PlainHero — core pages: breadcrumbs, H1, lead, CTAs, optional photo.
  * Content used: the page's own H1, subtitle, CTAs and trust points (extractHero).
  */
+import { reviewLine } from "@/lib/content/facts";
 import Image from "next/image";
 import Link from "next/link";
 import { imageSize, site, type Image as ImageT, type Inline } from "@/lib/content";
@@ -33,7 +34,7 @@ function RatingLine() {
     <a className="rating" href={site.googleBusinessProfile} target="_blank" rel="noopener noreferrer">
       <Stars />
       <span>
-        <b>{site.rating.display}</b> from {site.rating.countDisplay} Google reviews
+        {reviewLine()}
       </span>
     </a>
   );
@@ -111,7 +112,7 @@ export function PhotoHero({ h1, sub, trust, ctas, image }: Common & { image: Ima
         <div className="stack-lg">
           <div className="pill-row">
             <span className="gpill">
-              <Stars /> {site.rating.display} · {site.rating.countDisplay} Google reviews
+              <Stars /> {reviewLine()}
             </span>
           </div>
           <h1 className="d1">

@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Hot Tub Removal Services in Caledon from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub, quoted flat on site with no distance surcharge, seven days a week."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -141,7 +141,7 @@
        "title": "Salvage-conscious removal where the material's worth keeping",
        "text": [
         [
-         "Cabinet wood, decking or hardware worth keeping gets set aside on request rather than binned by default, at no extra charge."
+         "{{fact:pricingIntro.extra}}"
         ]
        ]
       },
@@ -165,7 +165,7 @@
       },
       {
        "n": "06",
-       "title": "Independent pricing, 30–50% under the bigger outfits",
+       "title": "Independent pricing",
        "text": [
         [
          "National junk removal franchises build a royalty into every quote, and some add a rural surcharge on top. Live Junk Free does neither."
@@ -217,7 +217,7 @@
     {
      "t": "price",
      "label": "Caledon Hot Tub Removal Price",
-     "value": "{{cad_265}}"
+     "value": "Priced at your free onsite estimate"
     },
     {
      "t": "p",
@@ -250,7 +250,7 @@
     {
      "t": "p",
      "c": [
-      "Call +1 647 922 5865 or book online — same-day slots are usually available, seven days a week, 6AM to 11PM."
+      "Call +1 647 922 5865 or book online — same-day slots are usually available."
      ]
     }
    ]
@@ -265,7 +265,7 @@
        "title": "Book Your Hot Tub Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available, seven days a week, 6AM to 11PM."
+         "Call +1 647 922 5865 or book online — same-day slots are usually available."
         ]
        ]
       },
@@ -289,7 +289,7 @@
       },
       {
        "n": "04",
-       "title": "Your Yard Is Clear the Same Day",
+       "title": "Your Yard Is Clear",
        "text": [
         [
          "Metal components, motors and pumps are routed to recycling, salvage stays where you want it, and the rest is disposed of responsibly."
@@ -343,7 +343,7 @@
      "t": "ul",
      "items": [
       [
-       "For working farms across the western concessions: tubs left by a previous owner, long-laneway access included at no extra charge."
+       "{{fact:pricingIntro.extra}}"
       ]
      ]
     }
@@ -623,7 +623,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — heritage, waterfront, farmhouse and estate hot tub removals across Port Perry, Scugog and Durham Region."
+      "Google reviews — heritage, waterfront, farmhouse and estate hot tub removals across Port Perry, Scugog and Durham Region."
      ]
     },
     {
@@ -773,7 +773,7 @@
        "q": "Can the good wood or hardware from a hot tub's cabinet be saved?",
        "a": [
         [
-         "Often, yes — say so at the walkthrough. Materials worth keeping come out intact and set aside before the rest is hauled, at no extra charge."
+         "Often, yes — say so at the walkthrough. {{fact:pricingIntro.extra}}"
         ]
        ]
       },

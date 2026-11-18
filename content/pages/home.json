@@ -44,26 +44,13 @@
     },
     {
      "t": "stats",
-     "items": [
-      {
-       "label": "Services Completed",
-       "value": "1,000+"
-      },
-      {
-       "label": "Happy Clients",
-       "value": "700+"
-      },
-      {
-       "label": "Years Experience",
-       "value": "6+"
-      }
-     ]
+     "items": []
     },
     {
      "t": "img",
      "image": {
       "src": "/images/uploads/2025/07/DSC08977-scaled-1-1024x683.webp",
-      "alt": "DSC08977 scaled 1",
+      "alt": "Home: Live Junk Free job photo",
       "width": 800,
       "height": 534
      }
@@ -188,7 +175,7 @@
      "t": "ul",
      "items": [
       [
-       "Same Day/Next Day Removal"
+       "Same Day when available/Next Day Removal"
       ],
       [
        "Transparent And Honest Pricing"
@@ -239,7 +226,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "SAVE {{cad_20}}! Same and Next day Appointments Available"
+     "text": "Same and Next day Appointments Available"
     },
     {
      "t": "ctas",
@@ -444,7 +431,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },

@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Piano Removal Services in Markham from Live Junk Free — an experienced crew moves upright, baby grand, grand and digital pianos safely out of homes and condo suites, quoted flat on site, seven days a week."
+     "text": "Piano Removal Services in Markham from Live Junk Free — an experienced crew moves upright, baby grand, grand and digital pianos safely out of homes and condo suites, quoted flat on site."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -123,16 +123,16 @@
        "title": "One flat price — stairs and access never bill extra",
        "text": [
         [
-         "A piano isn’t a normal junk item, and the quote reflects the real work: careful maneuvering, wall protection, and the crew size a piece that heavy actually needs."
+         "{{fact:propertyProtection}}."
         ]
        ]
       },
       {
        "n": "02",
-       "title": "Certified recycling for digital piano electronics",
+       "title": "Recycling for digital piano electronics",
        "text": [
         [
-         "Where a piano is digital rather than acoustic, its control board and internal electronics are routed to certified recyclers as standard."
+         "Where a piano is digital rather than acoustic, its control board and internal electronics are routed to recyclers as standard."
         ]
        ]
       },
@@ -165,7 +165,7 @@
       },
       {
        "n": "06",
-       "title": "Independent pricing, 30–50% under the bigger outfits",
+       "title": "Independent pricing",
        "text": [
         [
          "National moving and junk removal franchises build a royalty into every quote. Live Junk Free carries none of that overhead."
@@ -195,14 +195,14 @@
     {
      "t": "p",
      "c": [
-      "Every quote is one flat number covering the move, any needed disassembly, and disposal, donation or recycling — including certified electronics recycling for digital pianos."
+      "{{fact:recycling}}"
      ]
     },
     {
      "t": "checks",
      "items": [
       "Move + Disassembly + Haul-Away",
-      "No Stairs Surcharges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -217,7 +217,7 @@
     {
      "t": "price",
      "label": "Markham Piano Removal Price",
-     "value": "{{cad_265}}"
+     "value": "Priced at your free onsite estimate"
     },
     {
      "t": "p",
@@ -250,7 +250,7 @@
     {
      "t": "p",
      "c": [
-      "A piano removal appointment follows four steps: booking, a free on-site quote with the route measured first, careful moving and disassembly, and same-day haul-away."
+      "A piano removal appointment follows four steps: booking, a free on-site quote with the route measured first, careful moving and disassembly, and same-day haul-away when available."
      ]
     }
    ]
@@ -289,10 +289,10 @@
       },
       {
        "n": "04",
-       "title": "Your Space Is Clear the Same Day",
+       "title": "Your Space Is Clear",
        "text": [
         [
-         "Acoustic pianos route to donation where they qualify or metal recycling where they don’t; digital piano electronics route to certified e-waste recyclers."
+         "Acoustic pianos route to donation where they qualify or metal recycling where they don’t; digital piano electronics route to e-waste recyclers."
         ]
        ]
       }
@@ -361,7 +361,7 @@
        "Digital and keyboard piano removal, any brand or size"
       ],
       [
-       "Control board, speaker and internal electronics routed to certified recyclers"
+       "Control board, speaker and internal electronics routed to recyclers"
       ],
       [
        "Cabinet and stand handled separately from electronic components"
@@ -421,7 +421,7 @@
        "Piano removal in suites near Commerce Valley and Markham Centre"
       ],
       [
-       "COIs, freight elevator bookings and building rules handled before arrival"
+       "{{fact:licensedInsured}}"
       ],
       [
        "Estate and downsizing piano removal carried out floor by floor"
@@ -433,7 +433,7 @@
        "Move-out timing coordinated with concierge and management"
       ],
       [
-       "Certified recycling for any electronic piano components"
+       "Recycling for any electronic piano components"
       ]
      ]
     }
@@ -683,7 +683,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — family home, senior transition and estate piano removals across Whitby, Durham Region and the GTA."
+      "Google reviews — family home, senior transition and estate piano removals across Whitby, Durham Region and the GTA."
      ]
     },
     {
@@ -835,7 +835,7 @@
        "q": "What happens to a digital piano's electronics?",
        "a": [
         [
-         "They’re recycled properly as standard. The control board, speakers and internal electronics route to certified electronics recyclers, separate from the cabinet. "
+         "They’re recycled properly as standard. "
         ]
        ]
       },
@@ -859,7 +859,7 @@
        "q": "Can you remove a piano from a condo near Commerce Valley?",
        "a": [
         [
-         "Yes, and it’s handled by the building’s book — COIs filed, freight elevators reserved ahead."
+         "{{fact:insuranceDocs}}."
         ]
        ]
       }

@@ -6,7 +6,7 @@
  "template": "BlogPost",
  "seo": {
   "title": "Smart garage cleanout tips for better storage",
-  "description": "Declutter your garage with Live Junk Free. Discover expert cleanout tips, same-day junk removal, and efficient ways to reclaim valuable storage space.",
+  "description": "Declutter your garage with Live Junk Free. Discover expert cleanout tips, same-day junk removal when available, and efficient ways to reclaim valuable storage space.",
   "canonical": "https://livejunkfree.ca/blog/garage-cleanout-tips-transforming-your-cluttered-space-into-usable-storage/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2025/11/Garage-Cleanout-Tips-Transforming-Your-Cluttered-Space-into-Usable-Storage.jpeg"
@@ -345,7 +345,7 @@
      "t": "ol",
      "items": [
       [
-       "Free Assessment: We provide upfront pricing with no hidden fees"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Efficient Removal: Our team handles all heavy lifting and loading"

@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/07/washer-dryer-removal-services-before1.jpeg"
  },
  "title": "Washer Dryer Removal Services",
- "h1": "Trusted by Homeowners – Same Day Washer & Dryer Removal",
+ "h1": "Trusted by Homeowners – Washer & Dryer Removal",
  "published": "2026-07-07T00:38:21",
  "modified": "2026-07-23T05:55:25",
  "sections": [
@@ -21,7 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Trusted by Homeowners – Same Day Washer & Dryer Removal"
+     "text": "Trusted by Homeowners – Washer & Dryer Removal"
     },
     {
      "t": "h",
@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -69,13 +69,13 @@
     {
      "t": "p",
      "c": [
-      "The process is designed to be completely stress-free. We start with a free, no-obligation quote so you know exactly what to expect. Once approved, our experienced team handles everything: safely disconnecting water lines and gas hookups, carefully maneuvering appliances through tight spaces, ensuring proper disposal or recycling of all components, and leaving your laundry area clean and ready for new machines."
+      "The process is designed to be completely stress-free. We start with a free, no-obligation quote so you know exactly what to expect."
      ]
     },
     {
      "t": "p",
      "c": [
-      "What sets us apart? Speed and expertise. While wrestling with heavy washers and dryers might ruin your entire weekend, our professional crew typically completes both removals in under 90 minutes – including full cleanup."
+      "What sets us apart? Speed and expertise."
      ]
     },
     {
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "Tired of that old washer and dryer taking up valuable space? Our professional washer removal and dryer removal service starts at just {{cad_125}}, and we handle every step of the process. We’ll safely disconnect your units, protect your floors and walls during removal, and haul everything away, leaving your laundry area spotless and ready for your next upgrade."
+      "Tired of that old washer and dryer taking up valuable space? We’ll safely disconnect your units, protect your floors and walls during removal, and haul everything away, leaving your laundry area tidy and ready for your next upgrade."
      ]
     },
     {
@@ -122,7 +122,7 @@
      "c": [
       "Ready to reclaim your laundry area? ",
       {
-       "a": "/contact/",
+       "a": "tel:+16479225865",
        "c": [
         "Call us now"
        ]
@@ -137,7 +137,7 @@
        "b": [
         {
          "i": [
-          "Calls answered in 1 minute or less"
+          ""
          ]
         }
        ]
@@ -181,7 +181,7 @@
     {
      "t": "p",
      "c": [
-      "Our complete same day washer & dryer removal service includes:"
+      "Our complete same day when available washer & dryer removal service includes:"
      ]
     },
     {
@@ -195,9 +195,6 @@
       ],
       [
        "Environmentally responsible appliance recycling"
-      ],
-      [
-       "Complete air dusting of the removal area."
       ]
      ]
     },
@@ -206,7 +203,7 @@
      "c": [
       {
        "b": [
-        "We Offer Same-Day Washer and Dryer Removal"
+        "We Offer Washer and Dryer Removal"
        ]
       }
      ]
@@ -228,7 +225,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We offer same-day, next-day, and weekend appointments to fit your busy life."
+     "text": "We offer same-day when available, next-day, and weekend appointments to fit your busy life."
     },
     {
      "t": "h",
@@ -296,25 +293,25 @@
       {
        "title": "Send Us Details",
        "text": [
-        "Text or upload photos of your washer and dryer - we'll provide a free quote within minutes."
+        "{{fact:freeOnsiteEstimates}}"
        ]
       },
       {
        "title": "Get Your Price",
        "text": [
-        "Receive honest, upfront pricing with no surprise fees."
+        "Receive honest, upfront pricing."
        ]
       },
       {
        "title": "Schedule Your Pickup",
        "text": [
-        "Select same-day or next-day service that fits your schedule."
+        "Select same-day or next-day service when available that fits your schedule."
        ]
       },
       {
        "title": "We Do the Rest",
        "text": [
-        "Our team safely removes your laundry pair, air dusts the area, and hauls them away, most jobs are finished in under 2 hours."
+        ""
        ]
       }
      ]
@@ -407,7 +404,7 @@
        "q": "Do you recycle or donate old washers and dryers?",
        "a": [
         [
-         "We prioritize recycling all components and donate working units to charities. Over 90% of materials are diverted from landfills through our eco-process."
+         "We prioritize recycling all components and donate working units to charities."
         ]
        ]
       },
@@ -415,7 +412,7 @@
        "q": "Do I need to clean my washer and dryer before removal?",
        "a": [
         [
-         "Just empty them. We handle all cleaning/disinfection after removal. For washers, we recommend running a drain cycle beforehand to remove excess water."
+         "Just empty them. {{fact:cleanupScope}}. For washers, we recommend running a drain cycle beforehand to remove excess water."
         ]
        ]
       },

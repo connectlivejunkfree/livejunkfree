@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-Day Residential Junk Removal in Newmarket | Live Junk Free",
-  "description": "Quick and affordable same-day residential junk removal in Newmarket. Remove home clutter, mattresses, yard junk, and broken furniture today. Call us now.",
+  "title": "Residential Junk Removal in Newmarket | Live Junk Free",
+  "description": "Quick and affordable same-day residential junk removal in Newmarket, subject to scheduling. Remove home clutter, mattresses, yard junk, and broken furniture today. Call us now.",
   "canonical": "https://livejunkfree.ca/locations/residential-junk-removal-in-newmarket/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "residential-junk-removal-in-newmarket",
+ "title": "Residential Junk Removal in Newmarket",
  "h1": "Residential Junk Removal in Newmarket, Ontario — Nobody's Weekend Should Be a Dump Run",
  "published": "2026-07-13T10:27:00",
  "modified": "2026-07-13T10:27:00",
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national junk chains fold royalty payments into every quote — it's how franchising works. We're independent, so that markup simply doesn't exist here. Newmarket homeowners typically pay 30–50% less with us for the identical result."
+     "text": "The national junk chains fold royalty payments into every quote — it's how franchising works. We're independent, so that markup simply doesn't exist here."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Loads start at {{cad_125}} on the small end and grow only with volume — never with hours, stairs or heavy items. Every price is delivered face-to-face at your door before a finger is lifted, so the receipt at the end matches the quote at the start to the dollar. Book your free Newmarket estimate and judge the number for yourself."
+     "text": "Loads start at {{min_price:C}} on the small end and grow only with volume — never with hours, stairs or heavy items. Every price is delivered face-to-face at your door before a finger is lifted, so the receipt at the end matches the quote at the start to the dollar. Book your free Newmarket estimate and judge the number for yourself."
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Claim a Time Slot",
        "text": [
-        "Two minutes on the phone (+1 647 922 5865) or online and you're booked. Newmarket crews run seven days a week, 6AM to 11PM, same-day slots included, and you'll get a text 30 minutes before the truck turns onto your street."
+        "Two minutes on the phone (+1 647 922 5865) or online and you're booked."
        ]
       },
       {
        "title": "2. Show and Tell",
        "text": [
-        "Lead the crew around — basement, garage, backyard, wherever. Everything you point at goes into one flat, all-inclusive quote, handed over on the spot with no strings."
+        "Lead the crew around — basement, garage, backyard, wherever. Everything you point at goes into one flat, quote, handed over on the spot with no strings."
        ]
       },
       {
@@ -489,7 +489,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -519,7 +519,7 @@
        "q": "Q: How much will my junk cost to remove in Newmarket?",
        "a": [
         [
-         "A: Exactly as much truck space as it occupies — that’s the only input. Small loads start at $125, single items sit at the bottom of the scale, and the precise figure arrives free at your door before anything is touched. Stairs, weight and awkwardness are included, not extra."
+         "A: Exactly as much truck space as it occupies — that’s the only input. Small loads start at {{min_price:C}}, single items sit at the bottom of the scale, and the precise figure arrives free at your door before anything is touched. Stairs, weight and awkwardness are included, not extra."
         ]
        ]
       },
@@ -527,7 +527,7 @@
        "q": "Q: Is same-day pickup actually realistic?",
        "a": [
         [
-         "A: Most days, yes. Crews cover Newmarket seven days a week from 6AM to 11PM, and morning calls frequently become afternoon pickups. Ring +1 647 922 5865 and you’ll get a truthful answer about today, not a “we’ll see.”"
+         "A: Most days, yes. Ring +1 647 922 5865 and you’ll get a truthful answer about today, not a “we’ll see.”"
         ]
        ]
       },
@@ -543,7 +543,7 @@
        "q": "Q: Is a single couch or mattress too small a job?",
        "a": [
         [
-         "A: Not at all — small jobs are half our schedule. One item is priced as the tiny load it is, with no minimum charge propping it up. If it’s worth removing to you, it’s worth the trip to us."
+         "A: Not at all — small jobs are half our schedule. If it’s worth removing to you, it’s worth the trip to us."
         ]
        ]
       },

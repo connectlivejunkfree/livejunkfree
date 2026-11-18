@@ -6,7 +6,7 @@
  "template": "ItemRemoval",
  "seo": {
   "title": "Couch Removal Services - Live JunkFree",
-  "description": "Need couch removal services in Toronto & GTA? We pick up any couch same day — any floor, any size, from $125. Fully insured, no hidden fees. Call +1 647 922 5865 for a free quote!",
+  "description": "Need couch removal services in Toronto & GTA? We pick up any couch same day — any floor, any size, from {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), subject to scheduling. Fully insured. Call +1 647 922 5865 for a free quote!",
   "canonical": "https://livejunkfree.ca/services/residential-junk-removal-services/couch-removal-services/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/couch-removal-services_before.jfif_202607151247.jpeg"
@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -121,7 +121,7 @@
     {
      "t": "p",
      "c": [
-      "Professional couch removal starting at just {{cad_125}} — all-in pricing, no hidden fees."
+      "Professional couch removal starting at just {{min_price:C}} for a 1/16 Junk Load (1 cubic yard) — upfront pricing."
      ]
     },
     {
@@ -134,7 +134,7 @@
        "Full cleanup included — we leave your space neat and clutter-free"
       ],
       [
-       "Calls answered within 60 seconds, every time"
+       "Easy Booking by Phone or Online"
       ]
      ]
     },
@@ -192,7 +192,7 @@
        "Disassembly of oversized or mechanical couches when required"
       ],
       [
-       "Careful extraction using floor and wall protection"
+       "{{fact:propertyProtection}}"
       ],
       [
        "Responsible disposal through recycling centers or donation partners"
@@ -228,21 +228,21 @@
        ]
       },
       {
-       "title": "The Price You're Quoted Is the Price You Pay — Period",
+       "title": "{{fact:competitorComparison}}",
        "text": [
-        "Hidden fees at the end of a job are a frustrating industry norm we’ve chosen to reject entirely. Before we move a single item, you’ll have a firm, written quote covering labor, hauling, disassembly if needed, and full disposal. When we wrap up the job, that same number appears on your invoice. No surprises, no pressure to add on, no awkward conversations at the door."
+        "Hidden fees at the end of a job are a frustrating industry norm we’ve chosen to reject entirely. {{fact:taxNote}}. {{fact:pricingIntro.extra}} When we wrap up the job, that same number appears on your invoice. No surprises, no pressure to add on, no awkward conversations at the door."
        ]
       },
       {
        "title": "We Treat Your Home Like It's Our Own",
        "text": [
-        "Our crew arrives in uniform, removes shoes or wears boot covers inside your home, and uses protective padding on walls, floors, and door frames before anything is moved. We maneuver carefully through every space — no rushing, no scraping, no shortcuts. When we leave, the only difference you’ll notice is the open space where your old couch used to be."
+        "{{fact:propertyProtection}}. We maneuver carefully through every space — no rushing, no scraping, no shortcuts. When we leave, the only difference you’ll notice is the open space where your old couch used to be."
        ]
       },
       {
        "title": "We Take Eco-Friendly Disposal Seriously — Not Just Symbolically",
        "text": [
-        "A lot of companies claim to be eco-friendly while hauling everything straight to the nearest landfill. We don’t. Every item we collect is assessed for donation potential, material recyclability, and reuse opportunities before disposal is even considered. Over 90% of what we remove is diverted from landfill through active recycling partnerships and furniture donation programs with local shelters and community organizations."
+        "A lot of companies claim to be eco-friendly while hauling everything straight to the nearest landfill. We don’t. Every item we collect is assessed for donation potential, material recyclability, and reuse opportunities before disposal is even considered."
        ]
       },
       {
@@ -254,7 +254,7 @@
       {
        "title": "Real People Answer Your Call — Not a Bot, Not a Voicemail",
        "text": [
-        "From your first call to job completion, you’ll deal with real, knowledgeable people who can actually answer your questions, give you an accurate quote, and get you booked immediately. No automated phone trees, no 48-hour email turnarounds, no being bounced between departments. We pick up within 60 seconds and we handle everything from there — because that’s what good service looks like."
+        "From your first call to job completion, you’ll deal with real, knowledgeable people who can actually answer your questions, give you an accurate quote, and get you booked immediately. No automated phone trees, no 48-hour email turnarounds, no being bounced between departments."
        ]
       }
      ]
@@ -266,12 +266,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Simple, Honest Pricing — Starting at {{cad_125}}"
+     "text": "Simple, Honest Pricing — Starting at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard)"
     },
     {
      "t": "h",
      "l": 3,
-     "text": "Single Item Removal Starting at {{cad_125}}"
+     "text": "Single Item Removal Starting at {{min_price:C}}"
     },
     {
      "t": "p",
@@ -286,7 +286,7 @@
        "Disassembly if required"
       ],
       [
-       "Floor & wall protection"
+       "{{fact:propertyProtection}}"
       ],
       [
        "Post-removal area cleanup"
@@ -304,7 +304,7 @@
     {
      "t": "p",
      "c": [
-      "Removing a couch and a few other items? Bundle them together for a better rate on the whole job."
+      "Removing a couch and a few other items?"
      ]
     },
     {
@@ -412,21 +412,21 @@
        ]
       },
       {
-       "title": "Receive a Clear, All-In Quote",
+       "title": "Receive a Clear, upfront Quote",
        "text": [
-        "No \"we'll let you know when we get there.\" You'll have a firm price in writing before we book anything. Labor, hauling, and disposal — all included. Nothing added at the door."
+        "No \"we'll let you know when we get there.\" You'll have a firm price in writing before we book anything. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
        ]
       },
       {
        "title": "Choose a Time That Works for You",
        "text": [
-        "Pick same-day, next morning, or any time that suits your schedule — including weekends. We work around your life, not the other way around."
+        "Pick same-day, next morning, or any time that suits your schedule — including weekends, subject to scheduling. We work around your life, not the other way around."
        ]
       },
       {
        "title": "We Arrive, We Remove, We Clean Up",
        "text": [
-        "Our crew shows up on time, handles every inch of the job — disassembly if needed, careful extraction, full cleanup — and hauls your couch away for responsible disposal. Most jobs are wrapped up in under an hour."
+        "Our crew shows up on time, handles every inch of the job — disassembly if needed, careful extraction, full cleanup — and hauls your couch away for responsible disposal."
        ]
       }
      ]
@@ -495,7 +495,7 @@
        "q": "Do you take other items too?",
        "a": [
         [
-         "Yes! Ask about bundle deals for TVs, tables, and other junk."
+         "Yes!"
         ]
        ]
       },

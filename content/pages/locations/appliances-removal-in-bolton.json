@@ -5,14 +5,14 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-day Appliance Removal in Bolton for All Properties",
-  "description": "Same-day appliances removal in Bolton for homes and offices. Safe, eco-friendly, bulky item and electronics removal. Schedule your pickup today!",
+  "title": "Appliance Removal in Bolton for All Properties",
+  "description": "Same-day appliances removal in Bolton for homes and offices, subject to scheduling. Safe, eco-friendly, bulky item and electronics removal. Schedule your pickup today!",
   "canonical": "https://livejunkfree.ca/locations/appliances-removal-in-bolton/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "appliances-removal-in-bolton",
- "h1": "Appliance Removal Services in Bolton, Ontario — Heavy Appliances Gone the Same Day",
+ "title": "Appliances Removal in Bolton",
+ "h1": "Appliance Removal Services in Bolton, Ontario — Heavy Appliances Gone",
  "published": "2026-07-13T02:38:01",
  "modified": "2026-07-13T02:38:01",
  "sections": [
@@ -27,7 +27,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Appliance Removal Services in Bolton, Ontario — Heavy Appliances Gone the Same Day"
+     "text": "Appliance Removal Services in Bolton, Ontario — Heavy Appliances Gone"
     },
     {
      "t": "p",
@@ -94,14 +94,14 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Live Junk Free is a locally owned, fully insured junk removal team that has built its reputation across Bolton and the Town of Caledon one pickup at a time — with over 660 five-star Google reviews from real customers, and a crew trained to move heavy appliances through tight hallways, basement stairs and doorframes without leaving a mark on your home."
+     "text": "Live Junk Free is a locally owned, fully insured junk removal team that has built its reputation across Bolton and the Town of Caledon one pickup at a time — with Google reviews from real customers, and a crew trained to move heavy appliances through tight hallways, basement stairs and doorframes on your home."
     },
     {
      "t": "steps",
      "items": [
       {
        "n": "01",
-       "title": "You pay for the space your appliances take up — nothing more",
+       "title": "You pay for the space your appliances take up",
        "text": []
       }
      ]
@@ -131,7 +131,7 @@
      "items": [
       {
        "n": "03",
-       "title": "One flat all-inclusive number — labour, truck, fuel, disposal",
+       "title": "One flat number — labour, truck, fuel, disposal",
        "text": []
       }
      ]
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Whether it's an old chest freezer in a North Hill basement or a full appliance swap-out in a new South Hill build — your quote covers labour, truck, fuel and disposal in one number. Nothing is added afterward, no matter how heavy the item or how tricky the stairs."
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Nothing is added afterward, no matter how heavy the item or how tricky the stairs."
     },
     {
      "t": "steps",
@@ -154,7 +154,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Fridges and washers aren't just heavy — they're awkward, and one wrong move can gouge a floor or dent a wall. Our Bolton crew uses dollies, straps and floor protection, disconnects standard hookups, and navigates tight staircases and doorways carefully, so the appliance leaves and your home stays exactly as it was."
+     "text": "Fridges and washers aren't just heavy — they're awkward, and one wrong move can gouge a floor or dent a wall. {{fact:propertyProtection}}."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "30–50% less than national franchise competitors",
+       "title": "",
        "text": []
       }
      ]
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Our pricing model at Live Junk Free has been the same since day one: fair, volume-based and completely transparent. Prices start as low as {{cad_125}} for small loads — a single appliance costs a fraction of a full load, exactly as it should. Book your free Bolton appliance removal estimate today — fair, volume-based pricing every time."
+     "text": "Our pricing model at Live Junk Free has been the same since day one: fair, volume-based and completely transparent. Book your free Bolton appliance removal estimate today — fair, volume-based pricing every time."
     },
     {
      "t": "cards",
@@ -246,7 +246,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The reason most homeowners in Bolton keep a dead fridge in the garage for years isn't that they want it there — it's that getting rid of it is a hassle. It's too heavy to move, it won't fit in a car, and the curb won't take it. Our entire same-day appliance removal process in Bolton, Ontario is built to solve exactly that. Here's how simple it actually is — 4 steps, start to finish:"
+     "text": "The reason most homeowners in Bolton keep a dead fridge in the garage for years isn't that they want it there — it's that getting rid of it is a hassle. It's too heavy to move, it won't fit in a car, and the curb won't take it. Our entire same-day appliance removal process in Bolton, Ontario is built to solve exactly that, subject to scheduling. Here's how simple it actually is — 4 steps, start to finish:"
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Book Quickly, Get Confirmed Instantly",
        "text": [
-        "Call +1 647 922 5865 or use our online booking form to schedule your Bolton appliance pickup in minutes. We offer same-day and next-day appointments with a 30-minute arrival notice, so you're never left waiting around."
+        "Call +1 647 922 5865 or use our online booking form to schedule your Bolton appliance pickup in minutes. We offer same-day and next-day appointments with a 30-minute arrival notice, so you're never left waiting around, subject to scheduling."
        ]
       },
       {
        "title": "2. We Arrive, Assess, and Quote",
        "text": [
-        "Our professional crew arrives on time, checks the appliance and its route out of your home, and provides a clear, all-inclusive quote before any work begins. There is no obligation to proceed and no hidden fees."
+        "Our professional crew arrives on time, checks the appliance and its route out of your home, and provides a clear, quote before any work begins."
        ]
       },
       {
@@ -272,7 +272,7 @@
       {
        "title": "4. Clean-Up & Responsible Recycling",
        "text": [
-        "After loading, we tidy the area and haul everything to the right destination. Appliances are among the most recyclable items we collect — metals are recovered, refrigerants are handled properly, and working units are donated whenever possible."
+        "After loading, we tidy the area and haul everything to the right destination."
        ]
       }
      ]
@@ -289,7 +289,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Bolton is the heart of the Town of Caledon — a community where established family neighbourhoods on North Hill and South Hill surround a historic downtown core along Queen Street, with newer subdivisions, rural properties and the Highway 50 commercial corridor all within minutes of each other. Every one of those properties eventually needs a cleanout — and Live Junk Free is built to handle every type, from a single basement to a complete estate, with the same professional standard, transparent pricing and same-day speed every time."
+     "text": "Bolton is the heart of the Town of Caledon — a community where established family neighbourhoods on North Hill and South Hill surround a historic downtown core along Queen Street, with newer subdivisions, rural properties and the Highway 50 commercial corridor all within minutes of each other. Every one of those properties eventually needs a cleanout — and Live Junk Free is built to handle every type, from a single basement to a complete estate, with the same professional standard, transparent pricing and same-day speed every time, subject to scheduling."
     },
     {
      "t": "faq",
@@ -480,7 +480,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -510,7 +510,7 @@
        "q": "Q: How much does appliance removal cost in Bolton, Ontario?",
        "a": [
         [
-         "A: Our Bolton appliance removal pricing is 100% volume-based — you pay based on how much space your items fill in our truck, not by the hour. Prices start at $125 for small loads and single appliances. We provide a free on-site estimate before any work begins. The price you approve is the price you pay — fair, flat and final."
+         "A: Our Bolton appliance removal pricing is 100% volume-based — you pay based on how much space your items fill in our truck, not by the hour. We provide a free on-site estimate before any work begins.. — fair, flat and final."
         ]
        ]
       },
@@ -518,7 +518,7 @@
        "q": "Q: Do you offer same-day appliance removal in Bolton?",
        "a": [
         [
-         "A: Yes — same-day pickups are available across all of Bolton including North Hill, South Hill, the downtown core and surrounding Caledon communities like Palgrave, Caledon East and Nobleton. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+         "A: Yes — same-day pickups are available across all of Bolton including North Hill, South Hill, the downtown core and surrounding Caledon communities like Palgrave, Caledon East and Nobleton. Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },
@@ -526,15 +526,7 @@
        "q": "Q: Will you remove appliances from basements and upstairs laundry rooms?",
        "a": [
         [
-         "A: Yes — we remove appliances from exactly where they sit, including basements, upstairs laundry closets, garages and tight utility rooms. Our crew uses dollies, straps and floor protection to navigate stairs and doorways safely, so your home stays untouched."
-        ]
-       ]
-      },
-      {
-       "q": "Q: Do I need to disconnect the appliance before you arrive?",
-       "a": [
-        [
-         "A: Standard plug-in and water hookups (washers, dishwashers, fridges with water lines) we can disconnect on the spot. Gas appliances and hardwired units must be professionally disconnected by a licensed technician before removal — we’ll confirm this when you book so there are no surprises."
+         "A: Yes — we remove appliances from exactly where they sit, including basements, upstairs laundry closets, garages and tight utility rooms. {{fact:propertyProtection}}."
         ]
        ]
       },

@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-day Junk Cleanout Services in Whitchurch-Stouffville | Live Junk Free",
+  "title": "Junk Cleanout Services in Whitchurch-Stouffville | Live Junk Free",
   "description": "Whitchurch-Stouffville junk cleanout services by Live Junk Free include garage cleanups, attic junk removal, appliance disposal, and estate cleanouts. Same-day available—call now!",
   "canonical": "https://livejunkfree.ca/locations/junk-cleanout-services-in-whitchurch-stouffville/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "junk-cleanout-services-in-whitchurch-stouffville",
+ "title": "Junk Cleanout Services in Whitchurch-Stouffville",
  "h1": "Junk Cleanout Services in Whitchurch-Stouffville, Ontario — For a Town People Move to When They're Ready to Simplify",
  "published": "2026-07-16T02:34:14",
  "modified": "2026-07-16T02:31:55",
@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Whitchurch-Stouffville is where a lot of lives get edited. Couples trade big-city houses for Ballantrae bungalows and have to shed a floor’s worth on the way. Families settle into Stouffville and finally sort what three moves accumulated. Rural properties toward Musselman’s Lake and Vandorf change hands with decades still in the sheds. Editing is exactly our trade: one free walkthrough, one flat all-inclusive quote, and a fully insured crew that clears the space — sorted, hauled and swept — usually in a single visit."
+      "Whitchurch-Stouffville is where a lot of lives get edited. Couples trade big-city houses for Ballantrae bungalows and have to shed a floor’s worth on the way. Families settle into Stouffville and finally sort what three moves accumulated. Rural properties toward Musselman’s Lake and Vandorf change hands with decades still in the sheds. Editing is exactly our trade: one free walkthrough, one flat quote, and a fully insured crew that clears the space — sorted, hauled and swept — usually in a single visit."
      ]
     },
     {
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "This is two communities sharing a hyphen: the fast-grown town along Main Street and the new subdivisions around it, and the country half — Ballantrae, Musselman's Lake, Vandorf, Gormley, Bloomington — where properties come with acreage and outbuildings. Live Junk Free serves both sides at the same flat rates — 660+ five-star Google reviews earned on bungalow downsizings and barn-deep clears alike."
+     "text": "This is two communities sharing a hyphen: the fast-grown town along Main Street and the new subdivisions around it, and the country half — Ballantrae, Musselman's Lake, Vandorf, Gormley, Bloomington — where properties come with acreage and outbuildings."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent pricing runs 30–50% under the franchises",
+       "title": "{{fact:competitorComparison}}",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national cleanout chains price royalty fees into every quote. We carry none — locally owned, volume-priced, and consistently 30–50% below the big names on identical Whitchurch-Stouffville work."
+     "text": "The national cleanout chains price royalty fees into every quote."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small cleanouts start at {{cad_125}} — a locker, a shed, one overloaded closet. Garages and basements land mid-range. Whole homes, downsizing clears and rural properties resolve to one locked, all-inclusive figure at the free walkthrough — however many truckloads, however long the laneway. The number quoted is the number paid."
+     "text": "Garages and basements land mid-range. Whole homes, downsizing clears and rural properties resolve to one locked, figure at the free walkthrough — however many truckloads, however long the laneway. The number quoted is the number paid."
     },
     {
      "t": "cards",
@@ -254,7 +254,7 @@
       {
        "title": "1. Book the Walkthrough",
        "text": [
-        "Call +1 647 922 5865 or book online in minutes. Crews cover the whole town — urban and rural — seven days a week, 6AM to 11PM, with same-day slots and a 30-minute arrival text."
+        "Call +1 647 922 5865 or book online in minutes."
        ]
       },
       {
@@ -474,7 +474,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -504,7 +504,7 @@
        "q": "Q: What do cleanout services cost in Whitchurch-Stouffville?",
        "a": [
         [
-         "A: Volume sets it — small jobs from $125, garages and basements mid-range, whole homes and rural properties as one flat multi-load figure at the free walkthrough. Approved prices are final, and neither the country roads nor the hours worked can move them."
+         "Approved prices are final, and neither the country roads nor the hours worked can move them."
         ]
        ]
       },

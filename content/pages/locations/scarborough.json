@@ -5,8 +5,8 @@
  "type": "location-town",
  "template": "TownHub",
  "seo": {
-  "title": "Junk Removal Scarborough | Same-Day Junk Removal Services | Live Junk Free",
-  "description": "Need junk removal in Scarborough? Live Junk Free offers same-day junk pickup, furniture removal, cleanouts, and debris removal. Get a free estimate today.",
+  "title": "Junk Removal Scarborough | Junk Removal Services | Live Junk Free",
+  "description": "Need junk removal in Scarborough? Live Junk Free offers same-day junk pickup when available, furniture removal, cleanouts, and debris removal. Get a free estimate today.",
   "canonical": "https://livejunkfree.ca/locations/scarborough/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
  },
@@ -46,7 +46,7 @@
         "Live Junk Free"
        ]
       },
-      " is Scarborough’s trusted same-day junk removal team — locally operated, fully insured and built to serve every corner of this district without exception. We come to your Scarborough property, assess everything in person, give you a completely free on-site estimate before touching a single item, and if you’re happy with it, your junk is cleared the same day. No delays, no inflated pricing, no crews that treat Scarborough like a second-tier job."
+      " is Scarborough’s trusted same-day junk removal when available team — locally operated, fully insured and built to serve every corner of this district without exception. We come to your Scarborough property, assess everything in person, give you a completely free on-site estimate before touching a single item, and if you’re happy with it, your junk is cleared the same day. No delays, no inflated pricing, no crews that treat Scarborough like a second-tier job."
      ]
     },
     {
@@ -108,7 +108,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Live Junk Free has worked across every corner of Scarborough because we don't cherry-pick jobs, don't apply GTA premiums, and don't treat any Scarborough neighbourhood as less worthy of our best work than anywhere else. Whether you're in a Birchcliff bungalow backing onto the bluffs or a Malvern high-rise on the eastern edge of the city — you get the same professional crew, the same transparent pricing and the same same-day reliability."
+     "text": "Live Junk Free has worked across every corner of Scarborough because we don't cherry-pick jobs, don't apply GTA premiums, and don't treat any Scarborough neighbourhood as less worthy of our best work than anywhere else. Whether you're in a Birchcliff bungalow backing onto the bluffs or a Malvern high-rise on the eastern edge of the city — you get the same professional crew, the same transparent pricing and the same same-day reliability, subject to scheduling."
     },
     {
      "t": "steps",
@@ -145,7 +145,7 @@
      "items": [
       {
        "n": "03",
-       "title": "One flat all-inclusive number — labour, truck, fuel, disposal",
+       "title": "One flat number — labour, truck, fuel, disposal",
        "text": []
       }
      ]
@@ -153,7 +153,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Everything in one number. No fuel surcharge added at checkout because you're in the east end. No disposal fee discovered at the end. One quote. Complete. Final."
+     "text": "Everything in one number. No disposal fee discovered at the end. One quote. Complete. Final."
     },
     {
      "t": "steps",
@@ -183,14 +183,14 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Once you've seen and approved the quote, it is locked. It does not increase because the job took longer. It does not grow because we found more items than expected. You approved it. That's what you pay. Full stop."
+     "text": "It does not increase because the job took longer. It does not grow because we found more items than expected. You approved it. Full stop."
     },
     {
      "t": "steps",
      "items": [
       {
        "n": "06",
-       "title": "30–50% less than franchise competitors",
+       "title": "",
        "text": []
       }
      ]
@@ -217,7 +217,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Our pricing model is built to work fairly for every single one of them. Not just for the large jobs. Not just for the easy pickups. For every Scarborough resident and every Scarborough business, every time. Prices start as low as {{cad_125}} for small loads. Book your free Scarborough junk removal estimate today — fair, volume-based and built for this community."
+     "text": "Our pricing model is built to work fairly for every single one of them. Not just for the large jobs. Not just for the easy pickups. For every Scarborough resident and every Scarborough business, every time. Prices start as low as {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). Book your free Scarborough junk removal estimate today — fair, volume-based and built for this community."
     },
     {
      "t": "cards",
@@ -260,7 +260,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The most straightforward junk removal process in Scarborough — and possibly the entire GTA. You show us what needs to go. We handle every single thing that comes after. Here's our complete 4-step same-day junk removal process in Scarborough, Ontario — from your first call to a completely cleared space:"
+     "text": "The most straightforward junk removal process in Scarborough — and possibly the entire GTA. You show us what needs to go. We handle every single thing that comes after. Here's our complete 4-step same-day junk removal when available process in Scarborough, Ontario — from your first call to a completely cleared space:"
     },
     {
      "t": "cards",
@@ -268,13 +268,13 @@
       {
        "title": "Book Your Scarborough Junk Removal",
        "text": [
-        "Call +1 647 922 5865 or book online in minutes. We offer same-day and next-day service across Scarborough, including condos and high-rise buildings, with a 30-minute arrival notice before we arrive."
+        "Call +1 647 922 5865 or book online in minutes. We offer same-day and next-day service across Scarborough, including condos and high-rise buildings, with a 30-minute arrival notice before we arrive, subject to scheduling."
        ]
       },
       {
        "title": "On-Site Assessment and Upfront Quote",
        "text": [
-        "Our professional crew arrives on time, reviews everything you want removed, and provides a clear, all-inclusive quote. There are no hidden fees, no obligations, and no pressure to proceed."
+        "Our professional crew arrives on time, reviews everything you want removed, and provides a clear, quote."
        ]
       },
       {
@@ -303,7 +303,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Scarborough is a district of extraordinary diversity — in its people, its neighbourhoods and its property types. Post-war bungalows, high-rise condos, suburban detached homes, active construction sites, thriving commercial plazas, industrial units along Ellesmere and Markham Road — and everything in between. Live Junk Free is built to handle every single one of these property types across the entire district, with professional service, fair volume-based pricing and same-day speed, every time."
+     "text": "Scarborough is a district of extraordinary diversity — in its people, its neighbourhoods and its property types. Post-war bungalows, high-rise condos, suburban detached homes, active construction sites, thriving commercial plazas, industrial units along Ellesmere and Markham Road — and everything in between. Live Junk Free is built to handle every single one of these property types across the entire district, with professional service, fair volume-based pricing and same-day speed, every time, subject to scheduling."
     },
     {
      "t": "faq",
@@ -599,7 +599,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -629,7 +629,7 @@
        "q": "Q: How much does junk removal cost in Scarborough, Ontario?",
        "a": [
         [
-         "A: Our Scarborough junk removal pricing is volume-based — you pay based on how much truck space your items fill, not by the hour. Prices start at $125 for small loads. We provide a free on-site estimate before any work starts. The price you approve is the price you pay — no GTA premiums, no east end surcharges, no hidden fees."
+         "A: Our Scarborough junk removal pricing is volume-based — you pay based on how much truck space your items fill, not by the hour. Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard)."
         ]
        ]
       },
@@ -637,7 +637,7 @@
        "q": "Q: Do you offer same-day junk removal in Scarborough?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of Scarborough including Agincourt, Malvern, Wexford, Birchcliff, West Hill, Guildwood, Rouge and every neighbourhood across the district. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+         "A: Yes — same-day junk removal is available across all of Scarborough including Agincourt, Malvern, Wexford, Birchcliff, West Hill, Guildwood, Rouge and every neighbourhood across the district. Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },
@@ -645,7 +645,7 @@
        "q": "Q: Do you handle condo and apartment junk removal in Scarborough?",
        "a": [
         [
-         "A: Yes — condo and apartment junk removal is one of our most requested services across Scarborough’s high-rise communities in Malvern, Agincourt and the Scarborough Town Centre area. We handle elevator booking and building access coordination as part of our standard service at no extra charge."
+         "A: Yes — condo and apartment junk removal is one of our most requested services across Scarborough’s high-rise communities in Malvern, Agincourt and the Scarborough Town Centre area. {{fact:pricingIntro.extra}}"
         ]
        ]
       },
@@ -669,7 +669,7 @@
        "q": "Q: Are you a local company or a national franchise?",
        "a": [
         [
-         "A: We are 100% locally owned and operated — not a franchise. No franchise royalties means our Scarborough pricing is consistently 30–50% lower than national junk removal chains — affordable pricing for every Scarborough resident and business."
+         "A: We are 100% locally owned and operated — not a franchise."
         ]
        ]
       },

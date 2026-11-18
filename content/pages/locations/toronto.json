@@ -6,7 +6,7 @@
  "template": "TownHub",
  "seo": {
   "title": "Junk Removal Toronto | Fast & Eco-Friendly – Live Junk Free",
-  "description": "Need junk removal Toronto same day? We show up on time, quote upfront & haul everything away responsibly. Book Live Junk Free in 60 seconds.",
+  "description": "Need junk removal Toronto same day, subject to scheduling? We show up on time, quote upfront & haul everything away responsibly. Book Live Junk Free.",
   "canonical": "https://livejunkfree.ca/locations/toronto/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Bolton-1.png"
@@ -47,7 +47,7 @@
     {
      "t": "p",
      "c": [
-      "We serve every corner of Toronto — from the Annex and Roncesvalles to Scarborough and Agincourt, from North York and York to Etobicoke and East York, from downtown condos on King Street to detached homes in Willowdale. Our same-day junk removal service in Toronto, Ontario runs 7 days a week, 6AM to 11PM. Call or book online — the city never stops, and neither do we."
+      "We serve every corner of Toronto — from the Annex and Roncesvalles to Scarborough and Agincourt, from North York and York to Etobicoke and East York, from downtown condos on King Street to detached homes in Willowdale. Call or book online — the city never stops, and neither do we."
      ]
     },
     {
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "No phone estimates that triple when the truck shows up. No online calculators that miss half the items. We physically walk your Toronto property, assess the full scope, and give you an accurate all-inclusive quote on the spot."
+     "text": "No phone estimates that triple when the truck shows up. No online calculators that miss half the items. We physically walk your Toronto property, assess the full scope, and give you an accurate quote on the spot."
     },
     {
      "t": "steps",
@@ -191,7 +191,7 @@
      "items": [
       {
        "n": "06",
-       "title": "30–50% less than Toronto's franchise competitors.",
+       "title": ".",
        "text": []
       }
      ]
@@ -261,21 +261,21 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Toronto is the most efficient, fast-moving city in Canada — and your junk removal experience should match that energy. No complicated booking systems. No unclear processes. No wondering what happens next. Here's our entire same-day junk removal process in Toronto, Ontario — 4 steps, start to finish, nothing hidden:"
+     "text": "No complicated booking systems. No unclear processes. No wondering what happens next. Here's our entire same-day junk removal when available process in Toronto, Ontario — 4 steps, start to finish, nothing hidden:"
     },
     {
      "t": "cards",
      "items": [
       {
-       "title": "Book in Under 2 Minutes, Get a Same-Day Slot",
+       "title": "Book, Get a Slot",
        "text": [
-        "Call +1 647 922 5865 or book online. Tell us your Toronto neighbourhood and what you need removed. Whether you're in Leslieville, Leaside, Parkdale, Danforth, Forest Hill, Scarborough, North York, York, East York, Etobicoke, Midtown, Downtown or anywhere across the city — we confirm your same-day or next-day time window immediately. For condo buildings, we ask for your building management contact and handle all coordination ourselves. You get a 30-minute heads-up call before we arrive so your schedule stays on track."
+        "Call +1 647 922 5865 or book online. Tell us your Toronto neighbourhood and what you need removed. Whether you're in Leslieville, Leaside, Parkdale, Danforth, Forest Hill, Scarborough, North York, York, East York, Etobicoke, Midtown, Downtown or anywhere across the city — we confirm your same-day or next-day time window immediately, subject to scheduling. For condo buildings, we ask for your building management contact and handle all coordination ourselves. You get a 30-minute heads-up call before we arrive so your schedule stays on track."
        ]
       },
       {
        "title": "Free On-Site Estimate, No Pressure, No Obligation",
        "text": [
-        "Our uniformed, professional Toronto junk removal crew arrives precisely on time — every time. We walk your entire property with you. Every room. Every floor. The garage, basement, backyard, storage locker, restaurant back-of-house, office floor, warehouse — wherever your junk is, we see it all before we quote it. For high-rise condos and office buildings in downtown Toronto, Midtown, Yonge & Eglinton or the Financial District, we handle elevator booking and loading dock coordination as part of the assessment. We give you one clear, all-inclusive flat-rate quote on the spot. Zero obligation to proceed."
+        "Our uniformed, professional Toronto junk removal crew arrives precisely on time — every time. We walk your entire property with you. Every room. Every floor. The garage, basement, backyard, storage locker, restaurant back-of-house, office floor, warehouse — wherever your junk is, we see it all before we quote it. For high-rise condos and office buildings in downtown Toronto, Midtown, Yonge & Eglinton or the Financial District, we handle elevator booking and loading dock coordination as part of the assessment. We give you one clear, flat-rate quote on the spot. Zero obligation to proceed."
        ]
       },
       {
@@ -287,7 +287,7 @@
       {
        "title": "Gone, Swept, Done. Toronto Moves On.",
        "text": [
-        "Final walkthrough, sweep up, nothing left behind. Your space is clean. Your junk is sorted responsibly — usable items go to Toronto community organisations and donation centres, recyclables go to certified facilities, and only what genuinely can't be saved goes to landfill. We divert as much as possible from Toronto's waste stream because this is our city and we take that seriously."
+        "Final walkthrough, sweep up, nothing left behind. Your space is clean. Your junk is sorted responsibly — usable items go to Toronto community organisations and donation centres, recyclables go to recycling facilities, and only what genuinely can't be saved goes to landfill. We divert as much as possible from Toronto's waste stream because this is our city and we take that seriously."
        ]
       }
      ]
@@ -452,7 +452,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -482,7 +482,7 @@
        "q": "Q: How much does junk removal cost in Toronto, Ontario?",
        "a": [
         [
-         "A: Our Toronto junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour. There are no Toronto premiums, no GTA surcharges, no hidden fees. Prices start at $125 for small loads. We provide a completely free on-site estimate before any work begins — the price you approve is the price you pay. Full stop."
+         "A: Our Toronto junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour. Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). We provide a completely free on-site estimate before any work begins. Full stop."
         ]
        ]
       },
@@ -490,7 +490,7 @@
        "q": "Q: Do you offer same-day junk removal in Toronto?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of Toronto, including downtown, North York, Scarborough, East York, Etobicoke, Midtown and every neighbourhood in between. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 for same-day availability."
+         "A: Yes — same-day junk removal is available across all of Toronto, including downtown, North York, Scarborough, East York, Etobicoke, Midtown and every neighbourhood in between. Call +1 647 922 5865 for same-day availability."
         ]
        ]
       },

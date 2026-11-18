@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -69,13 +69,13 @@
     {
      "t": "p",
      "c": [
-      "Getting started is simple with our free, no-obligation quote. Once approved, our experienced crew arrives at your scheduled time to quickly remove all unwanted pallets, shipping materials, and related debris. Most standard pallet removal jobs are completed in under an hour, leaving your space clean and clutter-free."
+      "Getting started is simple with our free, no-obligation quote. Once approved, our experienced crew arrives at your scheduled time to quickly remove all unwanted pallets, shipping materials, and related debris."
      ]
     },
     {
      "t": "p",
      "c": [
-      "We prioritize environmentally responsible disposal, ensuring all wood pallets are properly recycled at certified facilities. Our team takes care to protect your property during removal and leaves your space broom-clean when finished."
+      "We prioritize environmentally responsible disposal, ensuring all wood pallets are properly recycled at recycling facilities. Our team takes care to protect your property during removal and leaves your space broom-clean when finished."
      ]
     },
     {
@@ -91,7 +91,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
-      "alt": "DSC08963",
+      "alt": "Pallet Removal: Live Junk Free job photo",
       "width": 800,
       "height": 534
      }
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "Whether you’re clearing a few pallets from your warehouse or cleaning up after a large shipment, our pallet removal service offers transparent pricing with no hidden fees. We handle all types of pallets, wood, plastic, and metal, with equal care and efficiency."
+      "We handle all types of pallets, wood, plastic, and metal, with equal care and efficiency."
      ]
     },
     {
@@ -130,7 +130,7 @@
        "b": [
         {
          "i": [
-          "We answer calls in 1 minute."
+          "Easy Booking by Phone or Online"
          ]
         }
        ]
@@ -149,7 +149,7 @@
     {
      "t": "p",
      "c": [
-      "Got stacks of pallets taking up valuable space? Cleaning up after a shipment? Preparing your warehouse for inventory? Our same-day pallet removal service handles it quickly, no waiting, no hassle."
+      "Got stacks of pallets taking up valuable space? Cleaning up after a shipment? Preparing your warehouse for inventory? Our same-day pallet removal service handles it quickly, no waiting, no hassle, subject to scheduling."
      ]
     },
     {
@@ -174,7 +174,7 @@
        "Handling of single pallets to massive stacks"
       ],
       [
-       "Eco-friendly recycling at certified facilities"
+       "Eco-friendly recycling at recycling facilities"
       ]
      ]
     }
@@ -193,11 +193,11 @@
       {
        "title": "Work Around Your Operations",
        "text": [
-        "Schedule removal during lunch breaks, after shipments, or weekends at no extra cost. We sync with your receiving schedule for zero workflow interruption."
+        "{{fact:pricingIntro.extra}} We sync with your receiving schedule for zero workflow interruption."
        ]
       },
       {
-       "title": "Damage-Free Guarantee",
+       "title": "Careful Removal",
        "text": [
         "Our insured teams use protective floor mats and pallet jacks to prevent scratches, dents, or marks to your facility."
        ]
@@ -209,21 +209,21 @@
        ]
       },
       {
-       "title": "Certified Green Processing",
+       "title": "{{fact:recycling}}",
        "text": [
-        "90%+ of materials diverted from landfills through our recycling partnerships and pallet refurbishment programs."
+        "{{fact:recycling}}"
        ]
       },
       {
        "title": "Transparent Volume Pricing",
        "text": [
-        "One upfront price covers all labor, equipment, and disposal – no surprise fees for heavy loads or tight spaces."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Enterprise-Level Solutions",
        "text": [
-        "Custom plans for distribution centers with 500+ pallets, including after-hours removal windows."
+        "{{fact:weekendPickup}}"
        ]
       }
      ]
@@ -250,7 +250,7 @@
        "We can remove any type of pallets from your warehouse, job site, or business, whether it’s a stack of wooden pallets in your loading dock, plastic pallets cluttering your storage area, or damaged pallets taking up valuable space."
       ],
       [
-       "Our professional team arrives fully prepared to handle all pallet removal jobs safely and efficiently. We protect your floors and property while we work, and guarantee a thorough cleanup when we are finished."
+       "Our professional team arrives fully prepared to handle all pallet removal jobs safely and efficiently. {{fact:scheduling}}"
       ],
       [
        "The best part? You won’t need to lift a finger. We manage all the heavy work – from carefully stacking and loading to proper hauling and disposal."
@@ -273,13 +273,13 @@
      "t": "ul",
      "items": [
       [
-       "Comprehensive recycling of all wood, plastic, and metal pallets at certified facilities"
+       "Comprehensive recycling of all wood, plastic, and metal pallets at recycling facilities"
       ],
       [
        "Donation program for quality, reusable pallets to local businesses and organizations"
       ],
       [
-       "Strict zero-landfill policy for all salvageable pallet materials"
+       "Strict for all salvageable pallet materials"
       ]
      ]
     },
@@ -293,10 +293,10 @@
      "t": "ul",
      "items": [
       [
-       "All-inclusive pricing with no hidden fees"
+       "{{fact:competitorComparison}}"
       ],
       [
-       "Free same-day estimates via phone/text/email"
+       "Free estimates via phone/text/email"
       ],
       [
        "Discounted rates for bulk removal"
@@ -360,19 +360,19 @@
       {
        "title": "Get a Quote",
        "text": [
-        "Receive transparent, upfront pricing with no hidden fees, just honest costs for your pallet removal project."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Schedule Your Slot",
        "text": [
-        "Select same-day, next-day, or schedule in advance, we work around your business hours for minimal disruption."
+        "Select same-day when available, next-day, or schedule in advance, we work around your business hours for minimal disruption."
        ]
       },
       {
        "title": "We Remove It",
        "text": [
-        "Our professional team arrives on time, safely removes all pallets and related materials, and leaves your space completely clean, typically within 1-2 hours."
+        "Our professional team arrives on time, safely removes all pallets and related materials, and leaves your space completely clean."
        ]
       }
      ]
@@ -429,7 +429,7 @@
        "q": "2. How much does pallet removal cost?",
        "a": [
         [
-         "Prices vary based on quantity, starting at $125. We provide free, no-obligation quotes."
+         "Prices vary based on quantity, starting at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). We provide free, no-obligation quotes."
         ]
        ]
       },
@@ -445,7 +445,7 @@
        "q": "4. Can I get same-day service?",
        "a": [
         [
-         "Yes, we offer same-day and next-day pallet removal for urgent needs."
+         "Yes, we offer same-day when available and next-day pallet removal for urgent needs."
         ]
        ]
       },
@@ -453,7 +453,7 @@
        "q": "5. Do you recycle the pallets?",
        "a": [
         [
-         "Yes, we recycle 90%+ of materials at certified facilities and donate usable pallets."
+         "{{fact:recycling}}"
         ]
        ]
       }

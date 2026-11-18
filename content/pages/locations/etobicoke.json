@@ -6,7 +6,7 @@
  "template": "TownHub",
  "seo": {
   "title": "Junk Removal Services in Etobicoke | Fast & Affordable Junk Removal",
-  "description": "Looking for reliable junk removal services in Etobicoke? Live Junk Free provides fast, affordable, and eco-friendly junk removal for homes and businesses. Book same-day pickup today.",
+  "description": "Looking for reliable junk removal services in Etobicoke? Live Junk Free provides fast, affordable, and eco-friendly junk removal for homes and businesses. Book same-day pickup when available today.",
   "canonical": "https://livejunkfree.ca/locations/etobicoke/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Bolton-1.png"
@@ -53,13 +53,13 @@
         "Live Junk Free"
        ]
       },
-      " is Etobicoke’s trusted junk removal team — a locally operated crew that comes to you, gives you a completely free on-site estimate before touching anything, and gets the job done the same day. No dumpster rentals sitting in your driveway for a week. No van-sized truck blocking your condo loading dock for hours. Just a fast, clean, professional junk removal service built for the pace of Toronto’s West End."
+      " is Etobicoke’s trusted junk removal team — a locally operated crew that comes to you, gives you a completely free on-site estimate before touching anything, and gets the job done the same day, subject to scheduling. No dumpster rentals sitting in your driveway for a week. No van-sized truck blocking your condo loading dock for hours. Just a fast, clean, professional junk removal service built for the pace of Toronto’s West End."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Whether you’re in Long Branch, Mimico, New Toronto, Alderwood, Islington, Rexdale, Humber Valley, or anywhere across Etobicoke — we’re there. We run 7 days a week, 6AM to 11PM, with same-day availability most days. Call us or book online and we’ll handle everything from start to finish."
+      "Whether you’re in Long Branch, Mimico, New Toronto, Alderwood, Islington, Rexdale, Humber Valley, or anywhere across Etobicoke — we’re there. Call us or book online and we’ll handle everything from start to finish."
      ]
     },
     {
@@ -151,7 +151,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We come to your Etobicoke home, condo, or commercial property, physically assess the job, and give you an all-inclusive quote on the spot. Labour, truck, fuel, disposal — it's all in that one number."
+     "text": "We come to your Etobicoke home, condo, or commercial property, physically assess the job, and give you an quote on the spot. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
     },
     {
      "t": "steps",
@@ -173,7 +173,7 @@
      "items": [
       {
        "n": "04",
-       "title": "No GTA premiums, no urban surcharges, no hidden fees",
+       "title": "{{fact:competitorComparison}}",
        "text": []
       }
      ]
@@ -196,14 +196,14 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Because we don't pay franchise fees to a national head office, Etobicoke customers save 30–50% compared to what the big-name chains charge for the exact same work."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "steps",
      "items": [
       {
        "n": "06",
-       "title": "Condo and apartment jobs — no extra fees",
+       "title": "{{fact:competitorComparison}}",
        "text": []
       }
      ]
@@ -211,7 +211,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Elevator booking, loading dock coordination, building rules — we navigate all of it as part of the standard service at no extra charge."
+     "text": "{{fact:pricingIntro.extra}}"
     }
    ]
   },
@@ -274,15 +274,15 @@
      "t": "cards",
      "items": [
       {
-       "title": "Book in Minutes, Get a Same-Day Slot",
+       "title": "Book in Minutes, Get a Slot",
        "text": [
-        "Call +1 647 922 5865 or book online in under 2 minutes. Tell us what you need removed and your Etobicoke location — whether you're in a house in Alderwood, a condo in Mimico, a townhouse in New Toronto, or a commercial unit in Rexdale. We'll lock in a same-day or next-day time window that works for your schedule. We know Etobicoke traffic and building access rules — we plan around them, not against them. You'll get a 30-minute heads-up call before arrival so you're never left waiting.livejunkfree.ca . to schedule your junk removal & hauling in Etobicoke, Toronto at a time that fits your schedule. Our booking process is quick, flexible, and entirely tailored around your convenience."
+        "Call +1 647 922 5865 or book. Tell us what you need removed and your Etobicoke location — whether you're in a house in Alderwood, a condo in Mimico, a townhouse in New Toronto, or a commercial unit in Rexdale. We'll lock in a same-day or next-day time window that works for your schedule, subject to scheduling. We know Etobicoke traffic and building access rules — we plan around them, not against them. You'll get a 30-minute heads-up call before arrival so you're never left waiting.livejunkfree.ca. to schedule your junk removal & hauling in Etobicoke, Toronto at a time that fits your schedule. Our booking process is quick, flexible, and entirely tailored around your convenience."
        ]
       },
       {
        "title": "On-Site Estimate, Zero Pressure",
        "text": [
-        "Our uniformed, professional Etobicoke junk removal crew arrives on time and walks through your space with you — every room, every floor, every area that needs clearing. For condo and apartment jobs, we coordinate with building management for elevator and loading dock access so you don't have to. We assess everything and give you a clear, all-inclusive flat-rate quote on the spot. No pressure. No obligation. No surprise line items added later."
+        "Our uniformed, professional Etobicoke junk removal crew arrives on time and walks through your space with you — every room, every floor, every area that needs clearing. For condo and apartment jobs, we coordinate with building management for elevator and loading dock access so you don't have to. We assess everything and give you a clear, flat-rate quote on the spot. No pressure. No obligation."
        ]
       },
       {
@@ -555,7 +555,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -585,7 +585,7 @@
        "q": "Q: How much does junk removal cost in Etobicoke, Ontario?",
        "a": [
         [
-         "A: Our Etobicoke junk removal pricing is volume-based — you pay based on how much truck space your items fill, not by the hour. Prices start at $125 for small loads. We provide a free on-site estimate before any work starts and the quoted price never changes. No GTA premiums, no urban surcharges, no hidden fees."
+         "A: Our Etobicoke junk removal pricing is volume-based — you pay based on how much truck space your items fill, not by the hour. Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). We provide a free on-site estimate before any work starts and the quoted price never changes."
         ]
        ]
       },
@@ -593,7 +593,7 @@
        "q": "Q: Do you do condo and apartment junk removal in Etobicoke?",
        "a": [
         [
-         "A: Yes — condo and apartment junk removal is one of our most requested services across Etobicoke. We handle elevator booking, loading dock coordination and all building access requirements as part of our standard service at no extra charge."
+         "A: Yes — condo and apartment junk removal is one of our most requested services across Etobicoke. {{fact:pricingIntro.extra}}"
         ]
        ]
       },
@@ -601,7 +601,7 @@
        "q": "Q: Do you offer same-day junk removal in Etobicoke?",
        "a": [
         [
-         "A: Yes. We offer same-day junk removal across all of Etobicoke including Long Branch, Mimico, Rexdale, Islington, Humber Valley and surrounding areas. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to check today’s availability."
+         "A: Yes. We offer same-day junk removal when available across all of Etobicoke including Long Branch, Mimico, Rexdale, Islington, Humber Valley and surrounding areas. Call +1 647 922 5865 to check today’s availability."
         ]
        ]
       },
@@ -617,7 +617,7 @@
        "q": "Q: Are you a local Etobicoke company or a national franchise?",
        "a": [
         [
-         "A: We are 100% locally owned and operated — not affiliated with any national franchise. No franchise markups means our Etobicoke pricing is consistently 30–50% lower than big-name chains operating in the GTA."
+         "A: We are 100% locally owned and operated — not affiliated with any national franchise."
         ]
        ]
       },

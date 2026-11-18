@@ -3,7 +3,7 @@
  * and the server (the real check). Canadian conventions: postal code A1A 1A1.
  */
 import { z } from "zod";
-import { ARRIVAL_WINDOWS, BOOKING_SERVICE_OPTIONS, HAS_LETTERS, MAX_PHOTOS, NAME_VALID, POSTAL_CODE } from "./constants";
+import { ARRIVAL_WINDOWS, BOOKING_SERVICE_OPTIONS, CALLBACK_TIMES, HAS_LETTERS, MAX_PHOTOS, NAME_VALID, POSTAL_CODE } from "./constants";
 
 export { ARRIVAL_WINDOWS, BOOKING_SERVICE_OPTIONS, MAX_PHOTO_BYTES, MAX_PHOTOS, POSTAL_CODE } from "./constants";
 
@@ -33,6 +33,15 @@ export const AttributionSchema = z.object({
 });
 export type Attribution = z.infer<typeof AttributionSchema>;
 
+/** Page context every enquiry carries (audit G05): exact service, town, page id, pricing-truck choice. */
+const CONTEXT = {
+  service_detail: optionalText(160),
+  city: optionalText(80),
+  callback_time: z.enum(["", ...CALLBACK_TIMES]).optional(),
+  page_id: optionalText(500),
+  pricing_selection: optionalText(160),
+};
+
 /** Quote form (hero + full form on service, location and landing pages). */
 export const QuoteLeadSchema = z.object({
   form_type: z.enum(["quote", "landing"]),
@@ -50,6 +59,7 @@ export const QuoteLeadSchema = z.object({
   details: optionalText(4000).refine((v) => !v || HAS_LETTERS.test(v), "Please describe the items in words, e.g. 2 couches and a fridge."),
   photo_count: z.number().int().min(0).max(MAX_PHOTOS).default(0),
   attribution: AttributionSchema.default({}),
+  ...CONTEXT,
 });
 export type QuoteLead = z.infer<typeof QuoteLeadSchema>;
 
@@ -67,10 +77,15 @@ export const BookingLeadSchema = z.object({
   email: z.email("Please add a valid email."),
   details: optionalText(4000).refine((v) => !v || HAS_LETTERS.test(v), "Please describe the items in words, e.g. 2 couches and a fridge."),
   service: z.enum(BOOKING_SERVICE_OPTIONS).optional(),
-  preferred_date: z.string().trim().min(1, "Please choose a date."),
-  arrival_window: z.enum(ARRIVAL_WINDOWS, "Please choose a time."),
+  // Kept optional for old clients; the booking form no longer asks for a pickup date / window (Answers A3.6).
+  preferred_date: optionalText(20),
+  arrival_window: z.enum(ARRIVAL_WINDOWS).optional(),
+  callback_time: CONTEXT.callback_time,
   photo_count: z.number().int().min(0).max(MAX_PHOTOS).default(0),
   attribution: AttributionSchema.default({}),
+  service_detail: CONTEXT.service_detail,
+  page_id: CONTEXT.page_id,
+  pricing_selection: CONTEXT.pricing_selection,
 });
 export type BookingLead = z.infer<typeof BookingLeadSchema>;
 

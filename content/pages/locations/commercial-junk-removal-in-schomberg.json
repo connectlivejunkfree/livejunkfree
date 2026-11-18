@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Fast, flat-rate commercial junk removal in Schomberg — free quotes written on site, an insured crew that does every carry, and same-day junk pickup made easy by trucks that already pass the 9 and 27 crossroads daily."
+     "text": "Fast, flat-rate commercial junk removal in Schomberg — free quotes written on site, an insured crew that does every carry, and same-day junk pickup when available made easy by trucks that already pass the 9 and 27 crossroads daily."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Junk Removal Reviews on Google"
+     "text": "★★★★★ Junk Removal Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Schomberg has always been a crossroads town — Highways 9 and 27 meet here, the 400 runs minutes east, and for generations the region’s farm and freight traffic has rolled straight past the Main Street corner. Ours does too. Because our junk removal trucks already travel these routes daily, a village of a few thousand gets response times most small towns only hear about: same-day pickups, real arrival windows, no “we’ll get out there eventually.” The 660+ five-star Google reviews behind Live Junk Free include Schomberg shopkeepers, farm operators and trades who tested that promise — and watched the truck turn in right on schedule, flat written quote in hand."
+      "Schomberg has always been a crossroads town — Highways 9 and 27 meet here, the 400 runs minutes east, and for generations the region’s farm and freight traffic has rolled straight past the Main Street corner. Ours does too. Because our junk removal trucks already travel these routes daily, a village of a few thousand gets response times most small towns only hear about: same-day pickups, real arrival windows, no “we’ll get out there eventually.” The Google reviews behind Live Junk Free include Schomberg shopkeepers, farm operators and trades who tested that promise — and watched the truck turn in right on schedule, flat written quote in hand."
      ]
     },
     {
@@ -115,7 +115,7 @@
        "title": "Truck-volume junk removal pricing — small villages, standard rates",
        "text": [
         [
-         "Your Schomberg junk removal price is your load’s share of the truck — the identical formula we use in every city on our routes. No village premium, no distance charge, no weight or stair math. A half truck at the Main Street corner costs what a half truck costs anywhere."
+         "Your Schomberg junk removal price is your load’s share of the truck — the identical formula we use in every city on our routes. A half truck at the Main Street corner costs what a half truck costs anywhere."
         ]
        ]
       },
@@ -148,19 +148,19 @@
       },
       {
        "n": "05",
-       "title": "Junk pickup timed to village and farm rhythms — 6AM to 11PM, daily",
+       "title": "{{fact:nextAvailable}}",
        "text": [
         [
-         "Shops clear before the morning coffee crowd, trades clear on rained-out days, farms clear in the quiet months. With trucks passing the crossroads seven days a week, your Schomberg junk removal slots into whichever hour your operation isn’t using."
+         "Shops clear before the morning coffee crowd, trades clear on rained-out days, farms clear in the quiet months."
         ]
        ]
       },
       {
        "n": "06",
-       "title": "Independent junk removal — 30–50% under the franchise haulers",
+       "title": "Independent junk removal",
        "text": [
         [
-         "The national chains treat villages like Schomberg as out-of-zone: royalties inside the quote, remoteness priced on top. We’re local, independent, and already driving past — no royalties, no zone premiums, and invoices 30–50% lighter for the identical truckload."
+         "The national chains treat villages like Schomberg as out-of-zone: royalties inside the quote, remoteness priced on top."
         ]
        ]
       }
@@ -187,7 +187,7 @@
     {
      "t": "p",
      "c": [
-      "Small commercial junk pickups start at {{cad_125}} and scale only with truck volume — never with effort, address or hours. One retired cooler from a Main Street shop is a sliver of the box; a full drive-shed or supply-yard clearance fills it and prices in the open. The figure is written before the first carry, freezes on approval, and reaches the invoice untouched."
+      "Small commercial junk pickups start at {{min_price:C}} and scale only with truck volume — never with effort, address or hours. One retired cooler from a Main Street shop is a sliver of the box; a full drive-shed or supply-yard clearance fills it and prices in the open. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
      ]
     },
     {
@@ -208,13 +208,13 @@
     },
     {
      "t": "price",
-     "label": "Schomberg Junk Removal From",
-     "value": "{{cad_125}}"
+     "label": "Schomberg Junk Removal Pricing",
+     "value": "Junk Load from {{min_price:C}}"
     },
     {
      "t": "p",
      "c": [
-      "One volume-based rate — dismantling, every carry, hauling and disposal included."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -257,7 +257,7 @@
        "title": "Book Your Schomberg Junk Pickup",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — and your window is set. With daily routes crossing the 9 and 27 junction from 6AM to 11PM, seven days, same-day junk removal is genuinely available most mornings, and the crew calls 30 minutes before turning off the highway."
+         "Two minutes at +1 647 922 5865 — or online — and your window is set."
         ]
        ]
       },
@@ -675,7 +675,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — shops, farm businesses, trades and landlords across Schomberg, King Township and the GTA."
+      "Google reviews — shops, farm businesses, trades and landlords across Schomberg, King Township and the GTA."
      ]
     },
     {
@@ -701,7 +701,7 @@
        "q": "What does commercial junk removal cost in Schomberg?",
        "a": [
         [
-         "Truck volume alone: small pickups from $125, larger loads scaling with the space they fill. The exact figure is written free at your Schomberg property before anything moves — carries, dismantling and every disposal fee inside — and it holds unchanged to the invoice."
+         "Truck volume alone: small pickups from {{min_price:C}}, larger loads scaling with the space they fill."
         ]
        ]
       },
@@ -754,7 +754,7 @@
        ]
       },
       {
-       "q": "Why are you 30–50% cheaper than the national junk removal chains?",
+       "q": "Why are you",
        "a": [
         [
          "Because their village quotes carry two paddings ours never will: franchise royalties and out-of-zone premiums. We’re local, independent and already driving past the junction — the same load simply costs less."

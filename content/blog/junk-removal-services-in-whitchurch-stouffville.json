@@ -5,8 +5,8 @@
  "type": "blog",
  "template": "BlogPost",
  "seo": {
-  "title": "Same-Day Junk Removal Services in Whitchurch-Stouffville",
-  "description": "Same-day junk removal in Whitchurch-Stouffville for homes and businesses including yard junk, appliance removal, garage cleanouts, e-waste, and furniture pickup.",
+  "title": "Junk Removal Services in Whitchurch-Stouffville",
+  "description": "Same-day junk removal when available in Whitchurch-Stouffville for homes and businesses including yard junk, appliance removal, garage cleanouts, e-waste, and furniture pickup.",
   "canonical": "https://livejunkfree.ca/locations/junk-removal-services-in-whitchurch-stouffville/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
  },
@@ -136,7 +136,7 @@
      "items": [
       {
        "n": "03",
-       "title": "Same-Day Service",
+       "title": "Same-Day Service when available",
        "text": []
       }
      ]
@@ -144,7 +144,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Need immediate junk removal? We provide same-day junk removal Ajax, ensuring quick, hassle-free cleanup without disrupting your daily routine."
+     "text": "Need immediate junk removal? We provide same-day junk removal when available Ajax, ensuring quick, hassle-free cleanup without disrupting your daily routine."
     },
     {
      "t": "steps",
@@ -311,7 +311,7 @@
        "q": "02 - Residential Removal",
        "a": [
         [
-         "Our pricing is based on the volume of items being removed, the type of items, and the difficulty of removal. We offer upfront pricing with no hidden fees. You can also request a free estimate by contacting us or using our online booking system."
+         "Our pricing is based on the volume of items being removed, the type of items, and the difficulty of removal. You can also request a free estimate by contacting us or using our online booking system."
         ]
        ]
       },
@@ -432,7 +432,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -482,7 +482,7 @@
        "q": "How far in advance do I need to schedule a pickup?",
        "a": [
         [
-         "We strive to accommodate our customers’ schedules as much as possible. While we do accept same-day appointments when available, we recommend scheduling your pickup at least 24-48 hours in advance to ensure availability. However, we understand that emergencies happen, so feel free to reach out to us, and we’ll do our best to accommodate your needs."
+         "We strive to accommodate our customers’ schedules as much as possible. However, we understand that emergencies happen, so feel free to reach out to us, and we’ll do our best to accommodate your needs."
         ]
        ]
       }

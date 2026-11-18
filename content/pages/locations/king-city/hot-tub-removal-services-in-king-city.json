@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Hot Tub Removal Services in King City from Live Junk Free — done safely and in one discreet visit, draining, disconnecting, cutting apart and hauling away by an insured crew, quoted flat on site with no prestige-area markup, and the grounds left clear the same day, seven days a week."
+     "text": "{{fact:nextAvailable}}"
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "A hot tub on a King City estate sits alongside things that must not be disturbed on the way out — the stone patio, the pool house, the landscaping either side of the route to the truck — and Live Junk Free clears it the same careful way every time. On the estate concessions, it’s a tub near a pool house or spa structure removed with discretion, grounds and driveways protected under load. Around the King Road village core, it’s a straightforward backyard tub cleared ahead of a renovation, handled with the same care as anything larger. And on equestrian and hobby-farm properties, it’s a tub tucked near the stables, cleared alongside whatever else the grounds are holding onto. The 700+ five-star Google reviews behind Live Junk Free come from every one of those properties — a hot tub removal crew that drained it properly, cut it down safely without wrecking the patio or landscaping underneath, and hauled every piece away the same visit, quietly."
+      "A hot tub on a King City estate sits alongside things that must not be disturbed on the way out — the stone patio, the pool house, the landscaping either side of the route to the truck — and Live Junk Free clears it the same careful way every time. On the estate concessions, it’s a tub near a pool house or spa structure removed with discretion, grounds and driveways protected under load. Around the King Road village core, it’s a straightforward backyard tub cleared ahead of a renovation, handled with the same care as anything larger. And on equestrian and hobby-farm properties, it’s a tub tucked near the stables, cleared alongside whatever else the grounds are holding onto. The Google reviews behind Live Junk Free come from every one of those properties — a hot tub removal crew that drained it properly, cut it down safely without wrecking the patio or landscaping underneath, and hauled every piece away the same visit, quietly."
      ]
     },
     {
@@ -159,10 +159,10 @@
       },
       {
        "n": "06",
-       "title": "Independent hot tub removal pricing — 30–50% under the bigger outfits",
+       "title": "Independent hot tub removal pricing",
        "text": [
         [
-         "The national junk removal brands price hot tub removal with a franchise premium built in, and some read a King City postal code and price it accordingly. Live Junk Free does neither — the reason identical hot tub removals here invoice 30–50% lighter with us."
+         "The national junk removal brands price hot tub removal with a franchise premium built in, and some read a King City postal code and price it accordingly."
         ]
        ]
       }
@@ -189,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "Pricing is set on site once the crew sees the tub’s size, condition and access — small portable spas price lower, full-size six-and-seven-seat tubs price accordingly, and grounds protection is built into the figure rather than itemized separately. The number covers draining, cutting, hauling and responsible disposal or recycling as one price, with nothing added after the fact and no prestige-area adjustment anywhere in it."
+      "Pricing is set on site once the crew sees the tub’s size, condition and access — small portable spas price lower, full-size six-and-seven-seat tubs price accordingly, and grounds protection is built into the figure rather than itemized separately."
      ]
     },
     {
@@ -211,7 +211,7 @@
     {
      "t": "price",
      "label": "King City Hot Tub Removal Price",
-     "value": "{{cad_265}}"
+     "value": "Priced at your free onsite estimate"
     },
     {
      "t": "p",
@@ -259,7 +259,7 @@
        "title": "Book Your Hot Tub Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online with Live Junk Free at whatever time suits you — same-day slots are usually available, seven days a week, 6AM to 11PM. Tell us the tub’s rough size and location on the property."
+         "Call +1 647 922 5865 or book online with Live Junk Free at whatever time suits you — same-day slots are usually available. Tell us the tub’s rough size and location on the property."
         ]
        ]
       },
@@ -283,10 +283,10 @@
       },
       {
        "n": "04",
-       "title": "Your Space Is Clear the Same Day",
+       "title": "Your Space Is Clear",
        "text": [
         [
-         "The space where the tub sat gets left clean and composed, with metal components, motors and pumps routed to recycling and the rest disposed of responsibly. Most King City hot tub removals finish within a couple of hours, quietly."
+         "The space where the tub sat gets left clean and composed, with metal components, motors and pumps routed to recycling and the rest disposed of responsibly."
         ]
        ]
       }
@@ -641,7 +641,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — heritage, waterfront, farmhouse and estate hot tub removals across Port Perry, Scugog and Durham Region."
+      "Google reviews — heritage, waterfront, farmhouse and estate hot tub removals across Port Perry, Scugog and Durham Region."
      ]
     },
     {
@@ -775,7 +775,7 @@
        "q": "How much does hot tub removal cost in King City?",
        "a": [
         [
-         "Pricing is confirmed on site once the crew sees the tub’s size, condition and how hard it is to get to — with no prestige-area adjustment anywhere in it. A portable spa costs less than a full six-seater, and the number covers draining, cutting, hauling and disposal together. "
+         "Pricing is confirmed on site once the crew sees the tub’s size, condition and how hard it is to get to — with no prestige-area adjustment anywhere in it. {{fact:taxNote}}. {{fact:pricingIntro.extra}} "
         ]
        ]
       },

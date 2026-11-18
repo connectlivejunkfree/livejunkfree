@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -97,7 +97,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Garage Junk Pickup — Cleared Before the Weekend's Over"
+     "text": "Garage Junk Pickup — Cleared Before the Weekend's Over"
     },
     {
      "t": "p",
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "One booking with us ends the cycle. A full crew arrives — same-day slots are often available — and works straight from garage to truck: shelving units, old appliances, exercise equipment, patio furniture, car parts, rusted tools, bags and boxes of accumulated decades. Metal is pulled for scrap recycling, working tools and sporting goods are set aside for donation, e-waste is routed to certified processors, and the leftovers are disposed of properly. The driveway advantage means no stairs, no elevators — just fast, direct loading and a quicker, cheaper job than most indoor cleanouts."
+      "One booking with us ends the cycle. A full crew arrives — same-day slots are often available — and works straight from garage to truck: shelving units, old appliances, exercise equipment, patio furniture, car parts, rusted tools, bags and boxes of accumulated decades. Metal is pulled for scrap recycling, working tools and sporting goods are set aside for donation, e-waste is routed to processors, and the leftovers are disposed of properly. The driveway advantage means no stairs, no elevators — just fast, direct loading and a quicker, cheaper job than most indoor cleanouts."
      ]
     },
     {
@@ -136,55 +136,11 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
       }
-     ]
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Complete Garage Clearing – Scrap Metal, Old Tools & Bulky Item Haul Away"
-    },
-    {
-     "t": "p",
-     "c": [
-      "Garages collect a category of junk nothing else in the house does: the heavy, the rusty, and the hard-to-dispose-of. A seized snowblower. A chest freezer that stopped working two summers ago. Stacks of ceramic tile from a kitchen reno. Rims and seasonal tires. Treated lumber, broken ladders, and shelving bowing under paint-splattered bins. Most of it can’t go in the weekly collection, and much of it takes two people just to move."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "Live Junk Free has emptied every configuration — attached singles, oversized doubles, detached garages at the back of the lot, and carports stacked to the rafters. Whether you’re staging a home for listing photos, converting the garage into a gym or workshop, clearing an inherited property, or making room for a new vehicle, we bring the crew size and truck space the volume demands."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "Our teams come equipped for the environment: gloves and lifting straps for sharp and greasy loads, dollies for appliances and machinery, and tarps to keep the driveway clean as we stage and load. Items bolted to walls — shelving, racks, bike hooks — can come down too if you want the space stripped bare."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "Every Garage Cleanout Includes:"
-     ]
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "Floor-to-rafters clearing – Shelving, overhead storage, workbench zones, and corners emptied completely"
-      ],
-      [
-       "Sort-as-we-load service – Scrap metal recycled, usable goods donated, junk disposed, and the slab swept clean"
-      ]
      ]
     }
    ]
@@ -218,7 +174,7 @@
        ]
       },
       {
-       "title": "Same-Day & Seasonal Slots",
+       "title": "& Seasonal Slots",
        "text": [
         "Fast bookings before winter parking, spring listings, or renovation start dates"
        ]
@@ -293,7 +249,7 @@
        "Second-Life Donations: Functional tools, sports equipment, and outdoor gear are passed to community organizations"
       ],
       [
-       "Proper Streams for the Rest: E-waste, tires, cardboard, and clean wood are each routed to their certified facilities"
+       "Proper Streams for the Rest: E-waste, tires, cardboard, and clean wood are each routed to their facilities"
       ]
      ]
     },
@@ -331,13 +287,13 @@
      "t": "ul",
      "items": [
       [
-       "Photo Quotes in Minutes – Snap the mess as-is and get a firm number the same day"
+       "Free onsite estimates – A firm price before any work starts"
       ],
       [
        "One All-In Figure – Labour, hauling, recycling runs, donation drop-offs, and sweep-up included"
       ],
       [
-       "Bundle the Outbuildings – Add a shed, basement, or full-property cleanout to the visit for combined savings"
+       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -400,7 +356,7 @@
       {
        "title": "Choose a Convenient Slot",
        "text": [
-        "Same-day, weekend, and evening appointments available; detached garages and tight laneways are no problem."
+        "Ask about available pickup times"
        ]
       },
       {
@@ -475,7 +431,7 @@
        "q": "4) What happens to the scrap metal and old tools?",
        "a": [
         [
-         "The hot tub removal cost varies depending on the size, location, and difficulty of the job. Contact us for a free quote!"
+         "Scrap metal and old tools are set aside for metal recycling where possible, and usable tools can go to donation. Everything else is disposed of responsibly."
         ]
        ]
       }
@@ -586,247 +542,6 @@
       [
        "Stouffville"
       ]
-     ]
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Common Questions About Garage Junk Removal Services"
-    },
-    {
-     "t": "p",
-     "c": [
-      "Garage junk removal can range from hauling away a few bulky items to clearing out an entire garage filled with furniture, appliances, tools, boxes, and household clutter. Below are answers to common questions about garage cleanout costs, accepted items, scheduling, cleanup, recycling, and hiring a professional junk removal service."
-     ]
-    },
-    {
-     "t": "faq",
-     "items": [
-      {
-       "q": "Read What People Ask About Garage Junk Removal Services",
-       "a": [
-        [
-         "1. How much does a full garage junk removal service cost on average?"
-        ],
-        [
-         "The cost depends on how much junk needs to be removed, the type of items, labor involved, and how easily the crew can access the garage. Most professional junk removal companies provide a quote based on the size and scope of the job."
-        ],
-        [
-         "2. How do junk removal companies calculate the price?"
-        ],
-        [
-         "Garage junk removal pricing may be based on the amount of space the items take up in the truck, along with labor and disposal requirements. Heavy or unusually difficult items may also affect the final price."
-        ],
-        [
-         "3. Is there a minimum charge for removing just a few small items from a garage?"
-        ],
-        [
-         "Many junk removal companies have a minimum service charge for small jobs. Ask about the minimum when requesting a quote so you know the expected cost before booking."
-        ],
-        [
-         "4. Are landfill fees, recycling taxes, and labor included in the upfront quote?"
-        ],
-        [
-         "This depends on the company’s pricing policy. Before booking, confirm whether labor, transportation, recycling, disposal, and applicable landfill fees are included in the quoted price."
-        ],
-        [
-         "5. Do companies provide a free, no-obligation on-site estimate?"
-        ],
-        [
-         "Many junk removal companies offer free estimates for garage cleanouts. An on-site assessment allows the crew to see the amount and type of junk and determine the work involved."
-        ],
-        [
-         "6. How much extra does it cost to clean out a cluttered two-car garage compared to a one-car garage?"
-        ],
-        [
-         "A two-car garage generally has more available storage space and may contain more junk, but the price depends on how much material actually needs to be removed. The amount of junk is usually more important than the garage’s physical size alone."
-        ],
-        [
-         "7. Can I get a discount if I pile all the junk in the driveway before the team arrives?"
-        ],
-        [
-         "Some companies may offer different pricing depending on how accessible the items are, while others use the same volume-based pricing regardless of where the junk is located. Ask the company whether curbside or driveway placement changes the quote."
-        ],
-        [
-         "8. What hidden fees should I watch out for in a garage cleanout quote?"
-        ],
-        [
-         "Potential extra charges can come from additional junk, unusually heavy items, difficult access, special disposal requirements, or work outside the original scope. A clear quote should explain what is included before removal begins."
-        ],
-        [
-         "9. Will a garage junk removal service take away old car batteries, motor oil, and tires?"
-        ],
-        [
-         "These items may have special disposal requirements and are not accepted by every junk removal company. Confirm the company’s accepted-item list before putting automotive waste out for removal."
-        ],
-        [
-         "10. How do companies legally dispose of leftover paint, stains, and household chemicals?"
-        ],
-        [
-         "Paint, stains, solvents, and other chemicals may require specialized disposal and should not be mixed with regular household junk. Contact an appropriate hazardous-waste disposal program or confirm whether the removal company is authorized to handle the specific material."
-        ],
-        [
-         "11. Can a junk removal team haul away large appliances like old refrigerators, freezers, or washers?"
-        ],
-        [
-         "Yes, many junk removal services accept large household appliances. Refrigerators and freezers may require special handling because of their size and refrigerants, so mention these items when requesting a quote."
-        ],
-        [
-         "12. Do they accept heavy materials like scrap metal, car parts, or engine blocks?"
-        ],
-        [
-         "Many junk removal companies accept scrap metal and heavy items, but acceptance can vary by material and condition. Large engine parts or unusually heavy objects should be disclosed before the appointment."
-        ],
-        [
-         "13. Will a service remove leftover construction materials from a garage?"
-        ],
-        [
-         "Some junk removal companies handle common renovation debris such as lumber, drywall, tiles, and other non-hazardous construction materials. Ask about quantity limits and accepted materials before scheduling the cleanout."
-        ],
-        [
-         "14. Can they safely dispose of old lawnmowers, weed whackers, and propane tanks?"
-        ],
-        [
-         "Lawn equipment may be accepted by junk removal companies, but fuel-powered equipment and propane tanks can require special handling. Emptying or preparing these items for disposal should follow applicable safety and disposal requirements."
-        ],
-        [
-         "15. Do junk removal companies take e-waste like old monitors, TVs, and power tools?"
-        ],
-        [
-         "Many companies accept certain electronic waste, including monitors, televisions, computers, and power tools. Electronics should be directed to appropriate e-waste recycling channels whenever possible."
-        ],
-        [
-         "16. Will the junk removal crew bag and box up loose items, or do I need to do it?"
-        ],
-        [
-         "Some garage cleanout services can collect loose items and handle the loading themselves, while others may expect smaller belongings to be bagged or boxed. Confirm the level of cleanup and labor included when booking."
-        ],
-        [
-         "17. Do garage cleanout services include sweeping and basic cleanup after the junk is gone?"
-        ],
-        [
-         "Many full garage cleanout services can provide basic sweeping or leave the area clear of loose debris after removal. If you need a deeper cleaning service, confirm whether it is included in the scope."
-        ],
-        [
-         "18. How long does a typical full garage cleanout take to complete?"
-        ],
-        [
-         "The time depends on the amount of junk, number of crew members, item sizes, and access to the garage. A small garage may be cleared quickly, while a heavily cluttered garage can require several hours."
-        ],
-        [
-         "19. Can a crew remove attached fixtures like old garage shelving, cabinets, or workbenches?"
-        ],
-        [
-         "Some junk removal and demolition services can dismantle and remove unwanted shelving, cabinets, and workbenches. Let the company know about attached fixtures before the appointment so they can account for the additional work."
-        ],
-        [
-         "20. Do I need to be physically present at home while the garage is being cleaned out?"
-        ],
-        [
-         "Not always. Depending on the service arrangement, you may be able to provide access and instructions in advance and allow the crew to complete the job without you remaining on-site."
-        ],
-        [
-         "21. Can they handle a hoarding situation in a garage, and do they offer discreet services?"
-        ],
-        [
-         "Some professional cleanout companies handle heavily cluttered residential spaces and can provide discreet service. If the garage contains an unusually large amount of material, describe the situation when requesting a quote so the crew can prepare appropriately."
-        ],
-        [
-         "22. What happens if the crew accidentally damages the garage door or walls during the move?"
-        ],
-        [
-         "Professional junk removal companies should take reasonable precautions when moving large or heavy items. Ask about insurance coverage and the company’s process for reporting and addressing accidental property damage before booking."
-        ],
-        [
-         "23. What percentage of the garage junk actually gets recycled instead of thrown in a landfill?"
-        ],
-        [
-         "The percentage varies by job because garage cleanouts contain many different types of materials. Metal, electronics, cardboard, reusable household goods, and other recyclable materials may be separated when appropriate."
-        ],
-        [
-         "24. Will the company donate usable items like tools, bicycles, or furniture to local charities?"
-        ],
-        [
-         "Usable items may be donated or redirected for reuse when they are in suitable condition and a receiving organization accepts them. Ask the junk removal company about its donation and reuse options."
-        ],
-        [
-         "25. Can I get a tax donation receipt for the items the company gives away on my behalf?"
-        ],
-        [
-         "A donation receipt typically comes from the charity or organization receiving the items. If you need documentation for tax purposes, confirm the requirements with the receiving organization and your tax professional."
-        ],
-        [
-         "26. How do eco-friendly junk removal services handle the sorting of mixed garage waste?"
-        ],
-        [
-         "Mixed garage junk can be separated into categories such as reusable goods, recyclable materials, electronics, scrap metal, and general waste. Proper sorting helps direct materials to the appropriate recycling, donation, or disposal channels."
-        ],
-        [
-         "27. Is it cheaper to rent a dumpster and clean out the garage myself?"
-        ],
-        [
-         "A dumpster may appear cheaper for a large amount of junk, but you still have to handle the sorting, lifting, loading, and disposal yourself. A full-service junk removal company handles the labor and hauling, which can save considerable time and effort."
-        ],
-        [
-         "28. How much time and manual labor do I actually save by hiring a garage cleanout service?"
-        ],
-        [
-         "A professional crew can handle the lifting, loading, hauling, and removal in one visit instead of requiring you to make multiple trips. The amount of time saved depends on the size and condition of the garage."
-        ],
-        [
-         "29. What are the risks of DIY disposal for hazardous garage chemicals?"
-        ],
-        [
-         "Improperly handling paint, solvents, fuels, pesticides, batteries, and other chemicals can expose you to spills, fumes, fires, or improper disposal. These materials should be handled according to local hazardous-waste requirements."
-        ],
-        [
-         "30. Can I hire a junk removal company just to haul away the heavy items I can’t lift?"
-        ],
-        [
-         "Yes, many junk removal services can focus on bulky and heavy items such as appliances, furniture, exercise equipment, and other large objects. You can ask whether the company offers removal for specific heavy items."
-        ],
-        [
-         "31. How do I find the best-rated garage junk removal services near me?"
-        ],
-        [
-         "Compare recent customer reviews, pricing transparency, insurance coverage, accepted items, availability, and recycling or donation practices. Look for companies with consistent reviews specifically mentioning residential junk removal and garage cleanouts."
-        ],
-        [
-         "32. Should I hire a local independent hauler or a national junk removal franchise?"
-        ],
-        [
-         "Both can be suitable depending on your needs. Compare the company’s local reputation, pricing, insurance, availability, disposal practices, and customer service rather than choosing based only on company size."
-        ],
-        [
-         "33. What kind of licensing and liability insurance should a junk removal company have?"
-        ],
-        [
-         "Requirements can vary by location and the type of work being performed. Ask whether the company is properly registered and insured and whether its liability coverage is appropriate for residential junk removal work."
-        ],
-        [
-         "34. What questions should I ask the crew during a site walkthrough?"
-        ],
-        [
-         "Ask what the total price includes, how additional items are priced, which materials are accepted, how recyclables and donations are handled, whether basic cleanup is included, and how property damage is addressed."
-        ],
-        [
-         "35. Do companies offer same-day or next-day garage cleanout services?"
-        ],
-        [
-         "Some junk removal companies offer same-day or next-day appointments depending on crew availability and location. If you need urgent removal, mention your preferred timeline when requesting service."
-        ],
-        [
-         "36. Can I read customer reviews specifically focusing on residential garage cleanouts?"
-        ],
-        [
-         "Yes, customer reviews can help you understand how a company handles garage cleanouts, bulky items, scheduling, pricing, and property care. Look for reviews that describe a similar type and size of project to yours."
-        ]
-       ]
-      }
      ]
     }
    ]

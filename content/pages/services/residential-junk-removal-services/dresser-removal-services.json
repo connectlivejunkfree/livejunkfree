@@ -6,7 +6,7 @@
  "template": "ItemRemoval",
  "seo": {
   "title": "Dresser Removal Services - Live JunkFree",
-  "description": "Time to ditch that old dresser? Live Junk Free picks it up same day across Toronto & GTA — fully insured, no hidden fees, free quote. Call +1 647 922 5865!",
+  "description": "Time to ditch that old dresser? Live Junk Free picks it up same day across Toronto & GTA — fully insured, free quote, subject to scheduling. Call +1 647 922 5865!",
   "canonical": "https://livejunkfree.ca/services/residential-junk-removal-services/dresser-removal-services/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/Dresser-Removal-Services.webp"
@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -58,7 +58,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Dresser Removal Services"
+     "text": "Dresser Removal Services"
     },
     {
      "t": "p",
@@ -69,7 +69,7 @@
     {
      "t": "p",
      "c": [
-      "First, we give you a free price with no hidden fees. After you say yes, our team comes at your chosen time to carefully remove your dresser, clean the area, and take it away properly. Most dresser removals take less than 1 hour."
+      "After you say yes, our team comes at your chosen time to carefully remove your dresser, clean the area, and take it away properly. Most dresser removals take less than 1 hour."
      ]
     },
     {
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "Removing a heavy dresser shouldn’t be hard work. Our service starts at just {{cad_125}}, and we do everything for you. We’ll take your dresser from any room, air it out, and leave no mess behind."
+      "Removing a heavy dresser shouldn’t be hard work. Our service starts at just {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), and we do everything for you. We’ll take your dresser from any room, air it out, and leave no mess behind."
      ]
     },
     {
@@ -137,7 +137,7 @@
        "b": [
         {
          "i": [
-          "We answer calls in 1 minute."
+          "Easy Booking by Phone or Online"
          ]
         }
        ]
@@ -151,7 +151,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same Day Dresser Removal"
+     "text": "Dresser Removal"
     },
     {
      "t": "p",
@@ -162,7 +162,7 @@
     {
      "t": "p",
      "c": [
-      "Whether you’re moving, renovating, or just want more space, our same-day service means no long waits. Don’t risk hurting yourself – our licensed team removes dressers safely every day."
+      "Whether you’re moving, renovating, or just want more space, our same-day service when available means no long waits. Don’t risk hurting yourself – our licensed team removes dressers safely every day."
      ]
     },
     {
@@ -190,7 +190,7 @@
        "Eco-friendly disposal with recycling or donation prioritization"
       ],
       [
-       "Spotless cleanup after removal"
+       "Tidy cleanup after removal"
       ]
      ]
     },
@@ -219,7 +219,7 @@
       {
        "title": "Schedule When It Works For You",
        "text": [
-        "Pick same-day, next-day or weekend appointments with no rush fees. We’ll work around your busy life to find the perfect time."
+        "Pick same-day, next-day or weekend appointments with no rush fees, subject to scheduling. We’ll work around your busy life to find the perfect time."
        ]
       },
       {
@@ -235,7 +235,7 @@
        ]
       },
       {
-       "title": "Book in Just One Minute",
+       "title": "Easy Booking by Phone or Online",
        "text": [
         "Get on our schedule instantly online or by phone – no waiting for callbacks or complicated paperwork."
        ]
@@ -249,7 +249,7 @@
       {
        "title": "Honest Prices Guaranteed",
        "text": [
-        "Your upfront price includes everything – no surprise fees for stairs, heavy items, or disposal costs."
+        "{{fact:competitorComparison}}"
        ]
       }
      ]
@@ -291,16 +291,16 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Get Instant Pricing – No Surprises, Just Fast & Fair Quotes!"
+     "text": "{{fact:freeOnsiteEstimates}}"
     },
     {
      "t": "ul",
      "items": [
       [
-       "Straightforward quotes with no hidden fees"
+       "{{fact:competitorComparison}}"
       ],
       [
-       "Free instant estimates via phone/text"
+       "{{fact:freeOnsiteEstimates}}"
       ],
       [
        "Bulk removal discounts for offices"
@@ -367,13 +367,13 @@
       {
        "title": "Get a Quote",
        "text": [
-        "Honest cost with no surprise fees."
+        "Honest cost."
        ]
       },
       {
        "title": "Pick Your Time",
        "text": [
-        "Choose same-day or next-day pickup - we come to you at your convenience."
+        "Choose same-day or next-day pickup when available - we come to you at your convenience."
        ]
       },
       {
@@ -463,7 +463,7 @@
        "q": "How much does dresser removal cost?",
        "a": [
         [
-         "Pricing depends on the dresser size and type. Contact us for a free, upfront estimate with no hidden fees."
+         "Pricing depends on the dresser size and type."
         ]
        ]
       }

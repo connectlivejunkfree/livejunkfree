@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-day Junk Cleanout Services in Oshawa | Live Junk Free",
-  "description": "Oshawa residents trust Live Junk Free for same-day junk cleanouts. We remove attic junk, old appliances, garage clutter, and full estate contents. Call now!",
+  "title": "Junk Cleanout Services in Oshawa | Live Junk Free",
+  "description": "Oshawa residents trust Live Junk Free for same-day junk cleanouts when available. We remove attic junk, old appliances, garage clutter, and full estate contents. Call now!",
   "canonical": "https://livejunkfree.ca/locations/junk-cleanout-in-oshawa/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "junk-cleanout-in-oshawa",
+ "title": "Junk Cleanout in Oshawa",
  "h1": "Junk Cleanout Services in Oshawa, Ontario — For Spaces That Filled Up Over the Years",
  "published": "2026-07-14T01:57:42",
  "modified": "2026-07-14T01:52:09",
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "From the wartime and postwar houses of central Oshawa, where families have often lived for fifty years, to the new subdivisions rising in Kedron and Windfields, every part of this city eventually needs a space emptied. Live Junk Free has become Durham Region's go-to crew for exactly that — 660+ five-star Google reviews earned by clearing homes completely, quoting honestly, and treating what's inside them with respect."
+     "text": "From the wartime and postwar houses of central Oshawa, where families have often lived for fifty years, to the new subdivisions rising in Kedron and Windfields, every part of this city eventually needs a space emptied. Live Junk Free has become Durham Region's go-to crew for exactly that — Google reviews earned by clearing homes completely, quoting honestly, and treating what's inside them with respect."
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Crew, truck, fuel, disposal fees, donation runs — all inside the quote. When the attic turns out to hold twice the boxes or the workshop bench is bolted down, that's ours to solve. Your approved price doesn't move."
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} When the attic turns out to hold twice the boxes or the workshop bench is bolted down, that's ours to solve. Your approved price doesn't move."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Local, franchise-free, and 30–50% cheaper for it",
+       "title": "Local, franchise-free",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Every national junk brand builds royalty fees into its rates. We're an independent Oshawa-area operation with none — which is why the same cleanout quoted by a big chain routinely comes in 30–50% higher than ours."
+     "text": "Every national junk brand builds royalty fees into its rates."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small cleanouts start at {{cad_125}}. Garages and basements sit in the middle of the range. Full homes and estates are quoted as one firm all-inclusive number during your free walkthrough — however many truckloads it takes. No hourly meters, no tipping-fee surprises, no revised invoices. What we agree on at the door is what you pay at the end."
+     "text": "Garages and basements sit in the middle of the range. Full homes and estates are quoted as one firm number during your free walkthrough — however many truckloads it takes. No hourly meters, no tipping-fee surprises, no revised invoices."
     },
     {
      "t": "cards",
@@ -254,7 +254,7 @@
       {
        "title": "1. Set the Date",
        "text": [
-        "Call +1 647 922 5865 or book online in minutes. Crews work across Oshawa seven days a week, 6AM to 11PM, with same-day availability most days and a 30-minute text before arrival."
+        "Call +1 647 922 5865 or book online in minutes."
        ]
       },
       {
@@ -477,7 +477,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -507,7 +507,7 @@
        "q": "Q: What's a realistic budget for a cleanout in Oshawa?",
        "a": [
         [
-         "A: It scales with volume and nothing else. Small jobs start at $125, a typical garage or basement lands in the middle, and full homes are quoted as one flat figure — locked in at your free walkthrough and immune to how long the work takes or what turns up along the way."
+         "A: It scales with volume and nothing else."
         ]
        ]
       },

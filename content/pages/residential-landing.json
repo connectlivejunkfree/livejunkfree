@@ -6,7 +6,7 @@
  "template": "AdsLanding",
  "seo": {
   "title": "Residential Landing - Live JunkFree",
-  "description": "Residential junk removal in Toronto and the GTA — furniture, appliances and full home cleanouts with upfront pricing and same-day pickup.",
+  "description": "Residential junk removal in Toronto and the GTA — furniture, appliances and full home cleanouts with upfront pricing and same-day pickup when available.",
   "canonical": "https://livejunkfree.ca/residential-landing/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/Dresser-Removal-Services.webp"
@@ -84,13 +84,13 @@
       "We provide junk removal services in Toronto with ",
       {
        "b": [
-        "best price guaranteed"
+        "{{fact:licensedInsured}}"
        ]
       },
       " and do",
       {
        "b": [
-        " same day pickup."
+        " same day pickup when available."
        ]
       },
       " LiveJunkFree is trusted by 100+ people having done 500+ jobs in the last 3months, our process for junk removal is simple"
@@ -112,7 +112,7 @@
        "title": "Furniture",
        "image": {
         "src": "/images/uploads/2024/11/DSC08963-scaled.webp",
-        "alt": "DSC08963 scaled",
+        "alt": "Residential Landing: Live Junk Free job photo",
         "width": 2560,
         "height": 1707
        }
@@ -154,7 +154,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
-      "alt": "DSC08963",
+      "alt": "Residential Landing: Live Junk Free job photo",
       "width": 800,
       "height": 534
      }
@@ -410,7 +410,7 @@
       {
        "title": "Fast & Reliable Service",
        "text": [
-        "We guarantee same-day service for most jobs, ensuring you're never left waiting."
+        "{{fact:sameDay.short}}"
        ],
        "image": {
         "src": "/images/uploads/2024/09/clock-app.png",
@@ -477,7 +477,7 @@
        ]
       },
       {
-       "title": "Same-Day Service",
+       "title": "Same-Day Service when available",
        "text": [
         "Need it gone fast? Book a same or next-day appointment for quick, hassle-free removal"
        ]
@@ -491,7 +491,7 @@
       {
        "title": "Transparent Pricing",
        "text": [
-        "No hidden costs—our all-inclusive pricing ensures you know exactly what to expect."
+        "—our pricing ensures you know exactly what to expect."
        ]
       }
      ]

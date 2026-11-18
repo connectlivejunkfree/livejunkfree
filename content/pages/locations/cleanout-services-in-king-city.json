@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in King City handled with discretion and care — estate, downsizing, equestrian-property and hoarding cleanouts by an insured crew, quoted flat on site with no prestige-area markup, sorted donation-first, and finished swept without a word leaving the property, seven days a week."
+     "text": "Cleanout services in King City handled with discretion and care — estate, downsizing, equestrian-property and hoarding cleanouts by an insured crew, quoted flat on site with no prestige-area markup, sorted donation-first, and finished swept without a word leaving the property."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Google Reviews"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "King City cleanouts happen behind gates as often as front doors, and our crews are built for the discretion that requires. Around the King Road village core, it’s downsizing and estate cleanouts in long-held homes, cleared with patience and no fuss. On the estate concessions, it’s full properties — main house, guest house, garage, stable — cleared together, quietly, without a moving truck ever announcing itself to a passing car. On equestrian and hobby-farm properties, it’s tack rooms, feed rooms and outbuildings emptied respectfully alongside the house. And for families managing an executor’s duties from out of town or overseas, it’s estate cleanouts run entirely on documentation and trust, with photographs and updates in place of a physical visit. The 660+ five-star Google reviews behind Live Junk Free come from every one of those addresses — flat written quotes with no estate-area premium, total discretion, and properties handed back exactly as promised, quietly."
+      "King City cleanouts happen behind gates as often as front doors, and our crews are built for the discretion that requires. Around the King Road village core, it’s downsizing and estate cleanouts in long-held homes, cleared with patience and no fuss. On the estate concessions, it’s full properties — main house, guest house, garage, stable — cleared together, quietly, without a moving truck ever announcing itself to a passing car. On equestrian and hobby-farm properties, it’s tack rooms, feed rooms and outbuildings emptied respectfully alongside the house. And for families managing an executor’s duties from out of town or overseas, it’s estate cleanouts run entirely on documentation and trust, with photographs and updates in place of a physical visit. The Google reviews behind Live Junk Free come from every one of those addresses — flat written quotes with no estate-area premium, total discretion, and properties handed back exactly as promised, quietly."
      ]
     },
     {
@@ -114,10 +114,10 @@
      "items": [
       {
        "n": "01",
-       "title": "Flat truck-volume cleanout pricing — from {{cad_125}}, the address never inflates it",
+       "title": "Contact us for a quote",
        "text": [
         [
-         "King City cleanouts price by one measure only: your contents’ share of the truck, from {{cad_125}} and scaling openly to full estate properties. Some outfits read a King City postal code and adjust; we price the work. No prestige premium, no discovery clauses, no exceptions."
+         "Some outfits read a King City postal code and adjust; we price the work. No prestige premium, no discovery clauses, no exceptions."
         ]
        ]
       },
@@ -159,10 +159,10 @@
       },
       {
        "n": "06",
-       "title": "Independent cleanout pricing — 30–50% under the franchise chains",
+       "title": "Independent cleanout pricing",
        "text": [
         [
-         "No head-office royalties inside our quotes and no postal-code padding either — local crews, our own trucks, one honest number. Identical King City cleanouts invoice 30–50% below the national brands, with more discretion, not less."
+         "No head-office royalties inside our quotes and no postal-code padding either — local crews, our own trucks, one honest number."
         ]
        ]
       }
@@ -189,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "Small cleanouts start at {{cad_125}} and scale purely with truck volume — a guest suite is a modest figure, a garage a few slivers more, a full estate property fills trucks and prices in plain sight at the walkthrough. The written figure covers sorting, every carry, protection along the route and all disposal fees; it freezes on approval and holds regardless of the address. Multi-day, multi-building estate clears get the complete plan up front."
+      "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Multi-day, multi-building estate clears get the complete plan up front."
      ]
     },
     {
@@ -210,13 +210,13 @@
     },
     {
      "t": "price",
-     "label": "King City Cleanouts From",
-     "value": "{{cad_125}}"
+     "label": "King City Cleanouts Pricing",
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
      "c": [
-      "Volume-priced and all-inclusive — sorting, carrying, hauling and disposal in one figure."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -286,7 +286,7 @@
        "title": "Swept, Composed and Handed Back Without a Word Said",
        "text": [
         [
-         "The property hands back exactly as it should — rooms broom-swept, outbuildings emptied, grounds undisturbed — with debris gone before evening and donation or disposal documentation available for the estate file. No skip bin on the drive, no staging visible from the road."
+         "{{fact:scheduling}} No skip bin on the drive, no staging visible from the road."
         ]
        ]
       }
@@ -677,7 +677,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — estate, equestrian, downsizing and hoarding cleanouts across King City, York Region and the GTA."
+      "Google reviews — estate, equestrian, downsizing and hoarding cleanouts across King City, York Region and the GTA."
      ]
     },
     {

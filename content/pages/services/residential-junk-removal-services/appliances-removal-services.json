@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/04/Appliances-Removal-Services-1.jpg"
  },
  "title": "Appliances Removal Services",
- "h1": "Appliance Removal Services — Same-day Pickup Across the GTA",
+ "h1": "Appliance Removal Services — Same-day Pickup when available Across the GTA",
  "published": "2026-07-09T07:21:44",
  "modified": "2026-07-23T06:19:06",
  "sections": [
@@ -21,7 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Appliance Removal Services — Same-day Pickup Across the GTA"
+     "text": "Appliance Removal Services — Same-day Pickup when available Across the GTA"
     },
     {
      "t": "h",
@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -75,7 +75,7 @@
     {
      "t": "p",
      "c": [
-      "We pick up all types of appliances from homes, condos, and businesses across the GTA — same-day and next-day availability in most areas, pricing confirmed upfront before we move anything, and disposal handled responsibly through certified recycling partners and local donation channels. No hidden fees, no surprises, no lifting on your end. Give us a call and we’ll handle the rest."
+      "We pick up all types of appliances from homes, condos, and businesses across the GTA — same-day and next-day availability in most areas, pricing confirmed upfront before we move anything, and disposal handled responsibly through recycling partners and local donation channels., no surprises, no lifting on your end. Give us a call and we’ll handle the rest."
      ]
     },
     {
@@ -114,13 +114,13 @@
         "appliance removal service"
        ]
       },
-      " covers everything — safe disconnection, careful handling, and eco-friendly disposal, all at a price you’ll know upfront before we touch anything. Whether it’s a fridge wedged into a tight kitchen corner, a stacked washer and dryer unit, or several appliances from the same property — we make them disappear cleanly and efficiently, leaving the space ready for whatever comes next."
+      " Whether it’s a fridge wedged into a tight kitchen corner, a stacked washer and dryer unit, or several appliances from the same property — we make them disappear cleanly and efficiently, leaving the space ready for whatever comes next."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Our fully licensed and insured crew treats every GTA home with the same care we’d expect for our own — protective coverings on floors and walls, careful navigation through tight doorways, and zero mess left behind. By the time we’re done, your space is clean, clear, and completely ready for your next step."
+      "{{fact:propertyProtection}}. By the time we’re done, your space is clean, clear, and completely ready for your next step."
      ]
     },
     {
@@ -146,7 +146,7 @@
      "c": [
       {
        "b": [
-        "Call answered in 1 minute."
+        ""
        ]
       }
      ]
@@ -158,7 +158,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-day Appliance Removal Services Across the GTA"
+     "text": "Appliance Removal Services Across the GTA"
     },
     {
      "t": "p",
@@ -170,13 +170,13 @@
         "Live Junk Free"
        ]
       },
-      " offers same-day and next-day ",
+      " offers same-day when available and next-day ",
       {
        "b": [
         "appliance removal services"
        ]
       },
-      " across the GTA — from Scarborough to Mississauga, Brampton to North York. Call us in the morning and we can often be there the same afternoon."
+      " across the GTA — from Scarborough to Mississauga, Brampton to North York."
      ]
     },
     {
@@ -204,12 +204,12 @@
          "Eco-first disposal"
         ]
        },
-       " — certified recycling and local donation before any landfill consideration"
+       " — recycling and local donation before any landfill consideration"
       ],
       [
        {
         "b": [
-         "598+ five-star Google reviews"
+         "Google reviews"
         ]
        },
        " — a track record built by real GTA customers"
@@ -220,7 +220,7 @@
          "Property protected start to finish"
         ]
        },
-       " — protective coverings on floors, walls, and elevator interiors"
+       " {{fact:propertyProtection}}"
       ]
      ]
     },
@@ -229,7 +229,7 @@
      "c": [
       {
        "b": [
-        "We Offer Same-Day Appliance Removal Services"
+        "We Offer Appliance Removal Services"
        ]
       }
      ]
@@ -251,13 +251,13 @@
     {
      "t": "p",
      "c": [
-      "Labour, disconnection assistance, hauling, and eco-friendly disposal are all included in your upfront price. No line items added after we’ve loaded the truck."
+      "No line items added after we’ve loaded the truck."
      ]
     },
     {
      "t": "h",
      "l": 3,
-     "text": "One Quote Covers Everything"
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "cards",
@@ -265,7 +265,7 @@
       {
        "title": "Appliances Recycled Properly",
        "text": [
-        "Steel, copper, aluminium, and motor components all have genuine recovery value. We route every appliance to certified recycling facilities — not general waste — on every single job."
+        "Steel, copper, aluminium, and motor components all have genuine recovery value. We route every appliance to recycling facilities — not general waste — on every single job."
        ]
       },
       {
@@ -312,13 +312,10 @@
      "t": "ul",
      "items": [
       [
-       "Metal & Component Recycling: We responsibly recycle up to 85% of appliance materials through certified processing facilities"
+       "{{fact:recycling}}"
       ],
       [
        "Appliance Donation Initiative: Working units find new homes through local shelters and community programs"
-      ],
-      [
-       "Hazardous Material Handling: Proper disposal of refrigerants, oils, and other regulated substances"
       ]
      ]
     },
@@ -329,7 +326,7 @@
        "b": [
         {
          "i": [
-          "Maintains the same environmental focus while adapting perfectly for appliance removal services – keeps the same structure."
+          ""
          ]
         }
        ]
@@ -351,13 +348,13 @@
      "t": "ul",
      "items": [
       [
-       "Pay Only for What We Remove – Simple pricing with no hidden fees or unexpected charges"
+       "{{fact:competitorComparison}}"
       ],
       [
-       "Free Instant Estimates – Receive accurate quotes by phone, text, or online within minutes"
+       "{{fact:freeOnsiteEstimates}}"
       ],
       [
-       "Multi-Unit Discounts – Special rates when removing multiple appliances or full kitchen clearouts"
+       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -520,19 +517,19 @@
       {
        "title": "Send Us Details",
        "text": [
-        "Text or email photos of your appliance (freezer, dish washer, TV, etc.), and we'll provide a free, accurate estimate within minutes, no onsite visit required."
+        "{{fact:freeOnsiteEstimates.long}}"
        ]
       },
       {
        "title": "Get Your Quote",
        "text": [
-        "Receive transparent, upfront pricing for appliance removal, including disconnection, haul-away, and eco-friendly disposal or recycling options."
+        "{{fact:taxNote}}. {{fact:pricingIntro.extra}}"
        ]
       },
       {
        "title": "Choose Your Time",
        "text": [
-        "Select same-day, next-day, or scheduled pickup that works for you - ideal for kitchen renovations or property cleanouts."
+        "Select same-day, next-day, or scheduled pickup that works for you - ideal for kitchen renovations or property cleanouts, subject to scheduling."
        ]
       },
       {
@@ -599,7 +596,7 @@
        "q": "Do you recycle or donate old appliances?",
        "a": [
         [
-         "Yes, we recycle about 85% of materials and donate working appliances to local charities when possible."
+         "{{fact:recycling}}"
         ]
        ]
       },
@@ -607,7 +604,7 @@
        "q": "How much does appliance removal cost?",
        "a": [
         [
-         "Prices start at $125 per appliance, with final cost depending on size, type, and any special removal requirements."
+         "{{fact:quoteText}}"
         ]
        ]
       },

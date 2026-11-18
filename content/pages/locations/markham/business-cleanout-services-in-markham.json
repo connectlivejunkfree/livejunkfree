@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Business cleanout services in Markham from Live Junk Free route retired IT equipment through certified recyclers as standard — the old servers, monitors, workstations and networking gear that come out of a corporate refresh cycle get disposed of properly, with documentation available for whoever needs to prove it."
+     "text": "Business cleanout services in Markham from Live Junk Free route retired IT equipment through recyclers as standard — the old servers, monitors, workstations and networking gear that come out of a corporate refresh cycle get disposed of properly, with documentation available for whoever needs to prove it."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Google Reviews"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because a city with this much genuine tech company presence goes through corporate refresh cycles constantly — servers, workstations, monitors and networking equipment retired on a regular schedule as companies upgrade. That kind of e-waste needs to go through the right channel, and for a business, that usually means documentation too — proof of certified disposal for asset records, and confirmation that data-bearing devices were handled securely. Live Junk Free routes it to certified recyclers as a standard part of every business cleanout, with documentation available without having to ask twice."
+      "Because a city with this much genuine tech company presence goes through corporate refresh cycles constantly — servers, workstations, monitors and networking equipment retired on a regular schedule as companies upgrade. That kind of e-waste needs to go through the right channel, and for a business, that usually means documentation too — proof of disposal for asset records, and confirmation that data-bearing devices were handled securely. Live Junk Free routes it to recyclers as a standard part of every business cleanout, with documentation available without having to ask twice."
      ]
     },
     {
@@ -116,7 +116,7 @@
     {
      "t": "p",
      "c": [
-      "Yes, as standard practice. Servers, workstations, monitors and networking equipment get routed to certified recyclers rather than mixed into general disposal, and documentation is provided for asset records and data security purposes."
+      "Yes, as standard practice. Servers, workstations, monitors and networking equipment get routed to recyclers rather than mixed into general disposal, and documentation is provided for asset records and data security purposes."
      ]
     }
    ]
@@ -128,10 +128,10 @@
      "items": [
       {
        "n": "01",
-       "title": "Certified IT asset recycling for every business cleanout",
+       "title": "{{fact:recycling}}",
        "text": [
         [
-         "Old servers, workstations, monitors and networking equipment get sorted out and routed to certified recyclers as standard, not as an extra step."
+         "Old servers, workstations, monitors and networking equipment get sorted out and routed to recyclers as standard, not as an extra step."
         ]
        ]
       },
@@ -140,7 +140,7 @@
        "title": "Business cleanout asset disposition documentation provided without having to ask",
        "text": [
         [
-         "A written record of what was recycled, donated or disposed of is available for every business cleanout, offered proactively for asset and data security records."
+         ""
         ]
        ]
       },
@@ -158,7 +158,7 @@
        "title": "Condo and tower business cleanout coordination for Markham buildings",
        "text": [
         [
-         "COIs go to management at booking, freight elevators reserve ahead, and the space clears inside the window the building grants."
+         "{{fact:insuranceDocs}}."
         ]
        ]
       },
@@ -173,7 +173,7 @@
       },
       {
        "n": "06",
-       "title": "Independent business cleanout pricing, 30–50% under the bigger outfits",
+       "title": "Independent business cleanout pricing",
        "text": [
         [
          "National junk removal franchises build a royalty into every quote. Live Junk Free carries none of that overhead."
@@ -209,14 +209,14 @@
     {
      "t": "p",
      "c": [
-      "What never enters the calculation is the building type. The figure is confirmed for free at an on-site walkthrough, with certified e-waste recycling and documentation included as standard rather than an upcharge."
+      "What never enters the calculation is the building type. The figure is confirmed for free at an on-site walkthrough, with e-waste recycling and documentation included as standard rather than an upcharge."
      ]
     },
     {
      "t": "checks",
      "items": [
       "Hauling-Away",
-      "No Stairs Surcharges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -231,12 +231,12 @@
     {
      "t": "price",
      "label": "Markham Business Cleanout",
-     "value": "{{cad_125}}"
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
      "c": [
-      "Volume-priced and all-inclusive — sorting, carrying, hauling and disposal in one figure."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -279,7 +279,7 @@
        "title": "Book Your Business Cleanout Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available, seven days a week, 6AM to 11PM."
+         "Call +1 647 922 5865 or book online — same-day slots are usually available."
         ]
        ]
       },
@@ -288,7 +288,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual space, notes any IT equipment that needs certified recycling, and gives you one flat price before anything moves."
+         "The crew looks at the actual space, notes any IT equipment that needs recycling, and gives you one flat price before anything moves."
         ]
        ]
       },
@@ -297,7 +297,7 @@
        "title": "The Space Gets Cleared and Sorted Properly",
        "text": [
         [
-         "Items get separated into keep, donate, resell, recycle and dispose categories, with IT equipment routed to certified recyclers and a record kept as it goes."
+         "Items get separated into keep, donate, resell, recycle and dispose categories, with IT equipment routed to recyclers and a record kept as it goes."
         ]
        ]
       },
@@ -306,7 +306,7 @@
        "title": "Your Space Is Ready, With a Record to Show for It",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, IT assets go to certified recyclers, and documentation is available without a follow-up request."
+         "Whatever’s leaving gets hauled out, IT assets go to recyclers, and documentation is available without a follow-up request."
         ]
        ]
       }
@@ -347,7 +347,7 @@
        "Business cleanouts with a significant volume of retired IT equipment"
       ],
       [
-       "Certified recycling for servers, workstations, monitors and networking gear"
+       "Recycling for servers, workstations, monitors and networking gear"
       ],
       [
        "Documentation of what was recycled available as standard"
@@ -375,7 +375,7 @@
        "Business cleanouts in suites near Commerce Valley and Markham Centre"
       ],
       [
-       "COIs, freight elevator bookings and building rules handled before arrival"
+       "{{fact:licensedInsured}}"
       ],
       [
        "Discreet timing coordinated with concierge and management"
@@ -690,7 +690,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — IT-heavy, condo tower and heritage business cleanouts across Markham, York Region and the GTA."
+      "Google reviews — IT-heavy, condo tower and heritage business cleanouts across Markham, York Region and the GTA."
      ]
     },
     {
@@ -835,7 +835,7 @@
        "q": "Are IT assets really recycled and documented properly, not just thrown out?",
        "a": [
         [
-         "Yes, as standard. Servers, workstations, monitors and networking equipment get routed to certified recyclers, and documentation is provided for asset and data security records."
+         "Yes, as standard. Servers, workstations, monitors and networking equipment get routed to recyclers, and documentation is provided for asset and data security records."
         ]
        ]
       },
@@ -851,7 +851,7 @@
        "q": "Can you handle a business cleanout in a condo near Commerce Valley?",
        "a": [
         [
-         "Yes, and it’s handled by the building’s book. COIs go to management at booking, freight elevators reserve ahead."
+         "Yes, and it’s handled by the building’s book. {{fact:insuranceDocs}}."
         ]
        ]
       },
@@ -867,7 +867,7 @@
        "q": "Do you provide documentation for landlords or asset records?",
        "a": [
         [
-         "Yes, as standard — a written record of what was recycled, donated or disposed of is available without needing to be specifically requested."
+         ""
         ]
        ]
       },
@@ -875,7 +875,7 @@
        "q": "Can you clear the space the same day I call?",
        "a": [
         [
-         "Often, yes — trucks run seven days a week, 6AM to 11PM."
+         "{{fact:sameDay}}."
         ]
        ]
       },

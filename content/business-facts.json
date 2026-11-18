@@ -1,0 +1,236 @@
+{
+  "_readme": "Single source for every business claim that depends on Nav's confirmation (Batch 1 audit). Page text, FAQ answers, titles, descriptions and JSON-LD reference these as {{fact:key}} or {{fact:key.field}}. status: confirmed = shown as written; pending = safe wording shown until Nav answers; removed = renders nothing. When Nav answers: edit the entry here (and see docs/client/batch-1/NAV-CONFIRMATIONS.md for claims that can be restored).",
+  "_source": "docs/client/batch-1/LJF_Akshat_Implementation_Register_v1_2026-11-12.xlsx (Approved Rules R1-R16); client questions in LJF_Info_Needed_Part1_Urgent.pdf and LJF_Info_Needed_Part2.pdf; decisions: docs/client/batch-1/LJF_Akshat_Point_by_Point_Answers_18_Nov_2026.pdf (18 Nov 2026)",
+  "phone": {
+    "status": "confirmed",
+    "display": "+1 647 922 5865",
+    "tel": "+16479225865",
+    "text": "+1 647 922 5865"
+  },
+  "licensedInsured": {
+    "status": "confirmed",
+    "rule": "R4",
+    "text": "Licensed and insured"
+  },
+  "freeOnsiteEstimates": {
+    "status": "confirmed",
+    "rule": "R5",
+    "text": "Free onsite estimates",
+    "long": "Free onsite estimates are available. Call or send an enquiry and we’ll review your items and pickup details."
+  },
+  "curbsideDiscount": {
+    "status": "confirmed",
+    "rule": "R6",
+    "percent": 10,
+    "text": "10% off when the items to be removed are already placed at the curb or driveway. Ask our team to confirm offer eligibility",
+    "short": "10% off items already at the curb or driveway"
+  },
+  "bedBugScope": {
+    "status": "confirmed",
+    "rule": "R3, Answers B7.1",
+    "text": "We wrap affected furniture, bag smaller affected items where appropriate, wear shoe covers, and remove and carefully dispose of the items. We don’t provide pest treatment; a pest-control professional handles treatment. Call us so we can check the items and any building rules before booking."
+  },
+  "servingArea": {
+    "status": "confirmed",
+    "rule": "R9",
+    "text": "Serving {town} and surrounding areas"
+  },
+  "minimumPrice": {
+    "status": "confirmed",
+    "question": "Answers A1.3",
+    "value": 125,
+    "display": "C$125",
+    "text": "Junk Load from C$125 (1/16 load, 1 cubic yard). The final quote depends on the items, access and work required and will be confirmed before removal begins",
+    "short": "Junk Load from C$125"
+  },
+  "quoteText": {
+    "status": "confirmed",
+    "question": "Answers A1.6, A1.7",
+    "text": "Contact us for a quote based on the items, access and removal requirements.",
+    "explain": "Load volume and type of material, stairs or long carries, disassembly, specialist handling, additional labour and availability may affect the final quote. Any taxes and job-specific charges are explained before you approve the quote."
+  },
+  "sameDay": {
+    "status": "confirmed",
+    "question": "Answers B2.1 + Manisha follow-up, 18 Nov 2026",
+    "text": "Same-day pickup may be available depending on the job, location and crew availability",
+    "short": "Same-day pickup may be available",
+    "adj": "when available"
+  },
+  "scheduling": {
+    "status": "confirmed",
+    "question": "Answers A3.4, B2.2 + Manisha follow-up, 18 Nov 2026",
+    "text": "We’ll call you to agree a pickup day and arrival window. Weekend pickups are available, subject to scheduling."
+  },
+  "competitorComparison": {
+    "status": "confirmed",
+    "question": "Answers B1.1",
+    "rule": "R1",
+    "percent": null,
+    "text": "Transparent, upfront pricing"
+  },
+  "reviews": {
+    "status": "pending",
+    "question": "Answers B8.1 (omit until a verified widget/source)",
+    "count": null,
+    "rating": null,
+    "asOf": null,
+    "text": "Read our Google reviews"
+  },
+  "stats": {
+    "status": "removed",
+    "question": "Answers B8.2",
+    "jobs": null,
+    "clients": null,
+    "years": null
+  },
+  "businessHours": {
+    "status": "confirmed",
+    "question": "Manisha follow-up, 18 Nov 2026 (phone hours only; days not stated)",
+    "text": "Phone hours: 7 am–11 pm"
+  },
+  "recycling": {
+    "status": "confirmed",
+    "question": "Answers B4.1",
+    "text": "We aim to recycle or donate suitable items where practical; disposal depends on item type and local facilities"
+  },
+  "propertyProtection": {
+    "status": "confirmed",
+    "question": "Answers B3.3",
+    "text": "We take care when moving items through your property and discuss access before removal"
+  },
+  "accessCoordination": {
+    "status": "confirmed",
+    "question": "Answers B6.5",
+    "text": "Please arrange elevator or loading-dock approval with your building, unless we’ve agreed to coordinate it on the call. Tell us about stairs, elevators and loading docks when you enquire."
+  },
+  "retainedItems": {
+    "status": "confirmed",
+    "question": "Answers B6.1, B6.3",
+    "text": "Tell us which items should be removed, and we’ll discuss the scope before starting. If our crew comes across anything that looks valuable, they’ll check with you before removing it."
+  },
+  "pestProfessional": {
+    "status": "confirmed",
+    "rule": "R3",
+    "text": "For treatment, please speak to a licensed pest-control professional."
+  },
+  "dataSecurity": {
+    "status": "confirmed",
+    "question": "Answers B5.1",
+    "text": "Please arrange your own data removal before pickup. Our service is pickup and appropriate downstream handling; we don’t provide data erasure or data-destruction certificates."
+  },
+  "utilityDisconnection": {
+    "status": "confirmed",
+    "question": "Answers B5.5-B5.7",
+    "text": "Please arrange qualified gas, electrical and water disconnection where required before pickup. We’ll discuss draining, power isolation and access before we accept the job."
+  },
+  "permits": {
+    "status": "confirmed",
+    "question": "Answers B5.9",
+    "text": "Permit requirements, where applicable, must be confirmed before work begins. Who arranges them is agreed for each job."
+  },
+  "eviction": {
+    "status": "confirmed",
+    "question": "Answers B6.6",
+    "text": "The landlord or property manager must confirm their legal right to remove the items before we start. We don’t provide legal advice; for legal questions, please speak to a lawyer or paralegal."
+  },
+  "satisfactionGuarantee": {
+    "status": "removed",
+    "question": "Answers B3.2"
+  },
+  "specialist": {
+    "dataDestruction": "removed",
+    "documentShredding": "removed",
+    "medicalWaste": "removed",
+    "refrigerants": "removed",
+    "disconnections": "removed",
+    "structuralDemolition": "removed",
+    "permits": "removed",
+    "emergency247": "removed",
+    "r2Certified": "removed",
+    "_questions": "Part 2 B-5 #1-18"
+  },
+  "fullLoadPrice": {
+    "status": "confirmed",
+    "question": "Answers A1.4",
+    "value": 655,
+    "display": "C$655",
+    "text": "A full Junk Load (16 cubic yards) is C$655"
+  },
+  "pricingIntro": {
+    "status": "confirmed",
+    "question": "Answers – pricing language",
+    "text": "See estimated load-size pricing for standard junk removal. Select a load size to view the corresponding rate. The final quote depends on the items, access and work required and will be confirmed before removal begins.",
+    "extra": "Additional handling, heavy materials or labour beyond the included allowance, where applicable, will be explained before you approve the quote. Applicable taxes and any job-specific charges will be identified in the final quote."
+  },
+  "nextAvailable": {
+    "status": "confirmed",
+    "question": "Answers B5.13",
+    "text": "Contact us to check the next available pickup."
+  },
+  "concreteScope": {
+    "status": "confirmed",
+    "question": "Answers B5.11",
+    "text": "Concrete removal and related work can be assessed based on site conditions and scope."
+  },
+  "carpetScope": {
+    "status": "confirmed",
+    "question": "Answers B5.14",
+    "text": "Tell us about the carpet and underlay; we’ll confirm what removal is included in your quote."
+  },
+  "medicalOffice": {
+    "status": "confirmed",
+    "question": "Answers B5.3",
+    "text": "Contact us to discuss acceptable non-hazardous items."
+  },
+  "hazardous": {
+    "status": "confirmed",
+    "question": "Answers B5.8",
+    "text": "We can’t take hazardous materials such as paint or chemicals. Send us an enquiry and we’ll check which non-hazardous contents we can remove."
+  },
+  "labourJunk": {
+    "status": "confirmed",
+    "question": "Rate card",
+    "text": "1/2 Hour of Labour Included Per 1/4 Load."
+  },
+  "labourBed": {
+    "status": "confirmed",
+    "question": "Rate card",
+    "text": "1 Hour of Labour Included Per 1/2 Load."
+  },
+  "callbackNote": {
+    "status": "confirmed",
+    "question": "Answers A3.6",
+    "label": "Preferred time for a callback (optional)",
+    "text": "We’ll contact you to discuss availability. This does not reserve or confirm a pickup appointment."
+  },
+  "insuranceDocs": {
+    "status": "confirmed",
+    "question": "Answers B3.1",
+    "text": "Live Junk Free is licensed and insured. Commercial customers and property managers can contact our team about documentation"
+  },
+  "cleanupScope": {
+    "status": "confirmed",
+    "question": "Answers B6.2",
+    "text": "We remove the agreed items; light sweeping or cleanup is included only if it's agreed in your quote"
+  },
+  "siteWorkScope": {
+    "status": "confirmed",
+    "question": "Answers B5.10, B5.11",
+    "text": "Soil, dirt and debris removal can be assessed based on site conditions and scope. Excavation, grading and backfilling aren't promised as part of removal"
+  },
+  "weekendPickup": {
+    "status": "confirmed",
+    "question": "Manisha follow-up, 18 Nov 2026",
+    "text": "Weekend pickups are available, subject to scheduling"
+  },
+  "taxNote": {
+    "status": "confirmed",
+    "question": "Manisha follow-up, 18 Nov 2026",
+    "text": "Displayed load rates exclude applicable taxes"
+  },
+  "structuralDemolition": {
+    "status": "confirmed",
+    "question": "Manisha follow-up, 18 Nov 2026",
+    "text": "Structural or attached demolition work is subject to assessment and isn’t guaranteed for every project"
+  }
+}

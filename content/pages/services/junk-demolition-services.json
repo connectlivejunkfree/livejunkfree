@@ -6,7 +6,7 @@
  "template": "ServiceHub",
  "seo": {
   "title": "Demolition Services Toronto & GTA | Safe & Fast | Live Junk Free",
-  "description": "Need demolition services in Toronto & GTA? Live Junk Free handles shed, deck & hot tub demolition — same day, fully insured. Call +1 647 922 5865!",
+  "description": "Need demolition services in Toronto & GTA? Live Junk Free handles shed, deck & hot tub demolition — same day, fully insured, subject to scheduling. Call +1 647 922 5865!",
   "canonical": "https://livejunkfree.ca/services/junk-demolition-services/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/Wall_demolition_services.jpeg"
@@ -456,52 +456,6 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Our Commitment to Professional Demolition"
-    },
-    {
-     "t": "p",
-     "c": [
-      "At ",
-      {
-       "a": "/",
-       "c": [
-        "Live Junk Free"
-       ]
-      },
-      ", our dedication to productivity, competence, and security constitutes the basis of our demolition services. Whether you’re looking for ",
-      {
-       "b": [
-        "“basement dig-out contractors near me”"
-       ]
-      },
-      ", ",
-      {
-       "b": [
-        "“concrete demolition and removal near me”"
-       ]
-      },
-      " or any ",
-      {
-       "b": [
-        "demolition company "
-       ]
-      },
-      "in the Greater Toronto Area",
-      {
-       "b": [
-        ","
-       ]
-      },
-      " we are your trustworthy companion at every stage. We take care of all things, including debris removal and architectural demolition so you can start the next undertaking in a neat, organised place. We are also aware of the careful preparation and implementation necessary for every demolition work. For this reason, we handle every task with accuracy, making sure that your requirements are satisfied successfully and securely."
-     ]
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
      "text": "Connect Us To Free your Space"
     },
     {
@@ -637,12 +591,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "250+ Customers."
+     "text": "{{fact:reviews}}"
     },
     {
      "t": "h",
      "l": 3,
-     "text": "With more than 250 happy clients, we have established a solid foundation for providing trusted, efficient, and skilled demolition services. Our expanding clientele serves as a confirmation of our determination and proficiency in each task."
+     "text": "We have established a solid foundation for providing trusted, efficient, and skilled demolition services. Our expanding clientele serves as a confirmation of our determination and proficiency in each task."
     },
     {
      "t": "ctas",
@@ -665,7 +619,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "To make things simpler for you while you modify your space, we provide several kinds of demolition services. We can take care of everything, from basic tasks like the eviction of a shed to more complicated ones like concrete demolition and basement dig-outs. We recognise the importance of cost in the process of finalizing decisions. That's the reason we provide affordable and clear costing without any additional fees, whether it is above-ground pool removal cost, garage demolition and removal cost, commercial demolition cost or any other. Regardless of your financial constraints or preference for a high-end service, we are dedicated to providing cost-effective solutions without affecting performance.Our range of services includes residential and commercial junk removal, demolition debris cleanup, and specialized clean-outs. No matter the situation, Live Junk Free provides the expertise and tools needed to handle the job. We also cater to unique requests, ensuring that even the most challenging projects are completed to your satisfaction. Our professional team is trained to handle items of all shapes and sizes, including furniture, appliances, electronics, and construction waste."
+     "text": "To make things simpler for you while you modify your space, we provide several kinds of demolition services. We recognise the importance of cost in the process of finalizing decisions. Regardless of your financial constraints or preference for a high-end service, we are dedicated to providing cost-effective solutions without affecting performance.Our range of services includes residential and commercial junk removal, demolition debris cleanup, and specialized clean-outs. No matter the situation, Live Junk Free provides the expertise and tools needed to handle the job. We also cater to unique requests, ensuring that even the most challenging projects are completed to your satisfaction. Our professional team is trained to handle items of all shapes and sizes, including furniture, appliances, electronics, and construction waste."
     }
    ]
   },
@@ -755,7 +709,7 @@
      "items": [
       {
        "n": "05",
-       "title": "Total Cleanup Guarantee",
+       "title": "Debris Hauled Away",
        "text": []
       }
      ]
@@ -892,7 +846,7 @@
        "q": "How does your pricing work?",
        "a": [
         [
-         "Our pricing is based on the volume of items being removed, the type of items, and the difficulty of removal. We offer upfront pricing with no hidden fees. You can also request a free estimate by contacting us or using our online booking system."
+         "Our pricing is based on the volume of items being removed, the type of items, and the difficulty of removal. You can also request a free estimate by contacting us or using our online booking system."
         ]
        ]
       },
@@ -920,7 +874,7 @@
        "q": "How far in advance do I need to schedule a pickup?",
        "a": [
         [
-         "We strive to accommodate our customers’ schedules as much as possible. While we do accept same-day appointments when available, we recommend scheduling your pickup at least 24-48 hours in advance to ensure availability. However, we understand that emergencies happen, so feel free to reach out to us, and we’ll do our best to accommodate your needs.",
+         "We strive to accommodate our customers’ schedules as much as possible. However, we understand that emergencies happen, so feel free to reach out to us, and we’ll do our best to accommodate your needs.",
          {
           "br": 1
          },

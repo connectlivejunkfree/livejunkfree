@@ -264,7 +264,7 @@
      "t": "ul",
      "items": [
       [
-       "Landfill Diversion: Up to 85% of mattress materials can be recycled or repurposed"
+       "{{fact:recycling}}"
       ],
       [
        "Resource Conservation: Recycling reduces demand for virgin materials"
@@ -405,7 +405,7 @@
        "Support for circular economy principles"
       ],
       [
-       "Preference for certified disposal methods"
+       "Preference for disposal methods"
       ]
      ]
     }

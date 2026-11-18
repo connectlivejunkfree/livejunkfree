@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-day House Cleanout Services in Aurora | Live Junk Free",
-  "description": "Get fast, same-day house cleanouts in Aurora with Live Junk Free. From estate cleanouts to garage junk and attic waste, we remove it all. Schedule now!",
+  "title": "House Cleanout Services in Aurora | Live Junk Free",
+  "description": "Get fast, same-day house cleanouts in Aurora with Live Junk Free, subject to scheduling. From estate cleanouts to garage junk and attic waste, we remove it all. Schedule now!",
   "canonical": "https://livejunkfree.ca/locations/house-cleanout-in-aurora/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "house-cleanout-in-aurora",
+ "title": "House Cleanout in Aurora",
  "h1": "House Cleanout Services in Aurora, Ontario — Decades In, One Day Out",
  "published": "2026-07-15T02:24:54",
  "modified": "2026-07-15T02:24:54",
@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Aurora homes tend to be held, not flipped — twenty, thirty, forty years in the same house is common here. Which means when the time finally comes to empty one, it’s never a small job: every closet, every crawlspace, every corner of the basement holds its share. Our fully insured crew turns that mountain into an afternoon. One free walkthrough, one flat all-inclusive quote, and a team that sorts, carries, hauls and sweeps until the house is empty — with everything that matters set carefully aside."
+      "Aurora homes tend to be held, not flipped — twenty, thirty, forty years in the same house is common here. Which means when the time finally comes to empty one, it’s never a small job: every closet, every crawlspace, every corner of the basement holds its share. Our fully insured crew turns that mountain into an afternoon. One free walkthrough, one flat quote, and a team that sorts, carries, hauls and sweeps until the house is empty — with everything that matters set carefully aside."
      ]
     },
     {
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Whether it's a character home near the old downtown, a family house in Aurora Highlands where the kids grew up and moved on, or a larger property in Aurora Estates changing hands, the pattern repeats: long tenure, deep accumulation, and a deadline attached to letting it all go. Live Junk Free has cleared hundreds of homes like these — 660+ five-star Google reviews earned by treating decades of belongings with more respect than a dumpster ever could."
+     "text": "Whether it's a character home near the old downtown, a family house in Aurora Highlands where the kids grew up and moved on, or a larger property in Aurora Estates changing hands, the pattern repeats: long tenure, deep accumulation, and a deadline attached to letting it all go. Live Junk Free has cleared hundreds of homes like these — Google reviews earned by treating decades of belongings with more respect than a dumpster ever could."
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Crew, trucks, fuel, disposal fees, donation runs — everything inside a single approved figure. If the basement holds double what anyone guessed, that's our surprise to absorb, not yours to fund."
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} If the basement holds double what anyone guessed, that's our surprise to absorb, not yours to fund."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Local and franchise-free — 30–50% below the national names",
+       "title": "Local and franchise-free",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Franchise haulers carry royalty fees in every quote, and on a multi-load cleanout those fees stack up fast. We have none — which is why the same Aurora house consistently empties for 30–50% less with us."
+     "text": "Franchise haulers carry royalty fees in every quote, and on a multi-load cleanout those fees stack up fast."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small cleanouts start at {{cad_125}}, single spaces like garages and basements sit mid-range, and complete home clear-outs — even multi-truckload ones — are quoted as one locked, all-inclusive number at your free walkthrough. In a town where houses hold decades, that certainty matters: the figure agreed at the front door is the figure paid when the last room is swept."
+     "text": "In a town where houses hold decades, that certainty matters: the figure agreed at the front door is the figure paid when the last room is swept."
     },
     {
      "t": "cards",
@@ -254,7 +254,7 @@
       {
        "title": "1. Book the Walkthrough",
        "text": [
-        "Call +1 647 922 5865 or book online in minutes. Crews cover Aurora seven days a week, 6AM to 11PM, with same-day openings and a 30-minute text before we arrive."
+        "Call +1 647 922 5865 or book online in minutes."
        ]
       },
       {
@@ -477,7 +477,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -507,7 +507,7 @@
        "q": "Q: How much does it cost to clean out a house in Aurora?",
        "a": [
         [
-         "A: The price tracks volume and nothing else. Small loads start at $125, single spaces land mid-range, and full homes — even several truckloads deep — are quoted as one flat figure at a free walkthrough. Once approved, that number is locked regardless of what the house turns out to hold."
+         "A: The price tracks volume and nothing else. Once approved, that number is locked regardless of what the house turns out to hold."
         ]
        ]
       },

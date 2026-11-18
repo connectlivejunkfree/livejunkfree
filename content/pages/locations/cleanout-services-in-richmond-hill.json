@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Richmond Hill from Live Junk Free — estate, downsizing, condo and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished swept on schedule, seven days a week."
+     "text": "Cleanout services in Richmond Hill from Live Junk Free — estate, downsizing, condo and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished swept on schedule."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Google Reviews"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Richmond Hill grew in two directions at once, and Live Junk Free’s cleanout crews serve both daily. Along the Yonge Street corridor’s condo towers, it’s suite cleanouts — estates, downsizing moves and tenant turnovers cleared floor by floor inside every building’s rules. Around Mill Pond and the town’s original heritage streets, it’s estate cleanouts in homes held for generations, cleared with patience and the character kept. In Bayview Hill and Beverley Acres, it’s larger estate cleanouts handled with real discretion — grounds, guest wings and everything in between. Through Oak Ridges and the newer subdivisions, it’s garage, basement and moving cleanouts for growing families. And across the district, it’s household-merge cleanouts as parents move in with adult children, two homes becoming one. The 660+ five-star Google reviews behind Live Junk Free come from every one of those addresses — flat written quotes, careful hands whatever the address type, and space handed back exactly as promised."
+      "Richmond Hill grew in two directions at once, and Live Junk Free’s cleanout crews serve both daily. Along the Yonge Street corridor’s condo towers, it’s suite cleanouts — estates, downsizing moves and tenant turnovers cleared floor by floor inside every building’s rules. Around Mill Pond and the town’s original heritage streets, it’s estate cleanouts in homes held for generations, cleared with patience and the character kept. In Bayview Hill and Beverley Acres, it’s larger estate cleanouts handled with real discretion — grounds, guest wings and everything in between. Through Oak Ridges and the newer subdivisions, it’s garage, basement and moving cleanouts for growing families. And across the district, it’s household-merge cleanouts as parents move in with adult children, two homes becoming one. The Google reviews behind Live Junk Free come from every one of those addresses — flat written quotes, careful hands whatever the address type, and space handed back exactly as promised."
      ]
     },
     {
@@ -114,10 +114,10 @@
      "items": [
       {
        "n": "01",
-       "title": "Flat truck-volume cleanout pricing — from {{cad_125}}, honest across every address type",
+       "title": "Contact us for a quote",
        "text": [
         [
-         "Richmond Hill cleanouts price by one measure: your contents’ share of the truck, from {{cad_125}} and scaling openly to whole estates or condo suites. Yonge corridor tower or Bayview Hill estate, the number is identical for the identical load — no prestige-area markup, no tower-access surcharge, ever."
+         "Yonge corridor tower or Bayview Hill estate, the number is identical for the identical load — no prestige-area markup, no tower-access surcharge, ever."
         ]
        ]
       },
@@ -135,7 +135,7 @@
        "title": "Condo and high-rise estate cleanouts, run by the building's book",
        "text": [
         [
-         "Estate suites and downsizing moves along the Yonge corridor clear inside every rule the tower keeps: COIs to management, freight elevators booked ahead, hallways and lobbies protected throughout. A cleanout the concierge never has to chase up."
+         "{{fact:insuranceDocs}}. A cleanout the concierge never has to chase up."
         ]
        ]
       },
@@ -159,10 +159,10 @@
       },
       {
        "n": "06",
-       "title": "Independent cleanout pricing — 30–50% under the franchise chains",
+       "title": "Independent cleanout pricing",
        "text": [
         [
-         "No head-office royalties inside our quotes and no postal-code padding either — Live Junk Free runs local crews and our own trucks, one honest number. Identical Richmond Hill cleanouts invoice 30–50% below the national brands."
+         "No head-office royalties inside our quotes and no postal-code padding either — Live Junk Free runs local crews and our own trucks, one honest number."
         ]
        ]
       }
@@ -189,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "Small cleanouts start at {{cad_125}} and scale purely with truck volume — a condo storage locker is a modest figure, a garage a few slivers more, a full estate home fills trucks and prices in plain sight at the walkthrough. The written figure covers sorting, every carry, hauling and all disposal fees; it freezes on approval and holds whatever the closet, basement or storage room reveals. Multi-day estate clears get the complete plan up front."
+      "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Multi-day estate clears get the complete plan up front."
      ]
     },
     {
@@ -210,13 +210,13 @@
     },
     {
      "t": "price",
-     "label": "Richmond Hill Cleanouts From",
-     "value": "{{cad_125}}"
+     "label": "Richmond Hill Cleanouts Pricing",
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
      "c": [
-      "Volume-priced and all-inclusive — sorting, carrying, hauling and disposal in one figure."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -327,7 +327,7 @@
        "Suite cleanouts along the Yonge Street tower corridor"
       ],
       [
-       "COIs, freight elevator bookings and building rules handled before arrival"
+       "{{fact:licensedInsured}}"
       ],
       [
        "Estate and downsizing clears carried out floor by floor"
@@ -427,7 +427,7 @@
        "Pre-listing purges that get homes photo-ready"
       ],
       [
-       "Same-day completion standard for single-space jobs"
+       "Completion standard for single-space jobs"
       ]
      ]
     }
@@ -677,7 +677,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews for Live Junk Free — estate, condo, downsizing and hoarding cleanouts across Richmond Hill, York Region and the GTA."
+      "Google reviews for Live Junk Free — estate, condo, downsizing and hoarding cleanouts across Richmond Hill, York Region and the GTA."
      ]
     },
     {
@@ -727,7 +727,7 @@
        "q": "How long does a cleanout usually take?",
        "a": [
         [
-         "The time required depends on the size of the property and the amount of junk. Most residential cleanouts are completed within a few hours, while larger estate or commercial cleanouts may take a full day."
+         "The time required depends on the size of the property and the amount of junk."
         ]
        ]
       },

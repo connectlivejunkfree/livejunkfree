@@ -5,13 +5,13 @@
  "type": "service",
  "template": "Commercial",
  "seo": {
-  "title": "monitor-removal-services - Live JunkFree",
+  "title": "Monitor Removal Services - Live JunkFree",
   "description": "Live Junk Free handles commercial monitor removal and recycling in the Greater Toronto Area. Book your pickup today for safe and responsible disposal.",
   "canonical": "https://livejunkfree.ca/services/commercial-junk-removal-services/monitor-removal-services/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/Monitor-Removal-Services-1.jpeg"
  },
- "title": "monitor-removal-services",
+ "title": "Monitor Removal Services",
  "h1": "Most Trusted Monitor Removal Service in Your Area",
  "published": "2026-07-09T13:29:33",
  "modified": "2026-07-23T08:13:55",
@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -69,13 +69,13 @@
     {
      "t": "p",
      "c": [
-      "We start with a free, no-obligation quote. You will get honest pricing with no hidden fees. Once approved, our certified team arrives at your scheduled time to safely remove all unwanted displays. Whether it’s a single screen or an entire office full of monitors, most jobs are completed in under an hour."
+      "We start with a free, no-obligation quote. Once approved, our insured team arrives at your scheduled time to safely remove all unwanted displays. Whether it’s a single screen or an entire office full of monitors."
      ]
     },
     {
      "t": "p",
      "c": [
-      "We handle every aspect of monitor removal with care and responsibility. All devices are processed at certified e-waste recycling facilities, with special attention given to secure data wiping for smart displays and touchscreens. Our insured technicians take every precaution to protect your space during removal."
+      "We handle every aspect of monitor removal with care and responsibility. Our insured technicians take every precaution to protect your space during removal."
      ]
     },
     {
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "Old monitors and displays cluttering your workspace? Our service starts at just {{cad_125}}, and we handle all types, LCD, LED, CRT, and smart displays, regardless of size or quantity."
+      "Old monitors and displays cluttering your workspace?"
      ]
     },
     {
@@ -130,7 +130,7 @@
        "b": [
         {
          "i": [
-          "We answer calls in 1 minute."
+          "Easy Booking by Phone or Online"
          ]
         }
        ]
@@ -149,7 +149,7 @@
     {
      "t": "p",
      "c": [
-      "Got old displays stacking up in your workspace? Upgrading your screens? Making room for new equipment? Our same-day service clears them out fast, no waiting, no hassle."
+      "Got old displays stacking up in your workspace? Upgrading your screens? Making room for new equipment? Our same-day service when available clears them out fast, no waiting, no hassle."
      ]
     },
     {
@@ -169,9 +169,6 @@
      "items": [
       [
        "Professional removal of all display types (LCD, LED, CRT)"
-      ],
-      [
-       "Secure data wiping for smart monitors and touchscreens"
       ],
       [
        "Safe removal from offices, workstations, and tight spaces"
@@ -203,13 +200,13 @@
       {
        "title": "Flexible Scheduling That Works For You",
        "text": [
-        "– Select same-day, next-day, or weekend removal with no extra charges. We’ll coordinate with your business hours or personal schedule for minimal disruption."
+        "We’ll coordinate with your business hours or personal schedule for minimal disruption."
        ]
       },
       {
-       "title": "Certified Safe & Sustainable Recycling",
+       "title": "{{fact:recycling}}",
        "text": [
-        "– We process 98% of materials through certified e-waste facilities. High-quality displays get refurbished for schools, while non-functional screens are responsibly recycled."
+        "High-quality displays get refurbished for schools, while non-functional screens are responsibly recycled."
        ]
       },
       {
@@ -221,13 +218,13 @@
       {
        "title": "Quick & Easy Booking",
        "text": [
-        "– Get scheduled in just 60 seconds online or by phone – no complicated forms or lengthy wait times."
+        "– Get booked online or by phone – no complicated forms or lengthy wait times."
        ]
       },
       {
        "title": "Honest, Upfront Pricing",
        "text": [
-        "– Your quoted price includes careful removal, secure data wiping for smart displays, and certified recycling – no surprise fees for wall mounts, large screens, or difficult locations."
+        ""
        ]
       },
       {
@@ -262,13 +259,13 @@
        {
         "a": "/about/",
         "c": [
-         "Our certified removal team"
+         "{{fact:recycling}}"
         ]
        },
        " arrives fully prepared with protective equipment to handle your monitors safely. We use specialized padding and transport methods to prevent screen damage during removal. Whether you’re clearing one monitor or fifty, we treat every job with the same attention to detail."
       ],
       [
-       "Most standard monitor removal projects are completed in about an hour, leaving your space clean and ready for whatever comes next. We even provide certified data wiping for smart displays and touchscreens at no extra charge."
+       "Most standard monitor removal projects are completed in about an hour, leaving your space clean and ready for whatever comes next."
       ]
      ]
     },
@@ -287,10 +284,7 @@
      "t": "ul",
      "items": [
       [
-       "Certified Recycling – All monitors processed at licensed e-waste facilities meet environmental standards"
-      ],
-      [
-       "Smart Display Protection – Secure data wiping for all touchscreens and connected displays"
+       "Recycling – All monitors processed at licensed e-waste facilities meet environmental standards"
       ],
       [
        "Community Donation Program – Functional monitors donated to schools and nonprofits"
@@ -300,20 +294,20 @@
     {
      "t": "p",
      "c": [
-      "Get Instant Pricing – Transparent & Competitive Rates"
+      "{{fact:freeOnsiteEstimates}}"
      ]
     },
     {
      "t": "ul",
      "items": [
       [
-       "All-inclusive rates with no surprise fees"
+       "Rates"
       ],
       [
-       "Free same-day estimates by phone/text/email"
+       "Free estimates by phone/text/email"
       ],
       [
-       "Special discounts for bulk monitor removal"
+       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -397,7 +391,7 @@
       {
        "title": "Get a Quote",
        "text": [
-        "Receive straightforward pricing with no hidden fees - whether it's one monitor or an entire office full."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -409,7 +403,7 @@
       {
        "title": "We Remove It",
        "text": [
-        "Our professional team arrives on time, carefully removes all monitors, and leaves your space clean, usually in under an hour."
+        "Our professional team arrives on time, carefully removes all monitors, and leaves your space clean."
        ]
       }
      ]

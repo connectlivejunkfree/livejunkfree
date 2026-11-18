@@ -5,8 +5,8 @@
  "type": "location-town",
  "template": "TownHub",
  "seo": {
-  "title": "Junk Removal Vaughan | Same-Day Pickup | Live Junk Free",
-  "description": "Need junk removal Vaughan? Live Junk Free picks it up same day — upfront pricing, eco-friendly disposal, no hidden fees. Get your free quote now!",
+  "title": "Junk Removal Vaughan | Free Onsite Estimates | Live Junk Free",
+  "description": "Need junk removal Vaughan? Live Junk Free picks it up same day — upfront pricing, eco-friendly disposal, subject to scheduling. Get your free quote now!",
   "canonical": "https://livejunkfree.ca/locations/vaughan/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2025/07/Rectangle-1660.webp"
@@ -47,7 +47,7 @@
     {
      "t": "p",
      "c": [
-      "We serve every community across Vaughan — Woodbridge, Maple, Kleinburg, Concord, Thornhill, Vellore Village, Sonoma Heights, Islington Woods and every new subdivision in between. Our same-day junk removal service in Vaughan, Ontario is available 7 days a week, 6AM to 11PM. Call or book online and our crew will be there — fast, professional and ready when you are."
+      "We serve every community across Vaughan — Woodbridge, Maple, Kleinburg, Concord, Thornhill, Vellore Village, Sonoma Heights, Islington Woods and every new subdivision in between. Call or book online and our crew will be there — fast, professional and ready when you are."
      ]
     },
     {
@@ -82,7 +82,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Vaughan Families & Businesses Recommend Us More Than Any Other Junk Removal Company"
+     "text": ""
     },
     {
      "t": "img",
@@ -122,7 +122,7 @@
      "items": [
       {
        "n": "01",
-       "title": "We arrive at your Vaughan property first — free of charge.",
+       "title": "{{fact:competitorComparison}}",
        "text": []
       }
      ]
@@ -152,7 +152,7 @@
      "items": [
       {
        "n": "03",
-       "title": "One flat all-inclusive number — covers everything.",
+       "title": "{{fact:competitorComparison}}",
        "text": []
       }
      ]
@@ -160,7 +160,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Labour, truck, fuel, disposal fees — it's all in that one number we hand you. There are no line items hiding underneath. No fuel surcharge added at checkout. No disposal fee discovered at the end."
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} There are no line items hiding underneath. No disposal fee discovered at the end."
     },
     {
      "t": "steps",
@@ -197,7 +197,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Commercial30–50% less than Vaughan's franchise competitors.",
+       "title": ".",
        "text": []
       }
      ]
@@ -224,7 +224,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "At Live Junk Free, you know your complete, all-inclusive junk removal price before our truck even pulls into your Vaughan driveway. Not after. Not halfway through. Before anything starts. Here's how it works:"
+     "text": "At Live Junk Free, you know your complete, junk removal price before our truck even pulls into your Vaughan driveway. Not after. Not halfway through. Before anything starts. Here's how it works:"
     },
     {
      "t": "cards",
@@ -267,7 +267,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We've built our Vaughan junk removal process around three things Vaughan residents value most: speed, simplicity, and reliability. No complicated booking systems, no unclear steps, no wondering what happens next. Here is the complete same-day junk removal process in Vaughan, Ontario — from your first call to a completely clear space:"
+     "text": "We've built our Vaughan junk removal process around three things Vaughan residents value most: speed, simplicity, and reliability. No complicated booking systems, no unclear steps, no wondering what happens next. Here is the complete same-day junk removal when available process in Vaughan, Ontario — from your first call to a completely clear space:"
     },
     {
      "t": "cards",
@@ -275,13 +275,13 @@
       {
        "title": "Call or Book Online, Get Your Vaughan Slot Instantly",
        "text": [
-        "Call +1 647 922 5865 or use our online booking form in under 2 minutes. Tell us your Vaughan location and what needs to go. Whether you're in Woodbridge, Maple, Kleinburg, Concord, Vellore Village, Sonoma Heights, Islington Woods, Thornhill or any new subdivision across Vaughan — we'll lock in your same-day or next-day time slot immediately. We give you a 30-minute arrival heads-up call so your day stays on track."
+        "Call +1 647 922 5865 or use our online booking form. Tell us your Vaughan location and what needs to go. Whether you're in Woodbridge, Maple, Kleinburg, Concord, Vellore Village, Sonoma Heights, Islington Woods, Thornhill or any new subdivision across Vaughan — we'll lock in your same-day or next-day time slot immediately, subject to scheduling. We give you a 30-minute arrival heads-up call so your day stays on track."
        ]
       },
       {
        "title": "We Arrive, Assess Everything, Quote You Upfront",
        "text": [
-        "Our uniformed, professional Vaughan junk removal crew arrives on time — every single time. We walk your entire property with you — the garage, basement, backyard, every room, every floor, any outdoor structures. For commercial Vaughan jobs, we assess office spaces, warehouse floors, storage areas and loading access before quoting. We hand you a clear, all-inclusive flat-rate quote on the spot. Zero obligation to proceed. Zero pressure whatsoever."
+        "Our uniformed, professional Vaughan junk removal crew arrives on time — every single time. We walk your entire property with you — the garage, basement, backyard, every room, every floor, any outdoor structures. For commercial Vaughan jobs, we assess office spaces, warehouse floors, storage areas and loading access before quoting. We hand you a clear, flat-rate quote on the spot. Zero obligation to proceed. Zero pressure whatsoever."
        ]
       },
       {
@@ -293,169 +293,7 @@
       {
        "title": "Space Cleared, Area Cleaned, Responsibly Disposed",
        "text": [
-        "Once the truck is loaded, we do a final walkthrough to confirm everything has been removed. We sweep up, tidy the area and leave your Vaughan property cleaner than we found it. Every load is then sorted responsibly — reusable items go to donation organisations serving the Vaughan and York Region community, recyclable materials are processed at certified facilities, and only what truly cannot be saved goes to landfill. We keep Vaughan's waste stream as clean as the properties we leave behind."
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "New Builds, Established Homes, Woodbridge Businesses & Beyond — Vaughan's Junk Removal Specialists"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Vaughan is one of the most architecturally and commercially diverse cities in the GTA — brand new subdivisions and custom builds in Kleinburg sitting alongside mature family neighbourhoods in Woodbridge, thriving commercial corridors in Concord, and massive retail developments along Highway 400 and Highway 7. Live Junk Free is built to serve every single corner of it — with the same professional crew, the same upfront pricing and the same same-day speed every time."
-    },
-    {
-     "t": "faq",
-     "items": [
-      {
-       "q": "New Build & Construction Cleanout in Vaughan",
-       "a": [
-        [
-         "Vaughan is one of the fastest-growing cities in Canada — with more new home construction per year than almost anywhere else in Ontario. Builders, contractors and new homeowners across Vaughan trust Live Junk Free for fast, efficient construction and new build cleanouts."
-        ],
-        [
-         "New build cleanout Vaughan — post-construction debris, leftover materials"
-        ],
-        [
-         "Construction waste removal Vaughan — drywall scraps, wood, concrete debris"
-        ],
-        [
-         "Builder’s debris removal Vaughan Ontario"
-        ],
-        [
-         "Post-renovation cleanout Vaughan"
-        ],
-        [
-         "Renovation debris removal Vaughan — flooring, tiles, fixtures, drywall"
-        ],
-        [
-         "New subdivision junk removal Vaughan"
-        ],
-        [
-         "Pre-move-in cleanout Vaughan"
-        ]
-       ]
-      },
-      {
-       "q": "Residential Junk Removal in Vaughan",
-       "a": [
-        [
-         "Full-service residential junk removal for every home type and every neighbourhood across Vaughan."
-        ],
-        [
-         "Furniture removal Vaughan — sofas, sectionals, beds, dressers, dining sets, chairs"
-        ],
-        [
-         "Appliance removal Vaughan — fridges, washers, dryers, stoves, dishwashers, microwaves"
-        ],
-        [
-         "Garage cleanout Vaughan — tools, seasonal storage, accumulated clutter, bikes"
-        ],
-        [
-         "Basement cleanout Vaughan — deep storage, old furniture, boxes, e-waste"
-        ],
-        [
-         "Attic cleanout Vaughan"
-        ],
-        [
-         "Mattress removal Vaughan"
-        ],
-        [
-         "Hot tub and spa removal Vaughan"
-        ],
-        [
-         "Exercise equipment removal Vaughan"
-        ],
-        [
-         "Yard waste removal Vaughan — branches, outdoor furniture, patio clutter"
-        ],
-        [
-         "Estate cleanout Vaughan — full property clearing with care and sensitivity"
-        ],
-        [
-         "Hoarding cleanout Vaughan — compassionate, non-judgmental, thorough service"
-        ],
-        [
-         "Move-in / move-out junk removal Vaughan"
-        ],
-        [
-         "E-waste and electronics removal Vaughan"
-        ]
-       ]
-      },
-      {
-       "q": "Commercial & Industrial Junk Removal in Vaughan",
-       "a": [
-        [
-         "Vaughan’s massive commercial and industrial corridor — running along Highway 400, Jane Street and Highway 7 — generates constant demand for professional commercial junk removal."
-        ],
-        [
-         "Office furniture removal Vaughan"
-        ],
-        [
-         "Commercial junk removal Vaughan Ontario"
-        ],
-        [
-         "Office cleanout and decommission Vaughan"
-        ],
-        [
-         "Warehouse cleanout Vaughan"
-        ],
-        [
-         "Industrial junk removal Vaughan"
-        ],
-        [
-         "Retail store cleanout Vaughan"
-        ],
-        [
-         "Showroom cleanout Vaughan"
-        ],
-        [
-         "Restaurant equipment removal Vaughan"
-        ],
-        [
-         "Corporate junk removal Vaughan Ontario"
-        ]
-       ]
-      },
-      {
-       "q": "Demolition & Removal Services in Vaughan",
-       "a": [
-        [
-         "Need something taken down before it can be hauled? Our Vaughan team handles light demolition too."
-        ],
-        [
-         "Shed demolition Vaughan ON"
-        ],
-        [
-         "Deck demolition and removal Vaughan"
-        ],
-        [
-         "Fence removal Vaughan"
-        ],
-        [
-         "Hot tub demolition Vaughan"
-        ],
-        [
-         "Above ground pool demolition Vaughan"
-        ],
-        [
-         "Playset and swing set demolition Vaughan"
-        ],
-        [
-         "Barn and outbuilding demolition Vaughan"
-        ],
-        [
-         "Garage cleanout and demolition Vaughan"
-        ]
+        "Once the truck is loaded, we do a final walkthrough to confirm everything has been removed. We sweep up, tidy the area and leave your Vaughan property cleaner than we found it. Every load is then sorted responsibly — reusable items go to donation organisations serving the Vaughan and York Region community, recyclable materials are processed at recycling facilities, and only what truly cannot be saved goes to landfill. We keep Vaughan's waste stream as clean as the properties we leave behind."
        ]
       }
      ]
@@ -569,7 +407,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -599,7 +437,7 @@
        "q": "Q: How much does junk removal cost in Vaughan, Ontario?",
        "a": [
         [
-         "A: Our Vaughan junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour. Prices start at $75 for small loads. We provide a completely free on-site estimate before any work begins and the price you approve is the exact price you pay — no surprises, no surcharges, no exceptions."
+         "A: Our Vaughan junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour. Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). We provide a completely free on-site estimate before any work begins and the price you approve is the exact price you pay — no surprises, no surcharges, no exceptions."
         ]
        ]
       },
@@ -607,7 +445,7 @@
        "q": "Q: Do you offer same-day junk removal in Vaughan?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of Vaughan including Woodbridge, Maple, Kleinburg, Concord, Thornhill, Vellore Village and surrounding York Region communities. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+         "A: Yes — same-day junk removal is available across all of Vaughan including Woodbridge, Maple, Kleinburg, Concord, Thornhill, Vellore Village and surrounding York Region communities. Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },
@@ -615,7 +453,7 @@
        "q": "Q: Do you handle new build and construction cleanouts in Vaughan?",
        "a": [
         [
-         "A: Absolutely — new build and post-construction cleanouts are one of our most requested services in Vaughan. We remove all construction debris, leftover materials, renovation waste and post-build junk quickly and efficiently so your property is move-in ready on schedule."
+         "A: Absolutely — new build and post-construction cleanouts are one of our most requested services in Vaughan. We remove all construction debris, leftover materials, renovation waste and post-build junk quickly and efficiently so your property is on schedule."
         ]
        ]
       },
@@ -639,7 +477,7 @@
        "q": "Q: Are you a local Vaughan company or a national franchise?",
        "a": [
         [
-         "A: We are 100% locally owned and operated — not a franchise. No franchise royalties means our Vaughan pricing is consistently 30–50% lower than national junk removal chains for the exact same work."
+         "A: We are 100% locally owned and operated — not a franchise."
         ]
        ]
       }

@@ -1,3 +1,4 @@
+import { fact } from "@/lib/content/facts";
 /**
  * Content for template-preview pages (content pending).
  * Each non-designed service renders its category's designed template with the
@@ -35,12 +36,12 @@ export function itemContent(s: Service): ItemContent {
     take: {
       title: "What we take",
       intro: "If you're unsure if we can take a specific item, feel free to reach out to us.",
-      ticks: ["Taken from any floor", "Disassembly when needed", "Full cleanup included", "Recycled or donated whenever possible"],
+      ticks: ["Taken from any floor", "Disassembly when needed", "Light sweep-up if agreed in your quote", "Recycled or donated where practical"],
     },
     pricing: {
       ...COUCH.pricing,
       title: `${s.name} pricing`,
-      panels: [{ ...COUCH_PRICING[0], text: "One pickup, all cleanup included." }, COUCH_PRICING[1]],
+      panels: [COUCH_PRICING[0], COUCH_PRICING[1]], // no "all cleanup included" (B6.2, Manisha 18 Nov)
     },
     steps: {
       title: `How ${n} works`,
@@ -90,16 +91,16 @@ export function demolitionContent(s: Service): DemolitionContent {
       ...DECK.hero,
       h1: `${s.name} and haul-away`,
       lead: "We tear it down, haul away every piece and leave the area clean, with eco-friendly disposal for all materials.",
-      ticks: ["Same-day and next-day service", "Materials sorted for recycling", "Free, no-obligation estimates"],
+      ticks: [fact("sameDay", "short"), fact("recycling"), "Free, no-obligation estimates"],
       alt: `${s.name} by Live Junk Free`,
     },
     steps: {
       title: `How ${n} works`,
       list: [
         { title: "Send us photos", text: "Take a few pictures and text or upload them to us for a free, no-obligation quote." },
-        { title: "Get your quote", text: "Straightforward pricing with no hidden fees, based on size, materials, and condition." },
+        { title: "Get your quote", text: "A clear quote based on size, materials and condition, confirmed before work begins." },
         DECK.steps.list[2],
-        { title: "We remove it", text: "Our crew arrives on time, safely takes it down, removes all debris, and leaves your yard clean." },
+        { title: "We remove it", text: "Our crew arrives at the agreed time, takes it down, removes the debris and tidies the work area." },
       ],
     },
     other: { ...DECK.other, items: DECK.other.items.filter((i) => !i.href.includes(s.slug)) },
@@ -115,8 +116,8 @@ export function locationContent(a: Area): LocationContent {
     hero: {
       ...TORONTO.hero,
       h1: `Junk removal in ${a.name}`,
-      lead: `Homes, condos and businesses across ${a.name}. We do all the lifting, sweep up, and donate or recycle whenever possible.`,
-      ticks: ["Free on-site estimate before any work begins", "Volume-based pricing, no hidden fees", "Same-day appointments when available"],
+      lead: `Homes, condos and businesses across ${a.name}. We do the lifting and loading, and recycle or donate suitable items where practical.`,
+      ticks: ["Free on-site estimate before any work begins", "Volume-based pricing, confirmed before work begins", fact("sameDay", "short")],
       alt: `Live Junk Free crew in ${a.name}`,
     },
     local: {

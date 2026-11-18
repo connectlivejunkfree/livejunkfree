@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Piano Removal Services in Toronto from Live Junk Free — the safe, affordable way to get rid of an upright, baby grand or grand piano: careful stairs-and-doorway maneuvering by an experienced crew, a flat piano removal cost quoted on site, and piano pick up available today, seven days a week."
+     "text": "Piano Removal Services in Toronto from Live Junk Free — the safe, affordable way to get rid of an upright, baby grand or grand piano: careful stairs-and-doorway maneuvering by an experienced crew, a flat piano removal cost quoted on site, and piano pick up available today."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "If you’re searching “piano removal near me” or “piano removalists near me” in Toronto, here’s the short answer: Live Junk Free’s crews cover every neighbourhood, every day, and pianos are some of the trickiest single items we move. Through the semis and rows of Riverdale, Leslieville, Roncesvalles and the Annex, it’s piano removal down narrow, turning staircases that most piano haulers won’t quote properly. In condo towers downtown and midtown, it’s piano haul away through freight elevators booked to the building’s rules. Across East York and North York’s postwar homes, it’s an upright or console piano that’s sat unplayed in a basement or living room for years, finally getting picked up. And through the west end’s older houses, it’s grand and baby grand piano removal that needs doorframes measured, legs and lids detached, and every wall corner padded before the piece ever moves. The 700+ five-star Google reviews behind Live Junk Free come from every one of those addresses — a piano removal company that solved the access problem first and moved the piano second, without a scratch on the walls, the stairs or the piano itself."
+      "If you’re searching “piano removal near me” or “piano removalists near me” in Toronto, here’s the short answer: Live Junk Free’s crews cover every neighbourhood, every day, and pianos are some of the trickiest single items we move. Through the semis and rows of Riverdale, Leslieville, Roncesvalles and the Annex, it’s piano removal down narrow, turning staircases that most piano haulers won’t quote properly. In condo towers downtown and midtown, it’s piano haul away through freight elevators booked to the building’s rules. Across East York and North York’s postwar homes, it’s an upright or console piano that’s sat unplayed in a basement or living room for years, finally getting picked up. And through the west end’s older houses, it’s grand and baby grand piano removal that needs doorframes measured, legs and lids detached, and every wall corner padded before the piece ever moves. The Google reviews behind Live Junk Free come from every one of those addresses — a piano removal company that solved the access problem first and moved the piano second on the walls, the stairs or the piano itself."
      ]
     },
     {
@@ -117,7 +117,7 @@
        "title": "One flat piano removal price — stairs and access never bill extra",
        "text": [
         [
-         "A piano isn’t a normal junk removal item — an upright can weigh 300 to 500 pounds, and a grand piano considerably more — and Live Junk Free’s quote reflects the real work: careful maneuvering, wall and doorway protection, and the crew size a piece that heavy actually needs. All of it sits inside one written piano removal price agreed on site, with narrow stairwells and tight turns never adding a line. No hidden piano disposal cost, no surprise fees."
+         "A piano isn’t a normal junk removal item — an upright can weigh 300 to 500 pounds, and a grand piano considerably more — and Live Junk Free’s quote reflects the real work: careful maneuvering, wall and doorway protection, and the crew size a piece that heavy actually needs. All of it sits inside one written piano removal price agreed on site, with narrow stairwells and tight turns never adding a line. No hidden piano disposal cost."
         ]
        ]
       },
@@ -159,10 +159,10 @@
       },
       {
        "n": "06",
-       "title": "Independent piano removal pricing — 30–50% under the bigger outfits",
+       "title": "Independent piano removal pricing",
        "text": [
         [
-         "The national junk removal brands price piano removal with a franchise premium built in, and some charge extra for stairs or tight access. Live Junk Free does neither — the reason identical piano removals in Toronto invoice 30–50% lighter, with the same experienced crew and no shortcuts."
+         "The national junk removal brands price piano removal with a franchise premium built in, and some charge extra for stairs or tight access."
         ]
        ]
       }
@@ -189,14 +189,14 @@
     {
      "t": "p",
      "c": [
-      "Piano removal cost is set on site once the crew sees the piano’s type, size and the path out — upright and console pianos price lower, baby grand and full grand pianos price accordingly given the crew size, disassembly and care they require. Narrow staircases, tight turns and condo elevator access all get factored into one honest piano removal price rather than an added surcharge. The figure covers the move, the disposal or recycling, and the disassembly and reassembly where needed — the full piano haul away cost, with nothing added after the fact."
+      "Piano removal cost is set on site once the crew sees the piano’s type, size and the path out — upright and console pianos price lower, baby grand and full grand pianos price accordingly given the crew size, disassembly and care they require. Narrow staircases, tight turns and condo elevator access all get factored into one honest piano removal price rather than an added surcharge."
      ]
     },
     {
      "t": "checks",
      "items": [
       "Move + Disassembly + Haul-Away",
-      "No Stairs Surcharges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -211,7 +211,7 @@
     {
      "t": "price",
      "label": "Toronto Piano Removal Price",
-     "value": "{{cad_265}}"
+     "value": "Priced at your free onsite estimate"
     },
     {
      "t": "p",
@@ -259,7 +259,7 @@
        "title": "Book Your Piano Removal or Pick Up Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots are usually available, seven days a week, 6AM to 11PM. Tell us the piano type — upright, console, baby grand, grand — and its location, so the crew arrives with the right equipment."
+         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots are usually available. Tell us the piano type — upright, console, baby grand, grand — and its location, so the crew arrives with the right equipment."
         ]
        ]
       },
@@ -283,10 +283,10 @@
       },
       {
        "n": "04",
-       "title": "Your Space Is Clear the Same Day",
+       "title": "Your Space Is Clear",
        "text": [
         [
-         "The piano leaves working homes for donation where it qualifies, or routes to responsible piano recycling where it doesn’t — metal to metal recyclers, wood disposed of properly. Most Toronto piano removals finish within an hour or two."
+         "The piano leaves working homes for donation where it qualifies, or routes to responsible piano recycling where it doesn’t — metal to metal recyclers, wood disposed of properly."
         ]
        ]
       }
@@ -387,7 +387,7 @@
        "Piano removal from condo and apartment suites downtown and midtown"
       ],
       [
-       "COIs, freight elevator bookings and building rules handled before arrival"
+       "{{fact:licensedInsured}}"
       ],
       [
        "Common-area and hallway protection throughout the removal"
@@ -677,7 +677,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — upright, grand, condo and estate piano removals across Toronto and the GTA."
+      "Google reviews — upright, grand, condo and estate piano removals across Toronto and the GTA."
      ]
     },
     {
@@ -821,7 +821,7 @@
        "q": "How much does piano removal cost in Toronto?",
        "a": [
         [
-         "Pricing is confirmed on site once the crew sees the piano’s type, size and the path out — an upright or console costs less than a full grand piano, and stairs or tight access never add a surcharge. The piano removal cost covers the move, any needed disassembly and the disposal or recycling together, and it’s the same number whether you searched “piano removal cost” or “piano haul away cost” to find us."
+         "Pricing is confirmed on site once the crew sees the piano’s type, size and the path out — an upright or console costs less than a full grand piano, and stairs or tight access never add a surcharge. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
         ]
        ]
       },
@@ -837,7 +837,7 @@
        "q": "Can you remove a piano from a condo or apartment building?",
        "a": [
         [
-         "Yes, and it’s handled by the building’s book. Certificates of insurance go to management at booking, freight elevators reserve ahead, and hallways and common areas get protected throughout the move."
+         "Yes, and it’s handled by the building’s book. {{fact:insuranceDocs}}."
         ]
        ]
       },
@@ -853,7 +853,7 @@
        "q": "Do you offer piano pick up the same day I call?",
        "a": [
         [
-         "Often, yes. Trucks run Toronto daily, 6AM to 11PM, seven days a week, so a morning call frequently means a same-day piano pickup — call +1 647 922 5865 for today’s real availability."
+         "Often, yes."
         ]
        ]
       },

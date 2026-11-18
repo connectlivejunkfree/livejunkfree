@@ -55,7 +55,7 @@
       {
        "br": 1
       },
-      "No franchise fees passed onto you. No phone estimates that change when we arrive. No charges you didn’t agree to. Just fast, professional, local junk removal across Georgina, Ontario — 7 days a week, 6AM to 11PM. Call or book online and we’ll handle the rest."
+      "No franchise fees passed onto you. No phone estimates that change when we arrive. No charges you didn’t agree to. Call or book online and we’ll handle the rest."
      ]
     },
     {
@@ -154,7 +154,7 @@
      "items": [
       {
        "n": "03",
-       "title": "One flat all-inclusive number",
+       "title": "One flat number",
        "text": []
       }
      ]
@@ -162,7 +162,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Labour, truck, fuel and disposal — all in one number. No rural surcharge. No Lake Simcoe area premium. No \"we had to drive a bit further\" fee. One number, everything covered."
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} No Lake Simcoe area premium. No \"we had to drive a bit further\" fee. One number, everything covered."
     },
     {
      "t": "steps",
@@ -207,7 +207,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We don't charge by the hour. We never have. A job that takes our crew two hours costs the same as a job quoted at the same volume that takes three hours. Your price is locked the moment you approve it."
+     "text": "We don't charge by the hour. We never have. A job that takes our crew two hours costs the same as a job quoted at the same volume that takes three hours."
     }
    ]
   },
@@ -277,13 +277,13 @@
       {
        "title": "Book Your Georgina Junk Removal Quickly & Easily",
        "text": [
-        "Call +1 647 922 5865 or use our quick online booking form — it takes under 2 minutes. Tell us your Georgina location and what needs to be removed. Whether you're in Keswick, Sutton, Jackson's Point, Pefferlaw, Roches Point, Virginia, Belhaven or anywhere across the Georgina municipality — we'll confirm your same-day or next-day time slot right away. We call you 30 minutes before we arrive so you're never left waiting without notice."
+        "Call +1 647 922 5865 or use our quick online booking form. Tell us your Georgina location and what needs to be removed. Whether you're in Keswick, Sutton, Jackson's Point, Pefferlaw, Roches Point, Virginia, Belhaven or anywhere across the Georgina municipality — we'll confirm your same-day or next-day time slot right away, subject to scheduling. We call you 30 minutes before we arrive so you're never left waiting without notice."
        ]
       },
       {
        "title": "We Arrive On Time, Walk the Property, Quote You Fairly",
        "text": [
-        "Our professional, uniformed Georgina junk removal crew arrives on schedule — every time, no excuses. We walk your entire property with you. For cottages and lakefront properties, we assess access, dock areas, outbuildings and waterfront storage. For rural Georgina properties, we walk the full lot — barns, sheds, fields, outbuildings, all of it. For residential and commercial properties, we go room to room, floor to floor. We give you one clear, all-inclusive flat-rate quote on the spot. No obligation to proceed. No pressure of any kind."
+        "Our professional, uniformed Georgina junk removal crew arrives on schedule — every time, no excuses. We walk your entire property with you. For cottages and lakefront properties, we assess access, dock areas, outbuildings and waterfront storage. For rural Georgina properties, we walk the full lot — barns, sheds, fields, outbuildings, all of it. For residential and commercial properties, we go room to room, floor to floor. We give you one clear, flat-rate quote on the spot. No obligation to proceed. No pressure of any kind."
        ]
       },
       {
@@ -295,7 +295,7 @@
       {
        "title": "Gone, Clean, Responsibly Sorted",
        "text": [
-        "Once the truck is loaded, we do a final walkthrough to make sure every item on your list has been cleared. We sweep up and leave your Georgina property clean — no debris left from the haul, no mess from moving items. Your junk is then sorted responsibly: usable items go to donation centres serving the Georgina and York Region community, recyclables are taken to certified processing facilities, and only what truly cannot be reused or recycled goes to landfill. We take Georgina's environment seriously — because we live and work here too."
+        "Once the truck is loaded, we do a final walkthrough to make sure every item on your list has been cleared. We sweep up and leave your Georgina property clean — no debris left from the haul, no mess from moving items. We take Georgina's environment seriously — because we live and work here too."
        ]
       }
      ]
@@ -595,7 +595,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -625,7 +625,7 @@
        "q": "Q: How much does junk removal cost in Georgina, Ontario?",
        "a": [
         [
-         "A: Our Georgina junk removal pricing is volume-based — you pay based on how much space your items fill in our truck. Prices start at $125 for small loads. We provide a free on-site estimate before any work begins. No rural surcharges, no hourly billing, no surprises — the price you approve is the price you pay."
+         "A: Our Georgina junk removal pricing is volume-based — you pay based on how much space your items fill in our truck. Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). We provide a free on-site estimate before any work begins."
         ]
        ]
       },
@@ -633,7 +633,7 @@
        "q": "Q: Do you offer same-day junk removal in Georgina?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of Georgina including Keswick, Sutton, Jackson’s Point, Pefferlaw and surrounding York Region communities. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+         "A: Yes — same-day junk removal is available across all of Georgina including Keswick, Sutton, Jackson’s Point, Pefferlaw and surrounding York Region communities. Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },
@@ -649,7 +649,7 @@
        "q": "Q: Do you serve rural properties in Pefferlaw and across Georgina?",
        "a": [
         [
-         "A: Yes — rural and farm property junk removal across Georgina is a core part of what we do. We serve properties in Pefferlaw, Virginia, Baldwin and all rural areas of Georgina municipality with the same pricing and professionalism as any other job — no rural surcharges, no distance premiums."
+         "A: Yes — rural and farm property junk removal across Georgina is a core part of what we do."
         ]
        ]
       },

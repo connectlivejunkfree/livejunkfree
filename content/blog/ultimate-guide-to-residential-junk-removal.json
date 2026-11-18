@@ -6,7 +6,7 @@
  "template": "BlogPost",
  "seo": {
   "title": "The Ultimate Guide to Residential Junk Removal",
-  "description": "Find everything you need to know about residential junk removal and home decluttering. Get same-day junk pickup and disposal with Live Junk Free.",
+  "description": "Find everything you need to know about residential junk removal and home decluttering. Get same-day junk pickup when available and disposal with Live Junk Free.",
   "canonical": "https://livejunkfree.ca/blog/ultimate-guide-to-residential-junk-removal/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2025/11/The-Ultimate-Guide-to-Residential-Junk-Removal-Declutter-Your-Home-Today.jpeg"
@@ -266,13 +266,13 @@
        "Simple Scheduling: Book your appointment online or by phone in minutes."
       ],
       [
-       "Transparent, Upfront Pricing: We provide a clear, all-inclusive quote based on the volume of junk we remove and no hidden fees."
+       "{{fact:competitorComparison}}"
       ],
       [
        "We Do All the Heavy Lifting: Our insured, professional team handles everything from the moment we arrive, protecting your property and saving your back."
       ],
       [
-       "Eco-Conscious Disposal: We are committed to sustainability. We sort all items, prioritizing donation to local charities and recycling at certified facilities to minimize landfill waste."
+       "Eco-Conscious Disposal: We are committed to sustainability. We sort all items, prioritizing donation to local charities and recycling at recycling facilities to minimize landfill waste."
       ]
      ]
     }

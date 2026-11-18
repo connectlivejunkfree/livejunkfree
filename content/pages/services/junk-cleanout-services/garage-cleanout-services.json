@@ -44,7 +44,7 @@
        "title": "Serving tenants, landlords & property managers across the GTA"
       },
       {
-       "title": "Insured, uniformed crews experienced in condo & apartment buildings"
+       "title": "Insured, uniformed crews for garages of every size"
       },
       {
        "title": "Backed by 5-star Google reviews"
@@ -63,7 +63,7 @@
     {
      "t": "p",
      "c": [
-      "Tired of a garage so packed you that can’t even park your car? Live Junk Free specializes in same-day garage cleanout services that transform your cluttered space into a functional area again. We provide a comprehensive and hassle-free solution for garage junk removal, handling everything from old furniture and broken tools to seasonal decorations and general clutter. Our professional team does all the heavy lifting, so you don’t have to."
+      "Tired of a garage so packed you that can’t even park your car? Live Junk Free specializes in same-day garage cleanout when available services that transform your cluttered space into a functional area again. We provide a comprehensive and hassle-free solution for garage junk removal, handling everything from old furniture and broken tools to seasonal decorations and general clutter. Our professional team does all the heavy lifting, so you don’t have to."
      ]
     },
     {
@@ -75,7 +75,7 @@
     {
      "t": "p",
      "c": [
-      "We are committed to environmentally responsible practices. Instead of just hauling everything to the landfill, we carefully sort through all materials from our garage junk removal projects to divert recyclables and donate usable items to local charities. We treat your property with respect, ensuring a clean driveway and a spotless garage once we are finished."
+      "We are committed to environmentally responsible practices. Instead of just hauling everything to the landfill, we carefully sort through all materials from our garage junk removal projects to divert recyclables and donate usable items to local charities. We treat your property with respect, ensuring a clean driveway and a tidy garage once we are finished."
      ]
     },
     {
@@ -91,7 +91,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/garage-cleanout-services-1024x765.jpeg",
-      "alt": "Garage Cleanout Services in Whitby from Live Junk Free",
+      "alt": "Garage Cleanout Services from Live Junk Free",
       "width": 800,
       "height": 598
      }
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "Tired of navigating an obstacle course every time you need something from the garage? Our professional same-day garage cleanout services are the simple, affordable solution you’ve been looking for. For a limited time, take advantage of our special pricing starting at just {{cad_125}}. Our team handles the entire garage decluttering process efficiently, removing all your unwanted items, including old furniture, broken tools, outdated sports equipment, forgotten storage boxes, and general junk. It doesn’t matter how packed or disorganized your space has become and we can handle it."
+      "Tired of navigating an obstacle course every time you need something from the garage? Our professional same-day garage cleanout when available services are the simple, affordable solution you’ve been looking for. Our team handles the entire garage decluttering process efficiently, removing all your unwanted items, including old furniture, broken tools, outdated sports equipment, forgotten storage boxes, and general junk. It doesn’t matter how packed or disorganized your space has become and we can handle it."
      ]
     },
     {
@@ -130,7 +130,7 @@
        "b": [
         {
          "i": [
-          "We answer calls in 1 minute."
+          "Easy Booking by Phone or Online"
          ]
         }
        ]
@@ -153,12 +153,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Garage Cleanout Services – Get Your Space Back Today"
+     "text": "Garage Cleanout Services – Get Your Space Back Today"
     },
     {
      "t": "p",
      "c": [
-      "Is your garage overflowing with boxes, old furniture, and general clutter? Are you preparing for a home renovation or need to clear space quickly for a vehicle? Our same-day garage cleanout services are designed for your urgent needs, delivering fast, efficient results without the stress or waiting."
+      "Is your garage overflowing with boxes, old furniture, and general clutter? Are you preparing for a home renovation or need to clear space quickly for a vehicle? Our same-day garage cleanout when available services are designed for your urgent needs, delivering fast, efficient results without the stress or waiting."
      ]
     },
     {
@@ -212,13 +212,13 @@
       {
        "title": "Work Around Your Life",
        "text": [
-        "– Choose same-day, next-day, or weekend cleanouts with no extra charges. We adapt to your home or work schedule for complete convenience."
+        "We adapt to your home or work schedule for complete convenience."
        ]
       },
       {
        "title": "Green Disposal Done Right",
        "text": [
-        "– We recycle or donate 85%+ of materials through certified programs. Usable items go to local charities, while other materials are properly processed."
+        "Usable items go to local charities, while other materials are properly processed."
        ]
       },
       {
@@ -228,7 +228,7 @@
        ]
       },
       {
-       "title": "Book in Just 60 Seconds",
+       "title": "Book",
        "text": [
         "– Get on our schedule instantly online or by phone, no lengthy estimates or waiting games."
        ]
@@ -236,11 +236,11 @@
       {
        "title": "Fair Pricing Guaranteed",
        "text": [
-        "– Your upfront quote includes all labor, hauling, and disposal, no hidden fees for heavy items or tricky access spaces."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
-       "title": "Volume Discounts Offered",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         "– Special rates for large cleanouts or multiple property services"
        ]
@@ -270,7 +270,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Safe & Eco-Friendly Same-day Garage Cleanout"
+     "text": "Safe & Eco-Friendly Same-day when available Garage Cleanout"
     },
     {
      "t": "p",
@@ -288,23 +288,23 @@
        "Donation program for quality furniture, tools, and household items"
       ],
       [
-       "Zero landfill policy for repairable goods and recyclables"
+       "For repairable goods and recyclables"
       ]
      ]
     },
     {
      "t": "h",
      "l": 3,
-     "text": "Get Instant Pricing – Fair & Transparent Rates"
+     "text": "{{fact:freeOnsiteEstimates}}"
     },
     {
      "t": "ul",
      "items": [
       [
-       "All-inclusive pricing with no surprise charges"
+       "Pricing"
       ],
       [
-       "Free same-day estimates by phone/text/email"
+       "Free estimates by phone/text/email"
       ],
       [
        "Discounted packages for full garage cleanouts"
@@ -330,7 +330,7 @@
         "Live Junk Free"
        ]
       },
-      ", we handle all types of items during our comprehensive same-day garage cleanout services. Our professional garage cleanout team efficiently clears out unwanted materials, making your garage decluttering process seamless."
+      ", we handle all types of items during our comprehensive same-day garage cleanout when available services. Our professional garage cleanout team efficiently clears out unwanted materials, making your garage decluttering process seamless."
      ]
     },
     {
@@ -393,19 +393,19 @@
       {
        "title": "Get a Quote",
        "text": [
-        "Receive transparent, all-inclusive, and upfront pricing with absolutely no hidden fees. We provide honest costs for your entire same-day garage cleanout service."
+        "We provide honest costs for your entire same-day garage cleanout when available service."
        ]
       },
       {
        "title": "Choose Your Time",
        "text": [
-        "Pick a time that fits your schedule. We offer convenient same-day, next-day, or future scheduling to make your garage decluttering process effortless."
+        "Pick a time that fits your schedule. We offer convenient same-day, next-day, or future scheduling to make your garage decluttering process effortless, subject to scheduling."
        ]
       },
       {
        "title": "We Clear It Out",
        "text": [
-        "Our professional, insured team arrives at your chosen time, efficiently performs the garage junk removal, and leaves your space completely clean and functional, often in just 1-2 hours."
+        "Our professional, insured team arrives at your chosen time, efficiently performs the garage junk removal, and leaves your space completely clean and functional."
        ]
       }
      ]
@@ -418,7 +418,7 @@
     {
      "t": "p",
      "c": [
-      "Browse our gallery of actual same-day garage cleanout services we’ve completed for homeowners just like you. These real-life examples showcase our team’s ability to tackle even the most overwhelming garage storage cleanouts."
+      "Browse our gallery of actual same-day garage cleanout when available services we’ve completed for homeowners just like you. These real-life examples showcase our team’s ability to tackle even the most overwhelming garage storage cleanouts."
      ]
     },
     {
@@ -482,7 +482,7 @@
        "q": "Can you clean out multiple units or a whole building?",
        "a": [
         [
-         "Absolutely. We offer volume discounts for multi-unit properties and apartment buildings."
+         "Yes. Tell us how many garages or units and we'll quote the whole job at the free onsite estimate."
         ]
        ]
       }
@@ -764,7 +764,7 @@
          "Moving everything to the driveway may make loading faster, but it does not automatically guarantee a discount. Pricing is generally based on the volume and type of junk being removed and the required labour. In some cases, easier access can make the job more efficient."
         ],
         [
-         "6. Are dumpster rental costs and environmental disposal fees included in the garage cleanout quote?"
+         "6. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
         ],
         [
          "A junk removal service and dumpster rental are different service models. Depending on the company and materials involved, disposal and environmental handling costs may be incorporated into the quoted price or charged separately. Live Junk Free can explain the expected costs before the cleanout begins."
@@ -902,10 +902,10 @@
          "Usable items may be eligible for donation when they meet the receiving organization’s requirements. Donation policies vary, and not every item removed from a garage will be accepted. If you have furniture, tools, bicycles, or other reusable goods, ask about donation or reuse options before the cleanout."
         ],
         [
-         "29. Can they remove a broken chest freezer or old garage refrigerator, and do they recycle the Freon?"
+         "29."
         ],
         [
-         "Large appliances such as freezers and refrigerators may be accepted for removal, but refrigerant requires proper handling. The appliance should not be punctured or dismantled improperly. Refrigerant recovery and appliance recycling should be performed through an appropriate recycling or disposal process."
+         "The appliance should not be punctured or dismantled improperly."
         ],
         [
          "30. Do cleanout services handle the removal of corroded car parts and old rusted tools?"
@@ -938,10 +938,10 @@
          "The incident should be reported immediately and documented with photographs and details. The company’s insurance and claims procedures may apply depending on the circumstances. Before work begins, homeowners can also discuss access limitations and identify tight areas that require special care."
         ],
         [
-         "35. Do garage cleanout services provide a Certificate of Insurance (COI) to homeowners?"
+         "35. {{fact:insuranceDocs}}."
         ],
         [
-         "Some companies can provide proof of insurance or a Certificate of Insurance when requested. Requirements can vary depending on the property and the type of work being performed. Homeowners who have specific insurance concerns should confirm coverage before booking."
+         "{{fact:insuranceDocs}}. Requirements can vary depending on the property and the type of work being performed. Homeowners who have specific insurance concerns should confirm coverage before booking."
         ],
         [
          "36. Can a cleanout be scheduled during heavy rain or winter snowstorms if the garage is enclosed?"

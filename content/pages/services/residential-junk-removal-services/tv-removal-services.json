@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -69,14 +69,14 @@
     {
      "t": "p",
      "c": [
-      "The process is designed to be completely stress-free. We start with a free, no-obligation quote so you know exactly what to expect. Once you approve, our experienced team handles everything: safely disconnecting cables, carefully removing wall mounts if needed, lifting the TV out of your home, and ensuring proper disposal or recycling of the old set. We make TV removal so efficient that most jobs are finished in under an hour, leaving your space clean and clutter-free."
+      "The process is designed to be completely stress-free. We start with a free, no-obligation quote so you know exactly what to expect. Once you approve, our experienced team handles everything: safely disconnecting cables, carefully removing wall mounts if needed, lifting the TV out of your home, and ensuring proper disposal or recycling of the old set."
      ]
     },
     {
      "t": "ctas",
      "items": [
       {
-       "label": "Book Your Load-Bearing Wall Removal Now",
+       "label": "Book Your TV Removal Now",
        "href": "/contact/"
       }
      ]
@@ -102,7 +102,7 @@
     {
      "t": "p",
      "c": [
-      "Removing an old TV doesn’t have to be difficult. Our professional TV removal service starts at just {{cad_125}}, and we handle everything for you. We will safely unplug and disconnect your TV, carefully remove it from your wall or entertainment unit, and haul it away, leaving your space clean and ready for an upgrade."
+      "Removing an old TV doesn’t have to be difficult. Our professional TV removal service starts at just {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), and we handle everything for you. We will safely unplug and disconnect your TV, carefully remove it from your wall or entertainment unit, and haul it away, leaving your space clean and ready for an upgrade."
      ]
     },
     {
@@ -130,7 +130,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -144,7 +144,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Quick TV Removal – Same-Day Pickup Near You"
+     "text": "Quick TV Removal – Pickup Near You"
     },
     {
      "t": "p",
@@ -199,7 +199,7 @@
      "c": [
       {
        "b": [
-        "We Offer Same-Day TV Removal."
+        "We Offer TV Removal."
        ]
       }
      ]
@@ -219,7 +219,7 @@
       {
        "title": "Honest, Upfront Pricing",
        "text": [
-        "Your quoted price includes everything: removal, recycling fees, and full cleanup – no surprise charges later."
+        "Your quoted price includes everything: removal, recycling fees, and full cleanup – later."
        ]
       },
       {
@@ -231,7 +231,7 @@
       {
        "title": "Eco-Conscious Disposal",
        "text": [
-        "Every TV is processed through certified e-waste channels, with working units donated to schools and community centers."
+        "{{fact:recycling}}"
        ]
       },
       {
@@ -243,7 +243,7 @@
       {
        "title": "Expert Efficiency",
        "text": [
-        "What could take you hours of frustration (and risk of damage), our pros typically complete in under 60 minutes."
+        "Timing confirmed at your estimate"
        ]
       },
       {
@@ -294,7 +294,7 @@
      "t": "ul",
      "items": [
       [
-       "Toxic components are properly processed at certified e-waste facilities"
+       "{{fact:recycling}}"
       ],
       [
        "Batteries & circuit boards were safely removed and recycled"
@@ -326,20 +326,20 @@
     {
      "t": "p",
      "c": [
-      "Pay only for what we remove – no hidden fees"
+      "Pay only for what we remove"
      ]
     },
     {
      "t": "ul",
      "items": [
       [
-       "Free instant estimates via phone, text, or online"
+       "{{fact:freeOnsiteEstimates}}"
       ],
       [
        "Clear upfront quotes before any work begins"
       ],
       [
-       "Special discounts for multiple TV or electronics removals"
+       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -400,25 +400,25 @@
       {
        "title": "Send Us Photos",
        "text": [
-        "Simply text or email pictures of your TV, and we'll provide a free quote within minutes."
+        "{{fact:freeOnsiteEstimates}}"
        ]
       },
       {
        "title": "Get Your Price",
        "text": [
-        "Receive clear, upfront pricing with no hidden fees and you will know exactly what to pay before we arrive."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Schedule Your Removal",
        "text": [
-        "Choose same-day or next-day service that fits your schedule - we come directly to your home or office."
+        "Choose same-day or next-day service when available that fits your schedule - we come directly to your home or office."
        ]
       },
       {
        "title": "We Take Care of It",
        "text": [
-        "All Our professional team safely removes your TV (including wall mounts if needed), and most jobs are finished in under 60 minutes."
+        "All Our professional team safely removes your TV (including wall mounts if needed)."
        ]
       }
      ]

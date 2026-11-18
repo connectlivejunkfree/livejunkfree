@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because the apartment being cleared often isn’t just a rental property to the family — it’s a parent’s own place after a move, or a unit that’s been held onto for years alongside the family home. Live Junk Free brings the same care to an apartment cleanout that it brings to any generational property here, with building access, COIs and elevator bookings sorted out before the crew ever arrives."
+      "Because the apartment being cleared often isn’t just a rental property to the family — it’s a parent’s own place after a move, or a unit that’s been held onto for years alongside the family home. {{fact:insuranceDocs}}."
      ]
     },
     {
@@ -140,7 +140,7 @@
        "title": "Apartment cleanout building access handled before arrival",
        "text": [
         [
-         "Certificates of insurance, freight elevator bookings and any building rules are sorted out in advance, so the crew arrives ready to work."
+         "{{fact:insuranceDocs}}."
         ]
        ]
       },
@@ -149,7 +149,7 @@
        "title": "One flat apartment cleanout price — kept like a promise",
        "text": [
         [
-         "A crew member sees the actual unit and gives one flat number before anything moves, and it’s the number on the invoice, with nothing added afterward."
+         "A crew member sees the actual unit and gives one flat number before anything moves."
         ]
        ]
       },
@@ -173,7 +173,7 @@
       },
       {
        "n": "06",
-       "title": "Independent apartment cleanout pricing, 30–50% under the bigger outfits",
+       "title": "Independent apartment cleanout pricing",
        "text": [
         [
          "National junk removal franchises build a royalty into every quote. Live Junk Free carries none of that overhead."
@@ -203,13 +203,13 @@
     {
      "t": "p",
      "c": [
-      "What never enters the calculation is who owns the unit or how the family came to hold it. The figure is confirmed for free at an on-site walkthrough, and it’s the number on the invoice — kept like a promise, with nothing added once the crew starts hauling."
+      "What never enters the calculation is who owns the unit or how the family came to hold it. The figure is confirmed for free at an on-site walkthrough — kept like a promise."
      ]
     },
     {
      "t": "checks",
      "items": [
-      "Sorting, Hauling and Disposal in One Price",
+      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -217,7 +217,7 @@
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
@@ -225,7 +225,7 @@
     {
      "t": "price",
      "label": "Woodbridge Apartment Cleanouts",
-     "value": "{{cad_125:suffix}}"
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
@@ -248,7 +248,7 @@
    "blocks": [
     {
      "t": "eyebrow",
-     "text": "HOW OUR HOARDING CLEANOUT WORKS"
+     "text": "HOW OUR APARTMENT CLEANOUT WORKS"
     },
     {
      "t": "h",
@@ -291,7 +291,7 @@
       },
       {
        "n": "04",
-       "title": "The Unit Is Ready, Same Day",
+       "title": "The Unit Is Ready",
        "text": [
         [
          "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready — for the family, or for whatever comes next."
@@ -348,7 +348,7 @@
      "t": "ul",
      "items": [
       [
-       "COIs, freight elevator bookings and building rules handled before arrival"
+       "{{fact:licensedInsured}}"
       ],
       [
        "Discreet timing coordinated with concierge and management"
@@ -648,7 +648,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — landlord, senior transition and building apartment cleanouts across Whitby, Durham Region and the GTA."
+      "Google reviews — landlord, senior transition and building apartment cleanouts across Whitby, Durham Region and the GTA."
      ]
     },
     {
@@ -670,7 +670,7 @@
     {
      "t": "p",
      "c": [
-      "Hoarding cleanouts are just one part of what we do. Every kind of home, estate and property cleanout is bookable with the same free, judgment-free quote."
+      "Apartment cleanouts are just one part of what we do. Every kind of home, estate and property cleanout is bookable with the same free, judgment-free quote."
      ]
     },
     {
@@ -798,7 +798,7 @@
        ]
       },
       {
-       "q": "Do you handle building access — COIs, elevator bookings?",
+       "q": "Is Live Junk Free insured?",
        "a": [
         [
          "Yes, and it’s handled before the crew arrives. Building rules are sorted out in advance so nothing holds up the visit. "

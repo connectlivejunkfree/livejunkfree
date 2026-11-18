@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Hot Tub Removal Services in Uxbridge from Live Junk Free — done safely and in one visit, draining, disconnecting, cutting apart and hauling away by an insured crew, quoted flat on site with no township premium, and the yard left clear the same day, seven days a week."
+     "text": "{{fact:nextAvailable}}"
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Uxbridge properties range from tight downtown lots to sprawling rural acreages, and a dead hot tub shows up on both. Along Brock Street and the town’s Victorian streets, it’s a tub tucked behind a house that’s outlived its usefulness, drained and cleared ahead of a backyard refresh. Through the hamlets of Goodwood, Zephyr, Leaskdale and Sandford, it’s tubs on rural properties and farmhouses, removed the same careful way as anything else on the land. On the working farms across the concessions, it’s a hot tub left by a previous owner, cut down and hauled alongside whatever else the property’s been holding onto. And for the township’s studio owners and craftspeople, it’s a tub cleared from a backyard that’s about to become workshop space instead. The 700+ five-star Google reviews behind Live Junk Free come from every one of those properties — a hot tub removal crew that drained it properly, cut it down safely without wrecking the deck or ground underneath, and hauled every piece away the same visit, no matter how far down the concession the tub was sitting."
+      "Uxbridge properties range from tight downtown lots to sprawling rural acreages, and a dead hot tub shows up on both. Along Brock Street and the town’s Victorian streets, it’s a tub tucked behind a house that’s outlived its usefulness, drained and cleared ahead of a backyard refresh. Through the hamlets of Goodwood, Zephyr, Leaskdale and Sandford, it’s tubs on rural properties and farmhouses, removed the same careful way as anything else on the land. On the working farms across the concessions, it’s a hot tub left by a previous owner, cut down and hauled alongside whatever else the property’s been holding onto. And for the township’s studio owners and craftspeople, it’s a tub cleared from a backyard that’s about to become workshop space instead. The Google reviews behind Live Junk Free come from every one of those properties — a hot tub removal crew that drained it properly, cut it down safely without wrecking the deck or ground underneath, and hauled every piece away the same visit, no matter how far down the concession the tub was sitting."
      ]
     },
     {
@@ -117,7 +117,7 @@
        "title": "One flat hot tub removal price — the same number on Brock Street or a concession",
        "text": [
         [
-         "A hot tub isn’t a normal junk item, and Live Junk Free’s quote reflects the real work: draining the water, disconnecting whatever needs disconnecting, cutting the shell into manageable sections, and hauling every piece away. The number is identical whether the tub sits downtown or eight concessions out — no township premium, no distance charge, ever."
+         "A hot tub isn’t a normal junk item, and Live Junk Free’s quote reflects the real work: draining the water, disconnecting whatever needs disconnecting, cutting the shell into manageable sections, and hauling every piece away."
         ]
        ]
       },
@@ -144,7 +144,7 @@
        "title": "Salvage-conscious removal — a maker's town deserves it",
        "text": [
         [
-         "Where the tub’s cabinet, decking or surrounding structure includes wood or hardware worth keeping, Live Junk Free sets it aside on request rather than binning it by default. Every metal frame component and motor gets sorted for recycling as standard — in Uxbridge, wasting good material isn’t the local way, and our process reflects it at no extra charge."
+         "Where the tub’s cabinet, decking or surrounding structure includes wood or hardware worth keeping, Live Junk Free sets it aside on request rather than binning it by default. {{fact:pricingIntro.extra}}"
         ]
        ]
       },
@@ -159,10 +159,10 @@
       },
       {
        "n": "06",
-       "title": "Independent hot tub removal pricing — 30–50% under the bigger outfits",
+       "title": "Independent hot tub removal pricing",
        "text": [
         [
-         "The national junk removal brands price hot tub removal with a franchise premium built in, and some add a rural surcharge on top. Live Junk Free does neither — the reason identical hot tub removals in Uxbridge invoice 30–50% lighter with us."
+         "The national junk removal brands price hot tub removal with a franchise premium built in, and some add a rural surcharge on top."
         ]
        ]
       }
@@ -189,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "Pricing is set on site once the crew sees the tub’s size, condition and access — small portable spas price lower, full-size six-and-seven-seat tubs price accordingly, and anything with unusually difficult access (basement tubs, long laneways, tight side-yard gates) gets factored in honestly at the walkthrough, without a rural markup. The number covers draining, cutting, hauling and responsible disposal or recycling as one figure, with nothing added after the fact."
+      "Pricing is set on site once the crew sees the tub’s size, condition and access — small portable spas price lower, full-size six-and-seven-seat tubs price accordingly, and anything with unusually difficult access (basement tubs, long laneways, tight side-yard gates) gets factored in honestly at the walkthrough, without a rural markup."
      ]
     },
     {
@@ -211,7 +211,7 @@
     {
      "t": "price",
      "label": "Uxbridge Hot Tub Removal Price",
-     "value": "{{cad_265}}"
+     "value": "Priced at your free onsite estimate"
     },
     {
      "t": "p",
@@ -259,7 +259,7 @@
        "title": "Book Your Hot Tub Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots are usually available, seven days a week, 6AM to 11PM. Tell us the tub’s rough size and location, however far down the laneway it sits."
+         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots are usually available. Tell us the tub’s rough size and location, however far down the laneway it sits."
         ]
        ]
       },
@@ -283,10 +283,10 @@
       },
       {
        "n": "04",
-       "title": "Your Yard Is Clear the Same Day",
+       "title": "Your Yard Is Clear",
        "text": [
         [
-         "The space where the tub sat gets left clean, with metal components, motors and pumps routed to recycling, wood or hardware worth keeping set aside on request, and the rest disposed of responsibly. Most Uxbridge hot tub removals finish within a couple of hours."
+         "The space where the tub sat gets left clean, with metal components, motors and pumps routed to recycling, wood or hardware worth keeping set aside on request, and the rest disposed of responsibly."
         ]
        ]
       }
@@ -361,7 +361,7 @@
        "Salvage-minded handling of cabinet wood and hardware worth keeping"
       ],
       [
-       "Long-laneway access included at no extra charge"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Multi-structure properties with more than one tub or spa"
@@ -677,7 +677,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — heritage, rural, farmhouse and renovation-prep hot tub removals across Uxbridge, Durham Region and the GTA."
+      "Google reviews — heritage, rural, farmhouse and renovation-prep hot tub removals across Uxbridge, Durham Region and the GTA."
      ]
     },
     {
@@ -811,7 +811,7 @@
        "q": "How much does hot tub removal cost in Uxbridge?",
        "a": [
         [
-         "Pricing is confirmed on site once the crew sees the tub’s size, condition and how hard it is to get to — a portable spa costs less than a full six-seater with tight gate access. The number covers draining, cutting, hauling and disposal together, with per-unit pricing available if a builder needs several removals across a project."
+         "Pricing is confirmed on site once the crew sees the tub’s size, condition and how hard it is to get to — a portable spa costs less than a full six-seater with tight gate access. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
         ]
        ]
       },

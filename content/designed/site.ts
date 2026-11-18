@@ -1,3 +1,4 @@
+import { fact } from "@/lib/content/facts";
 /**
  * Business details used across the site.
  * Every value here is taken from livejunkfree.ca (checked 7 Nov 2026).
@@ -16,27 +17,27 @@ export const SITE = {
   copyright: "© 2026 Live Junk Free. Serving Toronto and the GTA.",
 } as const;
 
-/** Hours (livejunkfree.ca/locations/toronto/ FAQ). */
-export const HOURS = {
-  days: "7 days a week",
-  time: "6AM–11PM",
-  summary: "7 days a week, 6AM–11PM",
-  /** schema.org openingHours */
-  schema: "Mo-Su 06:00-23:00",
-} as const;
+/** Phone hours (Manisha, 18 Nov 2026). Days weren't stated, so no schema openingHours. Text: business-facts.json `businessHours`. */
+export const PHONE_HOURS = "7 am–11 pm";
 
-/** Google rating (Google Maps listing + Trustindex widget on the homepage). */
+/**
+ * Google rating and homepage counters come from content/business-facts.json
+ * ("reviews", "stats"). The live site showed conflicting figures (598+, 700+,
+ * 780, 1,030 reviews; 6+ years vs "over a decade"), so they stay hidden until
+ * Nav confirms them (audit OBS-64, OBS-133, B1-01, B1-08; Part 2 B-8 #1-2).
+ */
 export const RATING = {
-  score: "5.0",
-  count: "780+",
-} as const;
+  score: fact("reviews", "rating") ? Number(fact("reviews", "rating")).toFixed(1) : null,
+  count: fact("reviews", "count") || null,
+  fallback: fact("reviews") || "Read our Google reviews",
+};
 
-/** Homepage counters on livejunkfree.ca. */
+/** Homepage / About counters; empty until confirmed. */
 export const STATS = [
-  { value: "1,000+", label: "Services completed" },
-  { value: "700+", label: "Happy clients" },
-  { value: "6+", label: "Years experience" },
-] as const;
+  { value: fact("stats", "jobs"), label: "Services completed" },
+  { value: fact("stats", "clients"), label: "Happy clients" },
+  { value: fact("stats", "years"), label: "Years experience" },
+].filter((s) => s.value);
 
 export const SOCIAL = [
   { label: "Facebook", short: "Fb", href: "https://www.facebook.com/share/18y5rgyG68/" },

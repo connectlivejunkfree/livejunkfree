@@ -3,6 +3,7 @@
  * Never hand-written. Cards scroll horizontally on mobile.
  * Content used: content/reviews.json, content/site.json (rating, Google profile link).
  */
+import { fact } from "@/lib/content/facts";
 import { reviews, site } from "@/lib/content";
 import { Stars } from "../ui/Stars";
 import { CountUp } from "../motion/CountUp";
@@ -13,15 +14,21 @@ export function Reviews({ count = 6 }: { count?: number }) {
   return (
     <div className="reviews">
       <div className="stack">
-        <div className="score-row">
-          <span className="score">
-            <CountUp value={site.rating.display} />
-          </span>
-          <Stars />
-        </div>
-        <p className="muted">
-          Based on <b>{site.rating.countDisplay}</b> Google reviews
-        </p>
+        {fact("reviews", "count") && fact("reviews", "rating") ? (
+          <>
+            <div className="score-row">
+              <span className="score">
+                <CountUp value={Number(fact("reviews", "rating")).toFixed(1)} />
+              </span>
+              <Stars />
+            </div>
+            <p className="muted">
+              Based on <b>{fact("reviews", "count")}</b> Google reviews
+            </p>
+          </>
+        ) : (
+          <p className="muted">Real reviews from customers on Google.</p>
+        )}
         <a className="tlink self-start" href={site.googleBusinessProfile} target="_blank" rel="noopener noreferrer">
           Read all reviews on Google
         </a>

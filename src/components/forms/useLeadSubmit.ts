@@ -4,6 +4,10 @@
  * Shared submit flow for lead forms: run the server action, upload photos to
  * Supabase Storage with the one-time signed URLs it returns, push the
  * `generate_lead` dataLayer event, then go to the thank-you page.
+ *
+ * Conversion safety (audit OBS-08, G14): the event fires only here, after the
+ * server confirmed a real submission, and at most once per lead_id (remembered
+ * in sessionStorage), so loading or refreshing a thank-you page never counts a lead.
  */
 import { usePathname, useRouter } from "next/navigation";
 import { useCallback, useState } from "react";
@@ -19,6 +23,18 @@ async function uploadPhotos(files: File[], uploads: { path: string; token: strin
   const { createClient } = await import("@supabase/supabase-js");
   const sb = createClient(url, anon, { auth: { persistSession: false } });
   await Promise.allSettled(uploads.map((u, i) => (files[i] ? sb.storage.from("lead-photos").uploadToSignedUrl(u.path, u.token, files[i]) : null)));
+}
+
+const TRACKED = "ljf_tracked_leads";
+/** True the first time a lead id is seen in this browser session (no id: honeypot / unsaved lead → still once per submit). */
+function firstTimeFor(id: string | null): boolean {
+  if (!id) return true;
+  try {
+    const seen: string[] = JSON.parse(sessionStorage.getItem(TRACKED) ?? "[]");
+    if (seen.includes(id)) return false;
+    sessionStorage.setItem(TRACKED, JSON.stringify([...seen, id].slice(-20)));
+  } catch {}
+  return true;
 }
 
 export function useLeadSubmit() {
@@ -40,7 +56,7 @@ export function useLeadSubmit() {
           return;
         }
         if (opts.files?.length) await uploadPhotos(opts.files, res.uploads);
-        track("generate_lead", { form_type: data.form_type, page_path: pathname, service: data.service ?? "" });
+        if (firstTimeFor(res.leadId)) track("generate_lead", { form_type: data.form_type, page_path: pathname, service: data.service ?? "", lead_id: res.leadId ?? "" });
         router.push(res.redirectTo);
       } catch {
         // Network failure: one retry happens inside the action; here we ask them to call.

@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "A full grand piano is one of the heaviest single objects most homes will ever contain, and removing one properly takes exactly the kind of real capability Bolton's known for — the same muscle that handles the town's industrial side, applied with the patience its Queen Street heritage homes deserve. Live Junk Free brings both, priced flat, seven days a week."
+     "text": "A full grand piano is one of the heaviest single objects most homes will ever contain, and removing one properly takes exactly the kind of real capability Bolton's known for — the same muscle that handles the town's industrial side, applied with the patience its Queen Street heritage homes deserve. Live Junk Free brings both, priced flat."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -164,16 +164,16 @@
       },
       {
        "n": "05",
-       "title": "Rural and concession piano removal, no distance premium",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "Farm properties and homes well outside the village core get the identical pricing structure as anything downtown — distance never factors into the number."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },
       {
        "n": "06",
-       "title": "Independent pricing, 30–50% under the bigger outfits",
+       "title": "Independent pricing",
        "text": [
         [
          "National moving and junk removal franchises build a royalty into every quote, and some add a rural surcharge on top of that. Live Junk Free carries neither cost."
@@ -226,7 +226,7 @@
     {
      "t": "price",
      "label": "Bolton Piano Removal",
-     "value": "{{cad_265}}"
+     "value": "Priced at your free onsite estimate"
     },
     {
      "t": "p",
@@ -292,7 +292,7 @@
       },
       {
        "n": "04",
-       "title": "Hauled Out, Same Day",
+       "title": "Hauled Out",
        "text": [
         [
          "The piano leaves for donation where it still qualifies, or routes to responsible recycling where it doesn’t, with the space it occupied checked and left clear before the crew heads out."
@@ -393,7 +393,7 @@
        "Same flat pricing regardless of distance from town"
       ],
       [
-       "Long driveway or laneway access included at no extra charge"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Coordination with executors or family members settling an estate"
@@ -680,7 +680,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — heavy full-grand, heritage and rural piano removals across Bolton, Caledon and the GTA. The comment that comes up most for the biggest jobs: the crew actually had the right equipment and enough people, rather than showing up and improvising."
+      "Google reviews — heavy full-grand, heritage and rural piano removals across Bolton, Caledon and the GTA. The comment that comes up most for the biggest jobs: the crew actually had the right equipment and enough people, rather than showing up and improvising."
      ]
     },
     {
@@ -880,7 +880,7 @@
        "q": "Can you remove a piano the same day I call?",
        "a": [
         [
-         "Often, yes — trucks run seven days a week, 6AM to 11PM."
+         "{{fact:sameDay}}."
         ]
        ]
       }

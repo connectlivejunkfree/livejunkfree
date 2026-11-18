@@ -58,7 +58,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "We Remove Everything Except Hazardous!"
+     "text": "We Remove Most Household Items!"
     },
     {
      "t": "p",
@@ -1057,7 +1057,7 @@
         "apartment clean outs."
        ]
       },
-      " Just to make you feel proud of the beneficial contribution you’re making not merely for your living space, but also for our planet and our community, we work diligently to ensure nothing gets wasted."
+      " Just to make you feel proud of the beneficial contribution you’re making not merely for your living space, but also for our planet and our community, we work diligently to ensure we recycle and donate where possible."
      ]
     },
     {
@@ -1196,7 +1196,7 @@
      "items": [
       {
        "n": "02",
-       "title": "No Hidden Fees",
+       "title": "{{fact:competitorComparison}}",
        "text": []
       }
      ]
@@ -1211,7 +1211,7 @@
      "items": [
       {
        "n": "03",
-       "title": "Satisfaction Guaranteed",
+       "title": "{{fact:licensedInsured}}",
        "text": []
       }
      ]
@@ -1378,7 +1378,7 @@
        "q": "How does your pricing work?",
        "a": [
         [
-         "Our pricing is based on the volume of items being removed, the type of items, and the difficulty of removal. We offer upfront pricing with no hidden fees. You can also request a free estimate by contacting us or using our online booking system."
+         "Our pricing is based on the volume of items being removed, the type of items, and the difficulty of removal. You can also request a free estimate by contacting us or using our online booking system."
         ]
        ]
       },
@@ -1406,7 +1406,7 @@
        "q": "How far in advance do I need to schedule a pickup?",
        "a": [
         [
-         "We strive to accommodate our customers’ schedules as much as possible. While we do accept same-day appointments when available, we recommend scheduling your pickup at least 24-48 hours in advance to ensure availability. However, we understand that emergencies happen, so feel free to reach out to us, and we’ll do our best to accommodate your needs.",
+         "We strive to accommodate our customers’ schedules as much as possible. However, we understand that emergencies happen, so feel free to reach out to us, and we’ll do our best to accommodate your needs.",
          {
           "br": 1
          },

@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-Day Residential Junk Removal in Oshawa | Live Junk Free",
-  "description": "Same-day residential junk removal in Oshawa for furniture, yard waste, electronics, mattresses, and household items. Fast and professional service.",
+  "title": "Residential Junk Removal in Oshawa | Live Junk Free",
+  "description": "Same-day residential junk removal in Oshawa for furniture, yard waste, electronics, mattresses, and household items, subject to scheduling. Fast and professional service.",
   "canonical": "https://livejunkfree.ca/locations/residential-junk-removal-in-oshawa/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "residential-junk-removal-in-oshawa",
+ "title": "Residential Junk Removal in Oshawa",
  "h1": "Residential Junk Removal in Oshawa, Ontario — The Curb Has Rules. We Don't.",
  "published": "2026-07-14T02:57:49",
  "modified": "2026-07-14T02:57:49",
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "From the postwar bungalows of central Oshawa to family streets in Donevan and Pinecrest and the new builds up in Windfields, our trucks are a familiar sight across the city. The 660+ five-star Google reviews behind Live Junk Free come from Oshawa homeowners who got what they were promised: punctual crews, honest flat quotes, careful hands on the staircase, and a clean sweep before we pull away."
+     "text": "From the postwar bungalows of central Oshawa to family streets in Donevan and Pinecrest and the new builds up in Windfields, our trucks are a familiar sight across the city. The Google reviews behind Live Junk Free come from Oshawa homeowners who got what they were promised: punctual crews, honest flat quotes, careful hands on the staircase, and a clean sweep before we pull away."
     },
     {
      "t": "steps",
@@ -109,7 +109,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Everything you're tossing gets measured against the truck: a fraction of the box costs a fraction of the price. Weight doesn't matter. Stairs don't matter. How long it takes doesn't matter. And no Oshawa postal code pays more than any other."
+     "text": "Everything you're tossing gets measured against the truck: a fraction of the box costs a fraction of the price. Weight doesn't matter. Stairs don't matter. How long it takes doesn't matter."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent means 30–50% cheaper",
+       "title": "Independent means",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The famous junk brands are franchises, and franchise royalties ride along in every quote they give. We're locally owned with no such overhead — the biggest single reason Oshawa homeowners pay us 30–50% less for the same truckload."
+     "text": "The famous junk brands are franchises, and franchise royalties ride along in every quote they give."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small pickups start at {{cad_125}}, one-item jobs stay cheap because they barely dent the truck, and bigger clears scale in plain sight. Every figure is settled at your door before work starts — no hourly clocks, no weight scales, no \"it turned out to be more than we thought\" phone calls. Book the free quote; keep the number or don't."
+     "text": "Small pickups start at {{min_price:C}}, one-item jobs stay cheap because they barely dent the truck, and bigger clears scale in plain sight. Every figure is settled at your door before work starts — no hourly clocks, no weight scales, no \"it turned out to be more than we thought\" phone calls. Book the free quote; keep the number or don't."
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Pick Your Window",
        "text": [
-        "Call +1 647 922 5865 or book online — it takes about two minutes. Trucks run across Oshawa seven days a week, 6AM to 11PM, with same-day slots most mornings and a 30-minute heads-up text before we knock."
+        "Call +1 647 922 5865 or book online — it takes about two minutes."
        ]
       },
       {
        "title": "2. Point It Out",
        "text": [
-        "Walk the crew past everything that's leaving — the bedroom set, the garage shelf, the freezer in the basement. One flat, all-in quote lands in your hand. No obligation attached to it."
+        "Walk the crew past everything that's leaving — the bedroom set, the garage shelf, the freezer in the basement. One flat, upfront quote lands in your hand. No obligation attached to it."
        ]
       },
       {
@@ -489,7 +489,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -519,7 +519,7 @@
        "q": "Q: How is the price calculated for junk removal in Oshawa?",
        "a": [
         [
-         "A: One input: the space your items take up in our truck. Loads start at $125 at the small end, and your exact figure is quoted free, in person, before anything is lifted. Weight, stairs, time and item type never factor in — and the approved number never changes."
+         "A: One input: the space your items take up in our truck. Loads start at {{min_price:C}} at the small end, and your exact figure is quoted free, in person, before anything is lifted. Weight, stairs, time and item type never factor in — and the approved number never changes."
         ]
        ]
       },
@@ -535,7 +535,7 @@
        "q": "Q: Can you really come the same day I call?",
        "a": [
         [
-         "A: Very often, yes. Oshawa trucks run seven days a week, 6AM to 11PM, and morning calls regularly turn into afternoon pickups. Dial +1 647 922 5865 and we’ll give you today’s honest availability."
+         "A: Very often, yes. Dial +1 647 922 5865 and we’ll give you today’s honest availability."
         ]
        ]
       },
@@ -543,7 +543,7 @@
        "q": "Q: Do I need to haul anything outside beforehand?",
        "a": [
         [
-         "A: No — leave everything exactly where it is. Basements, upstairs bedrooms, garages, backyard sheds: the carrying is the core of what you’re paying for, and it comes with floor runners, corner pads and careful hands included."
+         "A: No — leave everything exactly where it is. {{fact:propertyProtection}}."
         ]
        ]
       },
@@ -551,7 +551,7 @@
        "q": "Q: Is one mattress or one couch too small to book?",
        "a": [
         [
-         "A: Never. Single items are priced as the sliver of truck space they use, with no minimum charge inflating the bill. A large share of our Oshawa route sheet is exactly these jobs."
+         "A: Never. A large share of our Oshawa route sheet is exactly these jobs."
         ]
        ]
       }

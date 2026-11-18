@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-day Junk Cleanout Services in Pickering | Live Junk Free",
-  "description": "Pickering’s same-day junk cleanout team—Live Junk Free clears garages, attics, appliances, and full estates quickly. Call now to book your cleanout!",
+  "title": "Junk Cleanout Services in Pickering | Live Junk Free",
+  "description": "Pickering’s same-day junk cleanout when available team—Live Junk Free clears garages, attics, appliances, and full estates quickly. Call now to book your cleanout!",
   "canonical": "https://livejunkfree.ca/locations/junk-cleanout-in-pickering/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "junk-cleanout-in-pickering",
+ "title": "Junk Cleanout in Pickering",
  "h1": "Junk Cleanout Services in Pickering, Ontario — Full-Property Cleanouts Done in a Single Visit",
  "published": "2026-07-12T10:37:19",
  "modified": "2026-07-12T10:37:19",
@@ -94,14 +94,14 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Live Junk Free is a locally owned, fully insured Pickering cleanout team that has built its reputation across Durham Region one property at a time — with over 660 five-star Google reviews from real customers, and a crew that treats every cleanout, from a single garage to an entire estate, with the same care and professionalism."
+     "text": "Live Junk Free is a locally owned, fully insured Pickering cleanout team that has built its reputation across Durham Region one property at a time — with Google reviews from real customers, and a crew that treats every cleanout, from a single garage to an entire estate, with the same care and professionalism."
     },
     {
      "t": "steps",
      "items": [
       {
        "n": "01",
-       "title": "You pay for the space your junk takes up — nothing more",
+       "title": "You pay for the space your junk takes up",
        "text": []
       }
      ]
@@ -131,7 +131,7 @@
      "items": [
       {
        "n": "03",
-       "title": "One flat all-inclusive number — labour, truck, fuel, disposal",
+       "title": "One flat number — labour, truck, fuel, disposal",
        "text": []
       }
      ]
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Whether you're clearing a family home in Frenchman's Bay, a rental unit in Bay Ridges or a storage locker off Brock Road — your quote covers labour, truck, fuel and disposal in one number. Nothing is added afterward, no matter how long the cleanout takes."
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Nothing is added afterward, no matter how long the cleanout takes."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "30–50% less than national franchise competitors",
+       "title": "",
        "text": []
       }
      ]
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Our pricing model at Live Junk Free has been the same since day one: fair, volume-based and completely transparent. Cleanout prices start as low as {{cad_125}} for small loads, and even full house cleanouts are quoted as a single flat number before we begin. Book your free Pickering junk cleanout estimate today — fair, volume-based pricing every time."
+     "text": "Our pricing model at Live Junk Free has been the same since day one: fair, volume-based and completely transparent. Book your free Pickering junk cleanout estimate today — fair, volume-based pricing every time."
     },
     {
      "t": "cards",
@@ -246,7 +246,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The reason most people in Pickering put off a cleanout isn't that they don't want the space back — it's that they expect the process to be overwhelming. Weeks of sorting. Vague pricing. Multiple trips. Our entire same-day junk cleanout process in Pickering, Ontario is built to prove that wrong. Here's how simple it actually is — 4 steps, start to finish:"
+     "text": "The reason most people in Pickering put off a cleanout isn't that they don't want the space back — it's that they expect the process to be overwhelming. Weeks of sorting. Vague pricing. Multiple trips. Our entire same-day junk cleanout when available process in Pickering, Ontario is built to prove that wrong. Here's how simple it actually is — 4 steps, start to finish:"
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Book Quickly, Get Confirmed Instantly",
        "text": [
-        "Call +1 647 922 5865 or use our online booking form to schedule your Pickering cleanout in minutes. We offer same-day and next-day appointments with a 30-minute arrival notice, so you're never left waiting around."
+        "Call +1 647 922 5865 or use our online booking form to schedule your Pickering cleanout in minutes. We offer same-day and next-day appointments with a 30-minute arrival notice, so you're never left waiting around, subject to scheduling."
        ]
       },
       {
        "title": "2. We Arrive, Walk Through, and Quote",
        "text": [
-        "Our professional crew arrives on time, walks through every space you want cleared — house, garage, basement, unit or estate — and provides a clear, all-inclusive quote before any work begins. There is no obligation to proceed and no hidden fees."
+        "Our professional crew arrives on time, walks through every space you want cleared — house, garage, basement, unit or estate — and provides a clear, quote before any work begins."
        ]
       },
       {
@@ -289,7 +289,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Pickering is one of Durham Region's most dynamic municipalities — established lakefront communities in Frenchman's Bay, mature family neighbourhoods in Dunbarton and Rougemount, thousands of new homes rising in Seaton, and a busy commercial corridor along Kingston Road and Brock Road. Every one of those properties eventually needs a cleanout — and Live Junk Free is built to handle every type, residential or commercial, with the same professional standard, transparent pricing and same-day speed every time."
+     "text": "Pickering is one of Durham Region's most dynamic municipalities — established lakefront communities in Frenchman's Bay, mature family neighbourhoods in Dunbarton and Rougemount, thousands of new homes rising in Seaton, and a busy commercial corridor along Kingston Road and Brock Road. Every one of those properties eventually needs a cleanout — and Live Junk Free is built to handle every type, residential or commercial, with the same professional standard, transparent pricing and same-day speed every time, subject to scheduling."
     },
     {
      "t": "faq",
@@ -495,7 +495,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -525,7 +525,7 @@
        "q": "Q: How much does a junk cleanout cost in Pickering, Ontario?",
        "a": [
         [
-         "A: Our Pickering cleanout pricing is 100% volume-based — you pay based on how much space your items fill in our truck, not by the hour. Prices start at $125 for small loads, and even full house or estate cleanouts are quoted as one flat number. We provide a free on-site estimate before any work begins. The price you approve is the price you pay — fair, flat and final."
+         "A: Our Pickering cleanout pricing is 100% volume-based — you pay based on how much space your items fill in our truck, not by the hour. We provide a free on-site estimate before any work begins.. — fair, flat and final."
         ]
        ]
       },
@@ -533,7 +533,7 @@
        "q": "Q: Do you offer same-day cleanout services in Pickering?",
        "a": [
         [
-         "A: Yes — same-day cleanouts are available across all of Pickering including Frenchman’s Bay, Bay Ridges, Seaton, Dunbarton, Rougemount and all surrounding Durham Region communities. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+         "A: Yes — same-day cleanouts are available across all of Pickering including Frenchman’s Bay, Bay Ridges, Seaton, Dunbarton, Rougemount and all surrounding Durham Region communities. Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },

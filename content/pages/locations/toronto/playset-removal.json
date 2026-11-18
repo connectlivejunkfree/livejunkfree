@@ -5,12 +5,12 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Playset Removal Toronto | Same-Day Pickup | Live Junk Free",
-  "description": "Need playset removal Toronto homeowners trust? Live Junk Free dismantles & hauls it away same day — upfront pricing, eco-friendly disposal. Book now!",
+  "title": "Playset Removal Toronto | Free Onsite Estimates | Live Junk Free",
+  "description": "Need playset removal Toronto homeowners trust? Live Junk Free dismantles & hauls it away same day — upfront pricing, eco-friendly disposal, subject to scheduling. Book now!",
   "canonical": "https://livejunkfree.ca/locations/toronto/playset-removal/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
  },
- "title": "playset-removal",
+ "title": "Playset Removal",
  "h1": "Playset removal Toronto — dismantled, hauled away & your backyard back",
  "published": "2026-07-12T05:29:08",
  "modified": "2026-07-12T05:29:08",
@@ -46,7 +46,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -112,7 +112,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
-      "alt": "DSC08963",
+      "alt": "Playset Removal: Live Junk Free job photo",
       "width": 800,
       "height": 534
      }
@@ -163,7 +163,7 @@
         "Upfront pricing, confirmed before we touch anything."
        ]
       },
-      " With 598+ Google reviews behind our pricing reputation, our quotes aren’t just numbers we pull from thin air. We assess the playset on-site, factor in size, materials, and access, and give you a firm price before we start. No changes mid-job, no invoice surprises at the end."
+      " With Google reviews behind our pricing reputation, our quotes aren’t just numbers we pull from thin air. We assess the playset on-site, factor in size, materials, and access, and give you a firm price before we start. No changes mid-job, no invoice surprises at the end."
      ]
     },
     {
@@ -283,9 +283,9 @@
        ]
       },
       {
-       "title": "All-Inclusive Pricing",
+       "title": "Pricing",
        "text": [
-        "Your upfront quote covers everything: labor, hauling, and disposal with no surprise fees"
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -299,7 +299,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Damage-Free Guarantee"
+     "text": "Careful Removal"
     },
     {
      "t": "cards",
@@ -569,7 +569,7 @@
       {
        "title": "Book Your Appointment",
        "text": [
-        "Call us or use our quick online form. Tell us what needs to go and where you're in Toronto — we'll give you an upfront price right away. No commitment needed."
+        "Call us or use our quick online form. Tell us what needs to go and where you're in Toronto — we'll review your items and pickup details. No commitment needed."
        ]
       },
       {
@@ -587,7 +587,7 @@
       {
        "title": "Responsible Disposal, Every Time",
        "text": [
-        "Usable pieces get donated to local Toronto charities. Everything else goes to certified recycling facilities. We keep as much out of landfill as possible."
+        "Usable pieces get donated to local Toronto charities. Everything else goes to recycling facilities. We keep as much out of landfill as possible."
        ]
       }
      ]
@@ -608,35 +608,35 @@
      "images": [
       {
        "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
-       "alt": "20250405_140825"
+       "alt": "Playset Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
-       "alt": "20250405_142357"
+       "alt": "Playset Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142736-1024x577.webp",
-       "alt": "20250405_142736"
+       "alt": "Playset Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_144606-1024x577.webp",
-       "alt": "20250405_144606"
+       "alt": "Playset Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250611_115029-1024x577.webp",
-       "alt": "20250611_115029"
+       "alt": "Playset Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250611_201732-1024x577.webp",
-       "alt": "20250611_201732"
+       "alt": "Playset Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250530_110858-1024x577.webp",
-       "alt": "20250530_110858"
+       "alt": "Playset Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250526_193102-1024x577.webp",
-       "alt": "20250526_193102"
+       "alt": "Playset Removal: Live Junk Free job photo"
       }
      ]
     }
@@ -664,7 +664,7 @@
        "q": "Q: How much does playset removal cost in Toronto?",
        "a": [
         [
-         "A: Pricing depends on the size of the structure, the materials involved, and how accessible your backyard is. A compact metal swing set is a smaller, faster job than a large multi-level wooden playset. We give you a firm, all-inclusive quote on-site before we start — covering disassembly, hauling, and disposal. Call or book online for a free estimate with no obligation."
+         "A: Pricing depends on the size of the structure, the materials involved, and how accessible your backyard is. A compact metal swing set is a smaller, faster job than a large multi-level wooden playset. {{fact:taxNote}}. {{fact:pricingIntro.extra}} Call or book online for a free estimate with no obligation."
         ]
        ]
       },
@@ -688,7 +688,7 @@
        "q": "Q: What happens to the playset materials after you remove them?C",
        "a": [
         [
-         "A: We sort the materials after removal. Lumber goes to recycling facilities, metal components are sent to scrap metal recovery, and plastic parts go to certified processors where possible. If any components are in usable condition — intact slides, swing hardware, or similar — we explore donation options. We keep as much as possible out of landfill."
+         "A: We sort the materials after removal. Lumber goes to recycling facilities, metal components are sent to scrap metal recovery, and plastic parts go to processors where possible. If any components are in usable condition — intact slides, swing hardware, or similar — we explore donation options. We keep as much as possible out of landfill."
         ]
        ]
       }

@@ -6,14 +6,14 @@ export const HOME = {
   meta: {
     title: "Junk Removal Toronto & GTA | Live Junk Free",
     description:
-      "Junk removal, cleanouts and small demolition across Toronto and the GTA. We do all the lifting, sweep up, and donate or recycle whenever possible.",
+      "Junk removal, cleanouts and small demolition across Toronto and the GTA. We do the lifting and loading, and recycle or donate suitable items where practical.",
   },
   hero: {
     image: "crewStreet" as ImageKey,
     alt: "Two Live Junk Free crew members in front of the company truck",
     pills: { rating: "on Google", sameDay: "Same-day when available" },
     h1: "Junk gone. Space back.",
-    lead: "Junk removal, cleanouts and small demolition across Toronto and the GTA. We do all the lifting, sweep up, and donate or recycle whenever possible.",
+    lead: "Junk removal, cleanouts and small demolition across Toronto and the GTA. We do the lifting and loading, and recycle or donate suitable items where practical.",
     primary: "Get a free quote",
     quick: {
       title: "What needs to go?",
@@ -37,7 +37,7 @@ export const HOME = {
       { variant: "a", href: categoryHref("residential"), image: "couch" as ImageKey, alt: "Living room after a couch removal", label: "Homeowners and renters", title: "Furniture, appliances and household junk", text: "Couches, mattresses, fridges, hot tubs, e-waste and more, taken from anywhere in your home." },
       { variant: "b", href: HREF.estate, image: "estate" as ImageKey, alt: "Crew clearing a property", label: "Families and executors", title: "Estate, house and hoarding cleanouts", text: "Whole properties cleared with care." },
       { variant: "c", href: HREF.office, image: "business" as ImageKey, alt: "Business cleanout in progress", label: "Businesses", title: "Office and commercial", text: "Offices, warehouses, retail and facility closures." },
-      { variant: "d", href: HREF.deck, image: "deckAfter" as ImageKey, alt: "Backyard after a deck removal", label: "Demolition", title: "Demolition", text: "Decks, sheds, fences, hot tubs and playsets, torn down and hauled away the same day." },
+      { variant: "d", href: HREF.deck, image: "deckAfter" as ImageKey, alt: "Backyard after a deck removal", label: "Demolition", title: "Demolition", text: "Decks, sheds, fences, hot tubs and playsets, taken down and hauled away." },
     ],
   },
   beforeAfter: {
@@ -58,14 +58,14 @@ export const HOME = {
     // Lead card: headline and FAQ line from livejunkfree.ca/how-it-works/
     lead: { title: "Go clean, go green", text: "Our goal is to minimize waste and give back to the community whenever we can." },
     items: [
-      { icon: "heart" as IconName, leaf: true, label: "Donated", text: "Usable furniture and household goods go to local charities whenever possible." },
-      { icon: "leaf" as IconName, leaf: true, label: "Recycled", text: "Metal, e-waste, cardboard, appliances and mattresses are recycled whenever possible." },
-      { icon: "truck" as IconName, leaf: false, label: "Disposed", text: "Everything else is disposed of in a sustainable manner, without causing harm to the surroundings." },
+      { icon: "heart" as IconName, leaf: true, label: "Donated", text: "Usable furniture and household goods go to local charities where practical." },
+      { icon: "leaf" as IconName, leaf: true, label: "Recycled", text: "Metal, e-waste, cardboard, appliances and mattresses are recycled where practical." },
+      { icon: "truck" as IconName, leaf: false, label: "Disposed", text: "Everything else is disposed of responsibly at local disposal and recycling sites." },
     ],
   },
   areas: {
     title: "Local to Toronto and the GTA",
-    intro: "Our trucks run across the city and 25 surrounding communities, 7 days a week.",
+    intro: "We serve Toronto and surrounding GTA communities.",
     card: { title: "Not on the list?", text: "Check every community we serve, grouped by region.", link: "See all locations" },
   },
 };

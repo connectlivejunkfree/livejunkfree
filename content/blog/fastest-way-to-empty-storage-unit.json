@@ -101,7 +101,7 @@
         "Brampton"
        ]
       },
-      " facing time-sensitive move-outs or expiring rentals, professional storage unit cleanouts provide a guaranteed timeline that DIY methods cannot match."
+      " {{fact:scheduling}}"
      ]
     }
    ]
@@ -111,7 +111,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "The 3-Hour Rapid Cleanout System"
+     "text": "{{fact:sameDay.short}}"
     },
     {
      "t": "p",
@@ -248,7 +248,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Storage Unit Cleanouts"
+     "text": "Storage Unit Cleanouts"
     },
     {
      "t": "p",
@@ -285,7 +285,7 @@
     {
      "t": "p",
      "c": [
-      "The Same-Day Process",
+      "The Process",
       {
        "br": 1
       },
@@ -527,7 +527,7 @@
      "t": "ul",
      "items": [
       [
-       "Guaranteed completion in a single session"
+       "{{fact:sameDay.short}}"
       ],
       [
        "Elimination of ongoing storage fees"
