@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-18T19:30:03.183Z",
+ "generated": "2026-11-18T19:51:48.787Z",
  "dryRun": false,
  "filesScanned": 784,
- "filesChanged": 7,
+ "filesChanged": 122,
  "rules": {
   "demo-slots": {
    "ref": "R7, OBS-02, OBS-149, OBS-153",
@@ -138,7 +138,7 @@
   },
   "qa-guarantees": {
    "ref": "QA 18 Nov §2A guarantees; Answers B3.2",
-   "before": 2,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
@@ -275,7 +275,7 @@
    "changedStrings": 0
   },
   "exact": {
-   "before": 11,
+   "before": 195,
    "after": 0,
    "changedStrings": 0
   },

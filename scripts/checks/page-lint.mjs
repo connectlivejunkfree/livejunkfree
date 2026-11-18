@@ -179,7 +179,9 @@ for (const { route, file } of routes()) {
         if (!pageWords.has(ww) && new RegExp(`(^|[^a-z])${w}([^a-z]|$)`).test(fileName)) { add(route, id, "image-wrong-service", `${fileName} on a ${[...pageWords].join("/")} page`); break; }
       }
     }
-    if (alt && BAD_ALT.test(alt.trim())) add(route, id, "image-filename-alt", alt);
+    if (alt && (BAD_ALT.test(alt.trim()) || /^[a-z0-9]+(?:[-_][a-z0-9]+)+(?:\s+(?:before|after)\d*)?$|\.(jpe?g|png|webp|jfif|heic)$/i.test(alt.trim()))) add(route, id, "image-filename-alt", alt);
+    const fb = /(^|[-_])(before|after)([-_.\d]|$)/i.exec(fileName)?.[2]?.toLowerCase(), ab = /\b(before|after)\b/i.exec(alt)?.[1]?.toLowerCase();
+    if (fb && ab && fb !== ab) add(route, id, "image-before-after-swapped", `${fileName}: alt says “${alt}”`);
     if (pageTown) for (const m of alt.matchAll(TOWN_RE)) if (m[1] !== pageTown.name && m[1] !== "Toronto") add(route, id, "image-alt-wrong-city", `${alt} (page: ${pageTown.name})`);
   }
 }

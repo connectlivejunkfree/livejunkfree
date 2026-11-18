@@ -701,6 +701,8 @@ function applyRule(rule, s, kind) {
 // description from the page's service (audit A7, OBS-17 media notes, M5). Photos are not re-captioned
 // individually until the Drive assets are reviewed (MEDIA-NEEDED.md).
 const BAD_ALT = /^(\d{6,}[_ -]?\d*|\d{8}|(IMG|DSC|PXL|DJI|MVIMG|WhatsApp Image|Screenshot)[\w .-]*|[\w-]+\.(jpe?g|png|webp))([\s-]+scaled(\s+\d+)?|\s*\(\d+\)|\.(jpe?g|png|webp))?$/i;
+// Slug / file-name alts ("office-cleanout-services", "bed-bug-…_after", "Bed shot.jpg"): QA 18 Nov images check.
+const SLUG_ALT = /^[a-z0-9]+(?:[-_][a-z0-9]+)+(?:\s+(?:before|after)\d*)?$|\.(jpe?g|png|webp|jfif|heic)$/i;
 let currentTitle = "";
 function altFor(s) {
   const svc = currentTitle.replace(/\s*[-|–].*$/, "").replace(/\bServices?\b/g, "").replace(/\s{2,}/g, " ").trim();
@@ -820,6 +822,12 @@ function walk(node, kind, file, parentT) {
         continue;
       }
       if (k === "alt" && typeof v === "string") {
+        // a file-name alt is rewritten from the page's service; before/after comes from the image file itself
+        // (QA OBS-16 / B1-28: the old alts had before and after swapped)
+        if (SLUG_ALT.test(v.trim())) { counts.exact.before++; o[k] = altFor(String(node.src ?? v).split("/").pop()); continue; }
+        const fileBA = /(^|[-_/])(before|after)([-_.\d]|$)/i.exec(String(node.src ?? ""))?.[2]?.toLowerCase();
+        const altBA = /\b(before|after)\b/i.exec(v)?.[1]?.toLowerCase();
+        if (fileBA && altBA && fileBA !== altBA) { counts.exact.before++; o[k] = fixString(v.replace(/\b(before|after)\b/i, (w) => (w[0] === w[0].toUpperCase() ? fileBA[0].toUpperCase() + fileBA.slice(1) : fileBA)), "alt", file); continue; }
         o[k] = fixString(v, "alt", file);
         continue;
       }
