@@ -24,11 +24,6 @@
      "text": "Your Trusted Local Experts for Deck Demolition & Removal"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in town."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -175,9 +170,6 @@
        "Protective gear to handle splintered wood and rusted fasteners"
       ],
       [
-       "Equipment to handle concrete footings and deep-set posts"
-      ],
-      [
        "Eco-friendly disposal methods for all materials"
       ]
      ]
@@ -208,18 +200,6 @@
        "title": "Quick Turnaround",
        "text": [
         "Timing confirmed at your estimate"
-       ]
-      },
-      {
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        "– Special pricing when removing multiple decks or large structures"
-       ]
-      },
-      {
-       "title": "Convenient Scheduling",
-       "text": [
-        ""
        ]
       },
       {
@@ -285,9 +265,6 @@
        "All wood, composite, and metal materials are carefully sorted for recycling"
       ],
       [
-       "Concrete footings and supports are crushed for reuse in construction projects"
-      ],
-      [
        "Railings and hardware are properly processed at recycling facilities"
       ]
      ]
@@ -325,9 +302,6 @@
       ],
       [
        "Special reduced rates for multiple deck removals"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -375,19 +349,7 @@
       {
        "title": "Send us Photos",
        "text": [
-        "Simply take a few pictures of your deck and text or upload them to us, and we will respond within 30 minutes with a free, no-obligation quote."
-       ]
-      },
-      {
-       "title": "Get Your Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
-      {
-       "title": "Pick Your Time",
-       "text": [
-        ""
+        "Simply take a few pictures of your deck and text or upload them to us, and we will respond with a free, no-obligation quote."
        ]
       },
       {
@@ -442,7 +404,7 @@
        "q": "Do you remove all types of decks, including wood and composite?",
        "a": [
         [
-         "Yes, we professionally demolish and remove all deck types, wood, composite, and even concrete pool decks."
+         "Yes, we professionally demolish and remove all deck types, wood, composite, and even."
         ]
        ]
       },
@@ -459,14 +421,6 @@
        "a": [
         [
          "We serve Schomberg, Mississauga, Newmarket, Nobleton, Oshawa, Aurora, Bolton, East Gwillimbury, Toronto, and throughout the GTA."
-        ]
-       ]
-      },
-      {
-       "q": "Do I need a permit for deck removal?",
-       "a": [
-        [
-         ""
         ]
        ]
       },

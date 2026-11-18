@@ -63,9 +63,6 @@
        "Enhanced Productivity: Reduces visual noise and distractions, making it easier for employees to focus and find what they need."
       ],
       [
-       "Improved Safety and Compliance: Removes trip hazards, outdated electrical equipment, and ensures proper disposal of materials, aligning with workplace safety standards."
-      ],
-      [
        "Professional Image: A clutter-free, modern office makes a stronger impression on clients, partners, and potential employees."
       ],
       [
@@ -110,14 +107,14 @@
        "Inventory & Zoning: Conduct a walk-through to categorize areas: common areas (kitchens, copy rooms), private offices, workstations, and storage zones. Note large items like filing cabinets, obsolete servers, and old furniture."
       ],
       [
-       "Create a Timeline: Schedule the cleanout during a period of lower business activity, such as a long weekend or a planned closure. Allow ample time for pre-sorting and post-cleanup reorganization."
+       "Create a Timeline: Schedule the cleanout during a period of lower business activity, such as a long weekend or a planned closure. Allow ample time for pre-post-cleanup reorganization."
       ]
      ]
     },
     {
      "t": "h",
      "l": 3,
-     "text": "Phase 2: The Systematic Sorting and Categorization Process"
+     "text": "Phase 2: The Systematic Categorization Process"
     },
     {
      "t": "p",
@@ -128,7 +125,7 @@
     {
      "t": "p",
      "c": [
-      "Implement the Four-Stream Sorting System:",
+      "",
       {
        "br": 1
       },
@@ -164,7 +161,7 @@
       {
        "br": 1
       },
-      "Provide each team or department with clear guidelines, sorting supplies, and a deadline to pre-sort their own areas. This decentralized approach engages employees and speeds up the central removal process."
+      "{{fact:cleanupScope}}. This decentralized approach engages employees and speeds up the central removal process."
      ]
     },
     {
@@ -236,12 +233,6 @@
       ],
       [
        "Scheduled Execution: Our crew works around your schedule, often during evenings or weekends. We handle all loading, heavy lifting, and site protection."
-      ],
-      [
-       ""
-      ],
-      [
-       "Final Site Sweep: We leave the designated areas broom-clean and ready for your next phase."
       ]
      ]
     },
@@ -319,7 +310,7 @@
       {
        "br": 1
       },
-      "For a small office, plan 2-3 weeks ahead. For a full floor or multi-department cleanout, allow 4-6 weeks for planning, departmental sorting, and scheduling with a professional service."
+      "For a small office, plan 2-3 weeks ahead. For a full floor or multi-department cleanout, allow 4-6 weeks for planning, departmental and scheduling with a professional service."
      ]
     },
     {
@@ -374,7 +365,7 @@
     {
      "t": "p",
      "c": [
-      "An efficient office cleanout is a transformative project that requires careful planning, systematic execution, and the right professional partnership. By viewing it as a strategic business initiative, aligning stakeholders, implementing a clear sorting system, and leveraging a professional service for the heavy lifting and complex disposal, you can seamlessly reclaim your workspace. The result is more than just an empty room; it’s an optimized environment that fosters productivity, safety, and a modern professional image. Ready to plan your workspace transformation? Contact ",
+      "An efficient office cleanout is a transformative project that requires careful planning, systematic execution, and the right professional partnership. {{fact:cleanupScope}}. The result is more than just an empty room; it’s an optimized environment that fosters productivity, safety, and a modern professional image. Ready to plan your workspace transformation? Contact ",
       {
        "a": "/",
        "c": [

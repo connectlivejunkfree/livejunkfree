@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Schomberg with big-town capability at village scale — estate, farmhouse, hoarding and moving cleanouts by an insured crew, quoted flat on site with no village premium, sorted donation-first, and finished swept from the house to the far outbuilding."
+     "text": "Cleanout services in Schomberg with big-town capability at village scale — estate, farmhouse, hoarding and moving cleanouts by an insured crew, quoted flat on site with no village premium, sorted donation-first, and finished from the house to the far outbuilding."
     },
     {
      "t": "ctas",
@@ -126,7 +126,7 @@
        "title": "Free walkthrough cleanout quotes — the crossroads makes visits easy",
        "text": [
         [
-         "Because our routes already pass the 9 and 27 junction daily, walkthroughs cost us little and you nothing: a crew lead tours the whole property — house, workshop, drive shed, barn — and writes one firm flat quote for the complete clear. Free, unhurried, no expiry."
+         "{{fact:changedScope}}. Free, unhurried, no expiry."
         ]
        ]
       },
@@ -144,7 +144,7 @@
        "title": "Estate and farmhouse cleanouts with a village's eye for what's worth keeping",
        "text": [
         [
-         "In a heritage village and on long-held farms, meaningful things — and sometimes valuable ones — hide everywhere: the farmhouse dresser, the workshop drawer, the parlour hutch nobody’s opened in years. Keepsakes, documents and anything that looks like it might be worth more than a donation bin get set aside and flagged for the family, never swept away by default."
+         "In a heritage village and on long-held farms, meaningful things — and sometimes valuable ones — hide everywhere: the farmhouse dresser, the workshop drawer, the parlour hutch nobody’s opened in years. Keepsakes, documents and anything that looks like it might be worth more than a donation bin get set aside and flagged for the family, never away by default."
         ]
        ]
       },
@@ -162,7 +162,7 @@
        "title": "Independent cleanout pricing",
        "text": [
         [
-         "No head-office royalties inside our quotes and no rural or multi-building padding either — local crews, our own trucks, one honest number."
+         "{{fact:propertyProtection}}."
         ]
        ]
       }
@@ -195,8 +195,7 @@
     {
      "t": "checks",
      "items": [
-      "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -212,12 +211,6 @@
      "t": "price",
      "label": "Schomberg Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -237,11 +230,6 @@
      "text": "HOW OUR CLEANOUTS WORK"
     },
     {
-     "t": "h",
-     "l": 2,
-     "text": "The Schomberg Cleanout Sweep — Four Steps From Full Property to Clear Land"
-    },
-    {
      "t": "p",
      "c": [
       "Staged from the crossroads, finished with care:"
@@ -259,7 +247,7 @@
        "title": "Book Your Schomberg Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit, village or concession. The crew lead tours every structure, hears what the cleanout is for, and writes one flat quote with a timeline that fits it."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit, village or concession. {{fact:changedScope}}."
         ]
        ]
       },
@@ -268,7 +256,7 @@
        "title": "Protect the Keep-List, Approve the Quote",
        "text": [
         [
-         "Family items, documents, anything that might be worth appraising and anything flagged get set aside first — in whichever building they live. The written number locks, and the sweep is scheduled building by building."
+         "Family items, documents, anything that might be worth appraising and anything flagged get set aside first — in whichever building they live. {{fact:cleanupScope}}."
         ]
        ]
       },
@@ -283,10 +271,10 @@
       },
       {
        "n": "04",
-       "title": "Every Building Empty, the Whole Property Swept",
+       "title": "Every Building Empty, the Whole Property",
        "text": [
         [
-         "The property hands back clear end to end — rooms broom-swept, outbuildings emptied, ground raked where the clearing touched it — with debris gone on our own trucks and donation or disposal documentation available for the estate, the sale or your own file."
+         "The property hands back clear end to end — rooms, outbuildings emptied, ground raked where the clearing touched it — with debris gone on our own trucks and donation or disposal documentation available for the estate, the sale or your own file."
         ]
        ]
       }
@@ -327,9 +315,6 @@
        "Full estate cleanouts through the village and along the preserved Main Street"
       ],
       [
-       "Antiques-aware sorting — items worth a second look flagged before donation"
-      ],
-      [
        "Keepsakes, documents and valuables set aside for the family, always"
       ],
       [
@@ -339,7 +324,7 @@
        "Executor and out-of-town family coordination with documentation"
       ],
       [
-       "Sale-ready, broom-swept handovers"
+       "Sale-ready handovers"
       ]
      ]
     },
@@ -399,7 +384,7 @@
        "Storage locker and outbuilding cleanouts, any size"
       ],
       [
-       "Broom-swept, listing-ready handovers"
+       ", listing-ready handovers"
       ]
      ]
     },
@@ -425,9 +410,6 @@
       ],
       [
        "Storefront and shop cleanouts around the crossroads"
-      ],
-      [
-       "Respectful crews, first knock to final sweep"
       ]
      ]
     }
@@ -727,7 +709,7 @@
        "q": "Do you cover Lloydtown, Pottageville and Kettleby?",
        "a": [
         [
-         "Every hamlet and every concession between, at the same flat pricing as Main Street. The routes pass daily; no address waits longer or pays more."
+         "{{fact:changedScope}}. The routes pass daily; no address waits longer or pays more."
         ]
        ]
       },

@@ -112,29 +112,9 @@
      "text": "In a community like Port Perry, reputation travels fast — through the local coffee shops on Queen Street, across the docks at Lake Scugog, between neighbours in Blackstock and Caesarea, and through the tight networks of Scugog Township's rural communities. The fact that Live Junk Free has become the team Port Perry and Scugog people consistently recommend to one another isn't something we advertise — it's something we've earned, one job and one satisfied customer at a time."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "We come to you and quote in person — always",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "No phone estimates. No online calculators. We physically visit your Port Perry or Scugog property, walk through every area you need cleared, and calculate your price based on what we actually see — not what we assume."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Volume-based pricing — fair for every property type",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -142,29 +122,9 @@
      "text": "Whether you're clearing a small room in a Port Perry townhouse or a full rural property in Blackstock — you pay based on how much space your junk fills in our truck. Nothing else. Your property size, your neighbourhood and your postcode never affect your rate."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One flat number — labour, truck, fuel, disposal",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "All of it in one number. No line items discovered after the fact. No \"disposal surcharge\" added at checkout. No \"travel fee\" for properties outside the town core. One number. Complete."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "No heavy lifting for you — ever",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -172,29 +132,9 @@
      "text": "From the moment you approve the quote, our crew handles every physical aspect of the job. We carry items from every floor, every room, every corner of your property. You do not lift, move, sort or carry a single item. Not one."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "No stress — we manage the entire process",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Booking is simple. Our arrival is on time. Our crew is professional and courteous. Our process is clean and efficient. And when we leave, your space is clear and swept. No mess. No chaos. No follow-up phone calls about surprises."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "You approve the price before we start — guaranteed",
-       "text": []
-      }
-     ]
+     "text": "Booking is simple. Our arrival is on time. Our crew is professional and courteous. Our process is clean and efficient. And when we leave, your space is clear. No mess. No chaos. No follow-up phone calls about surprises."
     },
     {
      "t": "h",
@@ -287,7 +227,7 @@
       {
        "title": "Clean-Up & Responsible Disposal",
        "text": [
-        "After the job is complete, we perform a final walkthrough, sweep the area, and leave your property clean. Usable items are donated, recyclable materials are processed properly, and landfill waste is kept to a minimum."
+        "After the job is complete, we perform a final walkthrough, and leave your property clean. Usable items are donated, recyclable materials are processed properly, and landfill waste is kept to a minimum."
        ]
       }
      ]
@@ -633,7 +573,7 @@
        "q": "Q: How much does junk removal cost in Port Perry, Ontario?",
        "a": [
         [
-         "A: Our Port Perry junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour. Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). We provide a free on-site estimate before any work begins., guaranteed."
+         "A: Our Port Perry junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour. Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard)."
         ]
        ]
       },
@@ -641,7 +581,7 @@
        "q": "Q: Do you offer same-day junk removal in Port Perry?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of Port Perry and Scugog Township including Blackstock, Caesarea, Prince Albert, Seagrave and surrounding Durham Region communities. Call +1 647 922 5865 to confirm today’s availability."
+         "{{fact:scheduling}} Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },

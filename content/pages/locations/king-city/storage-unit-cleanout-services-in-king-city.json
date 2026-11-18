@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Storage unit cleanout services in King City from Live Junk Free happen without anyone else needing to know what's in the unit or why it's being cleared — arrival arranged around your schedule, nothing discussed with anyone outside the job, at the same flat price whatever the unit holds."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "Given the village’s size, most local residents end up renting units at facilities in nearby towns, but the same discretion and the same flat pricing apply wherever the actual facility is."
+      "{{fact:changedScope}}."
      ]
     },
     {
@@ -150,19 +150,10 @@
       },
       {
        "n": "04",
-       "title": "Same-day storage unit cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first storage unit cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -198,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how full the unit actually is, and how much sorting it genuinely needs. A small unit is a modest job. A larger unit packed floor to ceiling takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small unit is a modest job. A larger unit packed floor to ceiling takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -210,8 +201,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -231,7 +221,7 @@
     {
      "t": "p",
      "c": [
-      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -295,7 +285,7 @@
        "title": "Your Unit Is Empty and Ready to Return",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready to hand back to the facility."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready to hand back to the facility."
         ]
        ]
       }
@@ -330,16 +320,10 @@
        "Storage unit cleanouts arranged with full discretion as standard"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "No client's situation discussed with anyone outside the job"
       ],
       [
-       "Same-day service where access allows"
-      ],
-      [
-       "Same flat pricing as any other storage unit cleanout"
+       "Service where access allows"
       ],
       [
        "Documentation shared only with the people meant to see it"
@@ -399,9 +383,6 @@
        "Communication stays professional and discreet throughout"
       ],
       [
-       "Same flat pricing whether or not a deadline is involved"
-      ],
-      [
        "Documentation shared only with the people meant to see it"
       ]
      ]
@@ -421,16 +402,13 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }

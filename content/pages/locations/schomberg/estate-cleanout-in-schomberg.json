@@ -128,7 +128,7 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat price — the crossroads makes it fair",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number is identical whether the property is on Main Street or well out on a concession, because the trucks already pass through Schomberg daily."
@@ -203,7 +203,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is the scope of the property — how many rooms or structures are involved, and how much sorting and donation coordination the belongings need. A single-room job is modest. A full farmhouse with a barn attached takes considerably more time, and the price reflects that real difference rather than a flat guess made over the phone."
+      "The honest factor is the scope of the property — how many rooms or structures are involved, and how much donation coordination the belongings need. A single-room job is modest. A full farmhouse with a barn attached takes considerably more time, and the price reflects that real difference rather than a flat guess made over the phone."
      ]
     },
     {
@@ -215,7 +215,6 @@
     {
      "t": "checks",
      "items": [
-      "One Flat Price, No Village Premium Ever",
       "Executor Documentation Included as Standard"
      ]
     },
@@ -232,12 +231,6 @@
      "t": "price",
      "label": "Schomberg Estate Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -284,29 +277,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member visits — house, and any outbuildings — sees the actual scope, and provides one flat price."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at the family’s pace, with anything meaningful set aside first, always."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "A Property That's Clean and Ready",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable — ready for a sale, a new owner, or simply for the family."
+         "Whatever was worked on that visit is left and usable — ready for a sale, a new owner, or simply for the family."
         ]
        ]
       }
@@ -347,13 +322,10 @@
        "Family-initiated cleanouts handled with real patience"
       ],
       [
-       "Same-day service for straightforward village access"
+       "Service for straightforward village access"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
-      ],
-      [
-       "Same flat pricing as anywhere else in the township"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -372,13 +344,7 @@
        "Outbuilding and barn coordination under one single booking"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Crews accustomed to working calmly around rural properties"
-      ],
-      [
-       "Same flat pricing regardless of distance from the crossroads"
       ],
       [
        "Documentation available for the estate file"
@@ -399,9 +365,6 @@
      "items": [
       [
        "Estate cleanouts in Lloydtown, Pottageville and Kettleby"
-      ],
-      [
-       "Same flat pricing as Main Street, no hamlet premium"
       ],
       [
        "Discreet, unhurried scheduling on request"
@@ -433,9 +396,6 @@
       ],
       [
        "Documentation provided for estate, legal or sale-related requirements"
-      ],
-      [
-       "Same flat pricing whether or not a deadline is involved"
       ],
       [
        "Discreet, respectful communication with every party involved"
@@ -818,7 +778,7 @@
        "q": "Do you charge extra for rural properties or hamlet homes?",
        "a": [
         [
-         "Never. The same flat pricing applies at Main Street, in Lloydtown, Pottageville or Kettleby, and on a farm well out on the concessions."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },
@@ -834,7 +794,7 @@
        "q": "Can the cleanout include a barn or outbuilding, not just the house?",
        "a": [
         [
-         "Yes — it’s regular work for us on the township’s farm properties, all under one flat, honest price."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -866,7 +826,7 @@
        "q": "Is there a deadline required, or can this happen on our own timeline?",
        "a": [
         [
-         "Either works. Some estate cleanouts are tied to a closing or a listing date; others happen whenever the family is ready. Both get the same flat pricing and the same care."
+         "Either works. Some estate cleanouts are tied to a closing or a listing date; others happen whenever the family is ready. {{fact:changedScope}}."
         ]
        ]
       }

@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Vaughan for builders, estates and growing families alike — pre-occupancy, estate, condo and moving cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished swept on schedule."
+     "text": "Cleanout services in Vaughan for builders, estates and growing families alike — pre-occupancy, estate, condo and moving cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished on schedule."
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Vaughan’s cleanouts follow the city’s own construction and family cycles, and our crews run every stage of it daily. Across the new subdivisions in Vellore Village, Sonoma Heights and Maple, it’s pre-occupancy cleanouts for builders and buyers — model suites reset, unsold inventory cleared, closing-day units swept. In the rising VMC and along the Thornhill side, it’s condo cleanouts — estates, downsizing moves and tenant turnovers cleared floor by floor. In Kleinburg and Islington Woods’ estate properties, it’s full estate cleanouts handled with discretion and care. Through Woodbridge and Vaughan’s older streets, it’s household-merge cleanouts as families combine generations under one roof. And across Concord’s mixed residential-industrial pockets, it’s office, unit and storage cleanouts between tenants. The Google reviews behind Live Junk Free come from every one of those addresses — flat written quotes, builders and families who both kept coming back, and space handed back exactly as promised."
+      "Vaughan’s cleanouts follow the city’s own construction and family cycles, and our crews run every stage of it daily. Across the new subdivisions in Vellore Village, Sonoma Heights and Maple, it’s pre-occupancy cleanouts for builders and buyers — model suites reset, unsold inventory cleared, closing-day units. In the rising VMC and along the Thornhill side, it’s condo cleanouts — estates, downsizing moves and tenant turnovers cleared floor by floor. In Kleinburg and Islington Woods’ estate properties, it’s full estate cleanouts handled with discretion and care. Through Woodbridge and Vaughan’s older streets, it’s household-merge cleanouts as families combine generations under one roof. And across Concord’s mixed residential-industrial pockets, it’s office, unit and storage cleanouts between tenants. The Google reviews behind Live Junk Free come from every one of those addresses — flat written quotes, builders and families who both kept coming back, and space handed back exactly as promised."
      ]
     },
     {
@@ -126,7 +126,7 @@
        "title": "Free walkthrough cleanout quotes for builders and homeowners alike",
        "text": [
         [
-         "A crew lead walks the space — a model suite, a closing unit, a Kleinburg estate — hears the deadline or the story behind it, and writes one firm flat quote on the spot. Free, documented, and structured for per-unit or per-project pricing where builders need it."
+         "{{fact:changedScope}}. Free, documented, and structured for per-unit or per-project pricing where builders need it."
         ]
        ]
       },
@@ -135,7 +135,7 @@
        "title": "Pre-occupancy cleanouts that hit closing dates, every time",
        "text": [
         [
-         "Builders and site supers across Vaughan’s new communities book us for exactly this: model suites reset between phases, unsold inventory cleared, and finished units swept ahead of possession. Dates in this business don’t move, and neither does our commitment to them."
+         "Builders and site supers across Vaughan’s new communities book us for exactly this: model suites reset between phases, unsold inventory cleared, and finished units ahead of possession. Dates in this business don’t move, and neither does our commitment to them."
         ]
        ]
       },
@@ -154,15 +154,6 @@
        "text": [
         [
          "Overwhelmed homes and estates clear with respect: unmarked scheduling on request, no commentary, a steady room-by-room pace, and coordination with family or support workers where it helps. New subdivision or century estate, the neighbours learn nothing from us."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Independent cleanout pricing",
-       "text": [
-        [
-         "No head-office royalties inside our quotes — local crews, our own trucks, honest volume pricing."
         ]
        ]
       }
@@ -195,8 +186,7 @@
     {
      "t": "checks",
      "items": [
-      "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -212,12 +202,6 @@
      "t": "price",
      "label": "Vaughan Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -259,7 +243,7 @@
        "title": "Book Your Vaughan Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit. The crew lead tours the space, hears the deadline or the family’s story, and writes one flat quote with a timeline built around what owns the project."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit. {{fact:changedScope}}."
         ]
        ]
       },
@@ -283,10 +267,10 @@
       },
       {
        "n": "04",
-       "title": "Swept, Empty and Ready for the Next Stage",
+       "title": ", Empty and Ready for the Next Stage",
        "text": [
         [
-         "The space hands back broom-swept — model suite, estate home or condo — with debris gone on our own trucks and donation or disposal documentation available for the estate, the builder’s file or the landlord’s records."
+         "The space hands back — model suite, estate home or condo — with debris gone on our own trucks and donation or disposal documentation available for the estate, the builder’s file or the landlord’s records."
         ]
        ]
       }
@@ -330,13 +314,10 @@
        "Unsold inventory and staging removal for builders and site supers"
       ],
       [
-       "Closing-day units swept ahead of possession"
+       "Closing-day units ahead of possession"
       ],
       [
        "Site-office and sales-centre cleanouts at project close"
-      ],
-      [
-       "Per-unit and per-project pricing for multi-site builders"
       ],
       [
        "One crew your site super already knows by the second project"
@@ -727,7 +708,7 @@
        "q": "How quickly can you complete a cleanout in Vaughan?",
        "a": [
         [
-         "Most residential cleanouts are completed in a single visit. Smaller jobs often take just a few hours, while larger homes, commercial spaces, or post-construction cleanouts may require additional time. Same-day and next-day appointments are available when scheduling permits."
+         "Most residential cleanouts are completed in a single visit. Smaller jobs often take just a few hours, while larger homes, commercial spaces, or post-construction cleanouts may require additional time. {{fact:permits}}"
         ]
        ]
       },

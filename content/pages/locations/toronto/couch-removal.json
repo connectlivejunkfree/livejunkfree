@@ -74,7 +74,7 @@
     {
      "t": "p",
      "c": [
-      "What makes us different? We’re not just about hauling junk away. We believe in eco-friendly disposal — donating usable couches to local Toronto charities and recycling materials responsibly."
+      "What makes us different? We’re not just about hauling junk away."
      ]
     },
     {
@@ -226,7 +226,7 @@
      "c": [
       {
        "b": [
-        "Bulk Furniture Pickup"
+        "{{fact:competitorComparison}}"
        ]
       }
      ]
@@ -234,7 +234,7 @@
     {
      "t": "p",
      "c": [
-      "Moving out or clearing an entire room? We offer bulk furniture pickup across Toronto — removing multiple pieces in a single visit, saving you time and money. Combine your couch removal with other furniture removal in Toronto for even better value."
+      "Moving out or clearing an entire room? {{fact:changedScope}}. Combine your couch removal with other furniture removal in Toronto for even better value."
      ]
     }
    ]
@@ -252,35 +252,23 @@
       {
        "title": "Flexible Scheduling",
        "text": [
-        "Work around your timeline with next-day or weekend slots available. Same-day services are also available."
-       ]
-      },
-      {
-       "title": "Pricing",
-       "text": [
-        "{{fact:competitorComparison}}"
+        "Work around your timeline with next-day or weekend slots available, subject to scheduling. Same-day services when available are also available."
        ]
       },
       {
        "title": "Eco-Friendly Disposal",
        "text": [
-        "We recycle materials and donate usable furniture to local charities"
+        "We recycle materials and donate suitable furniture where possible"
        ]
       },
       {
        "title": "Careful Removal",
        "text": [
-        "We protect your home during removal with padding and careful handling"
+        "{{fact:propertyProtection}}"
        ]
       },
       {
-       "title": "Bulk Removal Options",
-       "text": [
-        "Special rates when clearing multiple pieces of furniture"
-       ]
-      },
-      {
-       "title": "Same-Day Availability",
+       "title": "Availability when available",
        "text": [
         "Fast service when you need it most, often within hours"
        ]
@@ -311,9 +299,6 @@
      "items": [
       [
        "We manage TV removal in residential spaces, including tight staircases, basements, and high-rise buildings."
-      ],
-      [
-       "Our team safely disconnects and removes your TV without causing any mess or damage."
       ],
       [
        "From sleek flat screens to large projection TVs and all residential models, our service covers it all."
@@ -349,7 +334,7 @@
        "Eco-Conscious Breakdown: We carefully separate wood, metal, and fabrics for proper recycling"
       ],
       [
-       "Give Furniture New Life: Gently-used couches get donated to shelters and community organizations"
+       "Give Furniture New Life: Gently-used couches get donated where possible"
       ],
       [
        "Landfill-Last Policy: Less than 10% of the materials we remove end up as waste"
@@ -394,9 +379,6 @@
       ],
       [
        "{{fact:freeOnsiteEstimates}}"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -466,7 +448,7 @@
       {
        "title": "Book Your Appointment",
        "text": [
-        "Call us at +1 647 922 5865 or book online. Tell us what you need removed and choose your preferred date and time. Same-day slots are often available."
+        "Call us at +1 647 922 5865 or book online. Tell us what you need removed and choose your preferred date and time. Same-day slots when available are often available."
        ]
       },
       {
@@ -484,7 +466,7 @@
       {
        "title": "Eco-Friendly Disposal",
        "text": [
-        "We sort your couch for donation to local Toronto charities, recycling, or responsible disposal. Nothing goes to landfill unless absolutely necessary."
+        "Nothing goes to landfill unless absolutely necessary."
        ]
       }
      ]
@@ -553,7 +535,7 @@
        "q": "Q: How do I get rid of a couch in Toronto?",
        "a": [
         [
-         "A: The easiest way to get rid of a couch in Toronto is to hire a professional couch removal service like Live Junk Free. Simply call +1 647 922 5865 or book online, and our team will come to your Toronto home, remove the couch from any room, and handle eco-friendly disposal — all in one visit. We offer same-day and next-day couch removal across Toronto, making it the fastest and most convenient option."
+         "A: The easiest way to get rid of a couch in Toronto is to hire a professional couch removal service like Live Junk Free. Simply call +1 647 922 5865 or book online, and our team will come to your Toronto home, remove the couch from any room, and handle eco-friendly disposal — all. We offer same-day and next-day couch removal when available across Toronto, making it the fastest and most convenient option."
         ]
        ]
       },
@@ -561,7 +543,7 @@
        "q": "Q: How do I get rid of my old sofa for free near me?",
        "a": [
         [
-         "A: Donate it, list it for free online, or use city bulk pickup. For faster, hassle-free removal, choose Live Junk Free’s affordable couch removal Toronto services."
+         "{{fact:changedScope}}. For faster, hassle-free removal, choose Live Junk Free’s affordable couch removal Toronto services."
         ]
        ]
       },

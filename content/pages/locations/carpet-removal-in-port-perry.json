@@ -97,29 +97,9 @@
      "text": "Port Perry's homes carry real history — Victorian houses in the heritage downtown, family homes in the newer streets above it, and cottages ringing Lake Scugog — and plenty of them still carry the broadloom to match. Live Junk Free has earned Google reviews across Durham Region by doing tear-outs the right way: careful with the trim, honest with the price, and gone with every last staple bag before your flooring installer arrives."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "The truck measures your price — not a stopwatch",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Carpet is priced like everything else we haul: by the space it fills in our truck. One bedroom's worth of rolled broadloom is a small load with a small price; a whole-house tear-out fills more and costs accordingly. Hours worked and Port Perry addresses never enter the math."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "We look before we quote — always in person",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -127,59 +107,19 @@
      "text": "Carpet jobs hide surprises: double underpad, glued-down sections, stairs wrapped tighter than they look. A phone estimate can't see any of that, so we skip it. A crew member walks your actual rooms, checks the actual carpet, and writes a number you can trust."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One price buys the whole job",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Tear-out labour, hauling, truck, fuel, disposal fees — a single figure, agreed before we start, covering all of it."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "We leave a subfloor, not a mess",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Anyone can carry out a roll of carpet. The value is in what's left behind: underpad up, tack strips pried, staples pulled on request, and the whole surface swept clean. When we drive off, your installer can start — no prep day required."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "The quote is free and so is walking away",
-       "text": []
-      }
-     ]
+     "text": "Anyone can carry out a roll of carpet. The value is in what's left behind: underpad up, tack strips pried, staples pulled on request, and the whole surface. When we drive off, your installer can start — no prep day required."
     },
     {
      "t": "h",
      "l": 3,
      "text": "You're never committed until you say so. Like the number, and the crew starts cutting immediately. Don't, and we leave without charging a cent — no deposit taken, no pressure applied, no callbacks."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Local and franchise-free",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -241,7 +181,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Old Carpet Out of Your Port Perry Home — Four Steps, One Visit"
+     "text": "{{fact:pickupTimes}}"
     },
     {
      "t": "h",
@@ -260,7 +200,7 @@
       {
        "title": "2. Show Us the Rooms",
        "text": [
-        "Bedrooms, stairs, the rec room downstairs — walk us through everything coming up. We assess the carpet, the underpad and the layout, then hand you one flat, price. Free, and zero obligation."
+        "Bedrooms, stairs, the rec room downstairs — walk us through everything coming up. {{fact:changedScope}}. Free, and zero obligation."
        ]
       },
       {
@@ -270,9 +210,9 @@
        ]
       },
       {
-       "title": "4. Swept, Loaded and Gone",
+       "title": "4., Loaded and Gone",
        "text": [
-        "The subfloor gets a final sweep, the truck gets loaded, and your old carpet heads to recycling wherever facilities accept it. You're left with a clean, install-ready surface and nothing at the curb."
+        "{{fact:cleanupScope}}. You're left with a clean, install-ready surface and nothing at the curb."
        ]
       }
      ]
@@ -333,7 +273,7 @@
          "Adhesive and residue scraping where needed"
         ],
         [
-         "Final subfloor sweep, ready for the installer"
+         ""
         ]
        ]
       },
@@ -350,7 +290,7 @@
          "Pet-damaged and odour-saturated carpet"
         ],
         [
-         "Pest- and bed-bug-affected carpet — sealed and removed discreetly"
+         ""
         ],
         [
          "Post-renovation offcuts and flooring debris"
@@ -509,7 +449,7 @@
        "q": "Q: Do you pull the carpet up, or just haul away what I've already ripped out?",
        "a": [
         [
-         "A: Both. Most Port Perry customers book the full tear-out — we cut, roll, pull the underpad, pry the tack strips and sweep the subfloor. But if you’ve already done the hard part yourself, we’re happy to simply load the rolls and go."
+         "A: Both. {{fact:cleanupScope}}. But if you’ve already done the hard part yourself, we’re happy to simply load the rolls and go."
         ]
        ]
       },
@@ -525,7 +465,7 @@
        "q": "Q: My basement carpet got soaked — how fast can you get it out?",
        "a": [
         [
-         "A: Fast is the whole point with wet carpet. Soaked broadloom and underpad start damaging the subfloor within days, so we prioritize these calls with same-day removal across Port Perry and the lake area whenever slots allow. Call +1 647 922 5865 and tell us it’s a water job."
+         "A: Fast is the whole point with wet carpet. Soaked broadloom and underpad start damaging the subfloor within days, so we prioritize these calls with same-day removal when available across Port Perry and the lake area whenever slots allow. Call +1 647 922 5865 and tell us it’s a water job."
         ]
        ]
       },
@@ -533,7 +473,7 @@
        "q": "Q: Will the subfloor be ready for my new flooring when you're done?",
        "a": [
         [
-         "A: That’s the standard we work to. Underpad up, tack strips out, staples pulled on request and the surface swept — your installer walks into a room that’s ready, not a demolition site."
+         "A: That’s the standard we work to. Underpad up, tack strips out, staples pulled on request and the surface — your installer walks into a room that’s ready, not a demolition site."
         ]
        ]
       }

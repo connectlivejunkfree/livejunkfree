@@ -6,7 +6,7 @@
  "template": "Core",
  "seo": {
   "title": "Residential & Commercial Junk Removal in Greater Toronto Area",
-  "description": "Live Junk Free offers top-rated residential and commercial junk removal, demolition, and cleanout services in the Greater Toronto Area. Call today for fast, reliable cleanup!",
+  "description": "Call today for fast, reliable cleanup!",
   "canonical": "https://livejunkfree.ca/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2024/05/livejunkfree-flyer-1024x374.jpg"
@@ -153,7 +153,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Live Junk Free Guarantees"
+     "text": "Careful Removal"
     },
     {
      "t": "p",
@@ -168,7 +168,7 @@
       "demolition",
       " and ",
       "cleanouts",
-      ". We eliminate the hassle, guaranteeing a seamless, effective, economical and environmentally responsible experience from beginning to end. "
+      ". "
      ]
     },
     {
@@ -196,7 +196,7 @@
        "Hassle-Free Experience"
       ],
       [
-       "100% Customer Satisfaction"
+       "Careful Removal"
       ],
       [
        "Flexible Scheduling"
@@ -226,7 +226,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same and Next day Appointments Available"
+     "text": "Same and Next day Appointments may be available"
     },
     {
      "t": "ctas",
@@ -249,84 +249,7 @@
    ]
   },
   {
-   "blocks": [
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "1",
-       "title": "Book a Slot for a Pickup",
-       "text": []
-      }
-     ]
-    },
-    {
-     "t": "cards",
-     "items": [
-      {
-       "title": "",
-       "text": [
-        "Check your routine and get in touch with us through a call or website to",
-        {
-         "a": "/contact/",
-         "c": [
-          " schedule an appointment"
-         ]
-        },
-        " for cleaning at a convenient date and time."
-       ]
-      }
-     ]
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "2",
-       "title": "We Show Up and Clean Out",
-       "text": []
-      }
-     ]
-    },
-    {
-     "t": "cards",
-     "items": [
-      {
-       "title": "",
-       "text": [
-        {
-         "a": "/about/",
-         "c": [
-          "Our professionals"
-         ]
-        },
-        " are punctual in visiting your place and take charge of lifting and promptly removing your undesired goods from there on."
-       ]
-      }
-     ]
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "3",
-       "title": "Ecological & Responsible Disposal",
-       "text": []
-      }
-     ]
-    },
-    {
-     "t": "cards",
-     "items": [
-      {
-       "title": "",
-       "text": [
-        "After thorough cleaning, we haul the trash and dispose of it in an environmentally responsible manner by recycling and reusing it."
-       ]
-      }
-     ]
-    }
-   ]
+   "blocks": []
   },
   {
    "blocks": [

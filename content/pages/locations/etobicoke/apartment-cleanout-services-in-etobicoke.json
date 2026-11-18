@@ -116,7 +116,7 @@
     {
      "t": "p",
      "c": [
-      "No — building logistics get planned for and included in one flat price, never billed as an extra just because the address is a lakeshore tower."
+      "{{fact:changedScope}}."
      ]
     }
    ]
@@ -126,15 +126,6 @@
     {
      "t": "steps",
      "items": [
-      {
-       "n": "01",
-       "title": "Real lakeshore corridor experience for apartment cleanout",
-       "text": [
-        [
-         "{{fact:insuranceDocs}}."
-        ]
-       ]
-      },
       {
        "n": "02",
        "title": "Older purpose-built rental apartment cleanout coordination",
@@ -146,7 +137,7 @@
       },
       {
        "n": "03",
-       "title": "One flat apartment cleanout price, whatever the building",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number reflects the unit’s actual volume — never the building type or how many floors the freight elevator needs to travel."
@@ -209,7 +200,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -230,7 +220,7 @@
     {
      "t": "p",
      "c": [
-      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -272,15 +262,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew sees the actual unit and building type, and gives you one flat price before anything moves."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Apartment Gets Cleared, by the Building's Book",
        "text": [
@@ -294,7 +275,7 @@
        "title": "The Unit Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready for whatever comes next."
         ]
        ]
       }
@@ -335,7 +316,7 @@
        "No client's situation discussed with anyone outside the job"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -355,9 +336,6 @@
       ],
       [
        "Damage or abandonment documentation available on request"
-      ],
-      [
-       "Same flat pricing regardless of the building's age"
       ]
      ]
     }
@@ -381,9 +359,6 @@
       ],
       [
        "Same fair standard as anywhere in the region"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
       ]
      ]
     },
@@ -402,10 +377,10 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }

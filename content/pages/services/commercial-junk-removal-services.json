@@ -30,11 +30,7 @@
     {
      "t": "p",
      "c": [
-      "Let Us Handle the",
-      {
-       "br": 1
-      },
-      "Heavy Lifting for Your Business"
+      "Let Us Handle the Heavy Lifting for Your Business"
      ]
     }
    ]
@@ -80,7 +76,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Instant Service Quote"
+     "text": "Service Quote"
     },
     {
      "t": "h",
@@ -266,7 +262,7 @@
        "To preserve the environment for subsequent generations, we give emphasis to eco-friendly practices, such as recycling."
       ],
       [
-       "We use cutting-edge methods and instruments to guarantee effective, ecological garbage disposal that satisfies current green standards."
+       "Careful Removal"
       ]
      ]
     }
@@ -389,19 +385,9 @@
      }
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Have Total Charge of Your Cleanout",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "By providing customisable commercial junk removal services that are tailored to your individual needs, we give you the ability to control. We guarantee that you have complete authority over the process, whether you're cleaning up just one workspace or managing a full office."
+     "text": "By providing customisable commercial junk removal services that are tailored to your individual needs, we give you the ability to control."
     }
    ]
   },
@@ -415,16 +401,6 @@
       "width": 679,
       "height": 457
      }
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Remove Trash Simply and Accurately",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -445,19 +421,9 @@
      }
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Streamline Your Site, One Step at a Time",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "We remove waste in small, methodical steps to facilitate your office junk removal as easily as possible. While maintaining the seamless operation of your company, this guarantees an organised and secure setting for your customers and staff."
+     "text": "We remove waste in small, methodical steps to facilitate your office junk removal as easily as possible."
     }
    ]
   },
@@ -490,7 +456,7 @@
         " “commercial junk removal near me” "
        ]
       },
-      "for handling office cleanouts, construction debris removal, or workplace upgrade, we’re here at your service with unmatched commitment and zeal. We guarantee that the procedure fits in perfectly with your objectives and calendar by offering customised services to organisations of every kind. We strive to provide an experience that boosts your company’s activities and helps create a more sustainable future, from secure ",
+      "for handling office cleanouts, construction debris removal, or workplace upgrade, we’re here at your service with unmatched commitment and zeal. We strive to provide an experience that boosts your company’s activities and helps create a more sustainable future, from secure ",
       {
        "b": [
         "commercial appliance removal"
@@ -545,29 +511,6 @@
       {
        "label": "Recurring Clients",
        "value": "100+"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Instant Service Quote"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Tell Us What needs to go"
-    },
-    {
-     "t": "ctas",
-     "items": [
-      {
-       "label": "Get a Free Quote",
-       "href": "tel:+16479225865"
       }
      ]
     }
@@ -742,12 +685,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "No matter how big or tiny , We haul it all."
+     "text": "Big or small, tell us what needs to go."
     },
     {
      "t": "h",
      "l": 3,
-     "text": "Set Up a Time for Your Commercial Junk Removal Project"
+     "text": "Request a Commercial Quote"
     },
     {
      "t": "ctas",
@@ -810,32 +753,9 @@
        "q": "How far in advance do I need to schedule a pickup?",
        "a": [
         [
-         "We strive to accommodate our customers’ schedules as much as possible. However, we understand that emergencies happen, so feel free to reach out to us, and we’ll do our best to accommodate your needs."
+         "We strive to accommodate our customers’ schedules as much as possible. {{fact:scheduling}}"
         ]
        ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Instant Service Quote"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Tell Us What needs to go"
-    },
-    {
-     "t": "ctas",
-     "items": [
-      {
-       "label": "Get a Free Quote",
-       "href": "tel:+16479225865"
       }
      ]
     }

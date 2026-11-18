@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Professional estate cleanout services in Vaughan — from Kleinburg estate properties to VMC condo suites, every estate cleared with patience and discretion, free flat-rate quote on site, keepsakes and valuables set aside first, and the property handed back broom-swept."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -111,20 +111,11 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "{{fact:quoteText}}",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
        "n": "02",
        "title": "Free estate cleanout quotes, arranged around your property and your schedule",
        "text": [
         [
-         "A crew lead tours the space — main house and grounds, a condo suite, a family home with a business attached — hears what the estate cleanout is for, and writes one firm flat quote on the spot. Free, unhurried, and structured for whatever the property actually requires."
+         "{{fact:changedScope}}. Free, unhurried, and structured for whatever the property actually requires."
         ]
        ]
       },
@@ -133,7 +124,7 @@
        "title": "Estate cleanout services handled the way family would",
        "text": [
         [
-         "When an estate cleanout follows a loss, the contents carry more than value — they carry a life. Our crew slows down where it matters: photographs, documents, jewellery and anything that looks meaningful gets set aside for the family, never swept into a bin by default, regardless of the size or type of property involved."
+         "When an estate cleanout follows a loss, the contents carry more than value — they carry a life. Our crew slows down where it matters: photographs, documents, jewellery and anything that looks meaningful gets set aside for the family, never into a bin by default, regardless of the size or type of property involved."
         ]
        ]
       },
@@ -185,12 +176,6 @@
      "text": "How Every Vaughan Estate Cleanout Quote Gets Written"
     },
     {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
-    },
-    {
      "t": "checks",
      "items": [
       "Estate Cleanout + Haul-Away in One Number",
@@ -210,12 +195,6 @@
      "t": "price",
      "label": "Vaughan Estate Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -257,7 +236,7 @@
        "title": "Book Your Estate Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit, arranged around your convenience. The crew lead tours the full property, listens to what the estate cleanout is for, and writes one flat quote with a timeline that fits your family or the estate’s requirements."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit, arranged around your convenience. {{fact:changedScope}}."
         ]
        ]
       },
@@ -281,10 +260,10 @@
       },
       {
        "n": "04",
-       "title": "Swept, Empty and Ready for the Next Chapter",
+       "title": ", Empty and Ready for the Next Chapter",
        "text": [
         [
-         "The estate hands back broom-swept — house, suite, or business premises — with debris gone on our own trucks and donation or disposal documentation available for the estate file, the executor or the listing agent. Most single-room clears finish same-day; full properties finish on the promised date."
+         "The estate hands back — house, suite, or business premises — with debris gone on our own trucks and donation or disposal documentation available for the estate file, the executor or the listing agent. Most single-room clears finish same-day; full properties finish on the promised date, subject to availability."
         ]
        ]
       }
@@ -363,9 +342,6 @@
       ],
       [
        "Move-out timing coordinated with concierge and management"
-      ],
-      [
-       "Donation-first sorting recorded for the estate file"
       ]
      ]
     }
@@ -397,7 +373,7 @@
        "Coordination between family members on what stays, goes or moves"
       ],
       [
-       "Broom-swept, listing-ready handovers"
+       ", listing-ready handovers"
       ]
      ]
     },
@@ -805,7 +781,7 @@
        "q": "What does an estate cleanout include?",
        "a": [
         [
-         "A full estate cleanout covers sorting every room, setting aside keepsakes and valuables for the family, donating or recycling what has life left, hauling and responsibly disposing of the rest, and leaving the property broom-swept. Documentation of the donation and disposal split is available for the estate file."
+         "{{fact:cleanupScope}}. Documentation of the donation and disposal split is available for the estate file."
         ]
        ]
       },
@@ -837,7 +813,7 @@
        "q": "Our estate includes a family business — can you clear that alongside the home?",
        "a": [
         [
-         "Yes, and it’s regular work for us in Vaughan. Equipment, inventory and paperwork sort with the same care as the family home, anything meaningful gets set aside before anything moves to disposal or a buyer, and the space hands over swept for whoever’s next."
+         "Yes, and it’s regular work for us in Vaughan. Equipment, inventory and paperwork sort with the same care as the family home, anything meaningful gets set aside before anything moves to disposal or a buyer, and the space hands over for whoever’s next."
         ]
        ]
       },
@@ -853,7 +829,7 @@
        "q": "Do you work with executors who live out of town or overseas?",
        "a": [
         [
-         "Regularly. Photographs, written updates and a documented record of anything donated, recycled or set aside let an executor approve every stage of the estate cleanout remotely, without needing to be on site."
+         "Regularly. Photographs, written updates and a documented record of anything donated, recycled where possible or set aside let an executor approve every stage of the estate cleanout remotely, without needing to be on site."
         ]
        ]
       },
@@ -861,7 +837,7 @@
        "q": "Why are your estate cleanout rates",
        "a": [
         [
-         "No franchise royalty inside the quote and no postal-code padding either — we’re local and independent, with our own trucks and crews. The identical estate cleanout, whatever the property type, simply costs less."
+         "{{fact:propertyProtection}}. The identical estate cleanout, whatever the property type, simply costs less."
         ]
        ]
       }

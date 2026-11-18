@@ -85,7 +85,7 @@
         "other GTA communities"
        ]
       },
-      ", ensuring compliance with building management requirements."
+      ""
      ]
     },
     {
@@ -95,7 +95,7 @@
       {
        "br": 1
       },
-      "Unlike houses with garages or basements, apartments offer minimal storage space. This means apartment cleanouts often need to be more comprehensive, as there’s nowhere to temporarily store items during the sorting process."
+      "Unlike houses with garages or basements, apartments offer minimal storage space. {{fact:cleanupScope}}."
      ]
     },
     {
@@ -191,7 +191,7 @@
     {
      "t": "p",
      "c": [
-      "Strategic Sorting and Categorization",
+      "Strategic Categorization",
       {
        "br": 1
       },

@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "Near Commerce Valley and Markham Centre’s condo towers, that’s paired with the building compliance those properties already require. In Unionville and Markham Village’s heritage streets, it’s a smaller unit that gets the same careful, documented process."
+      "In Unionville and Markham Village’s heritage streets, it’s a smaller unit that gets the same careful, documented process."
      ]
     },
     {
@@ -107,7 +107,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Are Electronics Really Recycled Properly During Apartment Cleanout in Markham?"
+     "text": "Are Electronics Really Recycled Where Possible During Apartment Cleanout in Markham?"
     }
    ]
   },
@@ -140,7 +140,7 @@
        "title": "Apartment cleanout documentation provided without having to ask twice",
        "text": [
         [
-         "A written or photo record of what was recycled, donated or disposed of is available for every apartment cleanout, offered proactively rather than only on request."
+         "A written or photo record of what was recycled where possible, donated or disposed of is available for every apartment cleanout, offered proactively rather than only on request."
         ]
        ]
       },
@@ -155,10 +155,10 @@
       },
       {
        "n": "04",
-       "title": "One flat apartment cleanout price, confirmed before anything moves",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "A crew member sees the actual unit and gives one flat number before anything moves, with electronics recycling included in that price."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -167,7 +167,7 @@
        "title": "Heritage-careful apartment cleanout around Unionville",
        "text": [
         [
-         "Original features that stay get protected throughout, while the sorting inside moves at whatever pace you need."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -209,7 +209,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -230,7 +229,7 @@
     {
      "t": "p",
      "c": [
-      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -267,16 +266,7 @@
        "title": "Book Your Apartment Cleanout Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual unit, notes any electronics that need recycling, and gives you one flat price before anything moves."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       },
@@ -332,10 +322,10 @@
        "Recycling for laptops, monitors, routers and cables"
       ],
       [
-       "Documentation of what was recycled available as standard"
+       "Documentation of what was recycled where possible available as standard"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -355,9 +345,6 @@
       ],
       [
        "Damage or abandonment documentation available on request"
-      ],
-      [
-       "Same flat pricing regardless of the building's age"
       ]
      ]
     }
@@ -381,9 +368,6 @@
       ],
       [
        "Same fair standard as anywhere in the region"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
       ]
      ]
     },
@@ -402,10 +386,10 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -817,7 +801,7 @@
        "q": "Do you provide documentation for landlords or tenant records?",
        "a": [
         [
-         "Yes, as standard — a written or photo record of what was donated, recycled or disposed of is available without needing to be specifically requested. "
+         "Yes, as standard — a written or photo record of what was donated, recycled where possible or disposed of is available without needing to be specifically requested. "
         ]
        ]
       }

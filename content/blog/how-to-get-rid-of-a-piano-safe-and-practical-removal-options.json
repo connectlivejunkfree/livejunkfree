@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Pianos can weigh hundreds of pounds, and some larger models weigh considerably more. Their size also makes them difficult to maneuver through:"
+      "Their size also makes them difficult to maneuver through:"
      ]
     },
     {
@@ -159,9 +159,6 @@
       ],
       [
        "Are the keys and pedals functional?"
-      ],
-      [
-       "Is there visible water or structural damage?"
       ],
       [
        "Has it been sitting unused for years?"
@@ -567,7 +564,7 @@
     {
      "t": "p",
      "c": [
-      "If the piano cannot reasonably be reused or recycled, the remaining materials may need to be disposed of through an appropriate waste facility."
+      "If the piano cannot reasonably be reused or recycled where possible, the remaining materials may need to be disposed of through an appropriate waste facility."
      ]
     },
     {
@@ -583,7 +580,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Can a Piano Be Recycled?"
+     "text": "Can a Piano Be Recycled Where Possible?"
     },
     {
      "t": "p",
@@ -828,7 +825,7 @@
      "c": [
       {
        "b": [
-        "Protect Valuables"
+        ""
        ]
       }
      ]
@@ -903,12 +900,6 @@
       [
        "Disposal or recycling requirements"
       ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "A piano in an easily accessible garage may be much simpler to remove than an upright piano located in a basement with a narrow staircase."
      ]
     },
     {

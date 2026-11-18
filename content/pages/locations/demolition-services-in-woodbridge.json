@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Woodbridge backyards get built up over generations, and eventually something in them has to come down before something better goes up. Live Junk Free tears it down and hauls it away in one visit. Around the older village streets, it’s a garage or a deck that came with the house a generation ago, demolished as the family finally renovates the yard their parents built. Through East and West Woodbridge’s larger lots, it’s above ground pool demolition and concrete removal ahead of a new outdoor kitchen or in-ground pool. In Pine Valley and Weston Downs, it’s larger structures — bigger decks, bigger sheds, sometimes a full garage — torn down with the same care given to the rest of an estate-sized property. And on properties changing hands between generations, it’s playsets, sheds and fences that haven’t been touched in years, cleared alongside the rest of the yard. The Google reviews behind Live Junk Free come from every one of those backyards — a demolition crew that tore the structure down safely, protected the stonework and patio around it, and hauled every piece away the same visit."
+      "Woodbridge backyards get built up over generations, and eventually something in them has to come down before something better goes up. Live Junk Free tears it down and hauls it away. Around the older village streets, it’s a garage or a deck that came with the house a generation ago, demolished as the family finally renovates the yard their parents built. Through East and West Woodbridge’s larger lots, it’s above ground pool demolition and concrete removal ahead of a new outdoor kitchen or in-ground pool. In Pine Valley and Weston Downs, it’s larger structures — bigger decks, bigger sheds, sometimes a full garage — torn down with the same care given to the rest of an estate-sized property. And on properties changing hands between generations, it’s playsets, sheds and fences that haven’t been touched in years, cleared alongside the rest of the yard. The Google reviews behind Live Junk Free come from every one of those backyards — a demolition crew that tore the structure down safely, protected the stonework and patio around it, and hauled every piece away the same visit."
      ]
     },
     {
@@ -112,7 +112,7 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat demolition price — teardown and haul-away both included",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Whether it’s a shed, a deck, a garage or a full above ground pool, Live Junk Free’s quote covers the entire job: breaking the structure down, hauling every piece off the property, and disposing of or recycling it responsibly. One number, confirmed on site, before anything comes apart."
@@ -124,7 +124,7 @@
        "title": "Free on-site demolition quotes for backyards of every size",
        "text": [
         [
-         "A crew member walks your Woodbridge property, looks at what’s coming down — size, material, how close it sits to patios, stonework or the house — and gives you a flat price before any work starts. Free visit, no obligation."
+         "{{fact:changedScope}}. Free visit, no obligation."
         ]
        ]
       },
@@ -173,11 +173,6 @@
     {
      "t": "eyebrow",
      "text": "DEMOLITION PRICING"
-    },
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Demolition Cost in Woodbridge — One Flat Price From Live Junk Free"
     },
     {
      "t": "h",
@@ -251,7 +246,7 @@
        "title": "1. Book Your Demolition Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available. Tell us what’s coming down so the crew arrives with the right equipment."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available. Tell us what’s coming down so the crew arrives with the right equipment."
         ]
        ]
       },
@@ -260,7 +255,7 @@
        "title": "2. Get a Free On-Site Demolition Quote",
        "text": [
         [
-         "The crew looks at the structure, checks what’s nearby — patios, stonework, fencing, the house — and gives you one flat price before touching anything. No pressure — decline and there’s no charge."
+         "{{fact:changedScope}}. No pressure — decline and there’s no charge."
         ]
        ]
       },
@@ -316,9 +311,6 @@
        "Hot Tub Demolition — shell cut apart and removed, drained and disconnected first"
       ],
       [
-       "Jacuzzi Demolition — same careful drain-disconnect-cut process, any size"
-      ],
-      [
        "Surrounding patio stonework and pad removal available alongside the pool or tub"
       ]
      ]
@@ -362,9 +354,6 @@
       ],
       [
        "Garage Demolition — detached garages and carports taken down and hauled"
-      ],
-      [
-       "Deck Demolition — wood and composite decks removed, footings addressed"
       ],
       [
        "Fence Demolition — full fence lines or single sections torn out and hauled"
@@ -667,7 +656,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {

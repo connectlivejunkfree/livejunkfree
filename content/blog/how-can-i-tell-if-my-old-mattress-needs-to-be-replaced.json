@@ -60,13 +60,13 @@
        "You Sleep Better Elsewhere: Do you wake up feeling more refreshed after sleeping in a hotel or on a different bed in your house? If the answer is yes, your body is giving you a direct review of your current mattress. This is a definitive signal for when to get a new bed."
       ],
       [
-       "Noisy, Squeaky, or Broken Springs: For innerspring mattresses, audible creaking or squeaking is a sign of worn-out or broken coils. This not only disturbs your sleep but also indicates a structural failure that compromises support."
+       "Noisy, Squeaky, or Broken Springs: For innerspring mattresses, audible creaking or squeaking is a sign of worn-out or broken coils. {{fact:structuralDemolition}}."
       ],
       [
        "Allergies or Asthma Have Worsened: Old mattresses are a haven for dust mites, mold, and other allergens. Over the years, they can accumulate a significant amount of dead skin cells and moisture. If your allergy symptoms seem worse at night or in the morning, your mattress could be the culprit."
       ],
       [
-       "It’s Over 7-8 Years Old: While quality varies, most mattresses have a lifespan of 7-10 years. After this point, even a high-end model will have accumulated significant wear and tear, losing its original support and comfort. Age alone is one of the most reliable signs to replace a mattress."
+       "It’s Over 7-8 Years Old: While quality varies, most mattresses have a lifespan of 7-10 years. After this point, even a high-end model will have accumulated significant wear and tear, losing its original support and comfort."
       ]
      ]
     }
@@ -101,7 +101,7 @@
        "You’re constantly tired: Poor sleep quality caused by an uncomfortable bed affects your entire day, from mood to cognitive function."
       ],
       [
-       "You can feel the springs: If you can feel the bed’s framework through the padding, the comfort layers have broken down beyond repair."
+       "{{fact:propertyProtection}}."
       ]
      ]
     },
@@ -143,7 +143,7 @@
        "Municipal Large Item Pickup: We offer scheduled large item pickups. You will need to contact 311 or visit the city’s waste management website to schedule a collection and review the specific requirements (e.g., wrapping the mattress in plastic). This is a low-cost option but may involve a waiting period."
       ],
       [
-       "Donation (With a Caveat): Most charities will only accept a mattress if it is in near-perfect condition, free of stains, tears, and structural damage. Due to hygiene concerns, this is a very high bar to meet for an older mattress."
+       "Due to hygiene concerns, this is a very high bar to meet for an older mattress."
       ]
      ]
     }

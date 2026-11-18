@@ -35,28 +35,7 @@
     {
      "t": "p",
      "c": [
-      "When unwanted contents are standing in the way of what’s next, Live Junk Free provides the professional cleanout services in Pickering needed to move projects forward. We help Pickering property owners regain control of their space without the stress of sorting, loading, hauling, and disposing of everything themselves. Every cleanout begins with a free on-site visit so we can understand the scope of the project and provide an accurate quote before work begins."
-     ]
-    },
-    {
-     "t": "cards",
-     "items": [
-      {
-       "title": "Get a Quick Service",
-       "text": []
-      },
-      {
-       "title": "Upfront Pricing",
-       "text": []
-      },
-      {
-       "title": "Eco-Friendly Disposal",
-       "text": []
-      },
-      {
-       "title": "Fully Licensed & Insured",
-       "text": []
-      }
+      "When unwanted contents are standing in the way of what’s next, Live Junk Free provides the professional cleanout services in Pickering needed to move projects forward. We help Pickering property owners regain control of their space without the stress of loading, hauling, and disposing of everything themselves. Every cleanout begins with a free on-site visit so we can understand the scope of the project and provide an accurate quote before work begins."
      ]
     },
     {
@@ -152,7 +131,7 @@
       {
        "title": "Efficient Removal Without the Hassle",
        "text": [
-        "Our crews handle the lifting, carrying, sorting, loading, and transportation so you don't have to coordinate multiple services."
+        "Our crews handle the lifting, carrying, loading, and transportation so you don't have to coordinate multiple services."
        ]
       },
       {
@@ -597,7 +576,7 @@
        "q": "Do you offer same-day cleanout services in Pickering?",
        "a": [
         [
-         "A: Yes. Same-day and next-day appointments are available whenever scheduling permits. Contact us to discuss availability for your project."
+         "A: Yes. {{fact:permits}} Contact us to discuss availability for your project."
         ]
        ]
       },
@@ -684,7 +663,7 @@
      "t": "ul",
      "items": [
       [
-       "Goes Day & Next Day Spots"
+       "Goes Day & Spots"
       ],
       [
        "Upfront, Fair Pricing"

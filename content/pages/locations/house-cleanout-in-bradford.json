@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
  "title": "House Cleanout in Bradford",
- "h1": "House Cleanout Services in Bradford, Ontario — From Packed to Empty in One Visit",
+ "h1": "House Cleanout Services in Bradford, Ontario — From Packed to Empty",
  "published": "2026-07-13T03:32:18",
  "modified": "2026-07-13T03:32:18",
  "sections": [
@@ -27,12 +27,12 @@
     {
      "t": "h",
      "l": 1,
-     "text": "House Cleanout Services in Bradford, Ontario — From Packed to Empty in One Visit"
+     "text": "House Cleanout Services in Bradford, Ontario — From Packed to Empty"
     },
     {
      "t": "p",
      "c": [
-      "Clearing out an entire home is one of those jobs that grows the longer you stare at it. Our Bradford cleanout crew shrinks it back down to a single phone call. We show up at your property, walk every floor with you, and put a firm, price in your hands before a single box is lifted. Say yes, and our team sorts, carries, loads and hauls until the house is empty — usually the very same day. Fully insured, locally operated, and zero pressure at every step."
+      "Clearing out an entire home is one of those jobs that grows the longer you stare at it. Our Bradford cleanout crew shrinks it back down to a single phone call. We show up at your property, walk every floor with you, and put a firm, price in your hands before a single box is lifted. Say yes, and our team sorts, carries, loads and hauls until the house is empty — usually the very same day, subject to availability. Fully insured, locally operated, and zero pressure at every step."
      ]
     },
     {
@@ -97,29 +97,9 @@
      "text": "Bradford West Gwillimbury has grown faster than almost any town north of Toronto, and Live Junk Free has grown with it — earning Google reviews by emptying homes the right way: carefully, completely, and at a price agreed on before the work starts. Century homes downtown, new builds off Yonge Street, farm properties out by the Holland Marsh — our crew has cleared them all."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Volume decides your price — not the clock, not your address",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Every quote is built on one simple question: how much truck space will everything fill? A half-empty garage costs a fraction of a four-bedroom clear-out, and that's exactly how it should work. We never bill by the hour, and no Bradford street commands a premium."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "A real walkthrough, not a guess over the phone",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -127,29 +107,9 @@
      "text": "Nobody can honestly price a full house cleanout from a phone description — there's always a crawlspace, a second freezer, a shed nobody mentioned. So we don't try. We come to your Bradford property, see every room for ourselves, and only then put a number on paper."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "{{fact:competitorComparison}}",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "If the job runs long, if the basement holds twice what anyone expected, if the stairs are a nightmare — none of that changes what you pay. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Estates, downsizing and hoarding — handled like it matters",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -157,29 +117,9 @@
      "text": "A house cleanout is rarely just about junk. Often it follows a loss, a move into care, or years of a situation nobody chose. Our Bradford crew slows down for these jobs: photographs, paperwork, jewelry and anything that looks like it matters gets pulled aside, and usable belongings are donated rather than dumped."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Walk away free if the number doesn't work",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "The walkthrough and the quote cost you nothing and commit you to nothing. If the price fits, we start on the spot. If it doesn't, we shake hands and leave — no fee, no follow-up calls, no pressure tactics."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Franchise-free means",
-       "text": []
-      }
-     ]
+     "text": "The walkthrough and the quote cost you nothing and commit you to nothing. If the price fits, we start at the onsite estimate. If it doesn't, we shake hands and leave — no fee, no follow-up calls, no pressure tactics."
     },
     {
      "t": "h",
@@ -198,12 +138,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "One Flat Number, Decided Before We Start"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "No hourly meters, no disposal surcharges appearing on the invoice, no \"the job was bigger than we thought\" phone calls. The number you approve at the front door is the number you pay when the house is empty."
+     "text": "The number you approve at the front door is the number you pay when the house is empty."
     },
     {
      "t": "cards",
@@ -260,19 +195,19 @@
       {
        "title": "2. Walk the Property With Us",
        "text": [
-        "Show us everything — every floor, the basement, the garage, the shed out back. We tally it up on the spot and hand you one price. Take it or leave it; either way, the walkthrough is free."
+        "Show us everything — every floor, the basement, the garage, the shed out back. We tally it up at the onsite estimate and hand you one price. Take it or leave it; either way, the walkthrough is free."
        ]
       },
       {
        "title": "3. Watch the House Empty Out",
        "text": [
-        "Approve the quote and the crew gets moving immediately. Furniture, appliances, boxes, closets, crawlspaces — we sort as we go, flagging valuables and setting donations apart from disposal. You lift nothing."
+        "{{fact:retainedItems}} You lift nothing."
        ]
       },
       {
        "title": "4. Get Back a Broom-Clean Property",
        "text": [
-        "Before the truck pulls away, we sweep every cleared room. What leaves with us gets split three ways: donation partners first, recycling facilities second, and landfill only for what truly has nowhere else to go."
+        "{{fact:cleanupScope}}. What leaves with us gets split three ways: donation partners first, recycling facilities second, and landfill only for what truly has nowhere else to go."
        ]
       }
      ]
@@ -298,7 +233,7 @@
        "q": "Whole-Home & Room-by-Room Cleanouts in Bradford",
        "a": [
         [
-         "Complete house cleanout Bradford — every floor emptied in one visit"
+         "Complete house cleanout Bradford — every floor emptied"
         ],
         [
          "Basement cleanout Bradford — storage rooms, cold cellars, crawlspaces"
@@ -341,10 +276,10 @@
        "q": "Property & Rental Cleanouts in Bradford",
        "a": [
         [
-         "Pre-sale house cleanout Bradford — listing-ready, often same day"
+         "Pre-sale house cleanout Bradford — listing-ready, often"
         ],
         [
-         "Move-out cleanout Bradford — hand back an empty, swept property"
+         "Move-out cleanout Bradford — hand back an empty property"
         ],
         [
          "Tenant turnover cleanout Bradford — abandoned belongings cleared fast"
@@ -518,7 +453,7 @@
        "q": "Q: How fast can you empty a house in Bradford?",
        "a": [
         [
-         "A: In most cases, one visit. A basement or garage typically takes a couple of hours; a full family home is usually cleared within a single day. Same-day and next-day bookings are available across Bradford."
+         "{{fact:scheduling}} A basement or garage typically takes a couple of hours; a full family home is usually cleared within a single day. Same-day and next-day bookings are available across Bradford, subject to availability."
         ]
        ]
       },
@@ -526,7 +461,7 @@
        "q": "Q: Can you clear a house we're selling before the listing photos?",
        "a": [
         [
-         "A: Yes — pre-sale cleanouts are one of our most requested Bradford services. We empty the property, sweep every room, and leave it photo-ready. Many Bradford sellers book us within days of signing with their realtor."
+         "A: Yes — pre-sale cleanouts are one of our most requested Bradford services. {{fact:cleanupScope}}. Many Bradford sellers book us within days of signing with their realtor."
         ]
        ]
       },
@@ -534,7 +469,7 @@
        "q": "Q: My parents' home has 40 years of belongings. Where do we even start?",
        "a": [
         [
-         "A: You start by calling — we handle the rest. Downsizing and estate cleanouts are exactly what our crew is trained for. We work room by room, pull aside documents, photos and valuables as we find them, donate what’s usable, and keep family members in the loop on anything questionable before it leaves the house."
+         "A: You start by calling — we handle the rest. Downsizing and estate cleanouts are exactly what our crew is trained for. {{fact:retainedItems}}"
         ]
        ]
       },

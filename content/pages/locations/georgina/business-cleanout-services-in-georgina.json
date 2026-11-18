@@ -131,16 +131,7 @@
        "title": "No waterfront premium on business cleanout, ever",
        "text": [
         [
-         "The number reflects the size of the job and the sorting it needs — never whether the business looks out over the water or sits well inland."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Marina and resort business cleanout sorting",
-       "text": [
-        [
-         "Boat gear, dock hardware and seasonal equipment get sorted with an understanding of what’s actually useful, not treated the same as ordinary retail clutter."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -150,24 +141,6 @@
        "text": [
         [
          "Where a business closes for the off-season or changes hands between seasons, timing gets planned around at the walkthrough rather than treated as a complication."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "One flat business cleanout price, confirmed before anything moves",
-       "text": [
-        [
-         "A crew member sees the actual space and gives one flat number before anything moves — no per-item guessing."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first business cleanout sorting for fixtures and equipment",
-       "text": [
-        [
-         "Furniture, fixtures and equipment still in good condition go to donation partners or resale channels first, before anything reaches disposal."
         ]
        ]
       },
@@ -203,7 +176,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the space, and how much sorting it genuinely needs. A small retail unit is a modest job. A marina or resort holding years of seasonal equipment alongside ordinary fixtures takes considerably more time to sort with the care it deserves, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small retail unit is a modest job. A marina or resort holding years of seasonal equipment alongside ordinary fixtures takes considerably more time to sort with the care it deserves, and the price reflects that real difference."
      ]
     },
     {
@@ -215,8 +188,7 @@
     {
      "t": "checks",
      "items": [
-      "Hauling-Away",
-      "{{fact:competitorComparison}}"
+      "Hauling-Away"
      ]
     },
     {
@@ -232,12 +204,6 @@
      "t": "price",
      "label": "Georgina Business Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -288,7 +254,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual space, notes any marina or seasonal equipment involved, and gives you one flat price before anything moves."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -306,7 +272,7 @@
        "title": "Your Space Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left and ready for whatever comes next."
         ]
        ]
       }
@@ -353,9 +319,6 @@
        "Seasonal timing and access planned at the walkthrough"
       ],
       [
-       "Same flat pricing as anywhere inland"
-      ],
-      [
        "Coordination around off-season closures where relevant"
       ],
       [
@@ -381,13 +344,10 @@
        "Full sort of furniture, fixtures and equipment"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
-       "Same-day service for straightforward access"
-      ],
-      [
-       "Same flat pricing as any waterfront property"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -413,13 +373,10 @@
        "Timing coordinated around tourist-season schedules"
       ],
       [
-       "Same flat pricing regardless of distance from the lake"
-      ],
-      [
        "Documentation available if the property requires it"
       ],
       [
-       "Same-day service where access allows"
+       "Service where access allows"
       ]
      ]
     },
@@ -438,16 +395,13 @@
        "Full sort of furniture, fixtures and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -848,14 +802,6 @@
        ]
       },
       {
-       "q": "Do you charge extra for a space that's completely packed?",
-       "a": [
-        [
-         "The price reflects the actual volume and sorting required, not a flat surcharge."
-        ]
-       ]
-      },
-      {
        "q": "What happens to fixtures and equipment still in good condition?",
        "a": [
         [
@@ -875,7 +821,7 @@
        "q": "Do you cover year-round Keswick and Sutton businesses, not just the shoreline?",
        "a": [
         [
-         "Yes, at the exact same flat pricing."
+         "{{fact:competitorComparison}}"
         ]
        ]
       }

@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "Aurora’s larger-format retail runs conventionally. SmartCentres Aurora and the big-box units along Wellington, Bayview and Leslie carry full-height racking, deep back-of-house and dedicated loading. The independent restaurants concentrated through the Yonge Street core sit somewhere between the two — modern kitchens fitted into period buildings, where a base-condition lease means the whole fit-out has to come out without damaging the structure it was built into. We confirm the format, the fixture scope and what the lease requires at the walkthrough before quoting."
+      "Aurora’s larger-format retail runs conventionally. {{fact:equipmentScope}}. The independent restaurants concentrated through the Yonge Street core sit somewhere between the two — modern kitchens fitted into period buildings, where a base-condition lease means the whole fit-out has to come out without damaging the structure it was built into. We confirm the format, the fixture scope and what the lease requires at the walkthrough before quoting."
      ]
     },
     {
@@ -144,7 +144,7 @@
        "title": "Big-box and anchor unit retail strip-out services",
        "text": [
         [
-         "Full-height pallet racking, mezzanine shelving, back-of-house storage systems and anchor-unit fixture packages at SmartCentres Aurora and along Wellington, Bayview and Leslie. Dock access used where available, with a crew sized for the building."
+         "{{fact:equipmentScope}}. Dock access used where available, with a crew sized for the building."
         ]
        ]
       },
@@ -162,7 +162,7 @@
        "title": "Retail cleanout services across Aurora",
        "text": [
         [
-         "When a tenant vacates unexpectedly or a viewing is already booked, we can usually attend the same day you call."
+         "When a tenant vacates unexpectedly or a viewing is already booked, we can usually attend the same day you call, subject to availability."
         ]
        ]
       },
@@ -304,7 +304,7 @@
     {
      "t": "p",
      "c": [
-      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -346,29 +346,20 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Free walkthrough and one flat retail cleanout price",
-       "text": [
-        [
-         "Our crew assesses the sales floor or dining room, kitchen, back rooms, cellar and any upper storage in scope. We provide one flat price before any work begins and hold that figure through to completion."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Retail cleanout scheduled to your street's access rules",
        "text": [
         [
-         "We sheet frontages, glazing, doorframes and original finishes first, then dismantle and remove shelving, racking, display units, counters, coolers, kitchen equipment, signage, remaining stock, office furniture, electronics and appliances. We photograph the unit throughout."
+         "{{fact:equipmentScope}}. We photograph the unit throughout."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Fixtures removed, unit swept",
+       "title": "Fixtures removed, unit",
        "text": [
         [
-         "The space is left broom-swept and empty, with every original finish exactly as we found it."
+         "The space is left and empty, with every original finish exactly as we found it."
         ]
        ]
       }
@@ -473,7 +464,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than retail cleanout services across Aurora. Our commercial junk removal handles Yonge Street heritage units and modern plaza retail, restaurants and cafés, offices along Wellington and Yonge, medical and professional suites, workshops, warehouses and light-industrial space through the Industrial Parkway and Edward Street employment lands, with same-day attendance wherever access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from heritage homes, townhouses and subdivision properties alike. Our demolition services cover interior strip-outs, tenant improvement removal, kitchen and bar builds, warehouse racking, partitions, dropped ceilings and built-in fixtures, along with sheds, garages, decks, fences, gazebos, above-ground pools and hot tubs on residential lots. Where a property requires complete clearing, we provide same-day office cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than retail cleanout services across Aurora. Our commercial junk removal handles Yonge Street heritage units and modern plaza retail, restaurants and cafés, offices along Wellington and Yonge, medical and professional suites, workshops, warehouses and light-industrial space through the Industrial Parkway and Edward Street employment lands, with same-day attendance wherever access allows, subject to availability. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from heritage homes, townhouses and subdivision properties alike. {{fact:equipmentScope}}. Where a property requires complete clearing, we provide same-day office cleanout when available, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -541,7 +532,7 @@
      "t": "ul",
      "items": [
       [
-       "We handle large-format retail strip-outs for SmartCentres Aurora and units along Wellington, Bayview, and Leslie. Full-height pallet racking and mezzanine shelving are dismantled, along with back-of-house storage systems and stockrooms. Fitting rooms, checkout banks, and service counters are removed as part of the same scope. Dock access is used where available, with crew size planned around the building and volume of work. Several units can be cleared under a single retail cleanout booking."
+       "We handle large-format retail strip-outs for SmartCentres Aurora and units along Wellington, Bayview, and Leslie. {{fact:equipmentScope}}. Fitting rooms, checkout banks, and service counters are removed as part of the same scope. Dock access is used where available, with crew size planned around the building and volume of work. Several units can be cleared under a single retail cleanout booking."
       ]
      ]
     },
@@ -554,7 +545,7 @@
      "t": "ul",
      "items": [
       [
-       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, and signage are removed after a tenant vacates, while multiple units can be cleared under one quote and consolidated invoice. Same-day retail cleanout services in Aurora are available where access permits."
+       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, and signage are removed after a tenant vacates, while multiple units can be cleared under one quote and consolidated invoice. Same-day retail cleanout services when available in Aurora are available where access permits."
       ]
      ]
     }
@@ -1098,7 +1089,7 @@
        "q": "My restaurant is in a period building. Can the kitchen come out without damaging it?",
        "a": [
         [
-         "Yes, and it is the most demanding job we take in Aurora. Modern kitchens fitted into period buildings were built around whatever the structure allowed, so we protect original masonry, frontages and interior finishes before anything is disconnected."
+         "Yes, and it is the most demanding job we take in Aurora. {{fact:utilityDisconnection}}"
         ]
        ]
       }

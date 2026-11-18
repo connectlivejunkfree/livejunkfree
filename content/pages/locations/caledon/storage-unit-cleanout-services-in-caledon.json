@@ -80,13 +80,13 @@
     {
      "t": "p",
      "c": [
-      "Because the township’s genuine storage facility stock is concentrated in Caledon East, Alton and Inglewood, while the surrounding farms and rural concessions hold houses and outbuildings rather than storage facilities of their own. Live Junk Free covers storage unit cleanout wherever a resident’s unit actually is, most commonly in one of the village cores, with the identical flat pricing extended to any rural resident driving in to use those facilities."
+      "Because the township’s genuine storage facility stock is concentrated in Caledon East, Alton and Inglewood, while the surrounding farms and rural concessions hold houses and outbuildings rather than storage facilities of their own. {{fact:changedScope}}."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Where a unit holds equipment or materials tied to a farm property, that gets sorted with a careful eye rather than treated like general clutter. Call it storage unit junk removal, junk removal from storage unit, or a farm-adjacent storage locker clean out — the same salvage-conscious sorting applies regardless of what it’s called."
+      "Where a unit holds equipment or materials tied to a farm property, that gets sorted with a careful eye rather than treated like general clutter. {{fact:cleanupScope}}."
      ]
     },
     {
@@ -140,29 +140,11 @@
        ]
       },
       {
-       "n": "03",
-       "title": "Salvage-conscious storage unit cleanout sorting for farm equipment",
-       "text": [
-        [
-         "Equipment, tools and materials tied to the agricultural trade get set aside on request rather than swept into general disposal by default."
-        ]
-       ]
-      },
-      {
        "n": "04",
-       "title": "Same-day storage unit cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first storage unit cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -198,7 +180,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how full the unit actually is, and how much sorting it genuinely needs. A small unit is a modest job. A unit holding farm equipment or years of accumulated belongings takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small unit is a modest job. A unit holding farm equipment or years of accumulated belongings takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -210,8 +192,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -231,7 +212,7 @@
     {
      "t": "p",
      "c": [
-      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -273,15 +254,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual unit and gives you one flat price before anything moves."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Unit Gets Cleared, With a Careful Eye",
        "text": [
@@ -295,7 +267,7 @@
        "title": "Your Unit Is Empty and Ready to Return",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready to hand back to the facility."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready to hand back to the facility."
         ]
        ]
       }
@@ -333,16 +305,10 @@
        "Straightforward scheduling for straightforward access"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
-       "Same flat pricing as any rural resident's unit"
-      ],
-      [
-       "{{fact:competitorComparison}}"
-      ],
-      [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ]
      ]
     },
@@ -356,12 +322,6 @@
      "items": [
       [
        "Storage unit cleanouts for rural and farm residents driving in to town facilities"
-      ],
-      [
-       "Salvage-conscious sorting for equipment and materials worth keeping"
-      ],
-      [
-       "Same flat pricing regardless of distance from town"
       ],
       [
        "Careful handling around genuine value items"
@@ -393,13 +353,10 @@
        "Coordination directly with facility management on timing"
       ],
       [
-       "Same flat pricing regardless of how tight the timeline is"
-      ],
-      [
        "Priority booking for time-sensitive lease-end dates"
       ],
       [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Documentation available for the facility if required"
@@ -421,16 +378,13 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -818,7 +772,7 @@
        "q": "Is storage unit cleanout mostly a village-core service?",
        "a": [
         [
-         "Honestly, yes — most of the township’s storage facilities are in Caledon East, Alton and Inglewood, though any rural resident gets the same flat pricing."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -826,7 +780,7 @@
        "q": "Do rural residents pay more just for driving in from further out?",
        "a": [
         [
-         "Never. The same flat pricing applies whether you live in the village core or eight concessions past it."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },
@@ -834,7 +788,7 @@
        "q": "Can equipment or materials from a farm-related unit be saved rather than thrown out?",
        "a": [
         [
-         "Often, yes — say so at the walkthrough. Anything still worth keeping gets set aside rather than swept into general disposal."
+         "Often, yes — say so at the walkthrough. Anything still worth keeping gets set aside rather than into general disposal."
         ]
        ]
       },
@@ -898,7 +852,7 @@
        "q": "If I need to clear out storage unit space that's been sitting untouched on a rural property, is that treated differently than a village unit?",
        "a": [
         [
-         "No — the same flat pricing and the same careful sorting apply whether the unit’s in a village core or reached by driving in from a rural concession."
+         "{{fact:changedScope}}."
         ]
        ]
       }

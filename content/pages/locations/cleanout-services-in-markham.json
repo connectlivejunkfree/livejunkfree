@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Markham for full multigenerational homes and full condo towers alike — estate, downsizing, household-merge and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first with e-waste recycling, and finished swept on schedule."
+     "text": "Cleanout services in Markham for full multigenerational homes and full condo towers alike — estate, downsizing, household-merge and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first with e-waste recycling, and finished on schedule."
     },
     {
      "t": "ctas",
@@ -126,7 +126,7 @@
        "title": "Free walkthrough cleanout quotes anywhere in Markham",
        "text": [
         [
-         "A crew lead walks the space — a condo suite, a Unionville heritage home, a Cornell house with three generations living in it — hears what the cleanout is for, and writes one firm flat quote on the spot. Free, unhurried, and patient with however many family members the decision involves."
+         "{{fact:changedScope}}. Free, unhurried, and patient with however many family members the decision involves."
         ]
        ]
       },
@@ -153,16 +153,7 @@
        "title": "Estate cleanouts inside living homes — one floor cleared, the household undisturbed",
        "text": [
         [
-         "In multigenerational Markham houses, an estate is often a floor or a suite, not an address. We clear it as its own contained job: shared spaces respected, work tidied daily, keepsakes surfacing to the family as found, and the household’s rhythm running uninterrupted around the work."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Independent cleanout pricing",
-       "text": [
-        [
-         "No head-office royalties inside our quotes — local crews, our own trucks, honest volume pricing."
+         "In multigenerational Markham houses, an estate is often a floor or a suite, not an address."
         ]
        ]
       }
@@ -195,8 +186,7 @@
     {
      "t": "checks",
      "items": [
-      "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -212,12 +202,6 @@
      "t": "price",
      "label": "Markham Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -259,7 +243,7 @@
        "title": "Book Your Markham Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit. The crew lead tours the space, hears the story — a merge, an estate, a condo move, a fresh start — and writes one flat quote with a schedule that respects the household living through it."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit. {{fact:changedScope}}."
         ]
        ]
       },
@@ -273,20 +257,11 @@
        ]
       },
       {
-       "n": "03",
-       "title": "The Cleanout Runs Contained, Sorted and Respectful",
-       "text": [
-        [
-         "Donations stream one way, e-waste and metals another, true waste last — work zones kept tidy in occupied homes, shared spaces protected, and anything meaningful that surfaces brought to the family, never binned by default."
-        ]
-       ]
-      },
-      {
        "n": "04",
-       "title": "Swept, Settled and Ready for the Next Arrangement",
+       "title": ", Settled and Ready for the Next Arrangement",
        "text": [
         [
-         "The space hands back broom-swept — the suite re-rentable, the second home sale-ready, the parent’s floor at peace — with debris gone on our own trucks and donation, recycling or disposal documentation for the estate, the landlord or the family’s own file."
+         "The space hands back — the suite re-rentable, the second home sale-ready, the parent’s floor at peace — with debris gone on our own trucks and donation, recycling or disposal documentation for the estate, the landlord or the family’s own file."
         ]
        ]
       }
@@ -425,9 +400,6 @@
       ],
       [
        "Deep-accumulation basements and storage spaces"
-      ],
-      [
-       "Respectful crews, first knock to final sweep"
       ]
      ]
     }

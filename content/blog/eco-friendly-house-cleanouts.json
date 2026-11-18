@@ -116,11 +116,11 @@
     {
      "t": "p",
      "c": [
-      "Comprehensive Sorting System",
+      "",
       {
        "br": 1
       },
-      "The foundation of responsible house cleanouts begins with thorough sorting. Items are categorized into distinct streams:"
+      "{{fact:cleanupScope}}. Items are categorized into distinct streams:"
      ]
     },
     {
@@ -195,7 +195,7 @@
       {
        "br": 1
       },
-      "Rather than sending bulky items to landfills, sustainable house cleanouts focus on disassembly and material recovery. Wood from furniture can be repurposed, metal components recycled, and upholstery materials processed for industrial uses."
+      "Rather than sending bulky items to landfills, sustainable house cleanouts focus on disassembly and material recovery. Wood from furniture can be repurposed, metal components recycled where possible, and upholstery materials processed for industrial uses."
      ]
     },
     {
@@ -246,11 +246,11 @@
     {
      "t": "p",
      "c": [
-      "Regulatory Compliance",
+      "",
       {
        "br": 1
       },
-      "Professional eco-friendly house cleanouts ensure compliance with local environmental regulations. This is particularly important for property sales, rentals, and estate settlements, where proper documentation of disposal methods may be required."
+      "This is particularly important for property sales, rentals, and estate settlements, where proper documentation of disposal methods may be required."
      ]
     },
     {
@@ -302,7 +302,7 @@
      "t": "ul",
      "items": [
       [
-       "Detailed sorting and categorization of all materials"
+       "Detailed categorization of all materials"
       ],
       [
        "Partnerships with local charities throughout our service area"
@@ -342,11 +342,11 @@
     {
      "t": "p",
      "c": [
-      "Pre-Cleanout Sorting",
+      "",
       {
        "br": 1
       },
-      "Before the cleanout begins, separate items you know are donation-worthy or contain hazardous materials. This preliminary sorting helps streamline the process and ensures special items receive proper attention."
+      "Before the cleanout begins, separate items you know are donation-worthy or contain hazardous materials. {{fact:cleanupScope}}."
      ]
     },
     {

@@ -33,6 +33,7 @@ import { CTA_DEFAULT } from "@content/designed/shared";
 import { Icon, type IconName } from "@/components/icons";
 import { PageShell } from "@/components/layout/PageShell";
 import { QuoteForm } from "@/components/forms/QuoteForm";
+import { leadContext } from "@/lib/leads/context";
 import { MapEmbed } from "@/components/sections/Areas";
 import { BeforeAfter } from "@/components/sections/BeforeAfter";
 import { Faq, Steps } from "@/components/sections/Blocks";
@@ -77,9 +78,11 @@ type Ctx = { variant: Variant; formAnchor: string; callFirst?: boolean };
 /** Fallback hero photos (real Live Junk Free crew photos) when a page has none of its own. */
 const FALLBACK: Record<Variant, ImageKey> = {
   item: "crewHero",
-  cleanout: "estate",
+  // Neutral crew photos (QA 18 Nov B1-21 / B1-42: the estate photo appeared on Office and the deck-after photo on
+  // Concrete). "estate-cleanout.jpg" actually shows backyard deck work, so no page uses it as an estate photo.
+  cleanout: "crewHero",
   commercial: "business",
-  demolition: "deckAfter",
+  demolition: "crewStreet",
   town: "crewStreet",
   location: "crewHero",
   ads: "crewHero",
@@ -1473,9 +1476,19 @@ export function AutoPage({
   n.parts = mergeFaqs(dropRepeatedLists(mergeStepRuns(n.parts), listed));
   const ctx: Ctx = { variant, formAnchor: "#quote-form", callFirst: /bed-bug/.test(doc.path) };
   const crumbs = breadcrumbs(doc);
+  const heroKey: ImageKey = FALLBACK[variant];
+  // The closing form names the page's service (QA 18 Nov B1-04/05/06: hubs ended with a residential CTA);
+  // bed bug pages ask for a callback (phone first, B7.3).
+  const FORM_TITLE: Record<string, string> = {
+    "Commercial junk removal": "Request a commercial quote",
+    Demolition: "Request a demolition quote",
+    Cleanouts: "Request a cleanout quote",
+    "Residential junk removal": "Request a junk removal quote",
+  };
+  const formTitle = ctx.callFirst ? "Request a callback" : (FORM_TITLE[formService ?? leadContext(doc.path).service] ?? "Request your free quote");
   const heroImage = n.heroImage ?? {
-    src: IMG[FALLBACK[variant]],
-    alt: `Live Junk Free crew — ${doc.h1}`,
+    src: IMG[heroKey],
+    alt: "Live Junk Free crew at the truck",
   };
   // Photos for text-only sections: the page's own unused photos, every other section.
   // Photos of wide sections can't sit beside the content: they go to the pool for other sections.
@@ -1504,7 +1517,7 @@ export function AutoPage({
       ),
     ].filter((x): x is string => !!x),
   );
-  if (!n.heroImage) shown.add(IMG[FALLBACK[variant]]);
+  if (!n.heroImage) shown.add(IMG[heroKey]);
   const photos = n.parts.map((p) => {
     if (p.image && widthOf(p.image) < 560) {
       pool.push(p.image);
@@ -1524,7 +1537,7 @@ export function AutoPage({
     // Never a crew photo the page already shows (hero, a section, or an earlier pick).
     for (let tries = 0; tries < CREW.length; tries++) {
       const key = CREW[(seed + crewUsed++) % CREW.length];
-      if (key === FALLBACK[variant] && !n.heroImage) continue;
+      if (key === heroKey && !n.heroImage) continue;
       if (shown.has(IMG[key])) continue;
       shown.add(IMG[key]);
       return { src: IMG[key], alt: CREW_ALT[key] ?? "Live Junk Free crew" };
@@ -1644,14 +1657,14 @@ export function AutoPage({
           <div className="formbox">
             {formHero ? (
               <QuoteForm
-                title="Request your free quote"
+                title={formTitle}
                 formType={variant === "ads" ? "landing" : "quote"}
                 service={formService}
                 id="quote-form-2"
               />
             ) : (
               <QuoteForm
-                title="Request your free quote"
+                title={formTitle}
                 service={formService}
               />
             )}

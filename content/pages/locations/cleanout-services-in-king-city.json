@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in King City handled with discretion and care — estate, downsizing, equestrian-property and hoarding cleanouts by an insured crew, quoted flat on site with no prestige-area markup, sorted donation-first, and finished swept without a word leaving the property."
+     "text": "Cleanout services in King City handled with discretion and care — estate, downsizing, equestrian-property and hoarding cleanouts by an insured crew, quoted flat on site with no prestige-area markup, sorted donation-first, and finished without a word leaving the property."
     },
     {
      "t": "ctas",
@@ -126,7 +126,7 @@
        "title": "Free walkthrough cleanout quotes, arranged around your schedule",
        "text": [
         [
-         "The crew lead walks the property — main house, guest wing, stable, garage — at whatever time suits you or your family, and writes one firm flat quote for the complete clear. Free, unhurried, and it keeps as long as the decision takes; these conversations are rarely simple."
+         "{{fact:changedScope}}. Free, unhurried, and it keeps as long as the decision takes; these conversations are rarely simple."
         ]
        ]
       },
@@ -162,7 +162,7 @@
        "title": "Independent cleanout pricing",
        "text": [
         [
-         "No head-office royalties inside our quotes and no postal-code padding either — local crews, our own trucks, one honest number."
+         "{{fact:propertyProtection}}."
         ]
        ]
       }
@@ -196,7 +196,7 @@
      "t": "checks",
      "items": [
       "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -212,12 +212,6 @@
      "t": "price",
      "label": "King City Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -259,7 +253,7 @@
        "title": "Book Your King City Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets a visit at your convenience. The crew lead tours the full property, listens to what the cleanout is for, and writes one flat quote with a timeline that fits your family’s schedule, not ours."
+         "Two minutes at +1 647 922 5865 — or online — sets a visit at your convenience. {{fact:changedScope}}."
         ]
        ]
       },
@@ -268,7 +262,7 @@
        "title": "Protect the Keep-List, Approve the Quote",
        "text": [
         [
-         "Family items, documents, jewellery and anything flagged get set aside first, wherever in the property they live. The written number locks, and the sweep is scheduled quietly, around the household’s own calendar."
+         "Family items, documents, jewellery and anything flagged get set aside first, wherever in the property they live. {{fact:cleanupScope}}."
         ]
        ]
       },
@@ -283,7 +277,7 @@
       },
       {
        "n": "04",
-       "title": "Swept, Composed and Handed Back Without a Word Said",
+       "title": ", Composed and Handed Back Without a Word Said",
        "text": [
         [
          "{{fact:scheduling}} No skip bin on the drive, no staging visible from the road."
@@ -365,9 +359,6 @@
       ],
       [
        "Farm equipment and scrap sorted for proper recycling"
-      ],
-      [
-       "Multi-building estate sweeps staged across a day or several"
       ]
      ]
     }
@@ -427,7 +418,7 @@
        "Storage locker and unit cleanouts, any size"
       ],
       [
-       "Broom-swept, listing-ready handovers"
+       ", listing-ready handovers"
       ]
      ]
     }

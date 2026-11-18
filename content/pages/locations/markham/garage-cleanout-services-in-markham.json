@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "In Unionville and Markham Village’s heritage streets, that’s often mixed in with a more typical garage cleanout. Near Commerce Valley and Markham Centre’s condo towers, it’s usually a storage locker instead of a traditional garage. In the city’s many multigenerational homes, it’s frequently one section of a shared garage that needs sorting."
+      "In Unionville and Markham Village’s heritage streets, that’s often mixed in with a more typical garage cleanout. Near Commerce Valley and Markham Centre’s condo towers, it’s usually a storage locker instead of a traditional garage. {{fact:cleanupScope}}."
      ]
     },
     {
@@ -107,7 +107,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Are Old Electronics Actually Recycled Properly During Garage Cleanout in Markham?"
+     "text": "Are Old Electronics Actually Recycled Where Possible During Garage Cleanout in Markham?"
     }
    ]
   },
@@ -140,7 +140,7 @@
        "title": "Garage cleanout documentation available without having to ask twice",
        "text": [
         [
-         "A written or photo record of what was recycled, donated or disposed of is available for every garage cleanout, offered proactively rather than only on request."
+         "A written or photo record of what was recycled where possible, donated or disposed of is available for every garage cleanout, offered proactively rather than only on request."
         ]
        ]
       },
@@ -155,10 +155,10 @@
       },
       {
        "n": "04",
-       "title": "One flat garage cleanout price, confirmed before anything moves",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "A crew member sees the actual garage and gives one flat number before anything moves, with electronics recycling included in that price."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -167,7 +167,7 @@
        "title": "Heritage-careful garage cleanout around Unionville",
        "text": [
         [
-         "Original features that stay get protected throughout, while the sorting inside moves at whatever pace you need."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -209,7 +209,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Village, Distance or Rural Premium, Ever"
      ]
     },
@@ -226,12 +225,6 @@
      "t": "price",
      "label": "Markham Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -273,16 +266,7 @@
        "title": "Book Your Garage Cleanout Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual garage, notes any electronics that need recycling, and gives you one flat price before anything moves."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       },
@@ -344,10 +328,7 @@
        "Recycling for monitors, computers, routers and cables"
       ],
       [
-       "Documentation of what was recycled available as standard"
-      ],
-      [
-       "Same flat pricing as any other garage cleanout"
+       "Documentation of what was recycled where possible available as standard"
       ]
      ]
     },
@@ -369,7 +350,7 @@
        "Family-initiated cleanouts handled with real patience"
       ],
       [
-       "Same-day service for straightforward downtown access"
+       "Service for straightforward downtown access"
       ]
      ]
     }
@@ -415,9 +396,6 @@
       ],
       [
        "Discreet timing coordinated with concierge and management"
-      ],
-      [
-       "{{fact:recycling}}"
       ]
      ]
     }
@@ -789,7 +767,7 @@
        "q": "How much do garage cleanout services cost in Markham?",
        "a": [
         [
-         "Pricing is confirmed free at the walkthrough based on volume and sorting needed — electronics recycling is included, never an extra charge. "
+         "{{fact:cleanupScope}}. "
         ]
        ]
       },
@@ -813,7 +791,7 @@
        "q": "Do you clear storage lockers near Commerce Valley instead of a traditional garage?",
        "a": [
         [
-         "Yes — building rules and access get coordinated before arrival, at the same flat pricing as a residential garage. "
+         "{{fact:changedScope}}. "
         ]
        ]
       },

@@ -120,7 +120,7 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat price — the same number on Brock Street or a concession",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Distance never enters the calculation, whether the piano’s in a village home or a farmhouse well out of town."
@@ -159,7 +159,7 @@
        "title": "Donation-first for pianos that still play",
        "text": [
         [
-         "Working pianos are checked against donation partners — schools, community centres, churches, local music programs — before anything is recycled."
+         "Working pianos are checked against donation partners — schools, community centres, churches, local music programs — before anything is recycled where possible."
         ]
        ]
       },
@@ -201,8 +201,7 @@
     {
      "t": "checks",
      "items": [
-      "Move + Disassembly + Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Move + Disassembly + Haul-Away"
      ]
     },
     {
@@ -274,7 +273,7 @@
        "title": "Get a Free On-Site Quote — Route Measured First",
        "text": [
         [
-         "The crew measures doorways and staircase turns, checks whether legs or lids need to come off, and gives you one flat price."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -339,10 +338,10 @@
        "Wall, corner and staircase protection throughout"
       ],
       [
-       "Donation-first checks before any piano is recycled"
+       "Donation-first checks before any piano is recycled where possible"
       ],
       [
-       "Same-day piano pick up for straightforward downtown access"
+       "Piano pick up for straightforward downtown access"
       ],
       [
        "Careful, unhurried handling around established properties"
@@ -364,13 +363,7 @@
        "Pianos held by a farming family for generations, handled with real care"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Coordination with executors or family members settling an estate"
-      ],
-      [
-       "Same flat pricing regardless of distance from town"
       ],
       [
        "Full room or property cleanouts alongside the piano removal, on request"
@@ -835,7 +828,7 @@
        "q": "Do you charge extra for rural properties or long laneways?",
        "a": [
         [
-         "Never. The same flat pricing applies at a Brock Street home and at the end of a concession laneway."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },
@@ -851,7 +844,7 @@
        "q": "Do you cover the hamlets — Goodwood, Zephyr, Leaskdale, Sandford?",
        "a": [
         [
-         "Every one, at the same flat pricing as downtown."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },

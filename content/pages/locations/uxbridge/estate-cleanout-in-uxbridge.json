@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Professional estate cleanout services in Uxbridge — a life's belongings cleared with a maker's eye for what deserves a second look, free flat-rate quote on site, keepsakes and valuables set aside first, and the property handed back broom-swept."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "An estate cleanout in Uxbridge often means sorting through more than furniture and photographs — it means recognizing what a lifetime of making, building or farming left behind. Along Brock Street and the town’s Victorian streets, it’s estate cleanouts in homes held for generations, cleared with patience and the character kept intact. For the township’s working artists and craftspeople, it’s estate cleanouts unlike anywhere else in the region — a body of work, raw materials and tools handled with genuine understanding rather than guesswork. In the hamlets of Goodwood, Zephyr, Leaskdale and Sandford, it’s estate cleanouts in homes families have held for decades. And across the forested concessions, it’s farmhouse and barn estate cleanouts where good material gets a second look before anything else moves. The Google reviews behind Live Junk Free come from every one of those addresses — an estate cleanout crew with an eye trained to spot what’s worth keeping, and a property handed back exactly as promised."
+      "{{fact:cleanupScope}}. Along Brock Street and the town’s Victorian streets, it’s estate cleanouts in homes held for generations, cleared with patience and the character kept intact. For the township’s working artists and craftspeople, it’s estate cleanouts unlike anywhere else in the region — a body of work, raw materials and tools handled with genuine understanding rather than guesswork. In the hamlets of Goodwood, Zephyr, Leaskdale and Sandford, it’s estate cleanouts in homes families have held for decades. And across the forested concessions, it’s farmhouse and barn estate cleanouts where good material gets a second look before anything else moves. The Google reviews behind Live Junk Free come from every one of those addresses — an estate cleanout crew with an eye trained to spot what’s worth keeping, and a property handed back exactly as promised."
      ]
     },
     {
@@ -111,20 +111,11 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "Contact us for a quote",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
        "n": "02",
        "title": "Free estate cleanout quotes, walked room by room",
        "text": [
         [
-         "A crew lead tours the entire property — house, studio, barn — and writes one firm flat estate cleanout quote for clearing it all. The visit is free, the number binds only us, and there’s no pressure attached; sorting a life’s work often takes longer than a single visit to decide."
+         "{{fact:changedScope}}. {{fact:cleanupScope}}."
         ]
        ]
       },
@@ -133,7 +124,7 @@
        "title": "Estate cleanout services handled the way family would",
        "text": [
         [
-         "When an estate cleanout follows a loss, the contents aren’t junk — they’re a life. Our crew slows down where it matters: photographs, documents, jewellery and anything that looks meaningful gets set aside for the family, never swept into a bin by default. Be there for all of it, some of it, or none of it — whichever helps."
+         "When an estate cleanout follows a loss, the contents aren’t junk — they’re a life. Our crew slows down where it matters: photographs, documents, jewellery and anything that looks meaningful gets set aside for the family, never into a bin by default. Be there for all of it, some of it, or none of it — whichever helps."
         ]
        ]
       },
@@ -185,16 +176,9 @@
      "text": "How Every Uxbridge Estate Cleanout Quote Gets Written"
     },
     {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
-    },
-    {
      "t": "checks",
      "items": [
-      "Estate Cleanout + Haul-Away in One Number",
-      "No Hourly Rates, No Township Premium"
+      "Estate Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -210,12 +194,6 @@
      "t": "price",
      "label": "Uxbridge Estate Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -257,7 +235,7 @@
        "title": "Book Your Estate Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit, town or township. The crew lead tours the full property, listens to what the estate cleanout is for, and writes one flat quote with a timeline that fits your family’s pace."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit, town or township. {{fact:changedScope}}."
         ]
        ]
       },
@@ -281,10 +259,10 @@
       },
       {
        "n": "04",
-       "title": "Swept, Empty and Ready for the Next Chapter",
+       "title": ", Empty and Ready for the Next Chapter",
        "text": [
         [
-         "The estate hands back broom-swept — house, studio or barn — with debris gone on our own trucks, salvage routed to your keeping or the reclamation trade, and donation or disposal documentation available for the estate file. Most single-room clears finish same-day; full properties finish on the promised date."
+         "The estate hands back — house, studio or barn — with debris gone on our own trucks, salvage routed to your keeping or the reclamation trade, and donation or disposal documentation available for the estate file. Most single-room clears finish same-day; full properties finish on the promised date, subject to availability."
         ]
        ]
       }
@@ -331,13 +309,10 @@
        "Original trim, doors and hardware salvaged intact on request"
       ],
       [
-       "Donation-first sorting with documentation for the estate file"
-      ],
-      [
        "Coordination with executors, realtors and out-of-town family"
       ],
       [
-       "Sale-ready, broom-swept handovers"
+       "Sale-ready handovers"
       ]
      ]
     },
@@ -805,7 +780,7 @@
        "q": "What does an estate cleanout include?",
        "a": [
         [
-         "A full estate cleanout covers sorting every room, setting aside keepsakes and valuables for the family, donating or recycling what has life left, hauling and responsibly disposing of the rest, and leaving the property broom-swept. Documentation of the donation and disposal split is available for the estate file."
+         "{{fact:cleanupScope}}. Documentation of the donation and disposal split is available for the estate file."
         ]
        ]
       },
@@ -837,7 +812,7 @@
        "q": "Do you cover the hamlets — Goodwood, Zephyr, Leaskdale, Sandford?",
        "a": [
         [
-         "Every one, at the same flat pricing as downtown. Estate cleanouts on the township’s hamlets and concessions ride the same daily routes; no address waits longer or pays more."
+         "{{fact:changedScope}}. Estate cleanouts on the township’s hamlets and concessions ride the same daily routes; no address waits longer or pays more."
         ]
        ]
       },
@@ -853,7 +828,7 @@
        "q": "Do you work with executors who live out of town or overseas?",
        "a": [
         [
-         "Regularly. Photographs, written updates and a documented record of anything donated, recycled or set aside let an executor approve every stage of the estate cleanout remotely, without needing to be on site."
+         "Regularly. Photographs, written updates and a documented record of anything donated, recycled where possible or set aside let an executor approve every stage of the estate cleanout remotely, without needing to be on site."
         ]
        ]
       },

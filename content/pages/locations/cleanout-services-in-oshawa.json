@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Oshawa for wartime homes and student rentals alike — estate, downsizing, rental-turnover and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished swept on schedule."
+     "text": "Cleanout services in Oshawa for wartime homes and student rentals alike — estate, downsizing, rental-turnover and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished on schedule."
     },
     {
      "t": "ctas",
@@ -126,7 +126,7 @@
        "title": "Free walkthrough cleanout quotes at any Oshawa address",
        "text": [
         [
-         "A crew lead walks the space — a Lakeview wartime home, a Samac rental unit, a Windfields new-build — hears what the cleanout is for, and writes one firm flat quote on the spot. Free, unhurried, no expiry."
+         "{{fact:changedScope}}. Free, unhurried, no expiry."
         ]
        ]
       },
@@ -144,7 +144,7 @@
        "title": "Student rental turnovers that never slip a lease",
        "text": [
         [
-         "Every May and every September, Oshawa’s rental units near the colleges need clearing fast — and we run it like the recurring job it is. Damage and abandonment cleanouts get photographed and documented, units clear completely, and the space hands back swept and ready before the next tenancy starts."
+         "Every May and every September, Oshawa’s rental units near the colleges need clearing fast — and we run it like the recurring job it is. Damage and abandonment cleanouts get photographed and documented, units clear completely, and the space hands back and ready before the next tenancy starts."
         ]
        ]
       },
@@ -154,15 +154,6 @@
        "text": [
         [
          "Overwhelmed homes clear with respect: unmarked scheduling on request, no commentary, a steady room-by-room pace, and coordination with family or support workers where it helps. Old street or new one, the neighbours learn nothing from us."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Independent cleanout pricing",
-       "text": [
-        [
-         "No head-office royalties inside our quotes — local crews, our own trucks, honest volume pricing."
         ]
        ]
       }
@@ -189,14 +180,13 @@
     {
      "t": "p",
      "c": [
-      "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Multi-unit turnover jobs get their full schedule up front."
+      "{{fact:changedScope}}."
      ]
     },
     {
      "t": "checks",
      "items": [
-      "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -212,12 +202,6 @@
      "t": "price",
      "label": "Oshawa Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -239,7 +223,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "The Oshawa Cleanout Shift — Four Steps, Scoped to Swept"
+     "text": "The Oshawa Cleanout Shift — Four Steps, Scoped to"
     },
     {
      "t": "p",
@@ -259,7 +243,7 @@
        "title": "Book Your Oshawa Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit anywhere in the city. The crew lead tours the space, hears what the cleanout is for, and writes one flat quote with a timeline that fits it."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit anywhere in the city. {{fact:changedScope}}."
         ]
        ]
       },
@@ -283,10 +267,10 @@
       },
       {
        "n": "04",
-       "title": "Swept, Empty and Ready for What's Next",
+       "title": ", Empty and Ready for What's Next",
        "text": [
         [
-         "The space hands back broom-swept — home, garage or rental unit — with debris gone on our own trucks and donation or disposal documentation available for the estate, the landlord or your own file."
+         "The space hands back — home, garage or rental unit — with debris gone on our own trucks and donation or disposal documentation available for the estate, the landlord or your own file."
         ]
        ]
       }
@@ -339,7 +323,7 @@
        "Executor and out-of-town family coordination with documentation"
       ],
       [
-       "Sale-ready, broom-swept handovers"
+       "Sale-ready handovers"
       ]
      ]
     },

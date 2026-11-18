@@ -4,11 +4,13 @@
  * Content: content/pages/services/junk-cleanout-services/<slug>.json
  */
 import type { PageDoc } from "@/lib/content";
+import { leadContext } from "@/lib/leads/context";
 import { ServiceLayout } from "./ServiceLayout";
 import { serviceRelated } from "./relatedLinks";
 
 const SENSITIVE = /estate|hoarding|eviction|bereavement|downsizing|foreclosure/;
 
+
 export function Cleanout({ doc }: { doc: PageDoc }) {
-  return <ServiceLayout variant="cleanout" doc={doc} calm={SENSITIVE.test(doc.path)} formService="Cleanouts" related={serviceRelated(doc, "Cleanout")} />;
+  return <ServiceLayout variant="cleanout" doc={doc} calm={SENSITIVE.test(doc.path)} formService={leadContext(doc.path).service} related={serviceRelated(doc, "Cleanout")} />;
 }

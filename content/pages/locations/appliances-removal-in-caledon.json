@@ -97,44 +97,14 @@
      "text": "Caledon spreads its homes across some of the prettiest and least convenient geography in the GTA — century farmhouses outside Alton, horse properties near Palgrave, estate homes in the hills, village houses in Inglewood and Cheltenham. Live Junk Free serves all of it, and the Google reviews behind our name include plenty that start with \"they actually came out to us.\""
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Distance is never a line item",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Your price is set by truck volume — one machine, small load; a shed's worth, bigger load — and by nothing else. The forty minutes of gravel between your place and the nearest plaza is our cost of doing business in Caledon, not a surcharge on your invoice."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Quoted at the machine, wherever the machine lives",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Kitchen, mudroom, barn, drive shed, the second basement under the addition — we quote after seeing the appliance and its route out, in person. That free look is why the flat number holds: no phone guesses, no adjusting later."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "The whole job rides in one figure",
-       "text": []
-      }
-     ]
+     "text": "Kitchen, mudroom, barn, drive shed, the second basement under the addition — we quote after seeing the appliance and its route out, in person."
     },
     {
      "t": "h",
@@ -142,44 +112,14 @@
      "text": "{{fact:propertyProtection}}. Rusted feet, seized doors and awkward barn thresholds change nothing."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Country homes run country equipment — we haul that too",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Rural Caledon appliances go beyond kitchen and laundry: drained well pressure tanks, retired water softeners and treatment systems, sump and utility pumps, old generators, and propane appliances (professionally disconnected first). If it served the property and it's done serving, it's on our list."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "No pressure at the door — ever",
-       "text": []
-      }
-     ]
+     "text": "If it served the property and it's done serving, it's on our list."
     },
     {
      "t": "h",
      "l": 3,
      "text": "The quote is free, carries no deposit, and doesn't expire when we drive off. Say yes and the machine leaves within minutes; say no and so do we, no charge; say \"after harvest\" and we'll see you then."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent pricing",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -241,7 +181,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "From the Back of the Property to Properly Recycled — Four Steps"
+     "text": "From the Back of the Property to Properly Recycled Where Possible — Four Steps"
     },
     {
      "t": "h",
@@ -260,19 +200,13 @@
       {
        "title": "2. Point Us to the Machine",
        "text": [
-        "Kitchen, cellar, barn or shed — we assess the unit and the path out, then hand you one flat, quote. Free, and no hard feelings if it's a no."
+        "{{fact:changedScope}}. Free, and no hard feelings if it's a no."
        ]
       },
       {
        "title": "3. We Do the Wrestling",
        "text": [
-        "On approval: plugs and water lines disconnected on the spot (gas, propane and hardwired units need a licensed technician first — we'll flag it at booking), floors and thresholds protected, and the machine walked, dollied or strapped out however the property demands."
-       ]
-      },
-      {
-       "title": "4. A Proper End, Not a Ditch",
-       "text": [
-        ""
+        "{{fact:utilityDisconnection}}"
        ]
       }
      ]
@@ -301,7 +235,7 @@
          "Fridges and freezers — kitchen units, cold-cellar units, and the chest freezer that outlasted its farm"
         ],
         [
-         "Stoves, ovens and cooktops — electric, and gas or propane once professionally disconnected"
+         ""
         ],
         [
          "Dishwashers, built-in or portable"
@@ -321,7 +255,7 @@
          "Washers and dryers — including mudroom and basement pairs"
         ],
         [
-         "Drained hot water tanks — electric and propane-fed"
+         ""
         ],
         [
          "Well pressure tanks, drained and disconnected"
@@ -330,10 +264,10 @@
          "Water softeners, iron filters, UV and treatment systems"
         ],
         [
-         "Sump pumps, utility pumps and dehumidifiers"
+         ""
         ],
         [
-         "Retired furnaces, boilers and HVAC units (disconnected)"
+         ""
         ]
        ]
       },
@@ -528,7 +462,7 @@
        "q": "Q: What about propane appliances?",
        "a": [
         [
-         "A: We remove them once a licensed technician has disconnected and capped the line — that part is a safety and code requirement, not ours to improvise. Mention propane when you book and we’ll sequence the pickup after your technician’s visit."
+         "{{fact:utilityDisconnection}} Mention propane when you book and we’ll sequence the pickup after your technician’s visit."
         ]
        ]
       },

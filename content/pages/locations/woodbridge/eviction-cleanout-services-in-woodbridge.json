@@ -86,13 +86,13 @@
     {
      "t": "p",
      "c": [
-      "We serve rental properties and residential spaces throughout Woodbridge, including properties near major local corridors such as Highway 7, Weston Road, Islington Avenue, Pine Valley Drive, Kipling Avenue and Highway 27. Our local team can handle everything from furniture and appliances to mattresses, electronics, clothing, trash, recyclables, and other belongings left behind after an eviction."
+      "We serve rental properties and residential spaces throughout Woodbridge, including properties near major local corridors such as Highway 7, Weston Road, Islington Avenue, Pine Valley Drive, Kipling Avenue and Highway 27. Our team can handle everything from furniture and appliances to mattresses, electronics, clothing, trash, recyclables, and other belongings left behind after an eviction."
      ]
     },
     {
      "t": "p",
      "c": [
-      "If you’re a landlord or property manager preparing a property for its next tenant, our Woodbridge eviction cleanout service gives you one crew to handle the removal, hauling, sorting, responsible disposal, and final sweep."
+      "{{fact:cleanupScope}}."
      ]
     },
     {
@@ -177,7 +177,7 @@
        "title": "Responsible Eviction Property Cleanouts",
        "text": [
         [
-         "We sort materials where possible and responsibly handle recyclable, reusable, and disposable items while leaving the cleared area swept and tidy."
+         "We sort materials where possible and responsibly handle recyclable, reusable, and disposable items while leaving the cleared area and tidy."
         ]
        ]
       }
@@ -304,16 +304,13 @@
        "Heavy lifting and labour"
       ],
       [
-       "Sorting and removal"
+       "Removal"
       ],
       [
        "Loading and hauling"
       ],
       [
        "Responsible disposal"
-      ],
-      [
-       "Final sweeping"
       ],
       [
        "Cleanout of rooms, garages, and basements"
@@ -329,8 +326,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -350,7 +346,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -405,16 +401,7 @@
        "title": "Schedule Your Cleanout",
        "text": [
         [
-         "Choose a convenient appointment. Same-day and next-day options are available when scheduling permits, with flexible weekend and evening service."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "We Remove, Haul & Sweep",
-       "text": [
-        [
-         "Our crew arrives, removes the unwanted belongings, loads and hauls everything away, and finishes by sweeping and tidying the cleared space."
+         "Choose a convenient appointment. {{fact:permits}}"
         ]
        ]
       }
@@ -1197,7 +1184,7 @@
        "q": "1. What does an eviction cleanout service in Woodbridge include?",
        "a": [
         [
-         "A Woodbridge eviction cleanout can include the removal of furniture, appliances, electronics, mattresses, clothing, trash, recyclables, yard waste, and other unwanted belongings left behind by former tenants. Our team handles the lifting, sorting, hauling, responsible disposal, and final sweep. "
+         "A Woodbridge eviction cleanout can include the removal of furniture, appliances, electronics, mattresses, clothing, trash, recyclables, yard waste, and other unwanted belongings left behind by former tenants. {{fact:cleanupScope}}. "
         ]
        ]
       },
@@ -1241,7 +1228,7 @@
            "house eviction cleanout services in Woodbridge"
           ]
          },
-         " can clear unwanted belongings throughout the property, including items located in rooms, garages, and basements."
+         " "
         ]
        ]
       }

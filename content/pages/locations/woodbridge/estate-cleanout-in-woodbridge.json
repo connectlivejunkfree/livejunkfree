@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Professional estate cleanout services in Woodbridge — a family's estate cleared with patience and respect, free flat-rate quote on site, keepsakes and valuables set aside first, and the home handed back broom-swept and sale-ready."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -111,20 +111,11 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "Contact us for a quote",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
        "n": "02",
        "title": "Free estate cleanout quotes, walked room by room with your family",
        "text": [
         [
-         "A crew lead tours the entire property face to face — every room, the garage, the basement, the shop if there is one — and writes one firm flat estate cleanout quote for clearing it all. The visit is free, the number holds, and there’s no pressure attached; these decisions are rarely made quickly, and the timeline stays the family’s."
+         "{{fact:changedScope}}. The visit is free, the number holds, and there’s no pressure attached; these decisions are rarely made quickly, and the timeline stays the family’s."
         ]
        ]
       },
@@ -133,7 +124,7 @@
        "title": "Estate cleanout services handled the way family would",
        "text": [
         [
-         "When an estate cleanout follows a loss, the contents carry more than value — they carry a life. Our crew slows down where it matters: photographs, documents, jewellery and anything that looks meaningful gets set aside for the family, never swept into a bin by default. Be there for all of it, some of it, or none of it — whichever helps."
+         "When an estate cleanout follows a loss, the contents carry more than value — they carry a life. Our crew slows down where it matters: photographs, documents, jewellery and anything that looks meaningful gets set aside for the family, never into a bin by default. Be there for all of it, some of it, or none of it — whichever helps."
         ]
        ]
       },
@@ -151,7 +142,7 @@
        "title": "Executor and out-of-town family coordination built in",
        "text": [
         [
-         "Not every family member can be on site for an estate cleanout. We provide photographs, written updates and documentation of what was donated, recycled or set aside, so an executor or a relative overseas can approve every stage remotely — with the same keep-list-first standard applied no matter who’s watching."
+         "Not every family member can be on site for an estate cleanout. We provide photographs, written updates and documentation of what was donated, recycled where possible or set aside, so an executor or a relative overseas can approve every stage remotely — with the same keep-list-first standard applied no matter who’s watching."
         ]
        ]
       },
@@ -185,16 +176,9 @@
      "text": "How Every Woodbridge Estate Cleanout Quote Gets Written"
     },
     {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
-    },
-    {
      "t": "checks",
      "items": [
-      "Estate Cleanout + Haul-Away in One Number",
-      "{{fact:competitorComparison}}"
+      "Estate Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -210,12 +194,6 @@
      "t": "price",
      "label": "Woodbridge Estate Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -257,7 +235,7 @@
        "title": "Book Your Estate Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit. The crew lead tours the property with you or your family, listens to what the estate cleanout is for, and writes one flat quote with a timeline that fits your family’s pace."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit. {{fact:changedScope}}."
         ]
        ]
       },
@@ -281,10 +259,10 @@
       },
       {
        "n": "04",
-       "title": "Swept, Empty and Ready for the Next Chapter",
+       "title": ", Empty and Ready for the Next Chapter",
        "text": [
         [
-         "The estate hands back broom-swept — every room, the garage, the shop if included — with debris gone on our own trucks and donation or disposal documentation available for the estate file, the executor or the listing agent. Most single-room clears finish same-day; full estate homes finish on the promised date."
+         "The estate hands back — every room, the garage, the shop if included — with debris gone on our own trucks and donation or disposal documentation available for the estate file, the executor or the listing agent. Most single-room clears finish same-day; full estate homes finish on the promised date, subject to availability."
         ]
        ]
       }
@@ -328,13 +306,10 @@
        "Keepsakes, documents and valuables set aside for the family, always"
       ],
       [
-       "Donation-first sorting with documentation for the estate file"
-      ],
-      [
        "Coordination with executors, realtors and out-of-town family"
       ],
       [
-       "Broom-swept, listing-ready handovers"
+       ", listing-ready handovers"
       ],
       [
        "Village and larger-lot estate homes through Pine Valley and Weston Downs"
@@ -394,7 +369,7 @@
        "Storefront and storage-room clearing along the Highway 7 and Weston Road corridors"
       ],
       [
-       "Broom-swept handovers ready for the next owner or concept"
+       "Careful Removal"
       ],
       [
        "E-waste recycling for business electronics"
@@ -805,7 +780,7 @@
        "q": "What does an estate cleanout include?",
        "a": [
         [
-         "A full estate cleanout covers sorting every room, setting aside keepsakes and valuables for the family, donating or recycling what has life left, hauling and responsibly disposing of the rest, and leaving the property broom-swept. Documentation of the donation and disposal split is available for the estate file."
+         "{{fact:cleanupScope}}. Documentation of the donation and disposal split is available for the estate file."
         ]
        ]
       },
@@ -821,7 +796,7 @@
        "q": "My parents are retiring and the business is part of the estate — can you help with that too?",
        "a": [
         [
-         "Yes, and it’s regular work for us here. Kitchen equipment, fixtures, inventory and decades of paperwork sort with the same respect as the family home, anything meaningful gets set aside before anything moves to disposal or a buyer, and the space hands over swept for whoever’s next."
+         "Yes, and it’s regular work for us here. Kitchen equipment, fixtures, inventory and decades of paperwork sort with the same respect as the family home, anything meaningful gets set aside before anything moves to disposal or a buyer, and the space hands over for whoever’s next."
         ]
        ]
       },
@@ -845,7 +820,7 @@
        "q": "Do you work with executors who live out of town or overseas?",
        "a": [
         [
-         "Regularly. Photographs, written updates and a documented record of anything donated, recycled or set aside let an executor approve every stage of the estate cleanout remotely, without needing to be on site."
+         "Regularly. Photographs, written updates and a documented record of anything donated, recycled where possible or set aside let an executor approve every stage of the estate cleanout remotely, without needing to be on site."
         ]
        ]
       },

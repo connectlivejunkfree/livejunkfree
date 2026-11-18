@@ -116,7 +116,7 @@
     {
      "t": "p",
      "c": [
-      "Never. The price reflects the size of the garage and the sorting it needs — never how far the property sits from the crossroads."
+      "Never. {{fact:cleanupScope}}."
      ]
     }
    ]
@@ -128,7 +128,7 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat garage cleanout price — the crossroads makes it fair",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number is identical whether the garage is on Main Street or well out on a concession, because the trucks already pass through Schomberg daily."
@@ -140,7 +140,7 @@
        "title": "Farm and outbuilding garage cleanout coordination",
        "text": [
         [
-         "Where a garage cleanout extends into a barn or shed on a working farm, the whole space gets scoped and quoted together, under one visit."
+         "{{fact:scheduling}}"
         ]
        ]
       },
@@ -155,19 +155,10 @@
       },
       {
        "n": "04",
-       "title": "Same-day garage cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first garage cleanout sorting for tools and equipment",
-       "text": [
-        [
-         "Working tools, equipment and household items with life left in them go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -203,7 +194,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how full the garage actually is, and how much sorting it genuinely needs. A garage with a few years of accumulated boxes is a modest job. A farm garage packed alongside years of barn or shed accumulation takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A garage with a few years of accumulated boxes is a modest job. A farm garage packed alongside years of barn or shed accumulation takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -215,7 +206,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Village, Distance or Rural Premium, Ever"
      ]
     },
@@ -232,12 +222,6 @@
      "t": "price",
      "label": "Schomberg Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -279,7 +263,7 @@
        "title": "Book Your Garage Cleanout Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       },
@@ -288,7 +272,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual garage — and any barn or shed involved — and gives you one flat price before anything moves."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -306,7 +290,7 @@
        "title": "Your Garage Is Usable",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready to actually use again."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready to actually use again."
         ]
        ]
       }
@@ -350,13 +334,10 @@
        "Careful, unhurried handling around established properties"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
-       "Same-day service for straightforward village access"
-      ],
-      [
-       "Same flat pricing as anywhere else in the township"
+       "Service for straightforward village access"
       ],
       [
        "No village premium, ever"
@@ -378,13 +359,7 @@
        "Barn or shed coordination under one single booking"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Crews accustomed to working calmly around rural properties"
-      ],
-      [
-       "Same flat pricing regardless of distance from the crossroads"
       ],
       [
        "Documentation available if the property requires it"
@@ -407,16 +382,10 @@
        "Garage cleanouts in Lloydtown, Pottageville and Kettleby"
       ],
       [
-       "Same flat pricing as Main Street, no hamlet premium"
-      ],
-      [
        "Discreet, unhurried scheduling on request"
       ],
       [
-       "Same-day completion for most straightforward removals"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
+       "Completion for most straightforward removals"
       ],
       [
        "Same fair standard as anywhere in the region"
@@ -438,10 +407,7 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
@@ -819,7 +785,7 @@
        "q": "How much do garage cleanout services cost in Schomberg?",
        "a": [
         [
-         "Pricing is confirmed free at an on-site walkthrough based on how full the garage is and how much sorting it needs — with no village premium anywhere."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -843,7 +809,7 @@
        "q": "Do you cover Lloydtown, Pottageville and Kettleby?",
        "a": [
         [
-         "Every hamlet, at the same flat pricing as Main Street."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -875,7 +841,7 @@
        "q": "Do you charge extra for a garage that's completely packed?",
        "a": [
         [
-         "The price reflects the actual volume and sorting required — a fuller garage costs more because it genuinely takes more time, not because of a flat surcharge."
+         "{{fact:cleanupScope}}."
         ]
        ]
       }

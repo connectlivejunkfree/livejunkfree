@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Fast, flat-rate commercial junk removal in Schomberg — free quotes written on site, an insured crew that does every carry, and same-day junk pickup when available made easy by trucks that already pass the 9 and 27 crossroads daily."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Schomberg has always been a crossroads town — Highways 9 and 27 meet here, the 400 runs minutes east, and for generations the region’s farm and freight traffic has rolled straight past the Main Street corner. Ours does too. Because our junk removal trucks already travel these routes daily, a village of a few thousand gets response times most small towns only hear about: same-day pickups, real arrival windows, no “we’ll get out there eventually.” The Google reviews behind Live Junk Free include Schomberg shopkeepers, farm operators and trades who tested that promise — and watched the truck turn in right on schedule, flat written quote in hand."
+      "Schomberg has always been a crossroads town — Highways 9 and 27 meet here, the 400 runs minutes east, and for generations the region’s farm and freight traffic has rolled straight past the Main Street corner. Ours does too. {{fact:changedScope}}."
      ]
     },
     {
@@ -111,20 +111,11 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "Truck-volume junk removal pricing — small villages, standard rates",
-       "text": [
-        [
-         "Your Schomberg junk removal price is your load’s share of the truck — the identical formula we use in every city on our routes. A half truck at the Main Street corner costs what a half truck costs anywhere."
-        ]
-       ]
-      },
-      {
        "n": "02",
        "title": "Free junk removal quotes at your Schomberg door — since we're passing anyway",
        "text": [
         [
-         "The crossroads works in your favour twice: quoting visits cost us little to make, so we make them freely. A crew lead walks your shop, yard or barn, sizes everything going, and writes one firm flat rate on the spot. No fee, no obligation, no expiry on the number."
+         "The crossroads works in your favour twice: quoting visits cost us little to make, so we make them freely. {{fact:changedScope}}. No fee, no obligation, no expiry on the number."
         ]
        ]
       },
@@ -133,7 +124,7 @@
        "title": "Full-crew junk hauling — village businesses run lean, so we bring the hands",
        "text": [
         [
-         "Most Schomberg operations are a handful of people wearing every hat; junk hauling shouldn’t be one of them. Our junk removal crew does the dismantling, the carrying, the loading and the sweep entirely, while your handful keeps the counter, the yard and the phones covered."
+         "Most Schomberg operations are a handful of people wearing every hat; junk hauling shouldn’t be one of them. {{fact:cleanupScope}}."
         ]
        ]
       },
@@ -176,11 +167,6 @@
     },
     {
      "t": "h",
-     "l": 2,
-     "text": "Schomberg Junk Removal Pricing — One Flat Rate, Written at the Crossroads"
-    },
-    {
-     "t": "h",
      "l": 3,
      "text": "How the Junk Removal Price Gets Set at Every Schomberg Job"
     },
@@ -210,12 +196,6 @@
      "t": "price",
      "label": "Schomberg Junk Removal Pricing",
      "value": "Junk Load from {{min_price:C}}"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -266,7 +246,7 @@
        "title": "Walk It, Point at It, Keep the Junk Removal Quote",
        "text": [
         [
-         "Lead the crew through everything going — the storeroom shelving, the retired signage, the implements in the far bay. It all measures against truck space and returns as one written flat rate. Sleep on it if you like; the number and the offer both keep."
+         "Lead the crew through everything going — the storeroom shelving, the retired signage, the implements in the far bay. {{fact:changedScope}}. Sleep on it if you like; the number and the offer both keep."
         ]
        ]
       },
@@ -281,7 +261,7 @@
       },
       {
        "n": "04",
-       "title": "Swept, Sorted Junk Disposal, Gone for Good",
+       "title": ", Sorted Junk Disposal, Gone for Good",
        "text": [
         [
          "Every Schomberg job closes with a broom and, on request, paperwork on the load’s fate: donation partners for what still works, licensed recyclers for metals, appliances and e-waste, landfill strictly for the remainder."
@@ -331,9 +311,6 @@
        "Café and restaurant junk pickup — seating, tables, kitchen stainless"
       ],
       [
-       "Antique-shop and studio clear-outs, donation-first sorting"
-      ],
-      [
        "Seasonal refresh strip-outs between the village's event weekends"
       ],
       [
@@ -363,9 +340,6 @@
       ],
       [
        "Seasonal clear-outs booked to the agricultural calendar"
-      ],
-      [
-       "Multi-truck capacity for full yard clearances"
       ]
      ]
     }
@@ -389,9 +363,6 @@
       ],
       [
        "Drywall, lumber, flooring and light demolition waste"
-      ],
-      [
-       "Retired tools, small machinery and mixed shop debris"
       ],
       [
        "Rained-out-day and slow-week scheduling on request"
@@ -725,7 +696,7 @@
        "q": "Can you clear a farm-supply yard or dealer lot?",
        "a": [
         [
-         "Readily — agri-business is Schomberg’s backbone and a steady part of our route sheet. Pallets, drums, retired stock, scrap and implements all haul at standard volume rates, with seasonal clear-outs booked around the agricultural calendar and multi-truck days for the big yards."
+         "Readily — agri-business is Schomberg’s backbone and a steady part of our route sheet. {{fact:changedScope}}."
         ]
        ]
       },
@@ -733,7 +704,7 @@
        "q": "Do you reach the farms and stables on the concessions?",
        "a": [
         [
-         "Every one, at the same flat pricing as the Main Street corner. Barns, drive sheds, stables and outbuildings across the surrounding concessions clear with crews that work calmly around animals and leave gates exactly as found."
+         "{{fact:changedScope}}. Barns, drive sheds, stables and outbuildings across the surrounding concessions clear with crews that work calmly around animals and leave gates exactly as found."
         ]
        ]
       },
@@ -749,7 +720,7 @@
        "q": "Can Schomberg businesses set up recurring junk removal?",
        "a": [
         [
-         "Easily — trades, supply yards and landlords around the crossroads hold standing schedules with us, seasonal to monthly to per-turnover, all at unchanged volume rates on one consolidated invoice."
+         "{{fact:changedScope}}."
         ]
        ]
       },

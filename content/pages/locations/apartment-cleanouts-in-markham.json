@@ -97,29 +97,9 @@
      "text": "Markham's rental and condo stock is as varied as the city itself: glass high-rises around Markham Centre, established buildings in Thornhill and Milliken, stacked towns in Cornell and Berczy, and basement apartments across every neighbourhood. Live Junk Free has cleaned out units in all of them — earning Google reviews from owners, tenants, landlords and property managers who needed a unit empty by a deadline and got exactly that."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Priced by what fills the truck — not the floor you live on",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "A studio's worth of furniture is a small load; a packed two-bedroom is a bigger one. That's the entire pricing logic. Being on the 24th floor, needing the freight elevator, or living at the far end of the hallway adds nothing to your bill."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "We quote inside the unit, never over the phone",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -127,29 +107,9 @@
      "text": "Apartments hide their volume — closets, lockers, balconies, that storage cage in the parking garage. A phone guess would shortchange one of us. Instead, a crew member views the actual unit and everything going, then hands you one firm, free, no-obligation number."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One figure covers the entire operation",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} If the elevator runs slow or the couch needs dismantling to leave the unit, the price doesn't budge."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "We work the way condo buildings require",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -157,29 +117,9 @@
      "text": "{{fact:insuranceDocs}}. Tell us your building's rules and we'll arrive ready to follow them, keeping you onside with the board and the concierge."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Approve first, pay what you approved",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "The walkthrough and quote commit you to nothing. Green-light the number and the crew starts immediately; decline and we leave with a handshake, no fee. Once approved, the figure is frozen no matter how the job unfolds."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -194,11 +134,6 @@
      "t": "h",
      "l": 2,
      "text": "What an Apartment Cleanout Costs in Markham"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Volume Pricing, Confirmed at the Unit Door"
     },
     {
      "t": "h",
@@ -260,7 +195,7 @@
       {
        "title": "2. Walk the Unit, Get the Number",
        "text": [
-        "Show us the apartment plus anything extra — the balcony, the storage locker, the parking-level cage. One free, quote follows on the spot. Yours to accept or decline."
+        "Show us the apartment plus anything extra — the balcony, the storage locker, the parking-level cage. One free, quote follows at the onsite estimate. Yours to accept or decline."
        ]
       },
       {
@@ -270,9 +205,9 @@
        ]
       },
       {
-       "title": "4. Swept, Photographed-Ready, and Responsibly Sorted",
+       "title": "4., Photographed-Ready, and Responsibly Sorted",
        "text": [
-        "We finish with a sweep so the unit is ready for inspection, staging photos or key handover. The truckload then splits by destination: donation partners first, recyclers for metals and electronics, landfill only for the remainder."
+        "{{fact:cleanupScope}}. The truckload then splits by destination: donation partners first, recyclers for metals and electronics, landfill only for the remainder."
        ]
       }
      ]
@@ -289,7 +224,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The calls come from every direction: a tenant moving overseas with two weeks' notice, a landlord staring at an abandoned unit in Milliken, adult children clearing a parent's Unionville condo, an investor flipping a furnished rental near Markham Centre. Different situations, one requirement — a completely empty unit, on time. Here's what we handle:"
+     "text": "The calls come from every direction: a tenant moving overseas with two weeks' notice, a landlord staring at an abandoned unit in Milliken, adult children clearing a parent's Unionville condo, an investor flipping a furnished rental near Markham Centre. Here's what we handle:"
     },
     {
      "t": "faq",
@@ -327,7 +262,7 @@
          "Between-tenant refresh clear-outs"
         ],
         [
-         "Multi-unit and whole-floor cleanouts for property managers"
+         "{{fact:competitorComparison}}"
         ],
         [
          "{{fact:insuranceDocs}}."
@@ -344,7 +279,7 @@
          "Senior downsizing from condos and apartments — paced to the person"
         ],
         [
-         "Pre-sale condo cleanouts — empty and swept before listing photos"
+         "Pre-sale condo cleanouts — empty before listing photos"
         ],
         [
          "Storage locker and parking-cage clear-outs — with or without the unit"
@@ -528,7 +463,7 @@
        "q": "Q: A tenant left everything behind — can you clear the unit fast?",
        "a": [
         [
-         "A: This is one of our most common Markham calls. We clear abandoned units quickly and completely, can photograph the process for your records if requested, and leave the apartment swept and ready for the next tenant — often within a day of your call."
+         "A: This is one of our most common Markham calls."
         ]
        ]
       },

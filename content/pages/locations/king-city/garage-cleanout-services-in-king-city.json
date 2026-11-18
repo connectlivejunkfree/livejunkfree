@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "Around the King Road village core, that’s usually a straightforward, more contained garage. On larger estate properties, it’s often a bigger garage with more volume, sometimes alongside separate equipment storage on a working horse property."
+      "On larger estate properties, it’s often a bigger garage with more volume, sometimes alongside separate equipment storage on a working horse property."
      ]
     },
     {
@@ -137,7 +137,7 @@
       },
       {
        "n": "02",
-       "title": "One flat garage cleanout price — the address never inflates it",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number reflects the actual work involved, never an assumption about the property’s location or value."
@@ -209,7 +209,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Village, Distance or Rural Premium, Ever"
      ]
     },
@@ -226,12 +225,6 @@
      "t": "price",
      "label": "King City Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -278,15 +271,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Quiet Walkthrough, One Flat Quote",
-       "text": [
-        [
-         "A crew member visits at a time you choose, sees the actual garage — and any additional storage involved — and gives one flat price."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Garage Gets Cleared, Without an Audience",
        "text": [
@@ -300,7 +284,7 @@
        "title": "Your Garage Is Usable, and a Street That Never Knew",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready to use, with the same discretion on the way out as on the way in."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready to use, with the same discretion on the way out as on the way in."
         ]
        ]
       }
@@ -360,13 +344,10 @@
      "t": "ul",
      "items": [
       [
-       "Garage cleanouts in more contained homes around the King Road core"
-      ],
-      [
        "Identical discretion and pricing standard as a larger property"
       ],
       [
-       "Same-day service for straightforward village access"
+       "Service for straightforward village access"
       ],
       [
        "No distinction made based on the size of the garage"
@@ -392,9 +373,6 @@
        "Crews briefed to work calmly around animals and active operations"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Coordination for equipment storage alongside the main garage"
       ]
      ]
@@ -414,10 +392,7 @@
        "Timed to land before your contractor's start date"
       ],
       [
-       "Same flat pricing as any standard garage cleanout"
-      ],
-      [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ]
      ]
     }
@@ -814,14 +789,6 @@
        "a": [
         [
          "Yes — crews work calmly around animals and active operations, with the same discretion standard as anywhere else. "
-        ]
-       ]
-      },
-      {
-       "q": "Do you charge extra for a garage that's completely packed?",
-       "a": [
-        [
-         "The price reflects the actual volume and sorting required, not a flat surcharge. "
         ]
        ]
       },

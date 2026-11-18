@@ -44,7 +44,7 @@
     {
      "t": "p",
      "c": [
-      "Professional hoarding apartment cleanouts begin with a thorough assessment that considers both the physical environment and the human element. This initial stage sets the foundation for a successful restoration process."
+      "Professional hoarding apartment cleanouts begin with a thorough assessment that considers both the physical environment and the human element. {{fact:structuralDemolition}}."
      ]
     },
     {
@@ -62,9 +62,6 @@
      "items": [
       [
        "Safety hazards and immediate risks"
-      ],
-      [
-       "Structural damage requiring attention"
       ],
       [
        "Biohazard materials needing special handling"
@@ -140,9 +137,6 @@
      "items": [
       [
        "Fire hazards from blocked exits and overloaded electrical circuits"
-      ],
-      [
-       "Structural risks from excessive weight on floors"
       ],
       [
        "Trip and fall hazards in walking paths"
@@ -383,7 +377,7 @@
        "Connections to local support services and resources"
       ],
       [
-       "Emergency contact availability for urgent situations"
+       "{{fact:pickupTimes}}"
       ]
      ]
     }

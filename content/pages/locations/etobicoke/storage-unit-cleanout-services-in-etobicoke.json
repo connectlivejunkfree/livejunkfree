@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "Wherever the facility is across the borough, the same flat pricing and the same practical process apply. Whether you’d call it storage unit junk removal, junk removal from storage unit, or a condo-overflow storage locker clean out, the process runs identically regardless of what brought the unit to this point."
+      "{{fact:changedScope}}. Whether you’d call it storage unit junk removal, junk removal from storage unit, or a condo-overflow storage locker clean out, the process runs identically regardless of what brought the unit to this point."
      ]
     },
     {
@@ -150,19 +150,10 @@
       },
       {
        "n": "04",
-       "title": "Same-day storage unit cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first storage unit cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -198,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how full the unit actually is, and how much sorting it genuinely needs. A small unit is a modest job. A unit that’s held years of condo overflow, or a larger construction-related unit, takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small unit is a modest job. A unit that’s held years of condo overflow, or a larger construction-related unit, takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -231,7 +222,7 @@
     {
      "t": "p",
      "c": [
-      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -277,7 +268,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual unit and gives you one flat price before anything moves, whatever the reason for the storage unit."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -295,7 +286,7 @@
        "title": "Your Unit Is Empty and Ready to Return",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready to hand back to the facility."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready to hand back to the facility."
         ]
        ]
       }
@@ -333,13 +324,7 @@
        "Real understanding of what a smaller footprint typically means for storage"
       ],
       [
-       "Same flat pricing regardless of how long the unit's been rented"
-      ],
-      [
-       "Donation-first sorting throughout"
-      ],
-      [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Documentation available if needed"
@@ -361,13 +346,10 @@
        "Timing coordinated around the project's real schedule where relevant"
       ],
       [
-       "Same flat pricing as any other storage unit cleanout"
-      ],
-      [
        "Coordination with contractors or property owners"
       ],
       [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Documentation available where needed"
@@ -393,13 +375,10 @@
        "Coordination directly with facility management on timing"
       ],
       [
-       "Same flat pricing regardless of how tight the timeline is"
-      ],
-      [
        "Priority booking for time-sensitive lease-end dates"
       ],
       [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Documentation available for the facility if required"
@@ -421,16 +400,13 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -834,7 +810,7 @@
        "q": "Do you charge extra for a unit that's held condo overflow for years?",
        "a": [
         [
-         "Never. The same flat pricing applies whether the unit’s new or long-held."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },

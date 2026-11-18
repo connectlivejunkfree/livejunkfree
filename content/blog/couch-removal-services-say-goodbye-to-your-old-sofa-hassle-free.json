@@ -159,7 +159,7 @@
      "t": "ul",
      "items": [
       [
-       "Donation Coordination: We work with local charities to find new homes for usable furniture"
+       "{{fact:recycling}}"
       ],
       [
        "Material Recycling: Wood frames, metal springs, and foam components are separated and recycled when possible"
@@ -244,7 +244,7 @@
        "Use proper lifting techniques and equipment"
       ],
       [
-       "Navigate through your home without damage to property"
+       "Careful Removal"
       ],
       [
        "Load securely into our specialized trucks"
@@ -348,7 +348,7 @@
        "Property preparation for sale"
       ],
       [
-       "Emergencies (flood damage)"
+       "{{fact:pickupTimes}}"
       ],
       [
        "Limited personal availability"

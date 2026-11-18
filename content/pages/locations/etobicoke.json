@@ -124,44 +124,14 @@
      "text": "Etobicoke is one of the most diverse, densely populated areas in the entire GTA — and when word spreads fast in a community this connected, it means something. Junk Professionals has built a reputation across every Etobicoke neighbourhood — from the lakefront communities of Long Branch and Mimico to the busy residential streets of Rexdale, Humber Valley and Islington Village — because we consistently deliver what others promise but rarely provide. We're not a call-centre franchise dispatching random contractors. We're a real, locally operated junk removal company with a professional crew, fully insured, that shows up on time and treats your Etobicoke home or condo the way it deserves to be treated. No scuffs on your walls. No mess left behind. No billing surprises."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Volume-based pricing — not hourly, not by the item",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "We calculate your quote based on how much space your junk takes up in our truck. One truckload is one price. Half a truckload is half the price. Simple, transparent, fair."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Free on-site estimate — every time, no exceptions",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "We come to your Etobicoke home, condo, or commercial property, physically assess the job, and give you an quote on the spot. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "You see it, you approve it, then we start",
-       "text": []
-      }
-     ]
+     "text": "We come to your Etobicoke home, condo, or commercial property, physically assess the job, and give you an quote at the onsite estimate. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
     },
     {
      "t": "h",
@@ -169,49 +139,9 @@
      "text": "Not before. If the quote doesn't work for you, you owe us nothing and we leave with no awkwardness. No pressure, no upsells, no hard sell at the door."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "{{fact:competitorComparison}}",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "An Etobicoke job is priced the same way as any other job — by volume. Your postal code doesn't add to your bill."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Significantly cheaper than big franchise competitors",
-       "text": []
-      }
-     ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "{{fact:competitorComparison}}"
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "{{fact:competitorComparison}}",
-       "text": []
-      }
-     ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "{{fact:pricingIntro.extra}}"
     }
    ]
   },
@@ -276,13 +206,13 @@
       {
        "title": "Book in Minutes, Get a Slot",
        "text": [
-        "Call +1 647 922 5865 or book. Tell us what you need removed and your Etobicoke location — whether you're in a house in Alderwood, a condo in Mimico, a townhouse in New Toronto, or a commercial unit in Rexdale. We'll lock in a same-day or next-day time window that works for your schedule, subject to scheduling. We know Etobicoke traffic and building access rules — we plan around them, not against them. You'll get a 30-minute heads-up call before arrival so you're never left waiting.livejunkfree.ca. to schedule your junk removal & hauling in Etobicoke, Toronto at a time that fits your schedule. Our booking process is quick, flexible, and entirely tailored around your convenience."
+        "Call +1 647 922 5865 or book. Tell us what you need removed and your Etobicoke location — whether you're in a house in Alderwood, a condo in Mimico, a townhouse in New Toronto, or a commercial unit in Rexdale. We'll lock in a same-day or next-day time window that works for your schedule, subject to scheduling. We know Etobicoke traffic and building access rules — we plan around them, not against them. {{fact:scheduling}} Our booking process is quick, flexible, and entirely tailored around your convenience."
        ]
       },
       {
        "title": "On-Site Estimate, Zero Pressure",
        "text": [
-        "Our uniformed, professional Etobicoke junk removal crew arrives on time and walks through your space with you — every room, every floor, every area that needs clearing. For condo and apartment jobs, we coordinate with building management for elevator and loading dock access so you don't have to. We assess everything and give you a clear, flat-rate quote on the spot. No pressure. No obligation."
+        "Our uniformed, professional Etobicoke junk removal crew arrives on time and walks through your space with you — every room, every floor, every area that needs clearing. For condo and apartment jobs, we coordinate with building management for elevator and loading dock access so you don't have to. {{fact:changedScope}}. No pressure. No obligation."
        ]
       },
       {
@@ -294,7 +224,7 @@
       {
        "title": "Gone, Cleaned Up, Done",
        "text": [
-        "Once everything is loaded, we do a final walkthrough of your space to confirm nothing's been missed. We sweep up and leave the area clean — no debris from the haul, no mess left behind. Your items are then sorted responsibly: reusable goods go to donation centres serving the Etobicoke and Toronto community, recyclables are properly processed, and only what genuinely can't be repurposed ends up at the landfill. We keep as much as possible out of the waste stream — because this is our city too."
+        "Once everything is loaded, we do a final walkthrough of your space to confirm nothing's been missed. We and leave the area clean — no debris from the haul, no mess left behind. Your items are then sorted responsibly: reusable goods go to donation centres serving the Etobicoke and Toronto community, recyclables are properly processed, and only what genuinely can't be repurposed ends up at the landfill. We keep as much as possible out of the waste stream — because this is our city too."
        ]
       }
      ]
@@ -306,7 +236,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Condos, Homes, Offices & Renovation Sites — Complete Junk Removal Across All of Etobicoke"
+     "text": "{{fact:pickupTimes}}"
     },
     {
      "t": "h",
@@ -601,7 +531,7 @@
        "q": "Q: Do you offer same-day junk removal in Etobicoke?",
        "a": [
         [
-         "A: Yes. We offer same-day junk removal when available across all of Etobicoke including Long Branch, Mimico, Rexdale, Islington, Humber Valley and surrounding areas. Call +1 647 922 5865 to check today’s availability."
+         "A: Yes. {{fact:scheduling}} Call +1 647 922 5865 to check today’s availability."
         ]
        ]
       },
@@ -617,7 +547,7 @@
        "q": "Q: Are you a local Etobicoke company or a national franchise?",
        "a": [
         [
-         "A: We are 100% locally owned and operated — not affiliated with any national franchise."
+         "Careful Removal"
         ]
        ]
       },

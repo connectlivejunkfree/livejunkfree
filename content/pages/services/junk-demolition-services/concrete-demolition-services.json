@@ -24,11 +24,6 @@
      "text": "Your Trusted Local Experts for Concrete Demolition Services"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in town."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -58,12 +53,104 @@
     {
      "t": "h",
      "l": 2,
+     "text": "Best Concrete Demolition Services"
+    },
+    {
+     "t": "p",
+     "c": [
+      "{{fact:equipmentScope}}."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we handle every aspect from initial assessment to final cleanup, including hauling away all debris and recycling concrete rubble whenever possible. Whether you need to remove a small sidewalk or undertake large-scale concrete demolition and removal of commercial flooring, we bring the same commitment to safety, efficiency, and customer satisfaction to every job."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Your Service Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/concrete-demolition-services-1024x765.jpeg",
+      "alt": "concrete-demolition-services",
+      "width": 800,
+      "height": 598
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Break Free from Problematic Concrete – Expert Demolition Made Simple"
+    },
+    {
+     "t": "p",
+     "c": [
+      "That damaged concrete isn’t fixing itself. {{fact:equipmentScope}}. The structure is deteriorating, the rebar is exposed, and every passing season makes the damage worse."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "a": "/contact/",
+       "c": [
+        "Live Junk Free"
+       ]
+      },
+      " specializes in making unsafe concrete disappear quickly, safely, and affordably."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "{{fact:structuralDemolition}}."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Ready to reclaim your space? Call us at +1 647 922 5865 or book online."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          ""
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
      "text": "Concrete Demolition Service in Your Area"
     },
     {
      "t": "p",
      "c": [
-      "That damaged concrete isn’t just unsightly – it’s an accident waiting to happen. Many property owners don’t realize proper concrete demolition requires more than just breaking up slabs, with hidden challenges like buried utilities, structural reinforcements, and hazardous dust that make DIY attempts risky."
+      "That damaged concrete isn’t just unsightly – it’s an accident waiting to happen. {{fact:structuralDemolition}}."
      ]
     },
     {
@@ -76,20 +163,6 @@
      "t": "p",
      "c": [
       "Our Fully Equipped Crew Arrives With:"
-     ]
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "Industrial concrete breakers and jackhammers for efficient slab demolition"
-      ],
-      [
-       "Saws and cutting equipment for precision concrete removal"
-      ],
-      [
-       "Dust suppression systems to protect your property and neighborhood"
-      ]
      ]
     }
    ]
@@ -113,31 +186,13 @@
       {
        "title": "Cost Savings",
        "text": [
-        "Special pricing for large-scale or multiple demolition projects"
-       ]
-      },
-      {
-       "title": "Flexible Scheduling",
-       "text": [
-        ""
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Property Protection",
        "text": [
         "Advanced techniques safeguard surrounding structures and utilities"
-       ]
-      },
-      {
-       "title": "All-Weather Operation",
-       "text": [
-        "Projects continue rain or shine with proper site protection"
-       ]
-      },
-      {
-       "title": "Complete Site Restoration",
-       "text": [
-        ""
        ]
       }
      ]
@@ -181,6 +236,107 @@
     },
     {
      "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Types of Concrete We Demolish & Remove"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we professionally handle all concrete structures in any condition:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Driveway and walkway demolitions"
+      ],
+      [
+       "Patio and pool deck removals"
+      ],
+      [
+       "Basement floor tear-outs"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Vertical Structures"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Our Simple 4-Step Concrete Demolition Process"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Share Your Project Details",
+       "text": [
+        "Send us photos of your concrete surface or structure via text or email, and we'll respond with a free, no-obligation quote for your demolition needs."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Concrete Demolition FAQs"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "How much does concrete demolition cost?",
+       "a": [
+        [
+         "Concrete demolition pricing varies based on project size, complexity, and specific requirements. Contact us for a free, no-obligation estimate tailored to your needs."
+        ]
+       ]
+      },
+      {
+       "q": "What areas do you serve for concrete demolition?",
+       "a": [
+        [
+         "We serve the Greater Toronto Area, including Bradford, Port Perry, Pickering, Richmond Hill, Scarborough, Schomberg, Mississauga, and surrounding communities."
+        ]
+       ]
+      },
+      {
+       "q": "Do I need a permit for concrete removal?",
+       "a": [
+        [
+         "{{fact:permits}}"
+        ]
+       ]
+      },
+      {
+       "q": "Do you handle reinforced concrete demolition?",
+       "a": [
+        [
+         "Yes, we specialize in reinforced concrete demolition with proper rebar extraction and disposal."
+        ]
+       ]
+      }
+     ]
     }
    ]
   },

@@ -432,7 +432,7 @@
     {
      "t": "p",
      "c": [
-      "Donating usable items keeps them out of landfills while helping local charities."
+      "{{fact:recycling}}"
      ]
     },
     {
@@ -554,9 +554,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Finish practical sorting first."
-      ],
       [
        "Return to sentimental belongings once the home is mostly organized."
       ],
@@ -716,7 +713,7 @@
     {
      "t": "p",
      "c": [
-      "Many household materials can be recycled, including:"
+      "Many household materials can be recycled where possible, including:"
      ]
     },
     {
@@ -801,7 +798,7 @@
     {
      "t": "p",
      "c": [
-      "A professional team handles the heavy lifting, sorting assistance, loading, hauling, recycling, and final cleanup, allowing families to focus on more important matters."
+      "{{fact:cleanupScope}}."
      ]
     }
    ]
@@ -906,7 +903,7 @@
        "Donation of reusable items whenever possible"
       ],
       [
-       "Same-day and next-day availability in many areas"
+       "Availability in many areas"
       ],
       [
        "Transparent, upfront pricing"
@@ -940,13 +937,7 @@
     {
      "t": "p",
      "c": [
-      "By working room by room, sorting belongings thoughtfully, protecting important documents, and knowing when to ask for help, you can complete the process more efficiently while honoring the memories connected to the home."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "If the project feels too large to manage alone, professional estate cleanout services can save you days of work while ensuring items are removed, recycled, donated, and disposed of responsibly."
+      "If the project feels too large to manage alone, professional estate cleanout services can save you days of work while ensuring items are removed, recycled where possible, donated, and disposed of responsibly."
      ]
     }
    ]

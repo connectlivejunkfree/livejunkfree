@@ -41,5 +41,8 @@ export function resolveFacts(text: string): string {
     .replace(TOKEN, (_m, key: string, field?: string) => fact(key, field ?? "text"))
     .replace(/\s{2,}/g, " ")
     .replace(/\s+([.,;:!?])/g, "$1")
+    // a fact that ends a sentence and is followed by the sentence's own stop: "…scheduling.." → "…scheduling."
+    .replace(/(?<!\.)\.\.(?!\.)/g, ".")
+    .replace(/([!?])\./g, "$1")
     .trim();
 }

@@ -72,7 +72,7 @@ export type CleanoutContent = {
 /** Template: Commercial (Office). */
 export type CommercialContent = {
   hero: HeroContent;
-  segments: { title: string }[];
+  segments: { title: string; text?: string; href?: string }[];
   schedule: { title: string; intro: string; ticks: string[] };
   includes: { title: string; items: string[] };
   pricing: { title: string; intro: string; note: string };

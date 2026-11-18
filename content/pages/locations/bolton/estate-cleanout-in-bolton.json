@@ -130,13 +130,13 @@
        "title": "Heritage-careful handling around Queen Street",
        "text": [
         [
-         "Century homes get the patience they’ve earned — nothing rushed or forced near a foundation and original woodwork that’s been standing a long time."
+         "{{fact:structuralDemolition}}."
         ]
        ]
       },
       {
        "n": "03",
-       "title": "One flat price, town or concession",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Size and access set the number — never how far the property sits from downtown, and never how heavy the furniture turns out to be once the crew’s actually lifting it."
@@ -149,15 +149,6 @@
        "text": [
         [
          "Photo records and written confirmation of what was removed are provided without needing to be specifically requested, useful for an estate file."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -199,8 +190,7 @@
     {
      "t": "checks",
      "items": [
-      "Estate Cleanout + Haul-Away in One Number",
-      "{{fact:competitorComparison}}"
+      "Estate Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -216,12 +206,6 @@
      "t": "price",
      "label": "Bolton Estate Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -272,16 +256,7 @@
        "title": "A Free Walkthrough — Price and Date Both Confirmed",
        "text": [
         [
-         "A crew member sees the actual space, assesses the real weight and volume involved, and gives one flat number before anything moves."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at the family’s pace, with anything meaningful or potentially valuable set aside first, always."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -290,7 +265,7 @@
        "title": "A Home That's Clean and Ready",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable, with floors, stairwells and doorframes checked and undamaged before the crew goes."
+         "Whatever was worked on that visit is left and usable, with floors, stairwells and doorframes checked and undamaged before the crew goes."
         ]
        ]
       }
@@ -379,12 +354,6 @@
        "Estate cleanouts on farm and rural properties across the concessions"
       ],
       [
-       "Same flat pricing regardless of distance from town"
-      ],
-      [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Multi-visit scheduling for larger or more complex situations"
       ]
      ]
@@ -405,9 +374,6 @@
       ],
       [
        "Timing arranged around listing dates or closing schedules where relevant"
-      ],
-      [
-       "Same flat pricing whether or not a deadline is involved"
       ]
      ]
     }
@@ -795,7 +761,7 @@
        "q": "Do rural addresses or long laneways cost extra?",
        "a": [
         [
-         "Never. The same flat pricing applies at Queen Street and eight concessions past it. "
+         "Never. {{fact:changedScope}}. "
         ]
        ]
       },

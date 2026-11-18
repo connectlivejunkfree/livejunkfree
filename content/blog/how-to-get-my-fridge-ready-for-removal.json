@@ -167,12 +167,6 @@
     {
      "t": "p",
      "c": [
-      "Before removal, the fridge should be disconnected from power."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
       "Ideally, unplug the refrigerator at least several hours before pickup. This allows:"
      ]
     },
@@ -251,11 +245,6 @@
   {
    "blocks": [
     {
-     "t": "h",
-     "l": 2,
-     "text": ""
-    },
-    {
      "t": "p",
      "c": [
       "Many modern refrigerators include:"
@@ -282,23 +271,8 @@
      ]
     },
     {
-     "t": "p",
-     "c": [
-      ""
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "After disconnecting:"
-     ]
-    },
-    {
      "t": "ul",
      "items": [
-      [
-       "Drain excess water"
-      ],
       [
        "Dry connection points"
       ],
@@ -526,7 +500,7 @@
      "t": "ul",
      "items": [
       [
-       "Recycled for metal and components"
+       "Recycled Where Possible for metal and components"
       ],
       [
        "Sent to approved disposal facilities"
@@ -614,12 +588,6 @@
      "t": "p",
      "c": [
       "Preparing your refrigerator properly before pickup helps make the entire process smoother, cleaner, and safer."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      ""
      ]
     },
     {

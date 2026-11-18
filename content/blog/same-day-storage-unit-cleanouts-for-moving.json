@@ -41,7 +41,7 @@
         "storage unit junk removal"
        ]
       },
-      ". Same-day storage unit cleanouts provide a powerful solution, transforming what could be a stressful delay into a streamlined component of your moving process. This service is particularly valuable for residents across the GTA who are navigating tight moving schedules and need efficient, reliable solutions to ensure their transition is as smooth as possible, including complete ",
+      ". Same-day storage unit cleanouts when available provide a powerful solution, transforming what could be a stressful delay into a streamlined component of your moving process. This service is particularly valuable for residents across the GTA who are navigating tight moving schedules and need efficient, reliable solutions to ensure their transition is as smooth as possible, including complete ",
       {
        "b": [
         "junk removal storage unit"
@@ -113,7 +113,7 @@
        "Single-Day Resolution: Removes the need to schedule multiple trips to the storage facility during an already busy time."
       ],
       [
-       "Reduced Decision Fatigue: Professional crews help expedite the sorting process at the storage unit, preserving your mental energy for other moving decisions."
+       "{{fact:cleanupScope}}."
       ],
       [
        "Immediate Cost Savings: Stops recurring storage fees the moment the unit is cleared, improving your moving budget."
@@ -258,16 +258,13 @@
       ],
       [
        "Identification of any items you’ve pre-identified to keep."
-      ],
-      [
-       "Immediate establishment of sorting zones for trash, recycling, donation, and keep items."
       ]
      ]
     },
     {
      "t": "p",
      "c": [
-      "Simultaneous Sorting and Removal",
+      "Simultaneous Removal",
       {
        "br": 1
       },
@@ -301,9 +298,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "A thorough sweep of the empty unit to ensure nothing is left behind."
-      ],
       [
        "Final walkthrough with you to confirm the unit is empty and ready for you to formally vacate."
       ]
@@ -475,7 +469,7 @@
     {
      "t": "p",
      "c": [
-      "A small amount of preparation can ensure the same-day storage unit cleanouts service is maximally effective."
+      "A small amount of preparation can ensure the same-day storage unit cleanouts service when available is maximally effective."
      ]
     },
     {

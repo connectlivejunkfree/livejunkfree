@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in East Gwillimbury for hamlets and highway corridor alike — estate, farmhouse, downsizing and hoarding cleanouts by an insured crew, quoted flat on site with no hamlet surcharge, sorted donation-first, and finished swept the same day whenever size allows."
+     "text": "Cleanout services in East Gwillimbury for hamlets and highway corridor alike — estate, farmhouse, downsizing and hoarding cleanouts by an insured crew, quoted flat on site with no hamlet surcharge, sorted donation-first, and finished the same day whenever size allows, subject to availability."
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "East Gwillimbury lives two lives, and our cleanout crews serve both daily. Through the century hamlets — Holland Landing, Sharon, Mount Albert, Queensville — it’s estate and downsizing work in homes held for generations, cleared with patience while the old-town character stays intact. On the concessions between, it’s farmhouse and outbuilding cleanouts: a working family’s accumulation sorted respectfully, barn to cellar. Along the fast-growing 404 corridor and Green Lane’s newer streets, it’s garage, basement and moving cleanouts for young households filling homes faster than they can sort them. And near the employment lands, it’s office, storage and commercial cleanouts between tenants. The Google reviews behind Live Junk Free come from every one of those addresses — flat written quotes with no hamlet premium, careful hands on whatever generation the belongings came from, and space handed back exactly as promised."
+      "East Gwillimbury lives two lives, and our cleanout crews serve both daily. {{fact:propertyProtection}}. On the concessions between, it’s farmhouse and outbuilding cleanouts: a working family’s accumulation sorted respectfully, barn to cellar. Along the fast-growing 404 corridor and Green Lane’s newer streets, it’s garage, basement and moving cleanouts for young households filling homes faster than they can sort them. And near the employment lands, it’s office, storage and commercial cleanouts between tenants. The Google reviews behind Live Junk Free come from every one of those addresses — flat written quotes with no hamlet premium, careful hands on whatever generation the belongings came from, and space handed back exactly as promised."
      ]
     },
     {
@@ -126,7 +126,7 @@
        "title": "Free walkthrough cleanout quotes across every EG address",
        "text": [
         [
-         "The crew lead walks the whole property — house, garage, outbuildings where they exist — hears what the cleanout is for, and writes one firm flat quote on the spot. Free, unhurried, no expiry, whether the address is a Holland Landing century home or a Green Lane townhouse."
+         "{{fact:changedScope}}. Free, unhurried, no expiry, whether the address is a Holland Landing century home or a Green Lane townhouse."
         ]
        ]
       },
@@ -144,7 +144,7 @@
        "title": "Growth-town cleanouts for households filling homes fast",
        "text": [
         [
-         "The 404 corridor’s newer streets fill quickly — garages that stopped holding cars, basements turned storage, moving boxes never unpacked. We sort, donate and clear in a single visit, most finishing same-day, so young families get their square footage back without a second thought."
+         "The 404 corridor’s newer streets fill quickly — garages that stopped holding cars, basements turned storage, moving boxes never unpacked. We sort, donate and clear in a single visit, most finishing same-day, so young families get their square footage back without a second thought, subject to availability."
         ]
        ]
       },
@@ -162,7 +162,7 @@
        "title": "Independent cleanout pricing",
        "text": [
         [
-         "No head-office royalties inside our quotes and no distance padding for the smaller communities either — local crews, our own trucks, one honest number."
+         "{{fact:propertyProtection}}."
         ]
        ]
       }
@@ -195,8 +195,7 @@
     {
      "t": "checks",
      "items": [
-      "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -212,12 +211,6 @@
      "t": "price",
      "label": "EG Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -237,11 +230,6 @@
      "text": "HOW OUR CLEANOUTS WORK"
     },
     {
-     "t": "h",
-     "l": 2,
-     "text": "The East Gwillimbury Cleanout Sweep — Four Steps From Full to Cleared"
-    },
-    {
      "t": "p",
      "c": [
       "Same careful method whether the address is a hamlet or a highway exit:"
@@ -259,7 +247,7 @@
        "title": "Book Your EG Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit anywhere in the municipality. The crew lead tours the property, hears what the cleanout is for, and writes one flat quote with a timeline that fits it."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit anywhere in the municipality. {{fact:changedScope}}."
         ]
        ]
       },
@@ -283,10 +271,10 @@
       },
       {
        "n": "04",
-       "title": "Swept, Empty and Ready for What's Next",
+       "title": ", Empty and Ready for What's Next",
        "text": [
         [
-         "The property hands back broom-swept — house and any outbuildings included — with debris gone on our own trucks and donation or disposal documentation available for the estate, the sale or your own file."
+         "The property hands back — house and any outbuildings included — with debris gone on our own trucks and donation or disposal documentation available for the estate, the sale or your own file."
         ]
        ]
       }
@@ -358,7 +346,7 @@
        "Pre-listing purges that get EG properties photo-ready"
       ],
       [
-       "Sold-home clears finished broom-swept before closing"
+       "Sold-home clears finished before closing"
       ],
       [
        "Garage, basement and make-room cleanouts along the 404 corridor"
@@ -397,9 +385,6 @@
       ],
       [
        "Deep-accumulation basements and storage spaces"
-      ],
-      [
-       "Respectful crews, first knock to final sweep"
       ]
      ]
     },
@@ -727,7 +712,7 @@
        "q": "Our new house is already full — is that normal for EG's growth streets?",
        "a": [
         [
-         "Very. Fast-growing corridor households fill fast, and the make-room cleanout exists for exactly that — a same-day sort and clear usually returns the garage or basement whole, with no judgment anywhere in the process."
+         "Very. Fast-growing corridor households fill fast, and the make-room cleanout exists for exactly that — a same-day sort and clear usually returns the garage or basement whole, with no judgment anywhere in the process, subject to availability."
         ]
        ]
       },
@@ -751,7 +736,7 @@
        "q": "Why are your cleanout rates",
        "a": [
         [
-         "No franchise royalty inside the quote and no smaller-community padding on top — local crews, our own trucks, one honest number. The identical cleanout simply costs less, hamlet or highway corridor."
+         "{{fact:propertyProtection}}. The identical cleanout simply costs less, hamlet or highway corridor."
         ]
        ]
       }

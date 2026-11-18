@@ -307,7 +307,7 @@
     {
      "t": "p",
      "c": [
-      "A small office with several desks will have different requirements from a multi-room commercial cleanout containing dozens of workstations, cabinets and electronics."
+      "{{fact:changedScope}}."
      ]
     },
     {
@@ -375,7 +375,7 @@
     {
      "t": "p",
      "c": [
-      "Every office cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every office cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -436,7 +436,7 @@
       },
       {
        "n": "04",
-       "title": "Receive a Cleared & Swept Commercial Space",
+       "title": "Receive a Cleared & Commercial Space",
        "text": [
         [
          "After the removal is complete, we tidy the working area and leave the office ready for its next stage — whether that means relocation, renovation, leasing or everyday use."
@@ -544,7 +544,7 @@
     {
      "t": "p",
      "c": [
-      "Live Junk Free provides same-day junk removal when available, demolition and cleanout services in Etobicoke for offices, businesses, commercial properties and residential spaces. Whether you need unwanted office furniture, workstations, electronics, commercial junk or renovation debris removed, our crew handles the lifting, loading, hauling and cleanup from start to finish. We also provide office cleanouts, retail cleanouts, warehouse cleanouts, property cleanouts, garage cleanouts, basement cleanouts, furniture removal, appliance removal, construction debris removal, deck demolition, fence demolition, shed demolition and other junk removal services throughout Etobicoke, including Long Branch, Mimico, New Toronto, Alderwood, Islington, Rexdale and surrounding neighbourhoods. Our goal is to make every cleanout or removal project quick, organized and hassle-free, with responsible sorting and disposal wherever possible."
+      "Live Junk Free provides same-day junk removal when available, demolition and cleanout services in Etobicoke for offices, businesses, commercial properties and residential spaces. Whether you need unwanted office furniture, workstations, electronics, commercial junk or renovation debris removed, our crew handles the lifting, loading, hauling and cleanup from start to finish. We also provide office cleanouts, retail cleanouts, warehouse cleanouts, property cleanouts, garage cleanouts, basement cleanouts, furniture removal, appliance removal, construction debris removal, deck demolition, fence demolition, shed demolition and other junk removal services throughout Etobicoke, including Long Branch, Mimico, New Toronto, Alderwood, Islington, Rexdale and surrounding neighbourhoods. Our goal is to make every cleanout or removal project quick, organized and hassle-free, with disposal wherever possible."
      ]
     },
     {
@@ -582,7 +582,7 @@
      "t": "ul",
      "items": [
       [
-       "Businesses operating from professional or multi-unit commercial buildings often need furniture and equipment removed while working around shared entrances, elevators, corridors and loading areas. We coordinate the removal around the property's access conditions and your preferred schedule."
+       "{{fact:changedScope}}. We coordinate the removal around the property's access conditions and your preferred schedule."
       ]
      ]
     },

@@ -38,7 +38,7 @@
     {
      "t": "p",
      "c": [
-      "You can now put a halt to your search for “junk haulers in my area Ajax” because you have finally found “the one.” Whether guests are coming over to stay at home, there are any occasions, facing storage issues due to excess clutter, or just a random cleaning day, we are just a call away with our same-day junk removal Ajax."
+      "You can now put a halt to your search for “junk haulers in my area Ajax” because you have finally found “the one.” Whether guests are coming over to stay at home, there are any occasions, facing storage issues due to excess clutter, or just a random cleaning day, we are just a call away with our same-day junk removal when available Ajax."
      ]
     },
     {
@@ -48,6 +48,21 @@
        "label": "Schedule Now",
        "href": "tel:16479225865"
       }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "marquee",
+     "items": [
+      "House Cleanouts",
+      "Fence Removal",
+      "Shed Demolition",
+      "Yard Waste",
+      "Retail Cleanout",
+      "Deck Demolition"
      ]
     }
    ]
@@ -84,32 +99,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Ajax is undoubtedly one of the most beautiful towns in Canada, and our representatives in the city take full responsibility for keeping it the same way through our local junk removal Ajax. Here’s what sets us apart:"
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Industry Experience",
-       "text": []
-      }
-     ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Ajax is undoubtedly one of the most beautiful towns in Canada, and our representatives in the city take full responsibility for keeping it the same way through our local junk removal Ajax."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Versatile Services",
-       "text": []
-      }
-     ]
+     "text": "Here’s what sets us apart:"
     },
     {
      "t": "h",
@@ -117,29 +107,9 @@
      "text": "We don’t just limit ourselves to removing common household waste. From worn-out furniture, non-functional appliances, and old office equipment to large-scale demolition junk cleanup, we cover it all."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Same-Day Service when available",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Need immediate junk removal? We provide same-day junk removal when available Ajax, ensuring quick, hassle-free cleanup without disrupting your daily routine."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Eco-Friendly Approach",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -147,29 +117,9 @@
      "text": "We are committed to protecting the environment. Rather than simply dumping everything in a landfill, we prioritize recycling and responsible waste management, ensuring eco-friendly junk removal Ajax."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Professional Team",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Our highly skilled and dedicated professionals make the process of waste removal services in Ajax effortless. They arrive on time, equipped with the necessary tools, and work efficiently to clear out your space."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Comprehensive Cleanup",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -250,7 +200,7 @@
       {
        "title": "Quick Arrival & Assessment",
        "text": [
-        "Don’t be surprised if we reach your place within no time with all the necessary pieces of equipment for cleaning. Upon arrival, we assess the junk and provide an upfront cost estimate of the cheapest junk removal Ajax."
+        "Don’t be surprised if we reach your place within no time with all the necessary pieces of equipment for cleaning. {{fact:changedScope}}."
        ]
       },
       {

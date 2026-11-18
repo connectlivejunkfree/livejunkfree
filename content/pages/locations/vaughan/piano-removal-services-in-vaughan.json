@@ -120,7 +120,7 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat price — stairs, elevators and access never bill extra",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "{{fact:propertyProtection}}."
@@ -133,15 +133,6 @@
        "text": [
         [
          "Arrival times arrange around the family’s schedule, and nothing about the visit is staged where the road can see it."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Condo and tower-compliant piano removal",
-       "text": [
-        [
-         "{{fact:insuranceDocs}}."
         ]
        ]
       },
@@ -159,7 +150,7 @@
        "title": "Donation-first for pianos that still play",
        "text": [
         [
-         "Working pianos are checked against donation partners — schools, community centres, churches — before anything is recycled."
+         "Working pianos are checked against donation partners — schools, community centres, churches — before anything is recycled where possible."
         ]
        ]
       },
@@ -195,14 +186,13 @@
     {
      "t": "p",
      "c": [
-      "Every quote is one flat number covering the move, any needed disassembly, building compliance where relevant, and disposal, donation or recycling."
+      "{{fact:changedScope}}."
      ]
     },
     {
      "t": "checks",
      "items": [
-      "Move + Disassembly + Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Move + Disassembly + Haul-Away"
      ]
     },
     {
@@ -266,15 +256,6 @@
        "text": [
         [
          "Call +1 647 922 5865 or book online. Mention any building requirements if it’s a condo or tower suite."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote — Route Measured First",
-       "text": [
-        [
-         "The crew measures the exit path — doorway, stairwell or elevator — and checks whether legs or lids need to come off before giving you one flat price."
         ]
        ]
       },
@@ -399,13 +380,13 @@
        "Coordination around new piano delivery dates"
       ],
       [
-       "Donation-first checks before any piano is recycled"
+       "Donation-first checks before any piano is recycled where possible"
       ],
       [
        "Wall, corner and staircase protection throughout"
       ],
       [
-       "Same-day piano pick up for straightforward access"
+       "Piano pick up for straightforward access"
       ]
      ]
     },
@@ -851,7 +832,7 @@
        "q": "Do you charge extra for stairs or elevators?",
        "a": [
         [
-         "No. Narrow staircases, elevator dimensions and multi-floor moves are all factored into one flat quote at the walkthrough."
+         "No. {{fact:changedScope}}."
         ]
        ]
       },

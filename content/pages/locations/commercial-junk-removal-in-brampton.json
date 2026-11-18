@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Brampton commercial space doesn't come cheap — and yet across the city, paid-for square footage sits buried under retired fixtures, dead equipment and the leftovers of the last fit-out. A storage bay you can't use is rent with no return. Our commercial junk removal services in Brampton exist to flip that math: one call, and an insured junk hauling crew arrives at your unit — from the Steeles industrial corridor to the Queen Street plazas — writes you a free flat-rate quote on the spot, clears the space with their hands instead of yours, and typically drives the whole problem away the same day."
+     "text": "Brampton commercial space doesn't come cheap — and yet across the city, paid-for square footage sits buried under retired fixtures, dead equipment and the leftovers of the last fit-out. A storage bay you can't use is rent with no return."
     },
     {
      "t": "ctas",
@@ -61,7 +61,7 @@
    "blocks": [
     {
      "t": "eyebrow",
-     "text": "PEEL REGION'S FIVE-STAR JUNK REMOVAL"
+     "text": ""
     },
     {
      "t": "h",
@@ -112,7 +112,7 @@
      "items": [
       {
        "n": "01",
-       "title": "Truck-volume junk removal pricing that ignores weight, stairs and sweat",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Our commercial junk removal quotes in Brampton track one variable: how much truck your load fills. Not how heavy the safe is, not how many flights down the freight stairs, not how long the crew works. Fill a quarter truck, pay a quarter-truck price — anywhere in the city, any day of the week."
@@ -124,7 +124,7 @@
        "title": "On-site junk removal quotes anywhere in Brampton — free and firm",
        "text": [
         [
-         "Brampton is big; our estimates still happen in person. A crew lead meets you at the unit — Springdale, Bramalea, downtown, the Heart Lake industrial pocket — walks the full load, and hands over one written flat rate for the entire junk removal job. No fee for coming out, no penalty for saying no."
+         "Brampton is big; our estimates still happen in person. {{fact:changedScope}}. No fee for coming out, no penalty for saying no."
         ]
        ]
       },
@@ -133,7 +133,7 @@
        "title": "We supply the labour — your staff supply exactly nothing",
        "text": [
         [
-         "The real cost of DIY junk disposal is your team’s time: hours of paid labour spent wrestling cubicles into a rented bin. Full-service junk hauling reverses it — our crew dismantles, carries, loads and sweeps while your people stay on shift. Most Brampton clients find that saving alone covers the invoice."
+         "The real cost of DIY junk disposal is your team’s time: hours of paid labour spent wrestling cubicles into a rented bin. {{fact:cleanupScope}}. Most Brampton clients find that saving alone covers the invoice."
         ]
        ]
       },
@@ -212,12 +212,6 @@
      "value": "Junk Load from {{min_price:C}}"
     },
     {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -266,7 +260,7 @@
        "title": "Walk the Load, Pocket the Junk Removal Quote",
        "text": [
         [
-         "Point the crew at everything going — the racking run, the retired office suite, the banquet chairs stacked three hundred deep. It’s all sized against truck volume and returned as a single written flat rate. The quote never expires and never obligates."
+         "{{fact:equipmentScope}}. The quote never expires and never obligates."
         ]
        ]
       },
@@ -281,10 +275,10 @@
       },
       {
        "n": "04",
-       "title": "Swept Floors, Sorted Junk, Signed Paperwork",
+       "title": "Floors, Sorted Junk, Signed Paperwork",
        "text": [
         [
-         "Every Brampton job closes with a broom sweep and, on request, disposal documentation for your landlord or auditor. The truckload gets triaged after: donations to charity partners, metals and e-waste to licensed recyclers, landfill only as the last resort."
+         "{{fact:cleanupScope}}."
         ]
        ]
       }
@@ -325,19 +319,10 @@
        "Full-bay cleanouts across the Steeles, Torbram and Airport Road industrial corridors"
       ],
       [
-       "Pallet racking dismantled and hauled, from single runs to whole systems"
-      ],
-      [
        "Refused freight, write-off inventory and returns-pile disposal"
       ],
       [
        "Skids, strapping, shrink-wrap and packaging waste removal"
-      ],
-      [
-       "Scrap metal, conveyor sections and retired machinery pickup"
-      ],
-      [
-       "Multi-truck convoys scheduled for facility-scale junk removal jobs"
       ]
      ]
     },
@@ -363,9 +348,6 @@
       ],
       [
        "{{fact:weekendPickup}}"
-      ],
-      [
-       "End-of-lease sweeps to landlord-inspection standard"
       ]
      ]
     }
@@ -397,7 +379,7 @@
        "E-waste recycling — towers, monitors, printers, phone systems"
       ],
       [
-       "Broom-swept handover with disposal paperwork for the file"
+       "Handover with disposal paperwork for the file"
       ]
      ]
     },
@@ -741,7 +723,7 @@
        "q": "Will the clear-out disrupt our customers?",
        "a": [
         [
-         "Not if we’re doing it right. Junk pickups get scheduled around your trading hours — pre-open, post-close or weekend — routed through service entrances, and kept entirely off the sales floor. For venues, we work between bookings so no event ever sees a truck."
+         "Not if we’re doing it right. Junk pickups get scheduled around your trading hours — pre-open, post-close or weekend — routed through service entrances, and kept entirely off the sales floor, subject to scheduling. For venues, we work between bookings so no event ever sees a truck."
         ]
        ]
       },
@@ -749,7 +731,7 @@
        "q": "Do you run recurring junk removal contracts in Brampton?",
        "a": [
         [
-         "Constantly — property managers with multi-unit portfolios are our most loyal clients. Weekly, monthly or per-turnover schedules run at the same volume rates, consolidated into one invoice, with one contact who already knows every site’s dock code."
+         "{{fact:changedScope}}."
         ]
        ]
       },

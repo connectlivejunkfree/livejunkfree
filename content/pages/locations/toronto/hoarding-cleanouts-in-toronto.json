@@ -24,11 +24,6 @@
      "text": "Hoarding Cleanouts in Toronto from Live Junk Free"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "Hoarding Cleanouts in Toronto from Live Junk Free — judgment-free, discreet and paced to the family's needs, with an experienced crew, a free on-site quote, and donation-first sorting throughout."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -133,7 +128,7 @@
        "title": "A pace that respects the person living in the space",
        "text": [
         [
-         "Hoarding cleanouts move at whatever speed actually works — some households need one visit, others need several sessions spread over weeks. The resident’s own priorities and comfort guide the schedule wherever that’s possible."
+         "{{fact:scheduling}} The resident’s own priorities and comfort guide the schedule wherever that’s possible."
         ]
        ]
       },
@@ -148,7 +143,7 @@
       },
       {
        "n": "05",
-       "title": "Donation-first sorting, not a straight haul to landfill",
+       "title": "Donation-first not a straight haul to landfill",
        "text": [
         [
          "Furniture, clothing and household goods with life left in them go to donation partners first. Only what’s genuinely unusable goes to disposal, and metals and electronics are routed to licensed recyclers."
@@ -160,7 +155,7 @@
        "title": "Free on-site quotes, with an honest cost to clean out a hoarder's house",
        "text": [
         [
-         "A crew member walks the property, sees the real scope, and gives one flat number before anything moves — no guessing based on a phone description, and once work is underway."
+         "{{fact:changedScope}}."
         ]
        ]
       }
@@ -187,7 +182,7 @@
     {
      "t": "p",
      "c": [
-      "Hoarding cleanout cost depends on the volume of belongings, how many rooms or floors are affected, and how much sorting and donation coordination is involved — a single overloaded room is a modest job, while a full house with years of accumulation across every level costs more given the time and crew size required. The number is confirmed at a free, no-obligation walkthrough, and it’s the same flat structure whatever the reason for the visit."
+      "Hoarding cleanout cost depends on the volume of belongings, how many rooms or floors are affected, and how much donation coordination is involved — a single overloaded room is a modest job, while a full house with years of accumulation across every level costs more given the time and crew size required. The number is confirmed at a free, no-obligation walkthrough, and it’s the same flat structure whatever the reason for the visit."
      ]
     },
     {
@@ -214,7 +209,7 @@
     {
      "t": "p",
      "c": [
-      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -256,29 +251,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Respectful Walkthrough and a Flat Quote",
-       "text": [
-        [
-         "A crew member visits, sees the actual scope of the hoarding cleanout, and provides one flat price — with unmarked arrival if that’s preferred, and no assumptions made about the household."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Methodically, Room by Room",
-       "text": [
-        [
-         "Items get sorted into keep, donate, recycle and dispose categories at a pace that works for the people involved. Anything the resident or family flags as important is set aside first, always."
-        ]
-       ]
-      },
-      {
        "n": "04",
-       "title": "The Space Is Left Clean and Livable",
+       "title": "Careful Removal",
        "text": [
         [
-         "Debris is hauled the same visit where possible, donations go to local partners, and the property is left swept and safe — with follow-up visits available if the job needs to happen in stages."
+         "Debris is hauled the same visit where possible, donations go to local partners, and the property is left and safe — with follow-up visits available if the job needs to happen in stages."
         ]
        ]
       }
@@ -319,7 +296,7 @@
        "Semi, rowhouse and condo access handled by crews experienced with tight Toronto lots and laneways"
       ],
       [
-       "Kitchen, bathroom and bedroom cleared to a livable, safe standard"
+       "Careful Removal"
       ],
       [
        "Basement and attic cleanouts where accumulation has built up over years"
@@ -373,9 +350,6 @@
        "Documentation provided for estate, legal or housing authority requirements"
       ],
       [
-       "Safety-focused clearing where structural or pest concerns need to be flagged for specialists first"
-      ],
-      [
        "Respectful, professional communication with every party involved"
       ]
      ]
@@ -396,9 +370,6 @@
       ],
       [
        "Biohazard, pest infestation or structural concerns flagged for licensed specialists before cleanout continues"
-      ],
-      [
-       "Salvage and donation-first sorting even in the most overwhelmed spaces"
       ],
       [
        "A calm, unhurried crew presence throughout, regardless of how difficult the job looks at the outset"
@@ -1005,7 +976,7 @@
        "q": "What's the cost to clean out a hoarder's house?",
        "a": [
         [
-         "Hoarder clean out cost depends on the volume of belongings, the number of rooms affected, and how much sorting and donation coordination is needed — a single room is a modest job, a full multi-floor property costs more given the time involved. The exact figure is confirmed free at a private walkthrough, with no obligation to proceed."
+         "{{fact:changedScope}}. The exact figure is confirmed free at a private walkthrough, with no obligation to proceed."
         ]
        ]
       },
@@ -1013,7 +984,7 @@
        "q": "What's the best way to clean out a hoarder's house?",
        "a": [
         [
-         "Professional help, a clear plan, and patience — going in with a truck and no strategy usually causes more distress than progress. The most effective approach sorts systematically (keep, donate, recycle, dispose), respects the resident’s input wherever they’re able to give it, and moves at a pace the household can actually handle, sometimes across more than one visit. Safety concerns — structural issues, pest infestations, mould — get identified and handled by the right specialists before the rest of the cleanout continues."
+         "{{fact:structuralDemolition}}."
         ]
        ]
       },
@@ -1029,7 +1000,7 @@
        "q": "Can the cleanout happen while the person continues living in the home?",
        "a": [
         [
-         "Yes, and this is one of the most common ways a hoarding cleanout in Toronto actually happens. Work can proceed room by room while the resident stays in the home throughout, at a pace that keeps the space livable at every stage rather than displacing anyone."
+         "Yes, and this is one of the most common ways a hoarding cleanout in Toronto actually happens."
         ]
        ]
       },

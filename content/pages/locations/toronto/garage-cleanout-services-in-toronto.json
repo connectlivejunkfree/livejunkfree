@@ -137,10 +137,10 @@
       },
       {
        "n": "02",
-       "title": "One flat garage cleanout price, whatever the access point",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "The number is set by the volume in the garage and the sorting it needs — never by whether the truck reaches it through a driveway or a laneway."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -155,19 +155,10 @@
       },
       {
        "n": "04",
-       "title": "Same-day garage cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first garage cleanout sorting for items still in good shape",
-       "text": [
-        [
-         "Working tools, equipment and household items with life left in them go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -203,7 +194,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how full the garage actually is, and how much sorting it genuinely needs. A garage with a few years of accumulated boxes is a modest job. A garage packed floor to ceiling takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A garage with a few years of accumulated boxes is a modest job. A garage packed floor to ceiling takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -215,7 +206,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Laneway or Tight-Access Surcharge, Ever"
      ]
     },
@@ -232,12 +222,6 @@
      "t": "price",
      "label": "Toronto Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -306,7 +290,7 @@
        "title": "Your Garage Is Usable",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready to actually use again."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready to actually use again."
         ]
        ]
       }
@@ -353,12 +337,6 @@
        "Careful protection of fences, gates and tight passageways"
       ],
       [
-       "Same flat pricing as any easier-access property"
-      ],
-      [
-       "Coordination around street parking permits where needed"
-      ],
-      [
        "No access surcharge added after the walkthrough"
       ]
      ]
@@ -384,10 +362,10 @@
        "Multi-visit scheduling for larger garages with years of accumulation"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -413,9 +391,6 @@
        "Discreet timing coordinated with concierge and management"
       ],
       [
-       "Same flat pricing as a residential garage"
-      ],
-      [
        "Common-area and hallway protection throughout"
       ],
       [
@@ -438,10 +413,7 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
@@ -819,7 +791,7 @@
        "q": "How much do garage cleanout services cost in Toronto?",
        "a": [
         [
-         "Pricing is confirmed free at an on-site walkthrough based on how full the garage is and how much sorting it needs — never on whether access is through a driveway or a laneway."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -843,7 +815,7 @@
        "q": "Can you clear a storage locker or underground parking space instead of a traditional garage?",
        "a": [
         [
-         "Yes — building rules and elevator logistics get handled before arrival, at the same flat pricing as a residential garage."
+         "{{fact:changedScope}}."
         ]
        ]
       },

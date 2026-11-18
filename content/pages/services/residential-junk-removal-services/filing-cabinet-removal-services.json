@@ -24,11 +24,6 @@
      "text": "Your Trusted Local Filing Cabinet Removal Experts"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in town."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -149,7 +144,7 @@
     {
      "t": "p",
      "c": [
-      "Moving heavy filing cabinets requires professional handling – that’s where we excel. At Live Junk Free, our specialized removal service takes all the hassle away, delivering a smooth, worry-free experience from start to finish."
+      "Moving heavy filing cabinets requires professional handling – that’s where we excel."
      ]
     },
     {
@@ -227,7 +222,7 @@
       {
        "title": "Secure Recycling Process",
        "text": [
-        "We responsibly recycle metal components and donate functional cabinets to schools/nonprofits"
+        "{{fact:recycling}}"
        ]
       },
       {
@@ -237,13 +232,7 @@
        ]
       },
       {
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        "Cost-effective solutions for multi-unit removals and full office cleanouts"
-       ]
-      },
-      {
-       "title": "Same-Day Availability",
+       "title": "Availability when available",
        "text": [
         "Quick service for urgent office cleanouts, often within hours Why"
        ]
@@ -296,9 +285,6 @@
        "Metal Recycling Program: We carefully dismantle and recycle all steel components through recycling facilities"
       ],
       [
-       "Community Donations: Usable cabinets find new homes in schools, nonprofits, and startups"
-      ],
-      [
        "Waste Reduction: Over 90% the materials we remove avoid landfills through smart processing"
       ]
      ]
@@ -343,9 +329,6 @@
       ],
       [
        "Free On-Spot Quotes – Get accurate estimates by phone, text, or online in minutes"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -391,12 +374,6 @@
        "title": "Send Us Details",
        "text": [
         "Text or upload photos of your filing cabinets - we'll respond in minutes with a free estimate"
-       ]
-      },
-      {
-       "title": "Get Your Price",
-       "text": [
-        "{{fact:competitorComparison}}"
        ]
       },
       {

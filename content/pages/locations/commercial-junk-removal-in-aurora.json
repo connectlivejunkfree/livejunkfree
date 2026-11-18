@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Commercial junk removal in Aurora comes with tight deadlines and heavy lifting. Dumpster rentals need permits, landlords expect broom-swept spaces, and your staff shouldn't have to move heavy filing cabinets or office furniture. That's where we help. Our fully insured team clears offices, storefronts, warehouses, and rental units on your schedule—with free on-site quotes, flexible appointments, and same-day service whenever possible."
+     "text": "Commercial junk removal in Aurora comes with tight deadlines and heavy lifting. That's where we help. Our fully insured team clears offices, storefronts, warehouses, and rental units on your schedule—with free on-site quotes, flexible appointments, and same-day service when available whenever possible."
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "From the office plazas along Wellington Street to the industrial units off Industrial Parkway and the storefronts of downtown Yonge Street, our trucks are a familiar sight across Aurora. The Google reviews behind Live Junk Free include property managers, office administrators and business owners who got exactly what they were promised: crews that arrive inside the window, flat quotes that don’t move, careful handling through lobbies and loading docks, and a space left ready for the next tenant, the next fit-out, or the next workday."
+      "From the office plazas along Wellington Street to the industrial units off Industrial Parkway and the storefronts of downtown Yonge Street, our trucks are a familiar sight across Aurora."
      ]
     },
     {
@@ -126,7 +126,7 @@
        "title": "Free on-site junk removal quotes at your Aurora business",
        "text": [
         [
-         "Not over the phone, not from photos, not from a form. A crew member walks the office, the stockroom or the warehouse floor — including the storage closet nobody’s opened since 2019 — and hands you one flat number. It’s free, it’s firm, and you’re welcome to say no."
+         "Not over the phone, not from photos, not from a form. {{fact:changedScope}}. It’s free, it’s firm, and you’re welcome to say no."
         ]
        ]
       },
@@ -184,19 +184,19 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Flat-Rate Junk Removal Quotes — Volume Decides. You Approve. That's It."
+     "text": "You Approve. That's It."
     },
     {
      "t": "p",
      "c": [
-      "Small pickups start at {{min_price:C}}, single-item jobs stay cheap because they barely dent the truck, and full office or warehouse clears scale in plain sight. Every figure is settled on site before work starts — no hourly clocks, no weight scales, no bin rental sitting in your parking lot racking up daily fees. Book the free quote; keep the number or don’t."
+      "Small pickups start at {{min_price:C}}, single-item jobs stay cheap because they barely dent the truck, and full office or warehouse clears scale in plain sight. {{fact:equipmentScope}}. Book the free quote; keep the number or don’t."
      ]
     },
     {
      "t": "checks",
      "items": [
       "Junk Removal + Haul-Away in One Number",
-      "No Hourly Rates"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -244,7 +244,7 @@
     {
      "t": "p",
      "c": [
-      "No bin permits to file, no dumpsters blocking your customers’ parking. Just this:"
+      "{{fact:permits}} Just this:"
      ]
     }
    ]
@@ -268,7 +268,7 @@
        "title": "Point It Out",
        "text": [
         [
-         "Walk the crew through everything that’s leaving — the retired workstations, the back-room shelving, the pallet of returns nobody claimed. One flat, upfront quote lands in your hand. No obligation attached to it."
+         "Walk the crew through everything that’s leaving — the retired workstations, the back-room shelving, the pallet of returns nobody claimed. {{fact:changedScope}}. No obligation attached to it."
         ]
        ]
       },
@@ -286,7 +286,7 @@
        "title": "Clean Exit, Conscious Disposal",
        "text": [
         [
-         "The space gets swept, the truck gets sorted: donation partners take the usable, licensed recyclers take metals and electronics, and landfill gets last call only. You get your square footage back — and disposal documentation if your records need it."
+         "The space gets, the truck gets sorted: donation partners take the usable, licensed recyclers take metals and electronics, and landfill gets last call only. You get your square footage back — and disposal documentation if your records need it."
         ]
        ]
       }
@@ -367,7 +367,7 @@
        "Decommissioned kitchen equipment and stainless fixtures"
       ],
       [
-       "End-of-lease strip-outs to broom-swept condition"
+       "End-of-lease strip-outs to condition"
       ]
      ]
     }
@@ -384,16 +384,10 @@
      "t": "ul",
      "items": [
       [
-       "Pallet racking, industrial shelving and mezzanine contents"
-      ],
-      [
        "Obsolete inventory, dead stock and unclaimed returns"
       ],
       [
        "Skids, crating, strapping and packaging waste"
-      ],
-      [
-       "Machinery components and scrap metal"
       ],
       [
        "Light demolition debris and renovation leftovers"
@@ -416,9 +410,6 @@
       ],
       [
        "Common-area, storage-locker and mechanical-room purges"
-      ],
-      [
-       "Move-out sweeps between commercial tenants"
       ],
       [
        "Construction and fit-out debris removal"
@@ -727,7 +718,7 @@
        "q": "Do my staff need to move anything beforehand?",
        "a": [
         [
-         "Every hamlet and every concession between, at the same flat pricing as Main Street. The routes pass daily; no address waits longer or pays more."
+         "{{fact:changedScope}}. The routes pass daily; no address waits longer or pays more."
         ]
        ]
       },

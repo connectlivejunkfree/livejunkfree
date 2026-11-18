@@ -124,7 +124,7 @@
        "title": "Free on-site junk removal quotes across every Markham corridor",
        "text": [
         [
-         "Commerce Valley office floor, First Markham Place-area restaurant, Milliken warehouse bay — our crew lead comes to the space, walks the complete load, and writes a single flat junk removal figure covering all of it. The walkthrough costs nothing and the number binds us, not you."
+         "{{fact:changedScope}}. The walkthrough costs nothing and the number binds us, not you."
         ]
        ]
       },
@@ -133,7 +133,7 @@
        "title": "Full-crew junk hauling — zero hours billed to your headcount",
        "text": [
         [
-         "Facilities staff have better tickets to close than furniture removal. Our junk removal crew handles the dismantling, the carrying, the elevator cycles and the final sweep entirely — cubicle farms to food-court fixtures — while your team’s time stays on your own P&L."
+         "Facilities staff have better tickets to close than furniture removal. {{fact:cleanupScope}}."
         ]
        ]
       },
@@ -142,7 +142,7 @@
        "title": "E-waste recycling built into Markham junk removal",
        "text": [
         [
-         "In a city of tech companies, half the junk has a power cord. Towers, monitors, servers, printers, phone systems and bins of mixed electronics all route to licensed e-waste recyclers as standard practice — documented on request — so retired IT leaves your floor and your compliance worries at the same time."
+         "In a city of tech companies, half the junk has a power cord."
         ]
        ]
       },
@@ -193,8 +193,7 @@
     {
      "t": "checks",
      "items": [
-      "Written Flat-Rate Quotes On Site",
-      "{{fact:licensedInsured}}"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -210,12 +209,6 @@
      "t": "price",
      "label": "Markham Junk Removal Pricing",
      "value": "Junk Load from {{min_price:C}}"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -266,7 +259,7 @@
        "title": "Walk the Space, Approve the Junk Removal Quote",
        "text": [
         [
-         "Show the crew the full scope: the decommissioned workstation rows, the retired kitchen line, the storage cage of legacy IT. Everything is measured against truck volume and returned as one written flat rate. Approval starts work immediately; no approval costs nothing."
+         "Show the crew the full scope: the decommissioned workstation rows, the retired kitchen line, the storage cage of legacy IT. {{fact:changedScope}}. Approval starts work immediately; no approval costs nothing."
         ]
        ]
       },
@@ -281,10 +274,10 @@
       },
       {
        "n": "04",
-       "title": "Swept Handover, Sorted Junk Disposal, Documentation Filed",
+       "title": "Handover, Sorted Junk Disposal, Documentation Filed",
        "text": [
         [
-         "Every Markham job closes broom-swept with paperwork available for the file."
+         "Every Markham job closes with paperwork available for the file."
         ]
        ]
       }
@@ -337,7 +330,7 @@
        "Filing rooms, safes and archive shelving emptied and hauled"
       ],
       [
-       "Broom-swept handovers timed to lease and re-stack deadlines"
+       "Handovers timed to lease and re-stack deadlines"
       ]
      ]
     },
@@ -385,9 +378,6 @@
        "Bay cleanouts through Milliken, Denison and the Steeles industrial belt"
       ],
       [
-       "Pallet racking dismantled and removed, single runs to full systems"
-      ],
-      [
        "Obsolete stock, returns and packaging waste hauling"
       ],
       [
@@ -395,9 +385,6 @@
       ],
       [
        "Fit-out and light demolition debris removal between phases"
-      ],
-      [
-       "Multi-truck scheduling for facility-scale clearances"
       ]
      ]
     },
@@ -717,7 +704,7 @@
        "q": "Can you decommission a full office floor on a deadline?",
        "a": [
         [
-         "That’s core work. We stage crews and trucks against your re-stack or lease date, dismantle workstations in place, cycle the freight elevator efficiently, and hand back broom-swept space — with multi-day scheduling for multi-floor projects and the volume pricing scaling transparently throughout."
+         "That’s core work. {{fact:changedScope}}."
         ]
        ]
       },
@@ -749,7 +736,7 @@
        "q": "Do you support recurring junk removal for Markham portfolios?",
        "a": [
         [
-         "It’s our steadiest business line. Weekly, monthly or per-turnover schedules across offices, plazas and mixed portfolios run at unchanged volume rates, consolidated to one invoice, with a single contact who knows every site’s rules and codes."
+         "It’s our steadiest business line. {{fact:changedScope}}."
         ]
        ]
       },
@@ -757,7 +744,7 @@
        "q": "Why are your junk removal rates",
        "a": [
         [
-         "No franchise royalty in the quote — that’s the structural difference. The big names remit a share of every Markham job to head office; we’re independent and local, so identical loads with identical insurance simply cost less, visit after visit."
+         "{{fact:structuralDemolition}}. The big names remit a share of every Markham job to head office; we’re independent and local, so identical loads with identical insurance simply cost less, visit after visit."
         ]
        ]
       }

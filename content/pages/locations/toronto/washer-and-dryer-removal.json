@@ -11,7 +11,7 @@
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
  },
  "title": "Washer and Dryer Removal",
- "h1": "Washer and Dryer removal in Toronto — we disconnect, lift & haul it all away",
+ "h1": "Washer and Dryer removal in Toronto — we, lift & haul it all away",
  "published": "2026-07-12T06:47:43",
  "modified": "2026-07-12T06:47:43",
  "sections": [
@@ -20,7 +20,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Washer and Dryer removal in Toronto — we disconnect, lift & haul it all away"
+     "text": "Washer and Dryer removal in Toronto — we, lift & haul it all away"
     },
     {
      "t": "h",
@@ -74,13 +74,13 @@
         "washer and dryer removal in Toronto"
        ]
       },
-      " gets complicated for most people. The City of Toronto doesn’t pick up large appliances on regular collection days, and most moving companies won’t touch disconnection. You end up caught between services."
+      " gets complicated for most people. {{fact:utilityDisconnection}} You end up caught between services."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Live Junk Free fills that gap completely. We handle the full removal — including safe disconnection of water and electrical lines — and carry everything out from wherever the appliances are in your home. We’re available same-day or next-day across Toronto, pricing is confirmed upfront before we start, and we recycle or donate appliances wherever possible."
+      "Live Junk Free fills that gap completely. {{fact:utilityDisconnection}} We’re available same-day or next-day across Toronto, pricing is confirmed upfront before we start, and we recycle or donate appliances wherever possible, subject to availability."
      ]
     },
     {
@@ -125,10 +125,10 @@
      "c": [
       {
        "b": [
-        "We handle disconnection — not just the lifting."
+        ""
        ]
       },
-      " We don’t. Our crew handles safe disconnection as part of the service, which means you’re not scrambling under a machine with a wrench the morning of your appointment."
+      " We don’t. {{fact:utilityDisconnection}}"
      ]
     },
     {
@@ -147,7 +147,7 @@
      "c": [
       {
        "b": [
-        "Same-day and next-day availability across Toronto."
+        "Availability across Toronto."
        ]
       },
       " Appliance timelines often come with urgency — a new unit arriving tomorrow, a landlord cleanout that needs to happen this week. We accommodate same-day and next-day requests regularly across Scarborough, Etobicoke, North York, and the rest of the city, subject to scheduling."
@@ -169,7 +169,7 @@
      "c": [
       {
        "b": [
-        "Your laundry room stays intact."
+        "{{fact:propertyProtection}}"
        ]
       },
       " Moving heavy appliances through tight doorways and around corners is how floors get scratched and walls get dented. Our crew uses furniture pads and proper moving equipment throughout — licensed, insured, and careful with your property from start to finish."
@@ -213,7 +213,7 @@
          "Type of dryer"
         ]
        },
-       " — gas dryer disconnection requires additional care and time compared to electric units"
+       " "
       ],
       [
        {
@@ -260,31 +260,13 @@
       {
        "title": "Flexible Scheduling",
        "text": [
-        "Work around your timeline with next-day or weekend slots available. Same-day services are also available."
-       ]
-      },
-      {
-       "title": "Pricing",
-       "text": [
-        "{{fact:competitorComparison}}"
+        "Work around your timeline with next-day or weekend slots available, subject to scheduling. Same-day services when available are also available."
        ]
       },
       {
        "title": "Eco-Friendly Disposal",
        "text": [
-        "We recycle materials and donate usable furniture to local charities"
-       ]
-      },
-      {
-       "title": "Careful Removal",
-       "text": [
-        "We protect your home during removal with padding and careful handling"
-       ]
-      },
-      {
-       "title": "Bulk Removal Options",
-       "text": [
-        "Special rates when clearing multiple pieces of furniture"
+        "We recycle materials and donate suitable furniture where possible"
        ]
       },
       {
@@ -309,10 +291,10 @@
      "c": [
       {
        "b": [
-        "Book it today, gone today"
+        "{{fact:pickupTimes}}"
        ]
       },
-      " Same-day and next-day slots are available across Toronto most days of the week, including weekends. We work around your delivery schedule, not a two-week waitlist."
+      " {{fact:scheduling}} We work around your delivery schedule, not a two-week waitlist."
      ]
     },
     {
@@ -320,7 +302,7 @@
      "c": [
       {
        "b": [
-        "{{fact:competitorComparison}}"
+        ""
        ]
       },
       " No separate charges added at the end of the job."
@@ -331,7 +313,7 @@
      "c": [
       {
        "b": [
-        "Appliances recycled, not just dumped"
+        "Appliances recycled where possible, not just dumped"
        ]
       },
       " We route washing machines and dryers to recycling facilities that recover metals, motors, and usable components. Working units go to local donation partners before they’re processed as waste."
@@ -356,7 +338,7 @@
         "One unit or a full laundry room clearout"
        ]
       },
-      " Whether it’s a single washing machine or a complete commercial laundry room decommission, we scale to the job. Larger loads come with volume pricing that makes the per-unit cost more efficient."
+      " Whether it’s a single washing machine or a complete commercial laundry room decommission, we scale to the job. {{fact:changedScope}}."
      ]
     },
     {
@@ -367,7 +349,7 @@
         "You do nothing at all"
        ]
       },
-      " No disconnecting hoses, no pulling machines away from the wall, no trip to the elevator lobby. We handle everything from the laundry room door to the recycling facility."
+      " {{fact:utilityDisconnection}} We handle everything from the laundry room door to the recycling facility."
      ]
     }
    ]
@@ -441,9 +423,6 @@
        "Electric dryers"
       ],
       [
-       "Gas dryers (disconnection handled safely)"
-      ],
-      [
        "Vented and condenser dryers"
       ],
       [
@@ -507,9 +486,6 @@
        "Full washer and dryer set removal"
       ],
       [
-       "Rental property and multi-unit laundry room clearouts"
-      ],
-      [
        "Condo laundry room upgrades"
       ],
       [
@@ -544,7 +520,7 @@
       {
        "title": "Our Team Arrives On Time",
        "text": [
-        "We call 30 minutes before showing up so you're never left waiting. Our crew arrives on schedule, confirms your quote on the spot, and gets straight to work."
+        "We call 30 minutes before showing up so you're never left waiting. Our crew arrives on schedule, confirms your quote at the onsite estimate, and gets straight to work."
        ]
       },
       {
@@ -556,7 +532,7 @@
       {
        "title": "Responsible Disposal, Every Time",
        "text": [
-        "Usable pieces get donated to local Toronto charities. Everything else goes to recycling facilities. We keep as much out of landfill as possible."
+        "Everything else goes to recycling facilities. We keep as much out of landfill as possible."
        ]
       }
      ]
@@ -569,7 +545,7 @@
     {
      "t": "p",
      "c": [
-      "A cluttered laundry room with old, non-working appliances drains the energy out of a space that could be genuinely useful. Take a look at what our Toronto crew has cleared — full appliance sets removed cleanly, leaving a room that’s ready for new units, storage, or a complete refresh."
+      "{{fact:utilityDisconnection}} Take a look at what our Toronto crew has cleared — full appliance sets removed cleanly, leaving a room that’s ready for new units, storage, or a complete refresh."
      ]
     },
     {
@@ -625,7 +601,7 @@
        "q": "Q: Do you disconnect the washer and dryer before removing them?",
        "a": [
         [
-         "A: Yes — disconnection is included in our service. We handle water supply lines, drain hoses, and electrical connections. You don’t need to touch anything before we arrive."
+         "{{fact:utilityDisconnection}} You don’t need to touch anything before we arrive."
         ]
        ]
       },
@@ -649,7 +625,7 @@
        "q": "Q: Can you remove a stackable washer and dryer unit from a condo in Toronto?",
        "a": [
         [
-         "A: Absolutely. Stackable units in condo laundry closets are one of the more common jobs we handle. We work within building access requirements, coordinate elevator bookings, and use protective pads on common area walls and floors. Just let us know it’s a stacked unit and a condo when you book."
+         "A: Absolutely. Stackable units in condo laundry closets are one of the more common jobs we handle. {{fact:propertyProtection}}. Just let us know it’s a stacked unit and a condo when you book."
         ]
        ]
       },

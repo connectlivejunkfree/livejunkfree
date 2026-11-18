@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Bereavement cleanout services in Nobleton from Live Junk Free hand off only the part most families would rather not carry themselves — the hauling — while you keep the time spent going through a loved one's things at your own pace, priced flat with no minimum-job padding."
+     "text": "{{fact:propertyProtection}}"
     },
     {
      "t": "ctas",
@@ -73,11 +73,6 @@
   {
    "blocks": [
     {
-     "t": "h",
-     "l": 2,
-     "text": "Why Do Nobleton Families Handle the Sorting Themselves for Bereavement Cleanout?"
-    },
-    {
      "t": "p",
      "c": [
       "Because going through a loved one’s belongings is often something a family genuinely wants to do personally, at their own pace, in their own time — not something to hand off entirely. What’s actually worth handing off is the physical part: loading a truck, making trips to donation centres, hauling what’s left, on top of everything else already involved in a loss like this. Live Junk Free takes on exactly that part, so the family keeps the time with their loved one’s things and the crew handles the rest."
@@ -121,15 +116,6 @@
     {
      "t": "steps",
      "items": [
-      {
-       "n": "01",
-       "title": "No minimum-job padding on bereavement cleanout pricing",
-       "text": [
-        [
-         "A small bereavement cleanout — one room, a handful of items — prices honestly for what it actually involves, never inflated to match an assumption about what it should cost."
-        ]
-       ]
-      },
       {
        "n": "02",
        "title": "The family keeps every decision during bereavement cleanout",
@@ -225,7 +211,7 @@
     {
      "t": "p",
      "c": [
-      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -289,7 +275,7 @@
        "title": "A Space That's Clean and Ready",
        "text": [
         [
-         "We complete a final walkthrough, sweep the area, and leave the space ready for whatever comes next."
+         "We complete a final walkthrough, and leave the space ready for whatever comes next."
         ]
        ]
       }
@@ -324,10 +310,7 @@
        "Bereavement cleanouts where the family keeps every sorting decision"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Documentation available for an executor or estate file"
@@ -346,7 +329,7 @@
        "Bereavement cleanouts for homes around the King Road and Highway 27 corner"
       ],
       [
-       "Same-day service for straightforward village access"
+       "Service for straightforward village access"
       ],
       [
        "Family updates available for anyone coordinating from off-island"
@@ -372,9 +355,6 @@
        "Bereavement cleanouts on hobby farms and larger properties across the concessions"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Coordination with family members involved in settling the estate"
       ],
       [
@@ -397,10 +377,7 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ]
      ]
     }

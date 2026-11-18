@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "Around the King Road village core, that’s usually a more contained unit. On larger properties, an apartment cleanout is often part of a coach house, above a garage, or a separate guest suite."
+      "On larger properties, an apartment cleanout is often part of a coach house, above a garage, or a separate guest suite."
      ]
     },
     {
@@ -137,7 +137,7 @@
       },
       {
        "n": "02",
-       "title": "One flat apartment cleanout price — the address never inflates it",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number reflects the actual work involved, never an assumption about the property’s location or value."
@@ -209,7 +209,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -230,7 +229,7 @@
     {
      "t": "p",
      "c": [
-      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -272,15 +271,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Quiet Walkthrough, One Flat Quote",
-       "text": [
-        [
-         "A crew member visits at a time you choose, sees the actual unit, and gives one flat price."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Apartment Gets Cleared, Without an Audience",
        "text": [
@@ -294,7 +284,7 @@
        "title": "The Unit Is Ready, and a Street That Never Knew",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready to use, with the same discretion on the way out as on the way in."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready to use, with the same discretion on the way out as on the way in."
         ]
        ]
       }
@@ -335,7 +325,7 @@
        "No client's situation discussed with anyone outside the job"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -348,16 +338,10 @@
      "t": "ul",
      "items": [
       [
-       "Apartment cleanouts in more contained rentals around the King Road core"
-      ],
-      [
        "Identical discretion and pricing standard as a larger property"
       ],
       [
        "Damage or abandonment documentation available on request"
-      ],
-      [
-       "Same flat pricing regardless of the building's age"
       ]
      ]
     }
@@ -381,9 +365,6 @@
       ],
       [
        "Same fair standard as anywhere in the region"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
       ]
      ]
     },
@@ -402,10 +383,10 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }

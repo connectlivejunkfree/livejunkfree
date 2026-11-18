@@ -126,7 +126,7 @@
        "title": "Storage unit cleanout scoped honestly, priced once",
        "text": [
         [
-         "A crew member sees the actual unit, sizes up the real job, and gives one flat number built to cover it properly, not a rough guess that might not hold."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -144,25 +144,16 @@
        "title": "One flat storage unit cleanout price, confirmed before anything moves",
        "text": [
         [
-         "The number reflects what a crew member actually sees on site, and it holds regardless of what the sorting turns up."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Same-day storage unit cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first storage unit cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -225,7 +216,7 @@
     {
      "t": "p",
      "c": [
-      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -267,15 +258,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual unit, scopes what the job genuinely requires, and gives you one flat price before touching anything."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Unit Gets Cleared, With a Careful Eye",
        "text": [
@@ -289,7 +271,7 @@
        "title": "Your Unit Is Empty and Ready to Return",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and genuinely ready, not just superficially cleared."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and genuinely ready, not just superficially cleared."
         ]
        ]
       }
@@ -330,10 +312,7 @@
        "Documentation available for families, students, or facility records when needed"
       ],
       [
-       "Same flat pricing regardless of who holds the storage agreement"
-      ],
-      [
-       "Same-day completion available for most straightforward units"
+       "Same-day completion may be available for most straightforward units"
       ]
      ]
     },
@@ -349,13 +328,7 @@
        "Cleanouts for storage units that families have used and maintained for many years"
       ],
       [
-       "Thorough sorting of furniture, boxes, household belongings, and stored items"
-      ],
-      [
        "Donation-first approach before recyclable or unwanted items are disposed of"
-      ],
-      [
-       "Consistent flat-rate pricing regardless of how long the unit has been rented"
       ],
       [
        "Documentation available when required for family or property records"
@@ -381,13 +354,10 @@
        "Coordination with storage facility management when timing or access needs to be arranged"
       ],
       [
-       "Same flat pricing, even when the cleanout needs to be completed on a tight schedule"
-      ],
-      [
        "Priority scheduling available for time-sensitive lease-end cleanouts"
       ],
       [
-       "Same-day completion available for most straightforward units"
+       "Same-day completion may be available for most straightforward units"
       ]
      ]
     },
@@ -403,16 +373,16 @@
        "Full or partial storage unit cleanouts based on the actual amount of work required"
       ],
       [
-       "Sorting and removal of furniture, boxes, household belongings, and other stored items"
+       "Removal of furniture, boxes, household belongings, and other stored items"
       ],
       [
-       "Donation-first checks before items are recycled or responsibly disposed of"
+       "Donation-first checks before items are recycled where possible or responsibly disposed of"
       ],
       [
        "Efficient turnaround for straightforward storage unit cleanouts"
       ],
       [
-       "Same-day service available when the unit has straightforward access"
+       "Same-day service may be available when the unit has straightforward access"
       ]
      ]
     }

@@ -201,8 +201,7 @@
     {
      "t": "checks",
      "items": [
-      "Move + Disassembly + Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Move + Disassembly + Haul-Away"
      ]
     },
     {
@@ -292,7 +291,7 @@
        "title": "Hauled Out and Gone, Same Visit",
        "text": [
         [
-         "The piano leaves the same day in most cases, with the space it occupied left clear and undamaged — floors, walls and any deck or dock surfaces along the route checked before the crew leaves."
+         "The piano leaves the same day in most cases, with the space it occupied left clear and undamaged — floors, walls and any deck or dock surfaces along the route checked before the crew leaves, subject to availability."
         ]
        ]
       }
@@ -342,9 +341,6 @@
        "Dock-adjacent and deck-access removal handled carefully"
       ],
       [
-       "Same flat pricing as any inland property"
-      ],
-      [
        "Coordination around when the property is actually reachable"
       ]
      ]
@@ -370,10 +366,7 @@
        "Coordination around new piano delivery dates"
       ],
       [
-       "Same-day service for straightforward access"
-      ],
-      [
-       "Donation-first sorting before any recycling"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -391,12 +384,6 @@
      "items": [
       [
        "Piano removal on rural and farm properties away from the shoreline"
-      ],
-      [
-       "Same flat pricing regardless of distance from the lake"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ],
       [
        "Careful handling around working farm operations"
@@ -843,7 +830,7 @@
        "q": "Do you charge extra for stairs or a tricky cottage layout?",
        "a": [
         [
-         "No. Sunroom additions, loft stairs and walkout decks all get measured at the free walkthrough and factored into one flat price, not billed as a surprise once the crew’s already there. "
+         "No. {{fact:changedScope}}. "
         ]
        ]
       },

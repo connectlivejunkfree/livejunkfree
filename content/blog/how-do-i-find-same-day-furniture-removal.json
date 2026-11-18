@@ -47,7 +47,7 @@
         "furniture removal"
        ]
       },
-      " is easier than ever—if you know what to look for. At Live Junk Free, we help homeowners and businesses across the GTA remove unwanted furniture quickly, often with same-day or next-day service options."
+      " is easier than ever—if you know what to look for. At Live Junk Free, we help homeowners and businesses across the GTA remove unwanted furniture quickly, often with same-day or next-day service options when available."
      ]
     },
     {
@@ -216,13 +216,13 @@
      "t": "ul",
      "items": [
       [
-       "Same-day availability"
+       "Same-day availability when available"
       ],
       [
-       "Next-day appointments"
+       "Next-day appointments when available"
       ],
       [
-       "Weekend service"
+       "Weekend service (subject to scheduling)"
       ],
       [
        "{{fact:weekendPickup}}"
@@ -353,7 +353,7 @@
     {
      "t": "p",
      "c": [
-      "The more versatile the company, the easier it is to remove multiple items in one visit."
+      "The more versatile the company, the easier it is to remove multiple items."
      ]
     }
    ]
@@ -677,7 +677,7 @@
     {
      "t": "p",
      "c": [
-      "If you’re wondering how to find same-day furniture removal, the answer is to look for a local company that offers fast scheduling, full-service removal, transparent pricing, and responsible disposal practices."
+      "If you’re wondering how to find same-day furniture removal when available, the answer is to look for a local company that offers fast scheduling, full-service removal, transparent pricing, and responsible disposal practices."
      ]
     },
     {

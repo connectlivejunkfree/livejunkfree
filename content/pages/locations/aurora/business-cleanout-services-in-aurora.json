@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Business cleanout services in Aurora from Live Junk Free work the same way whether it's a solo practitioner's small office or a larger, established business with years of accumulated fixtures — same crew, same competency, same flat pricing formula, whatever the business actually looks like."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -116,7 +116,7 @@
     {
      "t": "p",
      "c": [
-      "No — the number reflects the actual volume and sorting required, at the same rate whatever the business’s size or type. A larger business costs more only because there’s genuinely more to clear."
+      "{{fact:cleanupScope}}. A larger business costs more only because there’s genuinely more to clear."
      ]
     }
    ]
@@ -126,15 +126,6 @@
     {
      "t": "steps",
      "items": [
-      {
-       "n": "01",
-       "title": "One flat business cleanout price, whatever the business's size",
-       "text": [
-        [
-         "The number is set by the actual volume involved — never by how large the business is, and never by an assumption about what kind of business it should be."
-        ]
-       ]
-      },
       {
        "n": "02",
        "title": "Real business cleanout competency across every kind of Aurora business",
@@ -149,7 +140,7 @@
        "title": "Free business cleanout quotes that scope the real job first",
        "text": [
         [
-         "A crew member walks the actual space and gives one flat number based on what’s really there, not a generic assumption."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -164,7 +155,7 @@
       },
       {
        "n": "05",
-       "title": "Same-day business cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
@@ -203,7 +194,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the space, and how much sorting it genuinely needs. A small solo office is a modest job. A larger established business with years of accumulated fixtures takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small solo office is a modest job. A larger established business with years of accumulated fixtures takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -215,8 +206,7 @@
     {
      "t": "checks",
      "items": [
-      "Hauling-Away",
-      "{{fact:competitorComparison}}"
+      "Hauling-Away"
      ]
     },
     {
@@ -232,12 +222,6 @@
      "t": "price",
      "label": "Aurora Business Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -279,16 +263,7 @@
        "title": "Book Your Business Cleanout Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual space, whatever its size, and gives you one flat price before anything moves."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       },
@@ -306,7 +281,7 @@
        "title": "Your Space Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left and ready for whatever comes next."
         ]
        ]
       }
@@ -350,13 +325,10 @@
        "Careful removal that protects original fixtures and finishes"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
-       "Same-day service for straightforward downtown access"
-      ],
-      [
-       "Same flat pricing as any larger business"
+       "Service for straightforward downtown access"
       ],
       [
        "Full protection of finished floors throughout"
@@ -381,13 +353,7 @@
        "Coordination around new lease or renovation dates"
       ],
       [
-       "Same-day service for straightforward access"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
-      ],
-      [
-       "Same flat pricing as anywhere in Aurora"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -438,16 +404,13 @@
        "Full sort of furniture, fixtures and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -848,14 +811,6 @@
        ]
       },
       {
-       "q": "Do you charge extra for a space that's completely packed?",
-       "a": [
-        [
-         "The price reflects the actual volume and sorting required, not a flat surcharge."
-        ]
-       ]
-      },
-      {
        "q": "What happens to fixtures and equipment still in good condition?",
        "a": [
         [
@@ -914,7 +869,7 @@
          "1. Why would a business in Aurora need a professional cleanout?"
         ],
         [
-         "A business may need a cleanout when closing, relocating, downsizing, renovating, or preparing to hand over a commercial property. It can save employees and owners from spending days sorting, carrying, and hauling unwanted items."
+         "A business may need a cleanout when closing, relocating, downsizing, renovating, or preparing to hand over a commercial property. It can save employees and owners from spending days carrying, and hauling unwanted items."
         ],
         [
          "2. What does a complete commercial property cleanout involve?"

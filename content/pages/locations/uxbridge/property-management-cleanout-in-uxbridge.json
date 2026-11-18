@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Rental properties in Uxbridge don't look like rental properties in the city. A tenancy here might be a farmhouse on a concession road, an apartment above a Brock Street shop, or a coach house on ten acres near Goodwood. Live Junk Free handles property management cleanout in Uxbridge for all of it — cleared on your lease timeline, documented for your file, and quoted at one flat number per unit."
+     "text": "Rental properties in Uxbridge don't look like rental properties in the city. A tenancy here might be a farmhouse on a concession road, an apartment above a Brock Street shop, or a coach house on ten acres near Goodwood."
     },
     {
      "t": "ctas",
@@ -131,29 +131,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Documentation captured before the first item moves",
-       "text": [
-        [
-         ""
-        ]
-       ]
-      },
-      {
        "n": "03",
-       "title": "Portfolio pricing that ignores how many doors you own",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Whether it’s one rental property or fifteen, the per-unit number is calculated the same way. Portfolio size affects your scheduling priority and your invoice consolidation — it never inflates the individual price."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "One flat price, confirmed at the walkthrough",
-       "text": [
-        [
-         "A crew member sees the actual unit and gives you one number before anything moves. No per-item tallying, no charge added once the truck starts filling."
         ]
        ]
       },
@@ -198,7 +180,7 @@
     {
      "t": "p",
      "c": [
-      "Volume first, sorting second. A rental unit handed back mostly empty is a short job. A unit left with furniture in every room, appliances still connected, a garage of household items, and a barn bay nobody has opened in three years is a genuinely bigger one — and the property management cleanout cost in Uxbridge reflects that difference honestly rather than hiding it in surcharges."
+      "{{fact:cleanupScope}}. A rental unit handed back mostly empty is a short job. A unit left with furniture in every room, appliances still connected, a garage of household items, and a barn bay nobody has opened in three years is a genuinely bigger one — and the property management cleanout cost in Uxbridge reflects that difference honestly rather than hiding it in surcharges."
      ]
     },
     {
@@ -210,8 +192,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -231,7 +212,7 @@
     {
      "t": "p",
      "c": [
-      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -273,15 +254,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Free on-site walkthrough and flat quote",
-       "text": [
-        [
-         "The crew walks the unit and any outbuildings, then gives one flat price per unit before anything is touched. That confirms your property management cleanout pricing in advance, with no revision once work starts."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Cleared, sorted, and photographed",
        "text": [
@@ -292,7 +264,7 @@
       },
       {
        "n": "04",
-       "title": "Swept, documented, ready to list",
+       "title": ", documented, ready to list",
        "text": [
         [
          "You get a broom-clean vacant rental unit, a photo set, and an invoice for your property records — in time for the listing photos rather than after them."
@@ -361,13 +333,10 @@
        "Fast turnaround so the unit is ready before listing photos, not after"
       ],
       [
-       "Same flat pricing whether you booked three weeks out or yesterday"
-      ],
-      [
        "Tenant turnover cleanout requests accepted on short notice"
       ],
       [
-       "Same-day property management cleanout where access and routing allow"
+       "Property management cleanout where access and routing allow"
       ],
       [
        "Damage assessment noted and photographed during the visit"
@@ -383,13 +352,10 @@
      "t": "ul",
      "items": [
       [
-       "Multiple properties across the township routed into one visit"
+       "{{fact:pickupTimes}}"
       ],
       [
        "Consolidated quote structure and single invoice for property managers"
-      ],
-      [
-       "Same flat per-unit price regardless of property portfolio size"
       ],
       [
        "Standing arrangements for landlords with predictable seasonal turnover"
@@ -419,9 +385,6 @@
       ],
       [
        "Discreet handling — unmarked approach available on small-town streets"
-      ],
-      [
-       "Same flat pricing as any other property management cleanout"
       ],
       [
        "Coordination with legal representatives where relevant"
@@ -832,7 +795,7 @@
        "q": "How much does property management cleanout cost in Uxbridge?",
        "a": [
         [
-         "It’s confirmed free at the on-site walkthrough and based on volume and sorting required. Distance from town, urgency, and the number of properties you manage don’t change the per-unit number. "
+         "{{fact:cleanupScope}}. Distance from town, urgency, and the number of properties you manage don’t change the per-unit number. "
         ]
        ]
       },
@@ -864,7 +827,7 @@
        "q": "How fast can a unit be turned over between tenants?",
        "a": [
         [
-         "Often the same day you call."
+         "Often the same day when available you call."
         ]
        ]
       }

@@ -24,11 +24,6 @@
      "text": "Trusted by Homeowners – Washer & Dryer Removal"
     },
     {
-     "t": "h",
-     "l": 4,
-     "text": "We are the best in town."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -63,7 +58,7 @@
     {
      "t": "p",
      "c": [
-      "Outdated washers and dryers don’t belong in your modern home. Our expert washer removal and dryer removal team specializes in all makes and models – from space-saving combos to industrial-grade units. Let us clear out those energy-draining relics cluttering your laundry area for good."
+      "Outdated washers and dryers don’t belong in your modern home. Our expert washer removal and dryer removal team specializes in all makes and models – from space-saving combos to industrial-grade units. {{fact:utilityDisconnection}}"
      ]
     },
     {
@@ -108,7 +103,7 @@
     {
      "t": "p",
      "c": [
-      "Tired of that old washer and dryer taking up valuable space? We’ll safely disconnect your units, protect your floors and walls during removal, and haul everything away, leaving your laundry area tidy and ready for your next upgrade."
+      "Tired of that old washer and dryer taking up valuable space? {{fact:utilityDisconnection}}"
      ]
     },
     {
@@ -163,19 +158,19 @@
         "Live Junk Free"
        ]
       },
-      ", you’ll enjoy a completely worry-free experience from start to finish, and we take care of all the heavy lifting, disconnections, and cleanup so you don’t have to."
+      "Careful Removal"
      ]
     },
     {
      "t": "p",
      "c": [
-      "We understand laundry appliance removal often needs to happen quickly – whether you’re upgrading to new energy-efficient models, converting your laundry space, or just tired of those old machines taking up valuable room. That’s why we offer same-day and next-day removal services whenever possible, helping you reclaim your space without delay."
+      "We understand laundry appliance removal often needs to happen quickly – whether you’re upgrading to new energy-efficient models, converting your laundry space, or just tired of those old machines taking up valuable room. That’s why we offer same-day and next-day removal services when available whenever possible, helping you reclaim your space without delay."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Attempting to move heavy washers and dryers yourself risks water damage from disconnected hoses, gas line issues with dryers, back injuries from awkward lifting, and potential damage to your floors and walls. Our fully licensed and insured team eliminates these risks while carefully protecting your home throughout the entire removal process."
+      "{{fact:utilityDisconnection}} Our fully licensed and insured team eliminates these risks while carefully protecting your home throughout the entire removal process."
      ]
     },
     {
@@ -235,11 +230,6 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Your quoted price includes everything: disconnections, removal, recycling fees, and full cleanup – no surprises."
-    },
-    {
-     "t": "h",
-     "l": 3,
      "text": "Professional-Grade Equipment"
     },
     {
@@ -251,11 +241,6 @@
      "t": "h",
      "l": 3,
      "text": "Environmentally Responsible"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "We ensure proper recycling of all components and donate working units to local shelters and community organizations."
     },
     {
      "t": "h",
@@ -306,12 +291,6 @@
        "title": "Schedule Your Pickup",
        "text": [
         "Select same-day or next-day service when available that fits your schedule."
-       ]
-      },
-      {
-       "title": "We Do the Rest",
-       "text": [
-        ""
        ]
       }
      ]
@@ -372,7 +351,7 @@
        "q": "Will you disconnect my washer and dryer before taking them?",
        "a": [
         [
-         "Absolutely. Our technicians do not disconnect all water lines, drain hoses, gas lines (for dryers), and electrical connections following safety protocols before removal. "
+         "Absolutely. {{fact:utilityDisconnection}} "
         ]
        ]
       },
@@ -396,7 +375,7 @@
        "q": "Can I schedule a same-day pickup?",
        "a": [
         [
-         "Yes, we often accommodate same-day requests when you call early. Our flexible scheduling can typically arrange removal within hours for urgent needs."
+         "Yes, we often accommodate same-day requests when you call early, subject to availability. Our flexible scheduling can typically arrange removal within hours for urgent needs."
         ]
        ]
       },
@@ -404,7 +383,7 @@
        "q": "Do you recycle or donate old washers and dryers?",
        "a": [
         [
-         "We prioritize recycling all components and donate working units to charities."
+         "{{fact:recycling}}"
         ]
        ]
       },
@@ -412,7 +391,7 @@
        "q": "Do I need to clean my washer and dryer before removal?",
        "a": [
         [
-         "Just empty them. {{fact:cleanupScope}}. For washers, we recommend running a drain cycle beforehand to remove excess water."
+         "Just empty them. {{fact:cleanupScope}}. {{fact:utilityDisconnection}}"
         ]
        ]
       },

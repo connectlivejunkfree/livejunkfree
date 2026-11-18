@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Village properties rarely have just one role. The Main Street building with the shop below and the apartment above. The house whose barn moonlights as workshop, warehouse and museum. The farm where three generations of usefulness never quite left. Clearing places like these takes a crew that can read a mixed space — and that’s us. One free walkthrough covering every room and role, one flat quote, and a fully insured team that sorts, hauls and sweeps until the whole property is ready for its next chapter."
+      "Village properties rarely have just one role. The Main Street building with the shop below and the apartment above. The house whose barn moonlights as workshop, warehouse and museum. The farm where three generations of usefulness never quite left. Clearing places like these takes a crew that can read a mixed space — and that’s us. {{fact:changedScope}}."
      ]
     },
     {
@@ -97,44 +97,14 @@
      "text": "This village keeps its history close: heritage buildings along Main Street that have been shop, storeroom and home in a single lifetime, family houses on the streets behind, and farm properties rolling out toward the King countryside. Live Junk Free clears them all at full-service strength — Google reviews earned across the region, with small communities like this one served weekly, not reluctantly."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "One volume-based price covers every role the property plays",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Shop stock, household furniture, barn accumulation — it all measures the same way: total truck space. Mixed-use clears ride as one flat job, always cheaper than booking the parts separately, and no village or rural address pays a travel premium."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "We walk every layer before naming a number",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Mixed properties hide volume in their seams — the storeroom behind the shop, the loft above the drive shed, the cellar under the addition. The free walkthrough covers all of it with you, and the flat figure that follows is firm because nothing went unseen."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Approved means locked, layer after layer",
-       "text": []
-      }
-     ]
+     "text": "Mixed properties hide volume in their seams — the storeroom behind the shop, the loft above the drive shed, the cellar under the addition."
     },
     {
      "t": "h",
@@ -142,44 +112,9 @@
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} When the barn's second level turns out to be as full as its first, that discovery is ours to absorb."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Old buildings and old things get knowing hands",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Heritage structures come with narrow stairs, original trim and floors that have earned gentleness — and their contents often include pieces worth more than they look. Our crews protect the building and sort the contents with equal care: anything with age, craft or story gets flagged for your call before it loads."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Village pace respected, start to finish",
-       "text": []
-      }
-     ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "The quote is free, holds without deposit or expiry, and the work can run as one sweep or several visits — the shop level this month, the upstairs when the tenant's out, the barn come spring. Volume pricing treats them all the same."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent pricing",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -194,11 +129,6 @@
      "t": "h",
      "l": 2,
      "text": "What a Cleanout Costs in Schomberg"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "One Flat Figure — Shopfront, Home and Barn Together"
     },
     {
      "t": "h",
@@ -270,7 +200,7 @@
        ]
       },
       {
-       "title": "4. Swept and Ready for What's Next",
+       "title": "4. and Ready for What's Next",
        "text": [
         "Every cleared space gets a broom finish — ready to re-let, re-list, renovate or simply use again. The loads move on with priorities: donation first, recycling and scrap second, landfill last and least."
        ]
@@ -327,7 +257,7 @@
          "Basement and attic emptying"
         ],
         [
-         "Pre-sale cleanouts, swept for listing photos"
+         "Pre-sale cleanouts for listing photos"
         ],
         [
          "New-owner clears — everything the sellers left behind"
@@ -358,7 +288,7 @@
        "q": "Estate & Transition Cleanouts in Schomberg",
        "a": [
         [
-         "Estate cleanouts — patient, documented, valuables returned to family"
+         ""
         ],
         [
          "Downsizing clears for long-rooted village households"
@@ -509,7 +439,7 @@
        "q": "Q: Can you clear a Main Street building with the shop downstairs and the apartment upstairs?",
        "a": [
         [
-         "A: In one job, one quote and usually one visit — mixed-use clears are precisely the work this page describes. Stock, fixtures, household contents and the storeroom nobody’s opened since the last owner: sorted by role, hauled together, priced by combined volume."
+         "{{fact:scheduling}} Stock, fixtures, household contents and the storeroom nobody’s opened since the last owner: sorted by role, hauled together, priced by combined volume."
         ]
        ]
       },
@@ -525,7 +455,7 @@
        "q": "Q: There could be antiques mixed in — the village is known for them. How is that handled?",
        "a": [
         [
-         "A: With the assumption that there are. Anything with age, craft or maker’s marks gets set aside rather than loaded, gathered for your review or your appraiser’s. In a village with Schomberg’s history, sorting carelessly would be malpractice — so we don’t."
+         "A: With the assumption that there are. Anything with age, craft or maker’s marks gets set aside rather than loaded, gathered for your review or your appraiser’s. {{fact:cleanupScope}}."
         ]
        ]
       },

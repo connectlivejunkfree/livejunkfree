@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because Brampton’s apartment and condo stock is spread across genuinely different corners of the city — downtown’s rental towers, Bramalea’s mid-rise buildings, and everything in between. Live Junk Free brings the same crew, the same equipment and the same flat pricing to every one of them, whether the call comes from a downtown tower or a smaller building in Heart Lake."
+      "Because Brampton’s apartment and condo stock is spread across genuinely different corners of the city — downtown’s rental towers, Bramalea’s mid-rise buildings, and everything in between. {{fact:changedScope}}."
      ]
     },
     {
@@ -154,15 +154,6 @@
        ]
       },
       {
-       "n": "04",
-       "title": "One flat apartment cleanout price, confirmed before anything moves",
-       "text": [
-        [
-         "A crew member sees the actual unit and gives one flat number before anything moves."
-        ]
-       ]
-      },
-      {
        "n": "05",
        "title": "Apartment cleanout documentation available for landlords and property files",
        "text": [
@@ -203,7 +194,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the unit, and how much sorting it genuinely needs. A lightly furnished studio is a modest job. A larger unit with years of accumulated belongings takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A lightly furnished studio is a modest job. A larger unit with years of accumulated belongings takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -215,7 +206,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Size, Building or Neighbourhood Surcharge"
      ]
     },
@@ -236,7 +226,7 @@
     {
      "t": "p",
      "c": [
-      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -282,7 +272,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual unit and gives you one flat price before anything moves, sized to the real job regardless of the unit’s size."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -300,7 +290,7 @@
        "title": "The Unit Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready for whatever comes next."
         ]
        ]
       }
@@ -344,9 +334,6 @@
        "Common-area and hallway protection throughout"
       ],
       [
-       "Same flat pricing as any other apartment cleanout"
-      ],
-      [
        "One of the few crews genuinely equipped for this job"
       ]
      ]
@@ -370,9 +357,6 @@
       ],
       [
        "Basement-level or lower-unit access included where relevant"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
       ],
       [
        "Multi-visit scheduling for larger or more complex situations"
@@ -401,13 +385,7 @@
        "Consistent scheduling availability city-wide"
       ],
       [
-       "Same flat pricing structure everywhere in Brampton"
-      ],
-      [
-       "Same-day service for straightforward access"
-      ],
-      [
-       "Multi-item scoping available where more than one piece needs to go"
+       "Service for straightforward access"
       ]
      ]
     },
@@ -426,16 +404,13 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }

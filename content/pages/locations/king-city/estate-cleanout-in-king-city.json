@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "Live Junk Free scopes for that reality honestly at the walkthrough, rather than pricing from an assumption about what a typical estate cleanout involves. Village homes closer to the King Road core get the same care at a more contained scale, and everything in between gets exactly the crew size and time it actually needs."
+      "Live Junk Free scopes for that reality honestly at the walkthrough, rather than pricing from an assumption about what a typical estate cleanout involves."
      ]
     },
     {
@@ -146,7 +146,7 @@
       },
       {
        "n": "03",
-       "title": "One flat price — the address never inflates it",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number reflects the real work involved, never an assumption based on the property’s location or apparent value."
@@ -203,7 +203,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is the actual scope — how many rooms and structures are involved, and how much sorting the belongings genuinely need. A village home is often a more contained job. A substantial property with a main house and additional buildings takes real time to clear properly, and the price reflects that genuine scope rather than an estimate that assumes every King City property is the same size."
+      "{{fact:cleanupScope}}. A substantial property with a main house and additional buildings takes real time to clear properly, and the price reflects that genuine scope rather than an estimate that assumes every King City property is the same size."
      ]
     },
     {
@@ -215,7 +215,6 @@
     {
      "t": "checks",
      "items": [
-      "One Flat Price, Sized to the Real Scope of the Job",
       "No Prestige-Area Adjustment, Ever"
      ]
     },
@@ -232,12 +231,6 @@
      "t": "price",
      "label": "King City Estate Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -284,29 +277,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Quiet Walkthrough, One Flat Quote",
-       "text": [
-        [
-         "A crew member visits at a time you choose, sees the actual scope — house, and any additional buildings — and gives one flat price."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room, Building by Building",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at the family’s pace, with anything meaningful set aside first, always."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "A Property Left Clean, and a Street That Never Knew",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable, with the same discretion on the way out as on the way in."
+         "Whatever was worked on that visit is left and usable, with the same discretion on the way out as on the way in."
         ]
        ]
       }
@@ -366,9 +341,6 @@
      "t": "ul",
      "items": [
       [
-       "Estate cleanouts in more contained homes around the King Road core"
-      ],
-      [
        "Identical discretion and pricing standard as a larger property"
       ],
       [
@@ -378,7 +350,7 @@
        "Multi-visit scheduling for homes with years of accumulation"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
        "No distinction made based on the size of the home"
@@ -407,9 +379,6 @@
        "Gates closed and left exactly as found"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Whole-property coordination under one single booking"
       ]
      ]
@@ -430,9 +399,6 @@
       ],
       [
        "Timing arranged around listing dates or closing schedules where relevant"
-      ],
-      [
-       "Same flat pricing whether or not a deadline is involved"
       ],
       [
        "Communication stays professional and discreet throughout"
@@ -834,7 +800,7 @@
        "q": "Does a larger estate cost more than a smaller village home?",
        "a": [
         [
-         "Only if the actual scope is larger — more rooms, more structures, more sorting. The price reflects the real work, never the size or value of the property for its own sake."
+         "{{fact:cleanupScope}}. The price reflects the real work, never the size or value of the property for its own sake."
         ]
        ]
       },

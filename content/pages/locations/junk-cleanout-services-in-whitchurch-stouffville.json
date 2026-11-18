@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Junk Cleanout Services in Whitchurch-Stouffville | Live Junk Free",
-  "description": "Whitchurch-Stouffville junk cleanout services by Live Junk Free include garage cleanups, attic junk removal, appliance disposal, and estate cleanouts. Same-day available—call now!",
+  "description": "Whitchurch-Stouffville junk cleanout services by Live Junk Free include garage cleanups, attic junk removal, appliance disposal, and estate cleanouts. Same-day may be available—call now!",
   "canonical": "https://livejunkfree.ca/locations/junk-cleanout-services-in-whitchurch-stouffville/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Whitchurch-Stouffville is where a lot of lives get edited. Couples trade big-city houses for Ballantrae bungalows and have to shed a floor’s worth on the way. Families settle into Stouffville and finally sort what three moves accumulated. Rural properties toward Musselman’s Lake and Vandorf change hands with decades still in the sheds. Editing is exactly our trade: one free walkthrough, one flat quote, and a fully insured crew that clears the space — sorted, hauled and swept — usually in a single visit."
+      "Whitchurch-Stouffville is where a lot of lives get edited. Couples trade big-city houses for Ballantrae bungalows and have to shed a floor’s worth on the way. Families settle into Stouffville and finally sort what three moves accumulated. Rural properties toward Musselman’s Lake and Vandorf change hands with decades still in the sheds. {{fact:changedScope}}."
      ]
     },
     {
@@ -97,29 +97,9 @@
      "text": "This is two communities sharing a hyphen: the fast-grown town along Main Street and the new subdivisions around it, and the country half — Ballantrae, Musselman's Lake, Vandorf, Gormley, Bloomington — where properties come with acreage and outbuildings."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "The volume is the bill — the life change behind it isn't priced",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Whether you're shedding half a household to fit a bungalow or clearing a rural garage that filled itself, the measure never changes: truck space, flat and up front. No hourly billing, no downsizing surcharge, no premium for the country roads."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "We walk it before we price it",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -127,29 +107,9 @@
      "text": "Downsizing homes and long-held properties always carry more than memory admits — the storage room behind the furnace, the loft over the workshop, the boxes from the move before last. One free walkthrough of everything produces one firm figure. Hearing it costs nothing."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Approved numbers don't grow",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Crew, trucks, fuel, disposal fees, donation runs — the quote holds it all before you say yes. If the crawlspace runs deeper or the shed hides a second row, the discovery lands on our side of the ledger, never yours."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Editing a life takes judgment — we bring it",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -157,29 +117,9 @@
      "text": "Downsizing isn't hauling; it's deciding, at speed, with feelings attached. Our crews sort as they clear — keepsakes and documents set aside, the genuinely useful staged for donation, the finished loaded for disposal — and the household stays in charge of every close call. Nothing precious rides out by accident."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Your pace, protected",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "The quote is free, takes no deposit, and holds while the condo closes, the family confers or the season turns. One big clear or several staged visits — both price identically by volume, and nobody rushes you through either."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "{{fact:competitorComparison}}",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -270,7 +210,7 @@
        ]
       },
       {
-       "title": "4. Swept and Sent Onward",
+       "title": "4. and Sent Onward",
        "text": [
         "The emptied spaces get a broom finish, and the loads move with priorities: donation partners first, recyclers for metal, wood and e-waste second, landfill only for the remainder."
        ]
@@ -330,7 +270,7 @@
          "Shed, workshop and outbuilding emptying — Vandorf to Musselman’s Lake"
         ],
         [
-         "Pre-sale cleanouts, swept for staging photos"
+         "Pre-sale cleanouts for staging photos"
         ],
         [
          "New-owner clears — everything the sellers left behind"
@@ -341,7 +281,7 @@
        "q": "Estate & Transition Cleanouts in Whitchurch-Stouffville",
        "a": [
         [
-         "Estate cleanouts — patient, documented, valuables returned to family"
+         ""
         ],
         [
          "Senior transitions to residences, paced with everyone involved"
@@ -520,7 +460,7 @@
        "q": "Q: Can you do the whole thing in stages? We're not ready to decide everything at once.",
        "a": [
         [
-         "A: Completely — and the pricing doesn’t punish it. Volume rates work identically whole or split, quotes hold between phases, and many local downsizings run exactly this way: the obvious first, the maybes after the dust settles."
+         "A: Completely — and the pricing doesn’t punish it. {{fact:changedScope}}."
         ]
        ]
       },
@@ -536,7 +476,7 @@
        "q": "Q: How are keepsakes and valuables protected during a big clear?",
        "a": [
         [
-         "A: By sorting, never shovelling. Documents, photos, jewelry and anything that looks significant goes into a set-aside pile reviewed with the household before its fate is decided — and on downsizing jobs especially, we assume every box might matter until proven otherwise."
+         "A: By never shovelling. Documents, photos, jewelry and anything that looks significant goes into a set-aside pile reviewed with the household before its fate is decided — and on downsizing jobs especially, we assume every box might matter until proven otherwise."
         ]
        ]
       }

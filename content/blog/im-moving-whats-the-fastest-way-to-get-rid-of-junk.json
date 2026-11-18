@@ -37,11 +37,6 @@
   {
    "blocks": [
     {
-     "t": "h",
-     "l": 2,
-     "text": "Why Pre-Move Decluttering is Your #1 Priority"
-    },
-    {
      "t": "p",
      "c": [
       "Skipping pre-move decluttering is the biggest mistake you can make when moving. It’s not just about getting rid of trash; it’s a strategic financial and logistical decision. Here’s why it’s non-negotiable:"
@@ -209,7 +204,7 @@
     {
      "t": "p",
      "c": [
-      "This can consume an entire precious moving day. A professional service condenses this into a single, stress-free event. We show up at your scheduled time, handle all the heavy lifting, and haul everything away for responsible disposal or recycling. We turn a day-long project into a 30-minute task for you."
+      "This can consume an entire precious moving day. A professional service condenses this into a single, stress-free event. We show up at your scheduled time, handle all the heavy lifting, and haul everything away for responsible disposal or recycling. {{fact:scheduling}}"
      ]
     }
    ]

@@ -24,11 +24,6 @@
      "text": "Hoarding Cleanouts in Vaughan from Live Junk Free"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "Hoarding cleanouts in Vaughan from Live Junk Free are handled privately, without judgment, and with discretion matched to the property — a free confidential quote, an experienced crew, and donation-first sorting throughout."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -129,15 +124,6 @@
        ]
       },
       {
-       "n": "03",
-       "title": "Condo and tower-compliant hoarding cleanout scheduling",
-       "text": [
-        [
-         "{{fact:insuranceDocs}}."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "A pace set by the family, not the calendar",
        "text": [
@@ -160,7 +146,7 @@
        "title": "Free on-site quotes, with an honest cost to clean out a hoarder's house",
        "text": [
         [
-         "A crew member walks the property, sees the real scope, and gives one flat number before anything moves — no guessing from a phone description, and once the work is underway."
+         "{{fact:changedScope}}."
         ]
        ]
       }
@@ -187,7 +173,7 @@
     {
      "t": "p",
      "c": [
-      "Hoarder clean out cost depends on the volume of belongings, how many rooms are affected, and how much sorting and donation coordination is involved — a single condo suite or room is a modest job, a full estate property costs more given the time required. The figure is confirmed at a free, no-obligation walkthrough, with no adjustment for property type or address."
+      "Hoarder clean out cost depends on the volume of belongings, how many rooms are affected, and how much donation coordination is involved — a single condo suite or room is a modest job, a full estate property costs more given the time required. The figure is confirmed at a free, no-obligation walkthrough, with no adjustment for property type or address."
      ]
     },
     {
@@ -214,7 +200,7 @@
     {
      "t": "p",
      "c": [
-      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -256,15 +242,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Your Hoarding Cleanout Quote — A Respectful Walkthrough, One Flat Price",
-       "text": [
-        [
-         "A crew member visits, sees the actual scope, and provides one flat price — with unmarked arrival if that’s preferred, and building or estate logistics accounted for from the start."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Hoarding Cleanout Runs Methodically, Room by Room",
        "text": [
@@ -275,10 +252,10 @@
       },
       {
        "n": "04",
-       "title": "Hoarding Cleanout Complete — the Space Left Clean and Livable",
+       "title": "Careful Removal",
        "text": [
         [
-         "Debris is hauled the same visit where possible, donations go to local partners, and the space is left swept and safe — with follow-up visits available if the job needs to happen in stages."
+         "Debris is hauled the same visit where possible, donations go to local partners, and the space is left and safe — with follow-up visits available if the job needs to happen in stages."
         ]
        ]
       }
@@ -364,7 +341,7 @@
        "Cleaning out a hoarder's home while the resident continues living there"
       ],
       [
-       "Kitchen, bathroom and bedroom cleared to a livable, safe standard"
+       "Careful Removal"
       ],
       [
        "Multi-visit scheduling for larger or more complex situations"
@@ -990,7 +967,7 @@
        "q": "What's the cost to clean out a hoarder's house in Vaughan?",
        "a": [
         [
-         "Hoarder clean out cost depends on the volume of belongings, the number of rooms affected, and how much sorting is involved — a single condo suite or room prices modestly, a full estate property costs more given the time required. The exact figure is confirmed free at a private walkthrough, with no adjustment for property type."
+         "{{fact:cleanupScope}}. The exact figure is confirmed free at a private walkthrough, with no adjustment for property type."
         ]
        ]
       },

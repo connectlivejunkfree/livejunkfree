@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "From a single room to the entire unit — cleared, hauled, and broom-swept."
+     "text": "From a single room to the entire unit — cleared, hauled."
     },
     {
      "t": "ctas",
@@ -63,7 +63,7 @@
     {
      "t": "p",
      "c": [
-      "Clearing out an entire apartment is a different beast than tossing a few bags of junk. There’s furniture to carry down flights of stairs, appliances to disconnect, closets and storage lockers packed with years of belongings, and a hard deadline — a lease ending, a new tenant arriving, or a sale closing. Our full-service apartment cleanout crews handle all of it: sorting, lifting, hauling, and sweeping, so you hand over the keys to an empty, presentable unit."
+      "Clearing out an entire apartment is a different beast than tossing a few bags of junk. {{fact:utilityDisconnection}}"
      ]
     },
     {
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "We remove everything you point at — furniture, mattresses, appliances, electronics, boxes, bagged items, and general clutter — and we sort as we go. Usable furniture and household goods are donated to local charities, recyclables are diverted to the right facilities, and only true waste heads to disposal. You get an empty apartment; the landfill gets as little as possible."
+      "We remove everything you point at — furniture, mattresses, appliances, electronics, boxes, bagged items, and general clutter — and we sort as we go. Usable furniture and household goods are donated where possible. You get an empty apartment; the landfill gets as little as possible."
      ]
     },
     {
@@ -155,7 +155,7 @@
     {
      "t": "p",
      "c": [
-      "An apartment cleanout involves far more than hauling junk. Elevators need to be booked, common hallways protected, oversized furniture dismantled to fit through doorways, and dozens of decisions made about what gets donated, recycled, or discarded. Doing it alone means days of exhausting trips; hiring us means it’s finished in hours."
+      "An apartment cleanout involves far more than hauling junk. Elevators need to be booked, common hallways protected, oversized furniture dismantled to fit through doorways, and dozens of decisions made about what gets donated, recycled where possible, or discarded. Doing it alone means days of exhausting trips; hiring us means it’s finished in hours."
      ]
     },
     {
@@ -167,7 +167,7 @@
     {
      "t": "p",
      "c": [
-      "{{fact:propertyProtection}}. Inside the unit, we do the sorting, dismantling, bagging, and carrying, so you never lift a thing."
+      "{{fact:propertyProtection}}. Inside the unit, we do the dismantling, bagging, and carrying, so you never lift a thing."
      ]
     },
     {
@@ -183,7 +183,7 @@
        "Room-by-room clearing – Bedrooms, kitchens, closets, balconies, and storage lockers fully emptied"
       ],
       [
-       "Sort, donate & recycle – Usable items donated, recyclables diverted, and the unit left broom-swept"
+       "Sort, donate & recycle – Usable items donated, recyclables diverted, and the unit left"
       ]
      ]
     },
@@ -192,7 +192,7 @@
      "c": [
       {
        "b": [
-        "Same-Day Apartment Cleanouts Available!"
+        "Same-Day Apartment Cleanouts may be available!"
        ]
       }
      ]
@@ -212,7 +212,7 @@
       {
        "title": "Whole-Job Savings",
        "text": [
-        "Full-unit cleanouts cost less per item than piece-by-piece removals — and multi-unit landlord rates save even more"
+        "{{fact:changedScope}}."
        ]
       },
       {
@@ -225,18 +225,6 @@
        "title": "Scheduling Built Around Deadlines",
        "text": [
         "Evenings, weekends, and same-day slots when available timed to your lease end, closing, or tenant move-in"
-       ]
-      },
-      {
-       "title": "Donation-First Sorting",
-       "text": [
-        "Usable furniture and goods reach local charities instead of the dump, with receipts available on request"
-       ]
-      },
-      {
-       "title": "One Price, Everything Included",
-       "text": [
-        "Sorting, dismantling, carrying, hauling, and broom-sweeping — all covered in your quote"
        ]
       },
       {
@@ -268,7 +256,7 @@
        "Every cleanout follows a plan. We walk the unit with you (or your photos), confirm what stays and what goes, then work room by room — dismantling large furniture, boxing loose items, and carrying everything out through protected pathways. Fragile situations like estate cleanouts are handled with extra patience and discretion."
       ],
       [
-       "Before we leave, we sweep the floors and do a final walkthrough with you, so the apartment is genuinely ready for inspection, staging, new tenants, or renovation crews."
+       "Before we leave and do a final walkthrough with you, so the apartment is genuinely ready for inspection, staging, new tenants, or renovation crews."
       ]
      ]
     },
@@ -291,9 +279,6 @@
       ],
       [
        "Material Recycling: Electronics, metals, cardboard, and appliances are separated and sent to proper recycling streams"
-      ],
-      [
-       "Minimal Waste: Careful sorting on every job keeps the majority of each cleanout out of landfill"
       ]
      ]
     },
@@ -330,9 +315,6 @@
       ],
       [
        "Pay for Space, Not Stress – Costs are based on truck volume, whether it’s a quarter load or multiple full trucks"
-      ],
-      [
-       "Multi-Unit & Repeat Discounts – Special rates for landlords and property managers with several units or ongoing turnovers"
       ]
      ]
     }
@@ -389,7 +371,7 @@
       {
        "title": "Lock In Your Price",
        "text": [
-        "Get a clear, volume-based quote covering labour, hauling, donation runs, recycling, and final sweep-up — all in one number."
+        "Get a clear, volume-based quote covering labour, hauling, donation runs, recycling — all in one number."
        ]
       },
       {
@@ -470,7 +452,7 @@
        "q": "What does your apartment cleanout service include?",
        "a": [
         [
-         "Everything from sorting and dismantling to hauling and final sweep-up. We clear furniture, appliances, mattresses, electronics, boxes, clothing, and general clutter from every room, closet, balcony, and storage locker — leaving the unit broom-clean."
+         "Everything from dismantling to hauling. We clear furniture, appliances, mattresses, electronics, boxes, clothing, and general clutter from every room, closet, balcony, and storage locker — leaving the unit broom-clean."
         ]
        ]
       },
@@ -494,7 +476,7 @@
        "q": "Do you work with landlords and property managers?",
        "a": [
         [
-         "Yes, regularly. We handle rental turnovers, abandoned-belonging removals, and multi-unit cleanouts, and we offer special rates for property managers with ongoing needs. We can also coordinate access, elevator bookings, and building requirements directly."
+         "Yes, regularly. {{fact:changedScope}}. We can also coordinate access, elevator bookings, and building requirements directly."
         ]
        ]
       },

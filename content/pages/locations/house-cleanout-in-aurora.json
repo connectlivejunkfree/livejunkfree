@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Aurora homes tend to be held, not flipped — twenty, thirty, forty years in the same house is common here. Which means when the time finally comes to empty one, it’s never a small job: every closet, every crawlspace, every corner of the basement holds its share. Our fully insured crew turns that mountain into an afternoon. One free walkthrough, one flat quote, and a team that sorts, carries, hauls and sweeps until the house is empty — with everything that matters set carefully aside."
+      "Aurora homes tend to be held, not flipped — twenty, thirty, forty years in the same house is common here. Which means when the time finally comes to empty one, it’s never a small job: every closet, every crawlspace, every corner of the basement holds its share. Our fully insured crew turns that mountain into an afternoon. {{fact:changedScope}}."
      ]
     },
     {
@@ -94,32 +94,12 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Whether it's a character home near the old downtown, a family house in Aurora Highlands where the kids grew up and moved on, or a larger property in Aurora Estates changing hands, the pattern repeats: long tenure, deep accumulation, and a deadline attached to letting it all go. Live Junk Free has cleared hundreds of homes like these — Google reviews earned by treating decades of belongings with more respect than a dumpster ever could."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "The truck decides the price — not the years of accumulation",
-       "text": []
-      }
-     ]
+     "text": "Whether it's a character home near the old downtown, a family house in Aurora Highlands where the kids grew up and moved on, or a larger property in Aurora Estates changing hands, the pattern repeats: long tenure, deep accumulation, and a deadline attached to letting it all go."
     },
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanouts are quoted on one axis: how much volume leaves the house. Thirty years of living might fill three truckloads or one, and the flat figure reflects exactly that — never the hours worked, never the effort, and never which Aurora street the house sits on."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Long-held homes can't be quoted from a phone call",
-       "text": []
-      }
-     ]
+     "text": "Cleanouts are quoted on one axis: how much volume leaves the house."
     },
     {
      "t": "h",
@@ -127,64 +107,19 @@
      "text": "Nobody remembers everything a house of thirty years contains — not even the owners. So we don't ask you to. We walk the whole property together, from the attic to the garage loft, and only then commit to a number. The walkthrough is free and the figure that follows is firm."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One flat price, sealed before the first box moves",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} If the basement holds double what anyone guessed, that's our surprise to absorb, not yours to fund."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Sorting is the service, not an upsell",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Decades of belongings always hide things worth keeping: deeds and documents, photo albums, jewelry, the good china, war medals in a shoebox. Our crew clears by sorting, not scooping — the significant gets set aside and handed over, the usable goes to donation, and only what's left heads to disposal."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Approve when ready — the quote doesn't push and doesn't expire",
-       "text": []
-      }
-     ]
+     "text": "Decades of belongings always hide things worth keeping: deeds and documents, photo albums, jewelry, the good china, war medals in a shoebox. Our crew clears by not scooping — the significant gets set aside and handed over, the usable goes to donation, and only what's left heads to disposal."
     },
     {
      "t": "h",
      "l": 3,
      "text": "Many Aurora cleanouts start with a walkthrough weeks before the family is ready to proceed. That's normal here, and fine with us. The quote is free, carries no deposit and no deadline, and the crew starts only on your word."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Local and franchise-free",
-       "text": []
-      }
-     ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Franchise haulers carry royalty fees in every quote, and on a multi-load cleanout those fees stack up fast."
     }
    ]
   },
@@ -198,12 +133,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "One Flat Figure — However Full the House"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "In a town where houses hold decades, that certainty matters: the figure agreed at the front door is the figure paid when the last room is swept."
+     "text": "In a town where houses hold decades, that certainty matters: the figure agreed at the front door is the figure paid when the last room is."
     },
     {
      "t": "cards",
@@ -272,7 +202,7 @@
       {
        "title": "4. Broom-Clean and Ready for What's Next",
        "text": [
-        "Each cleared room gets swept; the whole house ends the day ready for listing photos, renovations or the key handover. What left with us gets sorted onward — donation first, recycling second, landfill strictly last."
+        "Each cleared room gets; the whole house ends the day ready for listing photos, renovations or the key handover. What left with us gets sorted onward — donation first, recycling second, landfill strictly last."
        ]
       }
      ]
@@ -324,7 +254,7 @@
          "Downsizing clear-outs for long-tenured Aurora homeowners"
         ],
         [
-         "Estate cleanouts — patient, thorough, valuables documented and returned"
+         ""
         ],
         [
          "Senior transitions to condos and retirement residences, paced with the family"
@@ -341,13 +271,13 @@
        "q": "Pre-Sale & Moving Cleanouts in Aurora",
        "a": [
         [
-         "Pre-listing cleanouts — emptied and swept before stagers and photographers"
+         "Pre-listing cleanouts — emptied before stagers and photographers"
         ],
         [
          "Move-out clears timed to closing day"
         ],
         [
-         "Post-move sweeps of everything left behind"
+         ""
         ],
         [
          "Pre-renovation clearing before the contractors arrive"
@@ -523,7 +453,7 @@
        "q": "Q: We're downsizing and can't take everything — but we're not sure what we're keeping yet. Can you work around that?",
        "a": [
         [
-         "A: Completely. Many downsizing cleanouts run in two passes: we clear the obvious first, you decide on the rest, and we return for the remainder. There’s no penalty for splitting the job, and the volume pricing works the same either way."
+         "A: Completely. Many downsizing cleanouts run in two passes: we clear the obvious first, you decide on the rest, and we return for the remainder. {{fact:changedScope}}."
         ]
        ]
       },
@@ -531,7 +461,7 @@
        "q": "Q: How do you make sure nothing important gets thrown away?",
        "a": [
         [
-         "A: By sorting as we clear instead of bulk-loading. Documents, photographs, jewelry, cash and anything that looks significant goes into a set-aside collection reviewed with you before it’s decided. In houses with decades of history, we assume the important is mixed with the everyday — because it always is."
+         "{{fact:changedScope}}. Documents, photographs, jewelry, cash and anything that looks significant goes into a set-aside collection reviewed with you before it’s decided. In houses with decades of history, we assume the important is mixed with the everyday — because it always is."
         ]
        ]
       },
@@ -539,7 +469,7 @@
        "q": "Q: Can you get the house ready for listing photos?",
        "a": [
         [
-         "A: That’s one of our most common Aurora bookings. Full clear, every room broom-swept, and the property handed over ready for stagers and photographers — timed to your realtor’s calendar, often within days of the first call."
+         "A: That’s one of our most common Aurora bookings. Full clear, every room, and the property handed over ready for stagers and photographers — timed to your realtor’s calendar, often within days of the first call."
         ]
        ]
       }

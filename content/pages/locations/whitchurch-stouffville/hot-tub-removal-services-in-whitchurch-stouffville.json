@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Hot Tub Removal Services in Whitchurch-Stouffville - Live JunkFree",
-  "description": "Hot Tub Removal Services in Whitchurch-Stouffville from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub.",
+  "description": "{{fact:utilityDisconnection}}",
   "canonical": "https://livejunkfree.ca/locations/whitchurch-stouffville/hot-tub-removal-services-in-whitchurch-stouffville/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/08/Hot-Tub-Removal-Services-in-Whitchurch-Stouffville.jpeg"
@@ -22,11 +22,6 @@
      "t": "h",
      "l": 1,
      "text": "Hot Tub Removal Services in Whitchurch-Stouffville from Live Junk Free"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Hot Tub Removal Services in Whitchurch-Stouffville from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub, quoted flat on site."
     },
     {
      "t": "ctas",
@@ -80,7 +75,7 @@
     {
      "t": "p",
      "c": [
-      "Hot tub removal in Whitchurch-Stouffville typically runs from a modest fee for a small portable spa up to a higher flat price for a full six-or-seven-seat unit, confirmed for free at an on-site walkthrough. The price is the same whether the property is in Ballantrae, a GO-corridor subdivision, or a Vandorf farm."
+      "{{fact:changedScope}}. The price is the same whether the property is in Ballantrae, a GO-corridor subdivision, or a Vandorf farm."
      ]
     },
     {
@@ -129,7 +124,7 @@
       },
       {
        "n": "02",
-       "title": "One flat price across every part of the township",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Structure size and material set the number — never which of the township’s communities the property belongs to."
@@ -141,7 +136,7 @@
        "title": "Free on-site quotes, walked in person at the property",
        "text": [
         [
-         "A crew member comes to whatever’s coming down, notes the pace the property calls for, and gives one flat price before anything starts."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -151,15 +146,6 @@
        "text": [
         [
          "GO-corridor jobs move quickly when a renovation’s already scheduled — cleared with enough lead time that the next trade never waits."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -193,15 +179,8 @@
      "text": "HOT TUB REMOVAL PRICING"
     },
     {
-     "t": "p",
-     "c": [
-      "Every quote is one flat number covering four things: draining the tub, disconnecting any electrical, cutting the shell into sections, and hauling it away for disposal or recycling."
-     ]
-    },
-    {
      "t": "checks",
      "items": [
-      "Drain + Disconnect + Cut-Out + Haul-Away",
       "No Rooftop Surcharges"
      ]
     },
@@ -250,7 +229,7 @@
     {
      "t": "p",
      "c": [
-      "A hot tub removal appointment follows four steps: booking, a free on-site quote, the drain-and-cut-out process, and haul-away paced to the property."
+      "{{fact:utilityDisconnection}}"
      ]
     }
    ]
@@ -266,33 +245,6 @@
        "text": [
         [
          "Call +1 647 922 5865 or book online. Tell the crew if calm, quiet scheduling matters for a Ballantrae property."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote and Completion Date",
-       "text": [
-        [
-         "The crew looks at the tub, confirms any electrical is safely disconnected, checks the path out, and gives you one flat price before touching anything."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "The Tub Gets Drained, Cut and Removed",
-       "text": [
-        [
-         "Water drains responsibly, the shell gets cut into sections that clear your gate or fence line, at whatever pace the property calls for."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Your Yard Is Clear",
-       "text": [
-        [
-         "Metal components, motors and pumps are routed to recycling and the rest is disposed of responsibly."
         ]
        ]
       }
@@ -355,14 +307,6 @@
      "t": "h",
      "l": 3,
      "text": "Farm & Concession Hot Tub Removal"
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "For Vandorf and Gormley properties: same flat pricing as anywhere in the township."
-      ]
-     ]
     },
     {
      "t": "h",
@@ -765,7 +709,7 @@
        "q": "Do you have experience with removal on Ballantrae's bungalow-style properties?",
        "a": [
         [
-         "Regularly, and we schedule those jobs differently on purpose. Ballantrae removal runs at a calmer, quieter pace with contained work zones."
+         "Regularly, and we schedule those jobs differently on purpose."
         ]
        ]
       },
@@ -781,7 +725,7 @@
        "q": "Do I need to drain the hot tub myself before you arrive?",
        "a": [
         [
-         "No — draining is part of the service. No hose, pump, or prep needed beyond reasonably clear access."
+         "{{fact:utilityDisconnection}}"
         ]
        ]
       },
@@ -789,7 +733,7 @@
        "q": "What happens to the hot tub after it's removed?",
        "a": [
         [
-         "Metal frame components and the motor or pump go to recyclers; the shell, foam and cabinet are disposed of responsibly."
+         "{{fact:utilityDisconnection}}"
         ]
        ]
       }

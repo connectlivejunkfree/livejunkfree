@@ -127,7 +127,7 @@
     {
      "t": "p",
      "c": [
-      "This foundation of trust is essential for successful hoarding apartment cleanouts throughout Markham, Mississauga, and ",
+      "{{fact:structuralDemolition}}. ",
       {
        "a": "/locations/",
        "c": [
@@ -159,7 +159,7 @@
       {
        "br": 1
       },
-      "Before sorting begins, we address immediate health and safety concerns. This may include:"
+      "{{fact:cleanupScope}}. This may include:"
      ]
     },
     {
@@ -179,11 +179,11 @@
     {
      "t": "p",
      "c": [
-      "The Sorting Process",
+      "",
       {
        "br": 1
       },
-      "We work alongside the individual during hoarding apartment cleanouts, never making decisions about their possessions without their input. Our sorting method includes:"
+      "We work alongside the individual during hoarding apartment cleanouts, never making decisions about their possessions without their input. {{fact:cleanupScope}}."
      ]
     },
     {
@@ -320,7 +320,7 @@
        "Support resources for ongoing mental health care"
       ],
       [
-       "Emergency contact information for future needs"
+       "{{fact:pickupTimes}}"
       ]
      ]
     },

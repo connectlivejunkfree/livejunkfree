@@ -114,9 +114,6 @@
       ],
       [
        "Addressing health and safety concerns"
-      ],
-      [
-       "Facing municipal or property compliance issues"
       ]
      ]
     },
@@ -163,7 +160,7 @@
        "Basement, attic, and garage cleanouts"
       ],
       [
-       "Sorting and hauling"
+       "Hauling"
       ],
       [
        "Recycling and donation coordination"
@@ -219,7 +216,7 @@
        "Heavy lifting injuries"
       ],
       [
-       "Blocked emergency exits"
+       "{{fact:pickupTimes}}"
       ]
      ]
     },
@@ -241,7 +238,7 @@
     {
      "t": "p",
      "c": [
-      "Not everything found in a hoarded home belongs in a landfill. Many items can be recycled or donated, helping reduce environmental impact while benefiting local organizations."
+      "Not everything found in a hoarded home belongs in a landfill. Many items can be recycled where possible or donated, helping reduce environmental impact while benefiting local organizations."
      ]
     },
     {
@@ -261,9 +258,6 @@
       ],
       [
        "Donating suitable household goods"
-      ],
-      [
-       "Sorting items whenever possible before disposal"
       ]
      ]
     },
@@ -348,7 +342,7 @@
        "Upfront pricing"
       ],
       [
-       "Same-day and next-day availability"
+       "Same-day and next-day availability when available"
       ],
       [
        "Full-service cleanout solutions"

@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "We are Pickering’s trusted residential junk removal team — locally operated, fully insured and built for homeowners who want clutter gone without lifting a finger. We come to your Pickering home, assess everything in person, hand you a completely free on-site estimate before touching a single item, and if you’re ready to go, your junk is gone the same day. No delays, no drawn-out booking process, no runaround."
+      "We are Pickering’s trusted residential junk removal team — locally operated, fully insured and built for homeowners who want clutter gone without lifting a finger. {{fact:scheduling}} No delays, no drawn-out booking process, no runaround."
      ]
     },
     {
@@ -97,29 +97,9 @@
      "text": "Live Junk Free is a locally owned, fully insured Pickering junk removal team that has built its reputation across Durham Region one home at a time — with Google reviews from real customers, and a crew that treats your home, floors, walls and doorframes with the same care we'd give our own."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "You pay for the space your junk takes up",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Our pricing is calculated based on how much of our truck your items fill. Quarter load, half load, full load — each has a clear, fair price. A single couch is priced small. A packed garage is priced accurately. The clock never runs. Your Pickering neighbourhood never affects your rate."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "We come to your home and quote in person — every time",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -127,29 +107,9 @@
      "text": "No phone estimates based on your description. We physically visit your Pickering home, look at every item you want removed, and calculate your quote based on what we actually see. That's the only accurate way to price a residential junk removal job — and it's the only way we do it."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One flat number — labour, truck, fuel, disposal",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Nothing is added afterward."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "We protect your home like it's our own",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -157,29 +117,9 @@
      "text": "Removing heavy furniture and appliances from inside a home takes skill, not just muscle. {{fact:propertyProtection}}."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "You approve the price before we start — guaranteed",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Once you've reviewed the quote, the decision is entirely yours. Zero pressure. If you approve it, we start immediately. If you don't, we leave with no charge. And once you've approved it, that number never changes — regardless of how the job unfolds."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -252,9 +192,9 @@
      "t": "cards",
      "items": [
       {
-       "title": "1. Book Quickly, Get Confirmed Instantly",
+       "title": "1. Book Quickly, Get Confirmed",
        "text": [
-        "Call +1 647 922 5865 or use our online booking form to schedule your Pickering pickup in minutes. We offer same-day and next-day appointments with a 30-minute arrival notice, so you're never left waiting around, subject to scheduling."
+        "Call +1 647 922 5865 or use our online booking form to schedule your Pickering pickup in minutes. {{fact:scheduling}}"
        ]
       },
       {
@@ -289,7 +229,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Pickering is one of Durham Region's most dynamic municipalities — established lakefront communities in Frenchman's Bay, mature family neighbourhoods in Dunbarton and Rougemount, condos and townhomes in Bay Ridges, and thousands of new homes rising in Seaton. Every one of those homes accumulates junk — and Live Junk Free is built to remove every type of it, from a single sofa to a full-property clear, with the same professional standard, transparent pricing and same-day speed every time, subject to scheduling."
+     "text": "Every one of those homes accumulates junk — and Live Junk Free is built to remove every type of it, from a single sofa to a full-property clear, with the same professional standard, transparent pricing and same-day speed every time, subject to scheduling."
     },
     {
      "t": "faq",
@@ -409,7 +349,7 @@
          "Carpet and flooring removal Pickering"
         ],
         [
-         "Bed bug furniture removal Pickering — sealed, safe, discreet"
+         ""
         ]
        ]
       }
@@ -540,7 +480,7 @@
        "q": "Q: How much does residential junk removal cost in Pickering, Ontario?",
        "a": [
         [
-         "A: Our Pickering pricing is 100% volume-based — you pay based on how much space your items fill in our truck, not by the hour. Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard) and single items. We provide a free on-site estimate before any work begins.. — fair, flat and final."
+         "Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard) and single items. We provide a free on-site estimate before any work begins.. — fair, flat and final."
         ]
        ]
       },
@@ -548,7 +488,7 @@
        "q": "Q: Do you offer same-day residential junk removal in Pickering?",
        "a": [
         [
-         "A: Yes — same-day pickups are available across all of Pickering including Frenchman’s Bay, Bay Ridges, Seaton, Dunbarton, Rougemount and all surrounding Durham Region communities. Call +1 647 922 5865 to confirm today’s availability."
+         "{{fact:scheduling}} Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },

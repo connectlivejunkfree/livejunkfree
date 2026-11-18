@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Garage cleanout services in Whitby from Live Junk Free get the car back where it belongs and the sharp tools, old chemicals and tripping hazards out of a space kids and pets walk through daily — a free on-site quote, same-day service, and one flat price."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -136,17 +136,8 @@
        ]
       },
       {
-       "n": "02",
-       "title": "One flat price, confirmed before anything moves",
-       "text": [
-        [
-         "A crew member sees the actual garage, sizes up the real job, and gives one flat number — no per-item guessing once the work starts."
-        ]
-       ]
-      },
-      {
        "n": "03",
-       "title": "Same-day service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
@@ -159,15 +150,6 @@
        "text": [
         [
          "Clearing a garage ahead of a conversion, a workshop build, or general renovation gets scheduled around your contractor’s actual start date."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first sorting for tools and equipment still in good shape",
-       "text": [
-        [
-         "Working tools, equipment and household items with life left in them go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -203,20 +185,13 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how full the garage actually is, and how much of it needs sorting versus straightforward hauling. A garage with a few years of accumulated boxes and old furniture is a modest job. A garage that’s been used as overflow storage for a decade, packed floor to ceiling, takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A garage with a few years of accumulated boxes and old furniture is a modest job. A garage that’s been used as overflow storage for a decade, packed floor to ceiling, takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
      "t": "p",
      "c": [
       "What doesn’t change the price is anything about the household — kids, pets, or how the space got that full in the first place. The figure is confirmed for free at an on-site walkthrough."
-     ]
-    },
-    {
-     "t": "checks",
-     "items": [
-      "{{fact:competitorComparison}}",
-      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -232,12 +207,6 @@
      "t": "price",
      "label": "Whitby Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -279,16 +248,7 @@
        "title": "Book Your Garage Cleanout Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual garage, notes anything hazardous that needs careful handling, and gives you one flat price before anything moves."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       },
@@ -306,7 +266,7 @@
        "title": "Your Garage Is Usable",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready to actually park in again."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready to actually park in again."
         ]
        ]
       }
@@ -353,10 +313,7 @@
        "Pathways kept clear throughout the visit"
       ],
       [
-       "Donation-first sorting for tools and equipment still in good shape"
-      ],
-      [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "No judgment about how full the garage got"
@@ -384,7 +341,7 @@
        "Coordination with your renovation project's broader schedule"
       ],
       [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Documentation available if the project requires it"
@@ -410,10 +367,7 @@
        "Full sort of years of accumulated boxes, furniture and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Recurring seasonal scheduling available on request"
@@ -436,12 +390,6 @@
       ],
       [
        "Coordination for tools, equipment and farm-adjacent items"
-      ],
-      [
-       "{{fact:competitorComparison}}"
-      ],
-      [
-       "Same flat pricing as anywhere else in town"
       ],
       [
        "Careful handling around active farm properties"
@@ -819,7 +767,7 @@
        "q": "How much do garage cleanout services cost in Whitby?",
        "a": [
         [
-         "Pricing is confirmed free at an on-site walkthrough based on how full the garage is and how much sorting it needs — a lightly cluttered garage costs less, one packed floor to ceiling costs more given the real time required."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -851,7 +799,7 @@
        "q": "Do you charge extra for a garage that's completely packed?",
        "a": [
         [
-         "The price reflects the actual volume and sorting required — a fuller garage costs more because it genuinely takes more time, not because of a flat surcharge."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -867,7 +815,7 @@
        "q": "Can you handle a workshop or farmhouse garage on a rural property?",
        "a": [
         [
-         "Yes — the Ashburn and Myrtle concessions are regular work for us, at the same flat pricing as anywhere else in Whitby."
+         "{{fact:changedScope}}."
         ]
        ]
       },

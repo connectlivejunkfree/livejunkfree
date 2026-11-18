@@ -54,9 +54,6 @@
      "t": "ul",
      "items": [
       [
-       "Safe disconnection and removal of the unit"
-      ],
-      [
        "Careful transport from your home, basement, or residential space"
       ],
       [
@@ -144,9 +141,6 @@
        "We handle tight staircases, basements, and high-rise buildings in residential spaces"
       ],
       [
-       "We disconnect and safely remove your freezer"
-      ],
-      [
        "Our appliance removal covers everything from upright freezers to chest freezers and residential units"
       ],
       [
@@ -172,7 +166,7 @@
      "t": "ul",
      "items": [
       [
-       "We donate working appliances to shelters and charities"
+       "{{fact:recycling}}"
       ],
       [
        "We reduce landfill waste with our eco-first approach"
@@ -194,12 +188,6 @@
      "t": "ul",
      "items": [
       [
-       "{{fact:freeOnsiteEstimates}}"
-      ],
-      [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "{{fact:competitorComparison}}"
       ]
      ]
@@ -212,14 +200,14 @@
     {
      "t": "h",
      "l": 4,
-     "text": "Locally Trusted, Nationally Proven – The Best Junk Removal Here!” Committed to Minimizing Landfill Waste."
+     "text": "Locally Trusted, Nationally Proven – Junk Removal Here!” Committed to Minimizing Landfill Waste."
     },
     {
      "t": "p",
      "c": [
       {
        "b": [
-        "We are based right here in Toronto, love what we do, and best in town."
+        ""
        ]
       }
      ]
@@ -227,9 +215,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Trusted by thousands of Greater Toronto Area homeowners"
-      ],
       [
        "Insured, uniformed, and respectful crew"
       ],
@@ -251,7 +236,7 @@
      "t": "cards",
      "items": [
       {
-       "title": "Same-day availability",
+       "title": "Availability when available",
        "text": [
         "Swift, safe, and efficient service — we get the job done when you need it most."
        ]
@@ -260,12 +245,6 @@
        "title": "Fast 3-step booking",
        "text": [
         "Simple, quick, and hassle-free scheduling that fits your daily routine."
-       ]
-      },
-      {
-       "title": "",
-       "text": [
-        "We handle your junk responsibly with sustainable disposal."
        ]
       }
      ]
@@ -362,7 +341,7 @@
     {
      "t": "p",
      "c": [
-      "Additionally, responsible appliance disposal helps minimize environmental damage. Our trained team ensures each freezer is removed and recycled with care, offering an ideal solution for both homeowners and ",
+      "Additionally, responsible appliance disposal helps minimize environmental damage. Our trained team ensures each freezer is removed and recycled where possible with care, offering an ideal solution for both homeowners and ",
       {
        "a": "/services/residential-junk-removal-services/",
        "c": [
@@ -603,12 +582,6 @@
        ]
       },
       {
-       "title": "2.",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
-      {
        "title": "3. Pick Your Time",
        "text": [
         "We offer flexible windows with on-time arrival (no waiting all day)"
@@ -822,8 +795,7 @@
         "b": [
          "Convenience: "
         ]
-       },
-       "We handle everything from disconnection, hauling, and disposal, so you don’t have to."
+       }
       ],
       [
        {
@@ -987,7 +959,7 @@
        "q": "Can I schedule a same-day freezer pickup?",
        "a": [
         [
-         "Yes, we often offer same-day service. ",
+         "Yes, we often offer same-day service when available. ",
          {
           "a": "/contact/",
           "c": [
@@ -1002,7 +974,7 @@
        "q": "Do I need to defrost my freezer before removal?",
        "a": [
         [
-         "Please defrost and empty it beforehand. Our team will handle everything else, including disconnection and transport."
+         "Please defrost and empty it beforehand. {{fact:utilityDisconnection}}"
         ]
        ]
       },

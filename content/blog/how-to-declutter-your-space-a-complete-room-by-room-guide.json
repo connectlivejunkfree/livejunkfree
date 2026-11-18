@@ -35,7 +35,7 @@
     {
      "t": "p",
      "c": [
-      "At Live Junk Free, we’ve helped thousands of homeowners and businesses across the Greater Toronto Area reclaim their spaces. Along the way, we’ve learned exactly what works (and what doesn’t) when it comes to decluttering. In this guide, we’re sharing our complete, practical, room-by-room approach so you can finally say goodbye to clutter — for good."
+      "Along the way, we’ve learned exactly what works (and what doesn’t) when it comes to decluttering. In this guide, we’re sharing our complete, practical, room-by-room approach so you can finally say goodbye to clutter — for good."
      ]
     }
    ]
@@ -297,7 +297,7 @@
     {
      "t": "p",
      "c": [
-      "Sorting is only half the battle — the clutter isn’t gone until it’s actually ",
+      "",
       {
        "i": [
         "out of your house"
@@ -362,7 +362,7 @@
     {
      "t": "p",
      "c": [
-      "Here’s the truth: the sorting is the emotional work, but the hauling is the ",
+      "",
       {
        "i": [
         "hard"
@@ -412,7 +412,7 @@
          }
         ]
        },
-       " at a date and time that works for you — same-day and next-day appointments are available."
+       " at a date and time that works for you — same-day and next-day appointments may be available."
       ],
       [
        {
@@ -467,7 +467,7 @@
       [
        {
         "b": [
-         "The 10-minute daily reset."
+         "{{fact:pickupTimes}}"
         ]
        },
        " Spend ten minutes each evening returning things to their homes."
@@ -548,7 +548,7 @@
      "c": [
       {
        "i": [
-        "Same-day and next-day appointments available across the Greater Toronto Area. Text us pictures of your junk for a free quote!"
+        "Same-day and next-day appointments may be available across the Greater Toronto Area. Text us pictures of your junk for a free quote!"
        ]
       }
      ]

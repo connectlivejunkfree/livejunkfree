@@ -2,7 +2,6 @@ import Image from "next/image";
 import Link from "next/link";
 import { IMG } from "@content/designed/images";
 import { HOME } from "@content/designed/pages/home";
-import { HREF } from "@content/designed/routes";
 import { RATING, SITE } from "@content/designed/site";
 import { Icon } from "@/components/icons";
 import { Stars } from "../ui/Stars";
@@ -35,7 +34,7 @@ export function HomeHero() {
             {H.lead}
           </p>
           <div className="btn-row intro" style={{ "--d": "600ms" } as React.CSSProperties}>
-            <Link className="btn btn-primary" href={HREF.contact}>
+            <Link className="btn btn-primary" href="#quote-form">
               {H.primary}
             </Link>
             <a className="btn btn-ghost btn-glass" href={SITE.tel}>

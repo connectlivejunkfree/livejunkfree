@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Reaching out about a hoarding situation is hard — whether it’s your home, a parent’s, or a property you’re responsible for. So here’s what you can expect from us: a private conversation, a discreet walkthrough, one honest flat-rate quote, and a crew that works patiently, respectfully and entirely at the pace the situation calls for. No lectures, no reactions, no judgment. Just a fully insured Newmarket team that has done this many times before and knows how to do it kindly."
+      "Reaching out about a hoarding situation is hard — whether it’s your home, a parent’s, or a property you’re responsible for. {{fact:changedScope}}. No lectures, no reactions, no judgment. Just a fully insured Newmarket team that has done this many times before and knows how to do it kindly."
      ]
     },
     {
@@ -97,29 +97,9 @@
      "text": "Hoarding touches more households than most people realize — in every neighbourhood, from Main Street to Stonehaven, behind doors that look like every other door on the street. Live Junk Free has spent years helping Newmarket families through it quietly, and the Google reviews behind our name include many from people who were nervous to make the first call and grateful they did."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Discretion is the default, not a request",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "We arrive without fanfare, keep conversations private, and treat what we see as nobody's business but yours. Neighbours see a crew doing a job — nothing more. What's discussed during your walkthrough stays between us."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "The pace belongs to you or your family",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -127,29 +107,9 @@
      "text": "Some hoarding cleanouts run start-to-finish in a day; others go better as a series of shorter visits, one room at a time, with the resident involved in decisions. Both are normal. We build the plan around the person, not around our schedule."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One flat quote, however long the care takes",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Pricing is based on the volume we remove — never on hours. That matters enormously here, because it means slowing down to check every box and pocket costs you nothing extra. The figure from your free walkthrough is locked, period."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "We search as we clear — nothing valuable gets lost",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -157,29 +117,9 @@
      "text": "Hoarded homes hide important things: cash, jewelry, documents, photographs, keepsakes. Our crew is trained to sort as we go, not scoop — anything significant is set aside and handed to you or the family. It's slower, and it's the only right way to do this work."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "No pressure at any step — including the first call",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "The walkthrough is free and private, the quote carries no obligation, and if you or your family member aren't ready, we'll leave our number and wait. Many of our Newmarket hoarding cleanouts started with a call months before the actual booking. That's fine with us."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Fair local pricing",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -203,7 +143,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "There's no \"hoarding surcharge,\" no hourly meter punishing careful sorting, and no revised bill afterward. Whether the job takes one visit or four, the price agreed at the start is the price at the end."
+     "text": "There's no \"hoarding surcharge,\" no hourly meter punishing and no revised bill afterward."
     },
     {
      "t": "cards",
@@ -258,7 +198,7 @@
        ]
       },
       {
-       "title": "2. A Calm Walkthrough and a Flat Quote",
+       "title": "2. A Calm Walkthrough and a",
        "text": [
         "We tour the home quietly, without commentary, and assess the volume involved. You receive one figure — and if a phased, room-by-room approach makes more sense, we'll map that out together. The quote is free and carries zero pressure."
        ]
@@ -266,13 +206,13 @@
       {
        "title": "3. Clearing That Respects the Person",
        "text": [
-        "On your go-ahead, the crew works methodically: sorting rather than shovelling, setting aside valuables, documents and sentimental items, involving the resident or family in judgment calls, and keeping the atmosphere calm throughout. Donations are staged separately from disposal at every stage."
+        "{{fact:cleanupScope}}. Donations are staged separately from disposal at every stage."
        ]
       },
       {
-       "title": "4. A Clean, Livable Home Again",
+       "title": "4. A Clean, Home Again",
        "text": [
-        "Cleared rooms are swept as we finish them. When the final load leaves, the home is ready for deep cleaning, repairs or simply living in again — and everything removed is routed to donation and recycling first, landfill strictly last."
+        "Cleared rooms are as we finish them. When the final load leaves, the home is ready for deep cleaning, repairs or simply living in again — and everything removed is routed to donation and recycling first, landfill strictly last."
        ]
       }
      ]
@@ -298,13 +238,13 @@
        "q": "Resident-Led Hoarding Cleanouts in Newmarket",
        "a": [
         [
-         "Whole-home clearing at the resident’s pace — one visit or several"
+         "{{fact:pickupTimes}}"
         ],
         [
          "Room-by-room progress plans — kitchen and pathways first, if safety demands"
         ],
         [
-         "Keep/donate/discard sorting done with the resident, not around them"
+         ""
         ],
         [
          "Return visits scheduled as readiness grows"
@@ -370,7 +310,7 @@
          "E-waste, scrap metal and recyclables, properly diverted"
         ],
         [
-         "Broom-sweep of every cleared room"
+         ""
         ],
         [
          "Donation runs for everything with useful life remaining"
@@ -504,7 +444,7 @@
        "q": "Q: How much does a hoarding cleanout cost in Newmarket?",
        "a": [
         [
-         "There’s no specialty surcharge and no hourly rate — so the extra care and slower sorting these jobs deserve never inflates your bill."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -528,7 +468,7 @@
        "q": "Q: What if there's money, jewelry or important paperwork buried in the house?",
        "a": [
         [
-         "A: We assume there is — because there almost always is. Our crew sorts as we clear rather than bulk-loading, and anything of value or significance goes into a set-aside pile that’s handed directly to you or the family. Finding a missing document or an envelope of cash is a regular occurrence on these jobs."
+         "A: We assume there is — because there almost always is. {{fact:changedScope}}. Finding a missing document or an envelope of cash is a regular occurrence on these jobs."
         ]
        ]
       },
@@ -536,7 +476,7 @@
        "q": "Q: Can you handle a hoarded home after a family member has passed away?",
        "a": [
         [
-         "A: We can, and we do so often. Hoarded estate cleanouts combine two hard things — grief and volume — and our approach is patience with both: careful searching for documents and keepsakes the family needs, honest timelines, and a property left ready for whatever comes next."
+         "A: We can, and we do so often."
         ]
        ]
       }

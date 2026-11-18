@@ -107,7 +107,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "After an eviction, the property itself may be ready for its next tenant, but the belongings left behind can delay everything. Live Junk Free provides a Whitchurch-Stouffville eviction cleanout service that brings the removal, hauling and final sweep together."
+     "text": "After an eviction, the property itself may be ready for its next tenant, but the belongings left behind can delay everything."
     }
    ]
   },
@@ -158,15 +158,6 @@
        "text": [
         [
          "Not every item removed from an eviction property needs to become waste. Where practical, we sort eligible furniture, electronics, metals and other materials for recycling or donation and responsibly dispose of the remaining accepted items."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Final Sweep After Your Eviction Cleanout",
-       "text": [
-        [
-         "Once the agreed belongings have been removed, our crew sweeps the cleared areas. This leaves the property tidier and gives landlords or property managers a cleaner space to prepare for the next occupant."
         ]
        ]
       }
@@ -310,7 +301,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -366,15 +357,6 @@
        "text": [
         [
          "Choose an available appointment that fits your property turnover timeline. Same-day and next-day service may be available depending on scheduling."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "We Remove, Haul & Sweep",
-       "text": [
-        [
-         "Our crew removes the agreed items, handles the loading and hauling, and sweeps the cleared areas once the cleanout is finished."
         ]
        ]
       }
@@ -1163,7 +1145,7 @@
        "q": "What is included in an eviction cleanout in Whitchurch-Stouffville?",
        "a": [
         [
-         "An eviction cleanout in Whitchurch-Stouffville can include the removal of unwanted furniture, mattresses, appliances, electronics, clothing, trash, recyclables and other accepted belongings. Cleanouts can include rooms, garages and basements, followed by a final sweep. "
+         "An eviction cleanout in Whitchurch-Stouffville can include the removal of unwanted furniture, mattresses, appliances, electronics, clothing, trash, recyclables and other accepted belongings. {{fact:cleanupScope}}. "
         ]
        ]
       },
@@ -1171,7 +1153,7 @@
        "q": "Do you offer same-day eviction cleanouts in Whitchurch-Stouffville?",
        "a": [
         [
-         "Yes. Live Junk Free offers same-day and next-day eviction cleanout services in Whitchurch-Stouffville when appointments are available. Contact us as soon as possible if you need the property cleared quickly. "
+         "Yes. Live Junk Free offers same-day and next-day eviction cleanout services when available in Whitchurch-Stouffville when appointments are available. Contact us as soon as possible if you need the property cleared quickly. "
         ]
        ]
       },

@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because an honest number requires actually seeing what’s there, and guessing at a price over the phone only sets a family up for a surprise later — one more thing to worry about at a time when there’s already too much to think about. Live Junk Free walks through the property in person before naming a figure, and once that figure is approved, it holds, no matter what the sorting turns up."
+      "Because an honest number requires actually seeing what’s there, and guessing at a price over the phone only sets a family up for a surprise later — one more thing to worry about at a time when there’s already too much to think about. {{fact:cleanupScope}}."
      ]
     },
     {
@@ -204,8 +204,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -225,7 +224,7 @@
     {
      "t": "p",
      "c": [
-      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -289,7 +288,7 @@
        "title": "A Space That's Clean and Ready",
        "text": [
         [
-         "We complete a final walkthrough, sweep the area, and leave the space ready for whatever comes next."
+         "We complete a final walkthrough, and leave the space ready for whatever comes next."
         ]
        ]
       }
@@ -327,7 +326,7 @@
        "Real experience with decades of accumulated belongings"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Documentation available for an executor or estate file"
@@ -372,9 +371,6 @@
        "Bereavement cleanouts on rural properties toward Columbus and Raglan"
       ],
       [
-       "Same flat pricing regardless of distance from the city core"
-      ],
-      [
        "Coordination with family members involved in settling the estate"
       ],
       [
@@ -397,10 +393,7 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ]
      ]
     }
@@ -804,7 +797,7 @@
        "q": "Do you cover rural properties near Columbus or Raglan?",
        "a": [
         [
-         "Yes, at the same flat pricing and honest walkthrough process as anywhere in the city. "
+         "{{fact:competitorComparison}} "
         ]
        ]
       },

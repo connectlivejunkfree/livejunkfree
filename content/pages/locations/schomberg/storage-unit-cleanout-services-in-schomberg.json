@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "Whichever facility the unit’s at, the same flat pricing and the same careful process apply."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -150,19 +150,10 @@
       },
       {
        "n": "04",
-       "title": "Same-day storage unit cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first storage unit cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -204,8 +195,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -225,7 +215,7 @@
     {
      "t": "p",
      "c": [
-      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -271,7 +261,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual unit and gives you one flat price before anything moves — village or nearby facility, same process."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -289,7 +279,7 @@
        "title": "Your Unit Is Empty and Ready to Return",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready to hand back to the facility."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready to hand back to the facility."
         ]
        ]
       }
@@ -324,16 +314,10 @@
        "Cleanouts for storage facilities in Schomberg and nearby areas"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
-       "Same-day service available for units with straightforward access"
+       "Same-day service may be available for units with straightforward access"
       ],
       [
        "Usable belongings checked for donation before recycling or disposal"
-      ],
-      [
-       "Consistent flat-rate pricing across the service area"
       ]
      ]
     },
@@ -347,12 +331,6 @@
      "items": [
       [
        "Cleanouts for units containing agricultural equipment, supplies, and inventory"
-      ],
-      [
-       "Careful sorting of equipment and stored materials"
-      ],
-      [
-       "Same flat-rate pricing regardless of the property's distance from central Schomberg"
       ],
       [
        "Documentation available when required for property or estate records"
@@ -381,13 +359,10 @@
        "Coordination with facility management when timing or access requires it"
       ],
       [
-       "Same flat-rate pricing, even for time-sensitive cleanouts"
-      ],
-      [
        "Priority scheduling for approaching lease-end dates"
       ],
       [
-       "Same-day completion available for most straightforward units"
+       "Same-day completion may be available for most straightforward units"
       ]
      ]
     },
@@ -404,12 +379,6 @@
       ],
       [
        "Removal of furniture, boxes, household belongings, and other stored items"
-      ],
-      [
-       "Donation-first sorting before recyclable or unwanted items are disposed of"
-      ],
-      [
-       "Consistent flat-rate pricing throughout the year"
       ],
       [
        "Efficient turnaround for straightforward cleanout jobs"
@@ -824,7 +793,7 @@
        "q": "5. Do you handle sorting and responsible disposal during a storage unit cleanout?",
        "a": [
         [
-         "Yes. Items can be separated based on whether they can be donated, recycled, reused, or responsibly disposed of, helping reduce unnecessary waste while clearing the storage unit."
+         "Yes. Items can be separated based on whether they can be donated, recycled where possible, reused, or responsibly disposed of, helping reduce unnecessary waste while clearing the storage unit."
         ]
        ]
       }

@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Apartment cleanout services in East Gwillimbury from Live Junk Free are most often needed along the growing Green Lane corridor, where newer rental buildings have followed the recent subdivision growth — with the same flat pricing extended to any rare unit found in the century hamlets, no premium either way."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because the township’s real apartment and rental building stock has grown up alongside the recent development along Green Lane and the 404 corridor, while Holland Landing, Sharon, Mount Albert and Queensville remain largely house-based communities. Live Junk Free covers apartment cleanout wherever it’s genuinely needed, most commonly in the growth corridor, with the identical flat pricing extended to any unit found elsewhere in the township."
+      "Because the township’s real apartment and rental building stock has grown up alongside the recent development along Green Lane and the 404 corridor, while Holland Landing, Sharon, Mount Albert and Queensville remain largely house-based communities. {{fact:changedScope}}."
      ]
     },
     {
@@ -154,24 +154,6 @@
        ]
       },
       {
-       "n": "04",
-       "title": "One flat apartment cleanout price, confirmed before anything moves",
-       "text": [
-        [
-         "A crew member sees the actual unit and gives one flat number before anything moves."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first apartment cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
-        ]
-       ]
-      },
-      {
        "n": "06",
        "title": "Independent apartment cleanout pricing",
        "text": [
@@ -209,7 +191,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -230,7 +211,7 @@
     {
      "t": "p",
      "c": [
-      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -276,7 +257,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual unit and gives you one flat price before anything moves, whatever community it’s in."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -294,7 +275,7 @@
        "title": "The Unit Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready for whatever comes next."
         ]
        ]
       }
@@ -335,7 +316,7 @@
        "No client's situation discussed with anyone outside the job"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -355,9 +336,6 @@
       ],
       [
        "Damage or abandonment documentation available on request"
-      ],
-      [
-       "Same flat pricing regardless of the building's age"
       ]
      ]
     }
@@ -377,13 +355,7 @@
        "Apartment cleanouts covering any unit outside the growth corridor"
       ],
       [
-       "Same flat pricing as the Green Lane corridor"
-      ],
-      [
        "Same fair standard as anywhere in the region"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
       ]
      ]
     },
@@ -402,10 +374,10 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }

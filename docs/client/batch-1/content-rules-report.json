@@ -1,216 +1,299 @@
 {
- "generated": "2026-11-18T14:33:23.901Z",
+ "generated": "2026-11-18T19:22:49.558Z",
  "dryRun": false,
  "filesScanned": 784,
- "filesChanged": 739,
+ "filesChanged": 1,
  "rules": {
   "demo-slots": {
    "ref": "R7, OBS-02, OBS-149, OBS-153",
-   "before": 350,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "competitor-30-50": {
    "ref": "R1, G01, OBS-01, OBS-134, OBS-138, OBS-141",
-   "before": 552,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "response-time": {
    "ref": "OBS-28, OBS-32, OBS-37, OBS-57, OBS-87, OBS-110, OBS-131",
-   "before": 124,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "fixed-duration": {
    "ref": "G02, OBS-22, OBS-25, OBS-35, OBS-37, OBS-53, OBS-57, OBS-79, OBS-87, OBS-91, OBS-101, OBS-105, OBS-109, OBS-115, OBS-119, OBS-124, OBS-128",
-   "before": 189,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "damage-guarantee": {
    "ref": "G02, OBS-27, OBS-46, OBS-70, OBS-87, OBS-119",
-   "before": 67,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "satisfaction-guarantee": {
    "ref": "G02, OBS-22, OBS-25, OBS-35, OBS-101, OBS-105",
-   "before": 30,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "lease-ready": {
    "ref": "G02, OBS-05, OBS-28, OBS-148, OBS-150, OBS-155",
-   "before": 123,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "certified-recycling": {
    "ref": "A2, G09, OBS-36, OBS-49, OBS-62, OBS-71, OBS-78, OBS-108, OBS-116, OBS-120, OBS-148",
-   "before": 351,
+   "before": 0,
    "after": 4,
    "changedStrings": 0
   },
   "specialist-claims": {
    "ref": "G09, OBS-61, OBS-73, OBS-86, OBS-96, OBS-108, OBS-117, OBS-118, OBS-122, OBS-125, OBS-126, OBS-128",
-   "before": 138,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "no-hidden-fees": {
    "ref": "Answers B1.4",
-   "before": 691,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "all-in-equivalents": {
    "ref": "Answers A1.4, A1.7, B1.4",
-   "before": 918,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "no-extra-charge": {
    "ref": "Answers A1.4, A1.7",
-   "before": 147,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "insurance-docs": {
    "ref": "Answers B3.1",
-   "before": 305,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "protection-procedure": {
    "ref": "Answers B3.3",
-   "before": 81,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "records-reports": {
    "ref": "Answers B5.18, B6.2",
-   "before": 331,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "donation-receipts": {
    "ref": "Answers B4.4",
-   "before": 13,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "cleaning-claims": {
    "ref": "Answers B6.2, B6.7",
-   "before": 20,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "timeline-guarantee": {
    "ref": "Answers B2.1, B3.2, OBS-05",
-   "before": 37,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "site-work": {
    "ref": "Answers B5.10, B5.11",
-   "before": 10,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "inclusions": {
    "ref": "Manisha 18 Nov follow-up; A1.4, A1.7",
-   "before": 377,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "structural-assessment": {
    "ref": "Manisha 18 Nov follow-up; B5.10",
-   "before": 43,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "evening-standard": {
    "ref": "Answers B2.2; Manisha 18 Nov follow-up",
-   "before": 143,
+   "before": 0,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "qa-guarantees": {
+   "ref": "QA 18 Nov §2A guarantees; Answers B3.2",
+   "before": 0,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "qa-price": {
+   "ref": "QA 18 Nov §2A price; Answers A1.4, A1.7, B1.2, B1.4",
+   "before": 0,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "qa-timing": {
+   "ref": "QA 18 Nov §2A timing; Answers B2.1–B2.3",
+   "before": 0,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "qa-weekend": {
+   "ref": "QA 18 Nov §2A timing; Manisha follow-up 18 Nov",
+   "before": 0,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "qa-sort-sweep": {
+   "ref": "QA 18 Nov §2A handling; Answers B6.1, B6.2",
+   "before": 55,
+   "after": 55,
+   "changedStrings": 0
+  },
+  "qa-recycled": {
+   "ref": "QA 18 Nov §2A recycling; Answers B4.1–B4.4",
+   "before": 7,
+   "after": 7,
+   "changedStrings": 0
+  },
+  "qa-superlatives": {
+   "ref": "QA 18 Nov §2A superlatives; Answers B8.1, B8.2",
+   "before": 0,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "qa-permits": {
+   "ref": "QA 18 Nov §2A specialist; Answers B5.9",
+   "before": 3,
+   "after": 3,
+   "changedStrings": 0
+  },
+  "qa-structural": {
+   "ref": "QA 18 Nov §2A specialist; Answers B5.10, B5.12; Manisha 18 Nov",
+   "before": 47,
+   "after": 47,
+   "changedStrings": 0
+  },
+  "qa-equipment": {
+   "ref": "QA 18 Nov §2A specialist; Answers B5.10, B5.11, B5.16",
+   "before": 3,
+   "after": 3,
+   "changedStrings": 0
+  },
+  "qa-utilities": {
+   "ref": "QA 18 Nov §2A specialist; Answers B5.5–B5.7",
+   "before": 12,
+   "after": 12,
+   "changedStrings": 0
+  },
+  "qa-handling": {
+   "ref": "QA 18 Nov §2A handling; Answers B7.1, B4.2",
+   "before": 0,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "qa-retained": {
+   "ref": "QA 18 Nov §2A handling; Answers B6.1, B6.3",
+   "before": 0,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "qa-local": {
+   "ref": "QA 18 Nov §2A local; Answers B8.4, B8.5",
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "hours": {
    "ref": "Answers B2.3",
-   "before": 561,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "promotions": {
    "ref": "Answers B1.2",
-   "before": 109,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "after-hours": {
    "ref": "Answers B2.2",
-   "before": 5,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "instant-quote": {
    "ref": "Answers B1.3",
-   "before": 131,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "canada": {
    "ref": "Answers B8.4",
-   "before": 493,
-   "after": 8,
+   "before": 6,
+   "after": 6,
    "changedStrings": 0
   },
   "same-day": {
-   "ref": "R2, G02, OBS-13, OBS-26, OBS-45, OBS-53, OBS-131, OBS-135, OBS-138",
-   "before": 2622,
-   "after": 23,
+   "ref": "R2, G02, OBS-13, OBS-26, OBS-45, OBS-53, OBS-131, OBS-135, OBS-138, QA 18 Nov",
+   "before": 1423,
+   "after": 26,
    "changedStrings": 0
   },
   "review-counts": {
    "ref": "OBS-64, OBS-133, Part 2 B-8 #1",
-   "before": 1652,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "superlatives": {
    "ref": "OBS-136, OBS-142, OBS-60",
-   "before": 20,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "lone-prices": {
    "ref": "G01, OBS-12, OBS-17, OBS-57, OBS-62, OBS-115, OBS-137, OBS-140",
-   "before": 63,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "exact": {
-   "before": 307,
+   "before": 1,
    "after": 0,
    "changedStrings": 0
   },
   "min-price-token": {
-   "before": 717,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "price-scope": {
    "ref": "Answers A1.3, A1.5, A1.6",
-   "before": 868,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   },
   "links": {
-   "before": 8,
+   "before": 0,
    "after": 0,
    "changedStrings": 0
   }
- },
- "note": "before = the committed content at HEAD (the copy imported from WordPress, before Batch 1). after = the current working tree, after the 18 Nov 2026 answers and Manisha's follow-up. The remaining after-counts are permitted uses: same-day sentences already qualified, \"certificates\" in the data-security disclaimer (B5.1), and \"Canada\" in legal / privacy text. The rendered-page scan of all 787 pages plus llms.txt / llms-full.txt finds none of the banned wording."
+ }
 }

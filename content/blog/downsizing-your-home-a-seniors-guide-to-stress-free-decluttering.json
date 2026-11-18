@@ -168,7 +168,7 @@
     {
      "t": "p",
      "c": [
-      "Even spending 20–30 minutes a day sorting belongings can make a noticeable difference over time."
+      "{{fact:pickupTimes}}"
      ]
     }
    ]
@@ -1152,12 +1152,6 @@
     {
      "t": "p",
      "c": [
-      "Start sorting rooms and identify furniture that won’t fit in your new home."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
       {
        "b": [
         "4–6 Weeks Before Moving"
@@ -1179,12 +1173,6 @@
         "2–3 Weeks Before Moving"
        ]
       }
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "Finish sorting storage areas, basements, garages, and closets."
      ]
     },
     {

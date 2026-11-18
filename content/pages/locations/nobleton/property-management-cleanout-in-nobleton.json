@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Property Management Cleanout in Nobleton | Live Junk Free",
-  "description": "Live Junk Free handles property management cleanout in Nobleton at the scale these properties actually are, with one flat price per rental unit.",
+  "description": "{{fact:changedScope}}.",
   "canonical": "https://livejunkfree.ca/locations/nobleton/property-management-cleanout-in-nobleton/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/08/Property-Management-Cleanout-in-Nobleton-rotated.jpg"
@@ -127,7 +127,7 @@
        "title": "Property management cleanout quoted at estate-home scale",
        "text": [
         [
-         "Large lower-level suites, secondary kitchens, and multi-bay garages are measured properly at the walkthrough. You get one flat price that covers the real volume, not a number that gets revised once the truck is half full."
+         "Large lower-level suites, secondary kitchens, and multi-bay garages are measured properly at the walkthrough. {{fact:changedScope}}."
         ]
        ]
       },
@@ -141,20 +141,11 @@
        ]
       },
       {
-       "n": "03",
-       "title": "",
-       "text": [
-        [
-         ""
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "Acreage outbuildings quoted with the main rental unit",
        "text": [
         [
-         "Pool houses, coach houses, drive sheds, workshops, and barns come into the same walkthrough and the same flat price rather than becoming a second visit. Demolition services are available where a structure has gone past repair."
+         "{{fact:changedScope}}. Demolition services are available where a structure has gone past repair."
         ]
        ]
       },
@@ -172,7 +163,7 @@
        "title": "Independent property management cleanout pricing",
        "text": [
         [
-         "National junk removal brands add a royalty to every quote before dispatch, then price up for an affluent postal code. Live Junk Free does neither — property management cleanout pricing in Nobleton is calculated on volume and sorting, full stop."
+         "National junk removal brands add a royalty to every quote before dispatch, then price up for an affluent postal code. Live Junk Free does neither — property management cleanout pricing in Nobleton is calculated on volume and full stop."
         ]
        ]
       }
@@ -199,7 +190,7 @@
     {
      "t": "p",
      "c": [
-      "Volume, then sorting. Nobleton rental units are large, so volume is usually the dominant factor — a full lower-level suite with furniture in every room, appliances, electronics, exercise equipment in the family room, and a garage bay of stored household items is a real job, and the property management cleanout cost in Nobleton reflects that rather than pretending it’s a standard apartment."
+      "{{fact:cleanupScope}}. Nobleton rental units are large, so volume is usually the dominant factor — a full lower-level suite with furniture in every room, appliances, electronics, exercise equipment in the family room, and a garage bay of stored household items is a real job, and the property management cleanout cost in Nobleton reflects that rather than pretending it’s a standard apartment."
      ]
     },
     {
@@ -232,7 +223,7 @@
     {
      "t": "p",
      "c": [
-      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -278,7 +269,7 @@
        "title": "Free on-site walkthrough and one flat property management cleanout price",
        "text": [
         [
-         "The crew walks the rental unit and every outbuilding, then gives one flat price per unit before anything is lifted. Property management cleanout pricing is settled in advance, with no revision once the work starts."
+         "{{fact:changedScope}}. Property management cleanout pricing is settled in advance, with no revision once the work starts."
         ]
        ]
       },
@@ -288,15 +279,6 @@
        "text": [
         [
          "Furniture, appliances, mattresses, electronics, hot tubs, yard waste, exercise equipment, and general household items come out through the separate entrance with floors, stair nosings, and finished surfaces protected. Everything is sorted donation-first, then recycling, then disposal, with the unit’s condition documented throughout — which matters most on eviction cleanout and abandoned rental property jobs."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Your vacant rental unit is ready to list",
-       "text": [
-        [
-         ""
         ]
        ]
       }
@@ -410,9 +392,6 @@
        "Fast turnaround so the vacant rental unit is ready before listing photos"
       ],
       [
-       "Same flat pricing whether the timeline is a month or a day"
-      ],
-      [
        "Corridor, elevator, and lobby protection as standard"
       ]
      ]
@@ -449,7 +428,7 @@
     {
      "t": "p",
      "c": [
-      "The same crews and the same property management cleanout pricing run across all of King Township and past it. Property cleanout services cover King City, Schomberg, Kettleby, Pottageville, Lloydtown, Ansnorveldt, Snowball, and the surrounding concessions, plus Bolton, Vaughan, Woodbridge, Caledon, and Aurora just beyond the township line. GTA cleanout services extend from there:"
+      "{{fact:scheduling}} Property cleanout services cover King City, Schomberg, Kettleby, Pottageville, Lloydtown, Ansnorveldt, Snowball, and the surrounding concessions, plus Bolton, Vaughan, Woodbridge, Caledon, and Aurora just beyond the township line. GTA cleanout services extend from there:"
      ]
     },
     {
@@ -809,7 +788,7 @@
        "q": "How much does property management cleanout cost in Nobleton?",
        "a": [
         [
-         "The property management cleanout cost in Oshawa is confirmed free per unit at the walkthrough, based on volume and sorting required. Peak-week timing and portfolio size don’t change it."
+         "{{fact:cleanupScope}}. Peak-week timing and portfolio size don’t change it."
         ]
        ]
       },

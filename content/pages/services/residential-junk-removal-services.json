@@ -75,7 +75,7 @@
         " residential trash hauling services "
        ]
       },
-      "in the Greater Toronto Area that you might wonder why you didn’t give us a call earlier. No matter how massive or minuscule the clutter is, we’ll sweep it up so you can breathe again more effectively in your area. So get in touch with us to bid farewell to the tension and welcome a more hygienic and comfortable house for yourself."
+      "in the Greater Toronto Area that you might wonder why you didn’t give us a call earlier. No matter how massive or minuscule the clutter is, we’ll so you can breathe again more effectively in your area. So get in touch with us to bid farewell to the tension and welcome a more hygienic and comfortable house for yourself."
      ]
     },
     {
@@ -1039,7 +1039,7 @@
     {
      "t": "p",
      "c": [
-      "Employing our services is simpler than you can imagine. All you need to do is begin with make a call to our representative and reserve your spot for junk pickup according to the time suitable for you. When our ",
+      "Employing our services is simpler than you can imagine. When our ",
       {
        "b": [
         "residential junk haulers "
@@ -1131,7 +1131,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "To reduce waste and foster the preservation of the environment, we make sure that your belongings are handled or recycled correctly."
+     "text": "To reduce waste and foster the preservation of the environment, we make sure that your belongings are handled or recycled where possible."
     },
     {
      "t": "h",
@@ -1177,29 +1177,9 @@
      "text": "We at Live Junk Free, feel that robust, consistent principles form the cornerstone of excellent service. Our promises serve as the fundamental basis of everything we do, much like the building blocks that come together to construct something enduring and significant."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "On-Time Service",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "While you might have other tasks in your schedule as well apart from cleaning, our residential junk haulers remain punctual with their arrival and are conscious about reaching the site with all the necessary cleaning tools."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "{{fact:competitorComparison}}",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -1207,29 +1187,9 @@
      "text": "Since we understand that money is a crucial thing for all of us, we make sure that the quotation offered from our end is absolutely transparent and cost-effective while being free from any hidden charges that can be troublesome for you later in the process."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "{{fact:licensedInsured}}",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "As your satisfaction is what drives us to work, we can't be content unless you are. Therefore, we go above and beyond to make sure your place is left in the exact manner you wish to have – free from all the clutter, stains and debris."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Sustainable Disposal",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -1237,29 +1197,9 @@
      "text": "Though we are responsible towards the environment, not everyone steps up to work in its favour. This is why we’ve incorporated eco-friendly disposal into our services and strongly adhere to the practice in a responsible manner."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Respectful Service",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "To operate effectively without compromising ethics, our workforce has been educated to manage your house and possessions with the greatest caution and respect while delivering a hassle-free service without bothering you."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Swift and Seamless Process",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -1332,12 +1272,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "No matter how big or tiny , We haul it all."
+     "text": "Big or small, tell us what needs to go."
     },
     {
      "t": "h",
      "l": 3,
-     "text": "Set Up a Time For Your Residential Junk Removal Project Right Now!"
+     "text": "Request a Junk Removal Quote or Callback"
     },
     {
      "t": "ctas",
@@ -1406,7 +1346,7 @@
        "q": "How far in advance do I need to schedule a pickup?",
        "a": [
         [
-         "We strive to accommodate our customers’ schedules as much as possible. However, we understand that emergencies happen, so feel free to reach out to us, and we’ll do our best to accommodate your needs.",
+         "We strive to accommodate our customers’ schedules as much as possible. {{fact:scheduling}}",
          {
           "br": 1
          },

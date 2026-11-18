@@ -165,7 +165,7 @@
        "title": "Insured Eviction Cleanout Crew",
        "text": [
         [
-         "You shouldn’t have to coordinate a group of people to carry heavy items out of a recently vacated property. Our insured crew handles the physical removal, loading and final sweep professionally."
+         "You shouldn’t have to coordinate a group of people to carry heavy items out of a recently vacated property. {{fact:cleanupScope}}."
         ]
        ]
       }
@@ -276,7 +276,7 @@
     {
      "t": "p",
      "c": [
-      "Smaller apartment cleanouts may have different requirements from a full house or a larger multi-unit project."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -288,8 +288,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -309,7 +308,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -373,7 +372,7 @@
        "title": "We Clear the Property",
        "text": [
         [
-         "Our crew arrives, removes the agreed items, loads everything for hauling and sweeps the cleared areas once the removal is complete."
+         "{{fact:cleanupScope}}."
         ]
        ]
       }
@@ -564,7 +563,7 @@
      "t": "ul",
      "items": [
       [
-       "A vacated property can contain more than large household items. We can remove accepted mattresses, clothing, trash, recyclables, yard waste and debris as part of the cleanout and sweep the cleared areas afterward."
+       "A vacated property can contain more than large household items. {{fact:cleanupScope}}."
       ]
      ]
     }
@@ -1172,7 +1171,7 @@
        "q": "Do you offer same-day eviction cleanouts in Georgina?",
        "a": [
         [
-         "Yes, same-day and next-day eviction cleanout services may be available depending on scheduling. Weekend and evening appointments may also be available. "
+         "Yes, same-day and next-day eviction cleanout services may be available depending on scheduling. Weekend and evening appointments may also be available, subject to scheduling. (subject to scheduling) "
         ]
        ]
       },

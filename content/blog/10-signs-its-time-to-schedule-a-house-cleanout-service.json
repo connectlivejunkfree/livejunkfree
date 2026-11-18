@@ -149,7 +149,7 @@
     {
      "t": "p",
      "c": [
-      "Piles of clutter can create tripping hazards, block emergency exits, or make it difficult to navigate your home safely. If you notice these safety concerns, especially in homes with children or elderly residents, professional house cleanouts should be scheduled immediately to restore safe living conditions."
+      "{{fact:scheduling}} If you notice these safety concerns, especially in homes with children or elderly residents, professional house cleanouts should be scheduled immediately to restore safe living conditions."
      ]
     }
    ]
@@ -164,7 +164,7 @@
     {
      "t": "p",
      "c": [
-      "Inherited properties often come with a lifetime’s worth of possessions that need sorting. Professional house cleanout teams can efficiently process these items, identifying valuables, managing disposals, and preparing the property for whatever comes next, whether that’s sale, rental, or personal use."
+      "{{fact:cleanupScope}}. {{fact:retainedItems}}"
      ]
     }
    ]
@@ -204,7 +204,7 @@
       {
        "br": 1
       },
-      "Professional teams complete in days what might take homeowners weeks or months. Their experience with sorting, organizing, and decision-making streamlines the entire process, from initial assessment to final cleanup."
+      "Professional teams complete in days what might take homeowners weeks or months. Their experience with organizing, and decision-making streamlines the entire process, from initial assessment to final cleanup."
      ]
     },
     {

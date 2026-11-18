@@ -111,17 +111,8 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "Ballantrae demolition, paced for calm rather than speed",
-       "text": [
-        [
-         "Single-level bungalow properties get contained work zones, quiet scheduling and minimal disruption as standard — the same quality of demolition, delivered the way that community prefers to experience it."
-        ]
-       ]
-      },
-      {
        "n": "02",
-       "title": "One flat demolition price across every part of the township",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Structure size and material set the number — never which of the township’s three rhythms the property belongs to. A fence section prices the same in Ballantrae, Stouffville proper or out toward Vandorf."
@@ -133,7 +124,7 @@
        "title": "Free demolition quotes, walked in person at the property",
        "text": [
         [
-         "A crew member comes to whatever’s coming down, notes the pace the property calls for, and gives one flat price before anything starts."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -143,15 +134,6 @@
        "text": [
         [
          "GO-corridor subdivision jobs move quickly when a renovation’s already scheduled — the structure’s cleared with enough lead time that the next trade never waits on us."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -262,24 +244,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Approve One Flat Demolition Quote and a Real Date",
-       "text": [
-        [
-         "The crew walks the structure and gives one flat price before touching anything."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Demolition Runs at the Pace the Property Calls For",
-       "text": [
-        [
-         "Contained, quiet work on single-level bungalow properties; efficient, scheduled work on growth-corridor renovations — the structure comes apart in controlled sections either way."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "Site Cleared, Debris Hauled",
        "text": [
@@ -325,9 +289,6 @@
        "Above Ground Pool Demolition — frame, liner and decking torn down and hauled, older bungalow-belt installations handled with extra care"
       ],
       [
-       "Hot Tub Demolition — drained, disconnected and cut apart before removal"
-      ],
-      [
        "Jacuzzi Demolition — same process, any age of structure"
       ]
      ]
@@ -370,9 +331,6 @@
        "Garage Demolition — detached units taken down section by section"
       ],
       [
-       "Deck Demolition — wood and composite, footings addressed for an addition or rebuild"
-      ],
-      [
        "Fence Demolition — full runs or single sections"
       ],
       [
@@ -391,9 +349,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Concrete Demolition — patios, walkways and pads broken up and hauled, grading-conscious near ravine edges"
-      ],
       [
        "Flooring Demolition — old outdoor surfaces and bases removed"
       ],
@@ -673,7 +628,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {
@@ -992,7 +947,7 @@
        "q": "Do you have experience with demolition on Ballantrae's bungalow-style properties?",
        "a": [
         [
-         "Regularly, and we schedule those jobs differently on purpose. Ballantrae demolition runs at a calmer, quieter pace with contained work zones — the same quality of work, delivered the way that community prefers. "
+         "Regularly, and we schedule those jobs differently on purpose. "
         ]
        ]
       },
@@ -1008,7 +963,7 @@
        "q": "Do you charge extra for farm properties toward Vandorf or Gormley?",
        "a": [
         [
-         "Never. The same flat pricing applies at a Ballantrae bungalow and a Vandorf farm property. "
+         "Never. {{fact:changedScope}}. "
         ]
        ]
       },

@@ -11,7 +11,7 @@
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
  },
  "title": "Mattress Removal",
- "h1": "Mattress Removal Toronto — Gone Today, No Heavy Lifting Required",
+ "h1": "Mattress Removal Toronto —, No Heavy Lifting Required",
  "published": "2026-07-12T04:04:54",
  "modified": "2026-07-12T04:04:54",
  "sections": [
@@ -20,7 +20,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Mattress Removal Toronto — Gone Today, No Heavy Lifting Required"
+     "text": "Mattress Removal Toronto —, No Heavy Lifting Required"
     },
     {
      "t": "h",
@@ -87,13 +87,13 @@
         "Live Junk Free"
        ]
       },
-      ", we take care of the logistics so you don’t have to figure any of that out. We pick up mattresses from houses, condos, basement suites, and rental properties across the city — same-day or next-day in most cases. Our pricing is upfront, our crew handles all the heavy lifting, and we dispose of your mattress responsibly, recycling materials wherever possible."
+      ", we take care of the logistics so you don’t have to figure any of that out. We pick up mattresses from houses, condos, basement suites, and rental properties across the city — same-day or next-day in most cases, subject to availability. Our pricing is upfront, our crew handles all the heavy lifting, and we dispose of your mattress responsibly, recycling materials wherever possible."
      ]
     },
     {
      "t": "p",
      "c": [
-      "From a single queen in East York to a bulk cleanout of a Scarborough rental property, we’ve got it handled. Give us a call and we’ll sort the rest."
+      "{{fact:changedScope}}. Give us a call and we’ll sort the rest."
      ]
     },
     {
@@ -148,7 +148,7 @@
         "Upfront pricing, always."
        ]
       },
-      " Before we move a single thing, you’ll know exactly what it costs. With Google reviews backing us up, our reputation for honest pricing isn’t just a claim — it’s something real Toronto customers have verified hundreds of times over."
+      " Before we move a single thing, you’ll know exactly what it costs."
      ]
     },
     {
@@ -156,10 +156,10 @@
      "c": [
       {
        "b": [
-        "Same-day and next-day availability across Toronto."
+        "Availability across Toronto."
        ]
       },
-      " Need it gone today? We get it. Life doesn’t always give you a two-week window to plan a mattress disposal. We offer same-day and next-day bookings for most neighbourhoods in Toronto, including North York, Etobicoke, and Scarborough. Call in the morning, have it gone by afternoon."
+      " Need it gone today? We get it. Life doesn’t always give you a two-week window to plan a mattress disposal. We offer same-day and next-day bookings for most neighbourhoods in Toronto, including North York, Etobicoke, and Scarborough, subject to availability. Call in the morning, have it gone by afternoon."
      ]
     },
     {
@@ -201,7 +201,7 @@
         "Book It Today, Done Today"
        ]
       },
-      " Same-day and next-day slots are available across Toronto most days of the week, including weekends. No waiting a week for a window that may or may not show up."
+      " {{fact:scheduling}} No waiting a week for a window that may or may not show up."
      ]
     },
     {
@@ -220,7 +220,7 @@
      "c": [
       {
        "b": [
-        "Materials Recycled, Not Just Dumped"
+        "Materials Recycled Where Possible, Not Just Dumped"
        ]
       },
       " Less waste, less landfill, same outcome for you."
@@ -231,7 +231,7 @@
      "c": [
       {
        "b": [
-        "Your Space and Your Property Stay Intact"
+        "{{fact:propertyProtection}}"
        ]
       },
       " Our crew uses protective equipment on floors, walls, and door frames throughout the removal. No scuffs, no stress about your building’s elevator walls getting marked up."
@@ -245,7 +245,7 @@
         "One Item or a Full Truckload"
        ]
       },
-      " Whether you’ve got a single twin mattress or you’re clearing an entire rental property, we scale to the job. Bulk pickups get competitive volume pricing."
+      " Whether you’ve got a single twin mattress or you’re clearing an entire rental property, we scale to the job. {{fact:changedScope}}."
      ]
     },
     {
@@ -276,35 +276,12 @@
        "text": [
         "We handle all the lifting, hauling, and disposal – no struggling with heavy TVs or rental trucks"
        ]
-      },
-      {
-       "title": "Pricing",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
-      {
-       "title": "Eco-Friendly Disposal",
-       "text": [
-        "We protect your home during removal with padding and careful handling"
-       ]
       }
      ]
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "Careful Removal"
-    },
-    {
      "t": "cards",
      "items": [
-      {
-       "title": "Bulk Removal Options",
-       "text": [
-        "Special rates when clearing multiple pieces of furniture"
-       ]
-      },
       {
        "title": "Stress-Free Pickup Service",
        "text": [
@@ -438,9 +415,6 @@
      "t": "ul",
      "items": [
       [
-       "Box springs and foundations"
-      ],
-      [
        "Bed frames (metal and wood)"
       ],
       [
@@ -469,9 +443,6 @@
      "items": [
       [
        "Single mattress pickup from a home or condo"
-      ],
-      [
-       "Bulk mattress removal from rental properties and buildings"
       ],
       [
        "Estate and cleanout services"
@@ -511,7 +482,7 @@
       {
        "title": "Our Team Arrives On Time",
        "text": [
-        "We call 30 minutes before showing up so you're never left waiting. Our crew arrives on schedule, confirms your quote on the spot, and gets straight to work."
+        "We call 30 minutes before showing up so you're never left waiting. Our crew arrives on schedule, confirms your quote at the onsite estimate, and gets straight to work."
        ]
       },
       {
@@ -523,7 +494,7 @@
       {
        "title": "Responsible Disposal, Every Time",
        "text": [
-        "Usable pieces get donated to local Toronto charities. Everything else goes to recycling facilities. We keep as much out of landfill as possible."
+        "Everything else goes to recycling facilities. We keep as much out of landfill as possible."
        ]
       }
      ]
@@ -592,7 +563,7 @@
        "q": "Q: Does the City of Toronto pick up old mattresses for free?",
        "a": [
         [
-         "A: No — we take it as-is in most cases. The only exception is a mattress with bed bugs, which must be sealed in a mattress bag before we arrive. Just mention it at booking and we’ll guide you through it."
+         "A: No — we take it as-is in most cases. Just mention it at booking and we’ll guide you through it."
         ]
        ]
       },
@@ -600,7 +571,7 @@
        "q": "Q: How much does mattress removal cost in Toronto?",
        "a": [
         [
-         "A: Pricing is based on truck volume, not a flat per-mattress rate. A single mattress is one of our more affordable jobs. We give you a firm quote on-site before we start — no surprises."
+         "{{fact:changedScope}}. A single mattress is one of our more affordable jobs. We give you a firm quote on-site before we start — no surprises."
         ]
        ]
       },

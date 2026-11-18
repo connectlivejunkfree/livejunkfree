@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Apartment cleanout services in Nobleton from Live Junk Free hand off the one part most families would rather not manage alone — the hauling — while you keep every decision about what stays, what goes to relatives, and what gets donated, priced flat with no minimum-job padding."
+     "text": "{{fact:propertyProtection}}"
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Not because they can’t. Most families here are perfectly capable of sorting through a relative’s apartment on their own — that’s part of the village’s character. What actually makes an apartment cleanout worth hiring out isn’t the sorting or the decisions, which families genuinely want to keep control of. It’s the hauling — loading a truck, making trips to donation centres, disposing of things properly, on top of everything else a family’s already managing. Live Junk Free handles exactly that part."
+      "Not because they can’t. {{fact:cleanupScope}}. It’s the hauling — loading a truck, making trips to donation centres, disposing of things properly, on top of everything else a family’s already managing. Live Junk Free handles exactly that part."
      ]
     },
     {
@@ -127,15 +127,6 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "No minimum-job padding on apartment cleanout pricing",
-       "text": [
-        [
-         "A small unit — one room, a handful of items — prices honestly for what it actually involves, not inflated to match an assumption about what apartment cleanout should cost."
-        ]
-       ]
-      },
-      {
        "n": "02",
        "title": "You keep the decisions, the crew handles the apartment cleanout hauling",
        "text": [
@@ -146,10 +137,10 @@
       },
       {
        "n": "03",
-       "title": "One flat apartment cleanout price, confirmed before anything moves",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "A crew member sees the actual unit and gives one flat number before anything moves, whether it’s a small unit or a full apartment."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -159,15 +150,6 @@
        "text": [
         [
          "Arrival times can be arranged around the family’s schedule, with nothing about the visit drawing attention."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first apartment cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -209,7 +191,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -230,7 +211,7 @@
     {
      "t": "p",
      "c": [
-      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -267,16 +248,7 @@
        "title": "Book Your Apartment Cleanout Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual unit and gives you one flat price before anything moves, sized honestly to what’s actually there."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       },
@@ -294,7 +266,7 @@
        "title": "The Unit Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready for whatever comes next."
         ]
        ]
       }
@@ -335,7 +307,7 @@
        "Careful, unhurried handling around established properties"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -355,9 +327,6 @@
       ],
       [
        "Damage or abandonment documentation available on request"
-      ],
-      [
-       "Same flat pricing regardless of the building's age"
       ]
      ]
     }
@@ -381,9 +350,6 @@
       ],
       [
        "Same fair standard as anywhere in the region"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
       ]
      ]
     },
@@ -402,10 +368,10 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }

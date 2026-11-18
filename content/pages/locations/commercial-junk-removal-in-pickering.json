@@ -112,7 +112,7 @@
      "items": [
       {
        "n": "01",
-       "title": "Truck-volume junk removal pricing — flat across every Pickering district",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Old plaza or new district, your junk removal price obeys one rule: the share of the truck your load fills. No weight math, no stair counts, no charge for how far Seaton sits from the 401. Equal loads, equal invoices, everywhere in the city."
@@ -124,7 +124,7 @@
        "title": "Free on-site junk removal quotes wherever Pickering is building or rebuilding",
        "text": [
         [
-         "A crew lead meets you at the unit — Brock Road bay, Kingston Road storefront, brand-new Seaton shell — walks the complete load, and writes one flat figure for all of it. The visit costs nothing, the number binds only us, and declining carries zero friction."
+         "{{fact:changedScope}}. The visit costs nothing, the number binds only us, and declining carries zero friction."
         ]
        ]
       },
@@ -133,7 +133,7 @@
        "title": "Full-service junk hauling — launches and relaunches need every hand you have",
        "text": [
         [
-         "Opening, rebranding or relocating consumes a team’s whole capacity; hauling shouldn’t tax it further. Our junk removal crew supplies the labour entirely — dismantle, carry, load, sweep — while your people stay on the launch list, the customers and the countdown."
+         "Opening, rebranding or relocating consumes a team’s whole capacity; hauling shouldn’t tax it further. {{fact:cleanupScope}}."
         ]
        ]
       },
@@ -143,15 +143,6 @@
        "text": [
         [
          "{{fact:propertyProtection}}. Whatever the vintage, it hands back."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "{{fact:nextAvailable}}",
-       "text": [
-        [
-         "Entertainment-district venues clear overnight between crowds, plazas clear before open, industrial units clear on Sunday docks."
         ]
        ]
       },
@@ -212,12 +203,6 @@
      "value": "Junk Load from {{min_price:C}}"
     },
     {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -266,7 +251,7 @@
        "title": "Walk the Load, Bank the Junk Removal Quote",
        "text": [
         [
-         "Show the crew everything exiting the era: the outgoing fixtures, the fit-out leftovers, the racking from the last configuration. It measures against truck space and returns as one written flat rate — no expiry, no obligation, no follow-up pressure."
+         "{{fact:equipmentScope}}."
         ]
        ]
       },
@@ -281,10 +266,10 @@
       },
       {
        "n": "04",
-       "title": "Swept, Sorted Junk Disposal, Ready for What's Next",
+       "title": ", Sorted Junk Disposal, Ready for What's Next",
        "text": [
         [
-         "Every job closes broom-swept with documentation on request. The truckload then sorts by destination: donation partners for the usable, licensed recyclers for metals, appliances and e-waste, landfill strictly for the remainder."
+         "Every job closes with documentation on request. The truckload then sorts by destination: donation partners for the usable, licensed recyclers for metals, appliances and e-waste, landfill strictly for the remainder."
         ]
        ]
       }
@@ -325,9 +310,6 @@
        "Bay and unit cleanouts along Brock Road and the 401 employment lands"
       ],
       [
-       "Pallet racking, shelving and mezzanine contents dismantled and hauled"
-      ],
-      [
        "Retired equipment, machine components and scrap metal pickup"
       ],
       [
@@ -335,9 +317,6 @@
       ],
       [
        "Contractor and supplier yard clear-offs"
-      ],
-      [
-       "Multi-truck scheduling for facility-scale clearances"
       ]
      ]
     },
@@ -395,9 +374,6 @@
       ],
       [
        "After-close and pre-open scheduling so trading holds"
-      ],
-      [
-       "End-of-lease sweeps to landlord-inspection standard"
       ]
      ]
     },
@@ -709,7 +685,7 @@
        "q": "Can you do an opening cleanup for a new business in Seaton?",
        "a": [
         [
-         "Gladly — it’s fast becoming a signature Pickering job. Fit-out debris, mountains of packaging, trade leftovers and protective films all haul at standard volume rates, timed against your opening date so the space goes from construction-fresh to customer-ready without your team touching a broom."
+         "Gladly — it’s fast becoming a signature Pickering job. {{fact:changedScope}}."
         ]
        ]
       },
@@ -725,7 +701,7 @@
        "q": "How heavy can the industrial work get on the 401 corridor?",
        "a": [
         [
-         "Substantial. Racking systems, machine components, retired equipment and skid-loads of scrap are standard Brock Road fare, dismantled where needed and moved with proper technique — and multi-truck days handle the facility-scale jobs."
+         "Substantial. {{fact:changedScope}}."
         ]
        ]
       },
@@ -749,7 +725,7 @@
        "q": "Do you run recurring junk removal for Pickering portfolios?",
        "a": [
         [
-         "Steadily — plazas, hospitality groups and landlords across the city hold standing schedules with us. Weekly, monthly or per-turnover, at unchanged volume rates, on one consolidated invoice with a single contact."
+         "Steadily — plazas, hospitality groups and landlords across the city hold standing schedules with us. {{fact:changedScope}}."
         ]
        ]
       },

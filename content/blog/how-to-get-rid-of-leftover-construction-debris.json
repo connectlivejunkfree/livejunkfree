@@ -99,7 +99,7 @@
        "Pros: Convenient for ongoing projects; you can work at your own pace."
       ],
       [
-       "Cons: Requires space on your property; you are responsible for all the heavy lifting and loading; permit requirements may apply in some areas, like Brampton or Markham."
+       "{{fact:permits}}"
       ]
      ]
     },
@@ -163,24 +163,19 @@
   {
    "blocks": [
     {
-     "t": "h",
-     "l": 2,
-     "text": "A Guide to Sorting Common Construction Materials"
-    },
-    {
      "t": "p",
      "c": [
-      "Effective construction waste disposal starts with sorting. Separating your materials not only makes the process smoother but also increases the amount that can be recycled. Here’s a quick guide:"
+      "{{fact:cleanupScope}}. Separating your materials not only makes the process smoother but also increases the amount that can be recycled where possible. Here’s a quick guide:"
      ]
     },
     {
      "t": "ul",
      "items": [
       [
-       "Wood & Lumber: Clean, untreated wood can often be recycled. Pressure-treated wood, however, is considered hazardous waste and must be disposed of separately."
+       "Wood & Lumber: Clean, untreated wood can often be recycled where possible. Pressure-treated wood, however, is considered hazardous waste and must be disposed of separately."
       ],
       [
-       "Drywall: Gypsum in drywall can be recycled into new drywall or used as a soil amendment. It must be kept clean and dry."
+       "Drywall: Gypsum in drywall can be recycled where possible into new drywall or used as a soil amendment. It must be kept clean and dry."
       ],
       [
        "Metals: All metals, including pipes, wiring, and nails, are highly recyclable. Separate them from other debris."

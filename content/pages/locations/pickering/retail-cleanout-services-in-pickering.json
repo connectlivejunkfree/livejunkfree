@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Live Junk Free provides retail cleanout services in Pickering for retailers, franchise operators, commercial landlords and property managers across the Pickering Town Centre, the Brock Road and Kingston Road corridors, the Bayly and Liverpool plazas and the hamlet commercial units at Claremont and Whitevale. Pickering's retail core is mid-redevelopment, which means as many relocations and phased moves as outright closures. We clear units on either timeline, at one flat price confirmed on site."
+     "text": "Live Junk Free provides retail cleanout services in Pickering for retailers, franchise operators, commercial landlords and property managers across the Pickering Town Centre, the Brock Road and Kingston Road corridors, the Bayly and Liverpool plazas and the hamlet commercial units at Claremont and Whitevale. Pickering's retail core is mid-redevelopment, which means as many relocations and phased moves as outright closures."
     },
     {
      "t": "ctas",
@@ -135,7 +135,7 @@
        "title": "Retail cleanout services scheduled around centre trading hours",
        "text": [
         [
-         "Enclosed centres restrict removal during trading, and a phased move usually has to happen overnight to avoid a gap in business."
+         "{{fact:scheduling}}"
         ]
        ]
       },
@@ -144,7 +144,7 @@
        "title": "Big-box and anchor unit retail strip-out services",
        "text": [
         [
-         "Full-height pallet racking, mezzanine shelving, back-of-house storage systems and anchor-unit fixture packages along the Brock Road corridor. Large-format retail cleanout services need a crew sized for the building, not a truck sized for a plaza bay."
+         "{{fact:equipmentScope}}. Large-format retail cleanout services need a crew sized for the building, not a truck sized for a plaza bay."
         ]
        ]
       },
@@ -154,15 +154,6 @@
        "text": [
         [
          "Gondola shelving, wall standards, slatwall, display cases, counters, checkout stations, fitting rooms, service desks and signage. Fixtures come out as part of the retail cleanout rather than being arranged separately before we can start."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "",
-       "text": [
-        [
-         "Tenants use this documentation to support deposit recovery; landlords use it when a restoration claim is contested."
         ]
        ]
       },
@@ -271,7 +262,7 @@
     {
      "t": "p",
      "c": [
-      "Your retail cleanout cost in Pickering is determined by the volume of material, the fixture removal involved, and the access the unit allows. A small plaza bay off Liverpool or Bayly with a counter, shelving and remaining stock is a short job. A closed anchor unit on Brock Road with full-height racking, extensive back-of-house and residual stock, or a full mall unit strip-out, is a substantially larger one — and we quote it for what is genuinely present."
+      "Your retail cleanout cost in Pickering is determined by the volume of material, the fixture removal involved, and the access the unit allows. A small plaza bay off Liverpool or Bayly with a counter, shelving and remaining stock is a short job. {{fact:equipmentScope}}."
      ]
     },
     {
@@ -304,7 +295,7 @@
     {
      "t": "p",
      "c": [
-      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -346,29 +337,20 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Free walkthrough and one flat retail cleanout price",
-       "text": [
-        [
-         "Our crew assesses the sales floor, back-of-house, stockroom and any exterior storage in scope, and separates what is being kept from what is being cleared. We provide one flat price before any work begins and hold that figure through to completion."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Retail cleanout scheduled to your street's access rules",
        "text": [
         [
-         "We protect flooring and shared corridors first, then dismantle and remove racking, shelving, display units, counters, signage, residual stock, office furniture, electronics and appliances. cycling, and only the remainder to landfill. We photograph the unit throughout."
+         "{{fact:equipmentScope}}. We photograph the unit throughout."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Fixtures removed, unit swept",
+       "title": "Fixtures removed, unit",
        "text": [
         [
-         "The space is left broom-swept and empty — and on a relocation, your new unit is clear for the fit-out crew."
+         "The space is left and empty — and on a relocation, your new unit is clear for the fit-out crew."
         ]
        ]
       }
@@ -473,7 +455,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than retail cleanout services across Pickering. Our commercial junk removal handles mall and plaza units, big-box stores, offices along Kingston Road and the City Centre lands, restaurants and cafés, medical and professional suites, warehouses and light-industrial space throughout the Brock Road and Squires Beach employment areas, with same-day attendance wherever access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste across every Pickering neighbourhood. Our demolition services cover interior strip-outs, tenant improvement removal, warehouse racking, partitions, dropped ceilings and built-in fixtures, along with sheds, garages, decks, fences, gazebos, above-ground pools and hot tubs on residential lots. Where a property requires complete clearing, we provide same-day office cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than retail cleanout services across Pickering. Our commercial junk removal handles mall and plaza units, big-box stores, offices along Kingston Road and the City Centre lands, restaurants and cafés, medical and professional suites, warehouses and light-industrial space throughout the Brock Road and Squires Beach employment areas, with same-day attendance wherever access allows, subject to availability. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste across every Pickering neighbourhood. {{fact:equipmentScope}}. Where a property requires complete clearing, we provide same-day office cleanout when available, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -541,7 +523,7 @@
      "t": "ul",
      "items": [
       [
-       "We handle large-format retail strip-outs along Brock Road and Kingston Road, including full-height pallet racking, mezzanine shelving, back-of-house storage systems, and stockrooms. Fitting rooms, checkout banks, and service counters are dismantled and removed as part of the same scope. Loading dock access is used where available, and plaza bays around Bayly, Liverpool, and Whites Road can be cleared back to shell condition."
+       "{{fact:equipmentScope}}. Fitting rooms, checkout banks, and service counters are dismantled and removed as part of the same scope. Loading dock access is used where available, and plaza bays around Bayly, Liverpool, and Whites Road can be cleared back to shell condition."
       ]
      ]
     },
@@ -554,7 +536,7 @@
      "t": "ul",
      "items": [
       [
-       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, and signage are removed after a tenant vacates, while multiple plaza bays can be handled under one quote and consolidated invoice. Same-day retail cleanout services in Pickering are available where access permits."
+       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, and signage are removed after a tenant vacates, while multiple plaza bays can be handled under one quote and consolidated invoice. Same-day retail cleanout services when available in Pickering are available where access permits."
       ]
      ]
     }

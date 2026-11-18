@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Pickering for the city's first families and its newest ones — estate, downsizing, moving and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished swept on schedule."
+     "text": "Cleanout services in Pickering for the city's first families and its newest ones — estate, downsizing, moving and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished on schedule."
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Pickering’s cleanouts follow the city’s own timeline, and our crews run every part of it daily. In Bay Ridges and West Shore — the sixties streets that started Pickering — it’s the city’s most common estate call: the original homeowners’ generation downsizing or passing their homes on, decades of a first-suburb life sorted with patience. Through Liverpool, Village East and Dunbarton, it’s garage, basement and moving cleanouts for established family streets. On the larger lots of Rougemount, Rosebank and Highbush, it’s estate and downsizing cleanouts in bigger, older homes. Near the Town Centre and along Kingston Road, it’s condo and rental-unit cleanouts between tenants. And in rising Seaton, it’s a newer job entirely — moving cleanouts for households arriving fresh, sorting through what made the cut for the new build and what didn’t. The Google reviews behind Live Junk Free come from every one of those addresses — flat written quotes, patience with the city’s first generation and care for its newest, and space handed back exactly as promised."
+      "Pickering’s cleanouts follow the city’s own timeline, and our crews run every part of it daily. In Bay Ridges and West Shore — the sixties streets that started Pickering — it’s the city’s most common estate call: the original homeowners’ generation downsizing or passing their homes on, decades of a first-suburb life sorted with patience. Through Liverpool, Village East and Dunbarton, it’s garage, basement and moving cleanouts for established family streets. On the larger lots of Rougemount, Rosebank and Highbush, it’s estate and downsizing cleanouts in bigger, older homes. Near the Town Centre and along Kingston Road, it’s condo and rental-unit cleanouts between tenants. {{fact:cleanupScope}}. The Google reviews behind Live Junk Free come from every one of those addresses — flat written quotes, patience with the city’s first generation and care for its newest, and space handed back exactly as promised."
      ]
     },
     {
@@ -126,7 +126,7 @@
        "title": "Free walkthrough cleanout quotes anywhere in Pickering",
        "text": [
         [
-         "A crew lead walks the space — Bay Ridges bungalow, condo suite, Seaton new-build — hears what the cleanout is for, and writes one firm flat quote on the spot. Free, unhurried, no expiry."
+         "{{fact:changedScope}}. Free, unhurried, no expiry."
         ]
        ]
       },
@@ -144,7 +144,7 @@
        "title": "Moving cleanouts for households arriving fresh in Seaton",
        "text": [
         [
-         "New-build moves come with their own kind of sorting: what’s making the trip and what isn’t. We help empty the old place completely — pre-move purges so the truck carries only keepers, post-move clears of whatever’s left behind — so the new house starts without last house’s leftovers."
+         "{{fact:cleanupScope}}. We help empty the old place completely — pre-move purges so the truck carries only keepers, post-move clears of whatever’s left behind — so the new house starts without last house’s leftovers."
         ]
        ]
       },
@@ -154,15 +154,6 @@
        "text": [
         [
          "Overwhelmed homes clear with respect: unmarked scheduling on request, no commentary, a steady room-by-room pace, and coordination with family or support workers where it helps. Founding street or brand-new one, the neighbours learn nothing from us."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Independent cleanout pricing",
-       "text": [
-        [
-         "No head-office royalties inside our quotes — local crews, our own trucks, honest volume pricing."
         ]
        ]
       }
@@ -195,8 +186,7 @@
     {
      "t": "checks",
      "items": [
-      "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -212,12 +202,6 @@
      "t": "price",
      "label": "Pickering Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -259,7 +243,7 @@
        "title": "Book Your Pickering Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit. The crew lead tours the space, hears what the cleanout is for, and writes one flat quote with a timeline that fits the household or the estate."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit. {{fact:changedScope}}."
         ]
        ]
       },
@@ -283,10 +267,10 @@
       },
       {
        "n": "04",
-       "title": "Swept, Empty and Ready for the Next Chapter",
+       "title": ", Empty and Ready for the Next Chapter",
        "text": [
         [
-         "The space hands back broom-swept — home, suite or garage — with debris gone on our own trucks and donation or disposal documentation available for the estate, the landlord or your own file."
+         "The space hands back — home, suite or garage — with debris gone on our own trucks and donation or disposal documentation available for the estate, the landlord or your own file."
         ]
        ]
       }
@@ -339,7 +323,7 @@
        "Executor and out-of-town family coordination with documentation"
       ],
       [
-       "Sale-ready, broom-swept handovers"
+       "Sale-ready handovers"
       ]
      ]
     },
@@ -364,7 +348,7 @@
        "Pre-listing purges that get Pickering homes photo-ready"
       ],
       [
-       "Sold-home cleanouts finished broom-swept before closing"
+       "Sold-home cleanouts finished before closing"
       ],
       [
        "Storage locker and unit cleanouts, any size"
@@ -425,9 +409,6 @@
       ],
       [
        "Farmhouse and outbuilding cleanouts in Claremont, Greenwood and Whitevale"
-      ],
-      [
-       "Respectful crews, first knock to final sweep"
       ]
      ]
     }

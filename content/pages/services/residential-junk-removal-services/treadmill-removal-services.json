@@ -24,11 +24,6 @@
      "text": "Your Trusted Local Treadmill Removal Experts"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "The most reliable fitness equipment removal service."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -97,7 +92,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Say Goodbye to Your Old Treadmill – Same-Day Pickup Available"
+     "text": "Say Goodbye to Your Old Treadmill – Same-Day Pickup may be available"
     },
     {
      "t": "p",
@@ -157,7 +152,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Fast & Easy Treadmill Removal – Same Day Service Available"
+     "text": "Fast & Easy Treadmill Removal – Same Day Service may be available"
     },
     {
      "t": "p",
@@ -224,12 +219,6 @@
      "t": "cards",
      "items": [
       {
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        "Get discounts when combining treadmill removal with other junk removal or home gym cleanout services"
-       ]
-      },
-      {
        "title": "Careful Removal",
        "text": [
         "We use protective equipment and insured techniques to safeguard your floors, walls, and doorways during removal"
@@ -238,7 +227,7 @@
       {
        "title": "Flexible Scheduling",
        "text": [
-        "Available evenings and weekends with same-day pickup for urgent requests"
+        "Available evenings and weekends with same-day pickup for urgent requests (subject to scheduling)"
        ]
       },
       {
@@ -254,7 +243,7 @@
        ]
       },
       {
-       "title": "Same-Day Availability",
+       "title": "Availability when available",
        "text": [
         "Need it gone today? We offer urgent same-day pickup when available for quick cleanouts"
        ]
@@ -282,7 +271,7 @@
        "We specialize in safely removing all types of treadmills – from bulky commercial models to compact folding units, and everything in between. Our professional team carefully handles each job, disassembling and removing equipment without damaging your floors, walls, or doorways."
       ],
       [
-       "When we’re done, your space will be clean, safe, and ready for new equipment or a fresh start. No fitness equipment challenge is too big for our experienced team, we’ve successfully removed hundreds of treadmills in your area."
+       "When we’re done, your space will be clean, safe, and ready for new equipment or a fresh start."
       ]
      ]
     },
@@ -295,20 +284,6 @@
      "t": "p",
      "c": [
       "At Live Junk Free, we believe upgrading your home gym shouldn’t cost the earth:"
-     ]
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "{{fact:recycling}}"
-      ],
-      [
-       "Donation Program: Functional equipment finds new life through local community centers and charities"
-      ],
-      [
-       "Smart Waste Reduction: Our careful sorting system minimizes landfill contribution"
-      ]
      ]
     },
     {
@@ -341,12 +316,6 @@
      "items": [
       [
        "{{fact:freeOnsiteEstimates}}"
-      ],
-      [
-       "Flat-Rate Pricing – Know exactly what you’ll pay before we start"
-      ],
-      [
-       "Service Bundles – Special discounts when combining multiple item removals"
       ]
      ]
     }
@@ -409,7 +378,7 @@
       {
        "title": "Choose Your Time",
        "text": [
-        "Book same-day or next-day pickup with our professional treadmill removal team, available at a time that works for you."
+        "Book same-day or next-day pickup when available with our professional treadmill removal team, available at a time that works for you."
        ]
       },
       {
@@ -492,7 +461,7 @@
        "q": "4) Can you disassemble the treadmill for removal?",
        "a": [
         [
-         "Absolutely. Our technicians will professionally disassemble your treadmill as needed, removing belts, consoles, and frames. We bring all necessary tools and safely disconnect any electrical components before removal. "
+         "Absolutely. Our technicians will professionally disassemble your treadmill as needed, removing belts, consoles, and frames. {{fact:utilityDisconnection}} "
         ]
        ]
       },
@@ -516,7 +485,7 @@
        "q": "7) How much notice is needed to schedule a treadmill pickup?",
        "a": [
         [
-         "Same-day service is often available. For best scheduling, a 24-hour notice is ideal. We offer flexible appointments, including evenings and weekends to accommodate your schedule. "
+         "Same-day service when available is often available. For best scheduling, a 24-hour notice is ideal. We offer flexible appointments, including evenings and weekends to accommodate your schedule, subject to scheduling. (subject to scheduling) "
         ]
        ]
       }

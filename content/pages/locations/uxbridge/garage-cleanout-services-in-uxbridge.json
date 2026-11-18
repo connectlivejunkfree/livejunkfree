@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Garage cleanout services in Uxbridge from Live Junk Free come from a crew that actually knows the difference between scrap and salvage — in a town full of makers and craftspeople, a garage often holds tools, hardware and materials genuinely worth keeping, and that gets sorted with a careful eye rather than swept into a single load."
+     "text": "Garage cleanout services in Uxbridge from Live Junk Free come from a crew that actually knows the difference between scrap and salvage — in a town full of makers and craftspeople, a garage often holds tools, hardware and materials genuinely worth keeping, and that gets sorted with a careful eye rather than into a single load."
     },
     {
      "t": "ctas",
@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "Around Brock Street and the town’s Victorian homes, that’s often a smaller garage with decades of accumulated tools. On the farms across the concessions, it frequently extends into a barn or outbuilding alongside the main garage. In the hamlets of Goodwood, Zephyr, Leaskdale and Sandford, it’s the same careful standard at the identical flat price as downtown."
+      "Around Brock Street and the town’s Victorian homes, that’s often a smaller garage with decades of accumulated tools. On the farms across the concessions, it frequently extends into a barn or outbuilding alongside the main garage. {{fact:changedScope}}."
      ]
     },
     {
@@ -116,7 +116,7 @@
     {
      "t": "p",
      "c": [
-      "Never. The price reflects the size of the garage and the sorting it needs — never how far the property sits from town. A garage cleanout eight kilometres down a gravel laneway costs exactly what the identical job costs downtown."
+      "Never. {{fact:cleanupScope}}. A garage cleanout eight kilometres down a gravel laneway costs exactly what the identical job costs downtown."
      ]
     }
    ]
@@ -127,17 +127,8 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "Salvage-conscious garage cleanout sorting",
-       "text": [
-        [
-         "Tools, hardware and materials that still have real use get set aside on request rather than swept into a general disposal load by default."
-        ]
-       ]
-      },
-      {
        "n": "02",
-       "title": "One flat garage cleanout price — the crossroads makes it fair",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Distance never enters the calculation. A garage cleanout on Brock Street or eight concessions out costs the identical number."
@@ -149,25 +140,16 @@
        "title": "Farmhouse and barn garage cleanout coordination",
        "text": [
         [
-         "Where a garage cleanout extends into a barn or outbuilding on a farm property, the whole space gets scoped and quoted together, under one visit."
+         "{{fact:scheduling}}"
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Same-day garage cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first garage cleanout sorting for tools and equipment",
-       "text": [
-        [
-         "Working tools, equipment and household items with life left in them go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -203,7 +185,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how full the garage actually is, and how much sorting it genuinely needs. A garage with a few years of accumulated boxes is a modest job. A workshop-style garage packed with years of tools, hardware and project materials takes considerably more time to sort with the care it deserves, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A garage with a few years of accumulated boxes is a modest job. A workshop-style garage packed with years of tools, hardware and project materials takes considerably more time to sort with the care it deserves, and the price reflects that real difference."
      ]
     },
     {
@@ -215,7 +197,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Township, Distance or Rural Premium, Ever"
      ]
     },
@@ -232,12 +213,6 @@
      "t": "price",
      "label": "Uxbridge Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -279,7 +254,7 @@
        "title": "Book Your Garage Cleanout Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       },
@@ -288,7 +263,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual garage, notes anything worth salvaging, and gives you one flat price before anything moves."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -306,7 +281,7 @@
        "title": "Your Garage Is Usable",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready to actually use again."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready to actually use again."
         ]
        ]
       }
@@ -347,19 +322,13 @@
        "Garage cleanouts from homes through the town's Victorian streets"
       ],
       [
-       "Salvage-conscious sorting for tools and hardware still worth keeping"
-      ],
-      [
        "Careful, unhurried handling around established properties"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
-       "Same-day service for straightforward downtown access"
-      ],
-      [
-       "Same flat pricing as anywhere else in the township"
+       "Service for straightforward downtown access"
       ]
      ]
     },
@@ -378,16 +347,10 @@
        "Materials, tools and hardware worth keeping sorted with a careful eye"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Coordination across multiple structures under one single booking"
       ],
       [
        "Crews accustomed to working calmly around rural properties"
-      ],
-      [
-       "Same flat pricing regardless of distance from town"
       ]
      ]
     }
@@ -407,16 +370,10 @@
        "Garage cleanouts in Goodwood, Zephyr, Leaskdale and Sandford"
       ],
       [
-       "Same flat pricing as downtown, no hamlet premium"
-      ],
-      [
        "Discreet, unhurried scheduling on request"
       ],
       [
-       "Same-day completion for most straightforward removals"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
+       "Completion for most straightforward removals"
       ],
       [
        "Same salvage-conscious standard as anywhere in the township"
@@ -438,10 +395,7 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
@@ -819,7 +773,7 @@
        "q": "How much do garage cleanout services cost in Uxbridge?",
        "a": [
         [
-         "Pricing is confirmed free at an on-site walkthrough based on how full the garage is and how much sorting it needs — with no township or distance premium anywhere."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -827,7 +781,7 @@
        "q": "Do you charge extra for rural properties or long laneways?",
        "a": [
         [
-         "Never. The same flat pricing applies at a Brock Street garage and at the end of a concession laneway."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },
@@ -835,7 +789,7 @@
        "q": "Can tools, hardware or materials be saved rather than thrown out?",
        "a": [
         [
-         "Often, yes — say so at the walkthrough. Anything still worth keeping gets set aside intact rather than swept into general disposal."
+         "Often, yes — say so at the walkthrough. Anything still worth keeping gets set aside intact rather than into general disposal."
         ]
        ]
       },
@@ -851,7 +805,7 @@
        "q": "Do you cover the hamlets — Goodwood, Zephyr, Leaskdale, Sandford?",
        "a": [
         [
-         "Every one, at the same flat pricing as downtown."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },

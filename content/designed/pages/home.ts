@@ -1,6 +1,7 @@
 import type { IconName } from "@/components/icons";
 import type { ImageKey } from "../images";
 import { HREF, categoryHref } from "../routes";
+import { fact } from "@/lib/content/facts";
 
 export const HOME = {
   meta: {
@@ -41,8 +42,8 @@ export const HOME = {
     ],
   },
   beforeAfter: {
-    title: "Same yard. One visit later.",
-    intro: "Drag the handle. This is what one visit from our crew looks like.",
+    title: "Same yard, after the job.",
+    intro: "Drag the handle to compare the yard before and after the removal.",
     before: "deckBefore" as ImageKey,
     after: "deckAfter" as ImageKey,
   },
@@ -50,16 +51,16 @@ export const HOME = {
     title: "Pricing you can see",
     intro: "You pay for how much of the truck your items fill. Tap a load size to see what usually fits.",
   },
-  steps: { title: "Booked in minutes. Gone in one visit.", cta: "How it works" },
-  stats: { title: "Rated 5 star by customers" },
+  steps: { title: "Quick quotes. Removal scheduled around you.", cta: "How it works" }, // QA 18 Nov B1-01
+  stats: { title: "What our customers say" }, // B8.1: no rating until verified
   destinations: {
     title: "Where your junk ends up",
-    intro: "Every load is sorted after pickup. Landfill is the last stop, not the first.",
+    intro: `${fact("recycling")}.`,
     // Lead card: headline and FAQ line from livejunkfree.ca/how-it-works/
     lead: { title: "Go clean, go green", text: "Our goal is to minimize waste and give back to the community whenever we can." },
     items: [
-      { icon: "heart" as IconName, leaf: true, label: "Donated", text: "Usable furniture and household goods go to local charities where practical." },
-      { icon: "leaf" as IconName, leaf: true, label: "Recycled", text: "Metal, e-waste, cardboard, appliances and mattresses are recycled where practical." },
+      { icon: "heart" as IconName, leaf: true, label: "Donation", text: "Usable furniture and household goods go to local charities where practical." },
+      { icon: "leaf" as IconName, leaf: true, label: "Recycling", text: "Metal, e-waste, cardboard, appliances and mattresses are recycled where practical." },
       { icon: "truck" as IconName, leaf: false, label: "Disposed", text: "Everything else is disposed of responsibly at local disposal and recycling sites." },
     ],
   },

@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "Live Junk Free clears yard waste the same way it clears everything else: a free on-site quote, one flat price, and same-day hauling in most cases. Spring cleanup after a long winter, fall leaf season, storm damage, or simply a backyard that’s gotten away from a homeowner — all of it gets the same straightforward process."
+      "{{fact:changedScope}}. Spring cleanup after a long winter, fall leaf season, storm damage, or simply a backyard that’s gotten away from a homeowner — all of it gets the same straightforward process."
      ]
     },
     {
@@ -120,28 +120,10 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat price, no bagging or bundling required",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "Branches, brush, leaves and clippings get hauled as-is — no municipal bundling rules, no bag-count limits, no separate yard waste stickers to buy."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Free on-site quotes for any yard waste volume",
-       "text": [
-        [
-         "A crew member looks at the actual pile — a few bags or a full property’s worth — and gives one flat number before anything’s loaded."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Yard waste removal",
-       "text": [
-        [
-         "{{fact:nextAvailable}}"
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -195,7 +177,7 @@
     {
      "t": "p",
      "c": [
-      "Yard waste removal typically prices by volume — a few bags or a small brush pile costs less, a full property cleanup with fallen branches and years of accumulation costs more, confirmed for free at an on-site walkthrough. There’s no separate charge for organic material versus other debris, and no requirement to bag or bundle anything beforehand."
+      "Yard waste removal typically prices by volume — a few bags or a small brush pile costs less, a full property cleanup with fallen branches and years of accumulation costs more, confirmed for free at an on-site walkthrough. {{fact:changedScope}}."
      ]
     },
     {
@@ -207,8 +189,7 @@
     {
      "t": "checks",
      "items": [
-      "Junk Removal + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Junk Removal + Haul-Away in One Number"
      ]
     },
     {
@@ -271,25 +252,7 @@
        "title": "Book Your Yard Waste Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the volume and gives you one flat price before anything is loaded."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "The Crew Loads Everything",
-       "text": [
-        [
-         "Branches, brush, leaves, clippings and debris get loaded directly — no bagging or bundling needed beforehand."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       },
@@ -342,13 +305,10 @@
        "Branches, brush, leaves and grass clippings hauled as one job"
       ],
       [
-       "No bag-count limits or municipal bundling rules"
-      ],
-      [
        "Timed around your landscaper's schedule if one's involved"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Recurring seasonal scheduling available"
@@ -376,7 +336,7 @@
        "Coordination with tree services for larger removal jobs"
       ],
       [
-       "Same-day response where availability allows"
+       "Response where availability allows"
       ],
       [
        "Documentation available for insurance claims on request"
@@ -510,15 +470,7 @@
        "q": "How much does yard waste removal cost?",
        "a": [
         [
-         "Pricing is confirmed free at an on-site walkthrough and scales with volume — a small pile costs less, a full property cleanup costs more, all in one flat number."
-        ]
-       ]
-      },
-      {
-       "q": "Do I need to bag or bundle branches and leaves first?",
-       "a": [
-        [
-         "No — the crew loads everything directly, no municipal bagging or bundling rules to follow."
+         "{{fact:changedScope}}."
         ]
        ]
       },

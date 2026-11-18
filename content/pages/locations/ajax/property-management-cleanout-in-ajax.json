@@ -123,10 +123,10 @@
      "items": [
       {
        "n": "01",
-       "title": "Same-day property management cleanout available across Ajax",
+       "title": "Same-day property management cleanout may be available across Ajax",
        "text": [
         [
-         "When a tenant leaves at short notice or a showing is already booked, we can usually attend the same day you call rather than pushing you into next week."
+         "When a tenant leaves at short notice or a showing is already booked, we can usually attend the same day you call rather than pushing you into next week, subject to availability."
         ]
        ]
       },
@@ -136,15 +136,6 @@
        "text": [
         [
          "Most Ajax rental units are basement suites inside owner-occupied houses. Everything travels through the separate entrance, shared stairs and driveways are protected, and no part of the job runs through your own living space."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "",
-       "text": [
-        [
-         ""
         ]
        ]
       },
@@ -271,7 +262,7 @@
     {
      "t": "p",
      "c": [
-      "Your property management cleanout cost in Ajax is determined by the volume of material and the sorting it requires. A basement suite returned in reasonable order after a short tenancy is a straightforward job. A unit left fully furnished — beds in every room, appliances still connected, electronics, exercise equipment, and a garage or storage locker holding household items accumulated across several years — is substantially larger, and we quote it for what is genuinely present."
+      "{{fact:cleanupScope}}. A basement suite returned in reasonable order after a short tenancy is a straightforward job. A unit left fully furnished — beds in every room, appliances still connected, electronics, exercise equipment, and a garage or storage locker holding household items accumulated across several years — is substantially larger, and we quote it for what is genuinely present."
      ]
     },
     {
@@ -304,7 +295,7 @@
     {
      "t": "p",
      "c": [
-      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -350,7 +341,7 @@
        "title": "Free on-site walkthrough and one flat property management cleanout price",
        "text": [
         [
-         "Our crew assesses the rental unit along with any garage, shed or storage locker included in scope. We provide one flat price per unit before any work begins and hold that figure through to completion."
+         "Our crew assesses the rental unit along with any garage, shed or storage locker included in scope. {{fact:changedScope}}."
         ]
        ]
       },
@@ -368,7 +359,7 @@
        "title": "Vacant rental unit returned ready to list",
        "text": [
         [
-         "The unit is left swept and empty, with the shared areas of your home or building exactly as we found them."
+         "The unit is left and empty, with the shared areas of your home or building exactly as we found them."
         ]
        ]
       }
@@ -473,7 +464,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than property management cleanout across Ajax. Our commercial junk removal service supports offices and retail units along Harwood Avenue and Kingston Road, warehouse and light-industrial space in the Salem and Bayly employment lands, and building common areas for property managers, with same-day attendance wherever access allows. Our demolition services cover sheds, garages, decks, fences, gazebos, trampolines, above-ground pools and hot tubs, along with light interior demolition ahead of a suite renovation. Where a property requires complete clearing, we provide same-day apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, office cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than property management cleanout across Ajax. Our commercial junk removal service supports offices and retail units along Harwood Avenue and Kingston Road, warehouse and light-industrial space in the Salem and Bayly employment lands, and building common areas for property managers, with same-day attendance wherever access allows, subject to availability. Our demolition services cover sheds, garages, decks, fences, gazebos, trampolines, above-ground pools and hot tubs, along with light interior demolition ahead of a suite renovation. Where a property requires complete clearing, we provide same-day apartment cleanout when available, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, office cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -511,7 +502,7 @@
      "t": "ul",
      "items": [
       [
-       "Purpose-built secondary suites across Westney Heights, Applecroft, and Nottingham can be cleared using separate-entrance routing that keeps the work away from the family’s main living space. Shared stairs, side doors, and driveways are protected throughout the cleanout. First-time landlords can receive guidance on what to keep, remove, and document before preparing the suite for the next tenant. Garage and shed storage can be included in the quoted price, with same-day property management cleanout in Ajax available where access permits."
+       "Purpose-built secondary suites across Westney Heights, Applecroft, and Nottingham can be cleared using separate-entrance routing that keeps the work away from the family’s main living space. Shared stairs, side doors, and driveways are protected throughout the cleanout. First-time landlords can receive guidance on what to keep, remove, and document before preparing the suite for the next tenant. Garage and shed storage can be included in the quoted price, with same-day property management cleanout when available in Ajax available where access permits."
       ]
      ]
     },
@@ -541,7 +532,7 @@
      "t": "ul",
      "items": [
       [
-       "Property management cleanouts can be arranged when a tenant relocates for work or vacates unexpectedly at short notice. Same-day and next-day capacity can be held for urgent bookings, with property management cleanout pricing unaffected by a compressed timeline. The rental unit can be cleared in time for a showing already scheduled, with the vacant property returned swept and ready to list."
+       "Property management cleanouts can be arranged when a tenant relocates for work or vacates unexpectedly at short notice. Same-day and next-day capacity can be held for urgent bookings, with property management cleanout pricing unaffected by a compressed timeline, subject to availability. The rental unit can be cleared in time for a showing already scheduled, with the vacant property returned and ready to list."
       ]
      ]
     },
@@ -1066,7 +1057,7 @@
        "q": "How much does a property management cleanout cost in Ajax?",
        "a": [
         [
-         "Your price depends on the volume of material and the sorting required. We confirm the figure free of charge at the walkthrough and hold it through to completion. Your neighbourhood, your timeline and the number of rental properties you own do not affect the rate. "
+         "{{fact:cleanupScope}}. We confirm the figure free of charge at the walkthrough and hold it through to completion. Your neighbourhood, your timeline and the number of rental properties you own do not affect the rate. "
         ]
        ]
       },

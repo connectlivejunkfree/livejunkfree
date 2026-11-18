@@ -163,15 +163,6 @@
        ]
       },
       {
-       "n": "05",
-       "title": "Donation-first garage cleanout sorting for tools and equipment",
-       "text": [
-        [
-         "Working tools, equipment and household items with life left in them go to donation partners first, before anything reaches disposal."
-        ]
-       ]
-      },
-      {
        "n": "06",
        "title": "Independent garage cleanout pricing",
        "text": [
@@ -228,12 +219,6 @@
      "value": "Contact us for a quote"
     },
     {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -282,7 +267,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual garage and gives you one flat price — never a phone guess — before anything moves."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -300,7 +285,7 @@
        "title": "Your Garage Is Usable",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready for the next tenant, or for you."
+         "Careful Removal"
         ]
        ]
       }
@@ -366,7 +351,7 @@
        "Coordination with your renovation contractor's timeline"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
        "Full room cleanouts alongside the garage, on request"
@@ -387,9 +372,6 @@
      "items": [
       [
        "Garage and outbuilding cleanouts on rural properties toward Columbus and Raglan"
-      ],
-      [
-       "Same flat pricing regardless of distance from the city core"
       ],
       [
        "Coordination across multiple structures under one booking"
@@ -414,7 +396,7 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Recurring seasonal scheduling available on request"
@@ -813,7 +795,7 @@
        "q": "Do you cover rural properties near Columbus or Raglan?",
        "a": [
         [
-         "Yes, at the same flat pricing and honest walkthrough process as anywhere in the city. "
+         "{{fact:competitorComparison}} "
         ]
        ]
       },

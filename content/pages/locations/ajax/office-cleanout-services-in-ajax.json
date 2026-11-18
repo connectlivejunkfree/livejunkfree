@@ -145,7 +145,7 @@
          "A lease may be ending, a new tenant may be waiting, or your company may need the space cleared before renovations begin."
         ],
         [
-         "Our office cleanout services in Ajax are designed to help businesses clear unwanted items efficiently, with same-day and next-day availability when scheduling allows."
+         "Our office cleanout services in Ajax are designed to help businesses clear unwanted items efficiently, with same-day and next-day availability when available when scheduling allows."
         ]
        ]
       },
@@ -335,14 +335,13 @@
     {
      "t": "p",
      "c": [
-      "No hourly rates."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -362,7 +361,7 @@
     {
      "t": "p",
      "c": [
-      "Every office cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every office cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -1232,7 +1231,7 @@
        "q": "Do you serve Pickering Village?",
        "a": [
         [
-         "Yes. Pickering Village is included in our Ajax office cleanout service area. "
+         "Yes. "
         ]
        ]
       }

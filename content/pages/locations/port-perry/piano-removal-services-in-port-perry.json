@@ -105,11 +105,6 @@
     {
      "t": "eyebrow",
      "text": "WHY CHOOSE OUR PIANO REMOVAL SERVICE"
-    },
-    {
-     "t": "h",
-     "l": 2,
-     "text": "{{fact:competitorComparison}}"
     }
    ]
   },
@@ -120,7 +115,7 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat price — no postcard premium",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number is identical whether the piano sits on Queen Street or at the end of a private waterfront lane — no scenic-town markup, ever."
@@ -159,7 +154,7 @@
        "title": "Donation-first for pianos that still play",
        "text": [
         [
-         "Working pianos are checked against donation partners before anything is recycled."
+         "Working pianos are checked against donation partners before anything is recycled where possible."
         ]
        ]
       },
@@ -201,8 +196,7 @@
     {
      "t": "checks",
      "items": [
-      "Move + Disassembly + Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Move + Disassembly + Haul-Away"
      ]
     },
     {
@@ -274,7 +268,7 @@
        "title": "Get a Free On-Site Quote — Route Measured First",
        "text": [
         [
-         "The crew measures doorways, staircase turns and any dock or island access, checks whether legs or lids need to come off, and gives you one flat price."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -339,10 +333,10 @@
        "Wall, corner and staircase protection throughout"
       ],
       [
-       "Donation-first checks before any piano is recycled"
+       "Donation-first checks before any piano is recycled where possible"
       ],
       [
-       "Same-day piano pick up for straightforward downtown access"
+       "Piano pick up for straightforward downtown access"
       ],
       [
        "Careful, unhurried handling around established properties"
@@ -370,9 +364,6 @@
        "Cottage and seasonal-property piano removal"
       ],
       [
-       "Same flat pricing as anywhere else in the township"
-      ],
-      [
        "Coordination around when the property is actually accessible"
       ]
      ]
@@ -396,13 +387,7 @@
        "Pianos held by a farming family for generations, handled with real care"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Coordination with executors or family members settling an estate"
-      ],
-      [
-       "Same flat pricing regardless of distance from town"
       ],
       [
        "Full room or property cleanouts alongside the piano removal, on request"
@@ -835,7 +820,7 @@
        "q": "Is there really no charge for waterfront or island piano removal?",
        "a": [
         [
-         "Never. The same flat pricing applies at a Queen Street home and at the end of a Scugog Island lane."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },

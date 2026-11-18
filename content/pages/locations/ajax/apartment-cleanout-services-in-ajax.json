@@ -145,15 +145,6 @@
        ]
       },
       {
-       "n": "03",
-       "title": "One flat apartment cleanout price, confirmed before the clock starts",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "Landlord and realtor coordination on apartment cleanout timing",
        "text": [
@@ -203,7 +194,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the unit, and how much sorting it genuinely needs. A lightly furnished apartment is a modest job. A unit left full after a tenancy takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A lightly furnished apartment is a modest job. A unit left full after a tenancy takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -215,7 +206,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "Written Completion Dates, Not Vague Promises"
      ]
     },
@@ -236,7 +226,7 @@
     {
      "t": "p",
      "c": [
-      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -282,7 +272,7 @@
        "title": "A Free Walkthrough — Price and Date Both Confirmed",
        "text": [
         [
-         "A crew member sees the actual unit and gives one flat price alongside a written completion date built to beat the real deadline."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -344,9 +334,6 @@
        "Written confirmation of the completion date"
       ],
       [
-       "Same flat pricing regardless of how tight the original timeline felt"
-      ],
-      [
        "Priority booking for time-sensitive turnovers"
       ]
      ]
@@ -372,9 +359,6 @@
        "Scheduled around your move dates"
       ],
       [
-       "Same flat pricing regardless of who's on title"
-      ],
-      [
        "Damage or abandonment documentation available on request"
       ]
      ]
@@ -398,16 +382,10 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Same flat pricing as any other apartment cleanout"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
-      ],
-      [
        "Documentation available where needed"
       ],
       [
-       "Same-day completion for most straightforward removals"
+       "Completion for most straightforward removals"
       ]
      ]
     },
@@ -426,16 +404,13 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -863,7 +838,7 @@
        "q": "We don't have a firm deadline yet — is that unusual?",
        "a": [
         [
-         "Not at all. Where there’s genuinely no external timeline, the schedule is just as flexible as anywhere else, and the same flat pricing applies either way."
+         "Not at all. {{fact:changedScope}}."
         ]
        ]
       },

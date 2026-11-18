@@ -42,7 +42,9 @@ const dropSent = (re) => (doc) =>
 /** Remove list / card / step items (any array element) whose content matches. */
 function dropItem(re) {
   const walk = (node) => {
-    if (Array.isArray(node)) return node.filter((x) => !(x && typeof x === "object" && !("t" in x) && re.test(text(x))) && !(typeof x === "string" && false)).map(walk);
+    // Only list/card/step items: never a page section ({ blocks: [...] }) or a block ({ t: … }). An earlier
+    // version also matched whole sections, which emptied pages such as Water Tank (QA new defect B1-33).
+    if (Array.isArray(node)) return node.filter((x) => !(x && typeof x === "object" && !("t" in x) && !("blocks" in x) && re.test(text(x)))).map(walk);
     if (node && typeof node === "object") {
       const o = {};
       for (const [k, v] of Object.entries(node)) o[k] = k === "items" && Array.isArray(v) ? v.filter((x) => !re.test(text(x))).map(walk) : walk(v);

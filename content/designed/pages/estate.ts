@@ -15,8 +15,8 @@ export const ESTATE: CleanoutContent = {
       "Our crew handles the lifting, carrying and loading",
       "Arranging it from out of town? Tell us who can provide access",
     ],
-    image: "estate",
-    alt: "Live Junk Free crew member clearing a property",
+    image: "crewHero", // QA 18 Nov B1-14: estate-cleanout.jpg shows backyard deck work; neutral crew photo until approved estate media (MEDIA-NEEDED.md),
+    alt: "Live Junk Free crew loading the truck",
     primary: "Request an estate quote",
   },
   includes: {

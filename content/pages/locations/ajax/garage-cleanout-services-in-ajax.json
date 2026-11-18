@@ -154,15 +154,6 @@
        ]
       },
       {
-       "n": "04",
-       "title": "One flat garage cleanout price, confirmed before the clock starts",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
        "n": "05",
        "title": "Coordination with realtors and sellers on garage cleanout timing",
        "text": [
@@ -209,7 +200,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Village, Distance or Rural Premium, Ever"
      ]
     },
@@ -226,12 +216,6 @@
      "t": "price",
      "label": "Ajax Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -282,7 +266,7 @@
        "title": "Get a Free On-Site Quote — Date Confirmed",
        "text": [
         [
-         "The crew looks at the actual garage and gives you one flat price alongside a written completion date built to beat the real deadline."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -344,7 +328,7 @@
        "Coordination directly with a realtor's timeline where helpful"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Full protection of finished floors throughout"
@@ -390,12 +374,6 @@
       ],
       [
        "Full sort of accumulated boxes, furniture and equipment"
-      ],
-      [
-       "Same flat pricing as any other garage cleanout"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
       ]
      ]
     },
@@ -414,10 +392,7 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ]
      ]
     }
@@ -806,14 +781,6 @@
        "a": [
         [
          "Regularly. Pre-listing garage cleanout is common work, timed to have the space tidy before a listing goes live or a photographer shows up. "
-        ]
-       ]
-      },
-      {
-       "q": "Do you charge extra for a garage that's completely packed?",
-       "a": [
-        [
-         "The price reflects the actual volume and sorting required, not a flat surcharge. "
         ]
        ]
       },

@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Junk Cleanout Services in Caledon | Live Junk Free",
-  "description": "Live Junk Free offers Caledon same day junk cleanout when available services. We take care of garage cleanouts, appliance removal, attic waste, and estate cleanups. Book today!",
+  "description": "Live Junk Free offers Caledon same day junk cleanout services when available. We take care of garage cleanouts, appliance removal, attic waste, and estate cleanups. Book today!",
   "canonical": "https://livejunkfree.ca/locations/junk-cleanout-services-in-caledon/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
@@ -97,44 +97,14 @@
      "text": "The township's junk is as varied as its landscape: suburban garages in Bolton, workshop corners in Caledon East, barn lean-tos near Palgrave sheltering thirty years of maybe-useful, and the outdoor accumulations that every rural property grows like a crop. Live Junk Free clears them all — Google reviews earned one emptied space (and flattened pile) at a time."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Piles, corners and buildings all price the same way — by volume",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Whether it's a tidy garage or a sprawling heap behind the barn, the measure is identical: how much truck space it fills. Small clears cost small money, big ones scale honestly, and nothing else — not the mess, not the mud, not the kilometres of gravel — touches the figure."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "We look at it before we price it",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Outdoor piles especially hide their true size — there's always a layer under the layer, and something heavy at the bottom. So we quote after seeing the job in person, whole and honest. The free walkthrough produces a flat number that doesn't flinch later."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One figure, fully loaded",
-       "text": []
-      }
-     ]
+     "text": "Outdoor piles especially hide their true size — there's always a layer under the layer, and something heavy at the bottom. So we quote after seeing the job in person, whole and honest."
     },
     {
      "t": "h",
@@ -142,44 +112,14 @@
      "text": "Labour, trucks, fuel, tipping fees, scrap runs, donation drop-offs — every cost rides inside the price you approve. If the pile goes deeper than anyone guessed or the trailer's tires crumble on the way out, your bill has already made peace with it."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Outdoor jobs are real jobs to us",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Plenty of crews only want climate-controlled work. We bring gloves, straps, magnets for the nail-riddled spots and a crew that doesn't mind weather — clearing fence-line stacks, tire collections, old fencing wire, rusted equipment and the archaeology under tarps. The land comes back; the pile doesn't."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "No pressure, no expiry, no deposit",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "The quote is free and stays valid while you think, budget or wait for the ground to firm up. Approve it and we start immediately; decline and we leave with a wave. \"Come back in May\" is an answer we hear all winter, and we do."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "{{fact:competitorComparison}}",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -203,7 +143,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Garages, basements and barn corners land mid-range. Whole properties and multi-load outdoor clears still resolve to one flat, locked figure at the free walkthrough. From a Bolton driveway to the far side of Terra Cotta, the rate structure never changes and the quote never grows."
+     "text": "Garages, basements and barn corners land mid-range. From a Bolton driveway to the far side of Terra Cotta, the rate structure never changes and the quote never grows."
     },
     {
      "t": "cards",
@@ -260,19 +200,19 @@
       {
        "title": "2. Show Us Everything — Even the Embarrassing Part",
        "text": [
-        "The garage, the shed, the pile you've stopped seeing — we assess the true volume and hand you one flat, number. Free, and judgment-free."
+        "{{fact:changedScope}}. Free, and judgment-free."
        ]
       },
       {
        "title": "3. We Dig In",
        "text": [
-        "On approval the crew clears top to bottom: sorting as we go, flagging anything valuable or salvageable before it loads, separating scrap metal for recovery, and hauling every layer — including the surprise at the bottom."
+        "{{fact:cleanupScope}}."
        ]
       },
       {
-       "title": "4. Raked, Swept and Routed Right",
+       "title": "4. Raked and Routed Right",
        "text": [
-        "Indoor spaces get a broom finish; outdoor spots get raked and left ready to reseed or reclaim. The loads split onward — donation, then recycling and scrap recovery, then landfill only for the true remainder."
+        "The loads split onward — donation, then recycling and scrap recovery, then landfill only for the true remainder."
        ]
       }
      ]
@@ -313,7 +253,7 @@
          "Barn corner and lean-to cleanouts — one bay or the whole span"
         ],
         [
-         "Storage unit clear-outs — emptied, swept, account closed"
+         "Storage unit clear-outs — emptied, account closed"
         ]
        ]
       },
@@ -330,7 +270,7 @@
          "Tire collections, rims and rubber of every vintage"
         ],
         [
-         "Rusted equipment, dead mowers and machinery remains"
+         ""
         ],
         [
          "Derelict trailers, toppers and truck caps"

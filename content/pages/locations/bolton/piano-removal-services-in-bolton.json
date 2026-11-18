@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "The other half of the job shows up around Queen Street’s older homes, where a piano might be smaller but the property around it calls for real patience — original trim, older doorframes, foundations that have been standing for well over a century. Both jobs get the same crew, the same care, and the same flat number whether the address is a farm on the concessions or a heritage house downtown."
+      "{{fact:structuralDemolition}}."
      ]
     },
     {
@@ -137,7 +137,7 @@
       },
       {
        "n": "02",
-       "title": "One flat price, town or concession",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Size and access set the number — never how far the property sits from downtown, and never how heavy the piano turns out to be once the crew’s actually lifting it."
@@ -150,24 +150,6 @@
        "text": [
         [
          "A crew member measures doorways, staircase turns and the actual weight involved before naming a number, so the quote reflects the real job rather than a guess from a phone description."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Heritage-careful handling around the Queen Street core",
-       "text": [
-        [
-         "Century homes get the patience they’ve earned — original trim and older doorframes protected, nothing rushed or forced near a foundation that’s been standing a long time."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -339,9 +321,6 @@
        "Careful floor and stairwell protection for the heaviest jobs"
       ],
       [
-       "Same flat pricing as any smaller piano removal"
-      ],
-      [
        "Real capability, not just willingness"
       ]
      ]
@@ -364,13 +343,10 @@
        "Careful, unhurried handling around established properties"
       ],
       [
-       "Donation-first checks before any piano is recycled"
+       "Donation-first checks before any piano is recycled where possible"
       ],
       [
-       "Same-day service for straightforward village access"
-      ],
-      [
-       "Same flat pricing as a rural or full-grand job"
+       "Service for straightforward village access"
       ]
      ]
     }
@@ -388,12 +364,6 @@
      "items": [
       [
        "Piano removal on farm and rural properties across the concessions"
-      ],
-      [
-       "Same flat pricing regardless of distance from town"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ],
       [
        "Coordination with executors or family members settling an estate"
@@ -424,13 +394,10 @@
        "Coordination around new piano delivery dates"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Full protection of finished floors throughout"
-      ],
-      [
-       "Donation-first sorting before any recycling"
       ]
      ]
     }
@@ -840,7 +807,7 @@
        "q": "Do rural addresses or long laneways cost extra?",
        "a": [
         [
-         "Never. The same flat pricing applies at Queen Street and eight concessions past it."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },
@@ -864,7 +831,7 @@
        "q": "Do you charge extra for stairs?",
        "a": [
         [
-         "No. Narrow staircases and multi-floor moves are factored into one flat quote at the walkthrough."
+         "No. {{fact:changedScope}}."
         ]
        ]
       },

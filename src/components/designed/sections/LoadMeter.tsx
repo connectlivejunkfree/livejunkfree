@@ -20,6 +20,7 @@
  * #quote-form if there is one, otherwise /contact/.
  */
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import { useId, useState, type KeyboardEvent } from "react";
 import { LOAD_METER, PRODUCTS, type ProductKey } from "@content/designed/pricing";
 import { fact } from "@/lib/content/facts";
@@ -50,17 +51,18 @@ export function LoadMeter({ compact = false, id }: { compact?: boolean; id?: str
 
   const pickSize = (i: number) => setSel((s) => ({ ...s, [productKey]: i }));
 
+  const router = useRouter();
   const goQuote = (e: React.MouseEvent<HTMLAnchorElement>) => {
     try {
       sessionStorage.setItem(PRICING_SELECTION_KEY, selection);
     } catch {}
     window.dispatchEvent(new CustomEvent("ljf:pricing", { detail: selection }));
     const form = document.getElementById("quote-form");
+    e.preventDefault();
     if (form) {
-      e.preventDefault();
       form.scrollIntoView({ behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "start" });
       form.querySelector<HTMLElement>("input, select, textarea")?.focus({ preventScroll: true });
-    }
+    } else router.push("/contact/"); // no form on this page: the full enquiry page
   };
 
   const fill = Math.max(0, Math.min(100, size.fillPercent)) / 100;
@@ -147,7 +149,7 @@ export function LoadMeter({ compact = false, id }: { compact?: boolean; id?: str
           <a className="btn btn-primary lm-call" href={`tel:${phone}`}>
             {LOAD_METER.call} {fact("phone", "display")}
           </a>
-          <Link className="btn btn-ghost lm-quote" href="/contact/" onClick={goQuote}>
+          <Link className="btn btn-ghost lm-quote" href="#quote-form" onClick={goQuote}>
             {LOAD_METER.cta}
           </Link>
         </div>

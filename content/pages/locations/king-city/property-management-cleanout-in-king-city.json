@@ -150,15 +150,6 @@
        ]
       },
       {
-       "n": "04",
-       "title": "",
-       "text": [
-        [
-         "This can be useful when maintaining property records after a tenant turnover."
-        ]
-       ]
-      },
-      {
        "n": "05",
        "title": "Property management cleanout for family landlords, not just management firms",
        "text": [
@@ -274,7 +265,7 @@
      "c": [
       {
        "b": [
-        "Volume, then sorting."
+        ""
        ]
       },
       " A commuter rental handed back after eighteen months is usually a short job — tenants who move for work tend to take their belongings with them. An estate suite or staff accommodation occupied for a decade is the opposite: furniture in every room, appliances, electronics, exercise equipment, and outbuildings holding years of stored household items and yard waste. The property management cleanout cost in King City reflects that spread honestly rather than quoting every rental unit as though it were the same."
@@ -310,7 +301,7 @@
     {
      "t": "p",
      "c": [
-      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -356,7 +347,7 @@
        "title": "Free on-site walkthrough and one flat property management cleanout price",
        "text": [
         [
-         "The crew walks the rental unit and every outbuilding, then gives one flat price per unit before anything is lifted. Property management cleanout pricing is settled in advance, with no revision once the work starts."
+         "{{fact:changedScope}}. Property management cleanout pricing is settled in advance, with no revision once the work starts."
         ]
        ]
       },
@@ -366,15 +357,6 @@
        "text": [
         [
          "Everything is sorted donation-first, then recycling, then disposal — with the unit’s condition documented throughout, which matters most on eviction cleanout and abandoned rental property jobs."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Your vacant rental unit is ready for the next tenant",
-       "text": [
-        [
-         ""
         ]
        ]
       }
@@ -517,7 +499,7 @@
      "t": "ul",
      "items": [
       [
-       "Rental unit cleanouts are available for village core homes and rental units near the King City GO station. Short-notice bookings can be accommodated for tenant turnovers caused by job moves or other unexpected changes in tenancy. Narrow frontages and shared driveways are managed carefully without unnecessarily blocking the street. The same flat pricing applies whether you had a month’s notice or only a week, with same-day property management cleanout in King City available where access allows. Any visible property damage can also be noted and photographed during the visit."
+       "Rental unit cleanouts are available for village core homes and rental units near the King City GO station. Short-notice bookings can be accommodated for tenant turnovers caused by job moves or other unexpected changes in tenancy. Narrow frontages and shared driveways are managed carefully without unnecessarily blocking the street. {{fact:changedScope}}. Any visible property damage can also be noted and photographed during the visit."
       ]
      ]
     },
@@ -530,7 +512,7 @@
      "t": "ul",
      "items": [
       [
-       "Property management cleanouts are available for coach houses, guest suites, and staff accommodation on larger King City properties. Long-tenancy accumulation is handled patiently and at the appropriate scale, with removal routes planned to keep everything out of the main residence whenever possible. Finished surfaces, stair nosings, and landscaping are protected throughout the cleanout. Garages, storage rooms, and utility areas can be included in the same quote, with the same flat pricing regardless of the property’s value."
+       "Property management cleanouts are available for coach houses, guest suites, and staff accommodation on larger King City properties. Long-tenancy accumulation is handled patiently and at the appropriate scale, with removal routes planned to keep everything out of the main residence whenever possible. Finished surfaces, stair nosings, and landscaping are protected throughout the cleanout. {{fact:changedScope}}."
       ]
      ]
     }
@@ -560,7 +542,7 @@
      "t": "ul",
      "items": [
       [
-       "Property management cleanouts are available for rental units left behind following abandonment or an LTB eviction. Discreet, unmarked handling is available for residential properties, with care taken to minimize attention in a small village community. The same flat pricing applies as with a standard property management cleanout, with direct coordination available with paralegals or property lawyers where required."
+       "Property management cleanouts are available for rental units left behind following abandonment or an LTB eviction. Discreet, unmarked handling is available for residential properties, with care taken to minimize attention in a small village community. {{fact:changedScope}}."
       ]
      ]
     }
@@ -580,7 +562,7 @@
     {
      "t": "p",
      "c": [
-      "The same crews and the same property management cleanout pricing run across all of King Township and past it. Property cleanout services cover Nobleton, Schomberg, Kettleby, Pottageville, Lloydtown, Ansnorveldt, Snowball, Kinghorn, Laskay, Temperanceville, and the surrounding concessions, plus Aurora, Newmarket, Vaughan, Richmond Hill, and Bolton beyond the township line. GTA cleanout services extend from there:"
+      "{{fact:scheduling}} Property cleanout services cover Nobleton, Schomberg, Kettleby, Pottageville, Lloydtown, Ansnorveldt, Snowball, Kinghorn, Laskay, Temperanceville, and the surrounding concessions, plus Aurora, Newmarket, Vaughan, Richmond Hill, and Bolton beyond the township line. GTA cleanout services extend from there:"
      ]
     },
     {
@@ -1153,7 +1135,7 @@
          "4. Who removes unwanted belongings left inside a rental home?"
         ],
         [
-         "Live Junk Free can handle the physical removal once the landlord or authorized property manager has confirmed that the belongings can be removed. Our crew takes care of the lifting, carrying, loading, hauling, and final sweep."
+         "Live Junk Free can handle the physical removal once the landlord or authorized property manager has confirmed that the belongings can be removed. {{fact:cleanupScope}}."
         ],
         [
          "5. What should property managers do with items abandoned by tenants?"
@@ -1327,7 +1309,7 @@
          "33. Does the landlord need to separate belongings before the crew arrives?"
         ],
         [
-         "The landlord or property manager should identify belongings that must remain and confirm what has been approved for removal. Our crew can then handle the agreed sorting and removal, including donation and recycling checks where practical."
+         "The landlord or property manager should identify belongings that must remain and confirm what has been approved for removal. Our crew can then handle the agreed removal, including donation and recycling checks where practical."
         ],
         [
          "34. Who handles heavy lifting and removal from upper floors?"
@@ -1375,7 +1357,7 @@
            "+1 647 922 5865"
           ]
          },
-         " and provide the property details, access information, number of units, and approximate amount of material to be removed. A free on-site walkthrough can be arranged when needed, with the cleanout scope and pricing confirmed before the work begins. The King City page currently describes one flat price per rental unit confirmed at the walkthrough."
+         " and provide the property details, access information, number of units, and approximate amount of material to be removed. A free on-site walkthrough can be arranged when needed, with the cleanout scope and pricing confirmed before the work begins. {{fact:changedScope}}."
         ]
        ]
       }

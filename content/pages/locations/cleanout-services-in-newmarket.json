@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Newmarket that fit around a full calendar — estate, downsizing, moving and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished swept without asking a busy household to rearrange its week."
+     "text": "Cleanout services in Newmarket that fit around a full calendar — estate, downsizing, moving and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished without asking a busy household to rearrange its week."
     },
     {
      "t": "ctas",
@@ -126,7 +126,7 @@
        "title": "Free walkthrough cleanout quotes that work with your week, not against it",
        "text": [
         [
-         "A crew lead walks the space, hears what the cleanout is for and when it actually needs to happen, and writes one firm flat quote with a schedule built around appointment books, school runs and shift work. Free, unhurried, and realistic about how busy Newmarket families actually are."
+         "{{fact:changedScope}}. Free, unhurried, and realistic about how busy Newmarket families actually are."
         ]
        ]
       },
@@ -162,7 +162,7 @@
        "title": "Independent cleanout pricing",
        "text": [
         [
-         "No head-office royalties inside our quotes and no rush-fee culture on top — local crews, our own trucks, honest volume pricing."
+         "{{fact:changedScope}}."
         ]
        ]
       }
@@ -195,8 +195,7 @@
     {
      "t": "checks",
      "items": [
-      "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -212,12 +211,6 @@
      "t": "price",
      "label": "Newmarket Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -259,7 +252,7 @@
        "title": "Book Your Newmarket Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit at whatever hour actually works. The crew lead tours the space, hears what the cleanout is for, and writes one flat quote with a schedule built around your real week, not an ideal one."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit at whatever hour actually works. {{fact:changedScope}}."
         ]
        ]
       },
@@ -283,10 +276,10 @@
       },
       {
        "n": "04",
-       "title": "Swept, Empty and Handed Back Before Monday",
+       "title": ", Empty and Handed Back Before Monday",
        "text": [
         [
-         "The space hands back broom-swept — house, garage or unit — with debris gone on our own trucks and donation or disposal documentation available for the estate, the landlord or your own file, and nothing left over to think about during the workweek."
+         "The space hands back — house, garage or unit — with debris gone on our own trucks and donation or disposal documentation available for the estate, the landlord or your own file, and nothing left over to think about during the workweek."
         ]
        ]
       }
@@ -336,9 +329,6 @@
        "Executor and out-of-town family coordination with documentation"
       ],
       [
-       "Donation-first sorting recorded for the estate file"
-      ],
-      [
        "Sale-ready handovers, scheduled around the family's real availability"
       ]
      ]
@@ -352,7 +342,7 @@
      "t": "ul",
      "items": [
       [
-       "Weekend garage cleanouts — most finish inside a single Saturday"
+       "Weekend garage cleanouts — most finish inside a single Saturday (subject to scheduling)"
       ],
       [
        "Basement clear-outs from storage-swamp back to family space"
@@ -361,7 +351,7 @@
        "Pre-listing purges that get Newmarket homes photo-ready"
       ],
       [
-       "Sold-home cleanouts finished broom-swept before closing"
+       "Sold-home cleanouts finished before closing"
       ],
       [
        "Pre-move and post-move cleanouts so the truck carries only keepers"
@@ -390,16 +380,16 @@
        "Retiring or relocating business cleanouts, weekend-executed"
       ],
       [
-       "Filing rooms, storage rooms and equipment cleared with e-waste recycled"
+       "Filing rooms, storage rooms and equipment cleared with e-waste recycled where possible"
       ],
       [
-       "Storefront and unit clear-outs on Main Street, after hours"
+       "{{fact:pickupTimes}}"
       ],
       [
        "Documentation available for closing or transition files"
       ],
       [
-       "Broom-swept handovers ready for the next tenant"
+       "Careful Removal"
       ]
      ]
     },

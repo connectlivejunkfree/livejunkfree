@@ -15,9 +15,9 @@ export const DECK: DemolitionContent = {
     primary: "Get a demolition quote",
   },
   scope: {
-    included: ["Boards, railings, stairs and framing", "All debris loaded and hauled", "Nails and screws swept up", "Eco-friendly disposal for all materials"],
-    before: ["Clear furniture and planters", "Turn off and disconnect any lighting or hot tub power", "Tell us about gas lines or anything under the deck"],
-    excluded: ["Electrical disconnection by a licensed electrician", "Rebuilding or landscaping"],
+    included: ["Boards, railings, stairs and framing", "All debris loaded and hauled", "Recycled or donated where practical"],
+    before: ["Clear furniture and planters", `${fact("deckPrep")}.`, "Tell us about gas lines or anything under the deck"], // QA 18 Nov B1-41
+    excluded: ["Electrical or hot-tub connections, which must be disconnected by a qualified person before we start", "Rebuilding or landscaping"],
   },
   pricing: {
     title: "What affects the price",

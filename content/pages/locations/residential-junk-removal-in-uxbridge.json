@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Uxbridge lives outdoors — and its garages prove it. Behind every trail-loving household is a gear archive: the bikes the kids outgrew, the kayak that lost its roof rack, the skis from two boot sizes ago, all parked beside the usual retired sofa and humming spare freezer. When the archive finally has to close, we’re the call: one fully insured crew, one free flat quote at your door, and everything hauled from wherever it’s stored — so the weekend goes back to the trails instead of the clutter."
+      "Uxbridge lives outdoors — and its garages prove it. Behind every trail-loving household is a gear archive: the bikes the kids outgrew, the kayak that lost its roof rack, the skis from two boot sizes ago, all parked beside the usual retired sofa and humming spare freezer. {{fact:changedScope}}."
      ]
     },
     {
@@ -97,44 +97,14 @@
      "text": "The township's homes range wide: century houses near the heritage downtown, family streets grown around them, and rural properties through Goodwood, Zephyr, Leaskdale and Sandford where the moraine begins at the back fence."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "The truck measures it — nothing else does",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "One outgrown bike is a whisper of a load; a garage's full archive is more. That's the entire pricing model: volume, flat, quoted up front. Weight, stairs and the township's gravel stretches never touch the figure."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Quoted in person, where the stuff actually lives",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Gear and junk scatter across a property — the shed, the rafters, the lean-to behind the garage. We look at all of it before naming a number, and the free flat figure that follows holds precisely because we did."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One number, sealed at yes",
-       "text": []
-      }
-     ]
+     "text": "Gear and junk scatter across a property — the shed, the rafters, the lean-to behind the garage."
     },
     {
      "t": "h",
@@ -142,44 +112,14 @@
      "text": "Carrying, loading, fuel, disposal and donation logistics — every cost rides inside the approved quote. Whether the treadmill exits smoothly or the sectional demands dismantling, the price finished changing before the work began."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Carried from anywhere on the property",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Rafter-stored canoes, basement freezers, the wardrobe upstairs — items come out of their actual spots, ladders and awkward angles included. Floors runnered, corners padded, and heritage-home trim treated with the respect a century earns."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Good gear gets a second season",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "An outgrown bike or a retired kayak still has years in it — so donation partners get first claim on everything usable, sporting goods very much included. In a town that loves the outdoors, keeping gear in circulation and out of landfill isn't a slogan; it's the obvious move."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent pricing",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -260,7 +200,7 @@
       {
        "title": "2. Point at the Archive",
        "text": [
-        "The gear wall, the old sofa, the freezer that hums for nobody — show us everything going and get one flat, quote. Free either way."
+        "{{fact:changedScope}}. Free either way."
        ]
       },
       {
@@ -272,7 +212,7 @@
       {
        "title": "4. Tidied and Kept in Circulation",
        "text": [
-        "The cleared spots get swept, and the load sorts onward — usable gear and furniture to donation partners first, metals and electronics to recyclers, landfill only for what's genuinely done."
+        "The cleared spots get, and the load sorts onward — usable gear and furniture to donation partners first, metals and electronics to recyclers, landfill only for what's genuinely done."
        ]
       }
      ]
@@ -330,7 +270,7 @@
          "Stoves, ovens, dishwashers and microwaves"
         ],
         [
-         "Drained hot water tanks, pressure tanks and softeners"
+         ""
         ],
         [
          "Window ACs, dehumidifiers and space heaters"
@@ -364,7 +304,7 @@
        "q": "The Big, Odd and Rural in Uxbridge",
        "a": [
         [
-         "Hot tubs — drained, dismantled, hauled"
+         ""
         ],
         [
          "Pianos, pool tables and inherited oversized pieces"
@@ -382,7 +322,7 @@
          "Yard items — play sets, trampolines, lumber piles"
         ],
         [
-         "Bed-bug-affected furniture — sealed on site, removed discreetly"
+         ""
         ]
        ]
       }

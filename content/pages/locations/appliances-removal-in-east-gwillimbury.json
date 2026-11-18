@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Few places in Ontario are settling into new homes faster than East Gwillimbury — and settling in is exactly when appliance decisions get made. The fridge from the old house that doesn’t fit the new kitchen. The builder-grade washer already earmarked for an upgrade. The chest freezer that made the move and immediately regretted it. Our fully insured crew resolves all of them: free flat quote at your door, careful hands through your brand-new (or century-old) hallways, and the retired machine gone — often the same day."
+      "Few places in Ontario are settling into new homes faster than East Gwillimbury — and settling in is exactly when appliance decisions get made. The fridge from the old house that doesn’t fit the new kitchen. The builder-grade washer already earmarked for an upgrade. The chest freezer that made the move and immediately regretted it. {{fact:changedScope}}."
      ]
     },
     {
@@ -97,44 +97,14 @@
      "text": "East Gwillimbury runs on two clocks: subdivisions in Queensville and around Sharon filling with first owners, and village and rural homes in Holland Landing, Mount Albert and the concessions that have kept their appliances running for decades. Live Junk Free hauls from both — Google reviews earned on punctual trucks, honest flat numbers and floors treated like they were just installed. In half this town, they were."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Volume writes the bill — nothing else holds a pen",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "One dishwasher takes a small slice of the truck and costs a small slice of money; a whole kitchen's retirement takes more. That's the complete pricing model. Weight, stairs, basement corners and which East Gwillimbury street you're on contribute exactly nothing."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Quoted in person, beside the machine",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "We price after seeing the appliance and its route out — the new-build staircase with the pristine railing, or the village home doorway hung a century ago. One free look, one flat figure, and no obligation to take it."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "The approved number is bulletproof",
-       "text": []
-      }
-     ]
+     "text": "We price after seeing the appliance and its route out — the new-build staircase with the pristine railing, or the village home doorway hung a century ago."
     },
     {
      "t": "h",
@@ -142,44 +112,14 @@
      "text": "A stubborn stacked unit or a tight cellar turn is our complication, never your surcharge."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "New homes deserve zero-mark removals",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Half of East Gwillimbury's hallways are less than five years old, and we treat them like it: runners on new floors, pads on fresh paint corners, doors off hinges before anything gets forced. The appliance leaves; the builder's finish stays perfect."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Free quote, your timing, no strings",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "No deposit, no expiry, no callback pressure. Approve it and the dolly rolls immediately; wait until the reno schedule firms up and the number's still good. Either way, the visit costs nothing."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent pricing",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -260,13 +200,13 @@
       {
        "title": "2. Quote at the Machine",
        "text": [
-        "We assess the unit, its hookups and its exit path, then hand you one flat, figure. Free to hear, free to decline."
+        "{{fact:changedScope}}. Free to hear, free to decline."
        ]
       },
       {
        "title": "3. Unhook, Protect, Carry",
        "text": [
-        "On approval: plugs and water lines disconnected on the spot (gas and hardwired units need a licensed technician first — flagged at booking), new floors runnered, trim padded, and the machine walked out clean."
+        "{{fact:utilityDisconnection}}"
        ]
       },
       {
@@ -304,7 +244,7 @@
          "Chest and upright freezers, basement or shed"
         ],
         [
-         "Stoves, ovens and cooktops (gas disconnected by a licensed tech first)"
+         ""
         ],
         [
          "Dishwashers, built-in or portable"
@@ -321,7 +261,7 @@
          "Washers and dryers — including stacked pairs in second-floor laundry rooms"
         ],
         [
-         "Drained hot water tanks and water softeners"
+         ""
         ],
         [
          "Well pressure tanks from rural properties, drained and disconnected"
@@ -330,7 +270,7 @@
          "Dehumidifiers, portable ACs and window units"
         ],
         [
-         "Disconnected furnaces and retired HVAC equipment"
+         ""
         ]
        ]
       },
@@ -501,7 +441,7 @@
        "q": "Q: What does appliance removal cost in East Gwillimbury?",
        "a": [
         [
-         "The flat figure is quoted free at your door with weight, stairs and awkwardness already inside it, and it can’t change after approval."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -533,7 +473,7 @@
        "q": "Q: What needs disconnecting before you arrive?",
        "a": [
         [
-         "A: Only gas and hardwired units — those require a licensed technician first, and we’ll confirm which applies when you book. Standard plugs and water hookups we disconnect ourselves on arrival."
+         "A: Only gas and hardwired units — those require a licensed technician first, and we’ll confirm which applies when you book. {{fact:utilityDisconnection}}"
         ]
        ]
       }

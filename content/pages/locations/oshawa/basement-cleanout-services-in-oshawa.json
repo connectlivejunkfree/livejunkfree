@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Basement Cleanout Services in Oshawa | Live Junk Free",
-  "description": "Live Junk Free provides basement cleanout services in Oshawa to carry it all out, sort what can be reused or recycled, haul it away and sweep the space.",
+  "description": "Live Junk Free provides basement cleanout services in Oshawa to carry it all out, sort what can be reused or recycled where possible, haul it away.",
   "canonical": "https://livejunkfree.ca/locations/oshawa/basement-cleanout-services-in-oshawa/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/basement-cleanout-services.jpeg"
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Live Junk Free provides basement cleanout services in Oshawa for homeowners, landlords and property managers dealing with packed storage areas, bulky furniture and years of accumulated clutter. We handle the lifting, carrying, hauling and final sweep so you can reclaim the space without doing the heavy work."
+     "text": "Live Junk Free provides basement cleanout services in Oshawa for homeowners, landlords and property managers dealing with packed storage areas, bulky furniture and years of accumulated clutter."
     },
     {
      "t": "ctas",
@@ -141,7 +141,7 @@
        "title": "Basement Clean Up Services That Leave the Space Ready",
        "text": [
         [
-         "Our basement clean up services go beyond simply loading unwanted items. We clear storage areas, cold rooms, under-stair spaces and utility corners, then sweep the floor so the basement is ready for renovation, storage or everyday use."
+         "Our basement clean up services go beyond simply loading unwanted items. We clear storage areas, cold rooms, under-stair spaces and utility corners, then so the basement is ready for renovation, storage or everyday use."
         ]
        ]
       },
@@ -169,15 +169,6 @@
        "text": [
         [
          "A clear basement gives contractors more room to work and can make a property easier to prepare for sale. Our basement cleanouts can also help with downsizing, flood recovery and inherited-property cleanups."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Basement Cleaning and Junk Removal With Responsible Sorting",
-       "text": [
-        [
-         "Usable furniture, sporting goods, tools, books and housewares may be directed toward GTA charities. Metals, electronics, wood, cardboard and old appliances can be separated for recycling where appropriate."
         ]
        ]
       }
@@ -321,7 +312,7 @@
     {
      "t": "p",
      "c": [
-      "Every basement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every basement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -391,7 +382,7 @@
        "title": "Let Our Basement Junk Removal Crew Clear It",
        "text": [
         [
-         "We carry the unwanted contents upstairs, load the truck, separate eligible materials where appropriate and sweep the cleared area before leaving."
+         "{{fact:cleanupScope}}."
         ]
        ]
       }
@@ -496,7 +487,7 @@
     {
      "t": "p",
      "c": [
-      "Need basement cleanouts near me without putting the project off for weeks? Live Junk Free offers same-day basement cleanouts when scheduling allows. If your project extends beyond the basement, we also provide house cleanouts, apartment cleanouts, garage cleanouts, estate cleanouts, eviction cleanouts, hoarding cleanouts, storage unit cleanouts and office cleanouts, along with demolition services for decks, fences, garages, sheds and hot tubs."
+      "Need basement cleanouts near me without putting the project off for weeks? Live Junk Free offers same-day basement cleanouts when available when scheduling allows. If your project extends beyond the basement, we also provide house cleanouts, apartment cleanouts, garage cleanouts, estate cleanouts, eviction cleanouts, hoarding cleanouts, storage unit cleanouts and office cleanouts, along with demolition services for decks, fences, garages, sheds and hot tubs."
      ]
     },
     {
@@ -1204,7 +1195,7 @@
        "q": "4. Is it better to empty a basement before waterproofing or repair work in Oshawa?",
        "a": [
         [
-         "Yes. Clearing stored belongings before waterproofing, foundation repairs, flooring work, or other basement projects gives contractors better access to the affected areas. It also reduces the risk of personal belongings getting in the way or being damaged during the work."
+         "Yes. {{fact:structuralDemolition}}. It also reduces the risk of personal belongings getting in the way or being damaged during the work."
         ]
        ]
       },

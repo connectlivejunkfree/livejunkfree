@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Professional estate cleanout services in Whitby — a full estate cleared with patience and care, free flat-rate quote on site, keepsakes and valuables set aside for the family first, and the home handed back broom-swept, sale-ready and donation-sorted."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -111,20 +111,11 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "Contact us for a quote",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
        "n": "02",
        "title": "Free estate cleanout quotes, walked room by room",
        "text": [
         [
-         "A crew lead tours the entire property — every room, the garage, the attic nobody’s opened in years — and writes one firm flat estate cleanout quote for clearing it all. The visit is free, the number binds only us, and there’s no pressure attached to the decision; estate cleanouts often follow hard seasons, and the timeline stays yours."
+         "{{fact:changedScope}}. The visit is free, the number binds only us, and there’s no pressure attached to the decision; estate cleanouts often follow hard seasons, and the timeline stays yours."
         ]
        ]
       },
@@ -133,7 +124,7 @@
        "title": "Estate cleanout services handled the way family would",
        "text": [
         [
-         "When an estate cleanout follows a loss, the contents aren’t junk — they’re a life. Our crew slows down where it matters: photographs, documents, jewellery and anything that looks meaningful gets set aside for the family, never swept into a bin by default. Be there for all of it, some of it, or none of it — whichever helps you through it."
+         "When an estate cleanout follows a loss, the contents aren’t junk — they’re a life. Our crew slows down where it matters: photographs, documents, jewellery and anything that looks meaningful gets set aside for the family, never into a bin by default. Be there for all of it, some of it, or none of it — whichever helps you through it."
         ]
        ]
       },
@@ -142,7 +133,7 @@
        "title": "Executor and out-of-town family coordination built in",
        "text": [
         [
-         "Settling an estate rarely means everyone can be on site. We provide photographs, written updates and documentation of what was donated, recycled or set aside, so an executor or a family member overseas can approve every stage remotely — with the same keep-list-first standard applied no matter who’s watching."
+         "Settling an estate rarely means everyone can be on site. We provide photographs, written updates and documentation of what was donated, recycled where possible or set aside, so an executor or a family member overseas can approve every stage remotely — with the same keep-list-first standard applied no matter who’s watching."
         ]
        ]
       },
@@ -193,8 +184,7 @@
     {
      "t": "checks",
      "items": [
-      "Estate Cleanout + Haul-Away in One Number",
-      "{{fact:competitorComparison}}"
+      "Estate Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -210,12 +200,6 @@
      "t": "price",
      "label": "Whitby Estate Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -257,7 +241,7 @@
        "title": "Book Your Estate Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit. The crew lead tours the full property, listens to what the estate cleanout is for, and writes one flat quote with a timeline that fits your family’s situation."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit. {{fact:changedScope}}."
         ]
        ]
       },
@@ -281,10 +265,10 @@
       },
       {
        "n": "04",
-       "title": "Swept, Empty and Ready for the Next Chapter",
+       "title": ", Empty and Ready for the Next Chapter",
        "text": [
         [
-         "The estate hands back broom-swept — every room, the garage, the shed — with debris gone on our own trucks and donation or disposal documentation available for the estate file, the executor or the listing agent. Most single-room clears finish same-day; full estate homes finish on the promised date."
+         "The estate hands back — every room, the garage, the shed — with debris gone on our own trucks and donation or disposal documentation available for the estate file, the executor or the listing agent. Most single-room clears finish same-day; full estate homes finish on the promised date, subject to availability."
         ]
        ]
       }
@@ -328,13 +312,10 @@
        "Keepsakes, documents and valuables set aside for the family, always"
       ],
       [
-       "Donation-first sorting with documentation for the estate file"
-      ],
-      [
        "Coordination with executors, realtors and out-of-town family"
       ],
       [
-       "Broom-swept, listing-ready handovers"
+       ", listing-ready handovers"
       ],
       [
        "Multi-day scheduling for larger estate properties"
@@ -365,7 +346,7 @@
        "Completion for single-room and garage-scale downsizing"
       ],
       [
-       "Documentation of what was donated or recycled, on request"
+       "Documentation of what was donated or recycled where possible, on request"
       ]
      ]
     }
@@ -395,9 +376,6 @@
       ],
       [
        "Deep-accumulation basements, attics and storage spaces"
-      ],
-      [
-       "Respectful crews, first knock to final sweep"
       ]
      ]
     },
@@ -805,7 +783,7 @@
        "q": "What does an estate cleanout include?",
        "a": [
         [
-         "A full estate cleanout covers sorting every room, setting aside keepsakes and valuables for the family, donating or recycling what has life left, hauling and responsibly disposing of the rest, and leaving the property broom-swept. Documentation of the donation and disposal split is available for the estate file."
+         "{{fact:cleanupScope}}. Documentation of the donation and disposal split is available for the estate file."
         ]
        ]
       },
@@ -829,7 +807,7 @@
        "q": "How long does a full estate cleanout take?",
        "a": [
         [
-         "Most single rooms or garages finish same-day. Full estate homes typically run one to three days depending on contents, with the schedule and flat price both set at the walkthrough so a closing date or listing date never wobbles."
+         "Most single rooms or garages finish same-day. {{fact:changedScope}}, subject to availability."
         ]
        ]
       },
@@ -837,7 +815,7 @@
        "q": "Do you work with executors who live out of town or overseas?",
        "a": [
         [
-         "Regularly. Photographs, written updates and a documented record of anything donated, recycled or set aside let an executor approve every stage of the estate cleanout remotely, without needing to be on site."
+         "Regularly. Photographs, written updates and a documented record of anything donated, recycled where possible or set aside let an executor approve every stage of the estate cleanout remotely, without needing to be on site."
         ]
        ]
       },
@@ -853,7 +831,7 @@
        "q": "Is an estate cleanout the same as junk removal?",
        "a": [
         [
-         "Related, but not identical. Junk removal simply hauls items away; an estate cleanout sorts an entire property first — separating what’s kept, donated, sold or recycled — before anything is removed, with the family’s priorities guiding every decision."
+         "Related, but not identical. Junk removal simply hauls items away; an estate cleanout sorts an entire property first — separating what’s kept, donated, sold or recycled where possible — before anything is removed, with the family’s priorities guiding every decision."
         ]
        ]
       },

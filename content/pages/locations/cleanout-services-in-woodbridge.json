@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Woodbridge for families and family businesses passing between generations — estate, in-law suite prep, retirement and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished swept before Sunday dinner."
+     "text": "Cleanout services in Woodbridge for families and family businesses passing between generations — estate, in-law suite prep, retirement and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished before Sunday dinner."
     },
     {
      "t": "ctas",
@@ -126,7 +126,7 @@
        "title": "Free walkthrough cleanout quotes at your home or business",
        "text": [
         [
-         "A crew lead walks the property face to face — house, basement, restaurant, storage room — hears what the cleanout is for, and writes one firm flat quote on the spot. Free, unhurried, and patient with however many family members the decision involves."
+         "{{fact:changedScope}}. Free, unhurried, and patient with however many family members the decision involves."
         ]
        ]
       },
@@ -195,8 +195,7 @@
     {
      "t": "checks",
      "items": [
-      "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -212,12 +211,6 @@
      "t": "price",
      "label": "Woodbridge Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -259,7 +252,7 @@
        "title": "Book Your Woodbridge Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit. The crew lead tours the property with you or your family, hears what the cleanout is for, and writes one flat quote with a timeline that fits your life or your business."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit. {{fact:changedScope}}."
         ]
        ]
       },
@@ -283,10 +276,10 @@
       },
       {
        "n": "04",
-       "title": "Swept, Empty and Ready for the Next Chapter",
+       "title": ", Empty and Ready for the Next Chapter",
        "text": [
         [
-         "The space hands back broom-swept — basement, home or business premises — with debris gone on our own trucks and donation or disposal documentation available for the estate, the sale or your own file."
+         "The space hands back — basement, home or business premises — with debris gone on our own trucks and donation or disposal documentation available for the estate, the sale or your own file."
         ]
        ]
       }
@@ -339,7 +332,7 @@
        "Executor and out-of-town family coordination with documentation"
       ],
       [
-       "Sale-ready, broom-swept handovers"
+       "Sale-ready handovers"
       ]
      ]
     },
@@ -361,10 +354,10 @@
        "Family-flagged items set aside before anything else moves"
       ],
       [
-       "Work left ready for your designer or contractor's next step"
+       "Careful Removal"
       ],
       [
-       "Same-day debris removal so the build can start immediately"
+       "Debris removal so the build can start immediately"
       ],
       [
        "Garage and make-room cleanouts for growing households"
@@ -399,7 +392,7 @@
        "Storefront cleanouts along the Highway 7 and Weston Road corridors"
       ],
       [
-       "Broom-swept handovers ready for the new concept or the next tenant"
+       "Handovers ready for the new concept or the next tenant"
       ]
      ]
     },
@@ -425,9 +418,6 @@
       ],
       [
        "Family and support-worker coordination where wanted"
-      ],
-      [
-       "Respectful crews, first knock to final sweep"
       ]
      ]
     }
@@ -719,7 +709,7 @@
        "q": "My parents are retiring from the restaurant — how do you handle that cleanout?",
        "a": [
         [
-         "With the respect decades of work deserve. Kitchen equipment, fixtures, inventory and paperwork sort carefully, anything meaningful or worth keeping gets set aside for the family before anything moves to disposal or a buyer, and the space hands over swept for the new owner or concept."
+         "With the respect decades of work deserve. Kitchen equipment, fixtures, inventory and paperwork sort carefully, anything meaningful or worth keeping gets set aside for the family before anything moves to disposal or a buyer, and the space hands over for the new owner or concept."
         ]
        ]
       },

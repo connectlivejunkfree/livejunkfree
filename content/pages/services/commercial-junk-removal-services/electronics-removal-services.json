@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/07/Electronics-Removal-Services.jpeg"
  },
  "title": "Electronics Removal Services",
- "h1": "Most Trusted Electronics Removal Service in Your Area",
+ "h1": "Electronics Removal Service in Your Area",
  "published": "2026-07-09T11:09:31",
  "modified": "2026-07-23T08:13:12",
  "sections": [
@@ -21,12 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Most Trusted Electronics Removal Service in Your Area"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in town."
+     "text": "Electronics Removal Service in Your Area"
     },
     {
      "t": "ctas",
@@ -151,7 +146,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Electronics Removal Available"
+     "text": "Same-Day Electronics Removal may be available"
     },
     {
      "t": "p",
@@ -178,9 +173,6 @@
        "Professional removal of all device types (computers, TVs, printers, servers)"
       ],
       [
-       "{{fact:recycling}}"
-      ],
-      [
        "Safe extraction from offices, homes, and hard-to-reach spaces"
       ]
      ]
@@ -190,7 +182,7 @@
      "c": [
       {
        "b": [
-        "Need Electronics Removal ASAP? Same-Day Service Available"
+        "Need Electronics Removal ASAP? Same-Day Service may be available"
        ]
       }
      ]
@@ -214,33 +206,15 @@
        ]
       },
       {
-       "title": "{{fact:recycling}}",
+       "title": "Affordable Removal Solutions",
        "text": [
-        "Functional devices get refurbished for community programs, while non-working equipment is responsibly recycled."
-       ]
-      },
-      {
-       "title": "Affordable Bulk Removal Solutions",
-       "text": [
-        "– Clearing an entire office of electronics? We provide special rates for large-scale projects and corporate accounts."
+        "– Clearing an entire office of electronics? {{fact:changedScope}}."
        ]
       },
       {
        "title": "Quick & Easy Booking",
        "text": [
         "– Get booked online or by phone – no complicated forms or long wait times."
-       ]
-      },
-      {
-       "title": "Transparent, Pricing",
-       "text": [
-        "{{fact:recycling}}"
-       ]
-      },
-      {
-       "title": "{{fact:recycling}}",
-       "text": [
-        "– Expert technicians handling all electronics from home devices to enterprise IT."
        ]
       }
      ]
@@ -274,13 +248,10 @@
      "t": "ul",
      "items": [
       [
-       "Recycling – All electronics processed at licensed facilities meet strict environmental standards"
-      ],
-      [
        "Complete Data Protection – Military-grade wiping for all storage devices, including hard drives and servers"
       ],
       [
-       "Community Donation Program – Working devices are refurbished and donated to local schools and nonprofits"
+       "Community Donation Program – Working devices are refurbished and donated where possible"
       ]
      ]
     },
@@ -298,9 +269,6 @@
       ],
       [
        "Free estimates via phone/text/email"
-      ],
-      [
-       "Special rates for bulk office electronics removal"
       ]
      ]
     }
@@ -381,19 +349,13 @@
       {
        "title": "Send Us Details",
        "text": [
-        "Text or email us about your electronic waste, we’ll respond within 30 minutes with a free estimate."
-       ]
-      },
-      {
-       "title": "Get a Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
+        "Text or email us about your electronic waste, we’ll respond with a free estimate."
        ]
       },
       {
        "title": "Choose Your Time",
        "text": [
-        "Select same-day, next-day, or schedule in advance, and we work around your availability."
+        "Select same-day when available, next-day, or schedule in advance, and we work around your availability."
        ]
       },
       {
@@ -480,7 +442,7 @@
        "q": "Can I schedule a same-day electronics pickup?",
        "a": [
         [
-         "Yes, Same-day pickup is often available when you call."
+         "Yes, Same-day pickup when available is often available when you call."
         ]
        ]
       }

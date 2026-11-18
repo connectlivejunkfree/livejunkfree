@@ -196,7 +196,7 @@
        "We do all the lifting and loading while you sit back"
       ],
       [
-       "Post-removal, we sweep the area clean and leave your space refreshed"
+       "Post-removal and leave your space refreshed"
       ]
      ]
     },
@@ -218,7 +218,7 @@
      "t": "ul",
      "items": [
       [
-       "We donate usable hutches to local charities and shelters"
+       "{{fact:recycling}}"
       ],
       [
        "We recycle wood, glass, and metal responsibly"
@@ -239,7 +239,7 @@
     {
      "t": "p",
      "c": [
-      "Simple, flat-rate quotes"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -247,12 +247,6 @@
      "items": [
       [
        "{{fact:freeOnsiteEstimates}}"
-      ],
-      [
-       "{{fact:competitorComparison}}"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     },
@@ -260,25 +254,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Eco-Friendly 100% Local 100% Trustworthy Committed to Minimizing Landfill Waste & Donations"
+       "title": "Eco-Friendly Local Trustworthy Committed to Minimizing Landfill Waste & Donations"
       }
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "We’re based right here in Toronto and love what we do."
      ]
     },
     {
      "t": "ul",
      "items": [
-      [
-       "Thousands of happy GTA customers"
-      ],
-      [
-       "5-star service with a personal touch"
-      ],
       [
        "Respectful, efficient, and professional crews"
       ]
@@ -297,7 +279,7 @@
      "t": "cards",
      "items": [
       {
-       "title": "Same-day availability",
+       "title": "Availability when available",
        "text": [
         "Swift, safe, and efficient service — we get the job done when you need it most."
        ]
@@ -306,12 +288,6 @@
        "title": "Fast 3-step booking",
        "text": [
         "Simple, quick, and hassle-free scheduling that fits your daily routine."
-       ]
-      },
-      {
-       "title": "",
-       "text": [
-        "We handle your junk responsibly with sustainable disposal."
        ]
       }
      ]
@@ -434,12 +410,6 @@
        ]
       },
       {
-       "title": "2.",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
-      {
        "title": "3. Pick Your Time",
        "text": [
         "We offer flexible windows with on-time arrival (no waiting all day)"
@@ -527,7 +497,7 @@
        "To property or surrounding fixtures"
       ],
       [
-       "Flexible hours, including after-hours pickups"
+       "{{fact:pickupTimes}}"
       ]
      ]
     },
@@ -552,7 +522,7 @@
      "c": [
       {
        "b": [
-        "Bulk removal and ongoing partnerships:"
+        ""
        ]
       }
      ]
@@ -821,7 +791,7 @@
        "q": "Do you recycle or donate old hutches?",
        "a": [
         [
-         "Yes! We prioritize donating usable hutches to local charities. For non-donatable items, we responsibly recycle all possible materials to minimize environmental impact."
+         "Yes! For non-donatable items, we responsibly recycle all possible materials to minimize environmental impact."
         ]
        ]
       },
@@ -837,7 +807,7 @@
        "q": "Can I schedule a same-day pickup?",
        "a": [
         [
-         "Often yes! We frequently have same-day availability. Call us in the morning and we’ll do our best to accommodate your urgent hutch removal needs."
+         "Often yes! We frequently have same-day availability when available. Call us in the morning and we’ll do our best to accommodate your urgent hutch removal needs."
         ]
        ]
       },

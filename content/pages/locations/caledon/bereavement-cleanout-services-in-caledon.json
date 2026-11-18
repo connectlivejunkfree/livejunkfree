@@ -80,13 +80,13 @@
     {
      "t": "p",
      "c": [
-      "Because when someone who spent decades working a piece of land passes, their tools, equipment and machinery aren’t just objects to move — they’re the physical trace of a working life, and treating them like ordinary clutter misses what they actually meant. Live Junk Free sorts with that understanding, setting aside anything that looks meaningful or genuinely valuable so a family can decide what happens to it, rather than losing that choice by default."
+      "{{fact:equipmentScope}}. Live Junk Free sorts with that understanding, setting aside anything that looks meaningful or genuinely valuable so a family can decide what happens to it, rather than losing that choice by default."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Around the village cores of Caledon East, Alton and Inglewood, bereavement cleanout is usually more contained. On the western concessions, it’s often the multi-structure version — a farmhouse and any workshop or barn tied to the property, all handled with equal care."
+      "On the western concessions, it’s often the multi-structure version — a farmhouse and any workshop or barn tied to the property, all handled with equal care."
      ]
     },
     {
@@ -126,16 +126,7 @@
        "title": "Real recognition of a farming life during bereavement cleanout",
        "text": [
         [
-         "Equipment, tools and machinery tied to a working life get sorted with genuine understanding of what they meant, set aside for the family rather than assumed disposable."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        [
-         "A rural property eight kilometres down a gravel sideroad costs exactly what the identical job costs in a village core."
+         "{{fact:equipmentScope}}."
         ]
        ]
       },
@@ -210,8 +201,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -231,7 +221,7 @@
     {
      "t": "p",
      "c": [
-      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -295,7 +285,7 @@
        "title": "A Space That's Clean and Ready",
        "text": [
         [
-         "We complete a final walkthrough, sweep the area, and leave the space ready for whatever comes next."
+         "We complete a final walkthrough, and leave the space ready for whatever comes next."
         ]
        ]
       }
@@ -330,19 +320,10 @@
        "Bereavement cleanouts in Caledon East, Alton and Inglewood"
       ],
       [
-       "Straightforward scheduling for more contained properties"
-      ],
-      [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
        "Family-initiated cleanouts handled with real patience"
-      ],
-      [
-       "Same flat pricing as any farm property in the township"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     },
@@ -365,12 +346,6 @@
       ],
       [
        "Real care around active farm operations while the crew works"
-      ],
-      [
-       "{{fact:competitorComparison}}"
-      ],
-      [
-       "Same flat pricing regardless of distance from town"
       ]
      ]
     }
@@ -388,9 +363,6 @@
      "items": [
       [
        "Bereavement cleanouts in Palgrave, Terra Cotta and Belfountain"
-      ],
-      [
-       "Same flat pricing as the village core or farm properties"
       ],
       [
        "Careful handling around established, older properties"
@@ -421,13 +393,10 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
-       "Same flat pricing regardless of the season"
-      ],
-      [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Recurring visit scheduling available on request"
@@ -818,7 +787,7 @@
        "q": "Do rural addresses or long laneways cost extra?",
        "a": [
         [
-         "Never. The same flat pricing applies at Caledon East’s village core and eight concessions past it."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },

@@ -120,7 +120,7 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat price — stairs and access never bill extra",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "{{fact:propertyProtection}}."
@@ -201,8 +201,7 @@
     {
      "t": "checks",
      "items": [
-      "Move + Disassembly + Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Move + Disassembly + Haul-Away"
      ]
     },
     {
@@ -274,7 +273,7 @@
        "title": "Get a Free On-Site Quote — Route Measured First",
        "text": [
         [
-         "The crew measures doorways and staircase turns, checks whether legs or lids need to come off, and gives you one flat price."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -339,10 +338,10 @@
        "Wall, corner and staircase protection throughout"
       ],
       [
-       "Donation-first checks before any piano is recycled"
+       "Donation-first checks before any piano is recycled where possible"
       ],
       [
-       "Same-day service for straightforward downtown access"
+       "Service for straightforward downtown access"
       ],
       [
        "Careful, unhurried handling around established gardens"
@@ -370,7 +369,7 @@
        "Documentation available if requested for the record"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "No cutting or disassembly typically required"
@@ -400,12 +399,6 @@
       ],
       [
        "Sensitive scheduling that fits around a full home's daily life"
-      ],
-      [
-       "Same flat pricing whatever the household size"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
       ]
      ]
     },
@@ -835,7 +828,7 @@
        "q": "What happens to a digital piano's electronics?",
        "a": [
         [
-         "They’re recycled properly as standard. "
+         "They’re recycled where possible as standard. "
         ]
        ]
       },
@@ -843,7 +836,7 @@
        "q": "Do you charge extra for stairs?",
        "a": [
         [
-         "No. Narrow staircases and multi-floor moves are factored into one flat quote at the walkthrough."
+         "No. {{fact:changedScope}}."
         ]
        ]
       },

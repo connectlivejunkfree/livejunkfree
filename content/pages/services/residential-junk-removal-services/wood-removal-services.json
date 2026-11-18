@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/08/wood-removal.webp"
  },
  "title": "Wood Removal Service",
- "h1": "Most Trusted Residential Wood Removal Service in Your Area",
+ "h1": "Residential Wood Removal Service in Your Area",
  "published": "2026-08-04T04:36:58",
  "modified": "2026-08-04T04:36:05",
  "sections": [
@@ -21,12 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Most Trusted Residential Wood Removal Service in Your Area"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in the town."
+     "text": "Residential Wood Removal Service in Your Area"
     },
     {
      "t": "ctas",
@@ -63,7 +58,7 @@
     {
      "t": "p",
      "c": [
-      "Live Junk Free makes wood removal simple and efficient. We provide a stress-free solution to eliminate old lumber, construction debris, pallets, furniture, or bulk wood waste, all without you needing to lift a finger."
+      "Live Junk Free makes wood removal simple and efficient. {{fact:changedScope}}."
      ]
     },
     {
@@ -75,7 +70,7 @@
     {
      "t": "p",
      "c": [
-      "We prioritize eco-friendly disposal. Instead of sending wood to landfills, we ensure materials are recycled, repurposed, or properly disposed of at recycling facilities. Our team handles all types of wood waste with care, protecting your property while maintaining a clean work area."
+      "We prioritize eco-friendly disposal. Instead of sending wood to landfills, we ensure materials are recycled where possible, repurposed, or properly disposed of at recycling facilities. Our team handles all types of wood waste with care, protecting your property while maintaining a clean work area."
      ]
     },
     {
@@ -151,7 +146,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Wood Removal Services Available"
+     "text": "Same-Day Wood Removal Services may be available"
     },
     {
      "t": "p",
@@ -190,7 +185,7 @@
      "c": [
       {
        "b": [
-        "Need Old Wood Removal Soon? Same-Day Service Available"
+        "Need Old Wood Removal Soon? Same-Day Service may be available"
        ]
       }
      ]
@@ -222,13 +217,13 @@
       {
        "title": "Save on Big Projects",
        "text": [
-        "Clearing construction sites or multiple properties? We offer special rates for bulk wood junk removal and regular service contracts."
+        "Clearing construction sites or multiple properties? {{fact:changedScope}}."
        ]
       },
       {
        "title": "Book",
        "text": [
-        "Get on our schedule instantly online or by phone – no complicated estimates or waiting periods."
+        "Get on our schedule online or by phone – no complicated estimates or waiting periods."
        ]
       },
       {
@@ -238,7 +233,7 @@
        ]
       },
       {
-       "title": "5-Star Rated Service",
+       "title": "Service",
        "text": [
         "Consistently excellent reviews for reliability and eco-friendly practices"
        ]
@@ -314,13 +309,7 @@
      "t": "ul",
      "items": [
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Free estimates via phone/text/email"
-      ],
-      [
-       "Discounted rates for large cleanouts"
       ]
      ]
     }
@@ -410,12 +399,6 @@
        "title": "Send Us Photos",
        "text": [
         "Text or email photos of your wood pile, furniture, or construction debris. {{fact:freeOnsiteEstimates.long}}"
-       ]
-      },
-      {
-       "title": "Get a Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
        ]
       },
       {

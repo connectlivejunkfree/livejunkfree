@@ -80,13 +80,13 @@
     {
      "t": "p",
      "c": [
-      "Because a lot of families here have held onto a storage unit for years — sometimes holding overflow from a family home, sometimes holding items passed down between parents and children that never quite found a permanent place. By the time someone’s ready to clear it, it’s rarely just one person’s boxes. Live Junk Free treats that the same way it treats any family matter here, sorting with real patience rather than rushing through it as a routine storage cleanout."
+      "Because a lot of families here have held onto a storage unit for years — sometimes holding overflow from a family home, sometimes holding items passed down between parents and children that never quite found a permanent place. By the time someone’s ready to clear it, it’s rarely just one person’s boxes. {{fact:cleanupScope}}."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Whatever the facility, whatever the reason, the same careful process and the same flat pricing apply."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -126,16 +126,7 @@
        "title": "Real patience for family-held storage unit cleanouts",
        "text": [
         [
-         "Where a unit’s held items from more than one generation, sorting happens carefully rather than treating everything as simple clutter to be hauled away quickly."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "One flat storage unit cleanout price — kept like a promise",
-       "text": [
-        [
-         "A crew member sees the actual unit and gives one flat number before anything moves."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -154,15 +145,6 @@
        "text": [
         [
          "Arrival times can be arranged around your schedule, with nothing about the visit drawing unwanted attention."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first storage unit cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -204,8 +186,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -225,7 +206,7 @@
     {
      "t": "p",
      "c": [
-      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -271,7 +252,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual unit and gives you one flat price before anything moves, with no assumptions made about the family."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -289,7 +270,7 @@
        "title": "Your Unit Is Empty and Ready to Return",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready to hand back to the facility."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready to hand back to the facility."
         ]
        ]
       }
@@ -331,9 +312,6 @@
       ],
       [
        "Coordination with family on pace and timing"
-      ],
-      [
-       "Same flat pricing as any other storage unit cleanout"
       ]
      ]
     },
@@ -352,10 +330,7 @@
        "Coordination directly with facility management on timing"
       ],
       [
-       "Same flat pricing regardless of how tight the timeline is"
-      ],
-      [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Priority booking for time-sensitive lease-end dates"
@@ -387,7 +362,7 @@
        "Discreet, unhurried scheduling that respects the family's pace"
       ],
       [
-       "Same-day completion for most straightforward removals"
+       "Completion for most straightforward removals"
       ]
      ]
     },
@@ -406,10 +381,7 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"

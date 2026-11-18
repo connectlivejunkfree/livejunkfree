@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Newmarket is northern York Region’s service counter — the town people drive to for appointments, dinners, shopping and care — which means its businesses can least afford a day lost to a clear-out. That constraint shaped how we work, and the Google reviews behind Live Junk Free reflect it: Main Street shopkeepers, Davis Drive clinic managers and Leslie Street unit operators all describing junk removal that happened around their hours, at the flat price written on arrival, with the space swept and back in service before the next customer, patient or shipment showed up."
+      "Newmarket is northern York Region’s service counter — the town people drive to for appointments, dinners, shopping and care — which means its businesses can least afford a day lost to a clear-out. {{fact:changedScope}}."
      ]
     },
     {
@@ -112,7 +112,7 @@
      "items": [
       {
        "n": "01",
-       "title": "Truck-volume junk removal pricing — downtime-free and surprise-free",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "One measure sets your Newmarket junk removal price: the share of the truck your load fills. Weight, stairs, carry distance and job length all ride free inside it, and the figure is written before work starts — so neither your schedule nor your budget takes an unplanned hit."
@@ -124,7 +124,7 @@
        "title": "Free junk removal quotes walked and written at your Newmarket business",
        "text": [
         [
-         "Our crew lead visits the shop, suite or unit, walks everything that’s leaving — back room to basement — and hands over one firm flat rate on the spot. The walkthrough takes minutes, costs nothing, and can happen before you open so your trading day starts untouched."
+         "{{fact:changedScope}}. The walkthrough takes minutes, costs nothing, and can happen before you open so your trading day starts untouched."
         ]
        ]
       },
@@ -133,7 +133,7 @@
        "title": "Our junk hauling crew works — your staff never break stride",
        "text": [
         [
-         "Servers keep serving, receptionists keep booking, warehouse hands keep shipping. Every dismantle, carry, load and sweep belongs to our junk removal crew, routed through back doors and service corridors so your team’s day looks exactly like it would have anyway — minus the junk at the end of it."
+         "Servers keep serving, receptionists keep booking, warehouse hands keep shipping. {{fact:cleanupScope}}."
         ]
        ]
       },
@@ -143,15 +143,6 @@
        "text": [
         [
          "A century-old Main Street shopfront and a tidy Davis Drive clinic demand the same thing differently: care. Floors runner-protected, frames padded, fixtures dismantled before they move, clinical areas left clean enough to see patients in — whatever the space, it comes back."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "{{fact:nextAvailable}}",
-       "text": [
-        [
-         "Cafés clear before the morning rush, clinics between the last patient and the first, retailers after close, industrial units on Sunday."
         ]
        ]
       },
@@ -193,8 +184,7 @@
     {
      "t": "checks",
      "items": [
-      "Written Flat Rates Before Any Lifting",
-      "{{fact:competitorComparison}}"
+      "Written Flat Rates Before Any Lifting"
      ]
     },
     {
@@ -210,12 +200,6 @@
      "t": "price",
      "label": "Newmarket Junk Removal Pricing",
      "value": "Junk Load from {{min_price:C}}"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -266,7 +250,7 @@
        "title": "Walk the Load, Take the Junk Removal Quote",
        "text": [
         [
-         "Point the crew through it all: the storeroom shelving, the retired waiting-room furniture, the pallet the last tenant left. Everything is measured against truck space and handed back as one written flat rate — no pressure, no expiry, no charge for looking."
+         "Point the crew through it all: the storeroom shelving, the retired waiting-room furniture, the pallet the last tenant left. {{fact:changedScope}}."
         ]
        ]
       },
@@ -281,10 +265,10 @@
       },
       {
        "n": "04",
-       "title": "Swept, Restocked-Ready, Junk Disposal Sorted",
+       "title": ", Restocked-Ready, Junk Disposal Sorted",
        "text": [
         [
-         "The job ends with a broom sweep and paperwork on request. The truckload then sorts by destination: donation partners for the usable, licensed recyclers for metals, appliances and e-waste, landfill strictly for what remains after both."
+         "{{fact:cleanupScope}}. The truckload then sorts by destination: donation partners for the usable, licensed recyclers for metals, appliances and e-waste, landfill strictly for what remains after both."
         ]
        ]
       }
@@ -359,7 +343,7 @@
        "Office decommissions for practices relocating or consolidating"
       ],
       [
-       "Filing rooms and records shelving cleared, e-waste recycled"
+       "Filing rooms and records shelving cleared, e-waste recycled where possible"
       ],
       [
        "{{fact:weekendPickup}}"
@@ -392,12 +376,6 @@
       ],
       [
        "Closing-sale leftovers and rebrand debris disposal"
-      ],
-      [
-       "{{fact:weekendPickup}}"
-      ],
-      [
-       "End-of-lease sweeps to landlord-inspection standard"
       ]
      ]
     },
@@ -411,9 +389,6 @@
      "items": [
       [
        "Unit and bay cleanouts through the Leslie Street and Harry Walker Parkway employment areas"
-      ],
-      [
-       "Racking, shelving and mezzanine contents dismantled and hauled"
       ],
       [
        "Obsolete stock, packaging waste and scrap metal pickup"
@@ -717,7 +692,7 @@
        "q": "Do you clear medical and dental offices?",
        "a": [
         [
-         "Yes — furniture, cabinetry, retired exam tables, reception fit-outs and office equipment all haul at standard volume rates, scheduled between appointments or after hours to protect patient flow. Biomedical and hazardous waste are the one exclusion; we’ll direct you to licensed specialty handlers for those."
+         "{{fact:changedScope}}. Biomedical and hazardous waste are the one exclusion; we’ll direct you to licensed specialty handlers for those."
         ]
        ]
       },
@@ -725,7 +700,7 @@
        "q": "How fast can a truck reach my Newmarket business?",
        "a": [
         [
-         "Often the same day."
+         "Often the same day when available."
         ]
        ]
       },
@@ -749,7 +724,7 @@
        "q": "Can Newmarket landlords set up recurring junk removal?",
        "a": [
         [
-         "Readily — plazas, business parks and mixed portfolios across town run on our standing schedules. Weekly, monthly or per-turnover, always at the same volume rates, consolidated to one invoice with one contact who knows every site."
+         "Readily — plazas, business parks and mixed portfolios across town run on our standing schedules. {{fact:changedScope}}."
         ]
        ]
       },

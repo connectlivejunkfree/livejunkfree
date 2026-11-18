@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "There’s a habit some companies fall into with small towns: price the visit like it’s an inconvenience. Live Junk Free doesn’t have that problem, because the trucks are already passing through the crossroads on their way to somewhere else most days. A shed coming down on Main Street prices the same as one coming down in Lloydtown or eight concessions past it. On farm properties across the western concessions, that usually means fence lines, old sheds and the occasional above ground pool that came with the land, all cleared without a rural add-on tacked onto the bill. Around the preserved downtown core, it’s smaller jobs — a deck, a gazebo, a section of fence — handled with the same attention paid to a heritage building’s exterior. And out toward the hamlets of Pottageville and Kettleby, it’s whatever’s finally reached the end of its useful life on a property that’s been in the family a while. Whatever the job, the Google reviews behind Live Junk Free tell the same story: fair price, no surprises, and a truck that actually shows up when it says it will."
+      "There’s a habit some companies fall into with small towns: price the visit like it’s an inconvenience. {{fact:scheduling}} A shed coming down on Main Street prices the same as one coming down in Lloydtown or eight concessions past it. On farm properties across the western concessions, that usually means fence lines, old sheds and the occasional above ground pool that came with the land, all cleared without a rural add-on tacked onto the bill. Around the preserved downtown core, it’s smaller jobs — a deck, a gazebo, a section of fence — handled with the same attention paid to a heritage building’s exterior. And out toward the hamlets of Pottageville and Kettleby, it’s whatever’s finally reached the end of its useful life on a property that’s been in the family a while. Whatever the job, the Google reviews behind Live Junk Free tell the same story: fair price, no surprises, and a truck that actually shows up when it says it will."
      ]
     },
     {
@@ -121,7 +121,7 @@
       },
       {
        "n": "02",
-       "title": "One flat demolition price covers the whole job",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Structure down, debris hauled, disposed of properly — it’s all inside one price given at the walkthrough, before anything comes apart. Nothing new shows up on the bill once the crew’s already there."
@@ -154,15 +154,6 @@
          "Book in the morning and there’s a good chance the structure’s down and hauled off by afternoon."
         ]
        ]
-      },
-      {
-       "n": "06",
-       "title": "Independent demolition pricing, not franchise pricing",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
       }
      ]
     }
@@ -187,7 +178,7 @@
     {
      "t": "p",
      "c": [
-      "Size and material of the structure set the price — a fence section is a small job, a full above ground pool or a multi-shed farm cleanup is a bigger one — but the address never factors in."
+      "{{fact:changedScope}}."
      ]
     },
     {
@@ -262,15 +253,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Walk the Job, Get Your Demolition Quote",
-       "text": [
-        [
-         "The crew looks at everything that needs to go, prices it as one job if there’s more than one structure, and hands you a flat figure before anything starts."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Demolition Happens, Piece by Piece",
        "text": [
@@ -325,9 +307,6 @@
        "Above Ground Pool Demolition — frame, liner and decking torn down and hauled, older bungalow-belt installations handled with extra care"
       ],
       [
-       "Hot Tub Demolition — drained, disconnected and cut apart before removal"
-      ],
-      [
        "Jacuzzi Demolition — same process, any age of structure"
       ]
      ]
@@ -370,9 +349,6 @@
        "Garage Demolition — detached units taken down section by section"
       ],
       [
-       "Deck Demolition — wood and composite, footings addressed for an addition or rebuild"
-      ],
-      [
        "Fence Demolition — full runs or single sections"
       ],
       [
@@ -391,9 +367,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Concrete Demolition — patios, walkways and pads broken up and hauled, grading-conscious near ravine edges"
-      ],
       [
        "Flooring Demolition — old outdoor surfaces and bases removed"
       ],
@@ -673,7 +646,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {
@@ -992,7 +965,7 @@
        "q": "We've got a few different structures that need to come down on the farm. Do you price those separately?",
        "a": [
         [
-         "Not usually. The crew walks the whole property, sees everything that’s going, and quotes it as one job — one price, one visit, rather than several separate call-outs. "
+         "Not usually. {{fact:scheduling}} "
         ]
        ]
       },
@@ -1016,7 +989,7 @@
        "q": "What does a pool or hot tub demolition actually involve?",
        "a": [
         [
-         "The water drains first, then the shell gets cut apart and hauled — the whole thing broken down properly rather than pulled out in one piece, which usually isn’t possible anyway. "
+         "{{fact:utilityDisconnection}} "
         ]
        ]
       }

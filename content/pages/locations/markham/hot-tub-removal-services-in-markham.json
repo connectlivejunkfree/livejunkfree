@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Hot Tub Removal Services in Markham - Live JunkFree",
-  "description": "Hot Tub Removal Services in Markham from Live Junk Free — done safely and in one visit, draining, disconnecting, cutting apart and hauling away.",
+  "description": "{{fact:utilityDisconnection}}",
   "canonical": "https://livejunkfree.ca/locations/markham/hot-tub-removal-services-in-markham/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/08/Hot-Tub-Removal-Services-in-Markham.jpeg"
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "A hot tub is more electronics than most people realize — a control panel, a heater unit, a pump motor — and in a city built on tech, Live Junk Free treats that circuitry the way Markham expects. Through Unionville and Markham Village’s heritage streets, it’s a tub tucked behind a home held for decades, drained and cleared as the backyard gets its own update. In Berczy, Cornell and the newer east-end communities, it’s removal from full, often multigenerational households — a backyard the whole family uses, cleared with the same care as anything else on the property. Near Commerce Valley and the towers around Markham Centre, it’s rooftop and terrace hot tub removal handled by the building’s rules. The Google reviews behind Live Junk Free come from every one of those addresses — a hot tub removal crew that drained it properly, cut it down safely without wrecking the deck underneath, and recycled every electronic component the right way."
+      "{{fact:utilityDisconnection}} In Berczy, Cornell and the newer east-end communities, it’s removal from full, often multigenerational households — a backyard the whole family uses, cleared with the same care as anything else on the property. Near Commerce Valley and the towers around Markham Centre, it’s rooftop and terrace hot tub removal handled by the building’s rules."
      ]
     },
     {
@@ -114,10 +114,10 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat hot tub removal price — draining, cutting and hauling all included",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "A hot tub isn’t a normal junk item, and Live Junk Free’s quote reflects the real work: draining the water, disconnecting whatever needs disconnecting, cutting the shell into manageable sections, and hauling every piece away."
+         "{{fact:utilityDisconnection}}"
         ]
        ]
       },
@@ -126,7 +126,7 @@
        "title": "Free on-site hot tub removal quotes anywhere in Markham",
        "text": [
         [
-         "A Live Junk Free crew member comes to your property — heritage home, condo terrace, family backyard — looks at the tub’s size, condition and access, and gives you one flat number before anything happens. Free visit, no obligation, and no guessing over the phone."
+         "{{fact:changedScope}}. Free visit, no obligation, and no guessing over the phone."
         ]
        ]
       },
@@ -135,16 +135,7 @@
        "title": "Recycling for the hot tub's electronics, not just the shell",
        "text": [
         [
-         "A hot tub’s control panel, heater element and pump motor are electronic components that deserve better than a landfill, and in a tech city, we treat them that way. Every electronic piece routes to a recycler as standard, with documentation available if your household or a family member wants the record."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Draining and disconnection handled the safe way",
-       "text": [
-        [
-         "Water gets drained responsibly before anything else happens, and any electrical hookup — a hardwired 240V line is common — gets confirmed dead before we touch it, with a licensed electrician’s prior disconnection required if the tub was still wired live. We don’t cut into anything until it’s genuinely safe to."
+         "{{fact:utilityDisconnection}} Every electronic piece routes to a recycler as standard, with documentation available if your household or a family member wants the record."
         ]
        ]
       },
@@ -178,11 +169,6 @@
     },
     {
      "t": "h",
-     "l": 2,
-     "text": "Hot Tub Removal Cost in Markham — One Flat Price From Live Junk Free"
-    },
-    {
-     "t": "h",
      "l": 3,
      "text": "What's Inside Every Markham Hot Tub Removal Quote"
     },
@@ -195,7 +181,6 @@
     {
      "t": "checks",
      "items": [
-      "Drain + Disconnect + Cut-Out + Haul-Away",
       "No Rooftop Surcharges"
      ]
     },
@@ -259,7 +244,7 @@
        "title": "Book Your Hot Tub Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots are usually available. Tell us the tub’s rough size and location, house or condo terrace."
+         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots when available are usually available. Tell us the tub’s rough size and location, house or condo terrace."
         ]
        ]
       },
@@ -268,25 +253,7 @@
        "title": "Get a Free On-Site Quote — Window Committed",
        "text": [
         [
-         "The crew looks at the tub, confirms any electrical is safely disconnected, checks the path out of the yard or building, and gives you one flat price before touching anything. No pressure — decline and there’s no charge."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "The Tub Gets Drained, Cut and Removed",
-       "text": [
-        [
-         "Water drains responsibly, the shell gets cut into sections that clear your gate or fence line, and every piece — acrylic, foam, wood, metal, electronics — carries out without dragging across your lawn or deck."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Your Space Is Clear",
-       "text": [
-        [
-         "{{fact:recycling}}"
+         "{{fact:changedScope}}. No pressure — decline and there’s no charge."
         ]
        ]
       }
@@ -783,7 +750,7 @@
        "q": "What happens to the hot tub's control panel and electronics?",
        "a": [
         [
-         "They’re recycled properly as standard, not an add-on. "
+         "They’re recycled where possible as standard, not an add-on. "
         ]
        ]
       },
@@ -791,7 +758,7 @@
        "q": "Do I need to drain the hot tub myself before you arrive?",
        "a": [
         [
-         "No — draining is part of the service. The Live Junk Free crew handles it safely on arrival, and you don’t need a hose, a pump, or any prep beyond making sure the area around the tub is reasonably accessible. "
+         "{{fact:utilityDisconnection}} "
         ]
        ]
       },

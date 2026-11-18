@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Storage unit cleanout services in Port Perry from Live Junk Free come from a crew that knows exactly what an antiques dealer's overflow unit typically holds — genuine inventory worth real value, not just excess furniture to haul away — sorted with an appraisal-minded eye rather than swept into one general load."
+     "text": "Storage unit cleanout services in Port Perry from Live Junk Free come from a crew that knows exactly what an antiques dealer's overflow unit typically holds — genuine inventory worth real value, not just excess furniture to haul away — sorted with an appraisal-minded eye rather than into one general load."
     },
     {
      "t": "ctas",
@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "Whether the unit’s near town or out toward Scugog Island, the same flat pricing and the same careful eye apply."
+      "{{fact:changedScope}}."
      ]
     },
     {
@@ -122,47 +122,20 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "Antiques dealer inventory sorting during storage unit cleanout",
-       "text": [
-        [
-         "Furniture and pieces that look like they might carry real value get set aside for a proper look, so a dealer isn’t left wondering later what might have been in there."
-        ]
-       ]
-      },
-      {
        "n": "02",
        "title": "No waterfront or scenic-town markup on storage unit cleanout",
        "text": [
         [
-         "The number reflects the size of the unit and the sorting it needs — never whether the facility happens to be near the water or in the antiques district."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "One flat storage unit cleanout price, confirmed before anything moves",
-       "text": [
-        [
-         "A crew member sees the actual unit and gives one flat number before anything moves — no per-item guessing."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Same-day storage unit cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first storage unit cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -204,8 +177,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -225,7 +197,7 @@
     {
      "t": "p",
      "c": [
-      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -267,15 +239,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual unit, notes anything that calls for a careful, appraisal-minded sort, and gives you one flat price before anything moves."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Unit Gets Cleared, With a Careful Eye",
        "text": [
@@ -289,7 +252,7 @@
        "title": "Your Unit Is Empty and Ready to Return",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready to hand back to the facility."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready to hand back to the facility."
         ]
        ]
       }
@@ -324,16 +287,10 @@
        "Storage unit cleanouts for overflow inventory from local antiques dealers"
       ],
       [
-       "Appraisal-minded sorting for genuine inventory value"
-      ],
-      [
        "Careful, unhurried handling around fragile or collectible pieces"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing as any other storage unit cleanout"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ]
      ]
     },
@@ -349,16 +306,13 @@
        "Storage unit cleanouts at facilities near the waterfront and Scugog Island"
       ],
       [
-       "Same flat pricing as anywhere else in the township"
-      ],
-      [
        "No waterfront premium anywhere in the quote"
       ],
       [
        "Coordination around seasonal access where relevant"
       ],
       [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ]
      ]
     }
@@ -381,13 +335,10 @@
        "Coordination directly with facility management on timing"
       ],
       [
-       "Same flat pricing regardless of how tight the timeline is"
-      ],
-      [
        "Priority booking for time-sensitive lease-end dates"
       ],
       [
-       "Same-day completion available for most straightforward units"
+       "Same-day completion may be available for most straightforward units"
       ]
      ]
     },
@@ -406,10 +357,7 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
@@ -792,7 +740,7 @@
        "q": "1. Do you handle storage units that have been left untouched for a long time?",
        "a": [
         [
-         "Yes. Whether a unit has been used recently or has accumulated belongings for years, the cleanout team can handle the sorting, lifting, loading, and removal."
+         "Yes. Whether a unit has been used recently or has accumulated belongings for years, the cleanout team can handle the lifting, loading, and removal."
         ]
        ]
       },

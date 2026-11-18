@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Live Junk Free provides eviction cleanout services throughout Whitby, including Downtown Whitby, Brooklin, Whitby Shores, Port Whitby, Blue Grass Meadows, Rolling Acres, Lynde Creek, Pringle Creek, Williamsburg, Taunton North, Brooklin Heights, Ashburn, Brooklin Village, Myrtle Station and surrounding Whitby communities. Whether the property is an apartment, house, condo, or foreclosure property, our team can remove unwanted belongings and leave the space swept and ready for its next stage."
+      "Live Junk Free provides eviction cleanout services throughout Whitby, including Downtown Whitby, Brooklin, Whitby Shores, Port Whitby, Blue Grass Meadows, Rolling Acres, Lynde Creek, Pringle Creek, Williamsburg, Taunton North, Brooklin Heights, Ashburn, Brooklin Village, Myrtle Station and surrounding Whitby communities. Whether the property is an apartment, house, condo, or foreclosure property, our team can remove unwanted belongings and leave the space and ready for its next stage."
      ]
     },
     {
@@ -288,7 +288,7 @@
     {
      "t": "p",
      "c": [
-      "A small apartment cleanout may involve considerably less work than a large house filled with furniture, appliances, mattresses, electronics, boxes, and household waste. That’s why we assess the volume and provide pricing according to the actual job."
+      "A small apartment cleanout may involve considerably less work than a large house filled with furniture, appliances, mattresses, electronics, boxes, and household waste. {{fact:changedScope}}."
      ]
     },
     {
@@ -310,13 +310,7 @@
        "Hauling"
       ],
       [
-       "Sorting"
-      ],
-      [
        "Responsible disposal"
-      ],
-      [
-       "Final sweeping"
       ]
      ]
     },
@@ -329,8 +323,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -350,7 +343,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -406,15 +399,6 @@
        "text": [
         [
          "Schedule a convenient appointment. Same-day and next-day service may be available depending on scheduling."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "We Clear, Haul & Sweep",
-       "text": [
-        [
-         "Our crew arrives, removes the unwanted belongings, loads everything, hauls it away, and completes a final sweep of the cleared area."
         ]
        ]
       }
@@ -1197,7 +1181,7 @@
        "q": "1. What does an eviction cleanout service in Whitby include?",
        "a": [
         [
-         "An eviction cleanout can include the removal of unwanted furniture, appliances, electronics, mattresses, clothing, boxes, trash, and other belongings left behind after a tenant leaves. Our crew handles the lifting, loading, hauling, sorting, disposal, and final sweep."
+         "An eviction cleanout can include the removal of unwanted furniture, appliances, electronics, mattresses, clothing, boxes, trash, and other belongings left behind after a tenant leaves. {{fact:cleanupScope}}."
         ]
        ]
       },
@@ -1213,7 +1197,7 @@
        "q": "3. Do you offer same-day eviction cleanouts in Whitby?",
        "a": [
         [
-         "Yes, same-day eviction cleanout service may be available in Whitby, depending on our schedule. Next-day, weekend, and evening appointments may also be available. "
+         "Yes, same-day eviction cleanout service may be available in Whitby, depending on our schedule. Next-day, weekend, and evening appointments may also be available, subject to availability. (subject to scheduling) "
         ]
        ]
       },

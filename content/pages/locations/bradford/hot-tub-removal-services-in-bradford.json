@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Hot Tub Removal Services in Bradford - Live JunkFree",
-  "description": "Hot Tub Removal Services in Bradford from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub.",
+  "description": "{{fact:utilityDisconnection}}",
   "canonical": "https://livejunkfree.ca/locations/bradford/hot-tub-removal-services-in-bradford/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/08/Hot-Tub-Removal-Services-in-Bradford.jpeg"
@@ -22,11 +22,6 @@
      "t": "h",
      "l": 1,
      "text": "Hot Tub Removal Services in Bradford from Live Junk Free"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Hot Tub Removal Services in Bradford from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub, quoted flat on site."
     },
     {
      "t": "ctas",
@@ -80,13 +75,13 @@
     {
      "t": "p",
      "c": [
-      "Hot tub removal in Bradford typically runs from a modest fee for a small portable spa up to a higher flat price for a full six-or-seven-seat unit, confirmed for free at an on-site walkthrough. Whether the tub is five years old or fifty makes no difference to the price — only its size, condition and access do."
+      "{{fact:changedScope}}. Whether the tub is five years old or fifty makes no difference to the price — only its size, condition and access do."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Houses in Bradford’s newer subdivisions don’t sit still for long, and neither do the structures in the yards behind them. Across Summerlyn and the streets rising around it, the most common call is a builder-grade tub that came with a five-year-old house, removed because the family growing into that home wants something bigger or better. Along Holland Street and the older mid-town blocks, it’s the more familiar removal — a tub past its useful life. Out in Bond Head and the rural west and on Marsh-edge farm properties, it’s the same flat pricing as anything in town."
+      "Houses in Bradford’s newer subdivisions don’t sit still for long, and neither do the structures in the yards behind them. Across Summerlyn and the streets rising around it, the most common call is a builder-grade tub that came with a five-year-old house, removed because the family growing into that home wants something bigger or better. Along Holland Street and the older mid-town blocks, it’s the more familiar removal — a tub past its useful life. {{fact:changedScope}}."
      ]
     },
     {
@@ -129,7 +124,7 @@
       },
       {
        "n": "02",
-       "title": "One flat price, whatever the tub's age",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Size and material set the number, confirmed at the walkthrough — it makes no difference whether the tub is five years old or fifty."
@@ -141,25 +136,7 @@
        "title": "Free on-site quotes across every Bradford neighbourhood",
        "text": [
         [
-         "A crew member walks the property — new subdivision, mid-town street or rural west — and gives one flat price before anything starts."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Farm and Marsh-edge removal",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Draining and disconnection handled the safe way",
-       "text": [
-        [
-         "Water drains responsibly first, and any electrical hookup is confirmed dead before the crew touches it — a hardwired 240V line needs prior disconnection by a licensed electrician."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -193,15 +170,8 @@
      "text": "HOT TUB REMOVAL PRICING"
     },
     {
-     "t": "p",
-     "c": [
-      "Every quote is one flat number covering four things: draining the tub, disconnecting any electrical, cutting the shell into sections, and hauling it away for disposal or recycling."
-     ]
-    },
-    {
      "t": "checks",
      "items": [
-      "Drain + Disconnect + Cut-Out + Haul-Away",
       "No Rooftop Surcharges"
      ]
     },
@@ -250,7 +220,7 @@
     {
      "t": "p",
      "c": [
-      "A hot tub removal appointment follows four steps: booking, a free on-site quote, the drain-and-cut-out process, and same-day haul-away when available."
+      "{{fact:utilityDisconnection}}"
      ]
     }
    ]
@@ -265,34 +235,7 @@
        "title": "Book Your Hot Tub Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the tub, confirms any electrical is safely disconnected, checks the path out, and gives you one flat price before touching anything."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "The Tub Gets Drained, Cut and Removed",
-       "text": [
-        [
-         "Water drains responsibly, the shell gets cut into sections that clear your gate or fence line, and every piece carries out without dragging across your lawn or deck."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Your Yard Is Clear",
-       "text": [
-        [
-         "Metal components, motors and pumps are routed to recycling and the rest is disposed of responsibly."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       }
@@ -355,14 +298,6 @@
      "t": "h",
      "l": 3,
      "text": "Bond Head & Rural West Hot Tub Removal in Bradford"
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "For properties in the rural west: same flat pricing regardless of distance from town."
-      ]
-     ]
     },
     {
      "t": "h",
@@ -765,7 +700,7 @@
        "q": "Our tub is only a few years old — is it weird to call about removing it already?",
        "a": [
         [
-         "Not in a way that complicates the process, just the pricing math. The crew sizes up appropriately for a larger tub and quotes accordingly, with the same one-flat-number approach as a smaller job."
+         "Not in a way that complicates the process, just the pricing math. {{fact:changedScope}}."
         ]
        ]
       },
@@ -773,7 +708,7 @@
        "q": "Do I need to drain the hot tub myself before you arrive?",
        "a": [
         [
-         "No — draining is part of the service. No hose, pump, or prep needed beyond reasonably clear access."
+         "{{fact:utilityDisconnection}}"
         ]
        ]
       },
@@ -781,7 +716,7 @@
        "q": "Is it safe to remove a hot tub that's still wired to electrical?",
        "a": [
         [
-         "Only once the power is confirmed off. A hardwired 240V connection needs prior disconnection by a licensed electrician."
+         "Only once the power is confirmed off. {{fact:utilityDisconnection}}"
         ]
        ]
       },

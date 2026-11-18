@@ -112,7 +112,7 @@
      "items": [
       {
        "n": "01",
-       "title": "Flat truck-volume junk removal pricing — scenic towns pay standard rates",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Some haulers read “tourist town” as “tourist prices.” We don’t. The same load prices the same here as anywhere we serve."
@@ -124,7 +124,7 @@
        "title": "Free junk removal quotes written inside your Port Perry property",
        "text": [
         [
-         "The crew lead walks your actual space — the boutique’s back room, the inn’s storage floor, the barn’s far bay — and writes one firm flat rate for everything going. It’s free, it binds us and not you, and it accounts for every narrow staircase before the work starts, not after."
+         "{{fact:changedScope}}. It’s free, it binds us and not you, and it accounts for every narrow staircase before the work starts, not after."
         ]
        ]
       },
@@ -133,7 +133,7 @@
        "title": "Every carry belongs to our junk hauling crew — not to you or your season",
        "text": [
         [
-         "Tourist-town staffing is tight and seasonal; nobody has spare hands for hauling. Our junk removal crew does the whole physical job — dismantle, carry, load, sweep — while your people stay with the customers who drove an hour to meet them."
+         "Tourist-town staffing is tight and seasonal; nobody has spare hands for hauling. {{fact:cleanupScope}}."
         ]
        ]
       },
@@ -143,15 +143,6 @@
        "text": [
         [
          "Queen Street’s buildings survived 150 years; they shouldn’t lose trim to a clumsy clear-out. We pad the original frames, protect the plank floors, break down oversized pieces before they travel, and move through old structures the way people who value them do. The junk leaves; the character stays."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "{{fact:nextAvailable}}",
-       "text": [
-        [
-         "The best clear-out is the one no visitor sees."
         ]
        ]
       },
@@ -212,12 +203,6 @@
      "value": "Junk Load from {{min_price:C}}"
     },
     {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -266,7 +251,7 @@
        "title": "Walk the Space, Keep the Junk Removal Quote",
        "text": [
         [
-         "Lead the crew through the whole of it — the storeroom, the third-floor inn suite, the drive shed. Everything measures against truck space and returns as one written flat rate with no expiry and no obligation. Decide on your own schedule."
+         "Lead the crew through the whole of it — the storeroom, the third-floor inn suite, the drive shed. {{fact:changedScope}}. Decide on your own schedule."
         ]
        ]
       },
@@ -281,10 +266,10 @@
       },
       {
        "n": "04",
-       "title": "Swept, Staged for the Season, Junk Disposal Sorted",
+       "title": ", Staged for the Season, Junk Disposal Sorted",
        "text": [
         [
-         "Every Port Perry job ends broom-swept with paperwork on request. The load then sorts with intention: donation partners for pieces with life left, licensed recyclers for metals, appliances and e-waste, landfill last and least."
+         "Every Port Perry job ends with paperwork on request. The load then sorts with intention: donation partners for pieces with life left, licensed recyclers for metals, appliances and e-waste, landfill last and least."
         ]
        ]
       }
@@ -395,9 +380,6 @@
       ],
       [
        "Estate and farm-transition clearances handled respectfully"
-      ],
-      [
-       "Multi-truck capacity for generational cleanouts"
       ]
      ]
     },
@@ -733,7 +715,7 @@
        "q": "Do you cover Scugog Island and the rural concessions?",
        "a": [
         [
-         "All of them, at the same flat volume rates as Queen Street."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -741,7 +723,7 @@
        "q": "How fast can a truck reach my Port Perry business?",
        "a": [
         [
-         "Often same-day."
+         "Often same-day when available."
         ]
        ]
       },
@@ -749,7 +731,7 @@
        "q": "Can inns and venues book recurring junk removal?",
        "a": [
         [
-         "Ideally, yes — seasonal businesses benefit most from standing arrangements. Spring-opening and fall-closing clear-outs, monthly service or per-event resets all run at unchanged volume rates on one consolidated invoice."
+         "Ideally, yes — seasonal businesses benefit most from standing arrangements. {{fact:changedScope}}."
         ]
        ]
       },

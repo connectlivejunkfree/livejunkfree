@@ -45,7 +45,7 @@ const TO = {
   },
   condo: {
     q: "Do you do condo and high-rise junk removal in Toronto?",
-    a: "Absolutely — condo and high-rise junk removal is one of our most requested services in Toronto. We handle elevator booking, loading dock coordination and building management communication for every condo and apartment building across the city, from downtown King West to North York and beyond.",
+    a: "Yes. Please arrange elevator or loading-dock approval with your building management, and we coordinate the pickup time with your booking. Tell us about the floor, elevator and any loading-dock rules when you enquire.", // QA 18 Nov B1-43: matches the visible guidance
   },
   restaurant: {
     q: "Do you remove restaurant equipment in Toronto?",
@@ -98,8 +98,8 @@ export const FAQS = {
   couch: {
     items: [
       { q: "Do you only remove pull-out couches?", a: "We take all furniture, sectionals, recliners, mattresses, and even whole room clearouts." },
-      { q: "Can you remove them from the apartments?", a: "Yes! We service high-rises, condos, and walk-ups; no job is too tricky." },
-      { q: "What if my couch won't fit through the door?", a: "We expertly disassemble furniture to remove it safely without damage." },
+      { q: "Can you remove them from the apartments?", a: "Yes. We work in high-rises, condos and walk-ups. Tell us the floor, elevator and access when you request a quote." },
+      { q: "What if my couch won't fit through the door?", a: "We can take furniture apart when it won't fit through a doorway, and we take care moving items through your home." },
       { q: "Do you take other items too?", a: "Yes. Tell us everything that needs to go and we'll include it in one quote." },
       { q: "Are you insured?", a: "Absolutely. We're fully licensed and insured for your protection." },
     ],
@@ -112,13 +112,13 @@ export const FAQS = {
   commercial: {
     items: [
       { q: "What is a business cleanout?", a: "A business cleanout is a professional service that clears out unwanted items, furniture, and equipment from offices, warehouses, or retail spaces when relocating, renovating, or closing." },
-      { q: "What services are included in a business cleanout?", a: "Typical services include furniture removal, equipment hauling, inventory clearance, thorough cleaning, and responsible disposal/recycling." },
-      { q: "What does a cleanout business offer to clients?", a: "A cleanout business provides stress-free commercial space clearing with labor, hauling, disposal, and often donation/recycling services." },
+      { q: "What services are included in a business cleanout?", a: `Typical work includes removing office furniture, equipment and unwanted stock. Cleaning isn't included unless it's agreed in your quote. ${fact("recycling")}.` },
+      { q: "What does a cleanout business offer to clients?", a: "A cleanout business provides stress-free commercial space clearing with labour, hauling and disposal, with donation or recycling where practical." },
     ],
   },
   deck: {
     items: [
-      { q: "Do you remove all types of decks, including wood and composite?", a: "Yes, we professionally demolish and remove all deck types, wood, composite, and even concrete pool decks." },
+      { q: "Do you remove all types of decks, including wood and composite?", a: "We remove wood and composite decks. Tell us the size, materials and access, and we'll confirm the scope at the free onsite estimate." }, // QA 18 Nov B1-41
       { q: "How much does deck demolition cost?", a: `Deck demolition is quoted per project, based on size, materials and access. ${fact("quoteText")} ${fact("freeOnsiteEstimates", "long")}` },
       { q: "What areas do you serve for deck demolition?", a: "We serve Schomberg, Mississauga, Newmarket, Nobleton, Oshawa, Aurora, Bolton, East Gwillimbury, Toronto, and throughout the GTA." },
       { q: "Do I need a permit for deck removal?", a: fact("permits") },

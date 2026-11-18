@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "In most cities tenant turnover is spread across twelve months. In Oshawa a large share of it lands in three weeks at the end of August, when Ontario Tech and Durham College leases roll over and hundreds of student rentals empty at once. Live Junk Free handles property management cleanout in Oshawa through that crunch and the rest of the year — student houses in the north end, apartment portfolios along Simcoe and King, and single rental units anywhere in the city."
+     "text": "In most cities tenant turnover is spread across twelve months. Live Junk Free handles property management cleanout in Oshawa through that crunch and the rest of the year — student houses in the north end, apartment portfolios along Simcoe and King, and single rental units anywhere in the city."
     },
     {
      "t": "ctas",
@@ -140,17 +140,8 @@
        ]
       },
       {
-       "n": "03",
-       "title": "",
-       "text": [
-        [
-         ""
-        ]
-       ]
-      },
-      {
        "n": "04",
-       "title": "Portfolio pricing for property managers with rental properties across Oshawa",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Consolidated invoicing and priority scheduling for landlords and property managers holding multiple doors. Property portfolio size determines your booking position, never your per-unit price."
@@ -198,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "Volume, then sorting. A rental unit handed back near-empty is a short job. A five-bedroom student house at the end of August — mattresses in every room, a couch in the living room nobody claimed, appliances that need emptying, electronics, exercise equipment in the basement, and eight months of household items across every cupboard — is a substantially bigger one. The property management cleanout cost in Oshawa reflects that difference plainly rather than burying it in add-ons."
+      "{{fact:cleanupScope}}. A rental unit handed back near-empty is a short job. A five-bedroom student house at the end of August — mattresses in every room, a couch in the living room nobody claimed, appliances that need emptying, electronics, exercise equipment in the basement, and eight months of household items across every cupboard — is a substantially bigger one. The property management cleanout cost in Oshawa reflects that difference plainly rather than burying it in add-ons."
      ]
     },
     {
@@ -210,8 +201,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -231,7 +221,7 @@
     {
      "t": "p",
      "c": [
-      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -277,7 +267,7 @@
        "title": "Free on-site walkthrough and one flat property management cleanout price",
        "text": [
         [
-         "The crew sees the actual unit, plus any basement, garage, or locker in scope, then gives one flat price per unit before anything moves. Property management cleanout pricing is fixed before the work starts."
+         "{{fact:changedScope}}. Property management cleanout pricing is fixed before the work starts."
         ]
        ]
       },
@@ -287,15 +277,6 @@
        "text": [
         [
          "Furniture removal, appliances, mattresses, electronics, hot tubs, yard waste, and general household items come out with stairs and doorways protected. Everything is sorted donation-first — student turnover produces a lot of genuinely reusable furniture — then recycling, then disposal. The unit’s condition is photographed throughout, which matters most on eviction cleanout and abandoned rental property jobs."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Your vacant rental unit is ready to list",
-       "text": [
-        [
-         ""
         ]
        ]
       }
@@ -808,7 +789,7 @@
        "q": "How much does property management cleanout cost in Oshawa?",
        "a": [
         [
-         "The property management cleanout cost in Oshawa is confirmed free per unit at the walkthrough, based on volume and sorting required. Peak-week timing and portfolio size don’t change it. "
+         "{{fact:cleanupScope}}. Peak-week timing and portfolio size don’t change it. "
         ]
        ]
       },
@@ -1079,7 +1060,7 @@
          "37. What happens to recyclable materials from a rental cleanout?"
         ],
         [
-         "Materials that can be recycled may be separated when practical and directed toward appropriate recycling channels. Not every item is recyclable, so the final handling depends on the material."
+         "Materials that can be recycled may be separated when practical and directed toward appropriate recycling channels."
         ],
         [
          "38. Where do unwanted items go after they are removed?"

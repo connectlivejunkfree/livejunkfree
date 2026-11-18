@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "In a town growing this fast, the story repeats on every street: a longtime owner clearing decades before the sale, and a new arrival whose garage became box purgatory the day the moving truck left. We serve both ends. One free walkthrough, one flat quote, and a fully insured crew that empties the space — a garage, a basement, a shed, a whole property — sorted, hauled and swept, usually in a single visit."
+      "In a town growing this fast, the story repeats on every street: a longtime owner clearing decades before the sale, and a new arrival whose garage became box purgatory the day the moving truck left. We serve both ends. {{fact:changedScope}}."
      ]
     },
     {
@@ -94,17 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "East Gwillimbury is mid-handover: village and rural homes held for generations are passing to the growth wave, and thousands of new households are still working through what the move brought with it. Live Junk Free clears for both — Google reviews earned on decades-deep estates and two-year-old garages alike."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Volume sets the price — the story behind the junk doesn't",
-       "text": []
-      }
-     ]
+     "text": "Live Junk Free clears for both — Google reviews earned on decades-deep estates and two-year-old garages alike."
     },
     {
      "t": "h",
@@ -112,29 +102,9 @@
      "text": "Whether it's forty years of a Sharon farmhouse or eighteen months of a Queensville garage, the measure is the same: how much truck space leaves with us. Small clears cost small, big ones scale flat and honestly, and no address in the town pays a premium."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "The quote comes after the tour, never before",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Full spaces undersell themselves on the phone — especially garages stacked with unopened boxes, where nobody remembers what's actually in there. We walk it with you first, then commit to one flat, free, no-obligation figure that holds."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Approved numbers don't renegotiate",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -142,44 +112,14 @@
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} If the boxes go three layers deeper than the flashlight suggested, that's our surprise, absorbed, not your invoice, revised."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "We sort like it matters — because in this town it usually does",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Long-held homes hide deeds, photos and heirlooms; never-unpacked boxes hide the passports and the good knives everyone's been missing since the move. Our crews clear by sorting, setting aside anything significant for your review — the found-it-at-last moments are half the job's satisfaction."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Zero pressure, from walkthrough to whenever",
-       "text": []
-      }
-     ]
+     "text": "Long-held homes hide deeds, photos and heirlooms; never-unpacked boxes hide the passports and the good knives everyone's been missing since the move. Our crews clear by setting aside anything significant for your review — the found-it-at-last moments are half the job's satisfaction."
     },
     {
      "t": "h",
      "l": 3,
      "text": "The quote is free, takes no deposit, and doesn't expire while you list the house, finish the school year or work up the nerve. Approve it and the crew starts immediately; wait a season and the number keeps."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent and local",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -198,12 +138,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "One Flat Figure, Whatever Stage of the Move You're On"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Full garages and basements land mid-range. Whole homes and estates, even multi-load ones, still resolve to one locked, number at the free walkthrough. Seller's side or buyer's side, the price quoted is the price paid."
+     "text": "Full garages and basements land mid-range. Seller's side or buyer's side, the price quoted is the price paid."
     },
     {
      "t": "cards",
@@ -270,7 +205,7 @@
        ]
       },
       {
-       "title": "4. Swept and Sent the Right Way",
+       "title": "4. and Sent the Right Way",
        "text": [
         "The emptied space gets a broom finish — park the car, stage the listing, start the reno. The load splits onward: donation partners first, recyclers second, landfill only for the remainder."
        ]
@@ -318,7 +253,7 @@
        "q": "Pre-Sale & Property Cleanouts in East Gwillimbury",
        "a": [
         [
-         "Pre-listing cleanouts — emptied and swept before staging photos"
+         "Pre-listing cleanouts — emptied before staging photos"
         ],
         [
          "Whole-home and farmhouse clear-outs across the villages and concessions"
@@ -338,7 +273,7 @@
        "q": "Estate & Transition Cleanouts in East Gwillimbury",
        "a": [
         [
-         "Estate cleanouts — patient, documented, valuables returned to family"
+         ""
         ],
         [
          "Downsizing clears for long-tenured Holland Landing and Mount Albert homeowners"
@@ -358,7 +293,7 @@
        "q": "Storage, Rental & Business Cleanouts in East Gwillimbury",
        "a": [
         [
-         "Storage unit clear-outs — emptied, swept, account closed"
+         "Storage unit clear-outs — emptied, account closed"
         ],
         [
          "Tenant turnover and abandoned-belonging clearing, photos on request"
@@ -517,7 +452,7 @@
        "q": "Q: We're selling the family home after decades. How fast can it be empty for listing photos?",
        "a": [
         [
-         "A: Often within days of your call. Most East Gwillimbury homes — even long-held ones — clear in a single visit with trucks cycling as needed, every room swept behind us. Tell us the photographer’s date and we’ll land ahead of it."
+         "A: Often within days of your call. Most East Gwillimbury homes — even long-held ones — clear in a single visit with trucks cycling as needed, every room behind us. Tell us the photographer’s date and we’ll land ahead of it."
         ]
        ]
       },
@@ -533,7 +468,7 @@
        "q": "Q: Can a cleanout run in stages — the garage now, the basement next month?",
        "a": [
         [
-         "A: Absolutely, with no penalty. Volume pricing works identically split or whole, and the quote holds between phases. Plenty of East Gwillimbury households clear the urgent space first and book the rest once life settles."
+         "A: Absolutely, with no penalty. {{fact:changedScope}}. Plenty of East Gwillimbury households clear the urgent space first and book the rest once life settles."
         ]
        ]
       }

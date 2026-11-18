@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Nobleton business is owner-operated business — the shop at the King Road corner, the landscape yard off Highway 27, the stable down the concession — and owners notice everything: whether the truck came when promised, whether the quote grew, whether the crew wiped their boots. The Google reviews behind Live Junk Free are full of exactly those owners noticing exactly those things going right. One flat junk removal price written on arrival, every carry handled by our crew, and a village-sized job treated with the same seriousness as a corporate campus — that’s the reputation, and Nobleton helped build it."
+      "Nobleton business is owner-operated business — the shop at the King Road corner, the landscape yard off Highway 27, the stable down the concession — and owners notice everything: whether the truck came when promised, whether the quote grew, whether the crew wiped their boots. The Google reviews behind Live Junk Free are full of exactly those owners noticing exactly those things going right. {{fact:changedScope}}."
      ]
     },
     {
@@ -112,10 +112,10 @@
      "items": [
       {
        "n": "01",
-       "title": "Honest truck-volume junk removal pricing — village loads, city fairness",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "Your junk removal price in Nobleton is set by one thing: the share of the truck your load fills. No small-town markup, no minimum-charge padding, no weight or distance math. A quarter truck from a Nobleton shop costs what a quarter truck costs in any city we serve."
+         "Your junk removal price in Nobleton is set by one thing: the share of the truck your load fills. {{fact:propertyProtection}}. A quarter truck from a Nobleton shop costs what a quarter truck costs in any city we serve."
         ]
        ]
       },
@@ -124,7 +124,7 @@
        "title": "Free junk removal quotes written face to face at your Nobleton property",
        "text": [
         [
-         "We quote the way owner-operators do business: in person, on a handshake timeline. A crew lead walks your shop, yard or barn, sizes everything you point at, and writes one firm flat rate for the lot. The visit is free, the number holds, and no is a complete sentence."
+         "We quote the way owner-operators do business: in person, on a handshake timeline. {{fact:changedScope}}. The visit is free, the number holds, and no is a complete sentence."
         ]
        ]
       },
@@ -133,7 +133,7 @@
        "title": "Full-crew junk hauling — because your business is probably a two-person show",
        "text": [
         [
-         "When the whole staff is you and one other set of hands, an afternoon of hauling junk is a closed business. Our junk removal crew does the dismantling, the carrying, the loading and the sweep-up entirely — so the shop stays open and your back stays uninvolved."
+         "When the whole staff is you and one other set of hands, an afternoon of hauling junk is a closed business. Our junk removal crew does the dismantling, the carrying, the loading and the entirely — so the shop stays open and your back stays uninvolved."
         ]
        ]
       },
@@ -143,15 +143,6 @@
        "text": [
         [
          "Village storefronts, board-and-batten outbuildings, tight back staircases — Nobleton’s spaces are compact and full of character, and careless movers cost more than they haul. We pad, protect and pre-dismantle as standard, and leave every property showing nothing but the extra room."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "{{fact:nextAvailable}}",
-       "text": [
-        [
-         "Owner-operators can’t step out mid-day, so we don’t ask them to."
         ]
        ]
       },
@@ -212,12 +203,6 @@
      "value": "Junk Load from {{min_price:C}}"
     },
     {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -266,7 +251,7 @@
        "title": "Show the Pile, Pocket the Junk Removal Quote",
        "text": [
         [
-         "Walk the crew past everything going — the storeroom shelving, the retired mowers, the loft above the garage bay. It’s all measured against truck space and returned as one written flat rate. Take your time with it; the quote doesn’t expire and the visit doesn’t cost."
+         "Walk the crew past everything going — the storeroom shelving, the retired mowers, the loft above the garage bay. {{fact:changedScope}}. Take your time with it; the quote doesn’t expire and the visit doesn’t cost."
         ]
        ]
       },
@@ -281,7 +266,7 @@
       },
       {
        "n": "04",
-       "title": "Swept Clean, Junk Disposal Sorted, Word Kept",
+       "title": ", Junk Disposal Sorted, Word Kept",
        "text": [
         [
          "Every Nobleton job ends with a broom and, if you want it, paperwork on where the load went: donation partners for the usable, licensed recyclers for metals, appliances and e-waste, landfill only for the stubborn last of it."
@@ -353,9 +338,6 @@
        "Yard and shop cleanups for Nobleton's landscape and trades operators"
       ],
       [
-       "Retired mowers, small equipment and seized machinery hauling"
-      ],
-      [
        "Pallet, pot, planter and seasonal garden-centre stock disposal"
       ],
       [
@@ -395,9 +377,6 @@
       ],
       [
        "Crews that close gates behind them and work calmly around animals"
-      ],
-      [
-       "Multi-truck capacity for the biggest clearances"
       ]
      ]
     },
@@ -709,7 +688,7 @@
        "q": "Is my job too small to bother calling about?",
        "a": [
         [
-         "Never — this is the question we most want to retire. One cooler, one desk, one dead mower prices as the sliver of truck space it uses, with no minimum-charge padding. Village-sized pickups are a large and welcome share of our Nobleton route."
+         "Never — this is the question we most want to retire. {{fact:propertyProtection}}. Village-sized pickups are a large and welcome share of our Nobleton route."
         ]
        ]
       },
@@ -725,7 +704,7 @@
        "q": "Can you clear a landscaper's or contractor's yard?",
        "a": [
         [
-         "It’s a Nobleton specialty. Retired equipment, scrap metal, pallets, wire, wood waste and seasons of accumulation all haul at standard volume rates — booked into your slow weeks so the cleanup never collides with your busy ones."
+         "It’s a Nobleton specialty. {{fact:changedScope}}."
         ]
        ]
       },
@@ -733,7 +712,7 @@
        "q": "Do you handle barns and stable properties?",
        "a": [
         [
-         "Yes, regularly, on the concessions all around the village. Implements, fencing, stall components and outbuilding accumulation clear at the same flat pricing, with crews that work calmly around animals and leave every gate the way they found it."
+         "Yes, regularly, on the concessions all around the village. {{fact:changedScope}}."
         ]
        ]
       },
@@ -749,7 +728,7 @@
        "q": "Can Nobleton businesses set up recurring junk pickups?",
        "a": [
         [
-         "Easily — garden centres, trades yards and landlords around the village run on our standing schedules, seasonal to monthly to per-turnover, all at unchanged volume rates on one consolidated invoice."
+         "{{fact:changedScope}}."
         ]
        ]
       },

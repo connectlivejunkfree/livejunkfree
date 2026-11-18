@@ -63,7 +63,7 @@
     {
      "t": "p",
      "c": [
-      "We carefully assess every Gazebo Demolition & Removal project to determine the safest and most efficient dismantling method, taking into account factors such as material type, structural stability, and the surrounding landscape. Whether you have a removable roof gazebo, a gazebo with removable sides, or a permanent structure, our skilled technicians handle the job with precision."
+      "{{fact:structuralDemolition}}. Whether you have a removable roof gazebo, a gazebo with removable sides, or a permanent structure, our skilled technicians handle the job with precision."
      ]
     },
     {
@@ -150,7 +150,7 @@
     {
      "t": "p",
      "c": [
-      "That old gazebo sitting in your yard? It might be more trouble than it’s worth. Weathered wood can splinter, metal frames can rust, and wobbly structures can become dangerous in bad weather. Trying to take it down yourself often leads to frustration, stuck bolts, broken tools, and leftover concrete footings."
+      "That old gazebo sitting in your yard? It might be more trouble than it’s worth. Weathered wood can splinter, metal frames can rust, and wobbly structures can become dangerous in bad weather. {{fact:structuralDemolition}}."
      ]
     },
     {
@@ -170,9 +170,6 @@
      "items": [
       [
        "Heavy-duty cutting tools for safe frame dismantling"
-      ],
-      [
-       "Specialized equipment for stubborn concrete footings"
       ],
       [
        "Protective gear to handle sharp metal edges"
@@ -210,31 +207,13 @@
       {
        "title": "Budget-Friendly Options",
        "text": [
-        "– Competitive pricing with multi-structure discounts"
-       ]
-      },
-      {
-       "title": "Flexible Scheduling",
-       "text": [
-        ""
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Property Protection",
        "text": [
         "– Specialized techniques preserve landscaping and hardscape"
-       ]
-      },
-      {
-       "title": "All-Weather Operation",
-       "text": [
-        "– Rain or shine – we work in any conditions"
-       ]
-      },
-      {
-       "title": "Complete Site Restoration",
-       "text": [
-        "– Includes footing removal, debris cleanup, and final inspection"
        ]
       }
      ]
@@ -260,7 +239,7 @@
        "Our professional team specializes in outdoor structure removal for all property types, from compact backyard gazebos to large permanent installations. Our experienced crew carefully executes each project using specialized tools and techniques to protect your landscaping while efficiently dismantling all components."
       ],
       [
-       "From simple pop-up gazebos to complex wooden structures with electrical wiring and hard roofs, we handle every aspect with expert care and precision. Whether you need to remove a gazebo with removable sides, take down a structure with a detachable roof, or clear a permanent installation with concrete footings, our systematic approach ensures complete removal without damage to your property."
+       "From simple pop-up gazebos to complex wooden structures with electrical wiring and hard roofs, we handle every aspect with expert care and precision."
       ]
      ]
     },
@@ -286,10 +265,10 @@
      "t": "ul",
      "items": [
       [
-       "All metal framework and hardware are recycled at recycling facilities"
+       "All metal framework and hardware are recycled where possible at recycling facilities"
       ],
       [
-       "Untreated wood components repurposed or recycled"
+       "Untreated wood components repurposed or recycled where possible"
       ],
       [
        "Vinyl panels and roofing materials are properly sorted for recycling"
@@ -332,9 +311,6 @@
       ],
       [
        "Free estimates by phone, text, or online"
-      ],
-      [
-       "Discounted rates for multiple structure removals"
       ]
      ]
     }
@@ -402,7 +378,7 @@
       {
        "title": "Share Your Gazebo Details",
        "text": [
-        "Simply text or email us photos of your gazebo. We'll respond within 30 minutes with a free, no-obligation quote."
+        "Simply text or email us photos of your gazebo. We'll respond with a free, no-obligation quote."
        ]
       },
       {

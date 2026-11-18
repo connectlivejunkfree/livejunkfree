@@ -6,13 +6,13 @@
  "template": "AdsLanding",
  "seo": {
   "title": "Garage Cleanout Service in the GTA | Live Junk Free",
-  "description": "Need a garage cleanout in the GTA? Live Junk Free hauls everything away in one visit. Same-day available. Book now!",
+  "description": "Need a garage cleanout in the GTA? Live Junk Free hauls everything away. Same-day may be available. Book now!",
   "canonical": "https://livejunkfree.ca/garage-cleanout-service/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/20251128_133239.jpg-1024x577.jpeg"
  },
  "title": "Garage Cleanout Service",
- "h1": "Garage Cleanout Service in the GTA — Everything Cleared in One Visit",
+ "h1": "Garage Cleanout Service in the GTA — Everything Cleared",
  "published": "2026-05-30T09:34:17",
  "modified": "2026-05-31T04:46:21",
  "sections": [
@@ -21,12 +21,12 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Garage Cleanout Service in the GTA — Everything Cleared in One Visit"
+     "text": "Garage Cleanout Service in the GTA — Everything Cleared"
     },
     {
      "t": "p",
      "c": [
-      "Old tools, boxes, appliances, junk — we haul it all away. Same-day available."
+      "Old tools, boxes, appliances, junk — we haul it all away. Same-day may be available."
      ]
     },
     {
@@ -103,7 +103,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Garage Cleanout in the GTA — Done in One Visit"
+     "text": "Garage Cleanout in the GTA — Done"
     },
     {
      "t": "p",
@@ -114,7 +114,7 @@
     {
      "t": "p",
      "c": [
-      "We take everything: old tools, broken appliances, boxes, furniture, renovation debris, tires, and scrap metal. Whether you need a full garage cleanout before selling your home, after a renovation, or simply to reclaim your space — all garage junk removal is handled in one trip. No sorting, no trips to the dump. Just a clean, empty garage."
+      "We take everything: old tools, broken appliances, boxes, furniture, renovation debris, tires, and scrap metal. {{fact:scheduling}} No no trips to the dump. Just a clean, empty garage."
      ]
     },
     {
@@ -147,7 +147,7 @@
     {
      "t": "p",
      "c": [
-      "We remove all types of old tools, power equipment, garden machinery, and hardware — no matter how heavy or bulky."
+      "{{fact:equipmentScope}}."
      ]
     }
    ]
@@ -192,7 +192,7 @@
     {
      "t": "p",
      "c": [
-      "Boxes, furniture, sporting equipment, tires, scrap metal, and years of accumulated clutter — all gone in one trip."
+      "{{fact:scheduling}}"
      ]
     }
    ]
@@ -224,7 +224,7 @@
        "Contact us for a quote"
       ],
       [
-       "Everything taken in one trip — tools, appliances, furniture, renovation debris, tires, scrap metal and more"
+       "{{fact:pickupTimes}}"
       ],
       [
        "Service across ",
@@ -396,7 +396,7 @@
       {
        "title": "Book",
        "text": [
-        "Call 647-922-5865 or fill out the form. Tell us roughly how full the garage is and your address. We offer same day garage cleanout across the GTA when you book before noon."
+        "Call 647-922-5865 or fill out the form. Tell us roughly how full the garage is and your address. We offer same day garage cleanout when available across the GTA when you book before noon."
        ]
       },
       {
@@ -408,7 +408,7 @@
       {
        "title": "Gone — All of It",
        "text": [
-        "We load everything into the truck, sweep up, and leave your garage empty and clean. One visit. Done."
+        "We load everything into the truck, and leave your garage empty and clean. {{fact:scheduling}} Done."
        ]
       }
      ]
@@ -457,7 +457,7 @@
        "q": "How fast can you do the cleanout?",
        "a": [
         [
-         "We offer same day garage cleanout across most of the GTA when you book before 12pm. Call 647-922-5865 or fill out the form to check availability."
+         "We offer same day garage cleanout when available across most of the GTA when you book before 12pm. Call 647-922-5865 or fill out the form to check availability."
         ]
        ]
       },
@@ -465,7 +465,7 @@
        "q": "What does the service include?",
        "a": [
         [
-         "A full garage cleanout includes loading all items into our truck, responsible disposal, and sweeping up before we leave. All labour is included in the upfront price."
+         "{{fact:cleanupScope}}. All labour is included in the upfront price."
         ]
        ]
       },

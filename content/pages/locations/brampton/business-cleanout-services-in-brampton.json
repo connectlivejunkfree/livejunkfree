@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because Brampton’s commercial landscape genuinely spans different corners of the city — major warehouse and logistics facilities near the 407 and 401 corridors, and a diverse community of small, often family-owned businesses reflecting the city’s multicultural population, from restaurants to retail to service shops. Live Junk Free brings the same crew, the same equipment and the same flat pricing to every one of them, whether the call comes from a distribution centre or a small storefront in Heart Lake."
+      "Because Brampton’s commercial landscape genuinely spans different corners of the city — major warehouse and logistics facilities near the 407 and 401 corridors, and a diverse community of small, often family-owned businesses reflecting the city’s multicultural population, from restaurants to retail to service shops. {{fact:changedScope}}."
      ]
     },
     {
@@ -140,7 +140,7 @@
        "title": "Logistics and warehouse business cleanout coordination",
        "text": [
         [
-         "Larger-volume equipment and racking removal for distribution and logistics facilities near the 407 and 401 corridors, with a crew sized to the real scope."
+         "{{fact:equipmentScope}}."
         ]
        ]
       },
@@ -159,15 +159,6 @@
        "text": [
         [
          "Family-owned restaurants, shops and service businesses across the city get the same standard of care as any larger commercial account."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first business cleanout sorting for fixtures and equipment",
-       "text": [
-        [
-         "Furniture, fixtures and equipment still in good condition go to donation partners or resale channels first, before anything reaches disposal."
         ]
        ]
       },
@@ -203,7 +194,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the space, and how much sorting it genuinely needs. A small retail unit or office is a modest job. A larger warehouse with years of accumulated equipment takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small retail unit or office is a modest job. A larger warehouse with years of accumulated equipment takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -232,12 +223,6 @@
      "t": "price",
      "label": "Brampton Business Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -288,7 +273,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual space and gives you one flat price before anything moves, sized to the real job regardless of the space’s size."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -306,7 +291,7 @@
        "title": "Your Space Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left and ready for whatever comes next."
         ]
        ]
       }
@@ -347,16 +332,10 @@
        "Business cleanouts for distribution and warehouse facilities near the 407 and 401 corridors"
       ],
       [
-       "Larger-volume equipment and racking removal"
-      ],
-      [
        "Loading dock access and scheduling coordinated in advance"
       ],
       [
        "Crew size scaled appropriately to the real scope of the space"
-      ],
-      [
-       "Same flat pricing regardless of square footage assumptions"
       ],
       [
        "Documentation available where needed"
@@ -375,16 +354,10 @@
        "Business cleanouts for family-owned restaurants, shops and service businesses"
       ],
       [
-       "Same flat pricing regardless of the business's size or type"
-      ],
-      [
        "Fixture and equipment removal handled carefully around neighbouring tenants"
       ],
       [
-       "Donation-first sorting for fixtures and inventory still usable"
-      ],
-      [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "No disruption to customers or the business next door"
@@ -413,13 +386,7 @@
        "Consistent scheduling availability city-wide"
       ],
       [
-       "Same flat pricing structure everywhere in Brampton"
-      ],
-      [
-       "Same-day service for straightforward access"
-      ],
-      [
-       "Multi-item scoping available where more than one piece needs to go"
+       "Service for straightforward access"
       ]
      ]
     },
@@ -438,16 +405,13 @@
        "Full sort of furniture, fixtures and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -843,7 +807,7 @@
        "q": "Can you handle logistics or distribution facility cleanouts near the 407 corridor?",
        "a": [
         [
-         "Yes — larger-volume equipment and racking removal are regular work for us, with the crew size and scheduling scaled appropriately."
+         "{{fact:equipmentScope}}."
         ]
        ]
       },

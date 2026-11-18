@@ -80,13 +80,13 @@
     {
      "t": "p",
      "c": [
-      "Because a working farm rarely has just one structure. A garage on a rural Caledon property is often part of a bigger picture — a workshop attached or nearby, a shed holding overlapping storage, sometimes tools and materials mixed across all of them. Live Junk Free scopes the whole property honestly at the walkthrough, rather than pricing the garage alone and discovering the real job once the crew arrives."
+      "Because a working farm rarely has just one structure. {{fact:scheduling}} Live Junk Free scopes the whole property honestly at the walkthrough, rather than pricing the garage alone and discovering the real job once the crew arrives."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Around the village cores of Caledon East, Alton and Inglewood, it’s usually a single, more contained garage. On the western concessions, it’s frequently the multi-structure version, priced the same flat way regardless of how far the property sits from Highway 10."
+      "On the western concessions, it’s frequently the multi-structure version, priced the same flat way regardless of how far the property sits from Highway 10."
      ]
     },
     {
@@ -127,38 +127,11 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
        "n": "02",
        "title": "Multi-structure garage cleanout coordination",
        "text": [
         [
          "Where a garage, workshop and shed are all part of the same property, the crew scopes and quotes the whole visit together, rather than treating each as a separate job."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Salvage-conscious garage cleanout sorting",
-       "text": [
-        [
-         "Tools, hardware and materials that still have real use get set aside on request rather than swept into general disposal by default."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "One flat garage cleanout price, confirmed before anything moves",
-       "text": [
-        [
-         "A crew member sees the actual garage — and any additional structures — and gives one flat number before anything moves."
         ]
        ]
       },
@@ -209,7 +182,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Village, Distance or Rural Premium, Ever"
      ]
     },
@@ -226,12 +198,6 @@
      "t": "price",
      "label": "Caledon Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -278,15 +244,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual garage — and any workshop or shed nearby — and gives you one flat price before anything moves."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Garage Gets Cleared, With a Careful Eye",
        "text": [
@@ -300,7 +257,7 @@
        "title": "Your Garage Is Usable",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready to actually park in again."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready to actually park in again."
         ]
        ]
       }
@@ -341,13 +298,7 @@
        "Garage cleanouts in Caledon East, Alton and Inglewood"
       ],
       [
-       "Straightforward scheduling for more contained properties"
-      ],
-      [
-       "Donation-first checks before any belongings are recycled"
-      ],
-      [
-       "Same flat pricing as any farm property in the township"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -361,9 +312,6 @@
      "items": [
       [
        "Garage cleanouts spanning a workshop, shed or barn on the same property"
-      ],
-      [
-       "Salvage-conscious sorting for tools and materials worth keeping"
       ],
       [
        "Whole-property coordination under one single booking"
@@ -389,13 +337,10 @@
        "Garage cleanouts in Palgrave, Terra Cotta and Belfountain"
       ],
       [
-       "Same flat pricing as the village core or farm properties"
-      ],
-      [
        "Careful handling around established, older properties"
       ],
       [
-       "Same-day completion for most straightforward removals"
+       "Completion for most straightforward removals"
       ]
      ]
     },
@@ -414,10 +359,7 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ]
      ]
     }
@@ -797,7 +739,7 @@
        "q": "Do rural addresses or long laneways cost extra?",
        "a": [
         [
-         "Never. The same flat pricing applies at Caledon East’s village core and eight concessions past it. "
+         "Never. {{fact:changedScope}}. "
         ]
        ]
       },
@@ -813,7 +755,7 @@
        "q": "Can tools or materials from the garage be saved rather than thrown out?",
        "a": [
         [
-         "Often, yes — say so at the walkthrough. Anything still worth keeping gets set aside rather than swept into general disposal. "
+         "Often, yes — say so at the walkthrough. Anything still worth keeping gets set aside rather than into general disposal. "
         ]
        ]
       },

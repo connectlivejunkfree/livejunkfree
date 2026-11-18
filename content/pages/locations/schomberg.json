@@ -46,7 +46,7 @@
         "Live Junk Free "
        ]
       },
-      "is a locally operated junk removal team that has earned its reputation across King Township and York Region by doing one thing consistently: small-town service done right. We come to your Schomberg property, walk through everything in person, give you a completely free on-site estimate before touching a single item, and if you’re happy with the price, your junk is cleared the same day."
+      "is a locally operated junk removal team that has earned its reputation across King Township and York Region by doing one thing consistently: small-town service done right. We come to your Schomberg property, walk through everything in person, give you a completely free on-site estimate before touching a single item, and if you’re happy with the price, your junk is cleared the same day, subject to availability."
      ]
     },
     {
@@ -111,29 +111,9 @@
      "text": "We are not a franchise. We don't pay royalties to a head office that's never set foot in Schomberg. We are a locally owned, fully insured junk removal team that genuinely understands the King Township community — and we price every job the same way, regardless of property type: by volume, fairly, with complete transparency."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "{{fact:competitorComparison}}",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "The number we hand you on-site is the complete cost. {{fact:taxNote}}. {{fact:pricingIntro.extra}} There are no line items waiting to appear after you've approved the quote. There is no \"rural access fee\" for Schomberg or King Township properties. There is no \"distance charge\" because you're north of the 400. One number, everything covered, no exceptions."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "No Surprises",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -141,29 +121,9 @@
      "text": "We do not guess over the phone. We do not give online estimates based on your description. We physically come to your Schomberg or King Township property, walk through every area you need cleared — home, barn, outbuilding, garage, basement, rural lot — and calculate an accurate price based on what we actually see. No surprises, because there are no assumptions."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Volume-Based Pricing",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Schomberg properties range from small residential lots to large rural farms with multiple outbuildings. Volume-based pricing means your quote scales accurately and fairly with the actual job — small job, small price; large farm clearance, fair price for the volume involved. The calculation is always the same."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "You Approve it Before We Touch a Thing",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -171,29 +131,9 @@
      "text": "Once we've walked the property and calculated the quote, we hand it to you. You review it. If it works, we start immediately. If it doesn't, you owe us nothing and we leave. Zero pressure. Zero obligation. Your decision, your timeline."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "The Price You Approve is the Price on Your Invoice",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Once you've said yes, that number is locked. It doesn't increase because the barn took longer to clear than expected. It doesn't gain extra charges because we found more equipment than we anticipated. Approved is final. Always."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -268,7 +208,7 @@
       {
        "title": "Book Your Pickup",
        "text": [
-        "Call +1 647 922 5865 or book online in minutes. We'll confirm your same-day or next-day appointment when available and provide a 30-minute arrival call before we arrive."
+        "Call +1 647 922 5865 or book online in minutes. {{fact:scheduling}}"
        ]
       },
       {
@@ -286,7 +226,7 @@
       {
        "title": "Enjoy a Clean, Clutter-Free Property",
        "text": [
-        "We complete a final walkthrough, sweep the area clean, and sort items responsibly through donation, recycling, and proper disposal."
+        "We complete a final walkthrough, and sort items responsibly through donation, recycling, and proper disposal."
        ]
       }
      ]
@@ -321,7 +261,7 @@
          "Farm property cleanout Schomberg — multiple outbuildings, large lot clearing"
         ],
         [
-         "Agricultural equipment removal Schomberg — old tractors, implements, machinery"
+         ""
         ],
         [
          "Outbuilding cleanout Schomberg — coach houses, workshops, storage sheds"
@@ -600,7 +540,7 @@
        "q": "Q: Do you offer same-day junk removal in Schomberg?C",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across Schomberg, King Township, Nobleton, Bond Head and surrounding York Region communities. Call +1 647 922 5865 to confirm today’s availability."
+         "A: Yes — same-day junk removal may be available across Schomberg, King Township, Nobleton, Bond Head and surrounding York Region communities. Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },
@@ -608,7 +548,7 @@
        "q": "Q: Do you handle barn and farm property cleanouts in Schomberg?",
        "a": [
         [
-         "A: Absolutely — barn cleanouts and rural farm property clearing across Schomberg and King Township are one of our most requested and most specialised services. We handle full barn clearing, agricultural equipment removal, outbuilding cleanouts, scrap metal removal and large rural lot clearing — no job too big, no location too remote."
+         "A: Absolutely — barn cleanouts and rural farm property clearing across Schomberg and King Township are one of our most requested and most specialised services. We handle full barn clearing, agricultural equipment removal, outbuilding cleanouts, scrap metal removal and large rural lot clearing, no location too remote."
         ]
        ]
       },
@@ -632,7 +572,7 @@
        "q": "Q: Are you a local Schomberg company or a franchise?",
        "a": [
         [
-         "A: We are 100% locally owned and operated — not a national franchise."
+         "Careful Removal"
         ]
        ]
       },

@@ -24,11 +24,6 @@
      "text": "Trusted Choice for Box Spring Removal in your area."
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "We are based right here, love what we do, and best in town."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -206,7 +201,7 @@
      "c": [
       {
        "b": [
-        "Need Your Box Spring removed soon? Same-Day Removal Available"
+        "Need Your Box Spring removed soon? Same-Day Removal may be available"
        ]
       }
      ]
@@ -227,12 +222,6 @@
        "title": "Flexible Scheduling",
        "text": [
         "Book same-day when available, next-day, or weekend slots to fit your busy life."
-       ]
-      },
-      {
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -304,7 +293,7 @@
        "Metal & Wood Recycling – All frames and support materials are properly processed"
       ],
       [
-       "Community Donations – Gently used box springs are sanitized and donated to local shelters"
+       "Community Donations – Gently used box springs are sanitized and donated where possible"
       ],
       [
        "{{fact:recycling}}"
@@ -343,10 +332,7 @@
        "Pay only for what we take"
       ],
       [
-       "Instant free quotes – Get pricing by phone, text, or online"
-      ],
-      [
-       "Multiple Unit Discounts – Special savings for landlords and property managers"
+       "Free quotes – Get pricing by phone, text, or online"
       ]
      ]
     }
@@ -382,9 +368,6 @@
       ],
       [
        "Bunkie boards"
-      ],
-      [
-       "Hospital-grade foundations"
       ]
      ]
     }
@@ -404,12 +387,6 @@
        "title": "Send a Photo",
        "text": [
         "Just snap a photo of your box spring and text it to us or upload it through our website. {{fact:freeOnsiteEstimates.long}}"
-       ]
-      },
-      {
-       "title": "Get a Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -466,7 +443,7 @@
        "q": "1. How much does box spring removal cost?",
        "a": [
         [
-         "Pricing typically depends on the size of the box spring and your location. Most removals start at a flat rate for a single item, with discounts available if you’re removing a mattress and box spring together. Contact us for a free, no-obligation quote."
+         "Pricing typically depends on the size of the box spring and your location. {{fact:changedScope}}. Contact us for a free, no-obligation quote."
         ]
        ]
       },
@@ -482,7 +459,7 @@
        "q": "3. What happens to my box spring after it's removed?",
        "a": [
         [
-         "We prioritize eco-friendly disposal. Whenever possible, box springs are broken down for recycling — the wood, metal springs, and fabric can often be repurposed. Items in good condition may be donated to local charities instead of ending up in a landfill."
+         "We prioritize eco-friendly disposal. Whenever possible, box springs are broken down for recycling — the wood, metal springs, and fabric can often be repurposed. Items in good condition may be donated where possible instead of ending up in a landfill."
         ]
        ]
       },
@@ -490,7 +467,7 @@
        "q": "4. Can you remove a mattress and box spring at the same time?",
        "a": [
         [
-         "Absolutely. In fact, most customers bundle the two. Removing both items in a single trip is more convenient and usually more cost-effective than scheduling separate pickups."
+         "Absolutely. {{fact:changedScope}}. Removing both items in a single trip is more convenient and usually more cost-effective than scheduling separate pickups."
         ]
        ]
       },
@@ -498,7 +475,7 @@
        "q": "5. How quickly can you pick up my box spring?",
        "a": [
         [
-         "We offer flexible scheduling, including same-day and next-day appointments in most service areas. Simply call or book online, choose a time window that works for you, and we’ll send a text or call when our team is on the way."
+         "We offer flexible scheduling, including same-day and next-day appointments when available in most service areas. Simply call or book online, choose a time window that works for you, and we’ll send a text or call when our team is on the way."
         ]
        ]
       }

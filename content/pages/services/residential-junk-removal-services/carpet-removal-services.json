@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/07/Carpet-removal-service.webp"
  },
  "title": "Carpet Removal Services",
- "h1": "Carpet removal service across the GTA — pulled up, hauled away, done right",
+ "h1": "Carpet Removal and Haul-Away Across the GTA",
  "published": "2026-07-19T00:30:43",
  "modified": "2026-07-23T06:35:31",
  "sections": [
@@ -21,12 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Carpet removal service across the GTA — pulled up, hauled away, done right"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in the town."
+     "text": "Carpet Removal and Haul-Away Across the GTA"
     },
     {
      "t": "ctas",
@@ -75,7 +70,7 @@
     {
      "t": "p",
      "c": [
-      "We offer same-day and next-day availability in most GTA areas, pricing confirmed upfront before we lift a single corner, and disposal handled responsibly through recycling channels wherever possible. Give us a call and we’ll handle the rest."
+      "{{fact:scheduling}} Give us a call and we’ll handle the rest."
      ]
     },
     {
@@ -158,6 +153,127 @@
     {
      "t": "h",
      "l": 2,
+     "text": "Fast, Local, And Ready Today — Carpet Removal Across The GTA"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Renovation timelines don’t wait, and neither do tenant turnovers. ",
+      {
+       "a": "/",
+       "c": [
+        "Live Junk Free"
+       ]
+      },
+      " offers same-day when available and next-day ",
+      {
+       "b": [
+        "carpet removal Toronto"
+       ]
+      },
+      " service across the GTA — from North York to Oakville, Brampton to Scarborough. Call us in the morning and we can often have the floors cleared the same day, keeping your project on schedule, subject to availability."
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       {
+        "b": [
+         "Upfront pricing confirmed before we start"
+        ]
+       },
+       " — you know the full cost before we lift a corner"
+      ],
+      [
+       {
+        "b": [
+         "Licensed and fully insured"
+        ]
+       },
+       " — every job covered, your property protected throughout"
+      ],
+      [
+       {
+        "b": [
+         "Eco-conscious disposal"
+        ]
+       },
+       " — carpet and underlay recycled where possible wherever facilities accept them"
+      ],
+      [
+       {
+        "b": [
+         "Consistently rated five stars on Google"
+        ]
+       },
+       " — trusted across the GTA"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Call us today and we’ll confirm your carpet removal window right away."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why Choose Live Junk Free for Professional Carpet Removal?"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Work On Your Schedule",
+       "text": [
+        "We’ll work around your home or business hours for maximum convenience."
+       ]
+      },
+      {
+       "title": "Eco-Friendly & Responsible Disposal",
+       "text": [
+        "Quality rugs get repurposed while synthetic fibers are properly processed."
+       ]
+      },
+      {
+       "title": "Save on Large Projects",
+       "text": [
+        "Removing carpet from multiple rooms or properties? {{fact:changedScope}}."
+       ]
+      },
+      {
+       "title": "Book",
+       "text": [
+        "Get on our schedule online or by phone – no complicated estimates or waiting periods."
+       ]
+      },
+      {
+       "title": "Honest Pricing You Can Trust",
+       "text": [
+        "{{fact:competitorComparison}}"
+       ]
+      },
+      {
+       "title": "All Carpet Types Accepted",
+       "text": [
+        "From wall-to-wall carpeting to delicate area rugs, we handle it all"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
      "text": "Professional Carpet Removal Service In The GTA — What Sets Live Junk Free Apart"
     },
     {
@@ -173,7 +289,7 @@
     {
      "t": "p",
      "c": [
-      "Carpet and underlay contain recoverable fibre materials that recycling facilities can process — we prioritize these routes over general waste wherever possible. What can’t be recycled is disposed of through proper licensed channels. We take disposal seriously on every GTA job, not just the ones that make it convenient."
+      "Carpet and underlay contain recoverable fibre materials that recycling facilities can process — we prioritize these routes over general waste wherever possible. We take disposal seriously on every GTA job, not just the ones that make it convenient."
      ]
     },
     {
@@ -190,6 +306,144 @@
      "t": "p",
      "c": [
       "We quote every carpet removal job on-site, after seeing the actual space and scope. {{fact:taxNote}}. {{fact:pricingIntro.extra}} What we agree on before we start is what appears on your invoice."
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Types of Carpets We Remove"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our GTA ",
+      {
+       "b": [
+        "carpet removal company"
+       ]
+      },
+      " takes on every type of carpet job — one room or a full property, residential or commercial. We remove the carpet, the underlay, and all associated materials in a single visit so you’re not coordinating multiple services."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Carpet Types:"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Wall-to-wall broadloom carpet (all thicknesses and pile heights)"
+      ],
+      [
+       "Berber and loop pile carpet"
+      ],
+      [
+       "Cut pile and plush carpet"
+      ],
+      [
+       "Commercial grade and low-pile office carpet"
+      ],
+      [
+       "Stair carpet and stair runners"
+      ],
+      [
+       "Area rugs and bound carpet pieces (large, non-rollable)"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Underlay And Sub-Materials:"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Foam and rubber underlay"
+      ],
+      [
+       "Felt underlay"
+      ],
+      [
+       "{{fact:propertyProtection}}"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Associated Removal Items:"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Transition strips and threshold pieces (call to confirm)"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "By Property Type:"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Whole-house and whole-floor carpet clearouts"
+      ],
+      [
+       "Rental property and landlord turnover jobs"
+      ],
+      [
+       "Staircase carpet removal"
+      ],
+      [
+       "Commercial office and retail carpet removal"
+      ],
+      [
+       "Estate and pre-sale property clearouts"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Not sure if your specific carpet or underlay type is covered? Call us — our ",
+      {
+       "b": [
+        "carpet removal service"
+       ]
+      },
+      " handles almost all non-hazardous flooring materials across the GTA."
      ]
     }
    ]
@@ -220,12 +474,6 @@
        "title": "Choose Your Time",
        "text": [
         "Choose same-day or next-day pickup when available, whatever suits your schedule."
-       ]
-      },
-      {
-       "title": "We Remove It",
-       "text": [
-        "Our crew arrives on time, removes all carpeting and padding, and leaves your floors clean."
        ]
       }
      ]

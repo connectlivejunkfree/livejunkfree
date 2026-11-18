@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Bradford that give growing households their space back — garage, basement, moving, estate and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished swept the same day whenever size allows."
+     "text": "Cleanout services in Bradford that give growing households their space back — garage, basement, moving, estate and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished the same day whenever size allows, subject to availability."
     },
     {
      "t": "ctas",
@@ -126,7 +126,7 @@
        "title": "Free walkthrough cleanout quotes at your Bradford property",
        "text": [
         [
-         "A crew lead walks the space — the garage, the basement, the whole house, the farm — hears what the clearing is for, and writes one firm flat quote on the spot. Free, unhurried, and it keeps: growing families book when the calendar finally allows."
+         "{{fact:changedScope}}. Free, unhurried, and it keeps: growing families book when the calendar finally allows."
         ]
        ]
       },
@@ -135,7 +135,7 @@
        "title": "Make-room cleanouts — park in the garage again by dinnertime",
        "text": [
         [
-         "The most-booked cleanout in Bradford isn’t an estate; it’s a reclamation. Garages, basements and spare rooms swallowed by strollers-outgrown, seasons-of-stuff and moving boxes never unpacked get sorted, donated and cleared in a single visit — most finish same-day, and the car sleeps inside that night."
+         "The most-booked cleanout in Bradford isn’t an estate; it’s a reclamation. Garages, basements and spare rooms swallowed by strollers-outgrown, seasons-of-stuff and moving boxes never unpacked get sorted, donated and cleared in a single visit — most finish same-day, and the car sleeps inside that night, subject to availability."
         ]
        ]
       },
@@ -154,15 +154,6 @@
        "text": [
         [
          "Overwhelmed homes clear with respect: unmarked scheduling on request, no commentary, a steady room-by-room pace, and coordination with family or support workers where it helps. New town or old street, the neighbours learn nothing from us."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Independent cleanout pricing",
-       "text": [
-        [
-         "No head-office royalties ride in our quotes — local crews, our own trucks, honest volume pricing."
         ]
        ]
       }
@@ -195,8 +186,7 @@
     {
      "t": "checks",
      "items": [
-      "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -212,12 +202,6 @@
      "t": "price",
      "label": "Bradford Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -259,7 +243,7 @@
        "title": "1. Book Your Bradford Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit. The crew lead tours the space, hears the goal — a usable garage, a listing-ready home, an estate settled, a fresh start — and writes one flat quote with a timeline that fits family life."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit. {{fact:changedScope}}."
         ]
        ]
       },
@@ -289,10 +273,10 @@
       },
       {
        "n": "04",
-       "title": "4. Swept, Open and Yours Again",
+       "title": "4., Open and Yours Again",
        "text": [
         [
-         "The space hands back broom-swept — garage floor visible, basement walkable, home listing-ready or estate settled — with debris gone on our own trucks and donation or disposal documentation available for the sale, the estate or your own satisfaction."
+         "The space hands back — garage floor visible, basement walkable, home listing-ready or estate settled — with debris gone on our own trucks and donation or disposal documentation available for the sale, the estate or your own satisfaction."
         ]
        ]
       }
@@ -330,7 +314,7 @@
      "t": "ul",
      "items": [
       [
-       "Garage cleanouts that put the car back inside — most same-day"
+       "Garage cleanouts that put the car back inside — most"
       ],
       [
        "Basement clear-outs from storage-swamp back to family space"
@@ -361,7 +345,7 @@
        "Pre-listing purges that get Bradford homes photo-ready"
       ],
       [
-       "Sold-home cleanouts finished broom-swept before closing"
+       "Sold-home cleanouts finished before closing"
       ],
       [
        "Pre-move clears so the truck carries only keepers into the bigger house"
@@ -402,9 +386,6 @@
        "Executor and out-of-town family coordination with documentation"
       ],
       [
-       "Donation-first sorting recorded for the estate file"
-      ],
-      [
        "Sale-ready handovers, house and land together"
       ]
      ]
@@ -431,9 +412,6 @@
       ],
       [
        "Deep-accumulation basements and storage spaces"
-      ],
-      [
-       "Respectful crews, first knock to final sweep"
       ]
      ]
     }
@@ -757,7 +735,7 @@
        "q": "Where do the belongings go?",
        "a": [
         [
-         "Donation first: furniture, housewares and clothing to charity partners; metals, appliances and e-waste to licensed recyclers; landfill strictly last. The split can be documented for estate files, landlords or your own records."
+         "The split can be documented for estate files, landlords or your own records."
         ]
        ]
       }

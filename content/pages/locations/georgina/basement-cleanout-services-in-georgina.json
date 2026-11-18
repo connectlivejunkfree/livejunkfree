@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Basement Cleanout Services in Georgina | Live Junk Free",
-  "description": "Live Junk Free provides basement cleanout services in Georgina to carry it all out, sort what can be reused or recycled, haul it away.",
+  "description": "Live Junk Free provides basement cleanout services in Georgina to carry it all out, sort what can be reused or recycled where possible, haul it away.",
   "canonical": "https://livejunkfree.ca/locations/georgina/basement-cleanout-services-in-georgina/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/basement-cleanout-services.jpeg"
@@ -135,7 +135,7 @@
        "title": "Basement Clean Up Services That Finish With a Clear Floor",
        "text": [
         [
-         "Our basement clean up services go beyond removing a few large items. We can clear storage areas, under-stair spaces, cold rooms and utility corners, then sweep the cleared floor before leaving."
+         "Our basement clean up services go beyond removing a few large items. {{fact:cleanupScope}}."
         ]
        ]
       },
@@ -163,15 +163,6 @@
        "text": [
         [
          "Clearing the basement can make a renovation easier and give potential buyers a cleaner view of the available space. Our basement cleanouts can also help during downsizing, inherited-property transitions and flood recovery."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Basement Cleaning and Junk Removal With Responsible Sorting",
-       "text": [
-        [
-         "We aim to keep reusable and recyclable materials out of the landfill whenever possible. Furniture, sporting goods, tools, books and housewares may be directed toward donations, while metals, electronics, wood, cardboard and old appliances can be sorted for appropriate recycling."
         ]
        ]
       }
@@ -315,7 +306,7 @@
     {
      "t": "p",
      "c": [
-      "Every basement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every basement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -370,7 +361,7 @@
        "title": "Choose Your Appointment",
        "text": [
         [
-         "Choose a convenient date and time. Same-day service may also be available depending on the schedule."
+         "Choose a convenient date and time. Same-day service when available may also be available depending on the schedule."
         ]
        ]
       },
@@ -379,7 +370,7 @@
        "title": "We Clean Out Basement Junk",
        "text": [
         [
-         "Our crew carries the unwanted contents out, loads the truck, sorts appropriate materials and sweeps the cleared area when the job is complete."
+         "{{fact:cleanupScope}}."
         ]
        ]
       }
@@ -490,7 +481,7 @@
         "basement junk removal"
        ]
       },
-      " without waiting weeks? Live Junk Free offers same-day basement cleanouts when availability allows. The company also provides house cleanouts, apartment cleanouts, garage cleanouts, estate cleanouts, eviction cleanouts, hoarding cleanouts, storage unit cleanouts and office cleanouts, along with demolition services including deck, fence, garage, shed and hot tub demolition."
+      " without waiting weeks? Live Junk Free offers same-day basement cleanouts when available when availability allows. The company also provides house cleanouts, apartment cleanouts, garage cleanouts, estate cleanouts, eviction cleanouts, hoarding cleanouts, storage unit cleanouts and office cleanouts, along with demolition services including deck, fence, garage, shed and hot tub demolition."
      ]
     },
     {
@@ -1192,7 +1183,7 @@
        "q": "4. Is it better to clean out a Georgina basement before waterproofing or repair work?",
        "a": [
         [
-         "Yes. Removing stored belongings before waterproofing, foundation repairs, flooring work, or other basement projects gives contractors better access to the areas requiring attention. It also keeps personal belongings away from dust, moisture, and construction activity."
+         "Yes. {{fact:structuralDemolition}}. It also keeps personal belongings away from dust, moisture, and construction activity."
         ]
        ]
       },

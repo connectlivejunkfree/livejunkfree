@@ -136,15 +136,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "One flat price, confirmed before the clock starts",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "A completion date in writing, not just a price",
        "text": [
@@ -277,7 +268,7 @@
        "title": "A Free Walkthrough, Price and Date Both Confirmed",
        "text": [
         [
-         "Someone comes out, measures the route, and gives you one flat price alongside a written completion date built to beat the real deadline comfortably."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -336,13 +327,10 @@
        "Careful stairwell and doorway maneuvering with proper equipment"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Full protection of finished floors throughout"
-      ],
-      [
-       "Donation-first sorting before any recycling"
       ]
      ]
     },
@@ -364,13 +352,10 @@
        "Written completion dates that hold regardless of what else is happening that week"
       ],
       [
-       "Same flat pricing as any other job"
-      ],
-      [
        "Documentation available if the move requires it"
       ],
       [
-       "Same-day completion for most straightforward removals"
+       "Completion for most straightforward removals"
       ]
      ]
     }
@@ -397,9 +382,6 @@
       ],
       [
        "Written confirmation of the completion date"
-      ],
-      [
-       "Same flat pricing regardless of how tight the original timeline felt"
       ],
       [
        "Priority booking for time-sensitive closings"
@@ -856,7 +838,7 @@
        "q": "Do you charge extra for stairs?",
        "a": [
         [
-         "No. Narrow staircases and multi-floor moves are factored into one flat quote at the walkthrough."
+         "No. {{fact:changedScope}}."
         ]
        ]
       },

@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Vaughan doesn’t do small. Its homes come with finished basements, three-car garages, cold cellars, cabanas and enough square footage to quietly absorb twenty years of belongings without anyone noticing — until the day it all has to go. That day is what we’re built for. Our fully insured crew walks the entire property with you, quotes one flat price for free, and clears everything — floor by floor, room by room, truckload by truckload — usually in a single visit."
+      "Vaughan doesn’t do small. Its homes come with finished basements, three-car garages, cold cellars, cabanas and enough square footage to quietly absorb twenty years of belongings without anyone noticing — until the day it all has to go. That day is what we’re built for. {{fact:changedScope}}."
      ]
     },
     {
@@ -97,29 +97,9 @@
      "text": "When a Vaughan property needs emptying, it's rarely a one-couch job. It's the Woodbridge family home with a basement kitchen and a cantina stocked since the eighties. The Kleinburg estate changing hands. The Maple garage where three generations parked everything except the cars. Live Junk Free has cleared them all — Google reviews earned on exactly this kind of work: big, careful, and finished when we said it would be."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Volume is the entire bill — even when there's a lot of it",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Every cleanout is priced on truck space and only truck space. A garage is a small job; a full Woodbridge home with a finished basement might be several loads — and it's quoted as exactly that, in one flat figure, before we begin. No hourly billing, no premium for prestige postal codes."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Big properties get walked, not guessed at",
-       "text": []
-      }
-     ]
+     "text": "Every cleanout is priced on truck space and only truck space. No hourly billing, no premium for prestige postal codes."
     },
     {
      "t": "h",
@@ -127,59 +107,19 @@
      "text": "The larger the home, the more a phone estimate misses — the cold room behind the basement kitchen, the loft above the garage, the cabana out back. We quote after seeing all of it, together with you, at a free walkthrough. What comes out of that walk is a number you can plan around."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "The flat quote outlasts every surprise",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} If the basement yields double the boxes or the sectional refuses to leave the way it came in, the price you approved stays the price you pay. Full stop."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Family homes hold family history — we clear accordingly",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Vaughan estates are often multigenerational: documents in three languages, wedding albums, tools brought from the old country, preserves still sealed in the cantina. Our crew sorts as it clears, sets aside everything that looks like it matters, and sends usable belongings to donation — because a dumpster is the wrong destination for most of what a family builds."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "You control the yes — before, not after",
-       "text": []
-      }
-     ]
+     "text": "Our crew sorts as it clears, sets aside everything that looks like it matters, and sends usable belongings to donation — because a dumpster is the wrong destination for most of what a family builds."
     },
     {
      "t": "h",
      "l": 3,
      "text": "The walkthrough is free, the quote is optional, and nothing starts until you approve it. Say yes and the crew begins immediately; say no and we leave with no charge and no callbacks. Say \"not yet\" and the quote will still be good when you're ready."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent pricing beats the franchises by",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -198,12 +138,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "One Flat Number — Even for the Big Ones"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Garages and basements land mid-range. Full homes, estates and multi-load clears are quoted as one firm, figure at your free walkthrough — and that figure holds no matter how many trips the truck makes or how long the crew works. In a city of big properties, a locked price is worth even more."
+     "text": "Garages and basements land mid-range. In a city of big properties, a locked price is worth even more."
     },
     {
      "t": "cards",
@@ -260,17 +195,17 @@
       {
        "title": "2. Show Us Everything",
        "text": [
-        "Main floors, basement, cantina, garage, cabana, shed — the more we see, the more accurate your single flat quote. It's free, and there's no obligation attached to hearing the number."
+        "{{fact:changedScope}}. It's free, and there's no obligation attached to hearing the number."
        ]
       },
       {
        "title": "3. The Crew Clears, Room by Room",
        "text": [
-        "On your approval we work methodically through the property: sorting as we go, setting valuables and keepsakes aside, staging donations apart from disposal, and protecting floors and finishes the entire way. Multi-load jobs run until they're done."
+        "{{fact:cleanupScope}}."
        ]
       },
       {
-       "title": "4. Swept, Emptied, and Sent the Right Way",
+       "title": "4., Emptied, and Sent the Right Way",
        "text": [
         "Every cleared space gets a broom finish. Then the loads split by destination — donation partners take what has life left, recyclers take metal, wood and e-waste, and landfill receives only the remainder."
        ]
@@ -341,7 +276,7 @@
        "q": "Pre-Sale & Move Cleanouts in Vaughan",
        "a": [
         [
-         "Pre-listing cleanouts — emptied and swept before staging and photos"
+         "Pre-listing cleanouts — emptied before staging and photos"
         ],
         [
          "Move-out clears timed to closing day"
@@ -370,7 +305,7 @@
          "Warehouse corners, mezzanines and industrial unit cleanups"
         ],
         [
-         "Property management and multi-unit arrangements"
+         "{{fact:competitorComparison}}"
         ],
         [
          "Storage unit and locker emptying — close the account for good"
@@ -512,7 +447,7 @@
        "q": "Q: Our house is large — basement kitchen, cantina, three-car garage. Can it all go in one visit?",
        "a": [
         [
-         "A: That’s the plan we build for. Multi-load cleanouts run continuously until the property is empty, and most Vaughan homes — even big ones — are finished within a single day. If the volume genuinely needs a second day, you’ll hear that honestly at the walkthrough, not discover it midway."
+         "A: That’s the plan we build for. {{fact:changedScope}}. If the volume genuinely needs a second day, you’ll hear that honestly at the walkthrough, not discover it midway."
         ]
        ]
       },
@@ -520,7 +455,7 @@
        "q": "Q: How do you handle a multigenerational family home where we don't know what's valuable?",
        "a": [
         [
-         "A: By sorting, not scooping. Documents, photographs, jewelry, cash, tools and anything with apparent significance gets set aside and shown to the family before anything is decided. In homes with decades of history, we assume treasure is mixed in with the rest — because it almost always is."
+         "A: By not scooping. Documents, photographs, jewelry, cash, tools and anything with apparent significance gets set aside and shown to the family before anything is decided. In homes with decades of history, we assume treasure is mixed in with the rest — because it almost always is."
         ]
        ]
       },
@@ -536,7 +471,7 @@
        "q": "Q: We're preparing the house for sale — how fast can it be empty and clean?",
        "a": [
         [
-         "A: Often within days of your call. Pre-listing cleanouts are among our most common Vaughan bookings: full clear, broom-swept rooms, and a property ready for stagers and photographers — timed to your realtor’s schedule."
+         "A: Often within days of your call. Pre-listing cleanouts are among our most common Vaughan bookings: full clear rooms, and a property ready for stagers and photographers — timed to your realtor’s schedule."
         ]
        ]
       }

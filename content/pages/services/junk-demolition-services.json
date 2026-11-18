@@ -75,7 +75,7 @@
         "residential demolition contractors "
        ]
       },
-      "during renovation or when you wish to simply remove a wall, pool, concrete, garage or any other thing, we are here to take care of the laborious tasks so you don’t have to go through the pain. To guarantee that every demolition project concludes in a secure manner and with the least amount of inconvenience to the immediate area, our skilled staff uses the best equipment available. So stop searching for “",
+      "during renovation or when you wish to simply remove a wall, pool, concrete, garage or any other thing, we are here to take care of the laborious tasks so you don’t have to go through the pain. So stop searching for “",
       {
        "b": [
         "interior demolition near me” "
@@ -483,7 +483,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "It's not necessary for demolition to be hard! From beginning to end, our procedure is simple, effective, and intended to provide you with a sense of peacefulness. We've divided it into three easy steps to guarantee that your project is completed as quickly, carefully, and precisely as possible."
+     "text": "It's not necessary for demolition to be hard! From beginning to end, our procedure is simple, effective, and intended to provide you with a sense of peacefulness."
     }
    ]
   },
@@ -568,7 +568,7 @@
     {
      "t": "p",
      "c": [
-      "Following demolition, we handle the debris removal and make sure that all items have been gotten rid of or recycled with integrity, preparing your space for its subsequent makeover."
+      "Following demolition, we handle the debris removal and make sure that all items have been gotten rid of or recycled where possible with integrity, preparing your space for its subsequent makeover."
      ]
     }
    ]
@@ -596,7 +596,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We have established a solid foundation for providing trusted, efficient, and skilled demolition services. Our expanding clientele serves as a confirmation of our determination and proficiency in each task."
+     "text": "Our expanding clientele serves as a confirmation of our determination and proficiency in each task."
     },
     {
      "t": "ctas",
@@ -645,44 +645,9 @@
      "text": "Since associating with us implies selecting an affiliate who respects your time and boundaries, promises are not simply words to us but they are an essential component of the rapport that we establish with each client."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Reliable Timelines",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Since your time holds great value in our eyes, our team members make sure to not keep you waiting and to reach your place at the exact time mutually decided by you and them."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Experts with Perfection",
-       "text": []
-      }
-     ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Every aspect is taken care of with attention by our team of professionals, guaranteeing precise removal, safe procedures, and immaculate execution."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Clear-cut Pricing",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -690,44 +655,14 @@
      "text": "We just like to surprise you with our top-notch service quality and not hefty service costs so we provide you with an estimate that is free from any hidden charges."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Eco-friendly Practices",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "We make choices of incorporating recycling and environmentally friendly disposal in our regular services that play an integral role for the environment as well as you."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Debris Hauled Away",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "We continue to stay until we believe the area has been completely cleaned and you are satisfied, leaving no trash behind and your place pristine and prepared for what's ahead."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Customised Services",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -800,12 +735,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "No matter how big or tiny , We haul it all."
+     "text": "Big or small, tell us what needs to go."
     },
     {
      "t": "h",
      "l": 3,
-     "text": "Set Up a Time For Your Residential Junk Removal Project Right Now!"
+     "text": "Request a Demolition Quote"
     },
     {
      "t": "ctas",
@@ -874,7 +809,7 @@
        "q": "How far in advance do I need to schedule a pickup?",
        "a": [
         [
-         "We strive to accommodate our customers’ schedules as much as possible. However, we understand that emergencies happen, so feel free to reach out to us, and we’ll do our best to accommodate your needs.",
+         "We strive to accommodate our customers’ schedules as much as possible. {{fact:scheduling}}",
          {
           "br": 1
          },

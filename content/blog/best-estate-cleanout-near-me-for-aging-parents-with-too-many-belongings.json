@@ -547,7 +547,7 @@
     {
      "t": "p",
      "c": [
-      "A professional junk removal team can take care of the heavy lifting while family members focus on sorting and making decisions."
+      "A professional junk removal team can take care of the heavy lifting while family members focus on making decisions."
      ]
     }
    ]
@@ -1163,7 +1163,7 @@
       {
        "title": "Should everything be thrown away during an estate cleanout?",
        "text": [
-        "No. A good estate cleanout should begin with sorting. Families can separate belongings into categories such as keep, sell, donate, recycle, and remove."
+        "No. {{fact:cleanupScope}}. Families can separate belongings into categories such as keep, sell, donate, recycle, and remove."
        ]
       },
       {

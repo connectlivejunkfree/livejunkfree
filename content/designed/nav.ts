@@ -84,7 +84,7 @@ export const DRAWER_LINKS: Link[] = [
 export const FOOTER = {
   cta: {
     title: "Got junk? We'll take it from here.",
-    text: "Free quote, firm price on site, gone in one visit.",
+    text: "Free onsite estimates. Your price is agreed before work starts.",
   },
   blurb: "Junk removal, cleanouts and small demolition across Toronto and the GTA.",
   columns: [

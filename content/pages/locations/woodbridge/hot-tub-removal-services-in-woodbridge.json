@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Hot Tub Removal Services in Woodbridge - Live JunkFree",
-  "description": "Looking to get rid of an old hot tub in Woodbridge? Live Junk Free handles the whole job — drain, disconnect, cut apart and haul away.",
+  "description": "Looking to get rid of an old hot tub in Woodbridge? {{fact:utilityDisconnection}}",
   "canonical": "https://livejunkfree.ca/locations/woodbridge/hot-tub-removal-services-in-woodbridge/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/Hot-Tub-Removal-Services-in-Woodbridge.jpeg"
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Woodbridge backyards were designed for company — big patios, stone hardscaping, room for the whole family — and somewhere along the way, plenty of them picked up a hot tub that quietly stopped getting used. Live Junk Free spends a lot of time undoing exactly that. Along the older village streets, it’s often a jacuzzi that came with the house a generation back, drained and disconnected the same week the family finally starts the backyard renovation their parents never got to. Out through East and West Woodbridge’s bigger lots, a hot tub haul away is usually step one before an outdoor kitchen or a pool goes in. In Pine Valley and Weston Downs, where the properties run larger, tub removal happens with the same attention paid to the driveway and the stonework as to the tub itself. And when a house changes hands between generations, there’s almost always a jacuzzi nobody’s touched in years sitting somewhere in the yard, waiting to be part of the cleanout. Whatever brought you here — old hot tub removal, spa disposal, or just wanting the eyesore gone — the Google reviews behind Live Junk Free reflect the same outcome every time: tub drained, cut down safely, hauled off, patio untouched."
+      "Woodbridge backyards were designed for company — big patios, stone hardscaping, room for the whole family — and somewhere along the way, plenty of them picked up a hot tub that quietly stopped getting used. Live Junk Free spends a lot of time undoing exactly that. Along the older village streets, it’s often a jacuzzi that came with the house a generation back, drained and disconnected the same week the family finally starts the backyard renovation their parents never got to. Out through East and West Woodbridge’s bigger lots, a hot tub haul away is usually step one before an outdoor kitchen or a pool goes in. In Pine Valley and Weston Downs, where the properties run larger, tub removal happens with the same attention paid to the driveway and the stonework as to the tub itself. And when a house changes hands between generations, there’s almost always a jacuzzi nobody’s touched in years sitting somewhere in the yard, waiting to be part of the cleanout. {{fact:utilityDisconnection}}"
      ]
     },
     {
@@ -114,10 +114,10 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat hot tub removal price — draining, cutting and hauling all included",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "A hot tub isn’t a normal junk item, and Live Junk Free’s quote reflects the real work: draining the water, disconnecting whatever needs disconnecting, cutting the shell into manageable sections, and hauling every piece away."
+         "{{fact:utilityDisconnection}}"
         ]
        ]
       },
@@ -126,16 +126,7 @@
        "title": "Free on-site hot tub removal quotes for backyards of every size",
        "text": [
         [
-         "A Live Junk Free crew member comes to your Woodbridge property, looks at the tub’s size, condition and access — gate width, patio layout, how far it is to the truck — and gives you one flat number before anything happens. Free visit, no obligation, and no guessing over the phone."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Draining and disconnection handled the safe way",
-       "text": [
-        [
-         "Water gets drained responsibly before anything else happens, and any electrical hookup — a hardwired 240V line is common on larger installations — gets confirmed dead before we touch it, with a licensed electrician’s prior disconnection required if the tub was still wired live. We don’t cut into anything until it’s genuinely safe to."
+         "{{fact:changedScope}}. Free visit, no obligation, and no guessing over the phone."
         ]
        ]
       },
@@ -195,7 +186,6 @@
     {
      "t": "checks",
      "items": [
-      "Drain + Disconnect + Cut-Out + Haul-Away",
       "No Rooftop Surcharges"
      ]
     },
@@ -273,15 +263,6 @@
        ]
       },
       {
-       "n": "03",
-       "title": "The Hot Tub Is Drained, Disconnected and Cut Apart",
-       "text": [
-        [
-         "The water drains first, then the shell gets cut down in sections — never dragged, never forced through an opening it doesn’t fit. Everything comes out the way it went in, minus the dents."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "Hot Tub Hauled Away, Disposal Complete",
        "text": [
@@ -339,7 +320,7 @@
        "Covers, skirting, and surrounding fence panels hauled along with it"
       ],
       [
-       "Most single-tub jobs done same day"
+       "Most single-tub jobs done"
       ]
      ]
     },
@@ -362,9 +343,6 @@
       ],
       [
        "Concrete pad or base demolition available as an add-on"
-      ],
-      [
-       "Licensed electrician coordination for any hardwired disconnect"
       ],
       [
        "Space handed back clean and ready to build on"
@@ -394,9 +372,6 @@
       ],
       [
        "Quiet scheduling available for households that prefer it"
-      ],
-      [
-       "Full grounds cleanout bundled with tub removal if needed"
       ],
       [
        "Scale doesn't change the standard of care"
@@ -819,7 +794,7 @@
        "q": "Honestly, what's the best way to get rid of a hot tub?",
        "a": [
         [
-         "Draining it first, then cutting it down on site rather than trying to move it whole. A full hot tub can weigh several hundred pounds even without water, and once it’s drained, our crew cuts the shell into manageable sections — the safest and most practical way to get rid of an old hot tub without renting equipment or risking injury."
+         "{{fact:utilityDisconnection}}"
         ]
        ]
       },
@@ -827,7 +802,7 @@
        "q": "Do I need to drain it myself first?",
        "a": [
         [
-         "No — draining is part of the service. The Live Junk Free crew handles it safely on arrival, and you don’t need a hose, a pump, or any prep beyond making sure the area around the tub is reasonably accessible."
+         "{{fact:utilityDisconnection}}"
         ]
        ]
       },
@@ -843,7 +818,7 @@
        "q": "Will my patio survive this?",
        "a": [
         [
-         "Both. Indoor hot tubs in basements or sunrooms get the same drain-disconnect-cut-haul process, adapted for the doorways and stairs involved rather than a backyard gate."
+         "Both. {{fact:utilityDisconnection}}"
         ]
        ]
       },
@@ -867,7 +842,7 @@
        "q": "We've got a new tub arriving — can you time this around that?",
        "a": [
         [
-         "It gets broken down properly: metal frame components and the motor or pump go to recyclers, and the acrylic shell, foam and wood cabinet are disposed of responsibly. Nothing gets left in a landfill that has a better place to go."
+         "{{fact:utilityDisconnection}} Nothing gets left in a landfill that has a better place to go."
         ]
        ]
       }

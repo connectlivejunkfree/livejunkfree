@@ -119,15 +119,6 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "One flat price — the crossroads makes it fair",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
        "n": "02",
        "title": "Free on-site quotes — easy, since we're passing anyway",
        "text": [
@@ -146,20 +137,11 @@
        ]
       },
       {
-       "n": "04",
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
        "n": "05",
        "title": "Donation-first for pianos that still play",
        "text": [
         [
-         "Working pianos are checked against donation partners before anything is recycled."
+         "Working pianos are checked against donation partners before anything is recycled where possible."
         ]
        ]
       },
@@ -201,8 +183,7 @@
     {
      "t": "checks",
      "items": [
-      "Move + Disassembly + Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Move + Disassembly + Haul-Away"
      ]
     },
     {
@@ -274,7 +255,7 @@
        "title": "Get a Free On-Site Quote — Route Measured First",
        "text": [
         [
-         "The crew measures doorways and staircase turns, checks whether legs or lids need to come off, and gives you one flat price."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -339,10 +320,10 @@
        "Wall, corner and staircase protection throughout"
       ],
       [
-       "Donation-first checks before any piano is recycled"
+       "Donation-first checks before any piano is recycled where possible"
       ],
       [
-       "Same-day piano pick up for straightforward downtown access"
+       "Piano pick up for straightforward downtown access"
       ],
       [
        "Careful, unhurried handling around established properties"
@@ -364,13 +345,7 @@
        "Pianos held by a farming family for generations, handled with real care"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Coordination with executors or family members settling an estate"
-      ],
-      [
-       "Same flat pricing regardless of distance from town"
       ],
       [
        "Full room or property cleanouts alongside the piano removal, on request"
@@ -393,9 +368,6 @@
        "Piano removal in Lloydtown, Pottageville and Kettleby"
       ],
       [
-       "Same flat pricing as Main Street, no hamlet premium"
-      ],
-      [
        "Removal ahead of a household move or downsizing"
       ],
       [
@@ -405,7 +377,7 @@
        "Documentation available if the move or sale needs it"
       ],
       [
-       "Same-day completion for most straightforward removals"
+       "Completion for most straightforward removals"
       ]
      ]
     },
@@ -843,7 +815,7 @@
        "q": "Do you charge extra for stairs?",
        "a": [
         [
-         "No. Narrow staircases and multi-floor moves are factored into one flat quote at the walkthrough."
+         "No. {{fact:changedScope}}."
         ]
        ]
       },
@@ -851,7 +823,7 @@
        "q": "Do you cover Lloydtown, Pottageville and Kettleby?",
        "a": [
         [
-         "Every hamlet, at the same flat pricing as Main Street."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },

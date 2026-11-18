@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/04/young-couple-moving-new-home-together-african-american-couple-with-cardboard-boxes-1024x683.jpg"
  },
  "title": "Cardboard Removal Services",
- "h1": "Most Trusted Cardboard Removal Service in Your Area",
+ "h1": "Cardboard Removal Service in Your Area",
  "published": "2026-07-17T12:10:02",
  "modified": "2026-07-23T06:27:31",
  "sections": [
@@ -21,12 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Most Trusted Cardboard Removal Service in Your Area"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in the town."
+     "text": "Cardboard Removal Service in Your Area"
     },
     {
      "t": "ctas",
@@ -63,7 +58,7 @@
     {
      "t": "p",
      "c": [
-      "Live Junk Free makes cardboard removal quick and effortless. We provide a hassle-free solution to eliminate moving boxes, shipping materials, packaging waste, and bulk cardboard, all without you lifting a finger"
+      "Live Junk Free makes cardboard removal quick and effortless. {{fact:changedScope}}."
      ]
     },
     {
@@ -75,7 +70,7 @@
     {
      "t": "p",
      "c": [
-      "We prioritize eco-friendly practices. Rather than sending cardboard to landfills, we ensure that 100% is recycled at recycling facilities. Our trained crew handles materials carefully, protecting your property while maintaining a tidy work area."
+      "We prioritize eco-friendly practices. Our trained crew handles materials carefully, protecting your property while maintaining a tidy work area."
      ]
     },
     {
@@ -108,13 +103,13 @@
     {
      "t": "p",
      "c": [
-      "Is cardboard junk taking over your space? Our cardboard removal service starts at just {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), and we handle everything. We’ll remove cardboard boxes, shipping materials, packaging waste, and bulk cardboard – no matter where it’s stored in your home or business."
+      "Is cardboard junk taking over your space? Our cardboard removal service starts at just {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), and we handle everything. {{fact:changedScope}}."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Sit back while our team clears your garage, office, or storage area quickly and efficiently. Whether it’s a few cardboard boxes or piles of packaging materials, we’ll ensure everything is properly recycled, leaving your space clean and clutter-free."
+      "Sit back while our team clears your garage, office, or storage area quickly and efficiently. Whether it’s a few cardboard boxes or piles of packaging materials, we’ll ensure everything is properly recycled where possible, leaving your space clean and clutter-free."
      ]
     },
     {
@@ -155,7 +150,7 @@
     {
      "t": "p",
      "c": [
-      "While cardboard boxes may seem light, hauling bulk quantities can be surprisingly difficult. Don’t strain yourself or waste time breaking down piles. Our professional, insured cardboard removal team handles it all efficiently."
+      "{{fact:changedScope}}. Don’t strain yourself or waste time breaking down piles. Our professional, insured cardboard removal team handles it all efficiently."
      ]
     },
     {
@@ -183,7 +178,7 @@
      "c": [
       {
        "b": [
-        "Need Your Cardboard Removal Soon? Same-Day Removal Available"
+        "Need Your Cardboard Removal Soon? Same-Day Removal may be available"
        ]
       }
      ]
@@ -195,7 +190,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Need Your Cardboard Removal Soon? Same-Day Removal Available"
+     "text": "Need Your Cardboard Removal Soon? Same-Day Removal may be available"
     },
     {
      "t": "cards",
@@ -207,9 +202,9 @@
        ]
       },
       {
-       "title": "Eco-Friendly Recycling Guaranteed",
+       "title": "Eco-Friendly Recycling",
        "text": [
-        "– We provide 100% cardboard recycling at recycling facilities. All materials are processed responsibly while minimizing environmental impact."
+        "All materials are processed responsibly while minimizing environmental impact."
        ]
       },
       {
@@ -221,7 +216,7 @@
       {
        "title": "Book",
        "text": [
-        "– Get on our schedule instantly online or by phone – no lengthy forms or complicated processes."
+        "– Get on our schedule online or by phone – no lengthy forms or complicated processes."
        ]
       },
       {
@@ -231,7 +226,7 @@
        ]
       },
       {
-       "title": "Property Protection Guaranteed",
+       "title": "Property Protection",
        "text": [
         "– Careful removal methods prevent damage to floors, walls, and surrounding property during service"
        ]
@@ -260,7 +255,7 @@
        "We can efficiently remove cardboard from any location, whether it’s a garage full of moving boxes, a retail backroom packed with shipping materials, or an office overflowing with packaging waste. Our professional team takes special care to protect your property while quickly clearing all cardboard clutter."
       ],
       [
-       "It makes no difference what type of cardboard you need removing, moving boxes, appliance packaging, shipping containers, or bulk commercial bales. We handle them all with the same level of efficiency and care. Our crew carefully collects, transports, and recycles all materials according to the highest environmental standards."
+       "{{fact:changedScope}}. We handle them all with the same level of efficiency and care. Our crew carefully collects, transports, and recycles all materials according to the highest environmental standards."
       ],
       [
        "The best part? You don’t need to lift a box. We manage all the heavy lifting, breaking down, and removal while you watch. When we are done, your space will be completely cleared and ready for its next use, whether that’s parking your car, organizing inventory, or simply enjoying a clutter-free environment."
@@ -287,7 +282,7 @@
      "t": "ul",
      "items": [
       [
-       "100% recycling at recycling facilities"
+       "Careful Removal"
       ],
       [
        "Clean cardboard repurposed for community use"
@@ -315,9 +310,6 @@
       ],
       [
        "Free on-site estimates by phone/text"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -405,25 +397,13 @@
       {
        "title": "Send a Photo",
        "text": [
-        "Text or email photos of your cardboard piles, and we'll respond immediately with a solution."
-       ]
-      },
-      {
-       "title": "Get a Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
+        "{{fact:pickupTimes}}"
        ]
       },
       {
        "title": "Choose Your Time",
        "text": [
         "Select the same-day when available or scheduled service that works best for you."
-       ]
-      },
-      {
-       "title": "We Remove It",
-       "text": [
-        "Our team arrives, clears all cardboard, and leaves your space clean, typically in under 1 hour."
        ]
       }
      ]

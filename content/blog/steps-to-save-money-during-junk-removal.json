@@ -258,7 +258,7 @@
     {
      "t": "p",
      "c": [
-      "A cheap-looking quote isn’t always the cheapest final price."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -316,12 +316,6 @@
      "t": "h",
      "l": 2,
      "text": "6. Don’t Automatically Rent a Dumpster"
-    },
-    {
-     "t": "p",
-     "c": [
-      "A dumpster isn’t always the cheapest solution."
-     ]
     },
     {
      "t": "p",
@@ -411,7 +405,7 @@
     {
      "t": "p",
      "c": [
-      "you can ask the company to remove everything during one visit."
+      "{{fact:pickupTimes}}"
      ]
     },
     {
@@ -632,7 +626,7 @@
     {
      "t": "p",
      "c": [
-      "If you have lightweight items that can easily be recycled, donated, or disposed of through a free municipal program, consider handling those separately."
+      "If you have lightweight items that can easily be recycled where possible, donated, or disposed of through a free municipal program, consider handling those separately."
      ]
     },
     {
@@ -891,11 +885,6 @@
   {
    "blocks": [
     {
-     "t": "h",
-     "l": 2,
-     "text": "The Cheapest Junk Removal Option Isn’t Always the Lowest Quote"
-    },
-    {
      "t": "p",
      "c": [
       "This is important."
@@ -943,12 +932,6 @@
        ]
       },
       ", not just the starting price."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:taxNote}}. {{fact:pricingIntro.extra}}"
      ]
     }
    ]
@@ -1035,7 +1018,7 @@
      "c": [
       {
        "b": [
-        "Ask About Volume Pricing"
+        ""
        ]
       }
      ]
@@ -1195,12 +1178,6 @@
     {
      "t": "p",
      "c": [
-      "Saving money on junk removal isn’t necessarily about finding the cheapest company."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
       "It’s about ",
       {
        "b": [
@@ -1208,12 +1185,6 @@
        ]
       },
       "."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "Start by sorting your belongings."
      ]
     },
     {

@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Live in a village of a few thousand and you learn the pattern: the big-name services quote long waits, tack on travel fees, or quietly suggest you’re outside the area. Not here. Schomberg sits squarely on our regular routes — same flat volume pricing as the big cities, same same-day availability, same fully insured crew at your door with a free quote. The couch, the dead freezer, the garage’s slow accumulation: all of it gets city-grade service at the top of the hill."
+      "Live in a village of a few thousand and you learn the pattern: the big-name services quote long waits, tack on travel fees, or quietly suggest you’re outside the area. Not here. {{fact:changedScope}}. The couch, the dead freezer, the garage’s slow accumulation: all of it gets city-grade service at the top of the hill."
      ]
     },
     {
@@ -97,44 +97,14 @@
      "text": "The village's homes have real range: century houses along the historic Main Street, family streets grown around them, and rural properties stretching toward Nobleton and the King countryside. Live Junk Free serves every one at full strength — Google reviews across the region, plenty of them from small communities that expected second-tier service and got the opposite."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Same pricing as the city — to the dollar",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Truck volume sets the price and nothing else touches it. A Schomberg sofa pays what a Toronto sofa pays; a village garage clear prices like a suburban one."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Quoted at your door, like everywhere else we work",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "No photos-and-guesswork treatment because the address is small. A crew member looks at your actual items in your actual home and hands you one flat, free figure — with the same zero obligation attached."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One number carries the whole job",
-       "text": []
-      }
-     ]
+     "text": "No photos-and-guesswork treatment because the address is small."
     },
     {
      "t": "h",
@@ -142,44 +112,14 @@
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Whether the piece exits a heritage doorway or a farm mudroom, the price was finished before the work began."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Century homes handled like century homes",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Main Street's older houses come with narrow halls, steep stairs and trim worth protecting — and our crews work accordingly: runners down, corners padded, furniture dismantled rather than forced, original woodwork treated as irreplaceable. Because it is."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "No pressure — village manners, kept",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "The quote is free, holds without a deposit, and doesn't expire while you think it over at the pace this town prefers. Approve it and we start immediately; wave us off and we'll see you at the fair."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent and local",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -260,7 +200,7 @@
       {
        "title": "2. Point at What's Going",
        "text": [
-        "The sofa, the freezer, the corner of the garage — show us everything and get one flat, quote on the spot. Free either way."
+        "{{fact:changedScope}}. Free either way."
        ]
       },
       {
@@ -272,7 +212,7 @@
       {
        "title": "4. Tidied and Sent On Right",
        "text": [
-        "The cleared spot gets swept, and the load sorts onward — donation partners first for anything with life left, recyclers for metals and electronics, landfill only for the true remainder."
+        "The cleared spot gets, and the load sorts onward — donation partners first for anything with life left, recyclers for metals and electronics, landfill only for the true remainder."
        ]
       }
      ]
@@ -330,7 +270,7 @@
          "Stoves, ovens, dishwashers and microwaves"
         ],
         [
-         "Drained hot water tanks, pressure tanks and softeners"
+         ""
         ],
         [
          "Window ACs, dehumidifiers and space heaters"
@@ -347,7 +287,7 @@
          "Basement and cellar decluttering"
         ],
         [
-         "Shed and outbuilding sorting — rural properties welcome"
+         ""
         ],
         [
          "Attic and closet clears"
@@ -364,7 +304,7 @@
        "q": "The Big, Odd and Rural in Schomberg",
        "a": [
         [
-         "Hot tubs — drained, dismantled, hauled"
+         ""
         ],
         [
          "Pianos, pool tables and inherited oversized pieces"
@@ -382,7 +322,7 @@
          "Scrap metal, mowers, snowblowers and farm-edge accumulation"
         ],
         [
-         "Bed-bug-affected furniture — sealed on site, removed discreetly"
+         ""
         ]
        ]
       }
@@ -513,7 +453,7 @@
        "q": "Q: Do you actually service Schomberg, or is it \"extended area\" with fees?",
        "a": [
         [
-         "A: Actually, fully, weekly — no asterisk. Schomberg sits on our standard routes at our standard rates: volume-based pricing from {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), free at-the-door quotes, and same-day availability like anywhere else we work. Travel fees don’t exist in our pricing, here or anywhere."
+         "A: Actually, fully, weekly — no asterisk. Schomberg sits on our standard routes at our standard rates: volume-based pricing from {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), free at-the-door quotes, and same-day availability when available like anywhere else we work. Travel fees don’t exist in our pricing, here or anywhere."
         ]
        ]
       },

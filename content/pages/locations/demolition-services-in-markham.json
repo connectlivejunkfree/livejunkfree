@@ -121,7 +121,7 @@
       },
       {
        "n": "02",
-       "title": "One flat demolition price, no surprises once the crew's on site",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Structure size and material set the number at the walkthrough, and it doesn’t change once work starts — no discovery clauses, no line items appearing after the fact."
@@ -133,7 +133,7 @@
        "title": "Free demolition quotes, walked in person at the property",
        "text": [
         [
-         "A crew member sees the actual structure, notes anything that needs special handling, and gives one flat price before anything comes apart."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -173,11 +173,6 @@
     {
      "t": "eyebrow",
      "text": "DEMOLITION PRICING"
-    },
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Demolition Cost in Markham — One Flat Price From Live Junk Free"
     },
     {
      "t": "h",
@@ -262,15 +257,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get Your Free Demolition Quote",
-       "text": [
-        [
-         "The crew walks the structure and gives one flat price before touching anything."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Demolition Runs Clean and Controlled",
        "text": [
@@ -325,9 +311,6 @@
        "Above Ground Pool Demolition — frame, liner and decking torn down and hauled, older bungalow-belt installations handled with extra care"
       ],
       [
-       "Hot Tub Demolition — drained, disconnected and cut apart before removal"
-      ],
-      [
        "Jacuzzi Demolition — same process, any age of structure"
       ]
      ]
@@ -370,9 +353,6 @@
        "Garage Demolition — detached units taken down section by section"
       ],
       [
-       "Deck Demolition — wood and composite, footings addressed for an addition or rebuild"
-      ],
-      [
        "Fence Demolition — full runs or single sections"
       ],
       [
@@ -391,9 +371,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Concrete Demolition — patios, walkways and pads broken up and hauled, grading-conscious near ravine edges"
-      ],
       [
        "Flooring Demolition — old outdoor surfaces and bases removed"
       ],
@@ -673,7 +650,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {
@@ -992,7 +969,7 @@
        "q": "Where does the metal from a demolished pool or fence actually go?",
        "a": [
         [
-         "To recyclers, not a generic dump run. Documentation of what was recycled is available if your household wants the record. "
+         "To recyclers, not a generic dump run. Documentation of what was recycled where possible is available if your household wants the record. "
         ]
        ]
       },

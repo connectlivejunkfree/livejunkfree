@@ -301,23 +301,20 @@
        "Electronics and mattress removal"
       ],
       [
-       "Sorting and loading"
+       "Loading"
       ],
       [
        "Hauling"
       ],
       [
        "Responsible disposal"
-      ],
-      [
-       "Final sweeping"
       ]
      ]
     },
     {
      "t": "p",
      "c": [
-      "For large eviction cleanouts, apartment buildings, and multiple rental units, bulk and custom pricing may be available."
+      "{{fact:changedScope}}."
      ]
     },
     {
@@ -344,7 +341,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -400,15 +397,6 @@
        "text": [
         [
          "Select your preferred appointment. Same-day and next-day service may be available depending on scheduling, along with weekend and evening options."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "We Clear the Space & Sweep",
-       "text": [
-        [
-         "Our crew arrives, removes and loads the unwanted belongings, hauls everything away, and completes a final sweep and tidy-up of the cleared area."
         ]
        ]
       }
@@ -569,7 +557,7 @@
      "t": "ul",
      "items": [
       [
-       "For rental houses requiring a complete clearance, our house eviction cleanout services can cover unwanted contents throughout the property. This can include belongings located in bedrooms, living areas, kitchens, garages, and basements."
+       "For rental houses requiring a complete clearance, our house eviction cleanout services can cover unwanted contents throughout the property."
       ]
      ]
     }
@@ -1223,7 +1211,7 @@
        "q": "Do you clean the property after removing the junk?",
        "a": [
         [
-         "We tidy the area after the removal and sweep the space so it is left in a cleaner condition. Our goal is to leave the property ready for the next stage of the turnover process."
+         "We tidy the area after the removal so it is left in a cleaner condition. Our goal is to leave the property ready for the next stage of the turnover process."
         ]
        ]
       }

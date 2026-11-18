@@ -24,11 +24,6 @@
      "text": "Wall Demolition Services in the Greater Toronto Area"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "The wall comes down, the dust stays contained, the debris leaves with us."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -69,7 +64,7 @@
     {
      "t": "p",
      "c": [
-      "Our wall demolition crews handle that middle part completely. We take down interior partition walls, drywall and stud walls, brick and concrete block walls, and half-walls or bulkheads — using controlled, section-by-section methods with dust barriers protecting the rest of your home or business. When the wall is down, the same crew bags, bins, and hauls every scrap of debris, sweeps the site, and leaves you a clean opening ready for framing, flooring, or finishing. Homeowners, contractors, and business owners across the Greater Toronto Area start with a free quote and finish with the open space they pictured."
+      "Our wall demolition crews handle that middle part completely. {{fact:structuralDemolition}}. Homeowners, contractors, and business owners across the Greater Toronto Area start with a free quote and finish with the open space they pictured."
      ]
     },
     {
@@ -108,7 +103,7 @@
     {
      "t": "p",
      "c": [
-      "{{fact:propertyProtection}}. Before any cutting starts, we help confirm what’s inside the wall — checking for wiring, plumbing, and ductwork so live services are safely handled or capped by the right trade first. Then the wall comes down cleanly, the debris goes out in bins and bags, and the space is broom-swept for the next trade."
+      "{{fact:propertyProtection}}. Before any cutting starts, we help confirm what’s inside the wall — checking for wiring, plumbing, and ductwork so live services are safely handled or capped by the right trade first. Then the wall comes down cleanly, the debris goes out in bins and bags, and the space is for the next trade."
      ]
     },
     {
@@ -155,19 +150,13 @@
     {
      "t": "p",
      "c": [
-      "Not all walls come down the same way. A drywall partition is a few hours of cutting and prying; a double-brick wall is dense, dusty, and measured in tonnes; a concrete block wall demands demolition hammers and a methodical top-down approach. The common thread is that every wall produces far more debris than people expect — and that debris is heavy, sharp, and unwelcome at the curb."
+      "Not all walls come down the same way. {{fact:structuralDemolition}}. The common thread is that every wall produces far more debris than people expect — and that debris is heavy, sharp, and unwelcome at the curb."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Live Junk Free performs selective, controlled demolition across all of these: interior stud and drywall partitions, plaster and lath walls in older homes, brick and masonry walls, concrete block walls, closet walls, half-walls, and kitchen pass-through openings. We work in occupied homes, active businesses, and gutted renovation sites alike, adapting containment and scheduling so life and work around the demolition can continue."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:structuralDemolition}}. We’ll help you identify the signs, and where structural work is involved, we handle the demolition phase in coordination with your contractor or engineer rather than putting your home at risk. Honest scoping like this is exactly why contractors keep our number."
+      "{{fact:structuralDemolition}}. {{fact:structuralDemolition}}. Honest scoping like this is exactly why contractors keep our number."
      ]
     },
     {
@@ -180,10 +169,7 @@
      "t": "ul",
      "items": [
       [
-       "Contained, sectional teardown – Dust barriers up, services checked, and the wall removed in controlled stages"
-      ],
-      [
-       "Full debris removal – Drywall, brick, block, studs, and insulation bagged, hauled, and recycled where possible, with the site swept clean"
+       "Full debris removal – Drywall, brick, block, studs, and insulation bagged, hauled, and recycled where possible, with the site"
       ]
      ]
     },
@@ -212,11 +198,11 @@
       {
        "title": "Demo & Debris in One Price",
        "text": [
-        "Teardown, bagging, hauling, and sweep-up quoted together — no separate junk bill"
+        "Teardown, bagging, hauling quoted together — no separate junk bill"
        ]
       },
       {
-       "title": "Serious Dust Containment",
+       "title": "Serious Dust",
        "text": [
         "{{fact:propertyProtection}}"
        ]
@@ -225,12 +211,6 @@
        "title": "Utility-Aware Teardown",
        "text": [
         "Wiring, plumbing & ductwork identified before cutting, coordinated with your trades"
-       ]
-      },
-      {
-       "title": "",
-       "text": [
-        "Honest scoping, engineer & permit guidance — never a risky shortcut"
        ]
       },
       {
@@ -254,21 +234,16 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Our Wall Demolition Process from Protection to Broom-Swept Handoff"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Demolition Sectional, Contained & Predictable"
+     "text": "Our Wall Demolition Process from Protection to Handoff"
     },
     {
      "t": "ul",
      "items": [
       [
-       "Every job starts with protection: plastic containment around the work zone, sealed doorways, covered floors along the exit path, and confirmation that electrical, plumbing, and HVAC in the wall are dead, rerouted, or capped. Teardown then runs top-down and section by section — drywall and finishes first, then studs or masonry courses — so nothing falls uncontrolled."
+       "Teardown then runs top-down and section by section — drywall and finishes first, then studs or masonry courses — so nothing falls uncontrolled."
       ],
       [
-       "Debris is bagged and binned as it comes down rather than piled, and the visit ends with a swept, vacuumed opening and a walkthrough — a site your next trade can start on the same day."
+       "Debris is bagged and binned as it comes down rather than piled, and the visit ends with a, vacuumed opening and a walkthrough — a site your next trade can start on the same day, subject to availability."
       ]
      ]
     },
@@ -329,9 +304,6 @@
        "Free Assessments – Photos plus wall dimensions, or a quick site visit, produce a firm written figure"
       ],
       [
-       "Everything Included – Containment, labour, teardown, debris hauling, recycling, and cleanup in one number"
-      ],
-      [
        "Multi-Wall & Project Rates – Removing several partitions or pairing with floor demolition lowers the combined price"
       ]
      ]
@@ -361,9 +333,6 @@
        "Brick & Masonry Interior Walls"
       ],
       [
-       "Concrete & Cinder Block Walls"
-      ],
-      [
        "Half-Walls, Closet Walls & Kitchen Pass-Throughs"
       ]
      ]
@@ -389,19 +358,13 @@
       {
        "title": "Approve a Written Demo Quote",
        "text": [
-        "One fixed price covering containment, teardown, debris haul-away, and cleanup — with honest flags on anything structural."
+        "{{fact:structuralDemolition}}."
        ]
       },
       {
        "title": "Set Your Demolition Date",
        "text": [
         "Pick a same-week or project-timed slot; we coordinate with your contractor, electrician, or plumber as needed."
-       ]
-      },
-      {
-       "title": "Walk Into the Open Space",
-       "text": [
-        "The crew contains, cuts, drops, hauls, and sweeps — handing you a clean opening ready for the next stage."
        ]
       }
      ]
@@ -455,18 +418,10 @@
        ]
       },
       {
-       "q": "3) How do you keep dust out of the rest of the house?",
-       "a": [
-        [
-         "With genuine containment, not just a dropcloth. {{fact:propertyProtection}}. Most clients are surprised the rest of the home stays livable throughout."
-        ]
-       ]
-      },
-      {
        "q": "4) Do you remove brick and concrete walls or just drywall?",
        "a": [
         [
-         "Both, and everything between. Our crews demolish drywall and stud partitions, plaster and lath, double-brick walls, and concrete block using the appropriate tools for each — from reciprocating saws to demolition hammers. Masonry jobs produce heavy rubble, and hauling every kilogram of it is part of our standard scope."
+         "Both, and everything between. {{fact:equipmentScope}}. Masonry jobs produce heavy rubble, and hauling every kilogram of it is part of our standard scope."
         ]
        ]
       },
@@ -474,7 +429,7 @@
        "q": "5) Is debris removal included in the price?",
        "a": [
         [
-         "Always. Unlike demo-only crews that leave you with a room full of rubble, our written quote covers containment, teardown, bagging, hauling, recycling of drywall, metal, and masonry where facilities allow, and a broom-swept finish — one number, start to done."
+         "Always."
         ]
        ]
       }
@@ -597,12 +552,6 @@
      "text": "Common Questions About Wall Demolition Services"
     },
     {
-     "t": "p",
-     "c": [
-      "{{fact:structuralDemolition}}."
-     ]
-    },
-    {
      "t": "faq",
      "items": [
       {
@@ -612,19 +561,19 @@
          "1. {{fact:structuralDemolition}}."
         ],
         [
-         "{{fact:structuralDemolition}}. The wall’s position, framing, joists, beams, roof structure, and the layout of the home all matter. A qualified contractor or structural professional can assess the wall before demolition."
+         "{{fact:structuralDemolition}}. The wall’s position, framing, joists, beams, roof structure, and the layout of the home all matter. {{fact:structuralDemolition}}."
         ],
         [
-         "2. Do I need a structural engineer to inspect the wall before tearing it down?"
+         "2. {{fact:structuralDemolition}}."
         ],
         [
-         "{{fact:structuralDemolition}}. An engineer can determine how the load is supported and specify the appropriate beam, posts, or other structural solution."
+         "{{fact:structuralDemolition}}. {{fact:structuralDemolition}}."
         ],
         [
          "3. {{fact:structuralDemolition}}."
         ],
         [
-         "{{fact:structuralDemolition}}. If a wall is accidentally removed, work should stop and a qualified structural professional should assess the property and determine the required temporary and permanent support."
+         "{{fact:structuralDemolition}}. {{fact:structuralDemolition}}."
         ],
         [
          "4. {{fact:structuralDemolition}}."
@@ -648,7 +597,7 @@
          "7. {{fact:structuralDemolition}}."
         ],
         [
-         "The cost depends on the beam size and material, span, structural loads, number of support posts, engineering requirements, permits, and installation complexity. {{fact:structuralDemolition}}."
+         "{{fact:permits}}"
         ],
         [
          "8. Does the demolition quote include hauling away drywall, studs, and plaster debris?"
@@ -663,7 +612,7 @@
          "Additional costs can arise from repairing the ceiling, flooring, drywall edges, electrical wiring, plumbing, HVAC systems, trim, and other finishes exposed when a wall is removed. {{fact:structuralDemolition}}."
         ],
         [
-         "10. Is it more expensive to demolish a brick or concrete block wall than a standard drywall partition?"
+         "10. {{fact:structuralDemolition}}."
         ],
         [
          "Usually, yes. Brick and concrete block are heavier and harder to dismantle than drywall and wood framing. Masonry demolition can require specialized cutting or breaking equipment, additional labour, stronger debris-handling methods, and more hauling."
@@ -696,7 +645,7 @@
          "15. What specialized tools are used for wall demolition?"
         ],
         [
-         "The tools depend on the wall material and project. Crews may use reciprocating saws, pry bars, drills, sledgehammers, drywall tools, concrete or masonry cutters, and other specialized demolition equipment. {{fact:structuralDemolition}}."
+         "The tools depend on the wall material and project. {{fact:equipmentScope}}."
         ],
         [
          "16. How long does it typically take to demolish an interior wall and install a replacement header beam?"
@@ -708,22 +657,22 @@
          "17. Will removing a wall cause sagging or cracking in the ceiling or rooms upstairs?"
         ],
         [
-         "It can if the wall provides structural support and is removed without an appropriate replacement. {{fact:structuralDemolition}}. Proper assessment and structural planning help reduce these risks."
+         "{{fact:structuralDemolition}}."
         ],
         [
          "18. Can an exterior wall be demolished to add a large glass sliding door or window expansion?"
         ],
         [
-         "Yes, but removing part of an exterior wall is a structural renovation rather than simple interior demolition. The opening may require an engineered header or beam, proper support, weatherproofing, insulation, and permits. A qualified structural professional should determine the required design."
+         "{{fact:structuralDemolition}}."
         ],
         [
-         "19. Do I need a building permit from my local city or county to remove an interior wall?"
+         "19. {{fact:permits}}"
         ],
         [
-         "Permit requirements depend on the municipality and whether the wall affects the building’s structure, electrical, plumbing, HVAC, fire separation, or other regulated systems. {{fact:structuralDemolition}}. Confirm local requirements before demolition."
+         "{{fact:permits}} Confirm local requirements before demolition."
         ],
         [
-         "20. Will my homeowners insurance cover damage if a wall demolition causes structural cracking?"
+         "20. {{fact:structuralDemolition}}."
         ],
         [
          "Home insurance coverage varies according to the policy and circumstances. Damage resulting from unauthorized or improper renovations may not be covered in the same way as unexpected accidental damage."
@@ -747,13 +696,13 @@
          "23. {{fact:structuralDemolition}}."
         ],
         [
-         "{{fact:structuralDemolition}}. If there is any uncertainty about the wall’s structural role or utilities, professional assessment is the safer option."
+         "{{fact:structuralDemolition}}. {{fact:structuralDemolition}}."
         ],
         [
          "24. What are the most common mistakes homeowners make when attempting to tear down their own walls?"
         ],
         [
-         "{{fact:structuralDemolition}}. Another common mistake is starting demolition before checking local permit requirements."
+         "{{fact:structuralDemolition}}. {{fact:permits}}"
         ]
        ]
       }

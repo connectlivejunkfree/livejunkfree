@@ -63,7 +63,7 @@
        "Health and Safety Risks: Clutter can harbor mold, dust mites, and pests. It can also block electrical panels, HVAC systems, and create serious trip hazards."
       ],
       [
-       "Financial Drain: You may be paying for off-site storage units while your own basement sits packed with items you don’t use."
+       "{{fact:utilityDisconnection}}"
       ]
      ]
     },
@@ -101,7 +101,7 @@
       {
        "br": 1
       },
-      "A full basement cleanout is not a one-afternoon task. Block out a weekend or plan to tackle it over several scheduled sessions. For extensive projects, consider splitting the work: one weekend for sorting, another for removal and organization."
+      "A full basement cleanout is not a one-afternoon task. Block out a weekend or plan to tackle it over several scheduled sessions, subject to scheduling. For extensive projects, consider splitting the work: one weekend for another for removal and organization, subject to scheduling."
      ]
     },
     {
@@ -148,7 +148,7 @@
     {
      "t": "p",
      "c": [
-      "Implement the Four-Box Sorting Method:",
+      "",
       {
        "br": 1
       },
@@ -202,7 +202,7 @@
     {
      "t": "p",
      "c": [
-      "If the answers are “no,” it’s time to let it go. This decisive sorting is the most critical step in a transformative basement cleanout."
+      "If the answers are “no,” it’s time to let it go. {{fact:cleanupScope}}."
      ]
     },
     {
@@ -226,13 +226,10 @@
      "t": "ul",
      "items": [
       [
-       "Sweep and vacuum all floors, corners, and storage shelves thoroughly."
-      ],
-      [
        "Wipe down walls, baseboards, and any remaining shelving."
       ],
       [
-       "Check for signs of moisture, mold, pests, or structural issues. Addressing these problems now is crucial before you invest in new uses for the space."
+       "{{fact:structuralDemolition}}. Addressing these problems now is crucial before you invest in new uses for the space."
       ],
       [
        "Improve lighting; a bright space feels more inviting and usable."
@@ -247,7 +244,7 @@
     {
      "t": "p",
      "c": [
-      "You are now left with the physical results of your sorting: piles of trash, recyclables, and donations. This is the stage where many basement cleanout projects stall due to the sheer volume and effort of removal."
+      "{{fact:cleanupScope}}. This is the stage where many basement cleanout projects stall due to the sheer volume and effort of removal."
      ]
     },
     {
@@ -273,7 +270,7 @@
     {
      "t": "p",
      "c": [
-      "Hiring a professional service like Live Junk Free is the most effective way to complete your project. We handle the heavy lifting, loading, and responsible disposal of all your unwanted items in one visit. We sort for donations and recycling, ensuring your basement cleanout is not only thorough but also environmentally responsible."
+      "Hiring a professional service like Live Junk Free is the most effective way to complete your project. We handle the heavy lifting, loading, and responsible disposal of all your unwanted items. We sort for donations and recycling, ensuring your basement cleanout is not only thorough but also environmentally responsible."
      ]
     }
    ]
@@ -307,10 +304,10 @@
        "Our insured, professional team handles all the loading and heavy lifting, navigating tight stairwells and protecting your home."
       ],
       [
-       "We ensure items are disposed of responsibly, with donations to local GTA charities and proper recycling."
+       "{{fact:recycling}}"
       ],
       [
-       "We leave your basement empty, swept, and ready for its next chapter."
+       "We leave your basement empty, and ready for its next chapter."
       ]
      ]
     },

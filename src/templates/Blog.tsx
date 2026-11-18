@@ -43,7 +43,7 @@ export function postCards(): PostCard[] {
   return blogPosts().map((p) => ({
     href: p.path,
     title: p.doc.title,
-    excerpt: shortExcerpt(p.doc.excerpt ?? ""),
+    excerpt: shortExcerpt(resolvePrices(p.doc.excerpt ?? "")),
     date: p.doc.published,
     dateLabel: fmtDate(p.doc.published),
     minutes: readingTime(p.doc),

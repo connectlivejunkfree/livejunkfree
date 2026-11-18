@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "On Lake Simcoe, business runs by the season — and junk piles up between them. Our commercial junk removal services in Georgina clear marinas, main-street shops, resorts and rental properties in a single visit: insured crew, free flat-rate quote at your door, all lifting done by us, with same-day junk pickup available across Keswick, Sutton, Pefferlaw and beyond."
+     "text": "On Lake Simcoe, business runs by the season — and junk piles up between them."
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Georgina’s business calendar doesn’t look like the city’s — marinas flip from boat season to ice-hut season, resorts refresh between summer bookings, and Keswick’s Queensway strip restocks while the lake freezes. Junk removal here has to move with that rhythm, and the Google reviews behind Live Junk Free show ours does. Owners from Sutton’s Dalton Road to the Pefferlaw sideroads describe the same pattern: a flat junk removal quote written on site that never crept, a crew that found the property on the first try, and a space cleared in the off-season window before the next rush arrived."
+      "Georgina’s business calendar doesn’t look like the city’s — marinas flip from boat season to ice-hut season, resorts refresh between summer bookings, and Keswick’s Queensway strip restocks while the lake freezes. Junk removal here has to move with that rhythm, and the Google reviews behind Live Junk Free show ours does. {{fact:changedScope}}."
      ]
     },
     {
@@ -133,7 +133,7 @@
        "title": "Our junk hauling crew carries it all — docks to driveway included",
        "text": [
         [
-         "Georgina junk is rarely sitting curbside; it’s in the boathouse, behind the bait shop, up the resort stairs. Every carry — long, steep or sandy — comes standard inside the flat rate, handled entirely by our junk removal crew while you and your staff stay on the season’s real work."
+         "Georgina junk is rarely sitting curbside; it’s in the boathouse, behind the bait shop, up the resort stairs. {{fact:changedScope}}."
         ]
        ]
       },
@@ -281,10 +281,10 @@
       },
       {
        "n": "04",
-       "title": "Swept Space, Sorted Junk Disposal, Ready for the Season",
+       "title": "Space, Sorted Junk Disposal, Ready for the Season",
        "text": [
         [
-         "Every Georgina job ends broom-swept, with disposal paperwork on request. The truckload then splits properly: donation partners take the usable, licensed recyclers take metals, appliances and e-waste, and landfill gets only the true remainder."
+         "Every Georgina job ends, with disposal paperwork on request. The truckload then splits properly: donation partners take the usable, licensed recyclers take metals, appliances and e-waste, and landfill gets only the true remainder."
         ]
        ]
       }
@@ -337,7 +337,7 @@
        "Clubhouse and yacht club furniture and fixture removal"
       ],
       [
-       "Scrap metal, old motors and marine e-waste responsibly recycled"
+       "Scrap metal, old motors and marine e-waste responsibly recycled where possible"
       ]
      ]
     },
@@ -425,7 +425,7 @@
        "Recurring scheduled junk pickups for landlords and portfolios"
       ],
       [
-       "Multi-truck capacity for the biggest clearances"
+       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -709,7 +709,7 @@
        "q": "Do you really service the whole township — Pefferlaw, Udora, Willow Beach?",
        "a": [
         [
-         "Every community, every concession, at the same flat volume rates. Georgina’s far corners sit on the same daily routes as Keswick’s Queensway; nobody pays a distance premium and nobody waits longer because their address ends in a rural route number."
+         "{{fact:changedScope}}. Georgina’s far corners sit on the same daily routes as Keswick’s Queensway; nobody pays a distance premium and nobody waits longer because their address ends in a rural route number."
         ]
        ]
       },
@@ -717,7 +717,7 @@
        "q": "Can you clear a marina or waterfront property?",
        "a": [
         [
-         "It’s a specialty. Boathouse lofts, dock hardware, retired cradles, ice-hut fleets and clubhouse furniture all haul at standard volume pricing, with crews used to ramps, docksides and sandy carries. We time marina junk removal to your docks-in/docks-out calendar so the work never touches peak season."
+         "It’s a specialty. {{fact:changedScope}}. We time marina junk removal to your docks-in/docks-out calendar so the work never touches peak season."
         ]
        ]
       },
@@ -749,7 +749,7 @@
        "q": "Can Georgina landlords and marina operators book recurring junk removal?",
        "a": [
         [
-         "Yes — seasonal businesses are our steadiest repeat clients precisely because the junk returns every year on schedule. Spring and fall standing bookings, monthly service or per-turnover calls all run at unchanged volume rates on one consolidated invoice."
+         "Yes — seasonal businesses are our steadiest repeat clients precisely because the junk returns every year on schedule. {{fact:changedScope}}."
         ]
        ]
       },
@@ -757,7 +757,7 @@
        "q": "Why are your junk removal rates",
        "a": [
         [
-         "No franchise royalties and no remote-zone markup — the two padding layers national brands build into Georgina quotes. We’re local and independent: same trucks, same insurance, same-day capability, structurally lower price, subject to scheduling."
+         "{{fact:propertyProtection}}. We’re local and independent: same trucks, same insurance, same-day capability, structurally lower price, subject to scheduling."
         ]
        ]
       }

@@ -86,7 +86,7 @@
         "Live Junk Free"
        ]
       },
-      " handles the complete job from disassembly through to disposal — safely, quickly, and without you lifting anything. We’re available same-day or next-day across Toronto, give you an upfront price before we start, and dispose of everything responsibly, recycling and donating wherever possible."
+      " handles the complete job from disassembly through to disposal — safely, quickly, and without you lifting anything. We’re available same-day or next-day across Toronto, give you an upfront price before we start, and dispose of everything responsibly, recycling and donating wherever possible, subject to availability."
      ]
     },
     {
@@ -171,10 +171,10 @@
      "c": [
       {
        "b": [
-        "Same-day and next-day availability across Toronto."
+        "Availability across Toronto."
        ]
       },
-      " Whether you’re in Scarborough, North York, or East York, we can often be at your property the same day you call. Playset removal doesn’t need to sit on a three-week waitlist — call us in the morning and it can be done by the afternoon."
+      " Whether you’re in Scarborough, North York, or East York, we can often be at your property the same day you call, subject to availability. Playset removal doesn’t need to sit on a three-week waitlist — call us in the morning and it can be done by the afternoon."
      ]
     },
     {
@@ -206,7 +206,7 @@
     {
      "t": "p",
      "c": [
-      "Playset removal pricing varies — and any company that quotes you a flat number before seeing your structure should raise a flag. Here’s how our pricing actually works, transparently and simply."
+      "{{fact:changedScope}}. Here’s how our pricing actually works, transparently and simply."
      ]
     },
     {
@@ -291,25 +291,14 @@
       {
        "title": "Eco-Friendly Disposal",
        "text": [
-        "We protect your home during removal with padding and careful handling"
+        "{{fact:propertyProtection}}"
        ]
       }
      ]
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "Careful Removal"
-    },
-    {
      "t": "cards",
      "items": [
-      {
-       "title": "Bulk Removal Options",
-       "text": [
-        "Special rates when clearing multiple pieces of furniture"
-       ]
-      },
       {
        "title": "Stress-Free Pickup Service",
        "text": [
@@ -335,7 +324,7 @@
         "Book today, cleared today"
        ]
       },
-      " Same-day and next-day availability across ",
+      " Availability across ",
       {
        "a": "/locations/toronto/",
        "c": [
@@ -361,7 +350,7 @@
      "c": [
       {
        "b": [
-        "Materials sorted and recycled"
+        "Materials sorted and recycled where possible"
        ]
       },
       " Wood, metal, and plastic components from your playset are sorted and sent to appropriate recycling and recovery destinations. We keep the landfill as a last resort."
@@ -372,7 +361,7 @@
      "c": [
       {
        "b": [
-        "Your backyard stays intact"
+        ""
        ]
       },
       " Garden beds, lawn, and fencing stay exactly as they are. We work carefully through the removal process to avoid collateral damage to your property."
@@ -575,19 +564,19 @@
       {
        "title": "Our Team Arrives On Time",
        "text": [
-        "We call 30 minutes before showing up so you're never left waiting. Our crew arrives on schedule, confirms your quote on the spot, and gets straight to work."
+        "We call 30 minutes before showing up so you're never left waiting. Our crew arrives on schedule, confirms your quote at the onsite estimate, and gets straight to work."
        ]
       },
       {
        "title": "Playset Removal Carefully",
        "text": [
-        "We remove everything — carrying items out through whatever access works best for the building — and leave the unit swept and ready for the next stage of your turnover."
+        "We remove everything — carrying items out through whatever access works best for the building — and leave the unit and ready for the next stage of your turnover."
        ]
       },
       {
        "title": "Responsible Disposal, Every Time",
        "text": [
-        "Usable pieces get donated to local Toronto charities. Everything else goes to recycling facilities. We keep as much out of landfill as possible."
+        "Everything else goes to recycling facilities. We keep as much out of landfill as possible."
        ]
       }
      ]
@@ -595,12 +584,12 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Your backyard before and after — the difference one visit makes"
+     "text": "{{fact:pickupTimes}}"
     },
     {
      "t": "p",
      "c": [
-      "A weathered playset doesn’t just take up space — it changes how you see and use your entire backyard. Take a look at what our Toronto crew has cleared away, from large multi-level wooden structures to rusted metal swing sets, and the open, usable yard that was waiting underneath. One visit recovers a space you’d forgotten you had."
+      "A weathered playset doesn’t just take up space — it changes how you see and use your entire backyard. Take a look at what our Toronto crew has cleared away, from large multi-level wooden structures to rusted metal swing sets, and the open, usable yard that was waiting underneath. {{fact:scheduling}}"
      ]
     },
     {
@@ -680,7 +669,7 @@
        "q": "Q: Do you offer same-day playset removal in Toronto?",
        "a": [
         [
-         "A: In most cases, yes. We cover all of Toronto including North York, Scarborough, Etobicoke, East York, and Midtown. Call us early in the day for the best chance at same-day availability — we’ll confirm a slot right away. Next-day booking is available as well if same-day doesn’t work for your schedule."
+         "A: In most cases, yes. We cover all of Toronto including North York, Scarborough, Etobicoke, East York, and Midtown. Call us early in the day for the best chance at same-day availability when available — we’ll confirm a slot right away. Next-day booking may be available as well if same-day doesn’t work for your schedule."
         ]
        ]
       },

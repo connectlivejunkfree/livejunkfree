@@ -24,11 +24,6 @@
      "text": "Hoarding Cleanouts in Whitby from Live Junk Free"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "Hoarding cleanouts in Whitby from Live Junk Free are handled privately, without judgment, and with real care for everyone sharing the home — a free confidential quote, an experienced crew, and donation-first sorting throughout."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -160,7 +155,7 @@
        "title": "Free on-site quotes, with an honest cost to clean out a hoarder's house",
        "text": [
         [
-         "A crew member walks the property, sees the real scope, and gives one flat number before anything moves — no guessing from a phone description, and once the work is underway."
+         "{{fact:changedScope}}."
         ]
        ]
       }
@@ -187,7 +182,7 @@
     {
      "t": "p",
      "c": [
-      "Hoarder clean out cost depends on the volume of belongings, how many rooms or structures are affected, and how much sorting and donation coordination is involved — a single room is a modest job, a full property with a garage or outbuilding costs more given the time required. The figure is confirmed at a free, no-obligation walkthrough, whatever the household looks like."
+      "Hoarder clean out cost depends on the volume of belongings, how many rooms or structures are affected, and how much donation coordination is involved — a single room is a modest job, a full property with a garage or outbuilding costs more given the time required. The figure is confirmed at a free, no-obligation walkthrough, whatever the household looks like."
      ]
     },
     {
@@ -214,7 +209,7 @@
     {
      "t": "p",
      "c": [
-      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -256,15 +251,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Your Hoarding Cleanout Quote — A Respectful Walkthrough, One Flat Price",
-       "text": [
-        [
-         "A crew member visits, sees the actual scope, and provides one flat price — with unmarked arrival if that’s preferred, and the household’s realities (kids, pets, a resident’s own pace) factored into the plan."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Hoarding Cleanout Runs Methodically, Room by Room",
        "text": [
@@ -275,10 +261,10 @@
       },
       {
        "n": "04",
-       "title": "Hoarding Cleanout Complete — the Space Left Clean and Livable",
+       "title": "Careful Removal",
        "text": [
         [
-         "Debris is hauled the same visit where possible, donations go to local partners, and the space is left swept and safe — with follow-up visits available if the job needs to happen in stages."
+         "Debris is hauled the same visit where possible, donations go to local partners, and the space is left and safe — with follow-up visits available if the job needs to happen in stages."
         ]
        ]
       }
@@ -368,9 +354,6 @@
       ],
       [
        "Crews accustomed to working calmly around rural and farm properties"
-      ],
-      [
-       "Salvage and donation-first sorting maintained throughout"
       ]
      ]
     },
@@ -993,7 +976,7 @@
        "q": "What's the cost to clean out a hoarder's house in Whitby?",
        "a": [
         [
-         "Hoarder clean out cost depends on the volume of belongings, the number of rooms or structures affected, and how much sorting is involved — a single room prices modestly, a full property with a garage or outbuilding costs more given the time required. The exact figure is confirmed free at a private walkthrough."
+         "{{fact:cleanupScope}}. The exact figure is confirmed free at a private walkthrough."
         ]
        ]
       },

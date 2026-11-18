@@ -144,7 +144,7 @@
       },
       {
        "n": "04",
-       "title": "Multi-Room Eviction Property Cleanouts",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Tenant belongings are not always concentrated in one room. When included in the agreed scope, we can work through multiple rooms and supporting areas so landlords don’t have to arrange several separate pickups."
@@ -156,7 +156,7 @@
        "title": "Responsible Eviction Junk Disposal",
        "text": [
         [
-         "We sort accepted materials where possible instead of treating everything as landfill waste. Furniture, metals and electronics may be recycled, while usable goods may be directed toward donation opportunities."
+         "We sort accepted materials where possible instead of treating everything as landfill waste. Furniture, metals and electronics may be recycled where possible, while usable goods may be directed toward donation opportunities."
         ]
        ]
       },
@@ -165,7 +165,7 @@
        "title": "Insured Brampton Eviction Cleanout Crew",
        "text": [
         [
-         "Heavy furniture, appliances and mattresses can make an eviction cleanout physically demanding. Our insured crew takes care of the lifting, loading, hauling and final sweep so property owners can avoid doing the work themselves."
+         "Heavy furniture, appliances and mattresses can make an eviction cleanout physically demanding. {{fact:cleanupScope}}."
         ]
        ]
       }
@@ -276,7 +276,7 @@
     {
      "t": "p",
      "c": [
-      "A one-bedroom apartment will have different requirements from a full detached house or a larger multi-unit project."
+      "{{fact:changedScope}}."
      ]
     },
     {
@@ -288,8 +288,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -309,7 +308,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -365,15 +364,6 @@
        "text": [
         [
          "Choose an available appointment that fits your property timeline. Same-day or next-day service may be available depending on scheduling."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "We Remove, Haul & Sweep",
-       "text": [
-        [
-         "Our crew removes the agreed items, loads them for hauling and completes a final sweep of the cleared areas."
         ]
        ]
       }
@@ -564,7 +554,7 @@
      "t": "ul",
      "items": [
       [
-       "The smaller leftovers can take just as much time to deal with as the large items. We remove accepted mattresses, clothing, trash, recyclables, yard waste and debris, followed by a final sweep of the cleared areas."
+       "The smaller leftovers can take just as much time to deal with as the large items. {{fact:cleanupScope}}."
       ]
      ]
     }
@@ -1164,7 +1154,7 @@
        "q": "What items can be removed during an eviction cleanout?",
        "a": [
         [
-         "Depending on the property and the type of material, a cleanout may include unwanted furniture, mattresses, appliances, boxes, household items, electronics, garbage, and general debris. Brampton’s guidance on garbage and debris specifically includes discarded furniture, appliances, machinery, barbeques, and other unwanted materials."
+         "Depending on the property and the type of material, a cleanout may include unwanted furniture, mattresses, appliances, boxes, household items, electronics, garbage, and general debris. {{fact:equipmentScope}}."
         ]
        ]
       },

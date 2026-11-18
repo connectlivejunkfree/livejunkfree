@@ -180,7 +180,7 @@
       {
        "title": "Protecting Valuable Structures",
        "text": [
-        "Walls, flooring, electrical systems, plumbing, and structural components that remain in good condition can often be preserved."
+        "{{fact:structuralDemolition}}."
        ]
       },
       {
@@ -288,12 +288,6 @@
     {
      "t": "p",
      "c": [
-      ""
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
       "Professional planning ensures that surrounding structures remain safe."
      ]
     },
@@ -391,9 +385,6 @@
       ],
       [
        "Hidden wiring"
-      ],
-      [
-       "Unexpected structural issues"
       ]
      ]
     },
@@ -538,7 +529,7 @@
      "t": "ul",
      "items": [
       [
-       "Recycled"
+       "Recycled Where Possible"
       ],
       [
        "Salvaged"
@@ -589,12 +580,6 @@
      "items": [
       [
        "Removing debris"
-      ],
-      [
-       "Sweeping and cleaning work areas"
-      ],
-      [
-       "Sorting recyclable materials"
       ],
       [
        "Preparing surfaces for contractors"

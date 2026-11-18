@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/07/Safe-Removal-Services.jpeg"
  },
  "title": "Safe Removal Services",
- "h1": "Most Trusted Safe Removal Service in Your Area",
+ "h1": "Safe Removal Service in Your Area",
  "published": "2026-07-10T08:44:32",
  "modified": "2026-07-23T08:15:16",
  "sections": [
@@ -21,12 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Most Trusted Safe Removal Service in Your Area"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in town."
+     "text": "Safe Removal Service in Your Area"
     },
     {
      "t": "ctas",
@@ -144,7 +139,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Safe Removal Available"
+     "text": "Same-Day Safe Removal may be available"
     },
     {
      "t": "p",
@@ -183,7 +178,7 @@
      "c": [
       {
        "b": [
-        "Need Safe Removal Soon? Same-Day Service Available"
+        "Need Safe Removal Soon? Same-Day Service may be available"
        ]
       }
      ]
@@ -215,13 +210,13 @@
       {
        "title": "Save on Big Projects",
        "text": [
-        "Clearing construction sites or multiple properties? We offer special rates for bulk Safe removal and regular service contracts."
+        "Clearing construction sites or multiple properties? {{fact:changedScope}}."
        ]
       },
       {
        "title": "Book",
        "text": [
-        "Get on our schedule instantly online or by phone – no complicated estimates or waiting periods."
+        "Get on our schedule online or by phone – no complicated estimates or waiting periods."
        ]
       },
       {
@@ -231,7 +226,7 @@
        ]
       },
       {
-       "title": "5-Star Rated Service",
+       "title": "Service",
        "text": [
         "Consistently excellent reviews for reliability and eco-friendly practices"
        ]
@@ -313,13 +308,7 @@
      "t": "ul",
      "items": [
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Free estimates via phone/text/email"
-      ],
-      [
-       "Discounted rates for large removals"
       ]
      ]
     }
@@ -404,12 +393,6 @@
        ]
       },
       {
-       "title": "Get a Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
-      {
        "title": "Pick Your Time",
        "text": [
         "Choose same-day or next-day pickup when available, whatever suits your schedule."
@@ -491,7 +474,7 @@
        "q": "4. Can you do a same-day safe removal?",
        "a": [
         [
-         "Yes, we offer same-day and emergency safe removal when available."
+         "{{fact:pickupTimes}}"
         ]
        ]
       },

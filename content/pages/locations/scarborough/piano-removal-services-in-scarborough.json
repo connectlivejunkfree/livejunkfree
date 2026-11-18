@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Piano Removal Services in Scarborough from Live Junk Free cover more ground than most cities need — decades-old uprights in the postwar bungalow belt, condo suites rising near Golden Mile and STC, and family homes where the piano belongs to more than one generation under the same roof. Same crew, same flat price, whichever version shows up."
+     "text": "Piano Removal Services in Scarborough from Live Junk Free cover more ground than most cities need — decades-old uprights in the postwar bungalow belt, condo suites rising near Golden Mile and STC, and family homes where the piano belongs to more than one generation under the same roof."
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Few places in the GTA pack in as much genuine variety as Scarborough does. Through Agincourt, Woburn, Cedarbrae and Malvern, it’s usually a piano original to a sixties or seventies bungalow, sitting in the same corner it’s occupied for decades — an instrument that’s aged right alongside the house, with hardware and hinges that need real patience rather than force. Near Golden Mile and Scarborough Town Centre, it’s an entirely different problem: a condo suite, freight elevators, building rules that need sorting before a crew ever shows up. And in the city’s many multigenerational homes, it’s often a piano that belongs to the household rather than to any one person in it — grandparents who bought it, kids who learned on it, a family working out together when it’s time for it to go. Live Junk Free treats all three as the same underlying job, handled with whichever specific care each one actually calls for."
+      "Few places in the GTA pack in as much genuine variety as Scarborough does. Through Agincourt, Woburn, Cedarbrae and Malvern, it’s usually a piano original to a sixties or seventies bungalow, sitting in the same corner it’s occupied for decades — an instrument that’s aged right alongside the house, with hardware and hinges that need real patience rather than force. {{fact:cleanupScope}}. And in the city’s many multigenerational homes, it’s often a piano that belongs to the household rather than to any one person in it — grandparents who bought it, kids who learned on it, a family working out together when it’s time for it to go. Live Junk Free treats all three as the same underlying job, handled with whichever specific care each one actually calls for."
      ]
     },
     {
@@ -131,7 +131,7 @@
       },
       {
        "n": "02",
-       "title": "One flat price, whatever decade the piano is from",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Size and type set the number, confirmed on site — a piano that’s fifty years old prices exactly the same as one that arrived recently."
@@ -330,13 +330,10 @@
        "Coordination with your renovation contractor's timeline"
       ],
       [
-       "Donation-first checks before any piano is recycled"
+       "Donation-first checks before any piano is recycled where possible"
       ],
       [
        "Full room cleanouts alongside the piano removal, on request"
-      ],
-      [
-       "Same flat pricing whatever the instrument's age"
       ]
      ]
     },
@@ -391,12 +388,6 @@
       ],
       [
        "Household routine and privacy protected around the work"
-      ],
-      [
-       "Same flat pricing whatever the household size"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
       ]
      ]
     },
@@ -852,7 +843,7 @@
        "q": "Do you charge extra for stairs?",
        "a": [
         [
-         "No. Narrow staircases and multi-floor moves are factored into one flat quote at the walkthrough."
+         "No. {{fact:changedScope}}."
         ]
        ]
       },

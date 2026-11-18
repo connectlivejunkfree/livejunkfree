@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Houses in Bradford’s newer subdivisions don’t sit still for long, and neither do the structures in the yards behind them. Across Summerlyn and the streets rising around it, it’s the town’s most common demolition job: a builder-grade above ground pool or a basic deck that came with a five-year-old house, torn down because the family growing into that home wants something bigger or better. Along Holland Street and the older mid-town blocks, it’s the more familiar version — a shed, fence or garage that’s finally past its useful life. Out in Bond Head and the rural west, it’s larger farm structures and fence lines, cleared with the same flat pricing as anything in town. And on the Marsh-edge properties, it’s outbuildings and greenhouse-adjacent structures retired as an operation changes or expands. The Google reviews behind Live Junk Free describe the same result across all of it — the old structure gone, room made for whatever the family’s actually planning next."
+      "Houses in Bradford’s newer subdivisions don’t sit still for long, and neither do the structures in the yards behind them. Across Summerlyn and the streets rising around it, it’s the town’s most common demolition job: a builder-grade above ground pool or a basic deck that came with a five-year-old house, torn down because the family growing into that home wants something bigger or better. Along Holland Street and the older mid-town blocks, it’s the more familiar version — a shed, fence or garage that’s finally past its useful life. {{fact:changedScope}}. And on the Marsh-edge properties, it’s outbuildings and greenhouse-adjacent structures retired as an operation changes or expands. {{fact:scheduling}}"
      ]
     },
     {
@@ -123,7 +123,7 @@
       },
       {
        "n": "02",
-       "title": "One flat demolition price, whatever the structure's age",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Size and material set the number, confirmed at the walkthrough and held through to the invoice — it makes no difference whether the structure is five years old or fifty."
@@ -135,16 +135,7 @@
        "title": "Free demolition quotes across every Bradford neighbourhood",
        "text": [
         [
-         "A crew member walks the property — new subdivision, mid-town street or rural west — and gives one flat price before anything starts."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Farm and Marsh-edge structure demolition",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -264,15 +255,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get Your Free Demolition Quote",
-       "text": [
-        [
-         "The crew walks the structure and gives one flat price before touching anything."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Demolition Runs Clean and Controlled",
        "text": [
@@ -327,9 +309,6 @@
        "Above Ground Pool Demolition — frame, liner and decking torn down and hauled, older bungalow-belt installations handled with extra care"
       ],
       [
-       "Hot Tub Demolition — drained, disconnected and cut apart before removal"
-      ],
-      [
        "Jacuzzi Demolition — same process, any age of structure"
       ]
      ]
@@ -372,9 +351,6 @@
        "Garage Demolition — detached units taken down section by section"
       ],
       [
-       "Deck Demolition — wood and composite, footings addressed for an addition or rebuild"
-      ],
-      [
        "Fence Demolition — full runs or single sections"
       ],
       [
@@ -393,9 +369,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Concrete Demolition — patios, walkways and pads broken up and hauled, grading-conscious near ravine edges"
-      ],
       [
        "Flooring Demolition — old outdoor surfaces and bases removed"
       ],
@@ -675,7 +648,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {
@@ -1018,7 +991,7 @@
        "q": "What's involved in concrete or flooring demolition?",
        "a": [
         [
-         "Usually. Expansion demo — non-structural walls out, finishes stripped — runs after hours and weekends, sealed and contained, so trading continues while the footprint grows. Structural openings between units route through the landlord’s engineer first, as they should."
+         "{{fact:structuralDemolition}}."
         ]
        ]
       }

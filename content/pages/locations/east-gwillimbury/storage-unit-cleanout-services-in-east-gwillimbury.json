@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Storage unit cleanout services in East Gwillimbury from Live Junk Free are most often needed at facilities along the Green Lane growth corridor, where the township's storage stock is genuinely concentrated, with the same flat pricing extended to any hamlet resident or farm-adjacent unit, no premium either way. Anyone searching storage unit cleanout services near me from Holland Landing, Sharon or the corridor itself lands on the same township-wide coverage."
+     "text": "Anyone searching storage unit cleanout services near me from Holland Landing, Sharon or the corridor itself lands on the same township-wide coverage."
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because the township’s genuine storage facility stock has grown up alongside the recent development along Green Lane and the 404 corridor, while Holland Landing, Sharon, Mount Albert and Queensville remain largely residential communities without their own facilities. Live Junk Free covers storage unit cleanout wherever a resident’s unit actually is, most commonly in the growth corridor, with the identical flat pricing extended to any hamlet or farm-adjacent resident using those same facilities."
+      "Because the township’s genuine storage facility stock has grown up alongside the recent development along Green Lane and the 404 corridor, while Holland Landing, Sharon, Mount Albert and Queensville remain largely residential communities without their own facilities. {{fact:changedScope}}."
      ]
     },
     {
@@ -150,19 +150,10 @@
       },
       {
        "n": "04",
-       "title": "Same-day storage unit cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first storage unit cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -198,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how full the unit actually is, and how much sorting it genuinely needs. A small unit is a modest job. A larger unit with farm-related equipment or years of accumulation takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small unit is a modest job. A larger unit with farm-related equipment or years of accumulation takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -231,7 +222,7 @@
     {
      "t": "p",
      "c": [
-      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -277,7 +268,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual unit and gives you one flat price before anything moves, whatever community you’re from."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -295,7 +286,7 @@
        "title": "Your Unit Is Empty and Ready to Return",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready to hand back to the facility."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready to hand back to the facility."
         ]
        ]
       }
@@ -336,13 +327,7 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first sorting throughout"
-      ],
-      [
-       "Same-day completion for most straightforward jobs"
-      ],
-      [
-       "Same flat pricing as anywhere else in the township"
+       "Completion for most straightforward jobs"
       ]
      ]
     },
@@ -356,9 +341,6 @@
      "items": [
       [
        "Storage unit cleanouts for units holding agricultural equipment or supplies"
-      ],
-      [
-       "Same flat pricing regardless of distance from either community"
       ],
       [
        "Equipment and inventory sorted with real understanding"
@@ -393,13 +375,10 @@
        "Coordination directly with facility management on timing"
       ],
       [
-       "Same flat pricing regardless of how tight the timeline is"
-      ],
-      [
        "Priority booking for time-sensitive lease-end dates"
       ],
       [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Documentation available for the facility if required"
@@ -421,16 +400,13 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -818,7 +794,7 @@
        "q": "Is storage unit cleanout mostly a Green Lane corridor service?",
        "a": [
         [
-         "Honestly, yes — most of the township’s storage facilities are concentrated there, though any hamlet or farm-adjacent resident gets the same flat pricing."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -826,7 +802,7 @@
        "q": "Do you charge hamlet residents more than corridor residents?",
        "a": [
         [
-         "Never. The identical flat pricing applies wherever the resident actually lives."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },

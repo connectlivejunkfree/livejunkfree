@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Apartment Cleanout Services in Whitby | Live Junk Free",
-  "description": "Apartment cleanout services in Whitby from Live Junk Free get a unit ready for the next tenant on schedule, or a parent's apartment cleared.",
+  "description": "Careful Removal",
   "canonical": "https://livejunkfree.ca/locations/whitby/apartment-cleanout-services-in-whitby/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/08/Apartment-Cleanout-Services-in-Whitby.jpeg"
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Apartment cleanout services in Whitby from Live Junk Free get a unit ready for the next tenant on schedule, or a parent's apartment cleared gently as part of a senior transition — one flat price, building rules handled before arrival."
+     "text": "Careful Removal"
     },
     {
      "t": "ctas",
@@ -154,15 +154,6 @@
        ]
       },
       {
-       "n": "04",
-       "title": "One flat apartment cleanout price, confirmed before anything moves",
-       "text": [
-        [
-         "A crew member sees the actual unit and gives one flat number before anything moves — no per-item guessing."
-        ]
-       ]
-      },
-      {
        "n": "05",
        "title": "Apartment cleanout documentation available for landlords and property files",
        "text": [
@@ -209,7 +200,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -230,7 +220,7 @@
     {
      "t": "p",
      "c": [
-      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -276,7 +266,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual unit, confirms any building access needed, and gives you one flat price before anything moves."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -294,7 +284,7 @@
        "title": "The Unit Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and genuinely ready — for the next tenant, or for the family."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and genuinely ready — for the next tenant, or for the family."
         ]
        ]
       }
@@ -336,9 +326,6 @@
       ],
       [
        "Portfolio arrangements available for landlords managing multiple units"
-      ],
-      [
-       "Same flat pricing regardless of who's on title"
       ]
      ]
     },
@@ -360,7 +347,7 @@
        "Keepsakes and anything meaningful set aside for the family"
       ],
       [
-       "Same-day completion for most straightforward removals"
+       "Completion for most straightforward removals"
       ]
      ]
     }
@@ -405,10 +392,7 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ]
      ]
     }

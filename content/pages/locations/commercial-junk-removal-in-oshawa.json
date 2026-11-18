@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Oshawa doesn’t hand out respect for showing up; it hands it out for doing the job right, every shift. That’s the standard our junk removal crews get measured against here — in the south-end industrial units, the garages along Simcoe, the reopening storefronts downtown — and the Google reviews behind Live Junk Free are the scorecard. What Oshawa businesses keep writing: the flat quote was the final invoice, the crew out-lifted expectations without scuffing a wall, and the bay, shop or unit was swept and back in production before the next workday started."
+      "Oshawa doesn’t hand out respect for showing up; it hands it out for doing the job right, every shift. That’s the standard our junk removal crews get measured against here — in the south-end industrial units, the garages along Simcoe, the reopening storefronts downtown — and the Google reviews behind Live Junk Free are the scorecard. {{fact:changedScope}}."
      ]
     },
     {
@@ -112,7 +112,7 @@
      "items": [
       {
        "n": "01",
-       "title": "Truck-volume junk removal pricing — heavy is not a surcharge",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "In a manufacturing town, junk weighs something — and with us, that’s irrelevant. Your Oshawa junk removal price tracks truck space filled, period. Cast housings, steel shelving, dead compressors: if it fits in half the box, it costs half-box money, no scale ever involved."
@@ -124,7 +124,7 @@
        "title": "Free junk removal quotes written at your Oshawa shop, bay or storefront",
        "text": [
         [
-         "Our crew lead comes to the floor, walks the full load — the parts mezzanine, the back lot, the corner everyone stopped seeing years ago — and writes one firm flat rate covering all of it. The visit is free, the number is final, and turning it down costs exactly nothing."
+         "{{fact:changedScope}}. The visit is free, the number is final, and turning it down costs exactly nothing."
         ]
        ]
       },
@@ -133,7 +133,7 @@
        "title": "Full-crew junk hauling — your trades stay on the tools",
        "text": [
         [
-         "Every hour a licensed tech or machine operator spends dragging junk is expensive labour doing cheap work. Our junk removal crew brings the muscle and the dollies: dismantling, carrying, loading and sweeping are entirely ours while your people keep billing hours at their real trade."
+         "Every hour a licensed tech or machine operator spends dragging junk is expensive labour doing cheap work. {{fact:cleanupScope}}."
         ]
        ]
       },
@@ -142,16 +142,7 @@
        "title": "Industrial-grade junk removal muscle — sized for real equipment",
        "text": [
         [
-         "Not every hauler can move what an Oshawa shop retires. Ours can: heavy benches, racking runs, seized machinery components, scrap by the skid — dismantled where needed, moved with proper technique and equipment, and loaded without drama. Bring us the heavy list first."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "{{fact:nextAvailable}}",
-       "text": [
-        [
-         "Production doesn’t pause for a junk truck and neither should retail."
+         "Not every hauler can move what an Oshawa shop retires. {{fact:equipmentScope}}. Bring us the heavy list first."
         ]
        ]
       },
@@ -193,8 +184,7 @@
     {
      "t": "checks",
      "items": [
-      "Written Flat Rates Before Work Starts",
-      "{{fact:competitorComparison}}"
+      "Written Flat Rates Before Work Starts"
      ]
     },
     {
@@ -210,12 +200,6 @@
      "t": "price",
      "label": "Oshawa Junk Removal Pricing",
      "value": "Junk Load from {{min_price:C}}"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -237,7 +221,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "The Oshawa Junk Removal Shift — Four Steps, Clocked In to Swept Out"
+     "text": "The Oshawa Junk Removal Shift — Four Steps, Clocked In to Out"
     },
     {
      "t": "p",
@@ -266,7 +250,7 @@
        "title": "Walk the Floor, Approve the Junk Removal Quote",
        "text": [
         [
-         "Show the crew the whole scope: the retired line equipment, the storefront fixtures, the units the last tenant abandoned. Everything is measured against truck space and returned as one written flat rate. Approval starts work on the spot; a pass ends the visit free."
+         "Show the crew the whole scope: the retired line equipment, the storefront fixtures, the units the last tenant abandoned. {{fact:changedScope}}. Approval starts work at the onsite estimate; a pass ends the visit free."
         ]
        ]
       },
@@ -281,10 +265,10 @@
       },
       {
        "n": "04",
-       "title": "Swept Bay, Sorted Junk Disposal, Job Signed Off",
+       "title": "Bay, Sorted Junk Disposal, Job Signed Off",
        "text": [
         [
-         "Every Oshawa job closes broom-swept with paperwork available for the office. The load then sorts the right way: donation partners for the usable, licensed recyclers for scrap metal, appliances and e-waste, landfill strictly for the remainder."
+         "Every Oshawa job closes with paperwork available for the office. The load then sorts the right way: donation partners for the usable, licensed recyclers for scrap metal, appliances and e-waste, landfill strictly for the remainder."
         ]
        ]
       }
@@ -325,19 +309,13 @@
        "Bay and floor cleanouts across Oshawa's south-end industrial stock"
       ],
       [
-       "Retired benches, steel shelving and racking dismantled and hauled"
-      ],
-      [
        "Machine components, dies, fixtures and seized equipment removal"
       ],
       [
-       "Scrap metal by the skid — sorted and recycled"
+       "Scrap metal by the skid — sorted and recycled where possible"
       ],
       [
        "Obsolete parts inventory and packaging waste disposal"
-      ],
-      [
-       "Multi-truck scheduling for full plant-support clearances"
       ]
      ]
     },
@@ -709,7 +687,7 @@
        "q": "How heavy can you actually go?",
        "a": [
         [
-         "Heavier than most expect from a junk truck. Steel benches, racking runs, compressors, machine components and skid-loads of scrap are standard Oshawa work, moved with proper technique and dismantled where needed. If a piece genuinely requires rigging beyond junk removal scope, we’ll say so up front — not mid-job."
+         "Heavier than most expect from a junk truck. {{fact:equipmentScope}}. If a piece genuinely requires rigging beyond junk removal scope, we’ll say so up front — not mid-job."
         ]
        ]
       },
@@ -725,7 +703,7 @@
        "q": "Do you handle student-rental turnovers near the colleges?",
        "a": [
         [
-         "Every May and September, in volume. Multi-unit turnover sweeps near Ontario Tech and Durham College get booked as a wave — documented per unit for landlords, priced at the same volume rates, and cleared fast enough to hit the next lease date."
+         "Every May and September, in volume. {{fact:changedScope}}."
         ]
        ]
       },
@@ -733,7 +711,7 @@
        "q": "How fast can a truck reach my Oshawa business?",
        "a": [
         [
-         "Often the same day."
+         "Often the same day when available."
         ]
        ]
       },
@@ -749,7 +727,7 @@
        "q": "Can Oshawa shops and landlords book recurring junk removal?",
        "a": [
         [
-         "Readily. Garages, industrial floors and rental portfolios across the city run on standing schedules — monthly, seasonal or per-turnover — at unchanged volume rates, one consolidated invoice, one contact who knows the site."
+         "Readily. {{fact:changedScope}}."
         ]
        ]
       },

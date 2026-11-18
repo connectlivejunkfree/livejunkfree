@@ -141,7 +141,7 @@
        "title": "& Flexible Office Cleanout Services in King City",
        "text": [
         [
-         "Some businesses need their space cleared quickly. When availability allows, our team can provide same-day or next-day office cleanout services in King City. {{fact:scheduling}}"
+         "Some businesses need their space cleared quickly. When availability allows, our team can provide same-day or next-day office cleanout services when available in King City. {{fact:scheduling}}"
         ]
        ]
       },
@@ -316,7 +316,7 @@
     {
      "t": "p",
      "c": [
-      "Every office cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every office cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -380,7 +380,7 @@
        "title": "Office Left Clear & Ready for Its Next Use",
        "text": [
         [
-         "After everything has been removed, we complete a final check and sweep the work area. Your office is left clear and ready for relocation, renovation, lease turnover, a new tenant or your next business operation."
+         "{{fact:cleanupScope}}. Your office is left clear and ready for relocation, renovation, lease turnover, a new tenant or your next business operation."
         ]
        ]
       }

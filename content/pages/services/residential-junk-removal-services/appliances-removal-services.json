@@ -6,13 +6,13 @@
  "template": "ItemRemoval",
  "seo": {
   "title": "Appliances Removal Services - Live JunkFree",
-  "description": "Need appliance removal services in the GTA? Live Junk Free picks up fast — same-day available, upfront pricing, eco-friendly disposal. Get a free quote!",
+  "description": "Need appliance removal services in the GTA? Live Junk Free picks up fast — same-day may be available, upfront pricing, eco-friendly disposal. Get a free quote!",
   "canonical": "https://livejunkfree.ca/services/residential-junk-removal-services/appliances-removal-services/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/04/Appliances-Removal-Services-1.jpg"
  },
  "title": "Appliances Removal Services",
- "h1": "Appliance Removal Services — Same-day Pickup when available Across the GTA",
+ "h1": "Appliance Removal Services — Pickup when available Across the GTA",
  "published": "2026-07-09T07:21:44",
  "modified": "2026-07-23T06:19:06",
  "sections": [
@@ -21,7 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Appliance Removal Services — Same-day Pickup when available Across the GTA"
+     "text": "Appliance Removal Services — Pickup when available Across the GTA"
     },
     {
      "t": "h",
@@ -63,7 +63,7 @@
     {
      "t": "p",
      "c": [
-      "Getting rid of a large appliance in the Greater Toronto Area is one of those jobs that looks straightforward until you’re actually standing next to a 200-pound fridge wondering how to get it down two flights of stairs. Municipal pickup schedules won’t take them. Most moving companies won’t touch disconnection. And renting a truck means doing the hard part yourself anyway. ",
+      "Getting rid of a large appliance in the Greater Toronto Area is one of those jobs that looks straightforward until you’re actually standing next to a 200-pound fridge wondering how to get it down two flights of stairs. Municipal pickup schedules won’t take them. {{fact:utilityDisconnection}} And renting a truck means doing the hard part yourself anyway. ",
       {
        "b": [
         "Appliance removal services"
@@ -75,7 +75,7 @@
     {
      "t": "p",
      "c": [
-      "We pick up all types of appliances from homes, condos, and businesses across the GTA — same-day and next-day availability in most areas, pricing confirmed upfront before we move anything, and disposal handled responsibly through recycling partners and local donation channels., no surprises, no lifting on your end. Give us a call and we’ll handle the rest."
+      "{{fact:scheduling}} Give us a call and we’ll handle the rest."
      ]
     },
     {
@@ -132,7 +132,7 @@
         "appliance removal services"
        ]
       },
-      " cost? We provide transparent, no-pressure estimates confirmed on-site before any work begins — no guessing, no last-minute additions."
+      " cost? {{fact:changedScope}}."
      ]
     },
     {
@@ -246,7 +246,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Book It Today, Gone Today"
+     "text": "{{fact:pickupTimes}}"
     },
     {
      "t": "p",
@@ -255,29 +255,24 @@
      ]
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "{{fact:competitorComparison}}"
-    },
-    {
      "t": "cards",
      "items": [
       {
-       "title": "Appliances Recycled Properly",
+       "title": "Appliances Recycled Where Possible",
        "text": [
-        "Steel, copper, aluminium, and motor components all have genuine recovery value. We route every appliance to recycling facilities — not general waste — on every single job."
+        "Steel, copper, aluminium, and motor components all have genuine recovery value."
        ]
       },
       {
-       "title": "Your Home Stays Intact",
+       "title": "Your Home",
        "text": [
-        "Heavy appliances through tight spaces damage walls and scratch floors when handled wrong. Protective pads and proper technique mean your kitchen, hallway, and elevator interior look exactly as they did before we arrived."
+        "Heavy appliances through tight spaces damage walls and scratch floors when handled wrong. {{fact:propertyProtection}}."
        ]
       },
       {
        "title": "One Appliance Or A Full Cleanout",
        "text": [
-        "A single fridge or an entire property’s worth of appliances — we scale to the job. Multi-unit and bulk removals come with volume pricing that makes the per-unit cost more efficient."
+        "A single fridge or an entire property’s worth of appliances — we scale to the job. {{fact:changedScope}}."
        ]
       },
       {
@@ -313,9 +308,6 @@
      "items": [
       [
        "{{fact:recycling}}"
-      ],
-      [
-       "Appliance Donation Initiative: Working units find new homes through local shelters and community programs"
       ]
      ]
     },
@@ -352,9 +344,6 @@
       ],
       [
        "{{fact:freeOnsiteEstimates}}"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -376,7 +365,7 @@
         "appliance pick up service"
        ]
       },
-      " handles it all. We work with homeowners, landlords, property managers, and businesses across the Greater Toronto Area — no job is too small and no load is too large."
+      " handles it all. We work with homeowners, landlords, property managers, and businesses across the Greater Toronto Area and no load is too large."
      ]
     },
     {
@@ -548,7 +537,7 @@
     {
      "t": "p",
      "c": [
-      "A kitchen, laundry room, or garage dominated by old appliances has more usable potential than it looks. Take a look at what our GTA crew has cleared — from single units to full multi-appliance cleanouts — and the clean, open space waiting on the other side. The difference one visit makes is real."
+      "A kitchen, laundry room, or garage dominated by old appliances has more usable potential than it looks. Take a look at what our GTA crew has cleared — from single units to full multi-appliance cleanouts — and the clean, open space waiting on the other side. {{fact:scheduling}}"
      ]
     },
     {
@@ -588,7 +577,7 @@
        "q": "Do you offer same-day appliance removal?",
        "a": [
         [
-         "Yes, we offer same-day removal when availability permits. Just call us for immediate service options."
+         "{{fact:permits}}"
         ]
        ]
       },
@@ -605,14 +594,6 @@
        "a": [
         [
          "{{fact:quoteText}}"
-        ]
-       ]
-      },
-      {
-       "q": "Do I need to move the appliance outside before pickup?",
-       "a": [
-        [
-         "No, we’ll remove appliances from wherever they’re located in your home or business."
         ]
        ]
       }

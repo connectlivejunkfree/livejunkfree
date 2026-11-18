@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Basement Cleanout Services in Ajax | Live Junk Free",
-  "description": "Live Junk Free provides basement cleanout services in Ajax to carry it all out, sort what can be reused or recycled, haul it away and sweep the space.",
+  "description": "Live Junk Free provides basement cleanout services in Ajax to carry it all out, sort what can be reused or recycled where possible, haul it away.",
   "canonical": "https://livejunkfree.ca/locations/ajax/basement-cleanout-services-in-ajax/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/basement-cleanout-services.jpeg"
@@ -316,7 +316,7 @@
     {
      "t": "p",
      "c": [
-      "Every basement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every basement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -371,7 +371,7 @@
        "title": "Choose Your Appointment",
        "text": [
         [
-         "Choose a convenient time for the cleanout. Same-day availability can be requested when scheduling permits."
+         "Choose a convenient time for the cleanout. {{fact:permits}}"
         ]
        ]
       },
@@ -380,7 +380,7 @@
        "title": "We Clean Out Basement Junk",
        "text": [
         [
-         "Our crew carries the unwanted items out, loads the truck, separates materials for appropriate disposal or recycling and sweeps the cleared area."
+         "{{fact:cleanupScope}}."
         ]
        ]
       }
@@ -485,7 +485,7 @@
     {
      "t": "p",
      "c": [
-      "Some basement cleanouts come with a deadline. You may have a tenant moving into a basement suite, a renovation starting, a home going on the market or a move approaching quickly. Live Junk Free offers basement cleanouts near me with same-day availability when scheduling and access allow. The company’s Ajax service pages also highlight same-day cleanout availability across the community. Along with basement cleaning and junk removal, Live Junk Free provides other cleanout and removal services, including garage, estate, eviction, hoarding, apartment, storage unit and office cleanouts, plus selected demolition services."
+      "Some basement cleanouts come with a deadline. You may have a tenant moving into a basement suite, a renovation starting, a home going on the market or a move approaching quickly. Live Junk Free offers basement cleanouts near me with same-day availability when available when scheduling and access allow. The company’s Ajax service pages also highlight same-day cleanout when available availability across the community. Along with basement cleaning and junk removal, Live Junk Free provides other cleanout and removal services, including garage, estate, eviction, hoarding, apartment, storage unit and office cleanouts, plus selected demolition services."
      ]
     },
     {

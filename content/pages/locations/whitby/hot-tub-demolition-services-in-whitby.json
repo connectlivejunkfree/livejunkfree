@@ -310,7 +310,7 @@
     {
      "t": "p",
      "c": [
-      "Every Hot Tub Demolition priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every Hot Tub Demolition priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -544,15 +544,10 @@
   {
    "blocks": [
     {
-     "t": "h",
-     "l": 3,
-     "text": "Pumps & Equipment"
-    },
-    {
      "t": "ul",
      "items": [
       [
-       "Unwanted pumps, motors, filters, plumbing components, and associated equipment can be removed as part of the cleanout."
+       "{{fact:utilityDisconnection}}"
       ]
      ]
     },
@@ -1413,7 +1408,7 @@
        "q": "3. Do I need to disconnect my hot tub before demolition?",
        "a": [
         [
-         "For safety, electrical and plumbing connections should be properly disconnected before demolition begins. If you’re unsure whether your hot tub has been fully disconnected, arrange for the appropriate qualified professional to handle electrical or utility connections before the demolition crew starts. "
+         "{{fact:utilityDisconnection}} "
         ]
        ]
       },

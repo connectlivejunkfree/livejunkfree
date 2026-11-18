@@ -86,7 +86,7 @@ export function blogPostingNode(doc: PageDoc) {
     "@type": "BlogPosting",
     "@id": `${abs(doc.path)}#article`,
     headline: doc.h1 || doc.title,
-    description: doc.seo.description || doc.excerpt,
+    description: resolvePrices(doc.seo.description || doc.excerpt || ""),
     datePublished: doc.published,
     dateModified: doc.modified,
     author: { "@type": "Organization", name: site.name, url: `${SITE}/` },

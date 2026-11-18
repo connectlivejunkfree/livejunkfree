@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "King City properties aren’t casual about who comes up the driveway — and neither are we about who we send. The Google reviews behind Live Junk Free include King Road boutique owners, club managers and estate-business operators who all noticed the same things: a junk removal crew that showed up polished and on the minute, a flat quote that stayed exactly where it was written, floors and finishes treated like they were under warranty, and a clear-out conducted quietly enough that the neighbours never had a reason to ask. High standards, honest volume pricing — that’s the whole formula."
+      "King City properties aren’t casual about who comes up the driveway — and neither are we about who we send. {{fact:changedScope}}."
      ]
     },
     {
@@ -124,7 +124,7 @@
        "title": "A written junk removal quote from a walkthrough of your property",
        "text": [
         [
-         "Our crew lead comes to you — the shop on King Road, the stable block, the clubhouse storage wing — walks everything that’s leaving, and writes one firm, flat junk removal figure for the lot. The visit is free, the quote doesn’t expire, and declining it is always a perfectly good outcome."
+         "{{fact:changedScope}}. The visit is free, the quote doesn’t expire, and declining it is always a perfectly good outcome."
         ]
        ]
       },
@@ -142,7 +142,7 @@
        "title": "Property-first junk removal for finishes worth protecting",
        "text": [
         [
-         "King City commercial spaces are finished to be seen: millwork, stone floors, manicured frontages, arenas with footing that cost more than the truck. We protect all of it — runners, padding, pre-dismantling, careful routing — and leave the property showing no evidence of the clear-out except the space itself."
+         "{{fact:structuralDemolition}}."
         ]
        ]
       },
@@ -194,7 +194,7 @@
      "t": "checks",
      "items": [
       "No Prestige-Area Markups, Ever",
-      "Written Flat-Rate Quotes On Site"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -210,12 +210,6 @@
      "t": "price",
      "label": "King City Junk Removal Pricing",
      "value": "Junk Load from {{min_price:C}}"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -266,7 +260,7 @@
        "title": "Walk the Property, Receive the Junk Removal Quote",
        "text": [
         [
-         "Tour the crew past everything going: the retired display cabinetry, the tack-room accumulation, the banquet chairs from three galas ago. It’s all measured against truck space and returned as a single written flat rate — no pressure attached, no clock ticking on the offer."
+         "Tour the crew past everything going: the retired display cabinetry, the tack-room accumulation, the banquet chairs from three galas ago. {{fact:changedScope}}."
         ]
        ]
       },
@@ -284,7 +278,7 @@
        "title": "Immaculate Handover and Sorted Junk Disposal",
        "text": [
         [
-         "The final act is a full sweep — and paperwork if your records want it. The load then gets sorted on principle: quality pieces to donation partners, metals and e-waste to licensed recyclers, landfill reserved strictly for what nothing else will take."
+         "{{fact:cleanupScope}}. The load then gets sorted on principle: quality pieces to donation partners, metals and e-waste to licensed recyclers, landfill reserved strictly for what nothing else will take."
         ]
        ]
       }
@@ -395,9 +389,6 @@
       ],
       [
        "Kitchen, bar and service-area equipment removal"
-      ],
-      [
-       "Multi-truck capacity for full facility refreshes"
       ]
      ]
     },
@@ -717,7 +708,7 @@
        "q": "Can you clear equestrian and farm-based business properties?",
        "a": [
         [
-         "It’s regular work for us in King Township. Stables, arenas, tack rooms and outbuildings all clear at standard volume rates, with crews briefed to work calmly around horses and active operations — gates closed behind them, footing respected, nothing left ajar."
+         "It’s regular work for us in King Township. {{fact:changedScope}}."
         ]
        ]
       },
@@ -733,7 +724,7 @@
        "q": "How quickly can a crew reach my King City business?",
        "a": [
         [
-         "Often the same day. You’ll get today’s real availability, stated plainly."
+         "Often the same day, subject to availability. You’ll get today’s real availability, stated plainly."
         ]
        ]
       },
@@ -749,7 +740,7 @@
        "q": "Can King City landlords arrange recurring junk removal?",
        "a": [
         [
-         "Readily — portfolio owners and club facilities are among our steadiest clients. Weekly, monthly, seasonal or per-turnover schedules run at unchanged volume rates, consolidated to one invoice, with one contact who already knows each property’s expectations."
+         "Readily — portfolio owners and club facilities are among our steadiest clients. {{fact:changedScope}}."
         ]
        ]
       },

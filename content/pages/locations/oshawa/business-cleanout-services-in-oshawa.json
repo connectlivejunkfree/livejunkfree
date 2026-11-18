@@ -131,7 +131,7 @@
        "title": "Business cleanout scoped honestly, priced once",
        "text": [
         [
-         "A crew member sees the actual space, sizes up the real job, and gives one flat number built to cover it properly, not a rough guess that might not hold."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -155,19 +155,10 @@
       },
       {
        "n": "04",
-       "title": "One flat business cleanout price, confirmed before anything moves",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "The number reflects what a crew member actually sees at the walkthrough, and it holds regardless of what the sorting turns up."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first business cleanout sorting for fixtures and equipment",
-       "text": [
-        [
-         "Furniture, fixtures and equipment still in good condition go to donation partners or resale channels first, before anything reaches disposal."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -203,7 +194,7 @@
     {
      "t": "p",
      "c": [
-      "The honest answer is the actual size of the job — how much is in the space, and how much sorting it genuinely needs before anything gets hauled. A small retail unit is a modest job. A warehouse or manufacturing space with real equipment takes real time to clear thoroughly, and the number reflects that rather than a rough estimate that might not hold once the work starts."
+      "{{fact:cleanupScope}}. A small retail unit is a modest job. A warehouse or manufacturing space with real equipment takes real time to clear thoroughly, and the number reflects that rather than a rough estimate that might not hold once the work starts."
      ]
     },
     {
@@ -215,8 +206,7 @@
     {
      "t": "checks",
      "items": [
-      "Hauling-Away",
-      "{{fact:competitorComparison}}"
+      "Hauling-Away"
      ]
     },
     {
@@ -232,12 +222,6 @@
      "t": "price",
      "label": "Oshawa Business Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -284,15 +268,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual space, scopes what the job genuinely requires, and gives you one flat price before touching anything."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Space Gets Cleared, Thoroughly",
        "text": [
@@ -306,7 +281,7 @@
        "title": "Your Space Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and genuinely usable, not just superficially cleared."
+         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left and genuinely usable, not just superficially cleared."
         ]
        ]
       }
@@ -347,16 +322,10 @@
        "Business cleanouts for warehouse and light-industrial spaces"
       ],
       [
-       "Real experience with equipment and racking removal"
-      ],
-      [
        "Crew size scaled appropriately to the real scope of the space"
       ],
       [
        "Loading dock access and scheduling coordinated in advance"
-      ],
-      [
-       "Same flat pricing regardless of square footage assumptions"
       ],
       [
        "Documentation available where needed"
@@ -382,9 +351,6 @@
       ],
       [
        "Portfolio arrangements available for landlords managing multiple units"
-      ],
-      [
-       "Same flat pricing regardless of who's on title"
       ],
       [
        "Damage or abandonment documentation available on request"
@@ -413,13 +379,7 @@
        "Coordination with property managers where relevant"
       ],
       [
-       "Same flat pricing regardless of the building's age"
-      ],
-      [
-       "Same-day service where access allows"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
+       "Service where access allows"
       ]
      ]
     },
@@ -438,16 +398,13 @@
        "Full sort of furniture, fixtures and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -1124,7 +1081,7 @@
          "36. Can a large business property be cleared over multiple appointments?"
         ],
         [
-         "Yes. For larger commercial properties, a staged cleanout can be arranged when completing everything in one visit is not practical."
+         "Yes. For larger commercial properties, a staged cleanout can be arranged when completing everything is not practical."
         ],
         [
          "37. Does the crew take care of lifting and loading?"
@@ -1136,7 +1093,7 @@
          "38. Do I have to sort everything before the cleanout?"
         ],
         [
-         "Not necessarily. You can identify items that need to remain, while our crew handles the removal of the agreed unwanted contents. Sorting requirements can vary depending on the materials involved."
+         "Not necessarily. You can identify items that need to remain, while our crew handles the removal of the agreed unwanted contents. {{fact:cleanupScope}}."
         ],
         [
          "39. Can reusable furniture and materials be separated for donation or recycling?"

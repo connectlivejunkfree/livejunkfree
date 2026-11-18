@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because a bereavement cleanout here often happens while a surviving spouse continues living in the house, or while other family members still visit rooms that hold real meaning. This isn’t a house sitting empty — it’s a home someone’s still occupying, and Live Junk Free treats that reality with the same care given to any occupied-home service. Rooms get cleared at a pace the family sets, with containment kept tight so the rest of the home stays undisturbed."
+      "Because a bereavement cleanout here often happens while a surviving spouse continues living in the house, or while other family members still visit rooms that hold real meaning. This isn’t a house sitting empty — it’s a home someone’s still occupying, and Live Junk Free treats that reality with the same care given to any occupied-home service."
      ]
     },
     {
@@ -126,15 +126,6 @@
     {
      "t": "steps",
      "items": [
-      {
-       "n": "01",
-       "title": "Bereavement cleanout scheduled around a family still living in the home",
-       "text": [
-        [
-         "Where a surviving spouse or family member continues occupying the house, rooms get cleared with containment that keeps the rest of the home undisturbed."
-        ]
-       ]
-      },
       {
        "n": "02",
        "title": "{{fact:competitorComparison}}",
@@ -209,8 +200,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -230,7 +220,7 @@
     {
      "t": "p",
      "c": [
-      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -294,7 +284,7 @@
        "title": "A Space That's Clean and Ready",
        "text": [
         [
-         "We complete a final walkthrough, sweep the area, and leave the space ready for whatever comes next — whether that’s continued occupancy, sale, or renovation."
+         "We complete a final walkthrough, and leave the space ready for whatever comes next — whether that’s continued occupancy, sale, or renovation."
         ]
        ]
       }
@@ -327,9 +317,6 @@
      "items": [
       [
        "Bereavement cleanouts where a surviving spouse or family member still lives in the home"
-      ],
-      [
-       "Containment kept tight so undisturbed rooms stay exactly that way"
       ],
       [
        "Room-by-room pacing that respects the household's daily life"
@@ -380,12 +367,6 @@
        "Bereavement cleanouts for farmhouse properties toward Ashburn and Myrtle"
       ],
       [
-       "Same flat pricing regardless of distance from town"
-      ],
-      [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Real patience for properties with generations of accumulated belongings"
       ]
      ]
@@ -405,10 +386,7 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ]
      ]
     }

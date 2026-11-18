@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Pickering runs two rental markets at once. There are the purpose-built towers along Liverpool and Bayly, professionally managed with scheduled turnovers — and then there are thousands of newer secondary suites in Seaton, Duffin Heights, and Amberlea, most owned by first-time landlords who've never cleared a unit before."
+     "text": "Pickering runs two rental markets at once."
     },
     {
      "t": "ctas",
@@ -126,7 +126,7 @@
        "title": "Property management cleanout scheduled to your building's access window",
        "text": [
         [
-         "Service elevator reservations, loading dock times, and quiet-hours rules are confirmed before dispatch. A tenant turnover cleanout in a managed building finishes in one visit rather than spilling into a second invoice."
+         "Service elevator reservations, loading dock times, and quiet-hours rules are confirmed before dispatch. A tenant turnover cleanout in a managed building finishes rather than spilling into a second invoice."
         ]
        ]
       },
@@ -140,17 +140,8 @@
        ]
       },
       {
-       "n": "03",
-       "title": "",
-       "text": [
-        [
-         ""
-        ]
-       ]
-      },
-      {
        "n": "04",
-       "title": "Portfolio pricing for property managers with rental properties across Pickering",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Consolidated invoicing and priority booking for landlords and property managers running multiple doors. Property portfolio size affects your scheduling position — it never inflates the per-unit price."
@@ -210,8 +201,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -231,7 +221,7 @@
     {
      "t": "p",
      "c": [
-      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -277,7 +267,7 @@
        "title": "Free on-site walkthrough and one flat property management cleanout price",
        "text": [
         [
-         "The crew sees the actual unit, plus any locker, garage, or storage area in scope, then gives one flat price per unit before anything moves. Property management cleanout pricing is fixed before the work starts."
+         "{{fact:changedScope}}. Property management cleanout pricing is fixed before the work starts."
         ]
        ]
       },
@@ -287,15 +277,6 @@
        "text": [
         [
          "Furniture, appliances, mattresses, electronics, hot tubs, yard waste, and general household items come out through the agreed route with corridors and stairs protected. Everything is sorted donation-first, then recycling, then disposal — and the unit’s condition is photographed throughout, which matters most on eviction cleanout and abandoned rental property jobs."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Your vacant rental unit is ready to list",
-       "text": [
-        [
-         ""
         ]
        ]
       }
@@ -359,9 +340,6 @@
       ],
       [
        "Fast turnaround so the vacant rental unit is ready before listing photos"
-      ],
-      [
-       "Same flat pricing whether the timeline is three weeks or overnight"
       ],
       [
        "Tenant turnover cleanout requests accepted on short notice"
@@ -808,7 +786,7 @@
        "q": "How much does property management cleanout cost in Pickering?",
        "a": [
         [
-         "The property management cleanout cost in Pickering is confirmed free per unit at the walkthrough, based on volume, sorting required, and access. The number of rental properties you manage never changes it. "
+         "{{fact:cleanupScope}}. The number of rental properties you manage never changes it. "
         ]
        ]
       },

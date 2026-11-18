@@ -51,7 +51,7 @@
         "Live Junk Free"
        ]
       },
-      " is Georgina’s trusted local junk removal team. We serve every property type across the entire municipality — from seasonal cottages needing a full cleanout before or after the summer, to year-round family homes in Keswick, to rural properties in Pefferlaw, to businesses along Georgina’s commercial corridors. We come to you, assess everything in person, give you a completely free on-site estimate before touching a single item, and if you’re happy with it, your junk is gone the same day.",
+      " is Georgina’s trusted local junk removal team. We serve every property type across the entire municipality — from seasonal cottages needing a full cleanout before or after the summer, to year-round family homes in Keswick, to rural properties in Pefferlaw, to businesses along Georgina’s commercial corridors. {{fact:scheduling}}",
       {
        "br": 1
       },
@@ -120,29 +120,9 @@
      "text": "We are not a national franchise. We don't charge rural surcharges for properties outside the main urban core. We are a locally owned, fully insured team that genuinely understands the Georgina community — and we price every job based on volume alone, regardless of where your property sits in the municipality."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "We come to your property first — completely free",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Whether you're on the Lake Simcoe waterfront, a rural lot in Pefferlaw, a residential street in Keswick, or a commercial property in Sutton — we come to you, walk through everything in person, and calculate your quote on the spot."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Volume-based pricing — the fairest method for Georgina properties",
-       "text": []
-      }
-     ]
+     "text": "Whether you're on the Lake Simcoe waterfront, a rural lot in Pefferlaw, a residential street in Keswick, or a commercial property in Sutton — we come to you, walk through everything in person, and calculate your quote at the onsite estimate."
     },
     {
      "t": "h",
@@ -150,29 +130,9 @@
      "text": "Large rural properties often have more junk than a typical suburban home — and volume-based pricing means you pay accurately for what you actually have, not an inflated estimate based on property type or location."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One flat number",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} No Lake Simcoe area premium. No \"we had to drive a bit further\" fee. One number, everything covered."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "You approve it before we touch a single item",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -180,29 +140,9 @@
      "text": "Once we hand you the quote, the decision is entirely yours. Zero pressure. Zero obligation. If it works for you, we start immediately. If it doesn't, we leave with no charge."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "The quoted price never changes",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Once you approve it, that's the final number — regardless of how long the job takes or what we find along the way. No surprises. No adjustments. No \"actually it's a bit more because...\" conversations."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "No hourly games — ever",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -283,7 +223,7 @@
       {
        "title": "We Arrive On Time, Walk the Property, Quote You Fairly",
        "text": [
-        "Our professional, uniformed Georgina junk removal crew arrives on schedule — every time, no excuses. We walk your entire property with you. For cottages and lakefront properties, we assess access, dock areas, outbuildings and waterfront storage. For rural Georgina properties, we walk the full lot — barns, sheds, fields, outbuildings, all of it. For residential and commercial properties, we go room to room, floor to floor. We give you one clear, flat-rate quote on the spot. No obligation to proceed. No pressure of any kind."
+        "Our professional, uniformed Georgina junk removal crew arrives on schedule — every time, no excuses. We walk your entire property with you. For cottages and lakefront properties, we assess access, dock areas, outbuildings and waterfront storage. For rural Georgina properties, we walk the full lot — barns, sheds, fields, outbuildings, all of it. For residential and commercial properties, we go room to room, floor to floor. {{fact:changedScope}}. No obligation to proceed. No pressure of any kind."
        ]
       },
       {
@@ -295,7 +235,7 @@
       {
        "title": "Gone, Clean, Responsibly Sorted",
        "text": [
-        "Once the truck is loaded, we do a final walkthrough to make sure every item on your list has been cleared. We sweep up and leave your Georgina property clean — no debris left from the haul, no mess from moving items. We take Georgina's environment seriously — because we live and work here too."
+        "Once the truck is loaded, we do a final walkthrough to make sure every item on your list has been cleared. We and leave your Georgina property clean — no debris left from the haul, no mess from moving items. We take Georgina's environment seriously — because we live and work here too."
        ]
       }
      ]
@@ -403,7 +343,7 @@
        "q": "Residential Junk Removal in Georgina",
        "a": [
         [
-         "Complete residential junk removal across all Georgina neighbourhoods and housing types — from Keswick subdivisions to rural acreage homes.",
+         "{{fact:scheduling}}",
          {
           "br": 1
          },
@@ -633,7 +573,7 @@
        "q": "Q: Do you offer same-day junk removal in Georgina?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of Georgina including Keswick, Sutton, Jackson’s Point, Pefferlaw and surrounding York Region communities. Call +1 647 922 5865 to confirm today’s availability."
+         "{{fact:scheduling}} Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },

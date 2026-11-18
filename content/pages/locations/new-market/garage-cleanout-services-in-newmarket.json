@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because that’s genuinely when most people actually get around to it — a Saturday morning finally spent tackling the garage instead of parking around it for another month. Live Junk Free treats weekend scheduling as the default, not a special request, and prices it exactly the same as a weekday visit. There’s no reason a garage cleanout should require taking time off work when the whole point is getting it done on your own time."
+      "Because that’s genuinely when most people actually get around to it — a Saturday morning finally spent tackling the garage instead of parking around it for another month. Live Junk Free treats weekend scheduling as the default, not a special request, and prices it exactly the same as a weekday visit, subject to scheduling. There’s no reason a garage cleanout should require taking time off work when the whole point is getting it done on your own time."
      ]
     },
     {
@@ -116,7 +116,7 @@
     {
      "t": "p",
      "c": [
-      "No. Saturday and Sunday garage cleanouts cost exactly what a Tuesday costs — the flat price given at the walkthrough doesn’t change based on which day the actual work happens."
+      "No. {{fact:changedScope}}."
      ]
     }
    ]
@@ -128,7 +128,7 @@
      "items": [
       {
        "n": "01",
-       "title": "Weekend garage cleanout, no premium for the privilege",
+       "title": "Weekend garage cleanout, no premium for the privilege (subject to scheduling)",
        "text": [
         [
          "The price a crew gives at the walkthrough is the same whether the job happens on a Tuesday or a Saturday."
@@ -140,7 +140,7 @@
        "title": "{{fact:weekendPickup}}",
        "text": [
         [
-         "Households who can only be home after work get the same crew and the same flat number as anyone available at 10am on a weekday."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -150,15 +150,6 @@
        "text": [
         [
          "Most single-garage cleanouts are sorted and hauled inside a couple of hours, so Monday starts with a usable garage instead of a half-finished project."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "One flat garage cleanout price, confirmed before anything moves",
-       "text": [
-        [
-         "A crew member sees the actual garage and gives one flat number before anything moves — no per-item guessing."
         ]
        ]
       },
@@ -176,7 +167,7 @@
        "title": "Independent garage cleanout pricing",
        "text": [
         [
-         "National junk removal franchises build a royalty into every quote, and some charge extra for weekend work. Live Junk Free does neither."
+         "National junk removal franchises build a royalty into every quote, and some charge extra for weekend work, subject to scheduling. Live Junk Free does neither."
         ]
        ]
       }
@@ -209,7 +200,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Village, Distance or Rural Premium, Ever"
      ]
     },
@@ -226,12 +216,6 @@
      "t": "price",
      "label": "Newmarket Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -273,16 +257,7 @@
        "title": "Book Your Garage Cleanout Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online, at whatever hour actually works — same-day and weekend slots are usually available."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote — Window Committed",
-       "text": [
-        [
-         "The crew looks at the actual garage and gives you one flat price before anything moves."
+         "Call +1 647 922 5865 or book online, at whatever hour actually works — same-day and weekend slots are usually available, subject to scheduling."
         ]
        ]
       },
@@ -300,7 +275,7 @@
        "title": "Your Garage Is Usable, Exactly When Promised",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready to actually park in again — often on the same weekend you called."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready to actually park in again — often on the same weekend you called."
         ]
        ]
       }
@@ -344,17 +319,17 @@
        "Careful, unhurried handling around established properties and features"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
-       "Same-day service for straightforward downtown access"
+       "Service for straightforward downtown access"
       ]
      ]
     },
     {
      "t": "h",
      "l": 3,
-     "text": "Family Subdivision Weekend Garage Cleanouts in Newmarket"
+     "text": "Family Subdivision Weekend Garage Cleanouts in Newmarket (subject to scheduling)"
     },
     {
      "t": "ul",
@@ -363,10 +338,10 @@
        "Saturday and Sunday garage cleanouts across Stonehaven and Summerhill Estates"
       ],
       [
-       "Evening scheduling for households that can only be home after work"
+       "Evening scheduling for households that can only be home after work (subject to scheduling)"
       ],
       [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Coordination around new furniture delivery dates"
@@ -392,9 +367,6 @@
        "Timed to land before your contractor's start date"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Documentation available if the project needs it"
       ]
      ]
@@ -414,7 +386,7 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Recurring seasonal scheduling available on request"

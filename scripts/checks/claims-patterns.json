@@ -38,11 +38,21 @@
     "\\brisk[- ]free\\b",
     "\\bwithout (causing |any )*(damage|harm|a scratch)\\b",
     "\\bno job (is )?too (big|small|tricky|large|hard)\\b",
-    "\\bnever (damage|scratch)\\b"
+    "\\bnever (damage|scratch)\\b",
+    "\\bfloor runners?\\b",
+    "\\b(specialized |special |protective )?padding\\b",
+    "\\bfloor (coverings?|protection)\\b",
+    "\\bprotective (blankets|coverings?)\\b",
+    "\\bcorner guards?\\b",
+    "\\b(baby )?grand pianos?\\b",
+    "\\ball (types of )?pianos\\b",
+    "\\bprotective pads?\\b",
+    "\\b(look|looks|stay|stays) (exactly )?(as|like) (they|it) (did|was|were) before\\b",
+    "\\bstays? intact\\b"
    ],
    "allow": [
     {
-     "re": "\\b(no|can['’]t|cannot|don['’]t|doesn['’]t|never)\\b[^.]{0,30}\\bguarantee",
+     "re": "\\b(no|not|can['’]t|cannot|don['’]t|doesn['’]t|does not|do not|never)\\b[^.]{0,40}\\bguarantee",
      "reason": "negated guarantee (approved conditional wording)"
     }
    ]
@@ -72,16 +82,28 @@
     "\\bprice[- ]match",
     "\\bpreferred rates?\\b",
     "\\b(all[- ]inclusive|all-in price)\\b",
-    "\\b(price|quote|rate) (is |stays )?locked\\b"
+    "\\b(price|quote|rate) (is |stays )?locked\\b",
+    "\\bdiscount(s|ed)?\\b",
+    "\\bmulti-?(site|suite|bed|floor|property|properties|room|truck|load)s?\\b",
+    "\\b(volume|portfolio|landlord|contractor|recurring|program|programme)s?( &| and)?[\\w ]{0,20}\\b(rates|pricing|programs?|programmes?)\\b",
+    "\\bbetter pricing\\b",
+    "\\bflat\\b[^.]{0,20}\\b(price|pricing|rate|fee|figure|number|quote)\\b",
+    "\\b(price|pricing|rate|fee)s? (is|are) flat\\b",
+    "\\b(quote|quoted|price|priced)[^.]{0,40}\\bfrom (a single |one |your )?(photo|picture)s?\\b",
+    "\\bset rates\\b"
    ],
    "allow": [
     {
-     "re": "\\bbulk(y)? (items?|waste|garbage|trash) (pickup|collection|day)",
-     "reason": "municipal bulk-item collection, not a discount"
+     "re": "\\bbulky\\b|\\bbulk (item|waste|garbage|trash) (pickup|collection|day)\\b",
+     "reason": "bulky items / municipal bulk-item collection, not a discount"
     },
     {
      "re": "\\bmulti-?unit (building|residential|propert|complex|dwelling)",
      "reason": "building type, not a discount"
+    },
+    {
+     "re": "\\b(curb|curbside|driveway)\\b",
+     "reason": "the approved curbside / driveway offer (R6, A1.8)"
     }
    ]
   },
@@ -112,7 +134,9 @@
     "\\bweekends?\\b",
     "\\bholidays?\\b",
     "\\bgone (today|before dinner|the same)\\b",
-    "\\bon the spot\\b"
+    "\\bon the spot\\b",
+    "\\bimmediate (service|response|pickup|removal|help|attention)\\b",
+    "\\b(review|reply|respond|get back|quote)\\w*\\b[^.]{0,40}\\bimmediately\\b"
    ],
    "allow": [
     {
@@ -126,6 +150,14 @@
     {
      "re": "\\b(the city|city of|municipal|curbside|garbage day|bulk item)\\b[^.]{0,60}\\b(weekend|holiday)",
      "reason": "municipal schedule, not ours"
+    },
+    {
+     "re": "\\?\\s*$",
+     "reason": "customer question (FAQ / heading); the answer is checked as its own sentence"
+    },
+    {
+     "re": "\\b(DIY|yourself|your own|plan is|wreck a weekend|weekend of|entire weekend|next weekend|fits a weekend|whole weekend)\\b",
+     "reason": "advice / narrative about the customer's own time, not our service hours"
     }
    ]
   },
@@ -167,7 +199,7 @@
     "\\bstructural\\b",
     "\\bload-bearing\\b",
     "\\battached garages?\\b",
-    "\\bpermits?\\b",
+    "\\bpermits\\b|\\bpermit (requirements?|applications?|approvals?|fees?|is|are|for|from|needed|required|process|handling)\\b|\\b(a|the|any|building|demolition|municipal|city|town|required|necessary) permits?\\b",
     "\\bhazmat\\b",
     "\\bcode[- ]compliant\\b"
    ],
@@ -195,6 +227,22 @@
     {
      "re": "\\b(subject to assessment|assessed based on site conditions|can be assessed)\\b",
      "reason": "assessment-dependent scope (B5.10–B5.12, follow-up)"
+    },
+    {
+     "re": "\\bfoundation of (any|every|our|a|the)\\b",
+     "reason": "figurative 'foundation of trust', not demolition"
+    },
+    {
+     "re": "\\((already )?(disconnected|unplugged|drained)\\)",
+     "reason": "eligible-item condition (customer prepares)"
+    },
+    {
+     "re": "\\bstructural (concerns?|damage|issues?|problems?|integrity|safety)\\b[^.]{0,60}\\b(flag|specialist|professional|licensed|engineer|decline|tell us|disclose)",
+     "reason": "structural problem referred to a specialist, not demolition work"
+    },
+    {
+     "re": "\\?\\s*$",
+     "reason": "customer question (FAQ); the answer is checked as its own sentence"
     }
    ]
   },
@@ -245,6 +293,26 @@
     {
      "re": "\\b(licensed pest[- ]control|pest[- ]control professional)",
      "reason": "referral to a pest-control professional (B7.1)"
+    },
+    {
+     "re": "\\?\\s*$",
+     "reason": "customer question (FAQ / heading); the answer is checked as its own sentence"
+    },
+    {
+     "re": "\\b(family photographs|photographs, (documents|heirlooms)|documented with photographs|photographs and details)\\b",
+     "reason": "customer's own belongings / records, not a photo service"
+    },
+    {
+     "re": "^\\s*Photograph the\\b",
+     "reason": "step the customer takes (send us photos)"
+    },
+    {
+     "re": "\\b(may (require|decline)|specialized professionals|specialist (cleaners|contractors)|licensed specialists)\\b",
+     "reason": "referral / limitation, not a service we offer"
+    },
+    {
+     "re": "\\b(set aside|separate|remove|keep|mark|identify|take out|put away)\\b[^.]{0,50}\\bvaluables|\\bvaluables\\b[^.]{0,50}\\b(aside|before (we|the crew|removal|pickup))",
+     "reason": "the customer sets valuables aside (B6.1, B6.3)"
     }
    ]
   },
@@ -257,7 +325,9 @@
     "\\b(schools?|community cent(re|er)s?|charit(y|ies)|shelters?)\\b[^.]{0,60}\\bdonat",
     "\\bdonation receipts?\\b",
     "\\bcharity before landfill\\b",
-    "\\b(always|every (item|job|load)|all items?)\\b[^.]{0,30}\\b(recycl|donat)"
+    "\\b(always|every (item|job|load)|all items?)\\b[^.]{0,30}\\b(recycl|donat)",
+    "\\b(recycl|donat)\\w*\\b[^.]{0,60}\\bevery (single )?(job|load|pickup)\\b",
+    "\\bevery (appliance|mattress|piano)\\b[^.]{0,30}\\b(recycl|donat)"
    ],
    "allow": [
     {
@@ -282,7 +352,8 @@
     "\\b(5|five)[- ]star (rated|service|junk|crew|company|reviews?)\\b",
     "\\btop[- ](choice|rated)\\b",
     "\\bhighest[- ]rated\\b",
-    "\\bmost (experienced|professional)\\b"
+    "\\bmost (experienced|professional)\\b",
+    "\\bdozens of (times|jobs|projects)\\b"
    ],
    "allow": []
   },
@@ -295,7 +366,8 @@
      "flags": ""
     },
     "\\bacross canada\\b",
-    "\\b(head ?quartered|located) in\\b"
+    "\\b(head ?quartered|located) in\\b",
+    "\\b(our|local) representatives?\\b|\\brepresentatives? (in|based|located)\\b"
    ],
    "allow": [
     {

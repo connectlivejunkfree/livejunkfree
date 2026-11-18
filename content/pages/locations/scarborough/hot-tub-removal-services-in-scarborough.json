@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Hot Tub Removal Services in Scarborough - Live JunkFree",
-  "description": "Hot Tub Removal Services in Scarborough from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub.",
+  "description": "{{fact:utilityDisconnection}}",
   "canonical": "https://livejunkfree.ca/locations/scarborough/hot-tub-removal-services-in-scarborough/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/08/Hot-Tub-Removal-Services-in-Scarborough.jpeg"
@@ -22,11 +22,6 @@
      "t": "h",
      "l": 1,
      "text": "Hot Tub Removal Services in Scarborough from Live Junk Free"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Hot Tub Removal Services in Scarborough from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub, from a bungalow-belt backyard to a Golden Mile condo terrace, quoted flat on site."
     },
     {
      "t": "ctas",
@@ -80,13 +75,13 @@
     {
      "t": "p",
      "c": [
-      "Hot tub removal is a full-service process that takes an unwanted hot tub from installed to gone in a single visit: the water is drained, any electrical connection is safely disconnected, the shell is cut into sections small enough to carry out, and every piece is hauled away for recycling or disposal. It covers every hot tub type and every property type across Scarborough, from a decades-old bungalow-belt installation to a Golden Mile condo terrace to a home near the Bluffs or a ravine system."
+      "{{fact:utilityDisconnection}} It covers every hot tub type and every property type across Scarborough, from a decades-old bungalow-belt installation to a Golden Mile condo terrace to a home near the Bluffs or a ravine system."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Live Junk Free provides this as one flat-rate service, quoted for free at an in-person walkthrough rather than estimated over the phone. The price is confirmed before any work starts and doesn’t change once the crew is on site."
+      "{{fact:changedScope}}. The price is confirmed before any work starts and doesn’t change once the crew is on site."
      ]
     },
     {
@@ -129,7 +124,7 @@
       },
       {
        "n": "02",
-       "title": "One flat price, wherever in the city the job is",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number reflects the tub, never the neighbourhood, never how close it sits to a ravine or the Bluffs."
@@ -195,7 +190,7 @@
     {
      "t": "p",
      "c": [
-      "Hot tub removal in Scarborough typically runs from a modest fee for a small portable spa up to a higher flat price for a full six-or-seven-seat unit, confirmed for free at an on-site walkthrough. Whether the tub is decades old or brand new, or the property sits near a slope, makes no difference to the price."
+      "{{fact:changedScope}}. Whether the tub is decades old or brand new, or the property sits near a slope, makes no difference to the price."
      ]
     },
     {
@@ -207,7 +202,6 @@
     {
      "t": "checks",
      "items": [
-      "Drain + Disconnect + Cut-Out + Haul-Away",
       "No Rooftop Surcharges"
      ]
     },
@@ -256,7 +250,7 @@
     {
      "t": "p",
      "c": [
-      "A hot tub removal appointment follows four steps: booking, a free on-site quote, the drain-and-cut-out process, and same-day haul-away when available."
+      "{{fact:utilityDisconnection}}"
      ]
     }
    ]
@@ -271,7 +265,7 @@
        "title": "Book Your Hot Tub Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       },
@@ -280,25 +274,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the tub, checks for anything age- or slope-related, and gives you one flat price before touching anything."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "The Tub Gets Drained, Cut and Removed",
-       "text": [
-        [
-         "Water drains responsibly, the shell gets cut into sections that clear your gate or fence line, with older materials handled more carefully."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Your Yard Is Clear",
-       "text": [
-        [
-         "Metal components, motors and pumps are routed to recycling and the rest is disposed of responsibly."
+         "{{fact:changedScope}}."
         ]
        ]
       }
@@ -795,7 +771,7 @@
        "q": "Do I need to drain the hot tub myself before you arrive?",
        "a": [
         [
-         "No — draining is part of the service. No hose, pump, or prep needed beyond reasonably clear access."
+         "{{fact:utilityDisconnection}}"
         ]
        ]
       }

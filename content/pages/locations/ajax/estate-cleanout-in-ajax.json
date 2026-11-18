@@ -135,15 +135,6 @@
        ]
       },
       {
-       "n": "03",
-       "title": "One flat price, confirmed before the clock starts",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "Coordination with realtors, executors and probate timelines",
        "text": [
@@ -199,8 +190,7 @@
     {
      "t": "checks",
      "items": [
-      "Estate Cleanout + Haul-Away in One Number",
-      "{{fact:competitorComparison}}"
+      "Estate Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -216,12 +206,6 @@
      "t": "price",
      "label": "Ajax Estate Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -272,16 +256,7 @@
        "title": "A Free Walkthrough — Price and Date Both Confirmed",
        "text": [
         [
-         "A crew member sees the actual space and gives one flat price alongside a written completion date built to beat the real deadline."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories, with anything meaningful set aside first, and the work tracks against the date agreed."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -359,7 +334,7 @@
        "Careful stairwell and doorway maneuvering with proper equipment"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -405,9 +380,6 @@
       ],
       [
        "Itemized documentation useful for estate accounting purposes"
-      ],
-      [
-       "Same flat pricing whether or not a deadline is involved"
       ]
      ]
     }

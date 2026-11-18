@@ -24,11 +24,6 @@
      "text": "Your Trusted Local Scrap Metal Experts"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "The most reliable scrap metal pickup and recycling service in town."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -63,13 +58,13 @@
     {
      "t": "p",
      "c": [
-      "Removing scrap metal involves more than just basic hauling – it requires careful sorting, safe handling, and environmentally responsible recycling. At Live Junk Free, our professional scrap metal removal service provides complete solutions for all types of metal waste, from household appliances to industrial materials and construction debris."
+      "Removing scrap metal involves more than just basic hauling – it requires safe handling, and environmentally responsible recycling. At Live Junk Free, our professional scrap metal removal service provides complete solutions for all types of metal waste, from household appliances to industrial materials and construction debris."
      ]
     },
     {
      "t": "p",
      "c": [
-      "We specialize in comprehensive appliance and scrap metal removal, handling everything from old refrigerators and washing machines to automotive parts, plumbing fixtures, and structural steel. Our experienced team arrives fully equipped to safely remove and transport your metal waste while following all recycling protocols."
+      "{{fact:structuralDemolition}}. Our experienced team arrives fully equipped to safely remove and transport your metal waste while following all recycling protocols."
      ]
     },
     {
@@ -150,7 +145,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Fast & Reliable Scrap Metal Removal – Same-Day Service Available"
+     "text": "Fast & Reliable Scrap Metal Removal – Same-Day Service may be available"
     },
     {
      "t": "p",
@@ -222,22 +217,12 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Careful Removal"
-    },
-    {
-     "t": "h",
-     "l": 3,
      "text": "– Our professional equipment and handling protect your property during pickup"
     },
     {
      "t": "h",
      "l": 3,
      "text": "Flexible Scheduling"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "{{fact:nextAvailable}}"
     },
     {
      "t": "h",
@@ -263,7 +248,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Same-Day Availability"
+     "text": "Same-Day Availability when available"
     },
     {
      "t": "p",
@@ -289,10 +274,10 @@
      "t": "ul",
      "items": [
       [
-       "We specialize in safely removing all types of scrap metal, from household appliances and auto parts to construction debris and industrial metal waste. Our professional team carefully handles each job, collecting and sorting metals without damaging your property."
+       "We specialize in safely removing all types of scrap metal, from household appliances and auto parts to construction debris and industrial metal waste. {{fact:cleanupScope}}."
       ],
       [
-       "When we’re done, your space will be clean, organized, and ready for new projects. No scrap metal challenge is too big for our experienced crew; we have successfully cleared thousands of properties in your area."
+       "When we’re done, your space will be clean, organized, and ready for new projects."
       ]
      ]
     },
@@ -311,13 +296,13 @@
      "t": "ul",
      "items": [
       [
-       "Responsible Recycling – We ensure 100% of collected metals are processed through recycling facilities, giving scrap new life as raw materials for manufacturing"
+       "Careful Removal"
       ],
       [
-       "Community Impact Program – Recycled metals support local industries and reduce mining demands, helping build a more sustainable future for our community"
+       "Community Impact Program – Recycled Where Possible metals support local industries and reduce mining demands, helping build a more sustainable future for our community"
       ],
       [
-       "Smart Metal Recovery – Our advanced sorting system maximizes material value recovery because every piece of metal deserves an efficient second life"
+       "{{fact:cleanupScope}}."
       ]
      ]
     },
@@ -400,9 +385,6 @@
      "items": [
       [
        "Construction site metal waste"
-      ],
-      [
-       "Machinery & equipment disposal"
       ]
      ]
     }
@@ -508,7 +490,7 @@
        "q": "Can I schedule a same-day scrap metal pickup?",
        "a": [
         [
-         "Yes! Same-day pickup is available."
+         "Yes! Same-day pickup may be available."
         ]
        ]
       },
@@ -516,15 +498,7 @@
        "q": "Do you recycle all collected scrap metal?",
        "a": [
         [
-         "Absolutely! 100% of materials go to recycling facilities."
-        ]
-       ]
-      },
-      {
-       "q": "Do I need to separate different types of metal?",
-       "a": [
-        [
-         "No need – our team handles all sorting."
+         "Absolutely!"
         ]
        ]
       },
@@ -532,7 +506,7 @@
        "q": "Will you remove large or heavy scrap metal items?",
        "a": [
         [
-         "Yes! We have equipment to safely remove heavy machinery, vehicles, and bulk metal."
+         "Yes! {{fact:changedScope}}."
         ]
        ]
       },

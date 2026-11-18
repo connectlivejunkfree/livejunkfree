@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Garage cleanout services in Nobleton from Live Junk Free hand off the one part of the job most people here would rather not spend a weekend on — the hauling and disposal — while you keep deciding what actually stays, goes, or gets donated, priced flat with no minimum-job padding."
+     "text": "{{fact:propertyProtection}}"
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Not because they can’t. Nobleton’s full of people who could sort through a garage’s worth of clutter over a weekend without any help — that’s part of the village’s character. What actually makes garage cleanout worth hiring out isn’t the sorting, which most people want to keep control of anyway. It’s the hauling — loading a truck, making multiple trips to the dump or donation centre, disposing of things properly, all on top of whatever else a weekend was supposed to be for. Live Junk Free handles exactly that part. You decide what stays and what goes; the crew does the lifting and the logistics."
+      "Not because they can’t. Nobleton’s full of people who could sort through a garage’s worth of clutter over a weekend without any help — that’s part of the village’s character. What actually makes garage cleanout worth hiring out isn’t the which most people want to keep control of anyway. It’s the hauling — loading a truck, making multiple trips to the dump or donation centre, disposing of things properly, all on top of whatever else a weekend was supposed to be for. Live Junk Free handles exactly that part. You decide what stays and what goes; the crew does the lifting and the logistics."
      ]
     },
     {
@@ -127,15 +127,6 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "No minimum-job padding on garage cleanout pricing",
-       "text": [
-        [
-         "A small garage cleanout — a handful of items, one weekend’s worth of clutter — prices honestly for what it actually involves, not inflated to match an assumption about what garage cleanout should cost."
-        ]
-       ]
-      },
-      {
        "n": "02",
        "title": "Garage cleanout that leaves the decisions to you, the hauling to us",
        "text": [
@@ -146,10 +137,10 @@
       },
       {
        "n": "03",
-       "title": "One flat garage cleanout price, confirmed before anything moves",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "A crew member sees the actual garage and gives one flat number before anything moves, whether it’s a single-car garage or a full workshop."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -164,7 +155,7 @@
       },
       {
        "n": "05",
-       "title": "Same-day garage cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
@@ -209,7 +200,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Village, Distance or Rural Premium, Ever"
      ]
     },
@@ -226,12 +216,6 @@
      "t": "price",
      "label": "Nobleton Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -273,16 +257,7 @@
        "title": "Book Your Garage Cleanout Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual garage and gives you one flat price before anything moves, sized honestly to what’s actually there."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       },
@@ -300,7 +275,7 @@
        "title": "Your Garage Is Usable",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready to actually park in again."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready to actually park in again."
         ]
        ]
       }
@@ -341,10 +316,7 @@
        "Garage cleanouts for homes around the King Road and Highway 27 corner"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
-       "Same-day service for straightforward village access"
+       "Service for straightforward village access"
       ],
       [
        "You handle the decisions, the crew handles the hauling"
@@ -364,9 +336,6 @@
       ],
       [
        "Project materials, tools and equipment sorted with a careful eye where relevant"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ],
       [
        "Whole-property coordination under one single booking"
@@ -392,9 +361,6 @@
        "Timed to land before your contractor's start date"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Documentation available if the project needs it"
       ]
      ]
@@ -414,7 +380,7 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Recurring seasonal scheduling available on request"
@@ -813,7 +779,7 @@
        "q": "Can you handle a workshop or garage with genuine project materials in it?",
        "a": [
         [
-         "Yes — tools, hardware and materials worth keeping are sorted with a careful eye where relevant, at the same flat pricing as a standard garage. "
+         "{{fact:changedScope}}. "
         ]
        ]
       },
@@ -821,7 +787,7 @@
        "q": "Do you charge extra for hobby farm properties or long driveways?",
        "a": [
         [
-         "Never. The same flat pricing applies at a village home and out on the concessions. "
+         "Never. {{fact:changedScope}}. "
         ]
        ]
       },

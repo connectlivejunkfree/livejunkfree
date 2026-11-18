@@ -53,12 +53,6 @@
     {
      "t": "p",
      "c": [
-      "If you have decided that an infested piece of furniture needs to be removed, it should be handled carefully, sealed properly, and disposed of responsibly."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
       "At ",
       {
        "b": [
@@ -979,7 +973,7 @@
       "The priority is ",
       {
        "b": [
-        "containment"
+        ""
        ]
       },
       "."

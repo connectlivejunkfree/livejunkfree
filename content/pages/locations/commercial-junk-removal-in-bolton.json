@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Bolton runs on commerce — the logistics yards off Coleraine Drive, the shops along Queen Street, the trades filling every unit on Simpson Road. What none of those businesses run on is spare time to deal with junk. Broken racking, retired office furniture, a unit the last tenant left half-full: it all sits there costing you square footage until someone deals with it. That someone is us. Our commercial junk removal services in Bolton put an insured crew and a truck at your door — often the same day — with a free flat-rate quote written on site and every ounce of lifting done by us, not your payroll."
+     "text": "Bolton runs on commerce — the logistics yards off Coleraine Drive, the shops along Queen Street, the trades filling every unit on Simpson Road. What none of those businesses run on is spare time to deal with junk. That someone is us."
     },
     {
      "t": "ctas",
@@ -133,7 +133,7 @@
        "title": "Your crew stays on the tools — ours does the hauling",
        "text": [
         [
-         "Every hour your tradespeople or floor staff spend dragging junk to a bin is an hour of billable work lost. Full-service junk removal means our team dismantles, carries, loads and sweeps while yours keeps working. For most Bolton businesses that labour math alone beats any bin rental."
+         "Every hour your tradespeople or floor staff spend dragging junk to a bin is an hour of billable work lost. {{fact:cleanupScope}}. For most Bolton businesses that labour math alone beats any bin rental."
         ]
        ]
       },
@@ -142,7 +142,7 @@
        "title": "Junk hauling built for real commercial conditions — docks, yards and tight units",
        "text": [
         [
-         "Bolton’s industrial units weren’t designed for gentle work, but your leasehold still has to survive the clear-out. {{fact:propertyProtection}}. The junk leaves; the damage deposit stays intact."
+         "Bolton’s industrial units weren’t designed for gentle work, but your leasehold still has to survive the clear-out. {{fact:propertyProtection}}. {{fact:propertyProtection}}."
         ]
        ]
       },
@@ -266,7 +266,7 @@
        "title": "Walk It, Point at It, Get Your Junk Removal Quote",
        "text": [
         [
-         "Take the crew lead through the unit: the old workstations, the bent racking, whatever the previous tenant abandoned in the mezzanine. Everything gets measured against truck space and you receive one all-in junk removal quote in writing. No pressure attached — the quote doesn’t expire."
+         "{{fact:equipmentScope}}. Everything gets measured against truck space and you receive one all-in junk removal quote in writing. No pressure attached — the quote doesn’t expire."
         ]
        ]
       },
@@ -275,13 +275,13 @@
        "title": "The Junk Hauling Happens Around Your Operation",
        "text": [
         [
-         "Green light given, the crew moves — dismantling fixtures, padding the corridors, running loads out the dock or the back door while your business keeps trading. Nothing waits on your staff and nothing is left for them to lift."
+         "{{fact:propertyProtection}}. Nothing waits on your staff and nothing is left for them to lift."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Swept, Sorted Junk Disposal — Documented",
+       "title": ", Sorted Junk Disposal — Documented",
        "text": [
         [
          "Every Bolton junk removal job ends with a broom, not just an empty room. The truck gets sorted downstream: reusable furniture to donation partners, metal and e-waste to licensed recyclers, landfill strictly last. Disposal paperwork available for your landlord, your auditor or your own files."
@@ -322,9 +322,6 @@
      "t": "ul",
      "items": [
       [
-       "Pallet racking teardown and hauling across Bolton's Coleraine Drive corridor"
-      ],
-      [
        "Damaged skids, strapping, shrink-wrap and packaging waste removal"
       ],
       [
@@ -335,9 +332,6 @@
       ],
       [
        "Yard cleanups, dock clear-offs and container unload leftovers"
-      ],
-      [
-       "Multi-truck scheduling for full distribution centre cleanouts"
       ]
      ]
     },
@@ -359,13 +353,13 @@
        "Filing cabinets, safes and records-room shelving hauled out"
       ],
       [
-       "E-waste disposal: computers, monitors, printers and phone systems, recycled"
+       "E-waste disposal: computers, monitors, printers and phone systems, recycled where possible"
       ],
       [
        "Break room appliances and lobby furniture pickup"
       ],
       [
-       "End-of-lease handovers left broom-swept for the landlord"
+       "End-of-lease handovers left for the landlord"
       ]
      ]
     }
@@ -709,7 +703,7 @@
        "q": "Can you handle industrial-scale loads from Bolton's warehouse district?",
        "a": [
         [
-         "Yes — Bolton’s logistics corridor is core territory for us. Racking teardowns, full distribution-space cleanouts and multi-truck hauls are routine, and we’ll sequence multiple trucks across a day or a week for the biggest industrial junk removal jobs."
+         "Yes — Bolton’s logistics corridor is core territory for us. {{fact:changedScope}}."
         ]
        ]
       },
@@ -725,7 +719,7 @@
        "q": "Do we need to stack or move anything before the crew arrives?",
        "a": [
         [
-         "Nothing. Leave it bolted, buried or exactly where it died — mezzanines, basements, back offices included. The dismantling and every single carry are what the flat junk removal rate is buying you."
+         "Nothing. Leave it bolted, buried or exactly where it died — mezzanines, basements, back offices included. {{fact:changedScope}}."
         ]
        ]
       },
@@ -733,7 +727,7 @@
        "q": "Is a bin rental cheaper than full-service junk removal?",
        "a": [
         [
-         "Rarely, once you count it all. A bin bills daily, may need a permit, blocks yard space — and your staff still spend paid hours loading it. Our crew arrives, hauls everything in one visit at one flat price, and the space is usable again by end of day."
+         "Rarely, once you count it all. {{fact:permits}}"
         ]
        ]
       },

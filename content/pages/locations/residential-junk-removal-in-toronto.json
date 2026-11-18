@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "{{fact:competitorComparison}}",
-  "description": "Got clutter taking over your Toronto home? We haul it all away — furniture, appliances, renovation debris & more. Fully insured, same-day available. Call +1 647 922 5865!",
+  "description": "Got clutter taking over your Toronto home? We haul it all away — furniture, appliances, renovation debris & more. Fully insured, same-day may be available. Call +1 647 922 5865!",
   "canonical": "https://livejunkfree.ca/locations/residential-junk-removal-in-toronto/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2025/07/Rectangle-1660.webp"
@@ -38,7 +38,7 @@
     {
      "t": "p",
      "c": [
-      "That’s where Live Junk Free comes in. We provide professional residential junk removal in Toronto for homeowners, condo residents, renters, and landlords across the city. One call, one visit, and your unwanted stuff is gone — lifted, hauled, and disposed of responsibly, without you touching a thing."
+      "That’s where Live Junk Free comes in. We provide professional residential junk removal in Toronto for homeowners, condo residents, renters, and landlords across the city. {{fact:scheduling}}"
      ]
     },
     {
@@ -46,7 +46,7 @@
      "c": [
       {
        "b": [
-        "Same-day and next-day pickups available across Toronto."
+        "Same-day and next-day pickups may be available across Toronto."
        ]
       }
      ]
@@ -171,7 +171,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Unlike other junk removal companies, we don't just do curbside pickup in Toronto and drive off. Once your items are loaded, we sweep up and leave the area looking fresh and ready to use."
+     "text": "Unlike other junk removal companies, we don't just do curbside pickup in Toronto and drive off. Once your items are loaded, we and leave the area looking fresh and ready to use."
     }
    ]
   },
@@ -259,7 +259,7 @@
       {
        "title": "Sustainable & Eco-Friendly Junk Disposal",
        "text": [
-        "Wondering what happens to your junk? We take full responsibility for handling it the right way. Usable items are donated, recyclables are recycled, and the rest is disposed of sustainably to reduce landfill waste and promote a greener Toronto."
+        "Wondering what happens to your junk? We take full responsibility for handling it the right way. Usable items are donated, recyclables are recycled where possible, and the rest is disposed of sustainably to reduce landfill waste and promote a greener Toronto."
        ]
       }
      ]
@@ -293,7 +293,7 @@
        "q": "Appliance Removal & Recycling in Toronto",
        "a": [
         [
-         "Broken fridge? Retired washer and dryer? We safely disconnect (where applicable), haul away, and responsibly recycle household appliances of all kinds, including stoves, dishwashers, freezers, and microwaves."
+         "Broken fridge? Retired washer and dryer? {{fact:utilityDisconnection}}"
         ]
        ]
       },

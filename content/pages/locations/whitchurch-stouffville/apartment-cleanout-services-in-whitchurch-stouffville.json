@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Apartment cleanout services in Whitchurch-Stouffville from Live Junk Free are needed most often near the GO station and the surrounding growth corridor, where commuter rental demand keeps turnover steady — cleared efficiently, on a schedule that respects how quickly a unit needs to be ready for the next tenant."
+     "text": "Careful Removal"
     },
     {
      "t": "ctas",
@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "Any rare unit elsewhere in the township gets the identical flat pricing and standard of care."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -145,29 +145,11 @@
        ]
       },
       {
-       "n": "03",
-       "title": "One flat apartment cleanout price, wherever the unit is",
-       "text": [
-        [
-         "The number reflects the unit’s volume — never whether it’s near the station or elsewhere in the township."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "Local landlord apartment cleanout coordination",
        "text": [
         [
          "Move-out and move-in dates get factored into the plan from the first call, sized to the reality of managing local rental units."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first apartment cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -203,7 +185,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the unit, and how much sorting it genuinely needs. A lightly furnished apartment is a modest job. A unit left full after a tenancy takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A lightly furnished apartment is a modest job. A unit left full after a tenancy takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -215,7 +197,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Location Premiums"
      ]
     },
@@ -236,7 +217,7 @@
     {
      "t": "p",
      "c": [
-      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -278,15 +259,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual unit and gives you one flat price before anything moves."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Apartment Gets Cleared, Efficiently",
        "text": [
@@ -300,7 +272,7 @@
        "title": "The Unit Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready for the next tenant."
+         "Careful Removal"
         ]
        ]
       }
@@ -341,13 +313,10 @@
        "Coordination around commuter rental demand specifically"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Full protection of finished floors throughout"
-      ],
-      [
-       "Donation-first sorting before any recycling"
       ]
      ]
     },
@@ -367,9 +336,6 @@
       ],
       [
        "Scheduled around your move dates"
-      ],
-      [
-       "Same flat pricing regardless of who's on title"
       ],
       [
        "Sized to the reality of managing local rental units"
@@ -393,9 +359,6 @@
      "items": [
       [
        "Apartment cleanouts covering any unit outside the growth corridor"
-      ],
-      [
-       "Same flat pricing as the GO station corridor"
       ],
       [
        "Discreet, unhurried scheduling on request"
@@ -426,16 +389,13 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -823,7 +783,7 @@
        "q": "Is apartment cleanout mostly a GO station corridor service?",
        "a": [
         [
-         "Honestly, yes — most of the township’s rental stock has grown up around commuter demand near the station, though any unit elsewhere gets the same flat pricing."
+         "{{fact:changedScope}}."
         ]
        ]
       },

@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Business Cleanout Services in Whitby | Live Junk Free",
-  "description": "Business cleanout services in Whitby from Live Junk Free work around your operating hours, not the other way around — after-hours,...",
+  "description": "{{fact:scheduling}}",
   "canonical": "https://livejunkfree.ca/locations/whitby/business-cleanout-services-in-whitby/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/08/Business-Cleanout-Services-in-Whitby-576x1024.jpg"
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Business cleanout services in Whitby from Live Junk Free work around your operating hours, not the other way around — after-hours, weekend, or scheduled around your slowest stretch, so a closure or relocation never becomes a disruption to the business next door."
+     "text": "{{fact:pickupTimes}}"
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because a closure or relocation rarely happens in isolation — there’s a landlord waiting on the unit, other tenants in the same plaza still open for business, and customers who don’t need to see a dumpster parked out front during peak hours. Live Junk Free plans every business cleanout around that reality, scheduling the loudest and most visible parts of the job for after-hours or weekends wherever possible, so the business next door never has to explain what’s happening outside its window."
+      "Because a closure or relocation rarely happens in isolation — there’s a landlord waiting on the unit, other tenants in the same plaza still open for business, and customers who don’t need to see a dumpster parked out front during peak hours. {{fact:scheduling}}"
      ]
     },
     {
@@ -131,25 +131,16 @@
        "title": "Business cleanout scheduling built around your operating hours",
        "text": [
         [
-         "Loading, hauling and the noisiest parts of the job get timed for after-hours or weekends wherever the business needs it, so a closure or move never becomes a spectacle for customers or neighbours."
+         "{{fact:scheduling}}"
         ]
        ]
       },
       {
        "n": "02",
-       "title": "One flat business cleanout price, confirmed before anything moves",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "A crew member sees the actual space and gives one flat number before anything moves — no per-item guessing once the work starts."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Same-day business cleanout service, most of the time",
-       "text": [
-        [
-         "{{fact:nextAvailable}}"
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -159,15 +150,6 @@
        "text": [
         [
          "Where a landlord or property manager has set a hard date for the space to be empty, that gets built into the schedule with margin, not discovered as a problem later."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first business cleanout sorting for fixtures and equipment",
-       "text": [
-        [
-         "Furniture, fixtures and equipment still in good condition go to donation partners or resale channels first, before anything reaches disposal."
         ]
        ]
       },
@@ -209,7 +191,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -230,7 +211,7 @@
     {
      "t": "p",
      "c": [
-      "Every business cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every business cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -272,15 +253,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual space and gives you one flat price before anything moves, with timing built around your business."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Space Gets Cleared, on Your Schedule",
        "text": [
@@ -294,7 +266,7 @@
        "title": "Your Space Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and ready for the next tenant or its next chapter."
+         "Careful Removal"
         ]
        ]
       }
@@ -327,9 +299,6 @@
      "items": [
       [
        "Business cleanouts for storefronts around the Four Corners and downtown core"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ],
       [
        "Fixture and shelving removal handled carefully around neighbouring tenants"
@@ -388,9 +357,6 @@
      "items": [
       [
        "Business cleanouts for warehouse and light industrial spaces"
-      ],
-      [
-       "Larger-volume equipment and racking removal"
       ],
       [
        "Crew size scaled appropriately to the real scope of the space"
@@ -773,7 +739,7 @@
        "q": "How much do business cleanout services cost in Whitby?",
        "a": [
         [
-         "Pricing is confirmed free at an on-site walkthrough based on the space’s actual volume and how much sorting it needs — never on when the work happens. "
+         "{{fact:cleanupScope}}. "
         ]
        ]
       },
@@ -989,7 +955,7 @@
          "26. How long does a business cleanout take in Whitby?"
         ],
         [
-         "The timeline depends on the size of the property, amount of junk, type of items, number of crew members, and accessibility. A small office may be cleared much faster than a large warehouse or multi-floor commercial property."
+         "The timeline depends on the size of the property, amount of junk, type of items, number of crew members, and accessibility. {{fact:changedScope}}."
         ],
         [
          "27. How quickly can a commercial cleanout be scheduled?"
@@ -1013,16 +979,16 @@
          "30. Do you provide weekend commercial cleanout services?"
         ],
         [
-         "Yes, weekend scheduling can be an option for businesses that need to keep their regular operations running during the week. Advance scheduling is recommended for larger commercial cleanouts."
+         "Yes, weekend scheduling can be an option for businesses that need to keep their regular operations running during the week, subject to scheduling. Advance scheduling is recommended for larger commercial cleanouts."
         ],
         [
          "31. Can you clean out a business without disrupting daily operations?"
         ],
         [
-         "A cleanout can often be planned around business hours, customer traffic, tenant access, and other property activities. After-hours or weekend scheduling may help reduce disruption for active businesses."
+         "A cleanout can often be planned around business hours, customer traffic, tenant access, and other property activities. {{fact:scheduling}}"
         ],
         [
-         "32. Can you handle a large or multi-floor commercial cleanout?"
+         "32. {{fact:changedScope}}."
         ],
         [
          "Yes, larger commercial cleanouts can be planned according to the property’s size, number of floors, amount of material, and access conditions. Details about elevators, stairs, loading areas, and parking can help the crew prepare for the job."
@@ -1049,7 +1015,7 @@
          "36. How do you dispose of unwanted commercial junk?"
         ],
         [
-         "Commercial junk is sorted according to its material and disposal requirements. Items that cannot be reused or recycled are taken through appropriate disposal channels, while hazardous materials require specialized handling."
+         "Commercial junk is sorted according to its material and disposal requirements. Items that cannot be reused or recycled where possible are taken through appropriate disposal channels, while hazardous materials require specialized handling."
         ],
         [
          "37. Can you separate items for recycling and donation during a cleanout?"

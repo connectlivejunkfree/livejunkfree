@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Storage unit cleanout services in Scarborough from Live Junk Free cover a genuinely wide range of reasons a unit fills up — multigenerational households needing overflow space, condo living near Scarborough Town Centre that never quite fits everything, or simply years of accumulation in a bungalow-belt family's unit — with the same competency across all of it."
+     "text": "{{fact:pickupTimes}}"
     },
     {
      "t": "ctas",
@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "Whichever facility the unit’s at, the same flat pricing and the same careful process apply."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -149,24 +149,6 @@
        ]
       },
       {
-       "n": "04",
-       "title": "Same-day storage unit cleanout service, most of the time",
-       "text": [
-        [
-         "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first storage unit cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
-        ]
-       ]
-      },
-      {
        "n": "06",
        "title": "Independent storage unit cleanout pricing",
        "text": [
@@ -198,7 +180,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how full the unit actually is, and how much sorting it genuinely needs. A small condo overflow unit is a modest job. A larger unit holding belongings from a multigenerational household takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small condo overflow unit is a modest job. A larger unit holding belongings from a multigenerational household takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -210,8 +192,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -231,7 +212,7 @@
     {
      "t": "p",
      "c": [
-      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -268,7 +249,7 @@
        "title": "Book Your Storage Unit Cleanout Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       },
@@ -277,7 +258,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual unit and gives you one flat price before anything moves, whatever the household or building type behind it."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -295,7 +276,7 @@
        "title": "Your Unit Is Empty and Ready to Return",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready to hand back to the facility."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready to hand back to the facility."
         ]
        ]
       }
@@ -333,13 +314,7 @@
        "Coordination across household members with different preferences"
       ],
       [
-       "Same flat pricing regardless of how many people contributed to the unit"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
-      ],
-      [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Documentation available where needed"
@@ -364,10 +339,10 @@
        "Coordination around building or facility rules where relevant"
       ],
       [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Documentation available if needed"
@@ -393,16 +368,10 @@
        "Real patience for belongings tied to a longer household history"
       ],
       [
-       "Same flat pricing as any other storage unit cleanout"
-      ],
-      [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Coordination with family on pace and timing"
       ],
       [
-       "Same-day service where access allows"
+       "Service where access allows"
       ]
      ]
     },
@@ -421,16 +390,13 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }

@@ -112,7 +112,7 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat demolition price — the same number on Brock Street or a concession",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Whether it’s a shed, a deck, a garage or a full above ground pool, Live Junk Free’s quote covers the entire job: breaking the structure down, hauling every piece off the property, and disposing of or recycling it responsibly."
@@ -124,7 +124,7 @@
        "title": "Free on-site demolition quotes anywhere in the township",
        "text": [
         [
-         "A crew member walks your Uxbridge property, looks at what’s coming down — size, material, laneway access, how close it sits to anything staying — and gives you a flat price before any work starts. Free visit, no obligation."
+         "{{fact:changedScope}}. Free visit, no obligation."
         ]
        ]
       },
@@ -251,7 +251,7 @@
        "title": "Book Your Demolition Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available. Tell us what’s coming down, however far down the laneway it sits."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available. Tell us what’s coming down, however far down the laneway it sits."
         ]
        ]
       },
@@ -260,7 +260,7 @@
        "title": "Get a Free On-Site Demolition Quote",
        "text": [
         [
-         "The crew looks at the structure, checks what’s nearby and flags anything worth setting aside, then gives you one flat price before touching anything. No pressure — decline and there’s no charge."
+         "{{fact:changedScope}}. No pressure — decline and there’s no charge."
         ]
        ]
       },
@@ -316,9 +316,6 @@
        "Hot Tub Demolition — shell cut apart and removed, drained and disconnected first"
       ],
       [
-       "Jacuzzi Demolition — same careful drain-disconnect-cut process, any size"
-      ],
-      [
        "Surrounding decking and pad removal available alongside the pool or tub"
       ]
      ]
@@ -362,9 +359,6 @@
       ],
       [
        "Garage Demolition — detached garages and carports taken down and hauled"
-      ],
-      [
-       "Deck Demolition — wood and composite decks removed, footings addressed"
       ],
       [
        "Fence Demolition — full fence lines or single sections torn out and hauled, long rural runs included"
@@ -667,7 +661,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {
@@ -1026,7 +1020,7 @@
        "q": "Do you cover the hamlets — Goodwood, Zephyr, Leaskdale, Sandford?",
        "a": [
         [
-         "Every one, at the same flat pricing as downtown. Demolition on those concessions rides the same daily routes; no address waits longer or pays more."
+         "{{fact:changedScope}}. Demolition on those concessions rides the same daily routes; no address waits longer or pays more."
         ]
        ]
       },

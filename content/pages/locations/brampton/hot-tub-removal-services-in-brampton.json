@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Hot Tub Removal Services in Brampton - Live JunkFree",
-  "description": "Hot Tub Removal Services in Brampton from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub.",
+  "description": "{{fact:utilityDisconnection}}",
   "canonical": "https://livejunkfree.ca/locations/brampton/hot-tub-removal-services-in-brampton/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/08/Hot-Tub-Removal-Services-in-Brampton.jpeg"
@@ -22,11 +22,6 @@
      "t": "h",
      "l": 1,
      "text": "Hot Tub Removal Services in Brampton from Live Junk Free"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Hot Tub Removal Services in Brampton from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub, sized to match a small backyard or a large one, quoted flat on site."
     },
     {
      "t": "ctas",
@@ -80,7 +75,7 @@
     {
      "t": "p",
      "c": [
-      "Hot tub removal in Brampton typically runs from a modest fee for a small portable spa up to a higher flat price for a full six-or-seven-seat unit, confirmed for free at an on-site walkthrough. The price reflects the tub’s actual size and condition — never the neighbourhood, and never an assumption about how a larger family backyard should cost more to service."
+      "{{fact:changedScope}}. The price reflects the tub’s actual size and condition — never the neighbourhood, and never an assumption about how a larger family backyard should cost more to service."
      ]
     },
     {
@@ -129,7 +124,7 @@
       },
       {
        "n": "02",
-       "title": "One flat price, whatever the backyard's size",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number is set at the walkthrough and doesn’t change once work starts — no adjustment for how big the family or the gathering space turns out to be."
@@ -151,15 +146,6 @@
        "text": [
         [
          "Springdale, Bramalea, Heart Lake, downtown — the same crew and equipment cover all of it."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Draining and disconnection handled the safe way",
-       "text": [
-        [
-         "Water drains responsibly first, and any electrical hookup is confirmed dead before the crew touches it — a hardwired 240V line needs prior disconnection by a licensed electrician."
         ]
        ]
       },
@@ -195,13 +181,12 @@
     {
      "t": "p",
      "c": [
-      "Every quote is one flat number covering four things: draining the tub, disconnecting any electrical, cutting the shell into sections, and hauling it away for disposal or recycling."
+      "{{fact:changedScope}}."
      ]
     },
     {
      "t": "checks",
      "items": [
-      "Drain + Disconnect + Cut-Out + Haul-Away",
       "No Rooftop Surcharges"
      ]
     },
@@ -250,7 +235,7 @@
     {
      "t": "p",
      "c": [
-      "A hot tub removal appointment follows four steps: booking, a free on-site quote, the drain-and-cut-out process, and same-day haul-away when available."
+      "{{fact:utilityDisconnection}}"
      ]
     }
    ]
@@ -265,34 +250,7 @@
        "title": "Book Your Hot Tub Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the tub, sizes the real scope of the work, confirms any electrical is safely disconnected, and gives you one flat price before touching anything."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "The Tub Gets Drained, Cut and Removed",
-       "text": [
-        [
-         "Water drains responsibly, the shell gets cut into sections that clear your gate or fence line, with crew size matched to what’s actually there."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Your Yard Is Clear",
-       "text": [
-        [
-         "Metal components, motors and pumps are routed to recycling and the rest is disposed of responsibly."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       }
@@ -330,7 +288,7 @@
      "t": "ul",
      "items": [
       [
-       "For typical residential lots across every neighbourhood: straightforward removal, same-day service."
+       "For typical residential lots across every neighbourhood: straightforward removal, same-day service when available."
       ]
      ]
     },
@@ -765,7 +723,7 @@
        "q": "Our tub was built big for hosting extended family — does that make removal harder?",
        "a": [
         [
-         "Not in a way that complicates the process, just the pricing math. The crew sizes up appropriately for a larger tub and quotes accordingly, with the same one-flat-number approach as a smaller job."
+         "Not in a way that complicates the process, just the pricing math. {{fact:changedScope}}."
         ]
        ]
       },
@@ -773,7 +731,7 @@
        "q": "Do I need to drain the hot tub myself before you arrive?",
        "a": [
         [
-         "No — draining is part of the service. No hose, pump, or prep needed beyond reasonably clear access."
+         "{{fact:utilityDisconnection}}"
         ]
        ]
       },
@@ -781,7 +739,7 @@
        "q": "Is it safe to remove a hot tub that's still wired to electrical?",
        "a": [
         [
-         "Only once the power is confirmed off. A hardwired 240V connection needs prior disconnection by a licensed electrician."
+         "Only once the power is confirmed off. {{fact:utilityDisconnection}}"
         ]
        ]
       },

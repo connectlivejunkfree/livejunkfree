@@ -53,7 +53,7 @@
     {
      "t": "p",
      "c": [
-      "You may have to deal with nails, heavy materials, roofing, electrical connections, unstable structures, concrete foundations, and large amounts of debris."
+      "{{fact:structuralDemolition}}."
      ]
     },
     {
@@ -196,16 +196,10 @@
        "Preparing the work area"
       ],
       [
-       "Disconnecting utilities if applicable"
-      ],
-      [
        "Removing the roof"
       ],
       [
        "Dismantling the structure"
-      ],
-      [
-       "Sorting debris"
       ],
       [
        "Loading materials"
@@ -560,12 +554,6 @@
      "c": [
       "Electrical work should be handled safely by a qualified professional."
      ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "A demolition company can also advise you on what needs to be disconnected before the structure is removed."
-     ]
     }
    ]
   },
@@ -606,12 +594,6 @@
       [
        "Wooden framing"
       ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "Working on a roof introduces additional fall and structural risks."
      ]
     },
     {
@@ -977,7 +959,7 @@
        "Donated"
       ],
       [
-       "Recycled"
+       "Recycled Where Possible"
       ],
       [
        "Sorted for appropriate disposal"
@@ -1199,7 +1181,7 @@
      "c": [
       {
        "b": [
-        "Disconnect Utilities"
+        ""
        ]
       }
      ]
@@ -1207,7 +1189,7 @@
     {
      "t": "p",
      "c": [
-      "If the shed has electricity, plumbing, or other utilities, make sure they are safely disconnected by the appropriate professional."
+      "{{fact:utilityDisconnection}}"
      ]
     },
     {
@@ -1326,12 +1308,6 @@
       ],
       [
        "Plumbing"
-      ],
-      [
-       "Foundations"
-      ],
-      [
-       "Structural supports"
       ]
      ]
     },
@@ -1376,9 +1352,6 @@
       ],
       [
        "Construction materials"
-      ],
-      [
-       "Structural condition"
       ],
       [
        "Location"

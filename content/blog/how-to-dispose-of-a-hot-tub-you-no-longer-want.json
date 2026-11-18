@@ -110,20 +110,11 @@
        "Insulation"
       ],
       [
-       "Pumps"
-      ],
-      [
        "Heaters"
       ],
       [
        "Covers"
       ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "Many hot tubs are also located in difficult areas such as backyards, decks, patios, or tight side passages."
      ]
     },
     {
@@ -275,9 +266,6 @@
        "Preparing the hot tub"
       ],
       [
-       "Disconnecting the appropriate components"
-      ],
-      [
        "Dismantling the unit"
       ],
       [
@@ -343,7 +331,7 @@
     {
      "t": "p",
      "c": [
-      "If your hot tub is hardwired, have the electrical connection safely disconnected by a qualified professional before demolition or removal begins."
+      "{{fact:utilityDisconnection}}"
      ]
     },
     {
@@ -359,24 +347,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "5. Drain the Hot Tub Completely"
-    },
-    {
-     "t": "p",
-     "c": [
-      "Before the hot tub can be removed, all water needs to be drained."
-     ]
+     "text": "5."
     },
     {
      "t": "p",
      "c": [
       "A filled hot tub is far too heavy to move safely."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "Drain the water according to local requirements and avoid directing large amounts of water toward areas where it could cause:"
      ]
     },
     {
@@ -1069,7 +1045,7 @@
      "c": [
       {
        "b": [
-        "Drain the Water"
+        ""
        ]
       }
      ]
@@ -1085,15 +1061,9 @@
      "c": [
       {
        "b": [
-        "Disconnect Utilities"
+        ""
        ]
       }
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "Have electrical or other utility connections safely disconnected by the appropriate professional."
      ]
     },
     {
@@ -1328,7 +1298,7 @@
       {
        "title": "How do you dispose of an old hot tub?",
        "text": [
-        "An old hot tub can be sold, donated, recycled through an appropriate facility, handled through a municipal program where accepted, or professionally demolished and removed."
+        "An old hot tub can be sold, donated, recycled where possible through an appropriate facility, handled through a municipal program where accepted, or professionally demolished and removed."
        ]
       },
       {
@@ -1340,7 +1310,7 @@
       {
        "title": "Do I need to drain my hot tub before removal?",
        "text": [
-        "Yes. The hot tub should be completely drained before it is dismantled or moved."
+        "Yes. {{fact:utilityDisconnection}}"
        ]
       },
       {
@@ -1418,12 +1388,6 @@
        ]
       },
       "."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "Before removal, drain the water, safely disconnect utilities, clear the surrounding area, and let the professionals handle the heavy dismantling and hauling."
      ]
     },
     {

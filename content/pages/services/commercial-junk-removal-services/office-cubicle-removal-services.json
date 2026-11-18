@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/07/Office-Cubical-Removal-Services.jpeg"
  },
  "title": "Office Cubicle Removal Services",
- "h1": "Most Trusted Cubical Removal Service in Your Area",
+ "h1": "Cubical Removal Service in Your Area",
  "published": "2026-07-10T07:48:19",
  "modified": "2026-07-23T08:06:36",
  "sections": [
@@ -21,12 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Most Trusted Cubical Removal Service in Your Area"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in town."
+     "text": "Cubical Removal Service in Your Area"
     },
     {
      "t": "ctas",
@@ -209,7 +204,7 @@
       {
        "title": "Careful Removal",
        "text": [
-        "Our insured teams use protective floor coverings and specialized tools to prevent scratches, dents, or marks during dismantling."
+        "{{fact:propertyProtection}}."
        ]
       },
       {
@@ -219,19 +214,7 @@
        ]
       },
       {
-       "title": "{{fact:recycling}}",
-       "text": [
-        "{{fact:recycling}}"
-       ]
-      },
-      {
-       "title": "Transparent Flat-Rate Pricing",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
-      {
-       "title": "5-Star Rated Service",
+       "title": "Service",
        "text": [
         "Consistently excellent reviews for professional service and sustainable disposal practices"
        ]
@@ -288,9 +271,6 @@
       ],
       [
        "Free estimates via phone, text, or email"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -362,12 +342,6 @@
        ]
       },
       {
-       "title": "Get a Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
-      {
        "title": "Schedule Your Slot",
        "text": [
         "Choose same-day, next-day, or a time that works for your business operations, subject to scheduling. We work around your office hours."
@@ -376,7 +350,7 @@
       {
        "title": "We Clean It Out",
        "text": [
-        "Our professional team arrives on time, removes all cubicals and office furniture safely, and leaves your space completely clean."
+        "Careful Removal"
        ]
       }
      ]

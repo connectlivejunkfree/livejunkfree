@@ -50,7 +50,7 @@
         "Live Junk Free"
        ]
       },
-      " is Whitby’s trusted local junk removal service provider company — locally operated, fully insured and built to clear every type of property across every Whitby neighbourhood, fast and professionally. We come to your Whitby property, assess everything in person, give you a completely free on-site estimate before touching a single item, and if you’re ready, your clutter is cleared the same day. No complicated process.. No dragging it out."
+      " is Whitby’s trusted local junk removal service provider company — locally operated, fully insured and built to clear every type of property across every Whitby neighbourhood, fast and professionally. We come to your Whitby property, assess everything in person, give you a completely free on-site estimate before touching a single item, and if you’re ready, your clutter is cleared the same day, subject to availability. No complicated process.. No dragging it out."
      ]
     },
     {
@@ -115,29 +115,9 @@
      "text": "Whitby homeowners recommend us because we show up when we say we will, price every job honestly and leave every property cleaner than we found it. Whitby landlords and property managers recommend us because we handle tenant cleanouts efficiently and reliably — getting rental properties back to market faster. Whitby businesses recommend us because we're professional, discreet and always on schedule. And Whitby families going through estate or senior home transitions recommend us because we handle the most difficult situations with genuine care and sensitivity."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Volume-based pricing — the only method that makes complete sense",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "You pay based on how much space your items fill in our truck. It's a single, clear, understandable measurement. No hourly billing where every slow moment costs you. No per-item pricing that turns into a complicated list."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "We come to your Whitby property and quote in person",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -145,29 +125,9 @@
      "text": "We physically visit, walk through every area you need cleared — garage, basement, backyard, rental unit, construction site, commercial floor — and calculate your price based on what we see. The quote we hand you is based on real information, not estimates and assumptions."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One flat-rate number",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} No Durham Region travel fees. No \"disposal premium\" waiting at the end. One number, everything covered, nothing hidden."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Makes sense for rental properties too",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -175,29 +135,9 @@
      "text": "Landlords and property managers in Whitby often need quick, reliable cleanouts — and they need the pricing to make sense on their numbers. Our volume-based model gives you accurate, consistent pricing across every tenant cleanout, every time. No fluctuating hourly surprises. No per-item lists that drag on."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "{{fact:competitorComparison}}",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Once you've reviewed and approved the quote, that number is the final number — regardless of how the job develops. No changes, no additions, no \"we found a bit more than expected\" conversations. Approved is approved."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -264,7 +204,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The most straightforward promise in Whitby junk removal: book today, wake up to a clutter-free property tomorrow. Our same-day and next-day junk removal process in Whitby, Ontario is built around delivering exactly that — from your first call to a completely cleared, swept-clean space, subject to scheduling. Here's the complete 4-step process:"
+     "text": "The most straightforward promise in Whitby junk removal: book today, wake up to a clutter-free property tomorrow. Our same-day and next-day junk removal process in Whitby, Ontario is built around delivering exactly that — from your first call to a completely cleared-clean space, subject to scheduling. Here's the complete 4-step process:"
     },
     {
      "t": "cards",
@@ -272,7 +212,7 @@
       {
        "title": "Book Your Pickup",
        "text": [
-        "Call +1 647 922 5865 or book online in minutes. We'll confirm your same-day or next-day appointment when available and provide a 30-minute arrival notice before we arrive."
+        "Call +1 647 922 5865 or book online in minutes. {{fact:scheduling}}"
        ]
       },
       {
@@ -290,7 +230,7 @@
       {
        "title": "Enjoy a Clean, Clutter-Free Property",
        "text": [
-        "We complete a final walkthrough, sweep the area clean, and ensure items are donated, recycled, or disposed of responsibly."
+        "We complete a final walkthrough, and ensure items are donated, recycled where possible, or disposed of responsibly."
        ]
       }
      ]
@@ -418,7 +358,7 @@
          "Rental unit renovation debris removal Whitby"
         ],
         [
-         "Multi-unit rental property cleanout Whitby"
+         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -663,7 +603,7 @@
        "q": "Q: Do you offer same-day junk removal in Whitby?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of Whitby including Pringle Creek, Port Whitby, Rolling Acres, Brooklin, Taunton North, Williamsburg and all surrounding Durham Region communities. Call +1 647 922 5865 to confirm today’s availability."
+         "{{fact:scheduling}} Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },
@@ -695,7 +635,7 @@
        "q": "Q: Are you a local Whitby company or a national franchise?",
        "a": [
         [
-         "A: We are 100% locally owned and operated — not a franchise."
+         "Careful Removal"
         ]
        ]
       },

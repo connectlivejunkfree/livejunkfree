@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Live Junk Free provides eviction cleanout services in Scarborough for landlords, property managers and homeowners who need unwanted belongings removed without handling the heavy lifting themselves. Our crew takes care of the removal, loading and hauling of accepted items and sweeps the cleared areas afterward."
+     "text": "Live Junk Free provides eviction cleanout services in Scarborough for landlords, property managers and homeowners who need unwanted belongings removed without handling the heavy lifting themselves."
     },
     {
      "t": "ctas",
@@ -129,7 +129,7 @@
        "title": "Apartment & Condo Eviction Cleanouts in Scarborough",
        "text": [
         [
-         "Many Scarborough rental properties are located in apartment and condo buildings where furniture and belongings may need to be moved through hallways, elevators or building access points. Our trained crew handles the lifting and loading of accepted items while working carefully around the property."
+         "Our trained crew handles the lifting and loading of accepted items while working carefully around the property."
         ]
        ]
       },
@@ -157,15 +157,6 @@
        "text": [
         [
          "Eviction cleanouts can contain furniture, electronics, metals, clothing and recyclable materials. Where practical, eligible items are sorted for recycling or donation, while remaining accepted materials are handled through responsible disposal methods."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Final Sweep After Your Scarborough Eviction Cleanout",
-       "text": [
-        [
-         "After the agreed belongings have been removed, our crew sweeps the cleared areas. This helps leave the property tidier and gives landlords, property managers or cleaners a better starting point for preparing the unit or home."
         ]
        ]
       }
@@ -309,7 +300,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -373,7 +364,7 @@
        "title": "We Remove It All",
        "text": [
         [
-         "Our crew handles the lifting, loading and hauling of the agreed items. Once the removal is complete, we sweep the cleared areas and leave the property more manageable."
+         "Our crew handles the lifting, loading and hauling of the agreed items. {{fact:cleanupScope}}."
         ]
        ]
       }
@@ -1192,7 +1183,7 @@
        "q": "Do you offer same-day eviction cleanouts in Scarborough?",
        "a": [
         [
-         "Yes. Live Junk Free offers same-day and next-day eviction cleanout services in Scarborough when appointments are available. Contact us as soon as possible if you need the property cleared quickly. "
+         "Yes. Live Junk Free offers same-day and next-day eviction cleanout services when available in Scarborough when appointments are available. Contact us as soon as possible if you need the property cleared quickly. "
         ]
        ]
       },
@@ -1200,7 +1191,7 @@
        "q": "What is included in an eviction cleanout in Scarborough?",
        "a": [
         [
-         "A Scarborough eviction cleanout can include the removal of unwanted furniture, mattresses, appliances, electronics, clothing, trash, recyclables and other accepted belongings. Cleanouts can cover rooms, garages and basements, followed by a final sweep of the cleared areas. "
+         "A Scarborough eviction cleanout can include the removal of unwanted furniture, mattresses, appliances, electronics, clothing, trash, recyclables and other accepted belongings. {{fact:cleanupScope}}. "
         ]
        ]
       }

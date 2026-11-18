@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Hot Tub Removal Services in Toronto - Live JunkFree",
-  "description": "Hot Tub Removal Services in Toronto from Live Junk Free — the fast, affordable way to get rid of an old hot tub, jacuzzi or spa: draining, disconnecting.",
+  "description": "{{fact:utilityDisconnection}}",
   "canonical": "https://livejunkfree.ca/locations/toronto/hot-tub-removal-services-in-toronto/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/Hot-Tub-Removal-Services-in-Toronto.jpeg"
@@ -22,11 +22,6 @@
      "t": "h",
      "l": 1,
      "text": "Hot Tub Removal Services in Toronto from Live Junk Free"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Hot Tub Removal Services in Toronto from Live Junk Free — the fast, affordable way to get rid of an old hot tub, jacuzzi or spa: draining, disconnecting, cutting apart and hauling away by an insured crew, with a flat hot tub removal cost quoted on site and hot tub pickup available today."
     },
     {
      "t": "ctas",
@@ -80,7 +75,7 @@
     {
      "t": "p",
      "c": [
-      "If you’re searching “hot tub removal near me” or “spa removal near me” in Toronto, here’s the short answer: Live Junk Free’s crews cover every neighbourhood, every day. Through the semis and rows of Riverdale, Leslieville, Roncesvalles and the Annex, it’s tight-access hot tub disposal — narrow side yards and laneway-only paths that most companies won’t quote properly. In condo towers and penthouse suites downtown and midtown, it’s rooftop and terrace spa removal, cut down and carried out through freight elevators booked to the building’s rules. Across East York and North York’s postwar backyards, it’s straightforward hot tub haul away ahead of a deck or patio rebuild. And through the west end’s laneway houses, it’s jacuzzi removal from postage-stamp yards where every cut has to be planned before the first tool comes out. Whether it’s an above-ground spa, an in-ground hot tub, or an indoor hot tub tucked into a basement or sunroom, the Google reviews behind Live Junk Free tell the same story: a hot tub removal company that solved the access problem first and drained, disconnected, cut and hauled the tub second — left on the property."
+      "If you’re searching “hot tub removal near me” or “spa removal near me” in Toronto, here’s the short answer: Live Junk Free’s crews cover every neighbourhood, every day. Through the semis and rows of Riverdale, Leslieville, Roncesvalles and the Annex, it’s tight-access hot tub disposal — narrow side yards and laneway-only paths that most companies won’t quote properly. In condo towers and penthouse suites downtown and midtown, it’s rooftop and terrace spa removal, cut down and carried out through freight elevators booked to the building’s rules. Across East York and North York’s postwar backyards, it’s straightforward hot tub haul away ahead of a deck or patio rebuild. And through the west end’s laneway houses, it’s jacuzzi removal from postage-stamp yards where every cut has to be planned before the first tool comes out. {{fact:utilityDisconnection}}"
      ]
     },
     {
@@ -114,10 +109,10 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat hot tub removal price — access never bills extra",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "A hot tub isn’t a normal junk removal item, and Live Junk Free’s quote reflects the real work: draining the water, disconnecting whatever needs disconnecting, cutting the shell into manageable sections, and hauling every piece away — including through a laneway, up a fire escape, or down a condo’s freight elevator. All of it sits inside one written hot tub removal price agreed on site, with tight access never adding a line. No hidden hot tub disposal cost."
+         "{{fact:utilityDisconnection}} All of it sits inside one written hot tub removal price agreed on site, with tight access never adding a line. No hidden hot tub disposal cost."
         ]
        ]
       },
@@ -126,16 +121,7 @@
        "title": "Free on-site quotes for hot tub removal, jacuzzi removal and spa removal alike",
        "text": [
         [
-         "A Live Junk Free crew member comes to your Toronto property, looks at the tub’s size, condition and the actual path out — narrow gate, shared laneway, building elevator — and gives you one flat number with the logistics already worked out. Free visit, no obligation, and no guessing over the phone. Whether you call it hot tub removal, jacuzzi removal, spa removal or just “getting rid of the hot tub,” the process and the price are the same."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Safe hot tub disconnect and drain — every time, before anything gets cut",
-       "text": [
-        [
-         "Water gets drained responsibly before anything else happens, and any electrical hookup — a hardwired 240V line is common — gets confirmed dead before we touch it, with a licensed electrician’s prior disconnection required if the tub was still wired live. We don’t cut into anything until it’s genuinely safe to. Hot tub disconnect and removal is treated as two distinct, careful steps, never rushed together."
+         "{{fact:changedScope}}. Free visit, no obligation, and no guessing over the phone. Whether you call it hot tub removal, jacuzzi removal, spa removal or just “getting rid of the hot tub,” the process and the price are the same."
         ]
        ]
       },
@@ -144,7 +130,7 @@
        "title": "Rooftop, indoor and in-ground hot tub removal, by the building's book",
        "text": [
         [
-         "{{fact:insuranceDocs}}. Indoor hot tub removal from a basement or sunroom, and in-ground spa removal requiring excavation-adjacent care, are both handled by crews who plan the job before a single cut is made — services many hot tub removal companies simply turn away."
+         "{{fact:insuranceDocs}}. {{fact:equipmentScope}}."
         ]
        ]
       },
@@ -178,11 +164,6 @@
     },
     {
      "t": "h",
-     "l": 2,
-     "text": "Hot Tub Removal Cost in Toronto — One Flat Price From Live Junk Free"
-    },
-    {
-     "t": "h",
      "l": 3,
      "text": "What's Inside Every Toronto Hot Tub Removal and Disposal Quote"
     },
@@ -195,7 +176,6 @@
     {
      "t": "checks",
      "items": [
-      "Drain + Disconnect + Cut-Out + Haul-Away",
       "No Rooftop Surcharges"
      ]
     },
@@ -259,7 +239,7 @@
        "title": "Book Your Hot Tub Pickup or Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots are usually available. Tell us the tub’s rough size and location — backyard, rooftop, condo terrace, basement — so the crew arrives ready for the access."
+         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots when available are usually available. Tell us the tub’s rough size and location — backyard, rooftop, condo terrace, basement — so the crew arrives ready for the access."
         ]
        ]
       },
@@ -268,16 +248,7 @@
        "title": "Get a Free On-Site Quote — Route Solved",
        "text": [
         [
-         "The crew looks at the tub, confirms any electrical is safely disconnected, maps the exit path — laneway, elevator, side gate — and gives you one flat price before touching anything. No pressure — decline and there’s no charge."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "The Tub Gets Drained, Disconnected, Cut and Removed",
-       "text": [
-        [
-         "Water drains responsibly, the shell gets cut into sections sized for whatever path is getting it out, and every piece — acrylic, foam, wood, metal — carries out without dragging across a shared fence, a hallway or a neighbour’s line of sight."
+         "{{fact:changedScope}}. No pressure — decline and there’s no charge."
         ]
        ]
       },
@@ -286,7 +257,7 @@
        "title": "Your Space Is Clear",
        "text": [
         [
-         "The area where the tub sat gets left clean, with metal components, motors and pumps routed to recycling and the rest disposed of responsibly."
+         "{{fact:utilityDisconnection}}"
         ]
        ]
       }
@@ -387,9 +358,6 @@
        "Hot tub removal from compact laneway-house yards and postage-stamp lots"
       ],
       [
-       "In-ground spa removal with excavation-adjacent care where needed"
-      ],
-      [
        "Cut planning done before any tool touches the tub"
       ],
       [
@@ -399,7 +367,7 @@
        "Concrete pad or base removal available alongside the tub"
       ],
       [
-       "Same-day service even where access takes real planning"
+       "Service even where access takes real planning"
       ]
      ]
     },
@@ -425,9 +393,6 @@
       ],
       [
        "Full backyard cleanouts alongside the tub removal, on request"
-      ],
-      [
-       "Same flat pricing as anywhere else in the city"
       ]
      ]
     }
@@ -835,7 +800,7 @@
        "q": "Can you remove a hot tub from a rooftop or condo terrace?",
        "a": [
         [
-         "Every hamlet and every concession between, at the same flat pricing as Main Street. The routes pass daily; no address waits longer or pays more."
+         "{{fact:changedScope}}. The routes pass daily; no address waits longer or pays more."
         ]
        ]
       },
@@ -851,7 +816,7 @@
        "q": "Do I need to drain the hot tub myself before you arrive?",
        "a": [
         [
-         "No — draining is part of the service. The Live Junk Free crew handles it safely on arrival, and you don’t need a hose, a pump, or any prep beyond making sure the area around the tub is reasonably accessible."
+         "{{fact:utilityDisconnection}}"
         ]
        ]
       },

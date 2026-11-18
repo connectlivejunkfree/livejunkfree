@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "A large share of Markham's rental units sit inside family homes — a lower level built for grandparents, a suite an adult child moved out of, a separate-entrance apartment let to extended family or to a tenant found through the community. When those turn over, the contents are rarely a clean split between \"the tenant's\" and \"the family's.\" Live Junk Free handles property management cleanout in Markham with that in mind: nothing questionable is loaded without asking, everything is documented, and you get one flat price per rental unit."
+     "text": "A large share of Markham's rental units sit inside family homes — a lower level built for grandparents, a suite an adult child moved out of, a separate-entrance apartment let to extended family or to a tenant found through the community."
     },
     {
      "t": "ctas",
@@ -62,22 +62,12 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Property Management Cleanout in Markham: Why Sorting Matters More Than Speed Here"
-    },
-    {
-     "t": "h",
-     "l": 3,
      "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
   {
    "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Property Management Cleanout in Markham: Why Sorting Matters More Than Speed Here"
-    },
     {
      "t": "p",
      "c": [
@@ -146,17 +136,8 @@
        ]
       },
       {
-       "n": "03",
-       "title": "",
-       "text": [
-        [
-         ""
-        ]
-       ]
-      },
-      {
        "n": "04",
-       "title": "Portfolio pricing for property managers with rental properties across Markham",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Consolidated invoicing and priority scheduling for landlords and property managers holding multiple doors. Property portfolio size affects your booking position, never your per-unit price."
@@ -279,7 +260,7 @@
      "c": [
       {
        "b": [
-        "Volume first, sorting second — and in Markham sorting carries real weight."
+        ""
        ]
       },
       " A rental unit handed back near-empty is a short job. A long-occupied family suite with furniture in every room, appliances, electronics, exercise equipment, and years of boxes that need opening rather than tossing takes considerably longer, because the careful part is the part that takes time. The property management cleanout cost in Markham reflects that honestly rather than pricing a decade-long tenancy like a two-year one."
@@ -294,8 +275,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -315,7 +295,7 @@
     {
      "t": "p",
      "c": [
-      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -361,7 +341,7 @@
        "title": "Free on-site walkthrough and one flat property management cleanout price",
        "text": [
         [
-         "The crew walks the rental unit plus any garage, locker, or storage area in scope, then gives one flat price per unit before anything is lifted. Property management cleanout pricing is settled before work begins."
+         "{{fact:changedScope}}. Property management cleanout pricing is settled before work begins."
         ]
        ]
       },
@@ -371,15 +351,6 @@
        "text": [
         [
          "Furniture, appliances, mattresses, electronics, hot tubs, yard waste, and general household items come out with stairs and doorframes protected. Anything ambiguous is set aside for you rather than loaded. The rest is sorted donation-first, then recycling, then disposal — with the unit’s condition photographed throughout, which matters most on eviction cleanout and abandoned rental property jobs."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Your vacant rental unit is ready for the next tenant",
-       "text": [
-        [
-         ""
         ]
        ]
       }
@@ -522,7 +493,7 @@
      "t": "ul",
      "items": [
       [
-       "Rental unit cleanouts are available for separate-entrance suites located inside multigenerational family homes. The crew follows a sort-first approach, making sure nothing ambiguous is loaded without asking before removal. Items can be routed through side entrances, shared stairs, or driveways in a way that keeps the family’s main living space as undisturbed as possible. Shared stairs, side entrances, and driveways are protected throughout the cleanout, while long-tenancy accumulation is handled patiently rather than rushed. The same flat pricing applies as with any managed-building property management cleanout."
+       "Rental unit cleanouts are available for separate-entrance suites located inside multigenerational family homes. The crew follows a sort-first approach, making sure nothing ambiguous is loaded without asking before removal. Items can be routed through side entrances, shared stairs, or driveways in a way that keeps the family’s main living space as undisturbed as possible. Shared stairs, side entrances, and driveways are protected throughout the cleanout, while long-tenancy accumulation is handled patiently rather than rushed. {{fact:changedScope}}."
       ]
      ]
     },
@@ -552,7 +523,7 @@
      "t": "ul",
      "items": [
       [
-       "Property management cleanouts between tenancies can be scheduled around the lease date, helping ensure the vacant rental unit is ready before listing photos or the next tenant moves in. The same flat pricing applies whether the cleanout is planned three weeks ahead or required overnight. Short-notice tenant turnover cleanout requests are accepted, with same-day property management cleanout in Markham available where access allows. Any visible property damage can also be noted and photographed during the visit for the property manager’s records."
+       "Property management cleanouts between tenancies can be scheduled around the lease date, helping ensure the vacant rental unit is ready before listing photos or the next tenant moves in. {{fact:changedScope}}. Short-notice tenant turnover cleanout requests are accepted, with same-day property management cleanout when available in Markham available where access allows. Any visible property damage can also be noted and photographed during the visit for the property manager’s records."
       ]
      ]
     },
@@ -1314,13 +1285,13 @@
          "30. How quickly can a rental be cleared between tenants?"
         ],
         [
-         "The timeframe depends on the property’s size, volume of belongings, access, and amount of sorting required. Smaller turnovers may be completed quickly, while heavily furnished or cluttered properties can require more time."
+         "{{fact:cleanupScope}}. Smaller turnovers may be completed quickly, while heavily furnished or cluttered properties can require more time."
         ],
         [
          "31. Can you handle an urgent cleanout before a new lease starts?"
         ],
         [
-         "Yes. We can discuss short-notice tenant turnover requests based on crew availability and the size of the job. Same-day or next-day service may be possible when scheduling and property access allow."
+         "Yes. We can discuss short-notice tenant turnover requests based on crew availability and the size of the job. Same-day or next-day service when available may be possible when scheduling and property access allow."
         ],
         [
          "32. Can the property be cleared before an inspection or showing?"

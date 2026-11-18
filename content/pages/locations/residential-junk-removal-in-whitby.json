@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Residential Junk Removal in Whitby | Live Junk Free",
-  "description": "Residential junk removal in Whitby from Live Junk Free — furniture, appliances, basements and garages cleared by an insured crew. Same-day available. Call +1 647 922 5865.",
+  "description": "Residential junk removal in Whitby from Live Junk Free — furniture, appliances, basements and garages cleared by an insured crew. Same-day may be available. Call +1 647 922 5865.",
   "canonical": "https://livejunkfree.ca/locations/residential-junk-removal-in-whitby/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Here’s a pattern every established Whitby street knows: the house was furnished in one big wave — the year it was bought — and twenty years later the whole wave breaks at once. The washer goes, then the mattress, then the sectional that survived three kids, all within a couple of seasons. We’re built for the wave: one fully insured crew, one free flat quote at your door, and single items or full replacement-cycle loads carried out from wherever they sit — usually the same day the decision lands."
+      "Here’s a pattern every established Whitby street knows: the house was furnished in one big wave — the year it was bought — and twenty years later the whole wave breaks at once. The washer goes, then the mattress, then the sectional that survived three kids, all within a couple of seasons. {{fact:changedScope}}."
      ]
     },
     {
@@ -97,44 +97,14 @@
      "text": "The town's homes are hitting their furnishing milestones in unison: the 2000s builds of Rolling Acres and Williamsburg replacing their first full sets, Brooklin's newer streets already on round one of upgrades, and the established neighbourhoods deep into round two. Live Junk Free hauls the outgoing at every stage — Google reviews earned on punctual trucks, locked quotes and careful stairwells."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "The truck prices it — one piece or the whole wave",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "A single retiring mattress is a sliver of a load; the season's full changeover — washer, sectional, two mattresses and the old patio set — is more, and rides cheaper together than apart. Volume is the entire formula: flat, up front, identical across every Whitby street."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Quoted at your door, where the real count happens",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Replacement season has a way of growing — once the truck's booked for the couch, the basement chair and the garage's spare fridge suddenly volunteer. We quote in person after seeing everything, so the one flat figure covers the real list, not the phone version."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One approved number, finished changing",
-       "text": []
-      }
-     ]
+     "text": "Replacement season has a way of growing — once the truck's booked for the couch, the basement chair and the garage's spare fridge suddenly volunteer."
     },
     {
      "t": "h",
@@ -142,44 +112,14 @@
      "text": "{{fact:propertyProtection}}. Whatever the stairwell or the sectional decides to make of the exit, the price already made peace with it."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Carried like the house is mid-showing",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Runners on the floors, pads on the corners, oversized pieces taken apart rather than forced — through Brooklin's newer finishes and the established streets' well-kept ones alike. The furniture leaves; the walls never testify."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Timed to the delivery truck",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Half of Whitby's pickups race an incoming delivery — the new mattress Thursday, the appliance Saturday morning."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent pricing",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -260,7 +200,7 @@
       {
        "title": "2. Show Us the Outgoing",
        "text": [
-        "The mattress, the washer, the sectional and whatever else the season claimed — point at it all and get one flat, quote. Free either way."
+        "{{fact:changedScope}}. Free either way."
        ]
       },
       {
@@ -272,7 +212,7 @@
       {
        "title": "4. Tidied and Sorted Onward",
        "text": [
-        "The cleared spots get swept, and the load moves with priorities: donation partners take what still serves, recyclers take metals and electronics, landfill only for the genuinely finished."
+        "The cleared spots get, and the load moves with priorities: donation partners take what still serves, recyclers take metals and electronics, landfill only for the genuinely finished."
        ]
       }
      ]
@@ -330,7 +270,7 @@
          "Stoves, ovens, dishwashers and microwaves"
         ],
         [
-         "Drained hot water tanks and water softeners"
+         ""
         ],
         [
          "Window ACs, dehumidifiers and space heaters"
@@ -356,7 +296,7 @@
          "Yard items — play sets, trampolines, old fencing, lumber"
         ],
         [
-         "Moving-week sweeps of everything not making the trip"
+         ""
         ]
        ]
       },
@@ -364,7 +304,7 @@
        "q": "The Big, Odd and Overdue in Whitby",
        "a": [
         [
-         "Hot tubs — drained, dismantled, hauled off the deck"
+         ""
         ],
         [
          "Pianos, pool tables and inherited oversized pieces"
@@ -382,7 +322,7 @@
          "BBQs, mowers, snowblowers and scrap metal"
         ],
         [
-         "Bed-bug-affected furniture — sealed on site, removed discreetly"
+         ""
         ]
        ]
       }
@@ -521,7 +461,7 @@
        "q": "Q: Is it cheaper to save everything up and book one big pickup?",
        "a": [
         [
-         "A: Noticeably — combined loads are volume pricing at its best. The mattress, the washer and the sectional riding together always beats three separate trips, and the quote covers whatever else joins the list once we’re there."
+         "{{fact:changedScope}}. The mattress, the washer and the sectional riding together always beats three separate trips, and the quote covers whatever else joins the list once we’re there."
         ]
        ]
       },

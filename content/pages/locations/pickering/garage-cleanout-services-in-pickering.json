@@ -155,19 +155,10 @@
       },
       {
        "n": "04",
-       "title": "Same-day garage cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first garage cleanout sorting for tools and equipment",
-       "text": [
-        [
-         "Working tools, equipment and household items with life left in them go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -228,12 +219,6 @@
      "value": "Contact us for a quote"
     },
     {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -282,7 +267,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual garage and gives you one flat price before anything moves — same process whether the volume is recent or decades old."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -300,7 +285,7 @@
        "title": "Your Garage Is Usable",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready to actually park in again."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready to actually park in again."
         ]
        ]
       }
@@ -347,7 +332,7 @@
        "Coordination with your renovation contractor's timeline"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -361,9 +346,6 @@
      "items": [
       [
        "Garage cleanouts ahead of additions across Rougemount, Rosebank and Highbush"
-      ],
-      [
-       "Timed to land before your contractor's foundation work begins"
       ],
       [
        "Coordination around the renovation's broader schedule"
@@ -392,7 +374,7 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Recurring seasonal scheduling available on request"
@@ -414,7 +396,7 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Recurring seasonal scheduling available on request"
@@ -805,7 +787,7 @@
        "q": "Can you clear a garage ahead of an addition being built?",
        "a": [
         [
-         "With real care. Pieces that look like they carry genuine value get set aside for a proper look rather than swept into general disposal."
+         "With real care. Pieces that look like they carry genuine value get set aside for a proper look rather than into general disposal."
         ]
        ]
       },
@@ -813,7 +795,7 @@
        "q": "Do you charge extra for a garage that's completely packed?",
        "a": [
         [
-         "The price reflects the actual volume and sorting required, not a flat surcharge — a fuller garage costs more because it genuinely takes more time. "
+         "{{fact:cleanupScope}}. "
         ]
        ]
       },

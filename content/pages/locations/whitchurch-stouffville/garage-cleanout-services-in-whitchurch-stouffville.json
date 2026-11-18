@@ -80,13 +80,13 @@
     {
      "t": "p",
      "c": [
-      "Because this township genuinely runs on two different rhythms. Along the GO-corridor subdivisions, a garage cleanout is usually tied to a renovation already underway, and the household needs it cleared efficiently, on a schedule that fits around commuting and work. On the working farms toward Vandorf and Gormley, a garage cleanout is often really a workshop cleanout — genuine tools, equipment and machinery mixed in with ordinary storage, worth sorting with a careful eye rather than rushing through."
+      "Because this township genuinely runs on two different rhythms. Along the GO-corridor subdivisions, a garage cleanout is usually tied to a renovation already underway, and the household needs it cleared efficiently, on a schedule that fits around commuting and work. {{fact:cleanupScope}}."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Around Main Street Stouffville’s older homes, it’s usually a more contained garage. In Ballantrae, it’s the same calm, unhurried standard the community prefers for any cleanout work."
+      "In Ballantrae, it’s the same calm, unhurried standard the community prefers for any cleanout work."
      ]
     },
     {
@@ -140,25 +140,16 @@
        "title": "Real recognition of farm workshop garage cleanout contents",
        "text": [
         [
-         "Tools, equipment and machinery found in a farm garage or workshop get sorted with a careful eye, not treated the same as ordinary storage."
+         "{{fact:equipmentScope}}."
         ]
        ]
       },
       {
        "n": "03",
-       "title": "One flat garage cleanout price across every part of the township",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number reflects the garage’s actual volume — never which of the township’s communities it’s in."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Calm, unhurried garage cleanout pacing for Ballantrae",
-       "text": [
-        [
-         "Where the property is in Ballantrae, the garage cleanout runs at the same quiet, contained pace the community prefers for any cleanout work."
         ]
        ]
       },
@@ -209,7 +200,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Village, Distance or Rural Premium, Ever"
      ]
     },
@@ -226,12 +216,6 @@
      "t": "price",
      "label": "Whitchurch-Stouffville Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -282,7 +266,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual garage and gives you one flat price before anything moves, along with whatever pace the property actually calls for."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -300,7 +284,7 @@
        "title": "Your Garage Is Usable",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready to actually park in again."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready to actually park in again."
         ]
        ]
       }
@@ -347,7 +331,7 @@
        "Coordination around commuting and work schedules"
       ],
       [
-       "Same-day service for straightforward downtown access"
+       "Service for straightforward downtown access"
       ]
      ]
     },
@@ -361,12 +345,6 @@
      "items": [
       [
        "Garage and workshop cleanouts toward Vandorf and Gormley"
-      ],
-      [
-       "Real recognition of genuine tools, equipment and machinery"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ],
       [
        "Multi-structure coordination where a barn is involved"
@@ -387,12 +365,6 @@
      "items": [
       [
        "Calm, unhurried garage cleanouts for single-level bungalow properties"
-      ],
-      [
-       "Contained work zones and quiet scheduling as standard"
-      ],
-      [
-       "Same flat pricing as anywhere else in the township"
       ],
       [
        "No disruption to a household that values calm"
@@ -417,7 +389,7 @@
        "Careful, unhurried handling around established properties"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     }
@@ -789,7 +761,7 @@
        "q": "How much do garage cleanout services cost in Whitchurch-Stouffville?",
        "a": [
         [
-         "Pricing is confirmed free at an on-site walkthrough based on how full the garage is and how much sorting it needs — with no village premium anywhere."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },

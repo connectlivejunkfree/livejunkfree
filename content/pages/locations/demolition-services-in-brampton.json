@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Demolition Services in Brampton from Live Junk Free take down the pools, decks and sheds that a busy, often multigenerational household has outgrown — sized for a big backyard just as easily as a small one, priced flat, hauled away the same day."
+     "text": "Demolition Services in Brampton from Live Junk Free take down the pools, decks and sheds that a busy, often multigenerational household has outgrown — sized for a big backyard just as easily as a small one, priced flat, hauled away the same day, subject to availability."
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "A Brampton backyard often carries more weight than a typical yard — several generations using it at once, gatherings that outgrow a small deck fast, structures built bigger to begin with. Live Junk Free scales to that. Across Springdale, Bramalea and Heart Lake, it’s usually a full above ground pool or a large deck coming down to make room for something built for the household it actually serves. In the city’s older neighbourhoods, it’s a garage, fence or shed that’s finally reached the end of its life, cleared ahead of a renovation the family’s been planning for a while. And whatever the property — modest lot or a backyard built to host — the process stays the same: one crew, one flat price, no assumption that a bigger structure means a bigger hassle. The Google reviews behind Live Junk Free repeat one thing consistently: whatever the scale of the job, it got handled like it was routine."
+      "A Brampton backyard often carries more weight than a typical yard — several generations using it at once, gatherings that outgrow a small deck fast, structures built bigger to begin with. Live Junk Free scales to that. Across Springdale, Bramalea and Heart Lake, it’s usually a full above ground pool or a large deck coming down to make room for something built for the household it actually serves. In the city’s older neighbourhoods, it’s a garage, fence or shed that’s finally reached the end of its life, cleared ahead of a renovation the family’s been planning for a while. {{fact:changedScope}}. The Google reviews behind Live Junk Free repeat one thing consistently: whatever the scale of the job, it got handled like it was routine."
      ]
     },
     {
@@ -121,7 +121,7 @@
       },
       {
        "n": "02",
-       "title": "One flat demolition price, whatever the backyard's size",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Structure size and material set the number at the walkthrough, and it doesn’t change once work starts — no adjustment for how big the family or the gathering space turns out to be."
@@ -173,11 +173,6 @@
     {
      "t": "eyebrow",
      "text": "DEMOLITION PRICING"
-    },
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Demolition Cost in Brampton — One Flat Price, Any Backyard Scale"
     },
     {
      "t": "h",
@@ -266,7 +261,7 @@
        "title": "Get Your Free Demolition Quote",
        "text": [
         [
-         "The crew walks the structure, sizes the real scope of the work, and gives one flat price before touching anything."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -325,9 +320,6 @@
        "Above Ground Pool Demolition — frame, liner and decking torn down and hauled, older bungalow-belt installations handled with extra care"
       ],
       [
-       "Hot Tub Demolition — drained, disconnected and cut apart before removal"
-      ],
-      [
        "Jacuzzi Demolition — same process, any age of structure"
       ]
      ]
@@ -370,9 +362,6 @@
        "Garage Demolition — detached units taken down section by section"
       ],
       [
-       "Deck Demolition — wood and composite, footings addressed for an addition or rebuild"
-      ],
-      [
        "Fence Demolition — full runs or single sections"
       ],
       [
@@ -391,9 +380,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Concrete Demolition — patios, walkways and pads broken up and hauled, grading-conscious near ravine edges"
-      ],
       [
        "Flooring Demolition — old outdoor surfaces and bases removed"
       ],
@@ -416,7 +402,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Demolition Services Across All of Brampton and the Region Beyond"
+     "text": "{{fact:pickupTimes}}"
     },
     {
      "t": "p",
@@ -673,7 +659,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {
@@ -992,7 +978,7 @@
        "q": "Our deck was built big for hosting extended family — does that make demolition harder?",
        "a": [
         [
-         "Not in a way that complicates the process, just the pricing math. The crew sizes up appropriately for a larger structure and quotes accordingly, with the same one-flat-number approach as a smaller job. "
+         "Not in a way that complicates the process, just the pricing math. {{fact:changedScope}}. "
         ]
        ]
       },

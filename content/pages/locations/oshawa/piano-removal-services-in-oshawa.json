@@ -138,7 +138,7 @@
       },
       {
        "n": "03",
-       "title": "One flat price, whatever the piano's age",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Size and type set the number, confirmed at the walkthrough — it makes no difference whether the piano’s fifty years old or five."
@@ -193,16 +193,9 @@
      "text": "What's Inside Every Oshawa Piano Removal and Disposal Quote"
     },
     {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
-    },
-    {
      "t": "checks",
      "items": [
-      "Move + Disassembly + Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Move + Disassembly + Haul-Away"
      ]
     },
     {
@@ -274,7 +267,7 @@
        "title": "Get a Free On-Site Quote — Route Measured First",
        "text": [
         [
-         "The crew measures doorways and staircase turns, checks whether legs or lids need to come off, and gives you one flat price."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -339,10 +332,10 @@
        "Wall, corner and staircase protection throughout"
       ],
       [
-       "Donation-first checks before any piano is recycled"
+       "Donation-first checks before any piano is recycled where possible"
       ],
       [
-       "Same-day piano pick up for straightforward downtown access"
+       "Piano pick up for straightforward downtown access"
       ],
       [
        "Careful, unhurried handling around established properties"
@@ -365,12 +358,6 @@
       ],
       [
        "Scheduled around your move dates"
-      ],
-      [
-       "Same flat pricing regardless of who's on title"
-      ],
-      [
-       "Coordination with property managers for multi-unit portfolios"
       ],
       [
        "Damage or abandonment documentation available on request"
@@ -399,13 +386,10 @@
        "Coordination around new piano delivery dates"
       ],
       [
-       "Same-day piano pick up for straightforward access"
+       "Piano pick up for straightforward access"
       ],
       [
        "Full protection of finished floors throughout"
-      ],
-      [
-       "Donation-first sorting before any recycling"
       ]
      ]
     },
@@ -425,9 +409,6 @@
       ],
       [
        "Coordination with executors or family members settling an estate"
-      ],
-      [
-       "Same flat pricing regardless of distance from the city"
       ],
       [
        "Full room or property cleanouts alongside the piano removal, on request"
@@ -851,7 +832,7 @@
        "q": "Do you cover rural properties near Columbus or Raglan?",
        "a": [
         [
-         "Yes, at the same flat pricing as anywhere in the city. "
+         "{{fact:competitorComparison}} "
         ]
        ]
       },

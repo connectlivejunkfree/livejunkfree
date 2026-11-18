@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Hot Tub Removal Services in Aurora - Live JunkFree",
-  "description": "Hot Tub Removal Services in Aurora from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub.",
+  "description": "{{fact:utilityDisconnection}}",
   "canonical": "https://livejunkfree.ca/locations/aurora/hot-tub-removal-services-in-aurora/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/08/Hot-Tub-Removal-Services-in-Aurora.jpeg"
@@ -22,11 +22,6 @@
      "t": "h",
      "l": 1,
      "text": "Hot Tub Removal Services in Aurora from Live Junk Free"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Hot Tub Removal Services in Aurora from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub, quoted flat on site before anything comes apart."
     },
     {
      "t": "ctas",
@@ -80,7 +75,7 @@
     {
      "t": "p",
      "c": [
-      "Hot tub removal in Aurora typically runs from a modest fee for a small portable spa up to a higher flat price for a full six-or-seven-seat unit, confirmed for free at an on-site walkthrough. The number is set by the tub itself, not by which street it’s on."
+      "{{fact:changedScope}}. The number is set by the tub itself, not by which street it’s on."
      ]
     },
     {
@@ -120,7 +115,7 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat price for whatever's coming down",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Structure size and material set the number at the walkthrough — a portable spa is a modest figure, a full six-or-seven-seat tub scales up from there."
@@ -132,7 +127,7 @@
        "title": "Free on-site quotes, walked in person before anything's priced",
        "text": [
         [
-         "A crew member comes to the property, looks at the tub and what’s around it, and gives one flat number on the spot."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -151,15 +146,6 @@
        "text": [
         [
          "Bigger tubs and bigger lots get the same standard of grounds and driveway protection as a smaller job."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Draining and disconnection handled the safe way",
-       "text": [
-        [
-         "Water drains responsibly first, and any electrical hookup is confirmed dead before the crew touches it — a hardwired 240V line needs prior disconnection by a licensed electrician."
         ]
        ]
       },
@@ -193,15 +179,8 @@
      "text": "HOT TUB REMOVAL PRICING"
     },
     {
-     "t": "p",
-     "c": [
-      "Every quote is one flat number covering four things: draining the tub, disconnecting any electrical, cutting the shell into sections, and hauling it away for disposal or recycling."
-     ]
-    },
-    {
      "t": "checks",
      "items": [
-      "Drain + Disconnect + Cut-Out + Haul-Away",
       "No Rooftop Surcharges"
      ]
     },
@@ -250,7 +229,7 @@
     {
      "t": "p",
      "c": [
-      "A hot tub removal appointment follows four steps: booking, a free on-site quote, the drain-and-cut-out process, and same-day haul-away when available."
+      "{{fact:utilityDisconnection}}"
      ]
     }
    ]
@@ -265,34 +244,7 @@
        "title": "Book Your Hot Tub Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote and Completion Date",
-       "text": [
-        [
-         "The crew looks at the tub, confirms any electrical is safely disconnected, checks the path out, and gives you one flat price before touching anything."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "The Tub Gets Drained, Cut and Removed",
-       "text": [
-        [
-         "Water drains responsibly, the shell gets cut into sections that clear your gate or fence line, and every piece carries out without dragging across your lawn or deck."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Your Yard Is Clear",
-       "text": [
-        [
-         "Metal components, motors and pumps are routed to recycling and the rest is disposed of responsibly."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       }
@@ -765,7 +717,7 @@
        "q": "Do you remove hot tubs on larger Aurora Estates or Hills of St Andrew properties?",
        "a": [
         [
-         "Not in a way that complicates the process, just the pricing math. The crew sizes up appropriately for a larger tub and quotes accordingly, with the same one-flat-number approach as a smaller job."
+         "Not in a way that complicates the process, just the pricing math. {{fact:changedScope}}."
         ]
        ]
       },
@@ -773,7 +725,7 @@
        "q": "Yes — bigger lots and tubs are regular work, with the same standard of grounds and driveway protection applied whatever the scale.",
        "a": [
         [
-         "No — draining is part of the service. No hose, pump, or prep needed beyond reasonably clear access."
+         "{{fact:utilityDisconnection}}"
         ]
        ]
       },
@@ -781,7 +733,7 @@
        "q": "Do I need to drain the hot tub myself before you arrive?",
        "a": [
         [
-         "Only once the power is confirmed off. A hardwired 240V connection needs prior disconnection by a licensed electrician."
+         "Only once the power is confirmed off. {{fact:utilityDisconnection}}"
         ]
        ]
       },

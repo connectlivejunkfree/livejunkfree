@@ -24,11 +24,6 @@
      "text": "Trusted by Locals – Freezer Removal Done Right"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in town."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -69,7 +64,7 @@
     {
      "t": "p",
      "c": [
-      "The process couldn’t be easier. We begin with a completely free estimate – no obligations. Once you give the green light, our experienced team springs into action. Every step is handled professionally: safe disconnection from power, careful removal through tight spaces, responsible disposal following environmental standards, and a thorough cleanup of the area."
+      "The process couldn’t be easier. We begin with a completely free estimate – no obligations. Once you give the green light, our experienced team springs into action. {{fact:utilityDisconnection}}"
      ]
     },
     {
@@ -103,12 +98,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Freezer Removal – Best Value When You Book Now"
+     "text": "Freezer Removal – Best Value When You Book Now"
     },
     {
      "t": "p",
      "c": [
-      "Removing an old freezer shouldn’t be a hassle. We’ll safely disconnect your unit, protect your floors and doorways during removal, and haul everything away, leaving your space completely clean and ready for whatever comes next."
+      "Removing an old freezer shouldn’t be a hassle."
      ]
     },
     {
@@ -162,7 +157,7 @@
     {
      "t": "p",
      "c": [
-      "We understand that freezer removal is often time-sensitive – whether you’re replacing an old unit, moving to a new home, or simply tired of that non-working appliance taking up valuable space. That’s why we offer same-day or next-day removal services whenever possible, ensuring you get your space back quickly."
+      "We understand that freezer removal is often time-sensitive – whether you’re replacing an old unit, moving to a new home, or simply tired of that non-working appliance taking up valuable space. That’s why we offer same-day or next-day removal services when available whenever possible, ensuring you get your space back quickly."
      ]
     },
     {
@@ -180,9 +175,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Safe disconnection and removal of all freezer types (upright, chest, commercial)"
-      ],
       [
        "Professional handling of heavy, bulky, or awkwardly placed units"
       ],
@@ -219,7 +211,7 @@
       {
        "title": "Flexible Scheduling",
        "text": [
-        "We accommodate your schedule with same-day, next-day, and weekend service options available."
+        "We accommodate your schedule with same-day, next-day, and weekend service options available, subject to scheduling."
        ]
       },
       {
@@ -235,21 +227,9 @@
        ]
       },
       {
-       "title": "Eco-Conscious Disposal",
-       "text": [
-        ""
-       ]
-      },
-      {
        "title": "Massive Time Savings",
        "text": [
         "Timing confirmed at your estimate"
-       ]
-      },
-      {
-       "title": "Bulk Removal Options",
-       "text": [
-        "Special discounted rates available when removing multiple appliances"
        ]
       }
      ]
@@ -275,7 +255,7 @@
        "We professionally remove freezers from any location, basements, narrow stairwells, garages, and even hard-to-reach utility rooms. Our experienced team safely extracts your freezer without damaging floors, walls, or doorways."
       ],
       [
-       "From massive commercial units to compact apartment freezers, we handle them all with expert care. We manage all the heavy lifting, safe disconnection, and eco-friendly disposal so you don’t have to risk injury. When we’re done, your space will be cleaner and more usable than before we came."
+       "From massive commercial units to compact apartment freezers, we handle them all with expert care. {{fact:utilityDisconnection}} When we’re done, your space will be cleaner and more usable than before we came."
       ]
      ]
     },
@@ -340,9 +320,6 @@
       ],
       [
        "{{fact:freeOnsiteEstimates}}"
-      ],
-      [
-       "Special rates for multiple appliance removals"
       ]
      ]
     }
@@ -393,18 +370,6 @@
     {
      "t": "cards",
      "items": [
-      {
-       "title": "Send Us Details",
-       "text": [
-        "{{fact:freeOnsiteEstimates}}"
-       ]
-      },
-      {
-       "title": "Get Your Price",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
       {
        "title": "Schedule Your Pickup",
        "text": [
@@ -499,7 +464,7 @@
        "q": "Can I schedule a same-day freezer pickup?",
        "a": [
         [
-         "Yes, we often offer same-day service. Call or book online and we’ll arrange a pickup at your earliest convenience."
+         "Yes, we often offer same-day service when available. Call or book online and we’ll arrange a pickup at your earliest convenience."
         ]
        ]
       },

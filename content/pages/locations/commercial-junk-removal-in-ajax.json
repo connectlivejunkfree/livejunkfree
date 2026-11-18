@@ -24,11 +24,6 @@
      "text": "Professional Commercial Junk Removal in Ajax, Ontario"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "Commercial Junk Removal in Ajax means one call instead of a week of headaches: no bin permits, no parking hassles, no staff pulled off the floor. Our fully insured crew quotes free on site, hauls everything from any floor, and in most cases has the truck loaded and gone the same day you phone."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -126,7 +121,7 @@
        "title": "The junk removal quote happens at your Ajax property, not on the phone",
        "text": [
         [
-         "Photos hide the second storage room and phone estimates always grow. Our estimator walks your actual space — office floor, stockroom, mezzanine, loading bay — and writes one flat junk removal price for everything you point at. Take it or leave it; the visit costs nothing either way."
+         "Photos hide the second storage room and phone estimates always grow. {{fact:changedScope}}. Take it or leave it; the visit costs nothing either way."
         ]
        ]
       },
@@ -135,7 +130,7 @@
        "title": "Zero labour from your team — we do every carry",
        "text": [
         [
-         "Your employees were hired to run the business, not haul dead copiers down a stairwell. Our junk removal crew handles the dismantling, the carrying, the loading and the sweep-up. Managers tell us this is the single biggest reason they switched from dumpster rentals to full-service commercial junk pickup."
+         "Your employees were hired to run the business, not haul dead copiers down a stairwell. Our junk removal crew handles the dismantling, the carrying, the loading and the. Managers tell us this is the single biggest reason they switched from dumpster rentals to full-service commercial junk pickup."
         ]
        ]
       },
@@ -196,7 +191,7 @@
      "t": "checks",
      "items": [
       "Junk Removal + Haul-Away in One Number",
-      "No Hourly Rates"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -212,12 +207,6 @@
      "t": "price",
      "label": "Commercial Junk Pickups Pricing",
      "value": "Junk Load from {{min_price:C}}"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -259,16 +248,7 @@
        "title": "Call or Book Your Junk Pickup Online",
        "text": [
         [
-         "Two minutes on the phone at +1 647 922 5865 — or a quick online form — locks in your window. Ajax trucks run daily routes through Durham Region, so same-day commercial junk removal is genuinely on the table most mornings, and we call 30 minutes out so nobody’s waiting by the dock."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Flat Junk Removal Quote On Site",
-       "text": [
-        [
-         "Show the crew everything going: the boardroom table, the racking in the warehouse, the pile behind the compressor. They tally it against truck volume and hand you one written number covering the entire junk removal job. Decline it and we shake hands and go."
+         "Two minutes on the phone at +1 647 922 5865 — or a quick online form — locks in your window. Ajax trucks run daily routes through Durham Region, so same-day commercial junk removal when available is genuinely on the table most mornings, and we call 30 minutes out so nobody’s waiting by the dock."
         ]
        ]
       },
@@ -277,16 +257,16 @@
        "title": "We Haul, You Keep Working",
        "text": [
         [
-         "Approve the quote and the clear-out starts immediately — down freight elevators, through service corridors, out the back dock. Your team stays on shift; our team does the junk hauling. Fixtures too big for the doorway get dismantled on the spot."
+         "{{fact:scheduling}} Your team stays on shift; our team does the junk hauling. Fixtures too big for the doorway get dismantled at the onsite estimate."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Swept Space, Sorted Disposal, Paper Trail",
+       "title": "Space, Sorted Disposal, Paper Trail",
        "text": [
         [
-         "We finish every Ajax junk removal job with a sweep and leave you documentation for your records. On our end, the load gets separated: donation-worthy furniture to local charities, metals and e-waste to licensed recyclers, and only what’s truly spent to landfill."
+         "{{fact:cleanupScope}}."
         ]
        ]
       }
@@ -339,7 +319,7 @@
        "Copier, printer, server and IT equipment disposal with e-waste recycling"
       ],
       [
-       "Landlord-ready, broom-swept handover at end of lease"
+       "Landlord-ready handover at end of lease"
       ]
      ]
     },
@@ -367,7 +347,7 @@
        "Signage, counters and point-of-sale station teardown"
       ],
       [
-       "Overnight and pre-open junk pickups so trading hours stay untouched"
+       "{{fact:pickupTimes}}"
       ]
      ]
     }
@@ -384,9 +364,6 @@
      "t": "ul",
      "items": [
       [
-       "Pallet racking dismantling and removal along the Bayly Street corridor"
-      ],
-      [
        "Obsolete inventory, returns and packaging waste hauling"
       ],
       [
@@ -397,9 +374,6 @@
       ],
       [
        "Renovation and light demolition debris removal"
-      ],
-      [
-       "Multi-truck capacity for full facility cleanouts"
       ]
      ]
     },
@@ -666,11 +640,6 @@
     },
     {
      "t": "h",
-     "l": 2,
-     "text": "Five-Star Junk Removal Reviews From Ajax Businesses"
-    },
-    {
-     "t": "h",
      "l": 4,
      "text": "★★★★★"
     },
@@ -703,7 +672,7 @@
        "q": "What does commercial junk removal cost in Ajax?",
        "a": [
         [
-         "Pricing runs on truck volume alone, starting at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). You get an exact flat figure during a free on-site walkthrough of your Ajax property before anything moves — and that written number is final. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
+         "Pricing runs on truck volume alone, starting at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). {{fact:changedScope}}."
         ]
        ]
       },
@@ -727,7 +696,7 @@
        "q": "Can the junk pickup happen without disrupting my customers?",
        "a": [
         [
-         "Every hamlet and every concession between, at the same flat pricing as Main Street. The routes pass daily; no address waits longer or pays more."
+         "{{fact:changedScope}}. The routes pass daily; no address waits longer or pays more."
         ]
        ]
       },

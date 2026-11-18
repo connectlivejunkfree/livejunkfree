@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Commercial Junk Removal in Woodbridge - Live JunkFree",
-  "description": "Trusted commercial junk removal in Woodbridge — free flat-rate quotes written on site, a fully insured crew that handles every carry.",
+  "description": "{{fact:changedScope}}.",
   "canonical": "https://livejunkfree.ca/locations/commercial-junk-removal-in-woodbridge/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/08/Commercial-Junk-Removal-in-Woodbridge.jpeg"
@@ -114,7 +114,7 @@
      "items": [
       {
        "n": "01",
-       "title": "Truck-volume junk removal pricing — the honest math a family firm respects",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "It’s the pricing philosophy family businesses run on themselves: say the number, mean the number, honour the number."
@@ -126,7 +126,7 @@
        "title": "Free junk removal quotes given face to face at your Woodbridge premises",
        "text": [
         [
-         "Deals here get done in person, so that’s how we quote. A crew lead walks your kitchen, hall, storeroom or yard, sizes everything going, and writes one firm flat rate on the spot. The visit is free, the number keeps, and no offense taken if the answer is no."
+         "Deals here get done in person, so that’s how we quote. {{fact:changedScope}}. The visit is free, the number keeps, and no offense taken if the answer is no."
         ]
        ]
       },
@@ -135,7 +135,7 @@
        "title": "Full-crew junk hauling — nonna's recipes stay in the family, the lifting doesn't",
        "text": [
         [
-         "Family businesses already ask enough of family. Our junk removal crew takes the entire physical job — dismantling, carrying, loading, sweeping — including the double-stacked ovens and the deli cases that weigh what they weigh, while your people stay on the counter, the kitchen and the customers."
+         "Family businesses already ask enough of family. {{fact:cleanupScope}}."
         ]
        ]
       },
@@ -145,15 +145,6 @@
        "text": [
         [
          "The dining room your father tiled, the hall your family’s hosted weddings in since the eighties — these spaces carry more than fixtures. {{fact:propertyProtection}}."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "{{fact:nextAvailable}}",
-       "text": [
-        [
-         "Bakeries clear before the ovens fire, restaurants between lunch and dinner service or after the last table, halls between Saturday’s wedding and the next booking."
         ]
        ]
       },
@@ -195,8 +186,7 @@
     {
      "t": "checks",
      "items": [
-      "Junk Removal + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Junk Removal + Haul-Away in One Number"
      ]
     },
     {
@@ -268,7 +258,7 @@
        "title": "Walk the Premises, Take the Junk Removal Quote",
        "text": [
         [
-         "Show the crew the whole of it — the retired pizza oven, the hall’s old banquet chairs, the yard’s accumulated seasons. Everything measures against truck space and returns as one written flat rate. Discuss it over the counter, sleep on it, call back; the number waits."
+         "Show the crew the whole of it — the retired pizza oven, the hall’s old banquet chairs, the yard’s accumulated seasons. {{fact:changedScope}}. Discuss it over the counter, sleep on it, call back; the number waits."
         ]
        ]
       },
@@ -283,10 +273,10 @@
       },
       {
        "n": "04",
-       "title": "Swept, Sorted Junk Disposal, Name Upheld",
+       "title": ", Sorted Junk Disposal, Name Upheld",
        "text": [
         [
-         "Every job ends broom-swept with paperwork on request. The load then sorts the respectful way: donation partners for what still works, licensed recyclers for metals, appliances and e-waste, landfill strictly for the remainder."
+         "Every job ends with paperwork on request. The load then sorts the respectful way: donation partners for what still works, licensed recyclers for metals, appliances and e-waste, landfill strictly for the remainder."
         ]
        ]
       }
@@ -327,9 +317,6 @@
        "Kitchen equipment hauling for the food capital of the GTA — ovens, ranges, fryers and hoods de-installed and removed"
       ],
       [
-       "Deli cases, espresso machines, mixers and refrigeration units hauled at flat volume rates"
-      ],
-      [
        "Dining room refreshes: tables, chairs, banquettes and patio sets"
       ],
       [
@@ -365,9 +352,6 @@
       ],
       [
        "Between-booking scheduling that never touches an event date"
-      ],
-      [
-       "Multi-truck days for full hall transformations"
       ]
      ]
     }
@@ -407,9 +391,6 @@
       ],
       [
        "Renovation debris, retired tools and equipment hauling"
-      ],
-      [
-       "Racking, shelving and unit clear-outs in the industrial pockets"
       ]
      ]
     }
@@ -693,7 +674,7 @@
        "q": "Can you remove commercial kitchen equipment — ovens, hoods, deli cases?",
        "a": [
         [
-         "It’s Woodbridge’s signature job for us. Ranges, double-stacked ovens, refrigeration and cases de-install and haul at standard volume rates with no heavy-equipment surcharge; gas and utility disconnections get coordinated with your licensed trades first, and we take it from there. "
+         "It’s Woodbridge’s signature job for us. {{fact:changedScope}}. "
         ]
        ]
       },
@@ -701,7 +682,7 @@
        "q": "Can a banquet hall clear between bookings without risking an event?",
        "a": [
         [
-         "That’s exactly how we schedule it. Clear-outs slot between Saturday’s celebration and the next booking — overnight or midweek — with floors protected, timelines honoured, and the hall guest-ready when the doors next open. "
+         "That’s exactly how we schedule it. {{fact:scheduling}} "
         ]
        ]
       },
@@ -717,7 +698,7 @@
        "q": "How fast can a truck reach my Woodbridge business?",
        "a": [
         [
-         "Often same-day. "
+         "Often same-day when available. "
         ]
        ]
       }

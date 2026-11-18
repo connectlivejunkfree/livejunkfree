@@ -24,11 +24,6 @@
      "text": "Hoarding Cleanouts in Woodbridge from Live Junk Free"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "Hoarding cleanouts in Woodbridge from Live Junk Free are handled the way family would handle it — privately, without judgment, and at whatever pace the family actually needs — a free confidential quote, an experienced crew, and donation-first sorting throughout."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -80,7 +75,7 @@
     {
      "t": "p",
      "c": [
-      "In Woodbridge, a hoarding cleanout is often about a home that’s been in the family for a long time — a grandparent’s house, a place several generations grew up visiting, where belongings built up gradually over decades. Live Junk Free treats that history with real respect. Around the older village streets, it’s a family quietly arranging a cleanout for a home that means more than its square footage. In Pine Valley and Weston Downs, it’s the same care applied to larger estate properties, where a hoarding situation on a bigger property still gets the same patient, private treatment as anything smaller. Across East and West Woodbridge more broadly, it’s whatever pace the family actually needs — sometimes one visit, sometimes several sessions spread out so nobody feels rushed through something difficult. The Google reviews behind Live Junk Free reflect that same standard consistently — patient work, kept promises, and a family’s trust honoured the whole way through."
+      "In Woodbridge, a hoarding cleanout is often about a home that’s been in the family for a long time — a grandparent’s house, a place several generations grew up visiting, where belongings built up gradually over decades. Live Junk Free treats that history with real respect. Around the older village streets, it’s a family quietly arranging a cleanout for a home that means more than its square footage. In Pine Valley and Weston Downs, it’s the same care applied to larger estate properties, where a hoarding situation on a bigger property still gets the same patient, private treatment as anything smaller. {{fact:scheduling}} The Google reviews behind Live Junk Free reflect that same standard consistently — patient work, kept promises, and a family’s trust honoured the whole way through."
      ]
     },
     {
@@ -160,7 +155,7 @@
        "title": "Free on-site quotes, with an honest cost to clean out a hoarder's house",
        "text": [
         [
-         "A crew member walks the property, sees the real scope, and gives one flat number before anything moves — no guessing from a phone description, and once the work is underway."
+         "{{fact:changedScope}}."
         ]
        ]
       }
@@ -187,7 +182,7 @@
     {
      "t": "p",
      "c": [
-      "Hoarder clean out cost depends on the volume of belongings, how many rooms are affected, and how much sorting and donation coordination is involved — a single room is a modest job, a full multi-generational family home costs more given the time required. The figure is confirmed at a free, no-obligation walkthrough, and it’s the invoiced number, kept like a promise."
+      "Hoarder clean out cost depends on the volume of belongings, how many rooms are affected, and how much donation coordination is involved — a single room is a modest job, a full multi-generational family home costs more given the time required. The figure is confirmed at a free, no-obligation walkthrough, and it’s the invoiced number, kept like a promise."
      ]
     },
     {
@@ -214,7 +209,7 @@
     {
      "t": "p",
      "c": [
-      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -256,15 +251,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Your Hoarding Cleanout Quote — A Respectful Walkthrough, One Flat Price",
-       "text": [
-        [
-         "A crew member visits the property with you or your family, sees the actual scope, and provides one flat price — with unmarked arrival if that’s preferred."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Hoarding Cleanout Runs Methodically, Room by Room",
        "text": [
@@ -275,10 +261,10 @@
       },
       {
        "n": "04",
-       "title": "Hoarding Cleanout Complete — the Space Left Clean and Livable",
+       "title": "Careful Removal",
        "text": [
         [
-         "Debris is hauled the same visit where possible, donations go to local partners, and the space is left swept and safe — with follow-up visits available if the job needs to happen in stages."
+         "Debris is hauled the same visit where possible, donations go to local partners, and the space is left and safe — with follow-up visits available if the job needs to happen in stages."
         ]
        ]
       }
@@ -341,7 +327,7 @@
        "Cleaning out a hoarder's home while the resident continues living there"
       ],
       [
-       "Kitchen, bathroom and bedroom cleared to a livable, safe standard"
+       "Careful Removal"
       ],
       [
        "Basement and garage cleanouts where accumulation has built up over years"
@@ -996,7 +982,7 @@
        "q": "What's the cost to clean out a hoarder's house in Woodbridge?",
        "a": [
         [
-         "Hoarder clean out cost depends on the volume of belongings, the number of rooms affected, and how much sorting is involved — a single room prices modestly, a full family home costs more given the time required. The exact figure is confirmed free at a private walkthrough, and it’s the invoiced number, kept like a promise."
+         "{{fact:cleanupScope}}. The exact figure is confirmed free at a private walkthrough, and it’s the invoiced number, kept like a promise."
         ]
        ]
       },
@@ -1004,7 +990,7 @@
        "q": "What's the best way to clean out a hoarder's house?",
        "a": [
         [
-         "Professional help, a clear plan, and patience. Going in without a strategy usually causes more distress than progress. The most effective approach sorts systematically — keep, donate, recycle, dispose — respects the resident’s input wherever they’re able to give it, and moves at a pace the family can handle, sometimes across more than one visit."
+         "Professional help, a clear plan, and patience. Going in without a strategy usually causes more distress than progress. {{fact:scheduling}}"
         ]
        ]
       },

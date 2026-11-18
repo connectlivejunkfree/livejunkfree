@@ -38,7 +38,7 @@
     {
      "t": "p",
      "c": [
-      "We are the local experts with same-day service available. We offer affordable, reliable, and eco-friendly services."
+      "We are the local experts with same-day service when available. We offer affordable, reliable, and eco-friendly services."
      ]
     },
     {
@@ -115,13 +115,13 @@
       {
        "title": "2. Get a Quote",
        "text": [
-        "Flat-rate pricing upfront."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "3. Pick Your Time",
        "text": [
-        "Or next-day slots."
+        "Or next-day slots when available."
        ]
       },
       {
@@ -229,11 +229,6 @@
      "text": "Locally Trusted — The Best TV Removal in Town is Here!"
     },
     {
-     "t": "h",
-     "l": 4,
-     "text": "We are the best in town"
-    },
-    {
      "t": "ul",
      "items": [
       [
@@ -270,15 +265,10 @@
   {
    "blocks": [
     {
-     "t": "h",
-     "l": 2,
-     "text": "LIMITED OFFER: Book Today and get discounts"
-    },
-    {
      "t": "cards",
      "items": [
       {
-       "title": "Same-day availability",
+       "title": "Availability when available",
        "text": [
         "Swift, safe, and efficient service — we get the job done when you need it most."
        ]
@@ -287,12 +277,6 @@
        "title": "Fast 4-step booking",
        "text": [
         "Simple, quick, and hassle-free scheduling that fits your daily routine."
-       ]
-      },
-      {
-       "title": "",
-       "text": [
-        "We handle your junk responsibly with sustainable disposal."
        ]
       }
      ]
@@ -347,9 +331,6 @@
        "We manage TV removal in residential spaces, including tight staircases, basements, and high-rise buildings."
       ],
       [
-       "Our team safely disconnects and removes your TV without causing any mess or damage."
-      ],
-      [
        "From sleek flat screens to large projection TVs and all residential models, our service covers it all."
       ],
       [
@@ -377,7 +358,7 @@
        "Recycle glass, plastics, and metals responsibly"
       ],
       [
-       "Donate working TVs to local charities"
+       "{{fact:recycling}}"
       ],
       [
        "Minimize landfill waste"
@@ -401,24 +382,13 @@
     {
      "t": "h",
      "l": 4,
-     "text": "{{fact:freeOnsiteEstimates}}"
-    },
-    {
-     "t": "h",
-     "l": 4,
      "text": "You only pay for what we remove."
     },
     {
      "t": "ul",
      "items": [
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "{{fact:freeOnsiteEstimates}}"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -641,29 +611,9 @@
      "text": "Still unsure if hiring experts is worth it? Here's why our television removal service is the smarter choice:"
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Convenience",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "We handle all the lifting, hauling, and disposal - no struggling with heavy TVs or rental trucks"
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Time-saving",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -671,64 +621,19 @@
      "text": "Old television removal is labor-intensive - our team works fast with same-day service when available"
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Safety",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Avoid injuries from lifting heavy TVs - our crew uses proper equipment"
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Eco-friendly",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Over 75% of TVs we collect are properly recycled"
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Cost-effective",
-       "text": []
-      }
-     ]
+     "text": "Over 75% of TVs we collect are properly recycled where possible"
     },
     {
      "t": "h",
      "l": 3,
      "text": "Cheaper than DIY (truck rentals, dump fees) with upfront pricing"
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Stress-free",
-       "text": []
-      }
-     ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "{{fact:recycling}}"
     }
    ]
   },
@@ -1002,7 +907,7 @@
        "q": "5. Can you come today?",
        "a": [
         [
-         "Yes, we can come today, and we will remove your TV the same day. Call early to book a quick pickup, we’ll try our best to reach you as soon as possible."
+         "Yes, we can come today, and we will remove your TV the same day, subject to availability. Call early to book a quick pickup, we’ll try our best to reach you as soon as possible."
         ]
        ]
       },
@@ -1025,7 +930,7 @@
        "q": "7. Can you take many TVs at once?",
        "a": [
         [
-         "Sure! Cleaning out a bunch? No problem. Tell us how many you’ve got, and we’ll haul them all in one trip."
+         "Sure! Cleaning out a bunch? No problem. {{fact:scheduling}}"
         ]
        ]
       },
@@ -1033,7 +938,7 @@
        "q": "8. Where does my TV go after?",
        "a": [
         [
-         "Good TVs go to people who need them. Broken ones get recycled safely, so no harmful stuff in landfills. We make sure it’s done right."
+         "Good TVs go to people who need them. Broken ones get recycled where possible safely, so no harmful stuff in landfills. We make sure it’s done right."
         ]
        ]
       }

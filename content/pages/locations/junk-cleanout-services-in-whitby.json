@@ -97,29 +97,9 @@
      "text": "The town's calendars are full, and our schedule bends around them: walkthroughs before the 7:15, clears finished while the household is at work and school, weekend jobs wrapped before the tournament. Live Junk Free has earned Google reviews across Durham doing exactly this — full-strength cleanouts that respect that your time is the scarcest thing in the house."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Volume sets the price — your calendar sets the clock",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Every cleanout is priced flat by truck space: small clears cost small, whole homes scale honestly, and no Whitby neighbourhood pays a premium."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Twenty minutes of walkthrough buys a firm number",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -127,59 +107,19 @@
      "text": "We tour the space with you once — basement, garage, the works — and hand over one flat, free, no-obligation quote. That's the whole time investment the estimate asks of you. Everything after can run without you standing over it."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Approved means finished changing",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} If the crawlspace holds twice the boxes or the job runs past dinner, the price stays exactly where you approved it."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Hands-off from the quote onward",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Once the plan is set, your presence is optional: we work while the house is at the office and the school run, sort as we clear — valuables and documents set aside, donations staged apart — and send photo updates so you can check progress from your desk. You come home to swept, empty space."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "The quote waits for your life, not the other way around",
-       "text": []
-      }
-     ]
+     "text": "You come home to, empty space."
     },
     {
      "t": "h",
      "l": 3,
      "text": "Free, no deposit, no expiry — book the clear for this Saturday or the one after March break. Staged jobs are welcome too: the garage this weekend, the basement next month, priced identically by volume."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent pricing",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -194,11 +134,6 @@
      "t": "h",
      "l": 2,
      "text": "What a Cleanout Costs in Whitby"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "One Flat Figure, Zero Schedule Surcharges"
     },
     {
      "t": "h",
@@ -260,13 +195,13 @@
       {
        "title": "2. The Twenty-Minute Tour",
        "text": [
-        "Show us the space once — that's the ask. One flat, everything-included quote follows on the spot. Free, and easy to decline."
+        "Show us the space once — that's the ask. One flat, everything-included quote follows at the onsite estimate. Free, and easy to decline."
        ]
       },
       {
        "title": "3. We Clear While Life Continues",
        "text": [
-        "On approval the crew takes it from there: sorting carefully, setting aside anything significant, staging donations, hauling load after load — with you present, or at work getting photo updates, your choice."
+        "{{fact:cleanupScope}}."
        ]
       },
       {
@@ -321,7 +256,7 @@
        "q": "Moving & Sale Cleanouts in Whitby",
        "a": [
         [
-         "Pre-listing cleanouts — swept for photos on the realtor’s timeline"
+         "Pre-listing cleanouts — for photos on the realtor’s timeline"
         ],
         [
          "Move-out clears timed to closing day"
@@ -333,7 +268,7 @@
          "Pre-renovation emptying before the trades arrive"
         ],
         [
-         "Moving-week sweeps of whatever isn’t coming along"
+         ""
         ]
        ]
       },
@@ -341,7 +276,7 @@
        "q": "Estate & Transition Cleanouts in Whitby",
        "a": [
         [
-         "Estate cleanouts — patient, documented, valuables returned to family"
+         ""
         ],
         [
          "Downsizing clears paced to the household"
@@ -364,7 +299,7 @@
          "Tenant turnover and abandoned-belonging clearing, photos on request"
         ],
         [
-         "Storage unit clear-outs — emptied, swept, account closed"
+         "Storage unit clear-outs — emptied, account closed"
         ],
         [
          "Brooklin-to-Port-Whitby rental portfolio arrangements"
@@ -512,7 +447,7 @@
        "q": "Q: Do I have to be home for the whole cleanout?",
        "a": [
         [
-         "A: Only for the twenty-minute walkthrough and your approval — after that, presence is optional. Many Whitby clears run while the household is at work: we sort carefully, set aside anything significant, send photo updates on request, and lock up as arranged. You come home to swept, empty space."
+         "A: Only for the twenty-minute walkthrough and your approval — after that, presence is optional. Many Whitby clears run while the household is at work: we sort carefully, set aside anything significant, send photo updates on request, and lock up as arranged. You come home to, empty space."
         ]
        ]
       },
@@ -528,7 +463,7 @@
        "q": "Q: The basement has been \"next weekend's project\" for three years. How long does it actually take you?",
        "a": [
         [
-         "A: Usually a few hours — that’s the anticlimax. A typical Whitby basement or garage clears in one visit; full homes generally finish within a day, trucks cycling as needed. The walkthrough gives you an honest timeline, not a hopeful one."
+         "A: Usually a few hours — that’s the anticlimax. A typical Whitby basement or garage clears; full homes generally finish within a day, trucks cycling as needed. The walkthrough gives you an honest timeline, not a hopeful one."
         ]
        ]
       },
@@ -536,7 +471,7 @@
        "q": "Q: Can we split the job across weekends?",
        "a": [
         [
-         "A: Absolutely, with no penalty — the garage this Saturday, the basement after March break. Volume pricing works identically split or whole, and the quote holds between phases."
+         "A: Absolutely, with no penalty — the garage this Saturday, the basement after March break. {{fact:changedScope}}."
         ]
        ]
       }

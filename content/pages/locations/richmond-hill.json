@@ -111,29 +111,9 @@
      "text": "Richmond Hill homeowners recommend us because we show up on time, treat their properties with genuine care and charge exactly what we quoted. Condo residents recommend us because we handle building coordination and elevator access seamlessly. Commercial property owners recommend us because we work efficiently, cause zero disruption and get the job done on their schedule. And landlords and property managers across Richmond Hill recommend us because we're reliable, consistent and always fairly priced — whether it's a single tenant cleanout or an ongoing commercial contract."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Volume-based pricing — the only method that makes sense",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "You pay based on how much space your junk fills in our truck. Simple. Transparent. Consistent. Whether you're in a Bayview Hill townhome or a Langstaff commercial unit — the calculation is the same: how much truck space, one fair price."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "We come to you and quote in person — every time",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -141,29 +121,9 @@
      "text": "Simple doesn't mean guessing. We physically visit your Richmond Hill property, walk through every area you need cleared, and calculate an accurate quote based on what we actually see. No phone estimates that drift. No online calculators that miss half the items."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "{{fact:competitorComparison}}",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Labour, truck, fuel, disposal and — for Richmond Hill condo and high-rise buildings — building access coordination and elevator management. All of it in one number. Nothing is added after you've approved the quote."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Fair for every Richmond Hill neighbourhood",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -171,34 +131,9 @@
      "text": "Your street in Oak Ridges doesn't cost more than a street in Harding. Your condo on Yonge Street isn't priced differently than a detached home in Jefferson. Volume in, fair price out — every single time, across every Richmond Hill postcode."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Upfront — you see the price before we start",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "We hand you the quote on-site. You review it. You decide. Zero pressure. Zero obligation. If you approve it, we start immediately. If not, you owe us nothing and we leave without any awkwardness."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Upfront savings vs franchise competitors",
-       "text": []
-      }
-     ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "{{fact:competitorComparison}}"
     }
    ]
   },
@@ -260,7 +195,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Richmond Hill residents are busy — managing homes, families, businesses and schedules that don't have room for complicated processes. Our same-day junk removal when available process in Richmond Hill, Ontario is built around that reality. One call to book. One visit to quote. One crew to handle everything. One less thing to worry about — here's exactly how it works:"
+     "text": "Richmond Hill residents are busy — managing homes, families, businesses and schedules that don't have room for complicated processes. Our same-day junk removal when available process in Richmond Hill, Ontario is built around that reality. One call to book. One crew to handle everything. One less thing to worry about — here's exactly how it works:"
     },
     {
      "t": "cards",
@@ -286,7 +221,7 @@
       {
        "title": "Enjoy Your Clean, Clutter-Free Space",
        "text": [
-        "After removal, we perform a final walkthrough and sweep the area clean. Usable items are donated, recyclables are processed responsibly, and landfill waste is kept to a minimum."
+        "After removal, we perform a final walkthrough. Usable items are donated, recyclables are processed responsibly, and landfill waste is kept to a minimum."
        ]
       }
      ]
@@ -303,7 +238,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Richmond Hill is one of York Region's most dynamic and densely populated cities — a place where detached homes in Oak Ridges sit alongside condo towers on Yonge Street, where thriving commercial plazas line Highway 7, and where business parks in Langstaff and Jefferson host hundreds of offices and commercial operations. Live Junk Free serves every single property type across Richmond Hill with the same professional standard, transparent pricing and same-day speed — residential, condo, office and commercial, every time, subject to scheduling."
+     "text": "Live Junk Free serves every single property type across Richmond Hill with the same professional standard, transparent pricing and same-day speed — residential, condo, office and commercial, every time, subject to scheduling."
     },
     {
      "t": "faq",
@@ -347,7 +282,7 @@
        "q": "Residential Junk Removal in Richmond Hill",
        "a": [
         [
-         "Complete residential junk removal for every home type across all Richmond Hill neighbourhoods."
+         "{{fact:pickupTimes}}"
         ],
         [
          "Furniture removal Richmond Hill — sofas, sectionals, beds, dressers, dining sets"
@@ -581,7 +516,7 @@
        "q": "Q: Do you offer same-day junk removal in Richmond Hill?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of Richmond Hill including Oak Ridges, Jefferson, Bayview Hill, Mill Pond, Langstaff, Crosby and surrounding York Region communities. Call +1 647 922 5865 to confirm today’s availability."
+         "{{fact:scheduling}} Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },
@@ -613,7 +548,7 @@
        "q": "Q: Are you a local Richmond Hill company or a franchise?",
        "a": [
         [
-         "A: We are 100% locally owned and operated — not a franchise."
+         "Careful Removal"
         ]
        ]
       },

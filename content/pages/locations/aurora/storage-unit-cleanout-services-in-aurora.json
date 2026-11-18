@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Storage unit cleanout services in Aurora from Live Junk Free work the same way whether it's a small personal unit holding a handful of boxes or a large unit packed floor to ceiling — same crew, same competency, same flat pricing formula, whatever the unit actually holds. Anyone typing storage unit cleanout services near me from within Aurora will find the same crew already covers every facility in the city."
+     "text": "Anyone typing storage unit cleanout services near me from within Aurora will find the same crew already covers every facility in the city."
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because a storage unit cleanout looks nothing alike depending on scale — a small personal unit with a handful of boxes is a completely different physical job than a large unit packed floor to ceiling with years of accumulation. Live Junk Free handles both with the same competency and prices them by the identical formula — the actual volume and sorting required, not an assumption based on the unit’s size or what it’s rumoured to hold."
+      "Because a storage unit cleanout looks nothing alike depending on scale — a small personal unit with a handful of boxes is a completely different physical job than a large unit packed floor to ceiling with years of accumulation. {{fact:cleanupScope}}."
      ]
     },
     {
@@ -112,7 +112,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "No — the number reflects the actual volume and sorting required, at the same rate whatever the unit's size. A larger unit costs more only because there's genuinely more to clear."
+     "text": "A larger unit costs more only because there's genuinely more to clear."
     }
    ]
   },
@@ -144,25 +144,16 @@
        "title": "Free storage unit cleanout quotes that scope the real job first",
        "text": [
         [
-         "A crew member sees the actual unit and gives one flat number based on what’s really there, not a generic assumption."
+         "{{fact:changedScope}}."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Same-day storage unit cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first storage unit cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -198,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the unit, and how much sorting it genuinely needs. A small personal unit is a modest job. A larger unit with years of accumulated belongings takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small personal unit is a modest job. A larger unit with years of accumulated belongings takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -231,7 +222,7 @@
     {
      "t": "p",
      "c": [
-      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -268,16 +259,7 @@
        "title": "Book Your Storage Unit Cleanout Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual unit, whatever its size, and gives you one flat price before anything moves."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       },
@@ -295,7 +277,7 @@
        "title": "Your Unit Is Empty and Ready to Return",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready to hand back to the facility."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready to hand back to the facility."
         ]
        ]
       }
@@ -330,16 +312,10 @@
        "Storage unit cleanouts for small units holding a modest amount"
       ],
       [
-       "{{fact:competitorComparison}}"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
-      ],
-      [
-       "Same-day service for straightforward access"
-      ],
-      [
-       "Same flat pricing as any larger unit"
+       "Service for straightforward access"
       ],
       [
        "Full sort of whatever's actually there"
@@ -364,13 +340,7 @@
        "Coordination around lease or renewal dates"
       ],
       [
-       "Same-day service for straightforward access"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
-      ],
-      [
-       "Same flat pricing as anywhere in Aurora"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -393,13 +363,10 @@
        "Coordination directly with facility management on timing"
       ],
       [
-       "Same flat pricing regardless of how tight the timeline is"
-      ],
-      [
        "Priority booking for time-sensitive lease-end dates"
       ],
       [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Documentation available for the facility if required"
@@ -421,16 +388,13 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -831,14 +795,6 @@
        ]
       },
       {
-       "q": "Do you charge extra for a unit that's completely packed?",
-       "a": [
-        [
-         "The price reflects the actual volume and sorting required, not a flat surcharge."
-        ]
-       ]
-      },
-      {
        "q": "What happens to furniture and belongings still in good condition?",
        "a": [
         [
@@ -882,7 +838,7 @@
        "q": "Does searching storage unit cleanout near me actually connect me to a local Aurora crew, or a call centre?",
        "a": [
         [
-         "A local crew. Live Junk Free covers Aurora’s facilities directly rather than dispatching through a third party, so there’s no middleman between your call and the actual truck."
+         "A crew. Live Junk Free covers Aurora’s facilities directly rather than dispatching through a third party, so there’s no middleman between your call and the actual truck."
         ]
        ]
       },
@@ -890,15 +846,7 @@
        "q": "Is a clean out storage unit service here different from just calling it a cleanout?",
        "a": [
         [
-         "No — a clean out storage unit service and a storage unit cleanout mean exactly the same thing at Live Junk Free. Same crew, same process, same flat pricing formula either way."
-        ]
-       ]
-      },
-      {
-       "q": "If I need to clear out storage unit space in a hurry, can you still promise the same flat pricing?",
-       "a": [
-        [
-         "Yes — urgency never changes the number. Same-day availability is common, and the price stays tied to volume, not how quickly you need it done."
+         "No — a clean out storage unit service and a storage unit cleanout mean exactly the same thing at Live Junk Free. {{fact:changedScope}}."
         ]
        ]
       }

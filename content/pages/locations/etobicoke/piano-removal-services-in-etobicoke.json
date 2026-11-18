@@ -123,7 +123,7 @@
       },
       {
        "n": "02",
-       "title": "One flat price, whatever decade the piano or the house is from",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Size and type set the number, confirmed on site — a piano that’s fifty years old prices exactly the same as one that arrived last year, assuming the same size and the same route out."
@@ -195,8 +195,7 @@
     {
      "t": "checks",
      "items": [
-      "Move + Disassembly + Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Move + Disassembly + Haul-Away"
      ]
     },
     {
@@ -336,7 +335,7 @@
        "Coordination with your renovation contractor's timeline"
       ],
       [
-       "Donation-first checks before any piano is recycled"
+       "Donation-first checks before any piano is recycled where possible"
       ],
       [
        "Full room cleanouts alongside the piano removal, on request"
@@ -421,7 +420,7 @@
        "Coordination around new piano delivery dates"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Full protection of finished floors throughout"

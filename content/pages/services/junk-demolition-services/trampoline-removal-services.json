@@ -24,11 +24,6 @@
      "text": "Your Trusted Local Experts for Trampoline Removal Services"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in town."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -69,7 +64,7 @@
     {
      "t": "p",
      "c": [
-      "One call to our professional team transforms your problematic trampoline into a cleared space ready for new activities. We carefully assess each trampoline demolition project to determine the safest removal approach, accounting for factors like frame condition, spring tension, and mat deterioration. For metal frame trampolines, we use specialized tools to safely dismantle the structure. Netting and padding removal follows strict safety protocols, while the entire unit is broken down for proper recycling or disposal."
+      "One call to our professional team transforms your problematic trampoline into a cleared space ready for new activities. We carefully assess each trampoline demolition project to determine the safest removal approach, accounting for factors like frame condition, spring tension, and mat deterioration. For metal frame trampolines, we use specialized tools to safely dismantle the structure. {{fact:propertyProtection}}."
      ]
     },
     {
@@ -114,7 +109,7 @@
     {
      "t": "p",
      "c": [
-      "We take care of all the tough work: carefully removing demolition tile floor layers, extracting stubborn adhesives, eliminating every last nail and staple, and hauling away all debris. For concrete floor demolition, we use specialized equipment to break up and remove slabs efficiently."
+      "We take care of all the tough work: carefully removing demolition tile floor layers, extracting stubborn adhesives, eliminating every last nail and staple, and hauling away all debris. {{fact:equipmentScope}}."
      ]
     },
     {
@@ -171,12 +166,6 @@
        "Specialized scrapers and floor strippers for efficient material removal"
       ],
       [
-       "Concrete breakers and grinding equipment for slab demolition"
-      ],
-      [
-       "Dust containment systems for indoor projects"
-      ],
-      [
        "Protective gear to handle sharp debris and adhesives"
       ]
      ]
@@ -212,13 +201,7 @@
       {
        "title": "Cost Savings",
        "text": [
-        "– Special pricing for whole-house or multi-room floor demolition"
-       ]
-      },
-      {
-       "title": "Flexible Scheduling",
-       "text": [
-        ""
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -259,7 +242,7 @@
      "t": "ul",
      "items": [
       [
-       "Our professional team specializes in floor demolition for all property types, from small bathroom tile removal to large commercial concrete slab demolition. Our experienced crew carefully executes each project using specialized tools and techniques to protect your subfloor while efficiently demolishing all trampoline materials."
+       "{{fact:equipmentScope}}. Our experienced crew carefully executes each project using specialized tools and techniques to protect your subfloor while efficiently demolishing all trampoline materials."
       ],
       [
        "From single-room wood floor demolition to entire-home tile floor demolition, we handle every aspect with expert precision."
@@ -330,13 +313,7 @@
      "t": "ul",
      "items": [
       [
-       "Free same-day estimates available by phone, text, or online form"
-      ],
-      [
-       "Special discounted rates for whole-house or multiple room demolitions"
-      ],
-      [
-       "{{fact:competitorComparison}}"
+       "Free estimates available by phone, text, or online form"
       ]
      ]
     }
@@ -407,13 +384,7 @@
       {
        "title": "Send us Photos",
        "text": [
-        "Email or text pictures of your floors, and we will reply within 30 minutes with a free quote."
-       ]
-      },
-      {
-       "title": "Get Your Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
+        "Email or text pictures of your floors, and we will reply with a free quote."
        ]
       },
       {
@@ -498,7 +469,7 @@
        "q": "Do I need to prepare the area before demolition?",
        "a": [
         [
-         "No preparation is needed – our crew handles everything from furniture moving to final cleanup. We recommend removing small valuables and fragile items as a precaution."
+         "No preparation is needed – our crew handles everything from furniture moving to final cleanup. {{fact:retainedItems}}"
         ]
        ]
       },
@@ -506,7 +477,7 @@
        "q": "How long does trampoline demolition take?",
        "a": [
         [
-         "Most single-room projects, while whole-home trampoline removal typically takes 1-2 days. Same-day service is available for urgent projects."
+         "Most single-room projects, while whole-home trampoline removal typically takes 1-2 days. Same-day service may be available for urgent projects."
         ]
        ]
       }

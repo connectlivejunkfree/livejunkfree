@@ -1,0 +1,72 @@
+{
+ "batch": {
+  "fail": 0,
+  "pages": {}
+ },
+ "site": {
+  "fail": 868,
+  "routes": 736
+ },
+ "byCheck": {
+  "text-run-together": {
+   "batch": 0,
+   "site": 3
+  },
+  "cta-quote-to-contact": {
+   "batch": 0,
+   "site": 105
+  },
+  "text-double-punctuation": {
+   "batch": 0,
+   "site": 31
+  },
+  "form-service-mismatch": {
+   "batch": 0,
+   "site": 29
+  },
+  "cta-call-not-tel": {
+   "batch": 0,
+   "site": 4
+  },
+  "heading-no-body": {
+   "batch": 0,
+   "site": 81
+  },
+  "card-empty": {
+   "batch": 0,
+   "site": 8
+  },
+  "text-dangling": {
+   "batch": 0,
+   "site": 154
+  },
+  "image-alt-wrong-city": {
+   "batch": 0,
+   "site": 11
+  },
+  "heading-leading-hyphen": {
+   "batch": 0,
+   "site": 5
+  },
+  "faq-multiple-faqpage": {
+   "batch": 0,
+   "site": 1
+  },
+  "text-raw-slug": {
+   "batch": 0,
+   "site": 432
+  },
+  "cta-residential-on-wrong-page": {
+   "batch": 0,
+   "site": 1
+  },
+  "text-broken": {
+   "batch": 0,
+   "site": 2
+  },
+  "image-wrong-service": {
+   "batch": 0,
+   "site": 1
+  }
+ }
+}

@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Nobleton for owners who'd rather build than sort — garage, workshop, estate and hoarding cleanouts by an insured crew, quoted flat on site with no minimum-job padding, sorted donation-first, and finished swept the same day whenever size allows."
+     "text": "{{fact:propertyProtection}}"
     },
     {
      "t": "ctas",
@@ -75,7 +75,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Cleanout Services From the King Road Corner to the Concessions — All of Nobleton, No Job Too Small"
+     "text": "Cleanout Services From the King Road Corner to the Concessions — All of Nobleton,"
     },
     {
      "t": "p",
@@ -117,7 +117,7 @@
        "title": "Contact us for a quote",
        "text": [
         [
-         "Sorting, carrying, hauling and disposal all live in the one written number."
+         "Carrying, hauling and disposal all live in the one written number."
         ]
        ]
       },
@@ -126,16 +126,7 @@
        "title": "Free walkthrough cleanout quotes at your Nobleton property",
        "text": [
         [
-         "A crew lead walks the space — house, garage, workshop, barn — hears what the cleanout is for, and writes one firm flat quote on the spot. Free, friendly, and honest about scope; owners who know exactly what they’re keeping get a fast, clear number."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Keep the project, hand off the sorting — the Nobleton way",
-       "text": [
-        [
-         "Doers have a project waiting; sorting decades of parts and materials isn’t it. Our crew does the physical work — carrying, sorting, hauling — while you point at what stays and what goes. The workshop clears; your energy stays saved for the build."
+         "{{fact:changedScope}}. Free, friendly, and honest about scope; owners who know exactly what they’re keeping get a fast, clear number."
         ]
        ]
       },
@@ -162,7 +153,7 @@
        "title": "Independent cleanout pricing",
        "text": [
         [
-         "No head-office royalties inside our quotes and no rural or small-job premium either — local crews, our own trucks, honest volume pricing."
+         "{{fact:changedScope}}."
         ]
        ]
       }
@@ -196,7 +187,7 @@
      "t": "checks",
      "items": [
       "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -212,12 +203,6 @@
      "t": "price",
      "label": "Nobleton Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -259,7 +244,7 @@
        "title": "Book Your Nobleton Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit. The crew lead tours the space, hears what’s staying and what’s going, and writes one flat quote with a timeline that fits your build or your family’s pace."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit. {{fact:changedScope}}."
         ]
        ]
       },
@@ -283,10 +268,10 @@
       },
       {
        "n": "04",
-       "title": "Swept, Empty and Ready for the Good Part",
+       "title": ", Empty and Ready for the Good Part",
        "text": [
         [
-         "The space hands back broom-swept — garage, shed, barn or house — with debris gone on our own trucks and donation or disposal documentation available on request. Most single spaces finish inside a day, freeing up the project you actually wanted to start."
+         "The space hands back — garage, shed, barn or house — with debris gone on our own trucks and donation or disposal documentation available on request. Most single spaces finish inside a day, freeing up the project you actually wanted to start."
         ]
        ]
       }
@@ -396,10 +381,7 @@
        "Executor and out-of-town family coordination with documentation"
       ],
       [
-       "Donation-first sorting recorded for the estate file"
-      ],
-      [
-       "Sale-ready, broom-swept handovers"
+       "Sale-ready handovers"
       ]
      ]
     },
@@ -425,9 +407,6 @@
       ],
       [
        "Tenant turnover cleanouts for local landlords, documented"
-      ],
-      [
-       "Respectful crews, first knock to final sweep"
       ]
      ]
     }
@@ -711,7 +690,7 @@
        "q": "Is my job too small to bother calling about?",
        "a": [
         [
-         "Never — that’s a question we’d like to retire. A single garage corner or one shed prices as the sliver of truck space it uses, with no minimum-charge padding. Small village jobs are a large and welcome share of our route."
+         "Never — that’s a question we’d like to retire. {{fact:propertyProtection}}. Small village jobs are a large and welcome share of our route."
         ]
        ]
       },
@@ -727,7 +706,7 @@
        "q": "Can you clear a barn or coop that's years deep in accumulation?",
        "a": [
         [
-         "Yes, and it’s regular work on the concessions around the village. Old equipment, feed-room contents and years of “might need it” sort, carry and haul at standard volume rates, with crews that work calmly around animals and close every gate behind them."
+         "Yes, and it’s regular work on the concessions around the village. {{fact:changedScope}}."
         ]
        ]
       },

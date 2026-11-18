@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Hot Tub Removal Services in Richmond Hill - Live JunkFree",
-  "description": "Hot Tub Removal Services in Richmond Hill from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub.",
+  "description": "{{fact:utilityDisconnection}}",
   "canonical": "https://livejunkfree.ca/locations/richmond-hill/hot-tub-removal-services-in-richmond-hill/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/08/Hot-Tub-Removal-Services-in-Richmond-Hill.jpeg"
@@ -22,11 +22,6 @@
      "t": "h",
      "l": 1,
      "text": "Hot Tub Removal Services in Richmond Hill from Live Junk Free"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Hot Tub Removal Services in Richmond Hill from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub, from a Yonge Street tower suite to a Bayview Hill estate, quoted flat on site."
     },
     {
      "t": "ctas",
@@ -80,13 +75,13 @@
     {
      "t": "p",
      "c": [
-      "Hot tub removal is a full-service process that takes an unwanted hot tub from installed to gone in a single visit: the water is drained, any electrical connection is safely disconnected, the shell is cut into sections small enough to carry out, and every piece is hauled away for recycling or disposal. It covers every hot tub type — portable spas, full-size six-or-seven-seat units, in-ground and above-ground models — and every property type across Richmond Hill, from a Yonge Street condo terrace to a Bayview Hill estate to a home near the Oak Ridges Moraine."
+      "{{fact:utilityDisconnection}} It covers every hot tub type — portable spas, full-size six-or-seven-seat units, in-ground and above-ground models — and every property type across Richmond Hill, from a Yonge Street condo terrace to a Bayview Hill estate to a home near the Oak Ridges Moraine."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Live Junk Free provides this as one flat-rate service, quoted for free at an in-person walkthrough rather than estimated over the phone. The price is confirmed before any work starts, covers the entire job from draining to haul-away, and doesn’t change once the crew is on site."
+      "{{fact:changedScope}}. {{fact:utilityDisconnection}}"
      ]
     },
     {
@@ -129,7 +124,7 @@
       },
       {
        "n": "02",
-       "title": "One flat price, whatever the address type",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number is identical for a tower suite, a heritage home, or an estate property — confirmed on site, held through to the invoice."
@@ -195,7 +190,7 @@
     {
      "t": "p",
      "c": [
-      "Hot tub removal in Richmond Hill typically runs from a modest fee for a small portable spa up to a higher flat price for a full six-or-seven-seat unit, confirmed for free at an on-site walkthrough. The price reflects the tub itself — never whether the address is a condo tower, a heritage street, or an estate property."
+      "{{fact:changedScope}}. The price reflects the tub itself — never whether the address is a condo tower, a heritage street, or an estate property."
      ]
     },
     {
@@ -207,7 +202,6 @@
     {
      "t": "checks",
      "items": [
-      "Drain + Disconnect + Cut-Out + Haul-Away",
       "No Rooftop Surcharges"
      ]
     },
@@ -256,7 +250,7 @@
     {
      "t": "p",
      "c": [
-      "A hot tub removal appointment follows four steps: booking, a free on-site quote, the drain-and-cut-out process, and same-day haul-away when available."
+      "{{fact:utilityDisconnection}}"
      ]
     }
    ]
@@ -280,25 +274,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the tub, maps the exit path — yard, elevator, terrace — and gives you one flat price before touching anything."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "The Tub Gets Drained, Cut and Removed",
-       "text": [
-        [
-         "Water drains responsibly, the shell gets cut into sections that clear the gate, driveway or building corridor."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Your Space Is Clear",
-       "text": [
-        [
-         "Metal components, motors and pumps are routed to recycling and the rest is disposed of responsibly."
+         "{{fact:changedScope}}."
         ]
        ]
       }
@@ -374,14 +350,6 @@
      "t": "h",
      "l": 3,
      "text": "Oak Ridges Hot Tub Removal in Richmond Hill"
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "{{fact:competitorComparison}}"
-      ]
-     ]
     }
    ]
   },
@@ -795,7 +763,7 @@
        "q": "Do I need to drain the hot tub myself before you arrive?",
        "a": [
         [
-         "No — draining is part of the service. No hose, pump, or prep needed beyond reasonably clear access."
+         "{{fact:utilityDisconnection}}"
         ]
        ]
       }

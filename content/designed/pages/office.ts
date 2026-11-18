@@ -14,11 +14,12 @@ export const OFFICE: CommercialContent = {
     alt: "Live Junk Free crew clearing out a business space",
     primary: "Request a commercial quote",
   },
+  // QA 18 Nov B1-35 / OBS-99: each segment says what to tell us and links to the matching service.
   segments: [
-    { title: "Office relocation cleanouts" },
-    { title: "Facility closure cleanouts" },
-    { title: "Industrial warehouse cleanouts" },
-    { title: "Medical office furniture (non-hazardous items only; call to discuss)" }, // Answers B5.3
+    { title: "Office relocation cleanouts", text: "Desks, chairs, filing cabinets and unwanted equipment. Tell us the floor, elevator and loading-dock rules.", href: "/services/commercial-junk-removal-services/office-furniture-removal-services/" },
+    { title: "Facility closure cleanouts", text: "Mark anything that stays (inventory, fixtures, equipment) and we quote the rest at the onsite estimate.", href: "/services/commercial-junk-removal-services/retail-cleanout-services/" },
+    { title: "Warehouse cleanouts", text: `${fact("equipmentScope")}.`, href: "/services/commercial-junk-removal-services/warehouse-cleanout-services/" },
+    { title: "Medical office furniture", text: `Non-hazardous furniture and equipment only. ${fact("medicalOffice")}` }, // Answers B5.3
   ],
   schedule: {
     title: "Built for business schedules",

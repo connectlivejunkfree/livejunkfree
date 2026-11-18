@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "East Gwillimbury is living a double life. On one side: century main streets in Sharon, Mount Albert and Holland Landing, where shops and trades have quietly operated for generations. On the other: gleaming distribution space multiplying along the Highway 404 and Green Lane corridor faster than almost anywhere in Canada. Different eras, same problem — junk with nowhere to go. Our commercial junk removal services in East Gwillimbury cover both worlds with one call: an insured junk hauling crew at your door, a free flat-rate quote written on site, every carry handled by us, and the truck usually gone — junk and all — before the day is out."
+     "text": "East Gwillimbury is living a double life. On one side: century main streets in Sharon, Mount Albert and Holland Landing, where shops and trades have quietly operated for generations. On the other: gleaming distribution space multiplying along the Highway 404 and Green Lane corridor faster than almost anywhere in Canada. Different eras, same problem — junk with nowhere to go."
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "We were running junk removal routes up Yonge Street through Holland Landing back when the 404 extension was still a line on a map — so unlike the haulers now discovering East Gwillimbury exists, we know the difference between a Queensville concession and a Green Lane loading dock. The Google reviews behind Live Junk Free carry that history: local shop owners, new-corridor warehouse managers and EG landlords all describing the same service — a junk removal quote that stayed put, a crew that showed up when the phone call said, and a property handed back swept, whether the floor was 1890s pine or last year’s polished concrete."
+      "We were running junk removal routes up Yonge Street through Holland Landing back when the 404 extension was still a line on a map — so unlike the haulers now discovering East Gwillimbury exists, we know the difference between a Queensville concession and a Green Lane loading dock. The Google reviews behind Live Junk Free carry that history: local shop owners, new-corridor warehouse managers and EG landlords all describing the same service — a junk removal quote that stayed put, a crew that showed up when the phone call said, and a property handed back, whether the floor was 1890s pine or last year’s polished concrete."
      ]
     },
     {
@@ -124,16 +124,16 @@
        "title": "Free walkthrough junk removal quotes at your EG property",
        "text": [
         [
-         "Nobody prices accurately from a phone description of “a bit of old stock and some shelving.” Our crew lead visits, walks the whole footprint — sales floor, mezzanine, barn, bay — and writes one flat junk removal figure covering everything you point at. Costs nothing, obligates nothing, expires never."
+         "{{fact:changedScope}}. Costs nothing, obligates nothing, expires never."
         ]
        ]
       },
       {
        "n": "03",
-       "title": "Our junk removal crew does 100% of the lifting",
+       "title": "Careful Removal",
        "text": [
         [
-         "Whether it’s a two-person shop in Mount Albert or a shift-based warehouse off Green Lane, nobody on your payroll should burn hours hauling junk. We arrive with the crew, the tools and the dollies; we dismantle, carry, load and sweep while your business does business. That’s the entire point of full-service junk hauling."
+         "Whether it’s a two-person shop in Mount Albert or a shift-based warehouse off Green Lane, nobody on your payroll should burn hours hauling junk. {{fact:cleanupScope}}. That’s the entire point of full-service junk hauling."
         ]
        ]
       },
@@ -266,7 +266,7 @@
        "title": "Show the Crew, Sign Off on the Junk Removal Quote",
        "text": [
         [
-         "Walk them through the lot of it — the back-room shelving, the pallet of dead stock, the fit-out debris the contractor “forgot.” Everything is sized against truck volume and handed back as one written flat rate. Yes starts the clock; no costs you nothing."
+         "{{fact:changedScope}}. Yes starts the clock; no costs you nothing."
         ]
        ]
       },
@@ -281,7 +281,7 @@
       },
       {
        "n": "04",
-       "title": "Swept Space, Sorted Junk Disposal, Receipts If You Want Them",
+       "title": "Space, Sorted Junk Disposal, Receipts If You Want Them",
        "text": [
         [
          "The job closes with a broom and, on request, paperwork showing where the load went: donation partners for the usable, licensed recyclers for metals and e-waste, landfill only for the stubborn remainder. Your space is back; your records are covered."
@@ -325,9 +325,6 @@
        "Distribution bay cleanouts along Green Lane and the Highway 404 employment lands"
       ],
       [
-       "Pallet racking dismantled and hauled, single runs to full systems"
-      ],
-      [
        "Refused freight, returns piles and write-off inventory disposal"
       ],
       [
@@ -335,9 +332,6 @@
       ],
       [
        "Scrap metal, machine components and retired equipment pickup"
-      ],
-      [
-       "Multi-truck scheduling for facility-scale junk removal"
       ]
      ]
     },
@@ -709,7 +703,7 @@
        "q": "Do you actually cover the smaller hamlets, or just the main roads?",
        "a": [
         [
-         "All of it, genuinely — Queensville, Sharon, Mount Albert, Holland Landing and the concessions between are on the same daily routes as the 404 corridor, at the same flat volume pricing. No hamlet pays a travel premium and none waits longer than the highway addresses."
+         "{{fact:changedScope}}. No hamlet pays a travel premium and none waits longer than the highway addresses."
         ]
        ]
       },
@@ -717,7 +711,7 @@
        "q": "Can you take construction and fit-out debris from a new unit?",
        "a": [
         [
-         "Yes — with new commercial space opening across East Gwillimbury constantly, fit-out debris is now some of our most common work. Drywall, flooring offcuts, packaging and trade leftovers all haul at standard volume rates, scheduled between your construction phases so the site never stalls."
+         "Yes — with new commercial space opening across East Gwillimbury constantly, fit-out debris is now some of our most common work. {{fact:changedScope}}."
         ]
        ]
       },
@@ -749,7 +743,7 @@
        "q": "Can EG landlords and property managers book recurring junk removal?",
        "a": [
         [
-         "Easily — and with the municipality growing this fast, more do every month. Weekly, monthly or per-turnover schedules run at unchanged volume rates, on one consolidated invoice, with one contact who knows every property on your list."
+         "Easily — and with the municipality growing this fast, more do every month. {{fact:changedScope}}."
         ]
        ]
       },

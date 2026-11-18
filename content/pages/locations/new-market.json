@@ -38,7 +38,7 @@
         "Live Junk Free"
        ]
       },
-      " is a locally operated team — not a franchise, not a national call centre — and we treat every Newmarket home and business the way we’d want our own treated. We arrive on time, assess everything in person, hand you a completely free on-site estimate before touching a thing, and if you’re happy with it, your junk is cleared the same day. Professional results, neighbourly service, every single time."
+      " is a locally operated team — not a franchise, not a national call centre — and we treat every Newmarket home and business the way we’d want our own treated. We arrive on time, assess everything in person, hand you a completely free on-site estimate before touching a thing, and if you’re happy with it, your junk is cleared the same day, subject to availability. Professional results, neighbourly service, every single time."
      ]
     },
     {
@@ -109,29 +109,9 @@
      "text": "Families in Stonehaven and Glenway call us for garage and basement cleanouts. Homeowners near Fairy Lake and Davis Drive call us for estate cleanouts and furniture removal. Business owners along Main Street and Yonge Street call us for commercial cleanouts, office furniture removal and retail cleanouts. And they all come back — and they all refer their neighbours — because we do exactly what we say we're going to do, every single time. We're not a call-centre franchise dispatching random contractors. We're a real, locally operated junk removal company with a professional crew, fully insured, that shows up on time and treats your Etobicoke home or condo the way it deserves to be treated. No scuffs on your walls. No mess left behind. No billing surprises."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Zero guessing — we quote in person, every time.",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Our Newmarket junk removal crew comes to your property, physically walks through every area you need cleared, and assesses the full job before calculating your price. No guessing on the phone. No estimate that needs to be \"adjusted\" once we see the actual volume. What we see in person is what we price."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Volume-based pricing — the only honest method.",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -139,29 +119,9 @@
      "text": "Your quote is based entirely on how much space your items take up in our truck. Small load, small price. Large load, scaled price. The clock is never running. Your neighbourhood in Newmarket never factors into your bill. Pure volume, pure fairness."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One flat-rate number.",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} We do not add line items after you've approved the quote. We do not discover \"extra disposal fees\" at the end. What you approve is a complete, locked price."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Zero obligation to proceed.",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -169,29 +129,9 @@
      "text": "Once we hand you the quote, the decision is entirely yours. Take your time. If it works, we start immediately. If it doesn't, we leave — no charge, no sales pressure, no awkwardness."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Zero overpaying vs franchise competitors.",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Local ownership means local pricing."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Senior and estate cleanout consideration.",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -253,7 +193,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Most people in Newmarket put off dealing with junk not because they don't want it gone — but because they expect the process to be complicated, time-consuming or stressful. We've spent years designing our same-day junk removal when available service in Newmarket, Ontario to eliminate every one of those concerns. Here's our complete 4-step process — simple, fast and stress-free from first call to clean space:"
+     "text": "Most people in Newmarket put off dealing with junk not because they don't want it gone — but because they expect the process to be complicated, time-consuming or stressful. We've spent years designing our same-day junk removal service when available in Newmarket, Ontario to eliminate every one of those concerns. Here's our complete 4-step process — simple, fast and stress-free from first call to clean space:"
     },
     {
      "t": "cards",
@@ -267,7 +207,7 @@
       {
        "title": "We Arrive On Time & Give You a Free On-Site Quote",
        "text": [
-        "Our professional, uniformed Newmarket junk removal crew arrives precisely when we said we would. We walk through your entire property with you — the garage, basement, backyard, every room, any outdoor structures, sheds or storage areas. We take note of everything that needs to go and calculate an accurate, flat-rate quote on the spot. One number. Everything included. Zero obligation to proceed — if it doesn't work for you, we leave immediately and you owe us nothing."
+        "Our professional, uniformed Newmarket junk removal crew arrives precisely when we said we would. We walk through your entire property with you — the garage, basement, backyard, every room, any outdoor structures, sheds or storage areas. {{fact:changedScope}}. One number. Everything included. Zero obligation to proceed — if it doesn't work for you, we leave immediately and you owe us nothing."
        ]
       },
       {
@@ -279,7 +219,7 @@
       {
        "title": "Cleared, Cleaned & Responsibly Sorted",
        "text": [
-        "Once every item is loaded, we do a final walkthrough with you to confirm everything is gone. We sweep up the area and leave it clean — no debris from the haul, no mess from moving items out. We care about this community — and that means we handle its waste responsibly."
+        "Once every item is loaded, we do a final walkthrough with you to confirm everything is gone. We the area and leave it clean — no debris from the haul, no mess from moving items out. We care about this community — and that means we handle its waste responsibly."
        ]
       }
      ]
@@ -305,7 +245,7 @@
        "q": "Residential Junk Removal in Newmarket",
        "a": [
         [
-         "Complete residential junk removal across every Newmarket neighbourhood — no job too big, no item too heavy."
+         "Complete residential junk removal across every Newmarket neighbourhood, no item too heavy."
         ],
         [
          "Furniture removal Newmarket — sofas, sectionals, beds, dressers, dining sets, chairs"
@@ -561,7 +501,7 @@
        "q": "Q: Do you offer same-day junk removal in Newmarket?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of Newmarket including Stonehaven, Glenway, Summerhill Estates, Woodland Hill, Huron Heights and surrounding York Region communities. Call +1 647 922 5865 to confirm today’s availability."
+         "{{fact:scheduling}} Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },
@@ -600,7 +540,7 @@
          }
         ],
         [
-         "A: We are 100% locally owned and operated — not affiliated with any national franchise."
+         "Careful Removal"
         ]
        ]
       },

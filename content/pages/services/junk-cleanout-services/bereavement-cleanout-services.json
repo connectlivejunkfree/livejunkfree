@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "Whether it’s a single downsized apartment, a full multi-floor family home filled with decades of belongings, or a rural property with outbuildings, the same patient process applies everywhere in the GTA."
+      "{{fact:changedScope}}."
      ]
     },
     {
@@ -136,15 +136,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Volume-based pricing — fair regardless of the home's size or contents.",
-       "text": [
-        [
-         "Whether it’s a single downsized apartment or a full multi-floor family home filled with decades of belongings, your price is calculated the same honest way: by how much space the contents fill in our truck."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "One number — no hidden line items during an already difficult process.",
        "text": [
@@ -159,24 +150,6 @@
        "text": [
         [
          "If you need us to pause, return another day, or simply need more time before approving anything — there’s no cost, no pressure and no obligation. We work entirely around what you need."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        [
-         "Once you’re ready and you approve the quote, that number does not change — regardless of how long the clearing takes or what we encounter while doing it."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "",
-       "text": [
-        [
-         "without compromising on the patience and care this work actually requires."
         ]
        ]
       }
@@ -209,7 +182,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "Labour, Truck, Fuel and Disposal"
      ]
     },
@@ -226,12 +198,6 @@
      "t": "price",
      "label": "Bereavement Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -278,15 +244,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Property Walkthrough & Quote",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Respectful Property Clearing",
        "text": [
@@ -300,7 +257,7 @@
        "title": "Clean Property, Ready for What's Next",
        "text": [
         [
-         "We complete a final walkthrough, sweep the area, and leave the property ready for sale, occupancy, renovation, or its next chapter."
+         "We complete a final walkthrough, and leave the property ready for sale, occupancy, renovation, or its next chapter."
         ]
        ]
       }
@@ -338,16 +295,10 @@
      "t": "ul",
      "items": [
       [
-       "Bereavement cleanouts for multi-floor family homes filled with decades of belongings"
-      ],
-      [
        "Room-by-room pacing that respects the family's own timeline"
       ],
       [
        "Keepsakes and anything meaningful set aside before anything else is touched"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     },
@@ -367,9 +318,6 @@
       ],
       [
        "Discreet timing coordinated with concierge where relevant"
-      ],
-      [
-       "Same flat pricing formula as any other property"
       ]
      ]
     }
@@ -412,9 +360,6 @@
       ],
       [
        "Outbuilding coordination where the estate includes more than the main house"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ],
       [
        "Real patience for properties with generations of accumulated belongings"

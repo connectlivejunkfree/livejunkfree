@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Basement Cleanout Services in Whitby | Live Junk Free",
-  "description": "Live Junk Free provides basement cleanout services in Whitby to carry it all out, sort what can be reused or recycled, haul it away and sweep the space.",
+  "description": "Live Junk Free provides basement cleanout services in Whitby to carry it all out, sort what can be reused or recycled where possible, haul it away.",
   "canonical": "https://livejunkfree.ca/locations/whitby/basement-cleanout-services-in-whitby/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/basement-cleanout-services.jpeg"
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Years of stored furniture, boxes, appliances and household clutter can leave your basement packed from floor to ceiling. Live Junk Free provides basement cleanout services in Whitby to carry it all out, sort what can be reused or recycled, haul it away and sweep the space when the job is complete."
+     "text": "Years of stored furniture, boxes, appliances and household clutter can leave your basement packed from floor to ceiling. Live Junk Free provides basement cleanout services in Whitby to carry it all out, sort what can be reused or recycled where possible, haul it away when the job is complete."
     },
     {
      "t": "ctas",
@@ -165,19 +165,10 @@
       },
       {
        "n": "05",
-       "title": "Basement Cleaning and Junk Removal Near Me in One Visit",
+       "title": "Basement Cleaning and Junk Removal Near Me",
        "text": [
         [
-         "Our basement cleaning and junk removal near me service combines carrying, hauling, sorting and final sweeping. Once the unwanted contents are removed, we sweep the basement so the space is left open and ready for its next purpose."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Responsible Basement Cleanouts With Sorting",
-       "text": [
-        [
-         "Our basement cleanouts follow a donation-and-recycling approach whenever possible. Usable furniture, sporting goods, tools, books and housewares can be directed toward donation, while metals, electronics, wood, cardboard and appliances can be sent through appropriate recycling streams."
+         "{{fact:cleanupScope}}."
         ]
        ]
       }
@@ -321,7 +312,7 @@
     {
      "t": "p",
      "c": [
-      "Every basement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every basement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -377,15 +368,6 @@
        "text": [
         [
          "Select a convenient day for your basement cleanout. Same-day, weekend and scheduled appointments may be available."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "We Clean Out Basement Junk",
-       "text": [
-        [
-         "Our crew carries the unwanted items up and out, loads them into the truck, sorts materials for donation or recycling where appropriate and sweeps the basement before leaving."
         ]
        ]
       }
@@ -490,7 +472,7 @@
     {
      "t": "p",
      "c": [
-      "If you are searching for basement cleanouts near me because you need the space cleared quickly, Live Junk Free offers same-day basement cleanouts when scheduling allows. Along with basement junk removal, we provide other residential and commercial cleanout services, including house cleanouts, apartment cleanouts, garage cleanouts, estate cleanouts, eviction cleanouts, hoarding cleanouts, storage unit cleanouts and office cleanouts. We also provide demolition services for decks, fences, garages, sheds and hot tubs when your property project requires additional removal work."
+      "If you are searching for basement cleanouts near me because you need the space cleared quickly, Live Junk Free offers same-day basement cleanouts when available when scheduling allows. Along with basement junk removal, we provide other residential and commercial cleanout services, including house cleanouts, apartment cleanouts, garage cleanouts, estate cleanouts, eviction cleanouts, hoarding cleanouts, storage unit cleanouts and office cleanouts. We also provide demolition services for decks, fences, garages, sheds and hot tubs when your property project requires additional removal work."
      ]
     },
     {

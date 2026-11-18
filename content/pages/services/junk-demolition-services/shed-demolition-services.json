@@ -24,11 +24,6 @@
      "text": "Your Trusted Local Choice for Shed Demolition Service!"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in town."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -63,13 +58,13 @@
     {
      "t": "p",
      "c": [
-      "That worn-out shed sitting in your backyard isn’t doing you any favors anymore. What was once useful storage space has now become an obstacle, taking up valuable room that could be used for something better. Removing it yourself means tackling tough jobs like dealing with unstable structures, rusted hardware, and stubborn concrete footings."
+      "That worn-out shed sitting in your backyard isn’t doing you any favors anymore. What was once useful storage space has now become an obstacle, taking up valuable room that could be used for something better. {{fact:structuralDemolition}}."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Our professional shed removal service takes care of everything for you. We handle the complete demolition and removal, leaving your property clear and ready for whatever comes next. With years of experience in your area, we’ve safely removed hundreds of sheds just like yours."
+      "Our professional shed removal service takes care of everything for you. We handle the complete demolition and removal, leaving your property clear and ready for whatever comes next."
      ]
     },
     {
@@ -120,7 +115,7 @@
     {
      "t": "p",
      "c": [
-      "With our experienced team, you can relax while we clear your space quickly and safely. In no time, you’ll have a fresh, open area ready for gardening, play, or a new project. Simple, stress-free shed removal at the best price."
+      "With our experienced team, you can relax while we clear your space quickly and safely. In no time, you’ll have a fresh, open area ready for gardening, play, or a new project. {{fact:changedScope}}."
      ]
     },
     {
@@ -184,9 +179,6 @@
        "Safely tear down wooden, metal, or plastic sheds of any size"
       ],
       [
-       "Handle attached foundations (concrete pads, wooden bases)"
-      ],
-      [
        "Remove all debris – nothing left behind"
       ],
       [
@@ -203,6 +195,44 @@
       {
        "b": [
         "We Offer Shed Demolition Service"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Advantages of Choosing Live Junk Free for Shed Demolition"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Time-Saving Efficiency",
+       "text": [
+        "Timing confirmed at your estimate"
+       ]
+      },
+      {
+       "title": "Flexible Scheduling",
+       "text": [
+        "{{fact:pickupTimes}}"
+       ]
+      },
+      {
+       "title": "Property Protection",
+       "text": [
+        "– Ground mats and careful techniques prevent lawn/landscape damage"
+       ]
+      },
+      {
+       "title": "Careful Removal",
+       "text": [
+        "– We prevent damage to your lawn, landscaping, and surrounding structures."
        ]
       }
      ]
@@ -247,7 +277,7 @@
      "t": "ul",
      "items": [
       [
-       "Wood, metal, and roofing materials are carefully recycled"
+       "Wood, metal, and roofing materials are carefully recycled where possible"
       ],
       [
        "Concrete and brick materials are crushed and repurposed"
@@ -289,10 +319,10 @@
        "{{fact:freeOnsiteEstimates}}"
       ],
       [
-       "Discounts available for multiple shed removals"
+       "{{fact:competitorComparison}}"
       ],
       [
-       ", our quotes are guaranteed"
+       "Careful Removal"
       ]
      ]
     }
@@ -407,14 +437,6 @@
      "t": "faq",
      "items": [
       {
-       "q": "What does shed demolition and removal include?",
-       "a": [
-        [
-         ""
-        ]
-       ]
-      },
-      {
        "q": "How much does shed demolition typically cost?",
        "a": [
         [
@@ -435,14 +457,6 @@
        "a": [
         [
          "Demolition means breaking down the structure, while removal includes hauling away all materials and cleaning the site."
-        ]
-       ]
-      },
-      {
-       "q": "What steps are involved in the demolition of a shed?",
-       "a": [
-        [
-         ""
         ]
        ]
       }

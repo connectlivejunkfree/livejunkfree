@@ -126,43 +126,16 @@
        "title": "No waterfront premium on storage unit cleanout, ever",
        "text": [
         [
-         "The number reflects the size of the unit and the sorting it needs — never whether the facility happens to be near the water or well inland."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Seasonal and marina equipment storage unit cleanout sorting",
-       "text": [
-        [
-         "Boat gear, dock hardware and seasonal furniture get sorted with an understanding of what’s actually useful, not treated the same as ordinary clutter."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "One flat storage unit cleanout price, confirmed before anything moves",
-       "text": [
-        [
-         "A crew member sees the actual unit and gives one flat number before anything moves — no per-item guessing."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Same-day storage unit cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first storage unit cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -198,7 +171,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how full the unit actually is, and how much sorting it genuinely needs. A small unit is a modest job. A unit holding years of seasonal equipment alongside ordinary storage takes considerably more time to sort with the care it deserves, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small unit is a modest job. A unit holding years of seasonal equipment alongside ordinary storage takes considerably more time to sort with the care it deserves, and the price reflects that real difference."
      ]
     },
     {
@@ -210,8 +183,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -231,7 +203,7 @@
     {
      "t": "p",
      "c": [
-      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -277,7 +249,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual unit, notes any seasonal or marina equipment involved, and gives you one flat price before anything moves."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -295,7 +267,7 @@
        "title": "Your Unit Is Empty and Ready to Return",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready to hand back to the facility."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready to hand back to the facility."
         ]
        ]
       }
@@ -333,16 +305,13 @@
        "Real understanding of what's genuinely useful versus what's worn out"
       ],
       [
-       "Same flat pricing as anywhere inland"
-      ],
-      [
        "No waterfront premium anywhere in the quote"
       ],
       [
        "Coordination around seasonal timing where relevant"
       ],
       [
-       "Same-day service where access allows"
+       "Service where access allows"
       ]
      ]
     },
@@ -364,13 +333,10 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
-       "Same-day service for straightforward access"
-      ],
-      [
-       "Same flat pricing as any waterfront-area unit"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -393,13 +359,10 @@
        "Coordination directly with facility management on timing"
       ],
       [
-       "Same flat pricing regardless of how tight the timeline is"
-      ],
-      [
        "Priority booking for time-sensitive lease-end dates"
       ],
       [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Documentation available for the facility if required"
@@ -421,16 +384,13 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -850,7 +810,7 @@
        "q": "Do you cover year-round Keswick and Sutton facilities, not just the shoreline?",
        "a": [
         [
-         "Yes, at the exact same flat pricing."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },

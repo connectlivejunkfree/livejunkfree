@@ -80,13 +80,13 @@
     {
      "t": "p",
      "c": [
-      "Because Bolton is genuinely a trucking and industrial corridor, not just a town with a heritage core attached — a closing warehouse, manufacturing operation or distribution facility here holds real weight, from heavy equipment to industrial racking to machinery that needs proper technique and a properly sized crew to move safely. Live Junk Free brings the same industrial-grade capability to business cleanout that it brings to any heavy job here."
+      "{{fact:equipmentScope}}. Live Junk Free brings the same industrial-grade capability to business cleanout that it brings to any heavy job here."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Along Queen Street’s heritage storefronts, business cleanout leans the other way — smaller spaces that deserve patience over muscle. On the rural concessions, it’s the same flat pricing regardless of distance from downtown."
+      "Along Queen Street’s heritage storefronts, business cleanout leans the other way — smaller spaces that deserve patience over muscle. {{fact:changedScope}}."
      ]
     },
     {
@@ -131,13 +131,13 @@
        "title": "Real industrial capability for heavy business cleanout contents",
        "text": [
         [
-         "Warehouse racking, manufacturing equipment and heavy machinery get the crew size and technique that real weight actually requires, not a team stretched past what it can safely manage."
+         "{{fact:equipmentScope}}."
         ]
        ]
       },
       {
        "n": "02",
-       "title": "One flat business cleanout price, town or concession",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Size and access set the number — never how far the property sits from downtown, and never how heavy the contents turn out to be once the crew’s actually lifting them."
@@ -159,15 +159,6 @@
        "text": [
         [
          "A crew member sees the actual contents and assesses what it’ll genuinely take to move safely before naming a number."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first business cleanout sorting for fixtures and equipment",
-       "text": [
-        [
-         "Furniture, fixtures and equipment still in good condition go to donation partners or resale channels first, before anything reaches disposal."
         ]
        ]
       },
@@ -203,7 +194,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume and weight — how full the space actually is, and how heavy the contents genuinely are. A small storefront with lighter fixtures is a modest job. An industrial facility with warehouse racking, manufacturing equipment and heavy machinery takes real crew coordination to clear safely, and the price reflects that genuine scope."
+      "The honest factor is volume and weight — how full the space actually is, and how heavy the contents genuinely are. A small storefront with lighter fixtures is a modest job. {{fact:equipmentScope}}."
      ]
     },
     {
@@ -215,8 +206,7 @@
     {
      "t": "checks",
      "items": [
-      "Hauling-Away",
-      "{{fact:competitorComparison}}"
+      "Hauling-Away"
      ]
     },
     {
@@ -232,12 +222,6 @@
      "t": "price",
      "label": "Bolton Business Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -288,7 +272,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual contents, assesses the real weight involved, and gives you one flat price before anything moves."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -306,7 +290,7 @@
        "title": "Your Space Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left and ready for whatever comes next."
         ]
        ]
       }
@@ -347,19 +331,10 @@
        "Business cleanouts for genuinely heavy industrial and manufacturing contents"
       ],
       [
-       "Proper multi-person crews and equipment for machinery and warehouse racking"
-      ],
-      [
        "No undersized team improvising with the wrong tools"
       ],
       [
-       "Same flat pricing as any lighter-contents business cleanout"
-      ],
-      [
        "Loading dock access and scheduling coordinated in advance"
-      ],
-      [
-       "Donation-first sorting for equipment still in usable condition"
       ]
      ]
     },
@@ -378,16 +353,10 @@
        "Careful, unhurried handling around established buildings"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
-       "Same-day service for straightforward village access"
-      ],
-      [
-       "Same flat pricing as a rural or heavy-contents job"
-      ],
-      [
-       "{{fact:competitorComparison}}"
+       "Service for straightforward village access"
       ]
      ]
     }
@@ -405,12 +374,6 @@
      "items": [
       [
        "Business cleanouts on farm and rural properties across the concessions"
-      ],
-      [
-       "Same flat pricing regardless of distance from town"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ],
       [
        "Multi-structure property visits scoped and priced as one job"
@@ -438,16 +401,13 @@
        "Full sort of furniture, fixtures and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -843,7 +803,7 @@
        "q": "Do rural addresses or long laneways cost extra?",
        "a": [
         [
-         "Never. The same flat pricing applies at Queen Street and eight concessions past it."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },
@@ -1106,7 +1066,7 @@
          "33. How quickly can a commercial property in Bolton be emptied?"
         ],
         [
-         "The timeline depends on the size of the property, volume of items, access, and type of material being removed. Smaller spaces may take less time than a full warehouse or multi-room commercial property."
+         "The timeline depends on the size of the property, volume of items, access, and type of material being removed. {{fact:changedScope}}."
         ],
         [
          "34. Can you work with a specific lease or move-out deadline?"

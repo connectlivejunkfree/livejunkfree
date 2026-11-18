@@ -6,7 +6,7 @@
  "template": "BlogPost",
  "seo": {
   "title": "Handle Eviction Cleanouts with Care and Efficiency",
-  "description": "Discover best practices for handling eviction cleanouts with care, efficiency, respect, and speed while ensuring safety, compliance, and proper junk removal.",
+  "description": "",
   "canonical": "https://livejunkfree.ca/blog/handle-eviction-cleanouts-care-efficiency/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2025/12/How-to-Handle-Eviction-Cleanouts-with-Care-and-Efficiency.jpeg"
@@ -77,7 +77,6 @@
      "t": "ul",
      "items": [
       [
-       "Legal Compliance: Ontario’s ",
        {
         "i": [
          "Residential Tenancies Act"
@@ -143,10 +142,7 @@
      "t": "ul",
      "items": [
       [
-       "Use a Sorting System: Designate areas for items: those that appear to be of clear personal value (documents, photos), general belongings, and obvious garbage."
-      ],
-      [
-       "Handle Personal Items Separately: Place clearly personal or potentially valuable items (jewelry boxes, important-looking documents) into sealed boxes. This simplifies the legal requirement to store “valuables” for the mandated period."
+       "{{fact:cleanupScope}}."
       ],
       [
        "Work Systematically: Clear the unit room-by-room to ensure nothing is missed and to maintain order."
@@ -262,9 +258,6 @@
       ],
       [
        "Efficient, Careful Removal: Our team removes all contents with respect for the property and the situation. We can segregate personal items as requested."
-      ],
-      [
-       "Flexible Storage & Disposal: We coordinate the storage and final disposal timeline with you to ensure legal compliance, followed by responsible recycling and donation."
       ],
       [
        "Clear Communication: We keep the process transparent, providing the documentation you need for your records."

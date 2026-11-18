@@ -339,13 +339,10 @@
        "Wall, corner and staircase protection throughout"
       ],
       [
-       "Donation-first checks before any piano is recycled"
+       "Donation-first checks before any piano is recycled where possible"
       ],
       [
        "Careful handling around original hamlet-home layouts"
-      ],
-      [
-       "Same flat pricing as anywhere else in the municipality"
       ]
      ]
     },
@@ -367,10 +364,7 @@
        "Coordination around new piano delivery dates"
       ],
       [
-       "Same-day service for straightforward access"
-      ],
-      [
-       "Donation-first sorting before any recycling"
+       "Service for straightforward access"
       ],
       [
        "Full protection of finished floors throughout"
@@ -391,12 +385,6 @@
      "items": [
       [
        "Piano removal from farmhouses and rural properties across the western concessions"
-      ],
-      [
-       "Same flat pricing regardless of distance from the lake"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ],
       [
        "Careful handling around working farm operations"
@@ -859,7 +847,7 @@
        "q": "Do you charge extra for stairs?",
        "a": [
         [
-         "No. Narrow staircases and multi-floor moves are factored into one flat quote at the walkthrough. "
+         "No. {{fact:changedScope}}. "
         ]
        ]
       }

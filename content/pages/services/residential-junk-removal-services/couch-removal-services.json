@@ -6,7 +6,7 @@
  "template": "ItemRemoval",
  "seo": {
   "title": "Couch Removal Services - Live JunkFree",
-  "description": "Need couch removal services in Toronto & GTA? We pick up any couch same day — any floor, any size, from {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), subject to scheduling. Fully insured. Call +1 647 922 5865 for a free quote!",
+  "description": "Couch and sofa removal across the GTA. Tell us the size, floor and access for a quote; pickup scheduled around availability.",
   "canonical": "https://livejunkfree.ca/services/residential-junk-removal-services/couch-removal-services/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/couch-removal-services_before.jfif_202607151247.jpeg"
@@ -116,7 +116,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Fast Booking. Best Price. Zero Surprises."
+     "text": "Fast Booking. Clear Quotes. Zero Surprises."
     },
     {
      "t": "p",
@@ -176,7 +176,7 @@
     {
      "t": "p",
      "c": [
-      "We understand life doesn’t always give you a week’s notice. That’s why we offer same-day and next-day removal for most locations across the GTA. Whether you’re staging your home for sale, making room for a new piece, or just done looking at that beat-up sofa, we can be there fast."
+      "We understand life doesn’t always give you a week’s notice. That’s why we offer same-day and next-day removal when available for most locations across the GTA. Whether you’re staging your home for sale, making room for a new piece, or just done looking at that beat-up sofa, we can be there fast."
      ]
     },
     {
@@ -217,7 +217,7 @@
       {
        "title": "We Show Up When We Say We Will — Every Single Time",
        "text": [
-        "Unreliable crews who cancel last minute or show up hours late are the number one complaint homeowners have about ",
+        "",
         {
          "a": "/contact/",
          "c": [
@@ -242,19 +242,19 @@
       {
        "title": "We Take Eco-Friendly Disposal Seriously — Not Just Symbolically",
        "text": [
-        "A lot of companies claim to be eco-friendly while hauling everything straight to the nearest landfill. We don’t. Every item we collect is assessed for donation potential, material recyclability, and reuse opportunities before disposal is even considered."
+        "A lot of companies claim to be eco-friendly while hauling everything straight to the nearest landfill. We don’t."
        ]
       },
       {
        "title": "Fully Licensed, Fully Insured — You're Protected Throughout",
        "text": [
-        "When you let a crew into your home, you deserve to know they’re covered. Live Junk Free is fully licensed to operate and carries comprehensive liability insurance on every job. If anything unexpected happens — however unlikely — you’re protected. We never cut corners on compliance, because your peace of mind starts before we even arrive at the door."
+        "When you let a crew into your home, you deserve to know they’re covered. Live Junk Free is fully licensed to operate and carries comprehensive liability insurance on every job. If anything unexpected happens — however unlikely — you’re protected."
        ]
       },
       {
        "title": "Real People Answer Your Call — Not a Bot, Not a Voicemail",
        "text": [
-        "From your first call to job completion, you’ll deal with real, knowledgeable people who can actually answer your questions, give you an accurate quote, and get you booked immediately. No automated phone trees, no 48-hour email turnarounds, no being bounced between departments."
+        "{{fact:scheduling}} No automated phone trees, no 48-hour email turnarounds, no being bounced between departments."
        ]
       }
      ]
@@ -286,20 +286,12 @@
        "Disassembly if required"
       ],
       [
-       "{{fact:propertyProtection}}"
-      ],
-      [
        "Post-removal area cleanup"
       ],
       [
        "Eco-responsible disposal"
       ]
      ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Save More By Choosing Multi-Item Bundle"
     },
     {
      "t": "p",
@@ -408,7 +400,7 @@
       {
        "title": "Text Us a Photo of Your Couch",
        "text": [
-        "Snap a quick photo and text it to +1 647 922 5865. Show us the couch and the space it's in — that's all we need to give you an accurate quote on the spot."
+        "Snap a quick photo and text it to +1 647 922 5865. Show us the couch and the space it's in — that's all we need to give you an accurate quote at the onsite estimate."
        ]
       },
       {
@@ -439,7 +431,7 @@
     {
      "t": "p",
      "c": [
-      "See how we transform cluttered, overcrowded spaces into clean, functional areas—done efficiently, with care, and zero hassle."
+      "Careful Removal"
      ]
     },
     {
@@ -479,7 +471,7 @@
        "q": "Can you remove them from the apartments?",
        "a": [
         [
-         "Yes! We service high-rises, condos, and walk-ups; no job is too tricky."
+         "Yes! We service high-rises, condos, and walk-ups;"
         ]
        ]
       },
@@ -487,7 +479,7 @@
        "q": "What if my couch won’t fit through the door?",
        "a": [
         [
-         "We expertly disassemble furniture to remove it safely without damage."
+         "We expertly disassemble furniture to remove it safely."
         ]
        ]
       },

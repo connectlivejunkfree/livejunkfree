@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because distance and visiting schedules change how gradually something becomes visible. A family that sees a parent’s home in Keswick or on the water near Jackson’s Point once or twice a year notices change differently than a family living five minutes away — the accumulation happens between visits, and by the time it’s undeniable, it can feel like it appeared overnight even though it clearly didn’t. Live Junk Free doesn’t treat that timeline as anything unusual. However long it took to notice, and however long it took after that to actually pick up the phone, none of it factors into how the crew approaches the work."
+      "Because distance and visiting schedules change how gradually something becomes visible. {{fact:scheduling}} Live Junk Free doesn’t treat that timeline as anything unusual. However long it took to notice, and however long it took after that to actually pick up the phone, none of it factors into how the crew approaches the work."
      ]
     },
     {
@@ -131,7 +131,7 @@
        "title": "No waterfront premium, on principle",
        "text": [
         [
-         "The number reflects the size of the job and the sorting it needs — never whether the property looks out over the water or sits well inland."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -167,7 +167,7 @@
        "title": "A pace that belongs entirely to the family",
        "text": [
         [
-         "Some hoarding cleanouts finish in one visit. Others need to happen across a season, or across several seasons, exactly on the timeline the family can manage."
+         "Some hoarding cleanouts finish. Others need to happen across a season, or across several seasons, exactly on the timeline the family can manage."
         ]
        ]
       },
@@ -203,7 +203,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is the scope of the space — how many rooms are affected, and how much sorting the belongings genuinely need. A single room is a modest job. A full property with years of accumulation across every level takes considerably more time, and the price reflects that real difference rather than a flat guess made over the phone."
+      "{{fact:cleanupScope}}. A single room is a modest job. A full property with years of accumulation across every level takes considerably more time, and the price reflects that real difference rather than a flat guess made over the phone."
      ]
     },
     {
@@ -215,7 +215,7 @@
     {
      "t": "checks",
      "items": [
-      "One Flat Price, Never Adjusted for the View",
+      "{{fact:competitorComparison}}",
       "No Charge for However Long It Took to Notice or to Call"
      ]
     },
@@ -236,7 +236,7 @@
     {
      "t": "p",
      "c": [
-      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -278,29 +278,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual space, notes anything about the property or its accessibility that matters, and gives one flat number before anything moves."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at the family’s pace, with anything meaningful set aside first, always."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "A Space That's Clean and Ready, Whenever the Family's Next There",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable — useful whether the next family visit is next weekend or next season."
+         "Whatever was worked on that visit is left and usable — useful whether the next family visit is next weekend or next season."
         ]
        ]
       }
@@ -338,9 +320,6 @@
        "Seasonal and dock-access scheduling planned at the walkthrough"
       ],
       [
-       "Same flat pricing as anywhere inland"
-      ],
-      [
        "Cottage and seasonal-property coordination"
       ],
       [
@@ -372,7 +351,7 @@
        "Multi-visit scheduling for homes with years of accumulation"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
        "No requirement to explain how long the situation existed"
@@ -393,12 +372,6 @@
      "items": [
       [
        "Hoarding cleanouts on rural properties away from the shoreline"
-      ],
-      [
-       "Same flat pricing regardless of distance from the lake"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ],
       [
        "Coordination with executors or family members settling an estate"
@@ -1036,7 +1009,7 @@
        "q": "How much does a hoarding cleanout cost in Georgina?",
        "a": [
         [
-         "Pricing is based on how many rooms are affected and how much sorting the belongings need — never on the property’s location. The figure is confirmed free at a private walkthrough."
+         "{{fact:cleanupScope}}. The figure is confirmed free at a private walkthrough."
         ]
        ]
       },
@@ -1052,7 +1025,7 @@
        "q": "Can you time the cleanout around when a cottage or waterfront property is actually accessible?",
        "a": [
         [
-         "Yes — tell the crew your property’s seasonal rhythm at the walkthrough and the visit gets planned around it, at the same flat price as anywhere else."
+         "{{fact:changedScope}}."
         ]
        ]
       },

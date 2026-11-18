@@ -316,7 +316,7 @@
     {
      "t": "p",
      "c": [
-      "Every warehouse cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every warehouse cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -485,7 +485,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than warehouse cleanout services across Schomberg. Our commercial junk removal handles Highway 27 business units, fabrication workshops and contractor yards, equipment dealers, equestrian facilities and riding schools, Main Street shops, offices, cafés and the agricultural outbuildings throughout King Township, with same-day attendance wherever access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from village homes and rural acreage alike. Our demolition services cover pallet racking and mezzanine removal, interior strip-outs, tenant improvement removal, partitions and built-in fixtures, along with sheds, drive sheds, barns, run-in shelters, garages, decks, fences, gazebos, above-ground pools and hot tubs. Where a property requires complete clearing, we provide same-day office cleanout, retail cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than warehouse cleanout services across Schomberg. Our commercial junk removal handles Highway 27 business units, fabrication workshops and contractor yards, equipment dealers, equestrian facilities and riding schools, Main Street shops, offices, cafés and the agricultural outbuildings throughout King Township, with same-day attendance wherever access allows, subject to availability. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from village homes and rural acreage alike. {{fact:equipmentScope}}. Where a property requires complete clearing, we provide same-day office cleanout when available, retail cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -1078,7 +1078,7 @@
        "q": "What does a warehouse cleanout in Schomberg actually cost?",
        "a": [
         [
-         "Depends on the racking, what is on the shop floor, and how many outbuildings are in scope. We come and look, give you a number in writing, and that is the number. It does not move because the job ran longer than we expected."
+         "{{fact:equipmentScope}}. We come and look, give you a number in writing, and that is the number. It does not move because the job ran longer than we expected."
         ]
        ]
       },
@@ -1102,7 +1102,7 @@
        "q": "We're clearing a workshop with two barns and a yard behind it. Is that one warehouse cleanout?",
        "a": [
         [
-         "Yes, quoted as one figure. On rural properties here the barns, drive sheds and yard routinely hold far more than the shop — parts, tooling, scrap steel, machinery nobody has run in years. That is exactly why we walk every building before quoting."
+         "Yes, quoted as one figure. {{fact:equipmentScope}}. That is exactly why we walk every building before quoting."
         ]
        ]
       },
@@ -1110,7 +1110,7 @@
        "q": "Can you clear a tack room, feed store or equipment barn as a warehouse cleanout?",
        "a": [
         [
-         "Yes, and it comes up regularly given the horse belt through King Township. Bagged feed and bedding, tack and stable fittings, fencing, implements and scrap all get cleared the same way, at the same flat pricing as any other industrial job."
+         "Yes, and it comes up regularly given the horse belt through King Township. {{fact:changedScope}}."
         ]
        ]
       }

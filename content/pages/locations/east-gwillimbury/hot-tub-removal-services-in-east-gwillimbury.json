@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Hot Tub Removal Services in East Gwillimbury - Live JunkFree",
-  "description": "Hot Tub Removal Services in East Gwillimbury from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub.",
+  "description": "{{fact:utilityDisconnection}}",
   "canonical": "https://livejunkfree.ca/locations/east-gwillimbury/hot-tub-removal-services-in-east-gwillimbury/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/08/Hot-Tub-Removal-Services-in-East-Gwillimbury.jpeg"
@@ -22,11 +22,6 @@
      "t": "h",
      "l": 1,
      "text": "Hot Tub Removal Services in East Gwillimbury from Live Junk Free"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Hot Tub Removal Services in East Gwillimbury from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub, quoted flat on site with no hamlet premium."
     },
     {
      "t": "ctas",
@@ -80,7 +75,7 @@
     {
      "t": "p",
      "c": [
-      "Hot tub removal in East Gwillimbury typically runs from a modest fee for a small portable spa up to a higher flat price for a full six-or-seven-seat unit, confirmed for free at an on-site walkthrough. The price is exactly the same whether the property is a century hamlet home or a subdivision built five years ago — East Gwillimbury’s two very different halves get one identical formula."
+      "{{fact:changedScope}}. The price is exactly the same whether the property is a century hamlet home or a subdivision built five years ago — East Gwillimbury’s two very different halves get one identical formula."
      ]
     },
     {
@@ -120,19 +115,10 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat price, identical in every hamlet and corridor street",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number reflects the tub, never the neighbourhood. A removal costs the same whether it’s a century hamlet or a subdivision built five years ago."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Removal for tubs that barely had time to age",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -141,7 +127,7 @@
        "title": "Free on-site quotes across the whole municipality",
        "text": [
         [
-         "A crew member walks the property — hamlet home or newer build — and gives one flat price before anything starts."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -151,15 +137,6 @@
        "text": [
         [
          "Hamlet homes get the patience an older property deserves — nothing rushed near original decking or landscaping."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Draining and disconnection handled the safe way",
-       "text": [
-        [
-         "Water drains responsibly first, and any electrical hookup is confirmed dead before the crew touches it — a hardwired 240V line needs prior disconnection by a licensed electrician."
         ]
        ]
       },
@@ -193,15 +170,8 @@
      "text": "HOT TUB REMOVAL PRICING"
     },
     {
-     "t": "p",
-     "c": [
-      "Every quote is one flat number covering four things: draining the tub, disconnecting any electrical, cutting the shell into sections, and hauling it away for disposal or recycling."
-     ]
-    },
-    {
      "t": "checks",
      "items": [
-      "Drain + Disconnect + Cut-Out + Haul-Away",
       "No Rooftop Surcharges"
      ]
     },
@@ -250,7 +220,7 @@
     {
      "t": "p",
      "c": [
-      "A hot tub removal appointment follows four steps: booking, a free on-site quote, the drain-and-cut-out process, and same-day haul-away when available."
+      "{{fact:utilityDisconnection}}"
      ]
     }
    ]
@@ -265,34 +235,7 @@
        "title": "Book Your Hot Tub Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the tub, confirms any electrical is safely disconnected, checks the path out, and gives you one flat price before touching anything."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "The Tub Gets Drained, Cut and Removed",
-       "text": [
-        [
-         "Water drains responsibly, the shell gets cut into sections that clear your gate or fence line, and every piece carries out without dragging across your lawn or deck."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Your Yard Is Clear",
-       "text": [
-        [
-         "Metal components, motors and pumps are routed to recycling and the rest is disposed of responsibly."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       }
@@ -325,14 +268,6 @@
      "t": "h",
      "l": 3,
      "text": "Hamlet Hot Tub Removal in East Gwillimbury"
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "For Holland Landing, Sharon, Mount Albert and Queensville: patient removal of tubs sitting unused for years, same flat pricing as the corridor."
-      ]
-     ]
     },
     {
      "t": "h",
@@ -765,7 +700,7 @@
        "q": "What happens to the hot tub after it's removed?",
        "a": [
         [
-         "Metal frame components and the motor or pump go to recyclers; the shell, foam and cabinet are disposed of responsibly."
+         "{{fact:utilityDisconnection}}"
         ]
        ]
       },
@@ -781,7 +716,7 @@
        "q": "Is it safe to remove a hot tub that's still wired to electrical?",
        "a": [
         [
-         "Only once the power is confirmed off. A hardwired 240V connection needs prior disconnection by a licensed electrician."
+         "Only once the power is confirmed off. {{fact:utilityDisconnection}}"
         ]
        ]
       },

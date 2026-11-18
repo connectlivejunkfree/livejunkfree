@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Stop paying monthly rent on things you'll never use — cleared in one visit."
+     "text": "Stop paying monthly rent on things you'll never use — cleared."
     },
     {
      "t": "ctas",
@@ -63,13 +63,13 @@
     {
      "t": "p",
      "c": [
-      "A storage unit is supposed to be temporary. Then the months become years, the contents blur into “stuff we’ll deal with eventually,” and the rent keeps drafting from your account — hundreds, often thousands of dollars a year to warehouse belongings nobody has looked at since the door rolled down. Add the facility’s rules to the equation — restricted access hours, no use of their dumpsters, a written vacate notice with a hard date — and emptying the unit becomes the chore everyone postpones."
+      "A storage unit is supposed to be temporary. Add the facility’s rules to the equation — restricted access hours, no use of their dumpsters, a written vacate notice with a hard date — and emptying the unit becomes the chore everyone postpones."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Our storage unit cleanout crews end the standoff in a single appointment. We meet you at the facility, roll up the door, and clear the unit to bare walls — furniture, boxes, appliances, bins, and everything wedged between. Anything you’re keeping is set aside or loaded for delivery; the rest is sorted for donation, recycling, or disposal and leaves on our truck, because facilities don’t allow their bins to be used anyway. Renters cutting a monthly bill, buyers of auctioned units, and families closing out a loved one’s locker all start the same way across the Greater Toronto Area: with one free, firm quote."
+      "Our storage unit cleanout crews end the standoff in a single appointment. We meet you at the facility, roll up the door, and clear the unit to bare walls — furniture, boxes, appliances, bins, and everything wedged between. {{fact:retainedItems}} Renters cutting a monthly bill, buyers of auctioned units, and families closing out a loved one’s locker all start the same way across the Greater Toronto Area: with one free, firm quote."
      ]
     },
     {
@@ -108,13 +108,13 @@
     {
      "t": "p",
      "c": [
-      "The clearance itself is fast because we come prepared for facility conditions: dollies and carts for the long corridor runs, straps for furniture stacked six feet deep, and a truck positioned as close to your unit as the site allows. We clear indoor lockers, drive-up units, and climate-controlled spaces of any size — from a 5×5 packed like a puzzle to a 10×30 holding the contents of an entire house. Usable furniture and goods are earmarked for GTA charities, metals and electronics for recycling, and we broom-sweep the empty unit so it passes the facility’s move-out inspection without a deduction."
+      "The clearance itself is fast because we come prepared for facility conditions: dollies and carts for the long corridor runs, straps for furniture stacked six feet deep, and a truck positioned as close to your unit as the site allows. We clear indoor lockers, drive-up units, and climate-controlled spaces of any size — from a 5×5 packed like a puzzle to a 10×30 holding the contents of an entire house. {{fact:cleanupScope}}."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Pricing is based on the volume we haul, quoted firmly from your photos or a quick look inside — never inflated once the door is open."
+      "{{fact:changedScope}}."
      ]
     },
     {
@@ -161,7 +161,7 @@
     {
      "t": "p",
      "c": [
-      "Live Junk Free has cleared units in every circumstance the storage world produces: renters finally cancelling a years-old unit, downsizers merging two households, executors emptying a deceased relative’s locker, landlords dealing with a tenant’s overflow, businesses closing document and inventory storage, and auction buyers who won a unit and want the leftovers gone after pulling the valuables. Each situation gets the same treatment — a right-sized crew, a properly sized truck, and one continuous clear-out."
+      "{{fact:retainedItems}} Each situation gets the same treatment — a right-sized crew, a properly sized truck, and one continuous clear-out."
      ]
     },
     {
@@ -181,9 +181,6 @@
      "items": [
       [
        "Wall-to-wall clear-out – Every box, bin, furniture piece, and forgotten corner emptied completely"
-      ],
-      [
-       "Keep, donate, recycle, dispose – Four-stream sorting on site, and the unit"
       ]
      ]
     },
@@ -195,6 +192,142 @@
         "Unit Cleanouts Scheduled Around Your Move-Out Date"
        ]
       }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Why GTA Renters Choose Our Storage Cleanout Crews"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Priced at Your Free Onsite Estimate",
+       "text": [
+        "{{fact:competitorComparison}}"
+       ]
+      },
+      {
+       "title": "Facility-Rule Fluent",
+       "text": [
+        "Gate codes, access hours, sign-ins, and no-dumpster policies handled without a hiccup"
+       ]
+      },
+      {
+       "title": "Attend or Stay Home",
+       "text": [
+        "On-site with you, or with access arranged through your facility manager"
+       ]
+      },
+      {
+       "title": "Donation & Recycling",
+       "text": [
+        "Usable goods to GTA charities, metals and e-waste to recyclers — standard on every unit"
+       ]
+      },
+      {
+       "title": "Scheduled around your move dates",
+       "text": [
+        "To bare concrete so the facility signs off and your billing actually stops"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How Our Storage Space Clear-Out Works from Gate to Empty Locker"
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Dense Contents, Systematic Emptying"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "We confirm the facility, unit number, and access details, then review your photos or meet you at the door to flag anything being kept. The crew unpacks the unit in layers — front stack to back wall — staging items in the corridor or at the truck in sorted streams so nothing is handled twice and neighbouring units stay accessible."
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Where Your Unit’s Contents Go Instead of the Landfill"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Years of stored belongings deserve a better exit than a dumpster:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Charity First: Furniture, housewares, clothing, and books in good condition are donated to GTA community organizations"
+      ],
+      [
+       "Recycling: Electronics, appliances, metals, and cardboard — storage units are full of all four — go to proper recycling streams"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "{{fact:retainedItems}}"
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        ""
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "The last bill your storage unit will ever generate:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Photo-Based Quotes – A few shots from the doorway are usually enough for a firm written figure"
+      ]
      ]
     }
    ]
@@ -248,7 +381,7 @@
        ]
       },
       {
-       "title": "Lock In a Flat Quote",
+       "title": "Lock In a",
        "text": [
         "Receive one written, volume-based price — compare it to your next rent payment and the decision makes itself."
        ]
@@ -262,7 +395,7 @@
       {
        "title": "Hand Back an Empty Unit",
        "text": [
-        "The crew clears, sorts, hauls, and sweeps — you return the lock, close the account, and stop the payments for good."
+        "{{fact:cleanupScope}}."
        ]
       }
      ]

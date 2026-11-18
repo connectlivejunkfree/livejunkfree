@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Basement Cleanout Services in Caledon | Live Junk Free",
-  "description": "Live Junk Free provides basement cleanout services in Caledon to carry it all out, sort what can be reused or recycled, haul it away and sweep the space.",
+  "description": "Live Junk Free provides basement cleanout services in Caledon to carry it all out, sort what can be reused or recycled where possible, haul it away.",
   "canonical": "https://livejunkfree.ca/locations/caledon/basement-cleanout-services-in-caledon/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/basement-cleanout-services.jpeg"
@@ -113,7 +113,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Basement cleanouts can become especially demanding when bulky items have to travel through stairs, narrow doorways and tight corners. Instead of turning the project into a series of weekend trips, a professional crew can handle the removal in one organized visit."
+     "text": "Basement cleanouts can become especially demanding when bulky items have to travel through stairs, narrow doorways and tight corners. Instead of turning the project into a series of weekend trips, a professional crew can handle the removal in one organized visit, subject to scheduling."
     }
    ]
   },
@@ -175,7 +175,7 @@
       },
       {
        "n": "06",
-       "title": "Give Us the Sorting and Hauling, Not Just the Junk",
+       "title": "Give Us the Hauling, Not Just the Junk",
        "text": [
         [
          "Where appropriate, usable furniture, sporting goods, tools, books and housewares can be separated for donation. Metals, electronics, wood, cardboard and old appliances can also be sorted for suitable recycling whenever possible."
@@ -322,7 +322,7 @@
     {
      "t": "p",
      "c": [
-      "Every basement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every basement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -386,7 +386,7 @@
        "title": "We Clean Out Basement Junk",
        "text": [
         [
-         "We carry the unwanted contents out, load them for removal, separate appropriate materials and sweep the cleared floor before finishing the visit."
+         "{{fact:cleanupScope}}."
         ]
        ]
       }
@@ -491,7 +491,7 @@
     {
      "t": "p",
      "c": [
-      "When a basement needs to be cleared quickly, Live Junk Free offers same-day basement cleanouts when availability allows. Beyond basement cleaning and junk removal, the company also provides house cleanouts, apartment cleanouts, garage cleanouts, estate cleanouts, eviction cleanouts, hoarding cleanouts, storage unit cleanouts and office cleanouts. Demolition services are also available for decks, fences, garages, sheds and hot tubs."
+      "When a basement needs to be cleared quickly, Live Junk Free offers same-day basement cleanouts when available when availability allows. Beyond basement cleaning and junk removal, the company also provides house cleanouts, apartment cleanouts, garage cleanouts, estate cleanouts, eviction cleanouts, hoarding cleanouts, storage unit cleanouts and office cleanouts. Demolition services are also available for decks, fences, garages, sheds and hot tubs."
      ]
     },
     {

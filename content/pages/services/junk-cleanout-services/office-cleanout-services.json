@@ -6,7 +6,7 @@
  "template": "Cleanout",
  "seo": {
   "title": "Office Cleanout Services - Live JunkFree",
-  "description": "Clear your workspace quickly with office cleanout services from Live Junk Free in the Greater Toronto Area. Get same-day junk removal when you call now.",
+  "description": "Clear your workspace quickly with office cleanout services from Live Junk Free in the Greater Toronto Area. Get same-day junk removal when available when you call now.",
   "canonical": "https://livejunkfree.ca/services/junk-cleanout-services/office-cleanout-services/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/office-cleanout-services.jpg"
@@ -69,7 +69,7 @@
     {
      "t": "p",
      "c": [
-      "That’s the job our office cleanout crews are built for. We dismantle workstations, break down cubicle systems, haul furniture and equipment, and separate what can be donated, resold, or recycled from what can’t. Business owners, office managers, facility teams, and commercial landlords across the Greater Toronto Area use us because we quote firmly upfront, work around business hours, and hand back a space that’s ready for the next tenant, the renovation crew, or the landlord’s walkthrough."
+      "That’s the job our office cleanout crews are built for. We dismantle workstations, break down cubicle systems, haul furniture and equipment, and separate what can be donated, resold, or recycled where possible from what can’t."
      ]
     },
     {
@@ -102,7 +102,7 @@
     {
      "t": "p",
      "c": [
-      "Commercial leases don’t negotiate. Miss the handover date and you’re paying holdover rent, forfeiting deposits, or delaying the next tenant’s fit-out — costs that dwarf the price of professional help. When a business calls us with two weeks, one week, or even 48 hours before keys are due, we build the plan around that date: crew size, truck count, elevator bookings, and, when needed, overnight or weekend shifts so your team’s final workdays aren’t spent stepping around a demolition zone."
+      "Commercial leases don’t negotiate. Miss the handover date and you’re paying holdover rent, forfeiting deposits, or delaying the next tenant’s fit-out — costs that dwarf the price of professional help. {{fact:scheduling}}"
      ]
     },
     {
@@ -155,7 +155,7 @@
     {
      "t": "p",
      "c": [
-      "There’s a reason office clearances defeat DIY attempts: commercial furniture is engineered to be assembled once and never moved. Cubicle systems are bolted, wired, and interlocked. L-shaped desks won’t clear standard doorways in one piece. Loaded lateral filing cabinets can exceed a few hundred pounds each. Getting all of it down a freight elevator and into trucks takes tools, technique, and a crew that has done it hundreds of times."
+      "There’s a reason office clearances defeat DIY attempts: commercial furniture is engineered to be assembled once and never moved. Cubicle systems are bolted, wired, and interlocked. L-shaped desks won’t clear standard doorways in one piece. Loaded lateral filing cabinets can exceed a few hundred pounds each."
      ]
     },
     {
@@ -183,7 +183,7 @@
        "Systematic teardown – Cubicles, workstations, and modular furniture dismantled and removed to the bare floor"
       ],
       [
-       "Responsible redistribution – Usable furniture donated or rehomed, e-waste and metals recycled, and the suite left broom-swept for handover"
+       "Responsible redistribution – Usable furniture donated or rehomed, e-waste and metals recycled where possible, and the suite left for handover"
       ]
      ]
     },
@@ -204,6 +204,44 @@
     {
      "t": "h",
      "l": 2,
+     "text": "Why GTA Businesses Trust Our Commercial Cleanout Crews"
+    },
+    {
+     "t": "cards",
+     "items": [
+      {
+       "title": "Fixed Commercial Quotes",
+       "text": [
+        "Volume-based pricing in writing — easy to approve, expense, and reconcile"
+       ]
+      },
+      {
+       "title": "Building- Operations",
+       "text": [
+        "{{fact:licensedInsured}}"
+       ]
+      },
+      {
+       "title": "Cubicle & Workstation Teardown",
+       "text": [
+        "Crews equipped to dismantle bolted, wired, and modular systems safely"
+       ]
+      },
+      {
+       "title": "Donation & E-Waste Recycling",
+       "text": [
+        "Furniture rehomed locally and electronics processed through recyclers"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
      "text": "Our Commercial Office Clearance Process from Walkthrough to Handover"
     },
     {
@@ -211,7 +249,7 @@
      "c": [
       {
        "b": [
-        "Planned Like a Project, Executed in One Visit"
+        "Planned Like a Project, Executed"
        ]
       }
      ]
@@ -223,7 +261,7 @@
        "Every clearance starts with a site walkthrough or a photo/video survey, from which we produce a scope: what’s leaving, what stays for the landlord, what needs dismantling, and what the building requires for access. On the day, crews work zone by zone — open floor first, then private offices, meeting rooms, storage, and kitchenette — staging items at the freight elevator for continuous truck loading."
       ],
       [
-       "The job closes with a swept floor plate and a joint walkthrough (or timestamped photos for remote decision-makers), giving you documented proof the suite met its surrender condition."
+       "The job closes with a floor plate and a joint walkthrough (or timestamped photos for remote decision-makers), giving you documented proof the suite met its surrender condition."
       ]
      ]
     },
@@ -247,7 +285,7 @@
      "t": "ul",
      "items": [
       [
-       "Furniture Rehoming: Desks, chairs, and boardroom pieces in usable condition are donated to charities, schools, and community organizations"
+       "Furniture Rehoming: Desks, chairs, and boardroom pieces in usable condition are donated where possible"
       ],
       [
        "{{fact:recycling}}"
@@ -294,10 +332,7 @@
        "Free Site Assessments – Walkthrough, photo, or video-based estimates with a firm written figure"
       ],
       [
-       "One Line-Item Price – Labour, dismantling, hauling, recycling, and sweep-up bundled for painless PO and invoice approval"
-      ],
-      [
-       "Volume & Portfolio Rates – Better pricing for full floors, multi-suite clearances, and recurring facility contracts"
+       "{{fact:changedScope}}."
       ]
      ]
     }
@@ -366,7 +401,7 @@
       {
        "title": "Hand Over an Empty Suite",
        "text": [
-        "Our crew dismantles, hauls, sorts for donation and recycling, sweeps the space, and documents the finished condition."
+        "{{fact:cleanupScope}}."
        ]
       }
      ]
@@ -379,7 +414,7 @@
     {
      "t": "p",
      "c": [
-      "From cubicle farms and packed file rooms to bare, broom-swept floor plates — see how GTA businesses handed back their spaces on time and in surrender condition."
+      "From cubicle farms and packed file rooms to bare floor plates — see how GTA businesses handed back their spaces on time and in surrender condition."
      ]
     },
     {
@@ -411,7 +446,7 @@
        "q": "1) Can you clear our office outside business hours?",
        "a": [
         [
-         "{{fact:scheduling}} Many clients have their team work normally on Friday and return Monday to an empty, swept suite. We coordinate security access, alarm procedures, and building quiet-hour rules directly with property management.."
+         "{{fact:scheduling}} Many clients have their team work normally on Friday and return Monday to an empty suite. We coordinate security access, alarm procedures, and building quiet-hour rules directly with property management.."
         ]
        ]
       },
@@ -443,7 +478,7 @@
        "q": "5) How is an office cleanout priced?",
        "a": [
         [
-         "By volume — the truck space your items occupy — not by the hour. After a walkthrough or photo survey you receive one written, figure covering labour, dismantling, hauling, recycling, and sweep-up. Full-floor, multi-suite, and recurring facility work qualifies for reduced rates."
+         "By volume — the truck space your items occupy — not by the hour. After a walkthrough or photo survey you receive one written, figure covering labour, dismantling, hauling, recycling. {{fact:changedScope}}."
         ]
        ]
       }

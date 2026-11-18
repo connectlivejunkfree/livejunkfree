@@ -153,7 +153,7 @@
       },
       {
        "n": "03",
-       "title": "Multi-Room & Multi-Building Cleanouts",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Some commercial properties have office areas separated from storage, workshops or other working spaces. Instead of arranging several removal companies, you can discuss the entire project with one crew and include multiple areas in the same cleanout."
@@ -183,7 +183,7 @@
        "title": "Flexible Cleanouts for Local Businesses",
        "text": [
         [
-         "Whether you need one office cleared or an entire commercial property cleaned out, we can tailor the project to your requirements. Same-day and scheduled cleanout options are available depending on project size and availability."
+         "Whether you need one office cleared or an entire commercial property cleaned out, we can tailor the project to your requirements. Same-day and scheduled cleanout options may be available depending on project size and availability."
         ]
        ]
       }
@@ -289,7 +289,7 @@
     {
      "t": "p",
      "c": [
-      "A small professional office with several desks will naturally cost less than a multi-room commercial property filled with workstations, cabinets, shelving and electronics."
+      "{{fact:changedScope}}."
      ]
     },
     {
@@ -339,8 +339,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -360,7 +359,7 @@
     {
      "t": "p",
      "c": [
-      "Every office cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every office cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -610,7 +609,7 @@
      "t": "ul",
      "items": [
       [
-       "Some East Gwillimbury businesses operate across larger properties where office contents may be located in more than one building. We can discuss clearing office areas along with associated storage spaces, workshops or outbuildings so the entire project can be planned together."
+       "We can discuss clearing office areas along with associated storage spaces, workshops or outbuildings so the entire project can be planned together."
       ]
      ]
     }

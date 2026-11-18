@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "Scarborough’s larger formats run conventionally alongside it. Scarborough Town Centre units operate under centre management rules with insurance on file and booked loading. Big-box and anchor stores through the Golden Mile, Kennedy Commons and Malvern carry full-height racking and deep back-of-house. The Golden Mile itself is under redevelopment, which is putting whole runs of older retail onto a coordinated pre-demolition timeline. We confirm the format, the storage in scope and the access at the walkthrough before quoting."
+      "Scarborough’s larger formats run conventionally alongside it. Scarborough Town Centre units operate under centre management rules with insurance on file and booked loading. {{fact:equipmentScope}}. The Golden Mile itself is under redevelopment, which is putting whole runs of older retail onto a coordinated pre-demolition timeline. We confirm the format, the storage in scope and the access at the walkthrough before quoting."
      ]
     },
     {
@@ -153,7 +153,7 @@
        "title": "Mall, big-box and anchor unit retail strip-out services",
        "text": [
         [
-         "Scarborough Town Centre units and large-format stores through Kennedy Commons, the Golden Mile and Malvern. Full-height pallet racking, mezzanine shelving and back-of-house storage systems dismantled, with dock access used where available."
+         "Scarborough Town Centre units and large-format stores through Kennedy Commons, the Golden Mile and Malvern. {{fact:equipmentScope}}."
         ]
        ]
       },
@@ -304,7 +304,7 @@
     {
      "t": "p",
      "c": [
-      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -346,29 +346,20 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Free walkthrough and one flat retail cleanout price",
-       "text": [
-        [
-         "Our crew assesses the sales floor, back room, mezzanine, kitchen, cold storage and any additional bays in scope. We provide one flat price before any work begins and hold that figure through to completion."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Retail cleanout scheduled to your street's access rules",
        "text": [
         [
-         "We protect flooring, shared corridors and service lifts first, then dismantle and remove racking, shelving, display units, counters, coolers, refrigerated cases, kitchen equipment, signage, remaining stock, office furniture, electronics and appliances. We photograph the unit throughout."
+         "{{fact:equipmentScope}}. We photograph the unit throughout."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Fixtures removed, unit swept",
+       "title": "Fixtures removed, unit",
        "text": [
         [
-         "The space is left broom-swept and empty."
+         "The space is left and empty."
         ]
        ]
       }
@@ -473,7 +464,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than retail cleanout services across Scarborough. Our commercial junk removal handles plaza and mall units, big-box and anchor stores, restaurants, grocers and banquet halls, offices along Eglinton East and Kennedy, medical and professional suites, warehouses and light-industrial space through the Progress, Tapscott and Golden Mile employment lands, with same-day attendance wherever access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and yard waste from apartment towers, semis and detached homes in every neighbourhood. Our demolition services cover interior strip-outs, tenant improvement removal, kitchen and cold room builds, warehouse racking, partitions, dropped ceilings and built-in fixtures, along with sheds, garages, decks, fences, gazebos, above-ground pools and hot tubs on residential lots. Where a property requires complete clearing, we provide same-day office cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than retail cleanout services across Scarborough. Our commercial junk removal handles plaza and mall units, big-box and anchor stores, restaurants, grocers and banquet halls, offices along Eglinton East and Kennedy, medical and professional suites, warehouses and light-industrial space through the Progress, Tapscott and Golden Mile employment lands, with same-day attendance wherever access allows, subject to availability. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and yard waste from apartment towers, semis and detached homes in every neighbourhood. {{fact:equipmentScope}}. Where a property requires complete clearing, we provide same-day office cleanout when available, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -541,7 +532,7 @@
      "t": "ul",
      "items": [
       [
-       "We handle retail strip-outs for units at Scarborough Town Centre, Kennedy Commons, the Golden Mile, and Malvern. {{fact:insuranceDocs}}. We also clear Golden Mile redevelopment units ahead of demolition and provide documentation for each unit across multi-unit sites. Corridors, service lifts, and common areas are protected throughout the cleanout."
+       "We handle retail strip-outs for units at Scarborough Town Centre, Kennedy Commons, the Golden Mile, and Malvern. {{fact:insuranceDocs}}. {{fact:changedScope}}. Corridors, service lifts, and common areas are protected throughout the cleanout."
       ]
      ]
     },
@@ -554,7 +545,7 @@
      "t": "ul",
      "items": [
       [
-       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, and signage are removed after a tenant vacates, with multiple plaza bays handled under one quote and consolidated invoice. We photograph the condition on arrival and completion and prepare documentation where a deposit or restoration claim is in dispute. Same-day retail cleanout services in Scarborough are available where access permits."
+       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, and signage are removed after a tenant vacates, with multiple plaza bays handled under one quote and consolidated invoice. We photograph the condition on arrival and completion and prepare documentation where a deposit or restoration claim is in dispute. Same-day retail cleanout services when available in Scarborough are available where access permits."
       ]
      ]
     }

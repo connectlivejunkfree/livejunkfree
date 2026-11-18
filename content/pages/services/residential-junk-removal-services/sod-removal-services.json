@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/07/sod-removal-services-after.png"
  },
  "title": "Sod Removal Services",
- "h1": "Most Reliable Residential Sod Removal in Your Area",
+ "h1": "Residential Sod Removal in Your Area",
  "published": "2026-08-04T05:58:18",
  "modified": "2026-08-04T05:58:18",
  "sections": [
@@ -21,12 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Most Reliable Residential Sod Removal in Your Area"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "The most reliable residential sod removal service."
+     "text": "Residential Sod Removal in Your Area"
     },
     {
      "t": "ctas",
@@ -144,7 +139,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Lawn Sod Removal Available Now"
+     "text": "Same-Day Lawn Sod Removal may be available Now"
     },
     {
      "t": "p",
@@ -186,7 +181,7 @@
      "c": [
       {
        "b": [
-        "Need Sod Removed Urgently? Same-Day Service Available"
+        "Need Sod Removed Urgently? Same-Day Service may be available"
        ]
       }
      ]
@@ -224,7 +219,7 @@
       {
        "title": "Book",
        "text": [
-        "Get on our schedule instantly through our website or by phone – no waiting for callbacks or filling out lengthy forms."
+        "Get on our schedule through our website or by phone – no waiting for callbacks or filling out lengthy forms."
        ]
       },
       {
@@ -314,13 +309,7 @@
      "t": "ul",
      "items": [
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Free estimates by phone/text/email"
-      ],
-      [
-       "Special discounts for large-yard sod removal"
       ]
      ]
     }
@@ -399,13 +388,7 @@
       {
        "title": "Snap & Send",
        "text": [
-        "Text or upload photos of your lawn area, and we'll respond immediately with a solution."
-       ]
-      },
-      {
-       "title": "Get a Fair Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
+        "{{fact:pickupTimes}}"
        ]
       },
       {
