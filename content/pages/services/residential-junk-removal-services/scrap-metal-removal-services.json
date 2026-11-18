@@ -103,7 +103,7 @@
     {
      "t": "p",
      "c": [
-      "For rusty metal, broken equipment, or large quantities of scrap, our professional scrap metal removal service ensures thorough cleanup. No heavy lifting, no mess, just seamless metal scrap removal from start to finish."
+      "{{fact:cleanupScope}}. No heavy lifting, no mess, just seamless metal scrap removal from start to finish."
      ]
     },
     {
@@ -183,9 +183,6 @@
      "items": [
       [
        "Professional collection and removal of all scrap metal types (ferrous & non-ferrous)"
-      ],
-      [
-       "Thorough cleanup with all debris hauled away"
       ],
       [
        "Environmentally responsible recycling through recycling facilities"

@@ -388,18 +388,18 @@
      "t": "faq",
      "items": [
       {
-       "q": "Do you provide full cleanout services for retail stores?",
+       "q": "Do you clear out retail stores?",
        "a": [
         [
-         "Yes, we offer complete retail cleanout services including fixture removal, inventory clearance, and final cleaning."
+         "Yes. We remove fixtures, shelving, displays and unwanted stock that you've agreed to clear. Cleaning isn't included unless it's agreed in your quote."
         ]
        ]
       },
       {
-       "q": "What types of retail fixtures do you remove?",
+       "q": "What retail fixtures can you remove?",
        "a": [
         [
-         "We remove all store fixtures, clothing racks, display cases, shelving units, cash wraps, mannequins, and signage."
+         "Clothing racks, display cases, shelving units, counters, mannequins and signage. Fixtures that are fixed to the building may need an assessment first."
         ]
        ]
       },
@@ -407,15 +407,15 @@
        "q": "How much does a retail cleanout cost?",
        "a": [
         [
-         "Prices vary based on space size and items removed. We provide free, no-obligation quotes."
+         "{{fact:quoteText}} {{fact:taxNote}}."
         ]
        ]
       },
       {
-       "q": "What areas do you serve?",
+       "q": "Which areas do you serve?",
        "a": [
         [
-         "We serve the entire Richmond Hill, Pickering, Bolton, Woodbridge, Bradford, Port Perry, and surrounding regions."
+         "Toronto and the GTA. See the list of areas on this page, or call us to check your address."
         ]
        ]
       },
@@ -423,7 +423,7 @@
        "q": "Can I get same-day service?",
        "a": [
         [
-         "Yes, we offer same-day when available and next-day retail cleanouts for urgent needs."
+         "{{fact:sameDay}}."
         ]
        ]
       }

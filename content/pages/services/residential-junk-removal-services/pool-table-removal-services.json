@@ -243,11 +243,6 @@
     {
      "t": "h",
      "l": 3,
-     "text": "– From disassembly to final cleanup, we leave your room ready for new possibilities"
-    },
-    {
-     "t": "h",
-     "l": 3,
      "text": "Year-Round Availability"
     }
    ]
@@ -519,7 +514,7 @@
        "q": "Do I need to prepare the area beforehand?",
        "a": [
         [
-         "No preparation is needed. We handle everything from disassembly to final cleanup of the space. "
+         "No preparation is needed. {{fact:cleanupScope}}. "
         ]
        ]
       }

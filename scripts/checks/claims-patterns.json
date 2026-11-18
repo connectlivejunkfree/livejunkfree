@@ -269,7 +269,8 @@
     "\\bphotograph(s|ed|ing)?\\b",
     "\\bloaded for delivery\\b",
     "\\bdeliver(y|ed|ies)\\b",
-    "\\bbiohazard"
+    "\\bbiohazard",
+    "\\b(final|thorough|full|complete|professional) clean(ing|-up|up)\\b"
    ],
    "allow": [
     {

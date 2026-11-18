@@ -423,7 +423,7 @@
        "q": "What services are included in a business cleanout?",
        "a": [
         [
-         "Typical services include furniture removal, equipment hauling, inventory clearance, thorough cleaning, and responsible disposal/recycling."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },

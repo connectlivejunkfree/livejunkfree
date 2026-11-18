@@ -1132,7 +1132,7 @@
        "q": "1. What does an eviction cleanout in Port Perry include?",
        "a": [
         [
-         "An eviction cleanout involves removing unwanted furniture, appliances, household belongings, boxes, trash, and other non-hazardous items left behind by a former tenant. Our crew handles the lifting, loading, hauling, and final cleanup."
+         "An eviction cleanout involves removing unwanted furniture, appliances, household belongings, boxes, trash, and other non-hazardous items left behind by a former tenant. {{fact:cleanupScope}}."
         ]
        ]
       },

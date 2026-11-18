@@ -113,7 +113,12 @@ export const FAQS = {
     items: [
       { q: "What is a business cleanout?", a: "A business cleanout is a professional service that clears out unwanted items, furniture, and equipment from offices, warehouses, or retail spaces when relocating, renovating, or closing." },
       { q: "What services are included in a business cleanout?", a: `Typical work includes removing office furniture, equipment and unwanted stock. Cleaning isn't included unless it's agreed in your quote. ${fact("recycling")}.` },
-      { q: "What does a cleanout business offer to clients?", a: "A cleanout business provides stress-free commercial space clearing with labour, hauling and disposal, with donation or recycling where practical." },
+      // QA 18 Nov OBS-99: practical questions on access, retained items, disassembly and quoting
+      { q: "Who arranges building access?", a: `${fact("accessCoordination")}` },
+      { q: "What if some furniture, equipment or stock is staying?", a: "Mark or set aside everything that stays before we start, and walk us through it at the onsite estimate. We remove only the agreed items." },
+      { q: "Do you take furniture apart?", a: "Where it's needed to get items out, yes. Tell us about modular or wired workstations when you call, and we'll confirm what's involved at the estimate." },
+      { q: "How is a business cleanout quoted?", a: `${fact("quoteText")} ${fact("taxNote")}.` },
+      { q: "Do you also clear warehouses and retail units?", a: "Yes. See warehouse cleanouts and retail cleanouts for those jobs." },
     ],
   },
   deck: {

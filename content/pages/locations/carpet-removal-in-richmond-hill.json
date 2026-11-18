@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Carpet Removal in Richmond Hill for Homes and Businesses | Live Junk Free",
-  "description": "Fast carpet removal in Richmond Hill with same-day junk pickup when available, flooring disposal, and full cleanup services. Contact us and book now.",
+  "description": "{{fact:cleanupScope}}. Contact us and book now.",
   "canonical": "https://livejunkfree.ca/locations/carpet-removal-in-richmond-hill/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"

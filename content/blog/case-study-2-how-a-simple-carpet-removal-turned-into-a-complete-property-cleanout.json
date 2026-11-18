@@ -117,7 +117,7 @@
     {
      "t": "p",
      "c": [
-      "We knew that every interaction mattered. From the first phone call to the final cleanup, the homeowner was evaluating not just the quality of our work but also the professionalism of our entire company."
+      "We knew that every interaction mattered. {{fact:cleanupScope}}."
      ]
     }
    ]
@@ -320,9 +320,6 @@
       ],
       [
        "Efficient and organized workmanship."
-      ],
-      [
-       "Thorough cleanup after every stage of the project."
       ],
       [
        "Honest pricing with no unexpected charges."

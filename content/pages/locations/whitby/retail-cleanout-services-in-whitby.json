@@ -536,7 +536,7 @@
      "t": "ul",
      "items": [
       [
-       "We handle mixed commercial cleanouts covering restaurants, food service units, offices, warehouses, stockrooms, and other business premises. Kitchen equipment, seating, office furniture, appliances, electronics, and IT equipment are removed as part of the cleanout, with electronics directed toward appropriate recycling. Warehouse and stockroom contents are handled at volume, while exterior signage, patio furniture, and yard storage are included when they fall within the agreed scope. One booking covers mixed-use premises from the initial clearance through final cleanup."
+       "We handle mixed commercial cleanouts covering restaurants, food service units, offices, warehouses, stockrooms, and other business premises. Kitchen equipment, seating, office furniture, appliances, electronics, and IT equipment are removed as part of the cleanout, with electronics directed toward appropriate recycling. Warehouse and stockroom contents are handled at volume, while exterior signage, patio furniture, and yard storage are included when they fall within the agreed scope. {{fact:cleanupScope}}."
       ]
      ]
     }

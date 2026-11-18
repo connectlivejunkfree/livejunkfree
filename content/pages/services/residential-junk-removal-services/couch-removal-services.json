@@ -131,9 +131,6 @@
        "We remove couches from any location, including tight basements & high-rise apartments"
       ],
       [
-       "Full cleanup included — we leave your space neat and clutter-free"
-      ],
-      [
        "Easy Booking by Phone or Online"
       ]
      ]
@@ -418,7 +415,7 @@
       {
        "title": "We Arrive, We Remove, We Clean Up",
        "text": [
-        "Our crew shows up on time, handles every inch of the job — disassembly if needed, careful extraction, full cleanup — and hauls your couch away for responsible disposal."
+        "{{fact:cleanupScope}}."
        ]
       }
      ]

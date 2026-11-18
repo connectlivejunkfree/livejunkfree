@@ -233,7 +233,7 @@ const RULES = [
   {
     // Cleaning, disinfection, biohazard work as an LJF service (B6.2, B6.7).
     id: "cleaning-claims", ref: "Answers B6.2, B6.7",
-    find: /\b(we|our (team|crew)s?|live junk free)( also| will)? (handle|provide|offer|do|perform|include|complete)s?\b[^.]{0,30}(deep[- ]clean|cleaning|disinfect|sanitiz|sanitis)|deep clean with|cleaning\/disinfection|house cleaning for hoarders|biohazard (protocols?|remediation|clean-?up|cleaning|removal|handling)|(mitigate|handle|remove|clean up) (any )?biohazards|trained to (identify|handle|manage)[^.]{0,20}biohazard|(sanitizing|disinfecting) tools|biohazard (management|containment|certification)|deep cleaning and sanitization|(professional-grade|commercial) sanitization|addressing any biohazard|cleanout includes deep cleaning|handle[^.]{0,40}biohazards/i,
+    find: /\b(final|thorough|full|complete|professional) clean(ing|-up|up)\b(?![^.]{0,40}\b(only if|unless|isn['’]t included|not included))|\b(we|our (team|crew)s?|live junk free)( also| will)? (handle|provide|offer|do|perform|include|complete)s?\b[^.]{0,30}(deep[- ]clean|cleaning|disinfect|sanitiz|sanitis)|deep clean with|cleaning\/disinfection|house cleaning for hoarders|biohazard (protocols?|remediation|clean-?up|cleaning|removal|handling)|(mitigate|handle|remove|clean up) (any )?biohazards|trained to (identify|handle|manage)[^.]{0,20}biohazard|(sanitizing|disinfecting) tools|biohazard (management|containment|certification)|deep cleaning and sanitization|(professional-grade|commercial) sanitization|addressing any biohazard|cleanout includes deep cleaning|handle[^.]{0,40}biohazards/i,
     replaceWith: "{{fact:cleanupScope}}.",
     short: "",
     drop: true,

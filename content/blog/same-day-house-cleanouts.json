@@ -44,7 +44,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day house cleanouts are professional services that complete the entire process of clearing a property within a single day, subject to scheduling. From initial contact to final cleanup, everything happens on your timeline. This expedited service maintains the same thorough approach as standard cleanouts but delivers results when you need them most."
+      "Same-day house cleanouts are professional services that complete the entire process of clearing a property within a single day, subject to scheduling. {{fact:cleanupScope}}. This expedited service maintains the same thorough approach as standard cleanouts but delivers results when you need them most."
      ]
     },
     {
@@ -222,7 +222,7 @@
       {
        "br": 1
       },
-      "The service concludes with a thorough cleaning of the space. This attention to detail separates professional services from basic hauling companies."
+      "{{fact:cleanupScope}}. This attention to detail separates professional services from basic hauling companies."
      ]
     }
    ]
@@ -289,7 +289,7 @@
       {
        "br": 1
       },
-      "We handle everything from start to finish, including heavy lifting, and final cleanup. Our crews are trained to work efficiently while respecting your property and neighbors."
+      "{{fact:cleanupScope}}. Our crews are trained to work efficiently while respecting your property and neighbors."
      ]
     }
    ]

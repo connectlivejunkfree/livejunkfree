@@ -205,12 +205,6 @@
        "text": [
         "Interior projects unaffected by outdoor weather conditions"
        ]
-      },
-      {
-       "title": "Complete Site Prep",
-       "text": [
-        "Includes adhesive removal, leveling, and final cleaning"
-       ]
       }
      ]
     }
@@ -467,7 +461,7 @@
        "q": "Do I need to prepare the area before demolition?",
        "a": [
         [
-         "No preparation is needed – our crew handles everything from furniture moving to final cleanup. {{fact:retainedItems}}"
+         "{{fact:cleanupScope}}."
         ]
        ]
       }

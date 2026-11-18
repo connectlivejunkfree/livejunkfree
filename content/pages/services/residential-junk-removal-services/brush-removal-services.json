@@ -110,7 +110,7 @@
     {
      "t": "p",
      "c": [
-      "For invasive shrubs, fallen branches, or snow removal brush in car areas, our professional same-day brush removal service ensures thorough cleanup, subject to scheduling. No heavy lifting, no mess, just seamless removal from start to finish."
+      "{{fact:cleanupScope}}. No heavy lifting, no mess, just seamless removal from start to finish."
      ]
     },
     {
@@ -190,9 +190,6 @@
      "items": [
       [
        "Professional cutting and safe removal of all brush types"
-      ],
-      [
-       "Thorough cleanup and hauling of all debris"
       ],
       [
        "Environmentally responsible disposal through approved facilities"

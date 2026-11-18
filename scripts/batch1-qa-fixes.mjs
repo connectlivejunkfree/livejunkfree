@@ -232,6 +232,13 @@ const PAGES = [
     ["OBS-40", dropItem(/"title":"Multi-Site & Landlord Programs"/)],
   ]],
   ["B1-37", `${S}/commercial-junk-removal-services/retail-cleanout-services`, [["OBS-106", rep("Need immediate service? ", "Need it cleared soon? ")]]],
+  ["B1-37 FAQ", `${S}/commercial-junk-removal-services/retail-cleanout-services`, [
+    ["OBS-105 / OBS-107", faq(/full cleanout services for retail stores/i, "Do you clear out retail stores?", "Yes. We remove fixtures, shelving, displays and unwanted stock that you've agreed to clear. Cleaning isn't included unless it's agreed in your quote.")],
+    ["OBS-105 / OBS-107", faq(/What types of retail fixtures do you remove/i, "What retail fixtures can you remove?", "Clothing racks, display cases, shelving units, counters, mannequins and signage. Fixtures that are fixed to the building may need an assessment first.")],
+    ["OBS-105 / OBS-107", faq(/How much does a retail cleanout cost/i, null, "{{fact:quoteText}} {{fact:taxNote}}.")],
+    ["OBS-107", faq(/^What areas do you serve\??\s*$/i, "Which areas do you serve?", "Toronto and the GTA. See the list of areas on this page, or call us to check your address.")],
+    ["OBS-106", faq(/Can I get same-day service/i, null, "{{fact:sameDay}}.")],
+  ]],
   ["B1-38", `${S}/commercial-junk-removal-services/computer-removal-services`, [
     ["OBS-109", dropItem(/"title":"Multi-Device Pickups"/)],
     ["OBS-111", (doc) => {
