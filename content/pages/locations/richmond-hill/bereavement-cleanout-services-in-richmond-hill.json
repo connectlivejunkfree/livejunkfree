@@ -9,7 +9,7 @@
   "description": "Compassionate Bereavement Cleanout Services in Richmond Hill for handling unwanted belongings and property cleanup with care and efficiency.",
   "canonical": "https://livejunkfree.ca/locations/richmond-hill/bereavement-cleanout-services-in-richmond-hill/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Bereavement-Cleanout-Services-in-Pickering.jpeg"
+  "ogImage": "/images/uploads/2026/07/Monitor-Removal-Services-1.jpeg"
  },
  "title": "Bereavement Cleanout Services in Richmond Hill",
  "h1": "Bereavement Cleanout Services in Richmond Hill from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Bereavement-Cleanout-Services-in-Richmond-Hill-rs4fm5k0arhtq89oqbw3wckgahvzc5zu4cutodeqw8.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Bereavement-Cleanout-Services-in-Brampton-rs64pvey52qrud1zx65719a6ofr8saq37y9ozzv5ig.jpeg",
       "alt": "Bereavement Cleanout Services in Richmond Hill"
      }
     }
@@ -122,15 +122,6 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "Building logistics handled quietly for every condo bereavement cleanout",
-       "text": [
-        [
-         "{{fact:insuranceDocs}}."
-        ]
-       ]
-      },
-      {
        "n": "02",
        "title": "No charge for the time a bereavement cleanout takes to approve",
        "text": [
@@ -144,7 +135,7 @@
        "title": "Real patience for Mill Pond and heritage bereavement cleanouts",
        "text": [
         [
-         "Original trim and features that stay get protected throughout, while the sorting inside moves at whatever pace the family actually needs."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -231,7 +222,7 @@
     {
      "t": "p",
      "c": [
-      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -295,7 +286,7 @@
        "title": "A Space That's Clean and Ready",
        "text": [
         [
-         "We complete a final walkthrough, sweep the area, and leave the space ready for whatever comes next."
+         "We complete a final walkthrough, and leave the space ready for whatever comes next."
         ]
        ]
       }
@@ -364,13 +355,7 @@
        "Family-initiated cleanouts handled with real patience"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
-       "Donation-first checks before any belongings are recycled"
-      ],
-      [
-       "Same flat pricing as any other property type"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     }
@@ -421,13 +406,10 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
-       "Same flat pricing regardless of the season"
-      ],
-      [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Recurring visit scheduling available on request"

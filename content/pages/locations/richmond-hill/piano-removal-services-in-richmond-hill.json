@@ -9,7 +9,7 @@
   "description": "Need piano removal in Richmond Hill? Live Junk Free offers safe, reliable, and hassle-free piano removal for homes and businesses.",
   "canonical": "https://livejunkfree.ca/locations/richmond-hill/piano-removal-services-in-richmond-hill/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/piano-removal-services-in-Woodbridge.jpg"
+  "ogImage": "/images/uploads/2026/08/Piano-Removal-in-Oshawa.jpg"
  },
  "title": "Piano Removal Services in Richmond Hill",
  "h1": "Piano Removal Services in Richmond Hill from Live Junk Free",
@@ -122,19 +122,10 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat price — stairs, elevators and access never bill extra",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The piano’s size and the route out of the building set the number, whether that route runs through a stairwell or a freight elevator — never treated as two different price tiers."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Condo and tower-compliant piano removal, planned in advance",
-       "text": [
-        [
-         "{{fact:insuranceDocs}}."
         ]
        ]
       },
@@ -271,7 +262,7 @@
        "title": "A Free Walkthrough, Route Measured Properly",
        "text": [
         [
-         "Someone comes out, looks at the piano, and walks the actual exit path — stairwell, elevator, hallway — before naming one flat price."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -358,13 +349,10 @@
        "Careful, unhurried handling around established properties"
       ],
       [
-       "Donation-first checks before any piano is recycled"
+       "Donation-first checks before any piano is recycled where possible"
       ],
       [
-       "Same-day service for straightforward downtown access"
-      ],
-      [
-       "Same flat pricing as any other property type"
+       "Service for straightforward downtown access"
       ]
      ]
     }
@@ -418,13 +406,10 @@
        "Coordination around new piano delivery dates"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Full protection of finished floors throughout"
-      ],
-      [
-       "Donation-first sorting before any recycling"
       ]
      ]
     }
@@ -852,7 +837,7 @@
        "q": "Do you charge extra for stairs or elevators?",
        "a": [
         [
-         "No. Both are factored into one flat quote at the walkthrough, not billed as a surprise once the crew’s already there."
+         "No. {{fact:changedScope}}."
         ]
        ]
       },

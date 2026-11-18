@@ -6,10 +6,10 @@
  "template": "LocationService",
  "seo": {
   "title": "Demolition Services in Whitby - Live JunkFree",
-  "description": "Demolition services in Whitby from Live Junk Free — sheds, decks, hot tubs, pools and interior tear-outs, with every piece of debris hauled away. Flat quotes on the spot.",
+  "description": "Demolition services in Whitby from Live Junk Free — sheds, decks, hot tubs, pools and interior tear-outs, with every piece of debris hauled away. Flat quotes at the onsite estimate.",
   "canonical": "https://livejunkfree.ca/locations/demolition-services-in-whitby/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/07/cleanout-services-in-bolton.jpeg"
+  "ogImage": "/images/uploads/2026/07/Cleanout-Services-in-Oshawa.jpeg"
  },
  "title": "Demolition Services in Whitby",
  "h1": "Demolition Services in Whitby from Live Junk Free",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Whitby’s backyards fill up with structures faster than most families expect — a pool that’s had its last summer, a shed nobody’s opened in years, a swing set the kids outgrew a decade ago. Live Junk Free tears all of it down and hauls it away in one visit. Across the family subdivisions of Pringle Creek, Rolling Acres, Williamsburg and Blue Grass Meadows, it’s playset demolition, trampoline removal and above ground pool demolition ahead of a backyard redo. Around the Four Corners and Brooklin’s older streets, it’s a garage or a deck that’s finally past its structural life, torn down and cleared with the same care as anything else on an established property. And out on the Ashburn and Myrtle concessions, it’s fence demolition, shed teardowns and concrete removal on larger rural lots. The Google reviews behind Live Junk Free come from every one of those yards — a demolition crew that tore it down safely, kept kids and pets clear of the work zone, and left the space swept the same day, subject to scheduling."
+      "Whitby’s backyards fill up with structures faster than most families expect — a pool that’s had its last summer, a shed nobody’s opened in years, a swing set the kids outgrew a decade ago. Live Junk Free tears all of it down and hauls it away. Across the family subdivisions of Pringle Creek, Rolling Acres, Williamsburg and Blue Grass Meadows, it’s playset demolition, trampoline removal and above ground pool demolition ahead of a backyard redo. {{fact:structuralDemolition}}. And out on the Ashburn and Myrtle concessions, it’s fence demolition, shed teardowns and concrete removal on larger rural lots. The Google reviews behind Live Junk Free come from every one of those yards — a demolition crew that tore it down safely, kept kids and pets clear of the work zone, and left the space the same day, subject to scheduling."
      ]
     },
     {
@@ -112,19 +112,10 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat demolition price — tear-down and haul-away both included",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Whether it’s a shed, a deck or a full above ground pool, Live Junk Free’s quote covers the whole job: breaking the structure down, hauling every piece off the property, and disposing of or recycling it responsibly. One number, agreed on site, before anything comes apart."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "",
-       "text": [
-        [
-         "A crew member walks your Whitby property, looks at what’s coming down — size, material, how close it sits to fences, gardens or the house — and gives you a flat price before any work starts. No obligation if you’d rather not proceed."
         ]
        ]
       },
@@ -133,7 +124,7 @@
        "title": "Kid- and pet-safe demolition crews, every job",
        "text": [
         [
-         "Sheds, decks and playsets don’t usually come down in an empty yard — there’s a family living around the work. Live Junk Free keeps work zones contained, tools and debris out of reach, and the whole job paced with kids and pets in the picture, not as an afterthought."
+         "Sheds, decks and playsets don’t usually come down in an empty yard — there’s a family living around the work."
         ]
        ]
       },
@@ -173,11 +164,6 @@
     {
      "t": "eyebrow",
      "text": "DEMOLITION PRICING"
-    },
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Demolition Cost in Whitby — One Flat Price From Live Junk Free"
     },
     {
      "t": "h",
@@ -257,7 +243,7 @@
        "title": "1. Book Your Demolition Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available. Tell us what’s coming down (pool, shed, deck, fence, garage, playset) so the crew arrives with the right equipment."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available. Tell us what’s coming down (pool, shed, deck, fence, garage, playset) so the crew arrives with the right equipment."
         ]
        ]
       },
@@ -266,7 +252,7 @@
        "title": "2. Get a Free On-Site Demolition Quote",
        "text": [
         [
-         "The crew looks at the structure, checks what’s nearby — fences, gardens, the house itself — and gives you one flat price before touching anything. No pressure — decline and there’s no charge."
+         "{{fact:changedScope}}. No pressure — decline and there’s no charge."
         ]
        ]
       },
@@ -281,7 +267,7 @@
       },
       {
        "n": "04",
-       "title": "4. Your Yard Is Cleared and Swept the Same Day, subject to scheduling.",
+       "title": "4. Your Yard Is Cleared the Same Day, subject to scheduling.",
        "text": [
         [
          "Everything hauled off is sorted — metal to recyclers, wood and other materials disposed of responsibly."
@@ -320,9 +306,6 @@
       ],
       [
        "Hot Tub Demolition — shell cut apart and removed, drained and disconnected first"
-      ],
-      [
-       "Jacuzzi Demolition — same careful drain-disconnect-cut process, any size"
       ],
       [
        "Surrounding decking and pad removal available alongside the pool or tub"
@@ -368,9 +351,6 @@
       ],
       [
        "Garage Demolition — detached garages and carports taken down and hauled"
-      ],
-      [
-       "Deck Demolition — wood and composite decks removed, footings addressed"
       ],
       [
        "Fence Demolition — full fence lines or single sections torn out and hauled"
@@ -673,7 +653,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {
@@ -992,7 +972,7 @@
        "q": "Do you handle pool demolition, or just removal?",
        "a": [
         [
-         "Both. Above ground pool demolition includes tearing down the frame, removing the liner, and clearing any surrounding decking, with everything hauled away and disposed of or recycled properly."
+         "Both. Above ground pool demolition includes tearing down the frame, removing the liner, and clearing any surrounding decking, with everything hauled away and disposed of or recycled where possible."
         ]
        ]
       },
@@ -1000,7 +980,7 @@
        "q": "Can you tear down a shed, garage or deck safely with kids or pets around?",
        "a": [
         [
-         "Yes — it’s how we run every job by default. Work zones stay contained, debris and tools stay out of reach, and the crew paces the demolition around a household that’s still living its normal day around the work."
+         "Yes — it’s how we run every job by default."
         ]
        ]
       },
@@ -1016,7 +996,7 @@
        "q": "Do you remove hot tubs and jacuzzis as part of demolition, or is that separate?",
        "a": [
         [
-         "Both are handled — hot tub and jacuzzi demolition involves draining, disconnecting and cutting the shell apart before hauling, using the same process as our dedicated hot tub removal service."
+         "{{fact:utilityDisconnection}}"
         ]
        ]
       },

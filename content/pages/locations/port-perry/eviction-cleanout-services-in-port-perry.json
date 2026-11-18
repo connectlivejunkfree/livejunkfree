@@ -87,7 +87,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/elementor/thumbs/eviction-cleanout-services-rr0twsm2u8xtgkjom4gto2kqxytsdwvxwo5bvurnp0.jpeg",
-      "alt": "eviction-cleanout-services"
+      "alt": "Eviction Cleanout in Port Perry: Live Junk Free job photo"
      }
     }
    ]
@@ -144,7 +144,7 @@
            "Contact us for a quote"
           ]
          },
-         ", with pricing based on the amount and complexity of the material being removed. Larger properties and multi-unit cleanouts can qualify for bulk or custom pricing."
+         ", with pricing based on the amount and complexity of the material being removed. {{fact:changedScope}}."
         ]
        ]
       },
@@ -154,24 +154,6 @@
        "text": [
         [
          "Unwanted belongings are not always limited to the main living areas. Our eviction cleanout services in Port Perry can clear rooms, garages, and basements, helping remove the contents left throughout the property in one coordinated service."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Responsible Eviction Junk Sorting & Disposal",
-       "text": [
-        [
-         "We sort items as part of the removal process and look for appropriate recycling or donation opportunities whenever possible. Furniture, metals, electronics, and usable goods may be diverted from landfill disposal when practical."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Final Sweep After Port Perry Eviction Cleanout",
-       "text": [
-        [
-         "After the unwanted belongings are removed, our crew completes a final sweep and tidy of the cleared areas. This gives landlords and property managers a cleaner space to inspect, repair, renovate, sell, or prepare for a new tenant."
         ]
        ]
       }
@@ -303,7 +285,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -367,7 +349,7 @@
        "title": "We Remove It All",
        "text": [
         [
-         "Our crew arrives ready to work, removes the unwanted belongings, handles the sorting and hauling, disposes of materials responsibly, and completes a final sweep of the cleared space."
+         "{{fact:cleanupScope}}."
         ]
        ]
       }
@@ -1150,7 +1132,7 @@
        "q": "1. What does an eviction cleanout in Port Perry include?",
        "a": [
         [
-         "An eviction cleanout involves removing unwanted furniture, appliances, household belongings, boxes, trash, and other non-hazardous items left behind by a former tenant. Our crew handles the lifting, loading, hauling, and final cleanup."
+         "An eviction cleanout involves removing unwanted furniture, appliances, household belongings, boxes, trash, and other non-hazardous items left behind by a former tenant. {{fact:cleanupScope}}."
         ]
        ]
       },

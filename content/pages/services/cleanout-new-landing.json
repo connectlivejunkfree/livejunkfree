@@ -253,7 +253,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Instant Service Quote"
+     "text": "Service Quote"
     },
     {
      "t": "h",
@@ -358,13 +358,13 @@
     {
      "t": "p",
      "c": [
-      "At Live Junk Free, we believe that no project is excessively large or too small and nothing is impossible, especially when it comes to making office and ",
+      "Careful Removal ",
       {
        "b": [
         "estate cleaning services"
        ]
       },
-      " stress-free for you. With us, you don’t need to schedule the slots way before you wish to avail of any services because our compassionate team is totally flexible in even showing up for same-day cleanout when available services as well. From clearing out all the unwanted items and sorting them for you to leaving your space tidy while hauling the clutter and disposing of them responsibly, we take care of everything from scratch. Not only do we lift everything heavy in your space, but we also take the burden off your shoulders."
+      " stress-free for you. With us, you don’t need to schedule the slots way before you wish to avail of any services because our compassionate team is totally flexible in even showing up for same-day cleanout services when available as well. {{fact:cleanupScope}}. Not only do we lift everything heavy in your space, but we also take the burden off your shoulders."
      ]
     }
    ]
@@ -439,7 +439,7 @@
       {
        "title": "3. Ecological & Responsible Disposal",
        "text": [
-        "After thorough cleaning, we haul the trash and dispose of it in an environmentally responsible manner by recycling and reusing it."
+        "{{fact:cleanupScope}}."
        ]
       }
      ]
@@ -451,25 +451,7 @@
    ]
   },
   {
-   "blocks": [
-    {
-     "t": "stats",
-     "items": [
-      {
-       "label": "Locations Covered",
-       "value": "30+"
-      },
-      {
-       "label": "Services",
-       "value": "60+"
-      },
-      {
-       "label": "Recurring Clients",
-       "value": "100+"
-      }
-     ]
-    }
-   ]
+   "blocks": []
   },
   {
    "blocks": [
@@ -574,7 +556,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Instant Service Quote"
+     "text": "Service Quote"
     },
     {
      "t": "h",
@@ -860,7 +842,7 @@
        "q": "How far in advance do I need to schedule a pickup?",
        "a": [
         [
-         "We strive to accommodate our customers’ schedules as much as possible. However, we understand that emergencies happen, so feel free to reach out to us, and we’ll do our best to accommodate your needs.",
+         "We strive to accommodate our customers’ schedules as much as possible. {{fact:scheduling}}",
          {
           "br": 1
          },

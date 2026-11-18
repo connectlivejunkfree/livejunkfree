@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/04/Appliances-Removal-Ajax-.jpg"
  },
  "title": "Furniture Removal",
- "h1": "Junk removal Toronto — same-day pickup when available",
+ "h1": "Junk removal Toronto — pickup when available",
  "published": "2026-07-11T04:37:31",
  "modified": "2026-07-18T05:07:03",
  "sections": [
@@ -27,7 +27,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Junk removal Toronto — same-day pickup when available"
+     "text": "Junk removal Toronto — pickup when available"
     },
     {
      "t": "p",
@@ -104,7 +104,7 @@
         "Live Junk Free"
        ]
       },
-      ", we handle the entire process — from pickup to responsible disposal — so you can focus on what actually matters. We serve homeowners, landlords, property managers, and businesses across the city, with same-day and next-day booking available in most neighbourhoods. Every quote is confirmed upfront before we lift a thing, and our disposal approach prioritizes recycling and donation over landfill wherever possible."
+      ", we handle the entire process — from pickup to responsible disposal — so you can focus on what actually matters. We serve homeowners, landlords, property managers, and businesses across the city, with same-day and next-day booking when available in most neighbourhoods. Every quote is confirmed upfront before we lift a thing, and our disposal approach prioritizes recycling and donation over landfill wherever possible."
      ]
     },
     {
@@ -132,44 +132,14 @@
      }
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Locally trusted, not just another service",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "We're not a national brand with a local phone number. Live Junk Free operates across Toronto's diverse neighbourhoods — from the condo towers of Midtown to the residential streets of York and the commercial strips of North York. That local presence means faster response times, better route planning, and a crew that actually knows what they're getting into before arriving."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Same-day service when you actually need it",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Sometimes the skip bin arrives tomorrow, or the estate agent booked a showing for next week, or the new furniture is already on its way. We built our scheduling around real Toronto timelines — same-day and next-day availability, most days of the week, including weekends. Call in the morning, cleared by afternoon."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Recycled, donated, or disposed of responsibly",
-       "text": []
-      }
-     ]
+     "text": "Sometimes the skip bin arrives tomorrow, or the estate agent booked a showing for next week, or the new furniture is already on its way. Call in the morning, cleared by afternoon."
     },
     {
      "t": "h",
@@ -177,29 +147,9 @@
      "text": "We don't treat every load the same. Usable furniture and appliances are directed to local Toronto donation partners before anything goes near a landfill. We actively track what leaves our truck and where it ends up."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Your quote is your final number",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Before we move a single item, you know exactly what it costs. Our pricing is based on truck volume — honest, transparent, and confirmed on-site."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "A crew that respects your property",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -207,19 +157,9 @@
      "text": "Heavy items through tight spaces can leave marks — on walls, floors, doorframes, elevator interiors. {{fact:propertyProtection}}. Licensed and insured, we treat every Toronto home and business with the same level of care we'd want for our own."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Residential or commercial — we do both",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Some jobs are a single couch in a Scarborough apartment. Others are full office decommissions or multi-unit landlord clearouts across Downtown Toronto. We handle both ends of the scale with the same crew, the same process, and the same commitment to getting it done right the first time."
+     "text": "Some jobs are a single couch in a Scarborough apartment. We handle both ends of the scale with the same crew, the same process, and the same commitment to getting it done right the first time."
     }
    ]
   },
@@ -295,13 +235,13 @@
       {
        "title": "Quick Arrival & Assessment",
        "text": [
-        "Don’t be surprised if we reach your place within no time with all the necessary pieces of equipment for cleaning. Upon arrival, we assess the junk and provide an upfront cost estimate of the cheapest junk removal Ajax."
+        "Don’t be surprised if we reach your place within no time with all the necessary pieces of equipment for cleaning. {{fact:changedScope}}."
        ]
       },
       {
        "title": "Efficient Removal & Cleanup",
        "text": [
-        "Our team efficiently removes unwanted items, whether they are old furniture, office pallets, or other debris. We don’t just stop at removal, we also ensure a thorough cleanup so that your space looks fresh and clutter-free."
+        "Our team efficiently removes unwanted items, whether they are old furniture, office pallets, or other debris. {{fact:cleanupScope}}."
        ]
       },
       {

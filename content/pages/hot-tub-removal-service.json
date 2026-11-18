@@ -26,7 +26,7 @@
     {
      "t": "p",
      "c": [
-      "Old, broken, or just unwanted. We disconnect, demolish, and haul it away. Same-day available"
+      "Old, broken, or just unwanted. {{fact:utilityDisconnection}} Same-day may be available"
      ]
     },
     {
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "Old hot tubs and spas are one of the heaviest and most awkward items to remove from a property. They are often built into decks, surrounded by fencing, or locked in backyards with no easy access. Live Junk Free removes hot tubs and spas of all sizes across the Greater Toronto Area — we handle the full job including disconnection, demolition where needed, hauling, and responsible disposal. You do not lift a finger."
+      "Old hot tubs and spas are one of the heaviest and most awkward items to remove from a property. They are often built into decks, surrounded by fencing, or locked in backyards with no easy access. {{fact:utilityDisconnection}} You do not lift a finger."
      ]
     },
     {
@@ -173,12 +173,6 @@
      "t": "h",
      "l": 2,
      "text": "Hot Tub Covers & Accessories"
-    },
-    {
-     "t": "p",
-     "c": [
-      "We also remove old hot tub covers, pumps, filters, steps, and other spa accessories safely and efficiently."
-     ]
     }
    ]
   },
@@ -192,7 +186,7 @@
     {
      "t": "p",
      "c": [
-      "We safely remove unwanted backyard hot tubs without causing damage to your patio, deck, or outdoor area."
+      "Careful Removal"
      ]
     }
    ]
@@ -224,7 +218,7 @@
        "Priced at your free onsite estimate"
       ],
       [
-       "Same-day service available across Toronto, Mississauga, Brampton, Vaughan, Markham and more"
+       "Same-day service may be available across Toronto, Mississauga, Brampton, Vaughan, Markham and more"
       ],
       [
        "Fully licensed and insured on every job"
@@ -290,7 +284,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We specialise in removing hot tubs, spas, and jacuzzis of all sizes across the Greater Toronto Area. From backyard portables to deck-built units, our trained crew handles the full job — disconnection, demolition, hauling, and cleanup. No stress, no mess."
+     "text": "We specialise in removing hot tubs, spas, and jacuzzis of all sizes across the Greater Toronto Area. No stress, no mess."
     },
     {
      "t": "cards",
@@ -360,7 +354,7 @@
       {
        "title": "Book",
        "text": [
-        "Call 647-922-5865 or fill out the form. Tell us the hot tub size and your address. Same-day slots available when you book before noon."
+        "Call 647-922-5865 or fill out the form. Tell us the hot tub size and your address. Same-day slots may be available when you book before noon."
        ]
       },
       {
@@ -372,7 +366,7 @@
       {
        "title": "Gone — All of It",
        "text": [
-        "We disconnect, demolish if needed, lift, and haul the entire hot tub away. We clean up the area before we leave."
+        "{{fact:utilityDisconnection}} We clean up the area before we leave."
        ]
       }
      ]
@@ -421,7 +415,7 @@
        "q": "How fast can you remove my hot tub?",
        "a": [
         [
-         "Same-day removal is available across most of the GTA when you book before 12pm. Call 647-922-5865 to check availability in your area."
+         "Same-day removal may be available across most of the GTA when you book before 12pm. Call 647-922-5865 to check availability in your area."
         ]
        ]
       },

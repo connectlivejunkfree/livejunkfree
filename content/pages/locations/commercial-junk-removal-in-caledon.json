@@ -9,7 +9,7 @@
   "description": "Professional commercial junk removal in Caledon for offices, retail stores, warehouses, and businesses. Fast, reliable, and eco-friendly cleanup services.",
   "canonical": "https://livejunkfree.ca/locations/commercial-junk-removal-in-caledon/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/07/Commercial-Junk-Removal-in-Ajax.jpeg"
+  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Ajax.jpeg"
  },
  "title": "Commercial Junk Removal in Caledon",
  "h1": "Commercial Junk Removal Services in Caledon, Ontario — We Drive the Concession Roads So You Don't Have To",
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Caledon business doesn't sit in one place — it's spread across 700 square kilometres of villages, sideroads and rural properties, from the shops of Caledon East to the inns of Alton to the new employment lands rising at Mayfield West. Out here, hauling your own junk means a borrowed trailer, a long drive to a transfer station, and a tipping fee at the end of it. Our commercial junk removal services in Caledon replace all that with one phone call: an insured junk hauling crew comes to your address — however far down the gravel it sits — writes a free flat-rate quote on arrival, loads everything themselves, and hauls it away the same day more often than not. No postal code penalty."
+     "text": "Caledon business doesn't sit in one place — it's spread across 700 square kilometres of villages, sideroads and rural properties, from the shops of Caledon East to the inns of Alton to the new employment lands rising at Mayfield West. Out here, hauling your own junk means a borrowed trailer, a long drive to a transfer station, and a tipping fee at the end of it. No postal code penalty."
     },
     {
      "t": "ctas",
@@ -86,7 +86,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Commercial-Junk-Removal-Services-in-Caledon-1-rrefrfnjtnfdxo1negzmkedxase9pilbzzm0yxr4p4.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Commercial-Junk-Removal-in-Georgina-rrefh4dau3b4jp0ymihzpi2unl8a92ncwxx8en1myw.jpeg",
       "alt": "Commercial Junk Removal Services in Caledon"
      }
     }
@@ -112,7 +112,7 @@
      "items": [
       {
        "n": "01",
-       "title": "One junk removal rate across all of Caledon — distance never bills",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "Whether your business sits on Highway 10 or eight kilometres down a gravel sideroad, the junk removal price is set by one thing only: truck space filled. A half truck in Belfountain costs what a half truck costs anywhere."
@@ -133,7 +133,7 @@
        "title": "Full-service junk hauling — including the long carry to the truck",
        "text": [
         [
-         "On Caledon properties the junk is rarely beside the driveway; it’s in the back barn, the lower shop, the shed behind the shed. Every carry — however long, muddy or awkward — is included in the flat rate, done entirely by our junk removal crew. Your boots stay clean and your staff stay working."
+         "On Caledon properties the junk is rarely beside the driveway; it’s in the back barn, the lower shop, the shed behind the shed. {{fact:changedScope}}. Your boots stay clean and your staff stay working."
         ]
        ]
       },
@@ -284,7 +284,7 @@
        "title": "Clean Property, Sorted Junk Disposal, Proof on Paper",
        "text": [
         [
-         "We finish with a sweep and, on request, documentation of where it all went. The sorting is real: usable furniture and equipment to donation partners, scrap metal and e-waste to licensed recyclers, landfill strictly for the remainder nothing else will take."
+         "{{fact:cleanupScope}}."
         ]
        ]
       }
@@ -391,13 +391,7 @@
        "Drywall, lumber, flooring and light demolition waste"
       ],
       [
-       "Retired tools, machinery components and site leftovers"
-      ],
-      [
        "Scheduled pickups that follow your project calendar"
-      ],
-      [
-       "Multi-truck capacity for the biggest clear-outs"
       ]
      ]
     },
@@ -701,7 +695,7 @@
        "q": "Do you charge extra for rural Caledon addresses?",
        "a": [
         [
-         "Never — that’s a founding rule of our pricing. Junk removal cost is set by truck volume alone, so a load in Terra Cotta or Belfountain prices identically to the same load beside Highway 10. Distance, gravel laneways and long carries are all absorbed into the flat rate."
+         "Never — that’s a founding rule of our pricing. Junk removal cost is set by truck volume alone, so a load in Terra Cotta or Belfountain prices identically to the same load beside Highway 10. {{fact:changedScope}}."
         ]
        ]
       },
@@ -717,7 +711,7 @@
        "q": "Can you clear a barn or drive shed that's been filling for decades?",
        "a": [
         [
-         "Happily — those are some of our favourite jobs. Old implements, seized equipment, lumber, wire and forty years of “might need it someday” all get sorted, carried and hauled by our crew at the same volume pricing. For the biggest outbuildings we’ll stage multiple trucks."
+         "Happily — those are some of our favourite jobs. {{fact:changedScope}}. For the biggest outbuildings we’ll stage multiple trucks."
         ]
        ]
       },
@@ -733,7 +727,7 @@
        "q": "How fast can you reach a Caledon business?",
        "a": [
         [
-         "Usually same-day or next-day. Caledon sits on our daily Peel-region routes, and morning calls frequently become afternoon junk pickups even at the far concessions. Call +1 647 922 5865 for real-time availability — we quote actual windows, not vague promises."
+         "Usually same-day or next-day, subject to availability. Caledon sits on our daily Peel-region routes, and morning calls frequently become afternoon junk pickups even at the far concessions. Call +1 647 922 5865 for real-time availability — we quote actual windows, not vague promises."
         ]
        ]
       },
@@ -749,7 +743,7 @@
        "q": "Can Caledon landlords set up recurring junk removal?",
        "a": [
         [
-         "Absolutely — portfolio owners across the villages and Mayfield West run on our repeat schedules. Weekly, monthly or per-turnover, always at the same volume rates, consolidated to one invoice with one contact who knows every property’s gate code."
+         "Absolutely — portfolio owners across the villages and Mayfield West run on our repeat schedules. {{fact:changedScope}}."
         ]
        ]
       },

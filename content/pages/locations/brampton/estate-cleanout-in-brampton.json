@@ -9,7 +9,7 @@
   "description": "Estate cleanout in Brampton from Live Junk Free often means more than one person has a stake in what happens — siblings, adult children.",
   "canonical": "https://livejunkfree.ca/locations/brampton/estate-cleanout-in-brampton/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Estate-Cleanout-in-Brampton.jpeg"
+  "ogImage": "/images/uploads/2026/08/Estate-Cleanout-in-Ajax.jpeg"
  },
  "title": "Estate Cleanout in Brampton",
  "h1": "Estate Cleanout in Brampton from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Estate-Cleanout-in-Brampton-rrqv4ln47w7tyz2q7o14w12v2izc4txvs4t0n5im3c.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Estate-Cleanout-in-Ajax-rrqo4ibdah4e7v959766o57fnbigr65gse404laouw.jpeg",
       "alt": "Estate Cleanout in Brampton"
      }
     }
@@ -127,10 +127,10 @@
       },
       {
        "n": "02",
-       "title": "One flat price, whatever the household size",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "The number reflects the property and the sorting it needs — never how many beneficiaries or family members are involved in the decision."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -199,8 +199,7 @@
     {
      "t": "checks",
      "items": [
-      "Estate Cleanout + Haul-Away in One Number",
-      "{{fact:competitorComparison}}"
+      "Estate Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -216,12 +215,6 @@
      "t": "price",
      "label": "Brampton Estate Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -268,29 +261,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual space and gives one flat number before anything moves, sized to the real job regardless of the property’s size."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room, Structure by Structure",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at the family’s pace, with a record kept and anything meaningful set aside first, always."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "A Property That's Clean and Ready",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable, with documentation available to any family member who wants it — no follow-up request required."
+         "Whatever was worked on that visit is left and usable, with documentation available to any family member who wants it — no follow-up request required."
         ]
        ]
       }
@@ -380,9 +355,6 @@
       ],
       [
        "Same crew and equipment ready regardless of neighbourhood"
-      ],
-      [
-       "Same flat pricing structure everywhere in Brampton"
       ],
       [
        "Same standard of transparency wherever the call comes from"
@@ -779,7 +751,7 @@
        "q": "How much does an estate cleanout cost in Brampton?",
        "a": [
         [
-         "Pricing is based on how many rooms are affected and how much sorting the belongings need — never on how many people are involved in the decision. The figure is confirmed free at a private walkthrough. "
+         "{{fact:cleanupScope}}. The figure is confirmed free at a private walkthrough. "
         ]
        ]
       },
@@ -795,7 +767,7 @@
        "q": "Does a larger family home cost more just because of its size?",
        "a": [
         [
-         "Never. The whole property gets scoped and quoted together, at the same flat pricing as a single-house job."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },
@@ -803,7 +775,7 @@
        "q": "Can you handle estate cleanouts across different Brampton neighbourhoods on short notice?",
        "a": [
         [
-         "With real patience. The crew works at a pace that respects what the home represents, not just what needs sorting."
+         "With real patience. {{fact:cleanupScope}}."
         ]
        ]
       },

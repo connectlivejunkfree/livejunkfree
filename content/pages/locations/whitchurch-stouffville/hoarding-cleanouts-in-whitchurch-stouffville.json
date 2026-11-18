@@ -160,7 +160,7 @@
        "title": "Free on-site quotes, with an honest cost to clean out a hoarder's house",
        "text": [
         [
-         "A crew member walks the property, sees the real scope, and gives one flat number before anything moves — no guessing from a phone description, and once the work is underway."
+         "{{fact:changedScope}}."
         ]
        ]
       }
@@ -187,7 +187,7 @@
     {
      "t": "p",
      "c": [
-      "Hoarder clean out cost depends on the volume of belongings, how many rooms or buildings are affected, and how much sorting and donation coordination is involved — a single room is a modest job, a full property with an attached barn or shed costs more given the time required. The figure is confirmed at a free, no-obligation walkthrough, whatever part of the township the property is in."
+      "Hoarder clean out cost depends on the volume of belongings, how many rooms or buildings are affected, and how much donation coordination is involved — a single room is a modest job, a full property with an attached barn or shed costs more given the time required. The figure is confirmed at a free, no-obligation walkthrough, whatever part of the township the property is in."
      ]
     },
     {
@@ -214,7 +214,7 @@
     {
      "t": "p",
      "c": [
-      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -256,15 +256,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Your Hoarding Cleanout Quote — A Respectful Walkthrough, One Flat Price",
-       "text": [
-        [
-         "A crew member visits the property, sees the actual scope, and provides one flat price — with unmarked arrival if that’s preferred, and no assumptions made about the household."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Hoarding Cleanout Runs Methodically, Room by Room",
        "text": [
@@ -275,10 +266,10 @@
       },
       {
        "n": "04",
-       "title": "Hoarding Cleanout Complete — the Property Left Clean and Livable",
+       "title": "Careful Removal",
        "text": [
         [
-         "Debris is hauled the same visit where possible, donations go to local partners, and the property is left swept and safe — with follow-up visits available if the job needs to happen in stages."
+         "Debris is hauled the same visit where possible, donations go to local partners, and the property is left and safe — with follow-up visits available if the job needs to happen in stages."
         ]
        ]
       }
@@ -316,9 +307,6 @@
        "Family-initiated cleanouts where a parent or relative has lived independently for years"
       ],
       [
-       "Contained work zones and quiet scheduling as standard"
-      ],
-      [
        "Coordination with family and, where involved, healthcare or support professionals"
       ],
       [
@@ -344,7 +332,7 @@
        "GO-corridor subdivision cleanouts handled quickly and privately when needed"
       ],
       [
-       "Kitchen, bathroom and bedroom cleared to a livable, safe standard"
+       "Careful Removal"
       ],
       [
        "Multi-visit scheduling for larger or more complex situations"
@@ -371,9 +359,6 @@
       ],
       [
        "Crews accustomed to working calmly around rural and farm properties"
-      ],
-      [
-       "Salvage and donation-first sorting maintained even in heavily accumulated spaces"
       ]
      ]
     },
@@ -999,7 +984,7 @@
        "q": "What's the cost to clean out a hoarder's house in Whitchurch-Stouffville?",
        "a": [
         [
-         "Hoarder clean out cost depends on the volume of belongings, the number of rooms or buildings affected, and how much sorting is involved — a single room prices modestly, a full property with a barn or shed costs more given the time required. The exact figure is confirmed free at a private walkthrough, with no obligation to proceed."
+         "{{fact:cleanupScope}}. The exact figure is confirmed free at a private walkthrough, with no obligation to proceed."
         ]
        ]
       },
@@ -1007,7 +992,7 @@
        "q": "What's the best way to clean out a hoarder's house?",
        "a": [
         [
-         "Professional help, a clear plan, and patience. Going in without a strategy usually causes more distress than progress. The most effective approach sorts systematically — keep, donate, recycle, dispose — respects the resident’s input wherever they’re able to give it, and moves at a pace the household can handle, sometimes across more than one visit. Safety concerns get identified and handled by the right specialists before the rest of the cleanout continues."
+         "Professional help, a clear plan, and patience. Going in without a strategy usually causes more distress than progress. {{fact:scheduling}} Safety concerns get identified and handled by the right specialists before the rest of the cleanout continues."
         ]
        ]
       },

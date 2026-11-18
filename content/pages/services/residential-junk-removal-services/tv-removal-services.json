@@ -24,11 +24,6 @@
      "text": "Your Trusted Local TV Removal Experts"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "We are the Top Choice for TV Removal"
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -69,7 +64,7 @@
     {
      "t": "p",
      "c": [
-      "The process is designed to be completely stress-free. We start with a free, no-obligation quote so you know exactly what to expect. Once you approve, our experienced team handles everything: safely disconnecting cables, carefully removing wall mounts if needed, lifting the TV out of your home, and ensuring proper disposal or recycling of the old set."
+      "The process is designed to be completely stress-free. We start with a free, no-obligation quote so you know exactly what to expect. {{fact:utilityDisconnection}}"
      ]
     },
     {
@@ -84,7 +79,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/2026/07/e-waste-removal-services-before-3.jpg",
+      "src": "/images/uploads/2026/07/e-waste-removal-services-before-2.jpg",
       "alt": "Professional and Local TV Removal Services",
       "width": 800,
       "height": 534
@@ -97,12 +92,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "TV Removal Made Easy – Instant Savings When You Book"
+     "text": "TV Removal Made Easy – Savings When You Book"
     },
     {
      "t": "p",
      "c": [
-      "Removing an old TV doesn’t have to be difficult. Our professional TV removal service starts at just {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), and we handle everything for you. We will safely unplug and disconnect your TV, carefully remove it from your wall or entertainment unit, and haul it away, leaving your space clean and ready for an upgrade."
+      "Removing an old TV doesn’t have to be difficult. Our professional TV removal service starts at just {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), and we handle everything for you. {{fact:utilityDisconnection}}"
      ]
     },
     {
@@ -162,7 +157,7 @@
     {
      "t": "p",
      "c": [
-      "We know TV removal often needs to happen quickly, whether you’re upgrading to a newer model, clearing space for home staging, or simply tired of that bulky old television taking up valuable room. That’s why we offer same-day and next-day removal services whenever possible, helping you reclaim your living space without unnecessary delays."
+      "We know TV removal often needs to happen quickly, whether you’re upgrading to a newer model, clearing space for home staging, or simply tired of that bulky old television taking up valuable room. That’s why we offer same-day and next-day removal services when available whenever possible, helping you reclaim your living space without unnecessary delays."
      ]
     },
     {
@@ -180,9 +175,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Safe disconnection of all cables and wall mounts by experienced technicians"
-      ],
       [
        "Professional removal of all TV types (CRT, LCD, LED, plasma, smart TVs)"
       ],
@@ -217,12 +209,6 @@
      "t": "cards",
      "items": [
       {
-       "title": "Honest, Upfront Pricing",
-       "text": [
-        "Your quoted price includes everything: removal, recycling fees, and full cleanup – later."
-       ]
-      },
-      {
        "title": "Professional-Grade Equipment",
        "text": [
         "We come prepared with panel protectors, anti-static wraps, and specialized tools to safely handle flat screens, and wall-mounted units."
@@ -237,19 +223,13 @@
       {
        "title": "Schedule That Works For You",
        "text": [
-        "Need it gone today? We offer same-day, next-day, and weekend appointments to match your availability."
+        "Need it gone today? We offer same-day, next-day, and weekend appointments to match your availability, subject to scheduling."
        ]
       },
       {
        "title": "Expert Efficiency",
        "text": [
         "Timing confirmed at your estimate"
-       ]
-      },
-      {
-       "title": "Multi-TV Discounts",
-       "text": [
-        "Special savings when removing multiple TVs or electronics together"
        ]
       }
      ]
@@ -275,7 +255,7 @@
        "We professionally remove TVs from any location – tight apartments, mounted wall positions, cluttered basements, and even commercial spaces. Our skilled team carefully takes down your television without scratching walls, damaging mounts, or harming your floors."
       ],
       [
-       "From massive projection screens to delicate flat panels, we handle them all with expert care. We manage all the heavy lifting, safe disconnection of cables and mounts, and environmentally responsible disposal – so you avoid any risk of injury or property damage. When we’re done, your space will be cleaner and more open than before we arrived."
+       "From massive projection screens to delicate flat panels, we handle them all with expert care. {{fact:utilityDisconnection}} When we’re done, your space will be cleaner and more open than before we arrived."
       ]
      ]
     },
@@ -294,10 +274,7 @@
      "t": "ul",
      "items": [
       [
-       "{{fact:recycling}}"
-      ],
-      [
-       "Batteries & circuit boards were safely removed and recycled"
+       "Batteries & circuit boards were safely removed and recycled where possible"
       ],
       [
        "Minimal landfill waste through careful dismantling"
@@ -398,18 +375,6 @@
      "t": "cards",
      "items": [
       {
-       "title": "Send Us Photos",
-       "text": [
-        "{{fact:freeOnsiteEstimates}}"
-       ]
-      },
-      {
-       "title": "Get Your Price",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
-      {
        "title": "Schedule Your Removal",
        "text": [
         "Choose same-day or next-day service when available that fits your schedule - we come directly to your home or office."
@@ -438,20 +403,20 @@
      "t": "gallery",
      "images": [
       {
-       "src": "/images/uploads/2026/07/tv-removal-services-before2-1024x765.jpeg",
-       "alt": "tv-removal-services before2"
+       "src": "/images/hoarding-cleanout.jpg",
+       "alt": "Tv Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/tv-removal-services-after2-1024x765.jpeg",
-       "alt": "tv-removal-services after2"
+       "alt": "Tv Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/tv-removal-services-before1-1024x765.jpeg",
-       "alt": "tv-removal-services before1"
+       "alt": "Tv Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/tv-removal-services-after1-1024x765.jpeg",
-       "alt": "tv-removal-services after1"
+       "alt": "Tv Removal: Live Junk Free job photo"
       }
      ]
     }
@@ -503,7 +468,7 @@
        "q": "5. Can you come today?",
        "a": [
         [
-         "Yes, we can come today and we will remove your TV the same day. Call early to book a quick pickup, and we’ll try our best to reach you as soon as possible."
+         "Yes, we can come today and we will remove your TV the same day, subject to availability. Call early to book a quick pickup, and we’ll try our best to reach you as soon as possible."
         ]
        ]
       },
@@ -519,7 +484,7 @@
        "q": "7. Can you take many TVs at once?",
        "a": [
         [
-         "Sure! Cleaning out a bunch? No problem. Tell us how many you’ve got, and we’ll haul them all in one trip."
+         "Sure! Cleaning out a bunch? No problem. {{fact:scheduling}}"
         ]
        ]
       },
@@ -527,7 +492,7 @@
        "q": "8. Where does my TV go after?",
        "a": [
         [
-         "Good TVs go to people who need them. Broken ones get recycled safely, so no harmful stuff in landfills. We make sure it’s done right."
+         "Good TVs go to people who need them. Broken ones get recycled where possible safely, so no harmful stuff in landfills. We make sure it’s done right."
         ]
        ]
       }

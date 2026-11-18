@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-18T14:33:23.901Z",
+ "generated": "2026-11-18T20:15:07.160Z",
  "dryRun": false,
  "filesScanned": 784,
- "filesChanged": 739,
+ "filesChanged": 779,
  "rules": {
   "demo-slots": {
    "ref": "R7, OBS-02, OBS-149, OBS-153",
@@ -36,7 +36,7 @@
   },
   "satisfaction-guarantee": {
    "ref": "G02, OBS-22, OBS-25, OBS-35, OBS-101, OBS-105",
-   "before": 30,
+   "before": 32,
    "after": 0,
    "changedStrings": 0
   },
@@ -84,7 +84,7 @@
   },
   "protection-procedure": {
    "ref": "Answers B3.3",
-   "before": 81,
+   "before": 169,
    "after": 0,
    "changedStrings": 0
   },
@@ -102,19 +102,19 @@
   },
   "cleaning-claims": {
    "ref": "Answers B6.2, B6.7",
-   "before": 20,
+   "before": 129,
    "after": 0,
    "changedStrings": 0
   },
   "timeline-guarantee": {
    "ref": "Answers B2.1, B3.2, OBS-05",
-   "before": 37,
+   "before": 36,
    "after": 0,
    "changedStrings": 0
   },
   "site-work": {
    "ref": "Answers B5.10, B5.11",
-   "before": 10,
+   "before": 9,
    "after": 0,
    "changedStrings": 0
   },
@@ -136,51 +136,135 @@
    "after": 0,
    "changedStrings": 0
   },
+  "qa-guarantees": {
+   "ref": "QA 18 Nov §2A guarantees; Answers B3.2",
+   "before": 265,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "qa-price": {
+   "ref": "QA 18 Nov §2A price; Answers A1.4, A1.7, B1.2, B1.4",
+   "before": 2411,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "qa-timing": {
+   "ref": "QA 18 Nov §2A timing; Answers B2.1–B2.3",
+   "before": 998,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "qa-weekend": {
+   "ref": "QA 18 Nov §2A timing; Manisha follow-up 18 Nov",
+   "before": 93,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "qa-sort-sweep": {
+   "ref": "QA 18 Nov §2A handling; Answers B6.1, B6.2",
+   "before": 1910,
+   "after": 55,
+   "changedStrings": 0
+  },
+  "qa-recycled": {
+   "ref": "QA 18 Nov §2A recycling; Answers B4.1–B4.4",
+   "before": 571,
+   "after": 7,
+   "changedStrings": 0
+  },
+  "qa-superlatives": {
+   "ref": "QA 18 Nov §2A superlatives; Answers B8.1, B8.2",
+   "before": 800,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "qa-permits": {
+   "ref": "QA 18 Nov §2A specialist; Answers B5.9",
+   "before": 71,
+   "after": 3,
+   "changedStrings": 0
+  },
+  "qa-structural": {
+   "ref": "QA 18 Nov §2A specialist; Answers B5.10, B5.12; Manisha 18 Nov",
+   "before": 251,
+   "after": 47,
+   "changedStrings": 0
+  },
+  "qa-equipment": {
+   "ref": "QA 18 Nov §2A specialist; Answers B5.10, B5.11, B5.16",
+   "before": 317,
+   "after": 3,
+   "changedStrings": 0
+  },
+  "qa-utilities": {
+   "ref": "QA 18 Nov §2A specialist; Answers B5.5–B5.7",
+   "before": 538,
+   "after": 12,
+   "changedStrings": 0
+  },
+  "qa-handling": {
+   "ref": "QA 18 Nov §2A handling; Answers B7.1, B4.2",
+   "before": 216,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "qa-retained": {
+   "ref": "QA 18 Nov §2A handling; Answers B6.1, B6.3",
+   "before": 34,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "qa-local": {
+   "ref": "QA 18 Nov §2A local; Answers B8.4, B8.5",
+   "before": 44,
+   "after": 0,
+   "changedStrings": 0
+  },
   "hours": {
    "ref": "Answers B2.3",
-   "before": 561,
+   "before": 433,
    "after": 0,
    "changedStrings": 0
   },
   "promotions": {
    "ref": "Answers B1.2",
-   "before": 109,
+   "before": 29,
    "after": 0,
    "changedStrings": 0
   },
   "after-hours": {
    "ref": "Answers B2.2",
-   "before": 5,
+   "before": 4,
    "after": 0,
    "changedStrings": 0
   },
   "instant-quote": {
    "ref": "Answers B1.3",
-   "before": 131,
+   "before": 30,
    "after": 0,
    "changedStrings": 0
   },
   "canada": {
    "ref": "Answers B8.4",
-   "before": 493,
-   "after": 8,
+   "before": 491,
+   "after": 6,
    "changedStrings": 0
   },
   "same-day": {
-   "ref": "R2, G02, OBS-13, OBS-26, OBS-45, OBS-53, OBS-131, OBS-135, OBS-138",
-   "before": 2622,
-   "after": 23,
+   "ref": "R2, G02, OBS-13, OBS-26, OBS-45, OBS-53, OBS-131, OBS-135, OBS-138, QA 18 Nov",
+   "before": 2413,
+   "after": 26,
    "changedStrings": 0
   },
   "review-counts": {
    "ref": "OBS-64, OBS-133, Part 2 B-8 #1",
-   "before": 1652,
+   "before": 1053,
    "after": 0,
    "changedStrings": 0
   },
   "superlatives": {
    "ref": "OBS-136, OBS-142, OBS-60",
-   "before": 20,
+   "before": 15,
    "after": 0,
    "changedStrings": 0
   },
@@ -191,7 +275,7 @@
    "changedStrings": 0
   },
   "exact": {
-   "before": 307,
+   "before": 4065,
    "after": 0,
    "changedStrings": 0
   },
@@ -202,7 +286,7 @@
   },
   "price-scope": {
    "ref": "Answers A1.3, A1.5, A1.6",
-   "before": 868,
+   "before": 794,
    "after": 0,
    "changedStrings": 0
   },
@@ -212,5 +296,5 @@
    "changedStrings": 0
   }
  },
- "note": "before = the committed content at HEAD (the copy imported from WordPress, before Batch 1). after = the current working tree, after the 18 Nov 2026 answers and Manisha's follow-up. The remaining after-counts are permitted uses: same-day sentences already qualified, \"certificates\" in the data-security disclaimer (B5.1), and \"Canada\" in legal / privacy text. The rendered-page scan of all 787 pages plus llms.txt / llms-full.txt finds none of the banned wording."
+ "note": "before = the original WordPress import (git 0ee66ca); after = the current content (QA 18 Nov round). Remaining after-counts are permitted uses (qualified same-day, the data-security disclaimer, legal text). The checks in scripts/checks/ (claims-lint, page-lint, qa-acceptance) are the acceptance test: 0 failures on the 50 Batch 1 pages."
 }

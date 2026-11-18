@@ -35,7 +35,7 @@
         "apartment cleanout services"
        ]
       },
-      " can feel overwhelming, but understanding the process beforehand transforms anxiety into confidence. At Live Junk Free, we’ve refined our apartment cleanouts service into a seamless, stress-free experience that respects your time, property, and peace of mind. This transparent guide walks you through exactly what happens from initial contact to final cleanup, ensuring you feel prepared and comfortable every step of the way during your apartment cleanout project.",
+      " can feel overwhelming, but understanding the process beforehand transforms anxiety into confidence. At Live Junk Free, we’ve refined our apartment cleanouts service into a seamless, stress-free experience that respects your time, property, and peace of mind. {{fact:cleanupScope}}.",
       {
        "br": 1
       }
@@ -73,7 +73,7 @@
         }
        ]
       },
-      " depends on several factors, including the size of the apartment, the volume of items to be removed, and the complexity of the cleanout. Typically, pricing is based on how much space your items take up in the truck, making it a flexible and fair approach for different needs. Additional factors such as heavy furniture, tight access spaces, or same-day service requests may also impact the final cost."
+      " depends on several factors, including the size of the apartment, the volume of items to be removed, and the complexity of the cleanout. Typically, pricing is based on how much space your items take up in the truck, making it a flexible and fair approach for different needs. Additional factors such as heavy furniture, tight access spaces, or same-day service when available requests may also impact the final cost."
      ]
     },
     {
@@ -221,11 +221,11 @@
     {
      "t": "p",
      "c": [
-      "Strategic Sorting and Categorization",
+      "Strategic Categorization",
       {
        "br": 1
       },
-      "We begin by methodically sorting through all items, categorizing them into four distinct groups:"
+      ""
      ]
     },
     {
@@ -235,7 +235,7 @@
        "Keep items carefully set aside in a designated area"
       ],
       [
-       "Donation candidates for local charities"
+       "{{fact:recycling}}"
       ],
       [
        "Recyclable materials separated by type"
@@ -315,9 +315,6 @@
      "t": "ul",
      "items": [
       [
-       "Delivering donation items to local charities throughout our service area"
-      ],
-      [
        "Separating recyclables by material type for proper processing"
       ],
       [
@@ -335,14 +332,9 @@
      ]
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "Final Cleanup and Space Preparation"
-    },
-    {
      "t": "p",
      "c": [
-      "Once all items are removed, we conduct a thorough cleaning of your space to ensure it’s left in pristine condition. This final step distinguishes professional apartment cleanouts from basic hauling services."
+      "{{fact:cleanupScope}}. This final step distinguishes professional apartment cleanouts from basic hauling services."
      ]
     },
     {
@@ -354,9 +346,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Sweeping and vacuuming all floors"
-      ],
       [
        "Wiping down surfaces and fixtures"
       ],
@@ -438,9 +427,6 @@
        "Experience with buildings of all types and ages"
       ],
       [
-       "Understanding of various municipal regulations"
-      ],
-      [
        "Flexible scheduling to accommodate your timeline"
       ],
       [
@@ -475,7 +461,7 @@
         "apartment cleanouts"
        ]
       },
-      " with Live Junk Free follow a carefully designed process that prioritizes efficiency, transparency, and customer satisfaction. From the initial consultation through the final cleanup, every step is planned and executed with attention to detail and respect for your property. Understanding what to expect removes the uncertainty from apartment cleanouts and allows you to feel confident in your decision to work with professionals. Ready to experience the Live Junk Free difference? Contact us today to schedule your apartment cleanout and discover how simple and stress-free the process can be."
+      " with Live Junk Free follow a carefully designed process that prioritizes efficiency, transparency, and customer satisfaction. {{fact:cleanupScope}}. Understanding what to expect removes the uncertainty from apartment cleanouts and allows you to feel confident in your decision to work with professionals. Ready to experience the Live Junk Free difference? Contact us today to schedule your apartment cleanout and discover how simple and stress-free the process can be."
      ]
     }
    ]

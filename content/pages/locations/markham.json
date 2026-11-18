@@ -102,7 +102,7 @@
     {
      "t": "p",
      "c": [
-      "Markham is one of Canada’s fastest-growing cities — a dynamic, diverse community where word travels fast and reputation means everything. That’s exactly why Live Junk Free has become the most trusted junk removal service across Markham and York Region. When your neighbours, your colleagues and your community keep recommending the same company, it’s not an accident — it’s because we earn it every single job."
+      "Markham is one of Canada’s fastest-growing cities — a dynamic, diverse community where word travels fast and reputation means everything. When your neighbours, your colleagues and your community keep recommending the same company, it’s not an accident — it’s because we earn it every single job."
      ]
     },
     {
@@ -124,29 +124,9 @@
      }
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "{{fact:competitorComparison}}",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Our Markham junk removal crew arrives at your property and physically assesses everything you need removed. We look at volume, access, and item type to give you the most accurate quote possible."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "You receive a flat quote on the spot",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -154,29 +134,9 @@
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Nothing is added after the fact."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "You review it and decide — zero pressure",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "We hand you the quote, you take as much time as you need to decide. No high-pressure tactics, no countdown timers, no \"this price expires in 10 minutes\" games. If you want to proceed, great. If not, we leave and you owe us nothing."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "The quoted price is the final price",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -184,29 +144,9 @@
      "text": "Once you approve it, that number is locked. It doesn't go up if the job takes longer than expected. It doesn't gain extra line items at the end."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "{{fact:competitorComparison}}",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "No franchise royalties means no inflated pricing passed onto Markham customers."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Small load pricing starts at just {{min_price:C}}",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -263,7 +203,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Three Calls. One Truck. Zero Hassle — That's How Junk Removal Works in Markham"
+     "text": "Three Calls. One Truck."
     },
     {
      "t": "h",
@@ -276,13 +216,13 @@
       {
        "title": "One Call Books Your Markham Junk Removal",
        "text": [
-        "Call +1 647 922 5865 or book. Tell us what you need removed and where you are in Markham — Unionville, Thornhill, Cornell, Angus Glen, Milliken, Cathedraltown, Buttonville, or anywhere else across the city. We'll confirm your same-day or next-day time slot on the spot, subject to scheduling. We call ahead 30 minutes before arrival so you can plan your day around us — not the other way around."
+        "Call +1 647 922 5865 or book. Tell us what you need removed and where you are in Markham — Unionville, Thornhill, Cornell, Angus Glen, Milliken, Cathedraltown, Buttonville, or anywhere else across the city. We'll confirm your same-day or next-day time slot at the onsite estimate, subject to scheduling. We call ahead 30 minutes before arrival so you can plan your day around us — not the other way around."
        ]
       },
       {
-       "title": "One Visit Gets You a Free On-Site Quote",
+       "title": "Gets You a Free On-Site Quote",
        "text": [
-        "Our professional, uniformed Markham junk removal crew arrives on time, every time. We walk your property with you — every room, every floor, the garage, the basement, the backyard, wherever your junk is. For commercial Markham jobs, we assess office floors, warehouse spaces, storage rooms and loading areas. We calculate an accurate, flat-rate quote on the spot and hand it to you directly. There is no obligation whatsoever to proceed."
+        "Our professional, uniformed Markham junk removal crew arrives on time, every time. We walk your property with you — every room, every floor, the garage, the basement, the backyard, wherever your junk is. For commercial Markham jobs, we assess office floors, warehouse spaces, storage rooms and loading areas. {{fact:changedScope}}. There is no obligation whatsoever to proceed."
        ]
       },
       {
@@ -294,7 +234,7 @@
       {
        "title": "Zero Junk, Zero Mess, Done",
        "text": [
-        "After loading, we do a final walkthrough with you to confirm everything on your list has been removed. We sweep up after ourselves and leave the space clean — no debris, no mess from the haul, nothing left behind. Your items are then responsibly sorted: usable goods go to donation organisations serving the Markham and York Region community, recyclables are properly processed at recycling facilities, and only what genuinely cannot be reused ends up at the landfill."
+        "After loading, we do a final walkthrough with you to confirm everything on your list has been removed. We after ourselves and leave the space clean — no debris, no mess from the haul, nothing left behind. Your items are then responsibly sorted: usable goods go to donation organisations serving the Markham and York Region community, recyclables are properly processed at recycling facilities, and only what genuinely cannot be reused ends up at the landfill."
        ]
       }
      ]
@@ -603,7 +543,7 @@
        "q": "Q: Do you offer same-day junk removal in Markham?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of Markham including Unionville, Cornell, Thornhill, Milliken, Cathedraltown, Angus Glen and surrounding York Region communities. Call +1 647 922 5865 to check today’s availability."
+         "{{fact:scheduling}} Call +1 647 922 5865 to check today’s availability."
         ]
        ]
       },
@@ -635,7 +575,7 @@
        "q": "Q: Are you a local Markham company or a national franchise?",
        "a": [
         [
-         "A: We are 100% locally owned and operated — not affiliated with any national franchise."
+         "Careful Removal"
         ]
        ]
       }

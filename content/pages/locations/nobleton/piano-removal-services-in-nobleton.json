@@ -9,7 +9,7 @@
   "description": "Piano Removal Services in Nobleton from Live Junk Free handle the one part of clearing a piano most owners would rather not do themselves.",
   "canonical": "https://livejunkfree.ca/locations/nobleton/piano-removal-services-in-nobleton/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Piano-Removal-in-Nobleton.jpg"
+  "ogImage": "/images/uploads/2026/08/Piano-Removal-in-Oshawa.jpg"
  },
  "title": "Piano Removal Services in Nobleton",
  "h1": "Piano Removal Services in Nobleton from Live Junk Free",
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Piano Removal Services in Nobleton from Live Junk Free handle the one part of clearing a piano most owners would rather not do themselves — the careful lifting, disassembly and hauling — quoted flat on site with no minimum-job padding."
+     "text": "{{fact:propertyProtection}}"
     },
     {
      "t": "ctas",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/2026/08/Piano-Removal-in-Nobleton.jpg",
+      "src": "/images/uploads/2026/08/Piano-Removal-in-Oshawa.jpg",
       "alt": "Piano Removal in Nobleton",
       "width": 618,
       "height": 496
@@ -119,15 +119,6 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "No minimum-job padding on piano removal pricing",
-       "text": [
-        [
-         "A small upright piano prices as the job it actually is — no floor built into the number to make it artificially expensive."
-        ]
-       ]
-      },
-      {
        "n": "02",
        "title": "Free on-site quotes at your Nobleton property",
        "text": [
@@ -150,7 +141,7 @@
        "title": "Hobby farm and rural piano removal, any scale",
        "text": [
         [
-         "Pianos on larger properties across the concessions get the same flat pricing as a village home."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -159,7 +150,7 @@
        "title": "Donation-first for pianos that still play",
        "text": [
         [
-         "Working pianos are checked against donation partners before anything is recycled."
+         "Working pianos are checked against donation partners before anything is recycled where possible."
         ]
        ]
       },
@@ -201,8 +192,7 @@
     {
      "t": "checks",
      "items": [
-      "Move + Disassembly + Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Move + Disassembly + Haul-Away"
      ]
     },
     {
@@ -274,7 +264,7 @@
        "title": "Get a Free On-Site Quote — Route Measured First",
        "text": [
         [
-         "The crew measures doorways and staircase turns, checks whether legs or lids need to come off, and gives you one flat price."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -336,13 +326,10 @@
        "Careful stairwell and doorway maneuvering with proper equipment"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Wall, corner and staircase protection throughout"
       ],
       [
-       "Same-day piano pick up for straightforward downtown access"
+       "Piano pick up for straightforward downtown access"
       ],
       [
        "Careful, unhurried handling around established properties"
@@ -361,16 +348,10 @@
        "Piano removal on hobby farms and larger properties across the concessions"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Careful handling around active farm operations and animals"
       ],
       [
        "Coordination with executors or family members settling an estate"
-      ],
-      [
-       "Same flat pricing regardless of distance from the village"
       ],
       [
        "Full room or property cleanouts alongside the piano removal, on request"
@@ -399,7 +380,7 @@
        "Legs, lid and pedals detached where the move requires it"
       ],
       [
-       "Same-day completion for most straightforward removals"
+       "Completion for most straightforward removals"
       ],
       [
        "Coordination around new piano delivery dates"
@@ -843,7 +824,7 @@
        "q": "We were planning to move the piano ourselves — why hire it out?",
        "a": [
         [
-         "Worth doing the math first: an upright weighs 300 to 500 pounds, a grand considerably more, and the real risk of injury or damage from an improvised move usually isn’t worth the savings. Our flat quote often lands close to what a DIY rental setup would cost anyway, minus the risk. "
+         "Worth doing the math first: an upright weighs 300 to 500 pounds, a grand considerably more, and the real risk of injury or damage from an improvised move usually isn’t worth the savings. {{fact:changedScope}}. "
         ]
        ]
       },
@@ -851,7 +832,7 @@
        "q": "Do you charge extra for stairs?",
        "a": [
         [
-         "No. Narrow staircases and multi-floor moves are factored into one flat quote at the walkthrough. "
+         "No. {{fact:changedScope}}. "
         ]
        ]
       },

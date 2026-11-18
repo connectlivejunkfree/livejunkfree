@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Brampton never sits still. Families move up, tenants move on, shops change hands, warehouses reorganize, renovations start Monday — and every one of those moves leaves a space full of what’s staying behind. Clearing that space is our entire business. One free walkthrough, one flat quote, and a fully insured crew that empties garages, basements, units, storefronts and storage spaces across the city — most of them the same day you call."
+      "Brampton never sits still. Families move up, tenants move on, shops change hands, warehouses reorganize, renovations start Monday — and every one of those moves leaves a space full of what’s staying behind. Clearing that space is our entire business. {{fact:changedScope}}."
      ]
     },
     {
@@ -97,29 +97,9 @@
      "text": "The variety in this city keeps our crews sharp: a garage in Heart Lake that hasn't seen a car since the last World Cup, a basement in Springdale making way for a new suite, a storefront on a Queen Street plaza changing tenants, a warehouse bay near the airport corridor clearing dead stock. Live Junk Free handles all of it — Google reviews earned across every kind of space Brampton can fill."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Volume prices the job — the address never does",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "A shed's worth is a small load and billed like one; a warehouse corner is more and quoted as more — always flat, always up front. No hourly meters, no commercial premiums, no residential-versus-business rate games. The truck fills, the price follows, and that's the whole system."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "We quote standing in the space, not guessing at it",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -127,29 +107,9 @@
      "text": "Full spaces lie on the phone — every one of them is bigger inside. So the number waits until we've walked the garage, opened the back room or seen the unit for ourselves. The walkthrough is free, the figure is firm, and declining it costs nothing."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One approved number, zero amendments",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Crew, trucks, fuel, disposal and recycling fees, donation drop-offs — all of it lives inside the quote you approve. If the space fights back — heavier, dustier, double-stacked behind the first row — the price holds anyway. That's the point of it."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Business spaces cleared on business terms",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -157,29 +117,9 @@
      "text": "The space empties; the operation never pauses."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "The decision is yours at every step",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Free quote, no deposit, no expiry. Approve it and we start that minute; sit on it while you compare or confer, and it's still good next month. Nobody hears a hard sell from us — the number either works for you or it doesn't."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent pricing lands",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -203,7 +143,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Basements, garages and back rooms land mid-range. Full properties and commercial clears, even multi-load ones, still get one flat, locked figure at the free walkthrough. Residential or business, big or small: the number quoted is the number paid."
+     "text": "Basements, garages and back rooms land mid-range. Residential or business, big or small: the number quoted is the number paid."
     },
     {
      "t": "cards",
@@ -260,17 +200,17 @@
       {
        "title": "2. Show the Space, Take the Number",
        "text": [
-        "Garage, basement, storefront, storage bay — we walk it, measure the real volume, and hand you one flat upfront quote. Free, and no obligation follows it."
+        "{{fact:changedScope}}. Free, and no obligation follows it."
        ]
       },
       {
        "title": "3. Cleared With Care, Kept in Order",
        "text": [
-        "On approval the crew moves: sorting as we clear, flagging anything valuable before it loads, staging donations apart from disposal, and keeping walkways, driveways and aisles usable throughout."
+        "{{fact:cleanupScope}}."
        ]
       },
       {
-       "title": "4. Swept and Sorted Onward",
+       "title": "4. and Sorted Onward",
        "text": [
         "The emptied space gets a broom finish — ready to park in, rent out, renovate or restock. The load gets its priorities: donation first, recycling second, landfill last and least."
        ]
@@ -330,10 +270,10 @@
          "Eviction clearing, handled promptly and professionally"
         ],
         [
-         "Pre-listing cleanouts — swept and photo-ready"
+         "Pre-listing cleanouts — and photo-ready"
         ],
         [
-         "Multi-property arrangements for Brampton landlords and managers"
+         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -341,7 +281,7 @@
        "q": "Storage & Transition Cleanouts in Brampton",
        "a": [
         [
-         "Storage unit clear-outs — emptied, swept, account closed"
+         "Storage unit clear-outs — emptied, account closed"
         ],
         [
          "Estate cleanouts — patient, careful, valuables set aside for family"
@@ -373,7 +313,7 @@
          "Warehouse corners, mezzanines and dead-stock removal"
         ],
         [
-         "After-hours and loading-dock-coordinated jobs across Brampton’s business corridors"
+         "{{fact:pickupTimes}}"
         ]
        ]
       }
@@ -528,7 +468,7 @@
        "q": "Q: We're converting the basement into a suite — can you empty it before the contractor starts?",
        "a": [
         [
-         "A: One of our most common Brampton bookings. We clear the basement to bare walls — storage, old furniture, the cold room, all of it — and sweep it ready for demolition day. Book us a day or two ahead of the trades and the schedule never slips."
+         "A: One of our most common Brampton bookings. We clear the basement to bare walls — storage, old furniture, the cold room, all of it — ready for demolition day. Book us a day or two ahead of the trades and the schedule never slips."
         ]
        ]
       },
@@ -536,7 +476,7 @@
        "q": "Q: How fast can you clear a storage unit or rental turnover?",
        "a": [
         [
-         "Both end swept — the unit for the facility, the rental for the next tenant. Call +1 647 922 5865 with the deadline and we’ll beat it."
+         "Both end — the unit for the facility, the rental for the next tenant. Call +1 647 922 5865 with the deadline and we’ll beat it."
         ]
        ]
       }

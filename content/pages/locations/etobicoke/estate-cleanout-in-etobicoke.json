@@ -86,13 +86,13 @@
     {
      "t": "p",
      "c": [
-      "Along the lakeshore condo corridor, the estate is usually a more contained job with different logistics entirely — building rules, elevator bookings, less physical volume but more coordination required to move it. On the larger Kingsway-area properties, it’s often both: more square footage and more decades of accumulated belongings."
+      "On the larger Kingsway-area properties, it’s often both: more square footage and more decades of accumulated belongings."
      ]
     },
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Estate-Cleanout-in-Etobicoke-from-Live-Junk-Free-rrr096887qvdeuu3ep450z9a1mc2p3alo8lwp3a4yk.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Estate-Cleanout-in-Georgina-from-Live-Junk-Free-rrqzl0rilzt53jx1fra8gknwk7djx2ew0p5rs53au4.jpeg",
       "alt": "Estate Cleanout in Etobicoke from Live Junk Free"
      }
     }
@@ -155,10 +155,10 @@
       },
       {
        "n": "04",
-       "title": "One flat price, confirmed before anything moves",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "The number reflects what a crew member actually sees at the walkthrough — never a guess, and never adjusted once the sorting reveals more than expected."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -203,7 +203,7 @@
     {
      "t": "p",
      "c": [
-      "The honest answer is the scope of the property — how many rooms are affected, and how much sorting the belongings genuinely need. A single room is a modest job. A full bungalow with decades of accumulation, or a larger Kingsway property, takes considerably more time, and the price reflects that real difference rather than a flat estimate given over the phone."
+      "{{fact:cleanupScope}}. A single room is a modest job. A full bungalow with decades of accumulation, or a larger Kingsway property, takes considerably more time, and the price reflects that real difference rather than a flat estimate given over the phone."
      ]
     },
     {
@@ -215,7 +215,6 @@
     {
      "t": "checks",
      "items": [
-      "One Flat Price, Whatever the Property's Era or Type",
       "No Building, Size or Age-Based Surcharge"
      ]
     },
@@ -232,12 +231,6 @@
      "t": "price",
      "label": "Etobicoke Estate Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -284,29 +277,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual space, recognizes what that era and type of property typically involves, and gives one flat number before anything moves."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at the family’s pace, with anything meaningful or potentially valuable set aside first, always."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "A Home That's Clean and Ready",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable — house or condo — ready for a sale, a new owner, or simply for the family."
+         "Whatever was worked on that visit is left and usable — house or condo — ready for a sale, a new owner, or simply for the family."
         ]
        ]
       }
@@ -353,7 +328,7 @@
        "Multi-visit scheduling for larger homes with years of belongings"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -433,9 +408,6 @@
       ],
       [
        "Timing arranged around listing dates or closing schedules where relevant"
-      ],
-      [
-       "Same flat pricing whether or not a deadline is involved"
       ],
       [
        "Photo updates for family who live elsewhere"
@@ -813,7 +785,7 @@
        "q": "How much does an estate cleanout cost in Etobicoke?",
        "a": [
         [
-         "Pricing is based on how many rooms are affected and how much sorting the belongings need — never on whether the property is a house or a condo. The figure is confirmed free at a private walkthrough."
+         "{{fact:cleanupScope}}. The figure is confirmed free at a private walkthrough."
         ]
        ]
       },

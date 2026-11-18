@@ -9,7 +9,7 @@
   "description": "Explore a compassionate step-by-step guide to hoarding cleanouts. Learn how to safely declutter, manage emotions, and restore your home effectively.",
   "canonical": "https://livejunkfree.ca/blog/hoarding-cleanouts-guide/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2025/11/Understanding-Hoarding-Cleanouts-A-Step-by-Step-Compassionate-Approach.jpeg"
+  "ogImage": "/images/uploads/2025/12/Why-Hoarding-Cleanouts-Require-Specialized-Junk-Removal-Teams.jpeg"
  },
  "title": "Understanding Hoarding Cleanouts: A Step-by-Step Compassionate Approach",
  "h1": "Understanding Hoarding Cleanouts: A Step-by-Step Compassionate Approach",
@@ -20,7 +20,7 @@
   "Blog"
  ],
  "featuredImage": {
-  "src": "/images/uploads/2025/11/Understanding-Hoarding-Cleanouts-A-Step-by-Step-Compassionate-Approach.jpeg",
+  "src": "/images/uploads/2025/12/Why-Hoarding-Cleanouts-Require-Specialized-Junk-Removal-Teams.jpeg",
   "alt": "Understanding Hoarding Cleanouts: A Step-by-Step Compassionate Approach"
  },
  "sections": [
@@ -127,7 +127,7 @@
     {
      "t": "p",
      "c": [
-      "This foundation of trust is essential for successful hoarding apartment cleanouts throughout Markham, Mississauga, and ",
+      "{{fact:structuralDemolition}}. ",
       {
        "a": "/locations/",
        "c": [
@@ -159,7 +159,7 @@
       {
        "br": 1
       },
-      "Before sorting begins, we address immediate health and safety concerns. This may include:"
+      "{{fact:cleanupScope}}. This may include:"
      ]
     },
     {
@@ -179,11 +179,11 @@
     {
      "t": "p",
      "c": [
-      "The Sorting Process",
+      "",
       {
        "br": 1
       },
-      "We work alongside the individual during hoarding apartment cleanouts, never making decisions about their possessions without their input. Our sorting method includes:"
+      "We work alongside the individual during hoarding apartment cleanouts, never making decisions about their possessions without their input. {{fact:cleanupScope}}."
      ]
     },
     {
@@ -320,7 +320,7 @@
        "Support resources for ongoing mental health care"
       ],
       [
-       "Emergency contact information for future needs"
+       "{{fact:pickupTimes}}"
       ]
      ]
     },
@@ -486,7 +486,7 @@
     {
      "t": "p",
      "c": [
-      "Hoarding apartment cleanouts require a specialized approach that balances thorough cleaning with deep compassion and understanding. By recognizing the complex nature of hoarding disorder and implementing a patient-centered, methodical process, we help individuals reclaim their living spaces while preserving their dignity and emotional well-being. The journey through hoarding apartment cleanouts is about more than creating physical space and it’s about helping people move forward in their lives with hope and support. If you or someone you love is facing a hoarding situation, contact Live Junk Free to learn how our compassionate approach to apartment cleanouts can make a meaningful difference."
+      "{{fact:cleanupScope}}. By recognizing the complex nature of hoarding disorder and implementing a patient-centered, methodical process, we help individuals reclaim their living spaces while preserving their dignity and emotional well-being. The journey through hoarding apartment cleanouts is about more than creating physical space and it’s about helping people move forward in their lives with hope and support. If you or someone you love is facing a hoarding situation, contact Live Junk Free to learn how our compassionate approach to apartment cleanouts can make a meaningful difference."
      ]
     }
    ]

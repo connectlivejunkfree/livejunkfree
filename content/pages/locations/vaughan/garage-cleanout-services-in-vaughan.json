@@ -9,7 +9,7 @@
   "description": "Get reliable Garage Cleanout Services in Vaughan for fast, hassle-free removal of unwanted items. Live Junk Free makes your garage clean and clutter-free.",
   "canonical": "https://livejunkfree.ca/locations/vaughan/garage-cleanout-services-in-vaughan/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Estate-Cleanout-in-Aurora.jpeg"
+  "ogImage": "/images/uploads/2026/08/Estate-Cleanout-in-Ajax.jpeg"
  },
  "title": "Garage Cleanout Services in Vaughan",
  "h1": "Garage Cleanout Services in Vaughan from Live Junk Free",
@@ -137,10 +137,10 @@
       },
       {
        "n": "02",
-       "title": "One flat garage cleanout price, confirmed before anything moves",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "A crew member sees the actual garage, sizes up the real job, and gives one flat number — no per-item guessing once the work starts."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -155,19 +155,10 @@
       },
       {
        "n": "04",
-       "title": "Same-day garage cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first garage cleanout sorting for tools and equipment",
-       "text": [
-        [
-         "Working tools, equipment and household items with life left in them go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -203,7 +194,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how full the garage actually is, and how much sorting it genuinely needs. A garage with a few years of accumulated boxes is a modest job. A garage that’s been used as overflow storage for years, packed floor to ceiling, takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A garage with a few years of accumulated boxes is a modest job. A garage that’s been used as overflow storage for years, packed floor to ceiling, takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -215,7 +206,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Premium for Contractor-Coordinated Scheduling"
      ]
     },
@@ -232,12 +222,6 @@
      "t": "price",
      "label": "Vaughan Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -284,15 +268,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual garage and gives you one flat price before anything moves, with the project’s real timeline factored into the schedule."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Garage Gets Cleared, on Schedule",
        "text": [
@@ -306,7 +281,7 @@
        "title": "Your Garage Is Clear, Ready for the Next Trade",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready for the next stage of the project — or simply ready to park in again."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready for the next stage of the project — or simply ready to park in again."
         ]
        ]
       }
@@ -353,10 +328,7 @@
        "Coordination with contractors, homeowners or project managers"
       ],
       [
-       "Same flat pricing as any standard cleanout"
-      ],
-      [
-       "Same-day service where the project calls for it"
+       "Service where the project calls for it"
       ],
       [
        "Documentation available if the project requires it"
@@ -413,10 +385,7 @@
        "Discreet timing coordinated with concierge and management"
       ],
       [
-       "Same flat pricing as a residential garage"
-      ],
-      [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Documentation available for building management if needed"
@@ -438,10 +407,7 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
@@ -819,7 +785,7 @@
        "q": "How much do garage cleanout services cost in Vaughan?",
        "a": [
         [
-         "Pricing is confirmed free at an on-site walkthrough based on how full the garage is and how much sorting it needs — the same formula whatever the property type."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -851,7 +817,7 @@
        "q": "Do you clear storage lockers or underground parking spaces near the VMC?",
        "a": [
         [
-         "Yes — building rules and access get coordinated before arrival, at the same flat pricing as a residential garage."
+         "{{fact:changedScope}}."
         ]
        ]
       },

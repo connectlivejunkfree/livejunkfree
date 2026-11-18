@@ -122,20 +122,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "One flat demolition price, confirmed before the clock starts",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Free demolition quotes with a completion date attached",
        "text": [
         [
-         "A crew member walks the structure and gives one flat price alongside a real finish date, not just a number floating with no timeline behind it."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -150,7 +141,7 @@
       },
       {
        "n": "05",
-       "title": "Same-day demolition when the calendar's tight",
+       "title": "Demolition when the calendar's tight",
        "text": [
         [
          "{{fact:nextAvailable}}"
@@ -264,15 +255,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get Your Free Demolition Quote and Completion Date",
-       "text": [
-        [
-         "The crew walks the structure and gives one flat price with a finish date built to beat the real deadline comfortably."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Demolition Runs to the Schedule",
        "text": [
@@ -327,9 +309,6 @@
        "Above Ground Pool Demolition — frame, liner and decking torn down and hauled, older bungalow-belt installations handled with extra care"
       ],
       [
-       "Hot Tub Demolition — drained, disconnected and cut apart before removal"
-      ],
-      [
        "Jacuzzi Demolition — same process, any age of structure"
       ]
      ]
@@ -372,9 +351,6 @@
        "Garage Demolition — detached units taken down section by section"
       ],
       [
-       "Deck Demolition — wood and composite, footings addressed for an addition or rebuild"
-      ],
-      [
        "Fence Demolition — full runs or single sections"
       ],
       [
@@ -393,9 +369,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Concrete Demolition — patios, walkways and pads broken up and hauled, grading-conscious near ravine edges"
-      ],
       [
        "Flooring Demolition — old outdoor surfaces and bases removed"
       ],
@@ -675,7 +648,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {
@@ -1010,7 +983,7 @@
        "q": "We just bought a lot in Audley with an old structure on it — can that be cleared before our build starts?",
        "a": [
         [
-         "Yes — leftover structures on newly purchased lots clear ahead of your landscaping or construction schedule, same flat pricing as anywhere else in the city. "
+         "{{fact:changedScope}}. "
         ]
        ]
       },

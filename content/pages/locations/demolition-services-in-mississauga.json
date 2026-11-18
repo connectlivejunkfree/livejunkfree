@@ -124,13 +124,13 @@
        "title": "Free demolition quotes with a window attached, not just a price",
        "text": [
         [
-         "A crew member walks the property, sees exactly what’s coming down, and hands over one flat number alongside a specific time — not a range, not a “sometime Tuesday.”"
+         "{{fact:changedScope}}."
         ]
        ]
       },
       {
        "n": "03",
-       "title": "One flat demolition price, forecastable to the dollar",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Structure size and material set the number, confirmed before work starts."
@@ -262,15 +262,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get Your Free Demolition Quote — Window Committed",
-       "text": [
-        [
-         "The crew walks the structure and gives one flat price alongside a real arrival window before touching anything."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Demolition Runs Inside the Window",
        "text": [
@@ -325,9 +316,6 @@
        "Above Ground Pool Demolition — frame, liner and decking torn down and hauled, older bungalow-belt installations handled with extra care"
       ],
       [
-       "Hot Tub Demolition — drained, disconnected and cut apart before removal"
-      ],
-      [
        "Jacuzzi Demolition — same process, any age of structure"
       ]
      ]
@@ -370,9 +358,6 @@
        "Garage Demolition — detached units taken down section by section"
       ],
       [
-       "Deck Demolition — wood and composite, footings addressed for an addition or rebuild"
-      ],
-      [
        "Fence Demolition — full runs or single sections"
       ],
       [
@@ -391,9 +376,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Concrete Demolition — patios, walkways and pads broken up and hauled, grading-conscious near ravine edges"
-      ],
       [
        "Flooring Demolition — old outdoor surfaces and bases removed"
       ],
@@ -673,7 +655,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {

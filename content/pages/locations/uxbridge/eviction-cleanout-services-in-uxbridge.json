@@ -87,7 +87,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/elementor/thumbs/eviction-cleanout-services-rr0twsm2u8xtgkjom4gto2kqxytsdwvxwo5bvurnp0.jpeg",
-      "alt": "eviction-cleanout-services"
+      "alt": "Eviction Cleanout in Uxbridge: Live Junk Free job photo"
      }
     }
    ]
@@ -301,23 +301,20 @@
        "Electronics and mattress removal"
       ],
       [
-       "Sorting and loading"
+       "Loading"
       ],
       [
        "Hauling"
       ],
       [
        "Responsible disposal"
-      ],
-      [
-       "Final sweeping"
       ]
      ]
     },
     {
      "t": "p",
      "c": [
-      "For larger properties, multiple rental units, and apartment buildings, bulk and custom pricing may be available."
+      "{{fact:changedScope}}."
      ]
     },
     {
@@ -344,7 +341,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -400,15 +397,6 @@
        "text": [
         [
          "Select an appointment that works for you. Same-day and next-day service may be available depending on scheduling, with weekend and evening options available."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "We Clear, Haul & Sweep",
-       "text": [
-        [
-         "Our crew arrives, removes the unwanted contents, loads and hauls everything away, and completes a final sweep and tidy-up of the cleared space."
         ]
        ]
       }
@@ -586,7 +574,7 @@
      "t": "ul",
      "items": [
       [
-       "When unwanted belongings remain inside a condo after a tenant leaves, our condo eviction cleanout services provide a practical way to clear the unit. We handle the lifting, removal, loading, hauling, and final sweep."
+       "When unwanted belongings remain inside a condo after a tenant leaves, our condo eviction cleanout services provide a practical way to clear the unit. {{fact:cleanupScope}}."
       ]
      ]
     },

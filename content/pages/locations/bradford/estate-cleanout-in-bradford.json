@@ -9,7 +9,7 @@
   "description": "Estate cleanout in Bradford from Live Junk Free covers two genuinely different kinds of properties — a long-held home on Holland Street.",
   "canonical": "https://livejunkfree.ca/locations/bradford/estate-cleanout-in-bradford/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Estate-Cleanout-in-Bradford.jpeg"
+  "ogImage": "/images/uploads/2026/08/Estate-Cleanout-in-Ajax.jpeg"
  },
  "title": "Estate Cleanout in Bradford",
  "h1": "Estate Cleanout in Bradford from Live Junk Free",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because a Marsh property is a working agricultural operation, not just a house with land attached. An estate settled there might involve irrigation equipment, storage buildings, tools specific to muck-soil farming, and machinery that a general clear-out crew wouldn’t recognize the value of. Live Junk Free sorts that kind of property with an understanding of what’s actually there, setting aside anything that might have real resale or continuing-use value rather than moving through it the same way as a typical house."
+      "Because a Marsh property is a working agricultural operation, not just a house with land attached. {{fact:equipmentScope}}. Live Junk Free sorts that kind of property with an understanding of what’s actually there, setting aside anything that might have real resale or continuing-use value rather than moving through it the same way as a typical house."
      ]
     },
     {
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Estate-Cleanout-in-Bradford-rrqsylz75rgcnqd0mgeii7l0oldygxbne45o5n5kd4.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Estate-Cleanout-in-Ajax-rrqo4ibdah4e7v959766o57fnbigr65gse404laouw.jpeg",
       "alt": "Estate Cleanout in Bradford"
      }
     }
@@ -136,7 +136,7 @@
       },
       {
        "n": "03",
-       "title": "One flat price, whatever the property type",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Farm, house or newer build — the number reflects the actual scope of the job, never an assumption about what an “estate” should cost."
@@ -157,7 +157,7 @@
        "title": "Bond Head and rural west coordination, same standard",
        "text": [
         [
-         "Properties in the rural west that aren’t full agricultural operations still get the same flat pricing and careful sorting as anywhere else in town."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -199,8 +199,7 @@
     {
      "t": "checks",
      "items": [
-      "Estate Cleanout + Haul-Away in One Number",
-      "{{fact:competitorComparison}}"
+      "Estate Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -216,12 +215,6 @@
      "t": "price",
      "label": "Bradford Estate Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -268,29 +261,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual space and gives one flat number before anything moves, with no obligation attached to hearing it."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room, Structure by Structure",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at the family’s pace, with anything meaningful or potentially valuable set aside first, always."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "A Property That's Clean and Ready",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable — house or outbuilding — ready for a sale, a new owner, or simply for the family."
+         "Whatever was worked on that visit is left and usable — house or outbuilding — ready for a sale, a new owner, or simply for the family."
         ]
        ]
       }
@@ -335,9 +310,6 @@
       ],
       [
        "Multi-structure coordination under one single booking"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     },
@@ -379,12 +351,6 @@
        "Estate cleanouts on properties across the rural west"
       ],
       [
-       "Same flat pricing regardless of distance from town"
-      ],
-      [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Multi-visit scheduling for larger or more complex situations"
       ]
      ]
@@ -405,9 +371,6 @@
       ],
       [
        "Timing arranged around listing dates or closing schedules where relevant"
-      ],
-      [
-       "Same flat pricing whether or not a deadline is involved"
       ]
      ]
     }
@@ -795,7 +758,7 @@
        "q": "Do you charge extra for a farm with multiple structures?",
        "a": [
         [
-         "Never. The whole property gets scoped and quoted together, at the same flat pricing as a single-house job. "
+         "Never. {{fact:changedScope}}. "
         ]
        ]
       },
@@ -803,7 +766,7 @@
        "q": "How do you handle a home that's been in a family for decades?",
        "a": [
         [
-         "With real patience. The crew works at a pace that respects what the home represents, not just what needs sorting. "
+         "With real patience. {{fact:cleanupScope}}. "
         ]
        ]
       },

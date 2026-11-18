@@ -6,10 +6,10 @@
  "template": "LocationService",
  "seo": {
   "title": "Apartment Cleanout Services in Uxbridge | Live Junk Free",
-  "description": "Apartment cleanout services in Uxbridge from Live Junk Free cost the same flat price whether the unit is above a shop on Brock Street.",
+  "description": "{{fact:changedScope}}.",
   "canonical": "https://livejunkfree.ca/locations/uxbridge/apartment-cleanout-services-in-uxbridge/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Apartment-Cleanout-Services-in-Uxbridge.jpeg"
+  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Ajax.jpeg"
  },
  "title": "Apartment Cleanout Services in Uxbridge",
  "h1": "Apartment Cleanout Services in Uxbridge from Live Junk Free",
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Apartment cleanout services in Uxbridge from Live Junk Free cost the same flat price whether the unit is above a shop on Brock Street or in a small apartment building out toward the hamlets — the township was never going to change what a family or a landlord gets quoted."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because a lot of the apartment units here aren’t in modern towers — they’re above storefronts on Brock Street, in converted Victorian buildings, or in small local apartment buildings tucked into the town’s older streets. That means an apartment cleanout in Uxbridge often calls for real care around a building’s age and character, not just the unit itself. Live Junk Free brings that same patience to every visit, at the identical flat price whether the unit is downtown or out toward one of the hamlets."
+      "Because a lot of the apartment units here aren’t in modern towers — they’re above storefronts on Brock Street, in converted Victorian buildings, or in small local apartment buildings tucked into the town’s older streets. That means an apartment cleanout in Uxbridge often calls for real care around a building’s age and character, not just the unit itself. {{fact:changedScope}}."
      ]
     },
     {
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Apartment-Cleanout-Services-in-Uxbridge-rrxrmmp9jenjyh00tf8c33xoj5g8qanuk65iajuemo.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Ajax-rrmzgn6andbie2zv3395ne9iklgc1ewincvh8j7pn4.jpeg",
       "alt": "Apartment Cleanout Services in Uxbridge"
      }
     }
@@ -127,20 +127,11 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "One flat apartment cleanout price — the crossroads makes it fair",
-       "text": [
-        [
-         "The number is identical whether the unit is downtown or well out toward the hamlets, with no township premium built in."
-        ]
-       ]
-      },
-      {
        "n": "02",
        "title": "Heritage-careful apartment cleanout for older buildings",
        "text": [
         [
-         "Original trim and features that stay get protected throughout, while the sorting inside moves at a practical, respectful pace."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -150,24 +141,6 @@
        "text": [
         [
          "Move-out and move-in dates get factored into the plan from the first call, sized to the reality of managing a handful of units, not a large portfolio."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Free apartment cleanout quotes with no surprises",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first apartment cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -209,7 +182,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -230,7 +202,7 @@
     {
      "t": "p",
      "c": [
-      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -276,7 +248,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual unit and gives you one flat price before anything moves, wherever in the township it’s located."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -294,7 +266,7 @@
        "title": "The Unit Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready for the next step."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready for the next step."
         ]
        ]
       }
@@ -335,7 +307,7 @@
        "Careful, unhurried handling around established properties"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -377,12 +349,6 @@
        "Apartment cleanouts in Goodwood, Zephyr, Leaskdale and Sandford"
       ],
       [
-       "Same flat pricing as downtown, no hamlet premium"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
-      ],
-      [
        "Same standard of care as anywhere in the region"
       ]
      ]
@@ -402,10 +368,7 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ]
      ]
     }
@@ -793,7 +756,7 @@
        "q": "Do you charge extra for units in the hamlets?",
        "a": [
         [
-         "Never. The same flat pricing applies at a Brock Street unit and one in Goodwood, Zephyr, Leaskdale or Sandford. "
+         "Never. {{fact:changedScope}}. "
         ]
        ]
       },

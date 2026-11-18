@@ -9,7 +9,7 @@
   "description": "Live Junk Free provides property management cleanout in East Gwillimbury for landlords and property owners across Sharon, Queensville..",
   "canonical": "https://livejunkfree.ca/locations/east-gwillimbury/property-management-cleanout-in-east-gwillimbury/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Property-Management-Cleanout-rotated.jpg"
+  "ogImage": "/images/uploads/2026/08/Retail-Cleanout-Services-rotated.jpg"
  },
  "title": "Property Management Cleanout in East Gwillimbury",
  "h1": "Property Management Cleanout in East Gwillimbury",
@@ -97,7 +97,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Property-Management-Cleanout-rotated-rsgmt9p6otpmll2kr8g1vez727otli1czd8xjyuj78.jpg",
+      "src": "/images/uploads/elementor/thumbs/Retail-Cleanout-Services-rotated-rsihk2kt4iyt4qv82uxcq2s5v4l03ezuo4ufls6th0.jpg",
       "alt": "Property Management Cleanout"
      }
     }
@@ -149,16 +149,7 @@
        "title": "Farm and outbuilding property cleanouts quoted with the rental unit",
        "text": [
         [
-         "Drive sheds, barn bays, equipment storage and workshops go into the same walkthrough as the house. On a working property these routinely carry more volume than the interior, and leaving them out of the quote is what turns one visit into two."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "",
-       "text": [
-        [
-         ""
+         "Drive sheds, barn bays, equipment storage and workshops go into the same walkthrough as the house. {{fact:scheduling}}"
         ]
        ]
       },
@@ -278,7 +269,7 @@
      "c": [
       {
        "b": [
-        "Your property management cleanout cost in East Gwillimbury is determined by the volume of material and the sorting it requires."
+        "{{fact:cleanupScope}}."
        ]
       },
       " A newer secondary suite vacated after a short tenancy is usually a straightforward job. A farmhouse occupied for a decade, with furniture across every room, appliances, electronics, exercise equipment, and outbuildings holding years of stored household items and yard waste, is substantially larger — and we quote it for what is actually there."
@@ -314,7 +305,7 @@
     {
      "t": "p",
      "c": [
-      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -360,7 +351,7 @@
        "title": "Free on-site walkthrough and one flat property management cleanout price",
        "text": [
         [
-         "Our crew assesses the rental unit along with any drive shed, barn bay, garage or storage area included. We provide one flat price per unit before any work begins and hold that figure through to completion."
+         "Our crew assesses the rental unit along with any drive shed, barn bay, garage or storage area included. {{fact:changedScope}}."
         ]
        ]
       },
@@ -375,10 +366,10 @@
       },
       {
        "n": "04",
-       "title": "Your vacant rental unit is ready for the next tenant",
+       "title": "Careful Removal",
        "text": [
         [
-         "The unit is left swept and empty."
+         "The unit is left and empty."
         ]
        ]
       }
@@ -551,7 +542,7 @@
      "t": "ul",
      "items": [
       [
-       "Property management cleanouts between tenancies can be timed around your listing date so the vacant rental unit is ready for photographs and showings. Short-notice tenant turnover cleanout requests can be accommodated, with pricing unaffected by a compressed timeline. Same-day property management cleanout in East Gwillimbury is available where access permits, with the vacant rental unit returned swept and ready to show."
+       "Property management cleanouts between tenancies can be timed around your listing date so the vacant rental unit is ready for photographs and showings. Short-notice tenant turnover cleanout requests can be accommodated, with pricing unaffected by a compressed timeline. Same-day property management cleanout when available in East Gwillimbury is available where access permits, with the vacant rental unit returned and ready to show."
       ]
      ]
     },
@@ -1151,7 +1142,7 @@
          "3. How can a rental property be cleared before the next lease begins?"
         ],
         [
-         "We can remove unwanted furniture, appliances, boxes, personal belongings, and general clutter from the rental. Once the contents are cleared, the property can be swept and prepared for inspection, maintenance, photography, or the incoming tenant."
+         "We can remove unwanted furniture, appliances, boxes, personal belongings, and general clutter from the rental. Once the contents are cleared, the property can be and prepared for inspection, maintenance, photography, or the incoming tenant."
         ],
         [
          "4. Who removes furniture and belongings left behind by former tenants?"
@@ -1337,7 +1328,7 @@
          "34. Does the landlord need to sort or organize the contents first?"
         ],
         [
-         "Not necessarily. We can handle sorting during the cleanout. However, the landlord or property manager should identify anything that needs to stay before removal begins."
+         "Not necessarily. {{fact:cleanupScope}}. However, the landlord or property manager should identify anything that needs to stay before removal begins."
         ],
         [
          "35. Who handles heavy lifting and carrying during the cleanout?"

@@ -37,11 +37,6 @@
   {
    "blocks": [
     {
-     "t": "h",
-     "l": 2,
-     "text": "The Initial Sorting: The First Critical Step"
-    },
-    {
      "t": "p",
      "c": [
       "The journey begins the moment our team starts the ",
@@ -51,7 +46,7 @@
         "storage unit cleanouts"
        ]
       },
-      ". We don’t simply load everything indiscriminately; we conduct an on-site triage. This initial sorting is fundamental to determining the most appropriate and responsible destination for each item."
+      ". We don’t simply load everything indiscriminately; we conduct an on-site triage. {{fact:cleanupScope}}."
      ]
     },
     {
@@ -87,7 +82,7 @@
     {
      "t": "p",
      "c": [
-      "This careful sorting during the storage unit cleanouts process is what allows us to achieve a high diversion rate from landfills."
+      "{{fact:cleanupScope}}."
      ]
     }
    ]
@@ -223,27 +218,13 @@
     {
      "t": "p",
      "c": [
-      "For items that cannot be donated or recycled, we ensure disposal is handled responsibly at approved waste management facilities. Landfills are always our last option."
+      "For items that cannot be donated or recycled where possible, we ensure disposal is handled responsibly at approved waste management facilities. Landfills are always our last option."
      ]
     },
     {
      "t": "p",
      "c": [
       "How We Minimize Landfill Waste"
-     ]
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "Advanced Sorting: Our initial on-site sorting during storage unit cleanouts is the most effective way to reduce landfill-bound waste."
-      ],
-      [
-       "Transfer Station Sorting: What goes to a waste facility is often sent to a transfer station first, where additional sorting may occur to pull out any last recyclables."
-      ],
-      [
-       "Proper Facilities: We use approved landfills and transfer stations that adhere to environmental regulations, ensuring any final waste is contained and managed properly."
-      ]
      ]
     }
    ]
@@ -303,7 +284,7 @@
     {
      "t": "p",
      "c": [
-      "Our process for storage unit cleanouts is built on a foundation of environmental stewardship and community support. We serve clients across the GTA, from Pickering to Newmarket and Etobicoke to Markham, with the same ethical standards."
+      "{{fact:structuralDemolition}}. We serve clients across the GTA, from Pickering to Newmarket and Etobicoke to Markham, with the same ethical standards."
      ]
     },
     {
@@ -320,9 +301,6 @@
       ],
       [
        "Local Impact: We prioritize partnerships with charities and recycling facilities within the GTA to support the local economy and reduce transportation emissions."
-      ],
-      [
-       "Regulatory Compliance: We stay current on all local and provincial regulations regarding waste disposal, recycling, and donation in Ontario."
       ],
       [
        "Transparent Practices: We are open about our processes and happy to explain the journey of your items."

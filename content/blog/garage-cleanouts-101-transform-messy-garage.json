@@ -140,7 +140,7 @@
     {
      "t": "p",
      "c": [
-      "The Four-Category Sorting System",
+      "",
       {
        "br": 1
       },
@@ -186,17 +186,8 @@
      ]
     },
     {
-     "t": "p",
-     "c": [
-      "Thorough Cleaning Tasks"
-     ]
-    },
-    {
      "t": "ul",
      "items": [
-      [
-       "Sweep out all dust, leaves, and cobwebs."
-      ],
       [
        "Hose down the floor (if drainage allows) to remove grime and oil stains."
       ],
@@ -346,9 +337,6 @@
        "Removal of all unwanted items, from old furniture and appliances to general clutter and construction debris."
       ],
       [
-       "Sorting of materials for donation to local GTA charities and recycling at recycling facilities."
-      ],
-      [
        "A fast, courteous, and insured team that does all the loading and hauling."
       ],
       [
@@ -403,7 +391,7 @@
     {
      "t": "p",
      "c": [
-      "Transforming a messy garage through comprehensive garage cleanouts is an investment in your home’s functionality and your own peace of mind. By following a phased plan, sorting ruthlessly, cleaning thoroughly, organizing strategically, and disposing of responsibly, you can reclaim valuable square footage. Remember, the most daunting part, the heavy lifting and removal, doesn’t have to be your burden. Professional garage cleanout services exist to handle that final, critical step efficiently. Ready to park your car in the garage again? Contact Live Junk Free today for a free quote and let us help you complete the transformation."
+      "Transforming a messy garage through comprehensive garage cleanouts is an investment in your home’s functionality and your own peace of mind. {{fact:cleanupScope}}. Remember, the most daunting part, the heavy lifting and removal, doesn’t have to be your burden. Professional garage cleanout services exist to handle that final, critical step efficiently. Ready to park your car in the garage again? Contact Live Junk Free today for a free quote and let us help you complete the transformation."
      ]
     }
    ]

@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Business cleanout services in Nobleton from Live Junk Free hand off the one part most owner-operators would rather not spend a week on — the hauling — while you keep deciding what stays, what gets sold, and what's genuinely done, priced flat with no minimum-job padding."
+     "text": "{{fact:propertyProtection}}"
     },
     {
      "t": "ctas",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Business-Cleanout-Services-in-Scarborough-from-Live-Junk-Free-rs15z8j6t87vrknqeoz5ycwep0mx73ghwuuoqt6a7s.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Business-Cleanout-Services-in-Markham-from-Live-Junk-Free-rs2rjo2x677zooc3v0hzxvy15jvtarvaifxhiicxfc.jpeg",
       "alt": "Business Cleanout Services in Scarborough from Live Junk Free"
      }
     }
@@ -127,15 +127,6 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "No minimum-job padding on business cleanout pricing",
-       "text": [
-        [
-         "A small business cleanout — a single room, a handful of equipment — prices honestly for what it actually involves, not inflated to match an assumption about what business cleanout should cost."
-        ]
-       ]
-      },
-      {
        "n": "02",
        "title": "You keep the decisions, the crew does the business cleanout hauling",
        "text": [
@@ -146,25 +137,16 @@
       },
       {
        "n": "03",
-       "title": "One flat business cleanout price, confirmed before anything moves",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "A crew member sees the actual space and gives one flat number before anything moves, whether it’s a single-room shop or a full workshop."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Donation-first business cleanout sorting for fixtures and equipment",
-       "text": [
-        [
-         "Furniture, fixtures and equipment still in good condition go to donation partners or resale channels first, before anything reaches disposal."
+         "{{fact:changedScope}}."
         ]
        ]
       },
       {
        "n": "05",
-       "title": "Same-day business cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
@@ -203,7 +185,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the space, and how much of it needs hauling versus sorting. A small storefront or workshop that’s mostly organized is a modest job. A full workshop with years of accumulated tools and materials takes considerably more time, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small storefront or workshop that’s mostly organized is a modest job. A full workshop with years of accumulated tools and materials takes considerably more time, and the price reflects that real difference."
      ]
     },
     {
@@ -215,8 +197,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -232,12 +213,6 @@
      "t": "price",
      "label": "Nobleton Business Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -279,16 +254,7 @@
        "title": "Book Your Business Cleanout Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual space and gives you one flat price before anything moves, sized honestly to what’s actually there."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       },
@@ -306,7 +272,7 @@
        "title": "Your Space Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left and ready for whatever comes next."
         ]
        ]
       }
@@ -347,19 +313,13 @@
        "Business cleanouts for shops around the King Road and Highway 27 corner"
       ],
       [
-       "{{fact:competitorComparison}}"
+       "Service for straightforward village access"
       ],
       [
-       "Same-day service for straightforward village access"
-      ],
-      [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
        "You handle the decisions, the crew handles the hauling"
-      ],
-      [
-       "Same flat pricing as any workshop property"
       ]
      ]
     },
@@ -378,13 +338,7 @@
        "Tools, equipment and materials sorted with a careful eye where relevant"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Whole-property coordination under one single booking"
-      ],
-      [
-       "Same flat pricing regardless of distance from the village"
       ],
       [
        "Careful handling around active operations if any remain"
@@ -410,7 +364,7 @@
        "Timed to land before your new lease or lease-end date"
       ],
       [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Full protection of finished floors throughout"
@@ -438,16 +392,13 @@
        "Full sort of furniture, fixtures and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -851,7 +802,7 @@
        "q": "Can you handle a trade workshop with genuine tools and equipment in it?",
        "a": [
         [
-         "Yes — tools, hardware and materials worth keeping are sorted with a careful eye where relevant, at the same flat pricing as a standard space."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -859,7 +810,7 @@
        "q": "Do you charge extra for workshops on hobby farms or rural properties?",
        "a": [
         [
-         "Never. The same flat pricing applies at a village shop and out on the concessions."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },

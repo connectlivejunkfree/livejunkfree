@@ -24,11 +24,6 @@
      "text": "Your Trusted Local Exercise Equipment Removal Experts"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "The most reliable fitness machine removal service in town"
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -85,7 +80,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/exercise-equipment-removal-services_before.jfif_202607142211.jpeg_202607142218-1024x765.jpeg",
-      "alt": "exercise-equipment-removal-services",
+      "alt": "Exercise Equipment Removal: Live Junk Free job photo",
       "width": 800,
       "height": 598
      }
@@ -150,7 +145,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Fast & Stress-Free Exercise Equipment Removal – Same-Day Service Available"
+     "text": "Fast & Stress-Free Exercise Equipment Removal – Same-Day Service may be available"
     },
     {
      "t": "p",
@@ -222,7 +217,7 @@
       {
        "title": "Multi-Service Value",
        "text": [
-        "Enjoy special savings when removing multiple exercise machines or combining with other junk removal services"
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -241,12 +236,6 @@
        "title": "Green Removal Solutions",
        "text": [
         "{{fact:recycling}}"
-       ]
-      },
-      {
-       "title": "Transparent Pricing",
-       "text": [
-        "One upfront price includes complete disassembly, careful removal, transport, and full cleanup"
        ]
       },
       {
@@ -275,10 +264,7 @@
      "t": "ul",
      "items": [
       [
-       "We specialize in safely removing all types of fitness equipment, from massive weight machines to compact ellipticals, and everything in between. Our professional team carefully handles each piece, systematically disassembling and removing your equipment without causing damage to your floors, walls, or doorways."
-      ],
-      [
-       "When we complete the job, your space will be thoroughly cleaned, completely safe, and ready for new gym equipment or whatever purpose you choose. No fitness machine presents too great a challenge for our experienced crew; we’ve successfully removed hundreds of various exercise equipment pieces throughout your community."
+       "We specialize in safely removing all types of fitness equipment, from massive weight machines to compact ellipticals, and everything in between."
       ]
      ]
     },
@@ -297,13 +283,7 @@
      "t": "ul",
      "items": [
       [
-       "{{fact:recycling}}"
-      ],
-      [
-       "Donation Program: Gently used equipment gets a second life through local youth centers, shelters, and nonprofit organizations"
-      ],
-      [
-       "Waste-Smart Processing: Our meticulous sorting system ensures minimal environmental impact, diverting equipment from landfills whenever possible"
+       "{{fact:cleanupScope}}."
       ]
      ]
     },
@@ -340,9 +320,6 @@
       ],
       [
        "Clear Flat Rates: Know your total cost upfront before we begin any work"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -353,7 +330,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "We Remove All Types of Exercise Equipment – No Job Too Big or Small"
+     "text": "We Remove All Types of Exercise Equipment"
     },
     {
      "t": "p",
@@ -452,11 +429,11 @@
      "images": [
       {
        "src": "/images/uploads/2026/07/exercise-equipment-removal-services_before.jfif_202607142211-1024x765.jpeg",
-       "alt": "exercise-equipment-removal-services_before"
+       "alt": "Exercise Equipment Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/exercise-equipment-removal-services_before.jfif_202607142212-1024x765.jpeg",
-       "alt": "exercise-equipment-removal-services_after"
+       "alt": "Exercise Equipment Removal: Live Junk Free job photo"
       }
      ]
     }
@@ -508,7 +485,7 @@
        "q": "Do you remove heavy machines like treadmills and ellipticals?",
        "a": [
         [
-         "Yes! We specialize in heavy equipment removal with professional tools and techniques; no job is too big."
+         "Yes! We specialize in heavy equipment removal with professional tools and techniques;"
         ]
        ]
       }

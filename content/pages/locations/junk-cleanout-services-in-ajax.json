@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Junk Cleanout Services in Ajax - Live Junk Free",
-  "description": "Live Junk Free provides same day junk cleanout when available services in Ajax. From garage cleanouts to estate cleanouts, attic junk removal, and appliance removal, we handle it all. Book today!",
+  "description": "Live Junk Free provides same day junk cleanout services when available in Ajax. From garage cleanouts to estate cleanouts, attic junk removal, and appliance removal, we handle it all. Book today!",
   "canonical": "https://livejunkfree.ca/locations/junk-cleanout-services-in-ajax/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
  },
@@ -83,7 +83,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
+      "src": "/images/uploads/2026/08/wood-removal.webp",
       "alt": "Junk Cleanout in Ajax: Live Junk Free job photo",
       "width": 800,
       "height": 534
@@ -166,7 +166,7 @@
     {
      "t": "p",
      "c": [
-      "The work itself is methodical: we confirm what stays, then clear zone by zone, carrying everything out ourselves — you never haul a single bag to the curb or wrestle an appliance up basement stairs. Floors and door frames along the route are protected, items are sorted into donation, recycling, and disposal streams as they’re loaded, and every cleared area is swept before we move to the next."
+      "The work itself is methodical: we confirm what stays, then clear zone by zone, carrying everything out ourselves — you never haul a single bag to the curb or wrestle an appliance up basement stairs. Floors and door frames along the route are protected, items are sorted into donation, recycling, and disposal streams as they’re loaded, and every cleared area is before we move to the next."
      ]
     },
     {
@@ -179,10 +179,7 @@
      "t": "ul",
      "items": [
       [
-       "Load-everything service – Furniture, appliances, e-waste, debris, and mixed clutter, all on one truck in one visit"
-      ],
-      [
-       "Sort, sweep & go – Donation and recycling separation on site, with swept floors left behind in every cleared space"
+       "Load-everything service – Furniture, appliances, e-waste, debris, and mixed clutter, all on one truck"
       ]
      ]
     },
@@ -191,7 +188,7 @@
      "c": [
       {
        "b": [
-        "Same-Day Junk Cleanouts Available Across Ajax!"
+        "Same-Day Junk Cleanouts may be available Across Ajax!"
        ]
       }
      ]
@@ -209,13 +206,7 @@
      "t": "cards",
      "items": [
       {
-       "title": "01 – Mixed Loads Welcome",
-       "text": [
-        "Furniture, appliances, debris & bagged junk together — no sorting rules, no separate trips"
-       ]
-      },
-      {
-       "title": "02 – Volume-Based Flat Pricing",
+       "title": "02 – Volume-Based",
        "text": [
         "Pay for truck space filled, from a quarter load to multiple trucks — quoted in writing first"
        ]
@@ -272,7 +263,7 @@
        "We begin with your photos or a quick walkthrough to gauge volume and flag keep-items, then the crew works through the property systematically — bulky pieces first to open space, then boxed and bagged material, then the final layer of loose clutter. Everything is carried directly to the truck and sorted as it’s loaded."
       ],
       [
-       "Each finished zone gets swept, and the job ends with a walkthrough together so nothing is missed — leaving your Ajax home lighter by a truckload and ready for whatever prompted the purge."
+       "Each finished zone gets, and the job ends with a walkthrough together so nothing is missed — leaving your Ajax home lighter by a truckload and ready for whatever prompted the purge."
       ]
      ]
     },
@@ -343,7 +334,7 @@
        "Free Photo or On-Site Quotes – A firm written figure before anything is lifted"
       ],
       [
-       "Rates – Labour, hauling, donation runs, recycling, and sweep-up in one price"
+       "Rates – Labour, hauling, donation runs, recycling in one price"
       ],
       [
        "Bigger Loads, Better Value – Full-property cleanouts cost far less per item than piecemeal pickups"
@@ -411,12 +402,6 @@
        "text": [
         "Same-day when available, evening, and weekend windows across Ajax, timed to your listing, move, or deadline."
        ]
-      },
-      {
-       "title": "Point and It's Gone",
-       "text": [
-        "The crew carries, sorts, loads, and sweeps — you get back the space without lifting a thing."
-       ]
       }
      ]
     }
@@ -439,11 +424,11 @@
      "t": "gallery",
      "images": [
       {
-       "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
+       "src": "/images/job-1.webp",
        "alt": "Junk Cleanout in Ajax: Live Junk Free job photo"
       },
       {
-       "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
+       "src": "/images/job-2.webp",
        "alt": "Junk Cleanout in Ajax: Live Junk Free job photo"
       },
       {
@@ -455,7 +440,7 @@
        "alt": "Junk Cleanout in Ajax: Live Junk Free job photo"
       },
       {
-       "src": "/images/uploads/2025/07/20250611_115029-1024x577.webp",
+       "src": "/images/job-3.webp",
        "alt": "Junk Cleanout in Ajax: Live Junk Free job photo"
       },
       {
@@ -496,7 +481,7 @@
        "q": "2) How is a junk cleanout priced in Ajax?",
        "a": [
         [
-         "By the volume your items occupy in our truck, not by weight or hours. Send photos or book a free look, and you’ll have a firm written figure before we begin — covering all labour, hauling, donation and recycling runs, and sweep-up. Larger loads work out cheaper per item than repeat small pickups."
+         "By the volume your items occupy in our truck, not by weight or hours. Send photos or book a free look, and you’ll have a firm written figure before we begin — covering all labour, hauling, donation and recycling runs. Larger loads work out cheaper per item than repeat small pickups."
         ]
        ]
       },
@@ -504,7 +489,7 @@
        "q": "3) Can you clear an entire house or rental unit in Ajax?",
        "a": [
         [
-         "Yes — full-property cleanouts are our specialty. We handle whole-home declutters, estate situations, and rental turnovers where a previous tenant’s belongings need to vanish before the next showing. Big jobs get bigger crews and extra trucks so it’s still typically one visit."
+         "Yes — full-property cleanouts are our specialty. We handle whole-home declutters, estate situations, and rental turnovers where a previous tenant’s belongings need to vanish before the next showing. {{fact:scheduling}}"
         ]
        ]
       },
@@ -512,7 +497,7 @@
        "q": "4) Do I need to bag or move anything before you arrive?",
        "a": [
         [
-         "No. Crews carry items straight from where they sit — basement shelves, garage corners, upstairs rooms — and do the sorting themselves. Just set aside or mark what stays, and consider your part of the job done."
+         "No. {{fact:cleanupScope}}. Just set aside or mark what stays, and consider your part of the job done."
         ]
        ]
       },

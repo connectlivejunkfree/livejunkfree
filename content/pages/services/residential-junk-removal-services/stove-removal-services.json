@@ -24,11 +24,6 @@
      "text": "Fast & Easy Stove Removal – Service"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in the town."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -85,7 +80,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/stove-removal-services-1024x765.jpeg",
-      "alt": "stove-removal-services",
+      "alt": "Stove Removal: Live Junk Free job photo",
       "width": 800,
       "height": 598
      }
@@ -102,7 +97,7 @@
     {
      "t": "p",
      "c": [
-      "Removing an old stove doesn’t have to be a challenge. We’ll safely disconnect your gas or electric stove, carefully remove it from your kitchen, and haul it away – leaving your space completely clean and ready for your new appliance."
+      "Removing an old stove doesn’t have to be a challenge."
      ]
     },
     {
@@ -154,7 +149,7 @@
     {
      "t": "p",
      "c": [
-      "We understand that stove removal often needs to happen quickly – whether you’re renovating your kitchen, upgrading to a new model, or preparing a property for sale. That’s why we offer same-day and next-day removal services whenever possible, helping you reclaim your kitchen space without delay."
+      "We understand that stove removal often needs to happen quickly – whether you’re renovating your kitchen, upgrading to a new model, or preparing a property for sale. That’s why we offer same-day and next-day removal services when available whenever possible, helping you reclaim your kitchen space without delay."
      ]
     },
     {
@@ -172,9 +167,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Safe disconnection of gas or electrical lines by insured technicians"
-      ],
       [
        "Professional removal of all stove types (gas, electric, induction, commercial)"
       ],
@@ -213,7 +205,7 @@
       {
        "title": "Eco-Friendly Solutions",
        "text": [
-        "We ensure all materials including metals, glass, and components are properly recycled or donated according to environmental standards."
+        "We ensure all materials including metals, glass, and components are properly recycled where possible or donated according to environmental standards."
        ]
       },
       {
@@ -226,12 +218,6 @@
        "title": "Expert Time Savings",
        "text": [
         "Timing confirmed at your estimate"
-       ]
-      },
-      {
-       "title": "Bulk Removal Savings",
-       "text": [
-        "Special discounted rates available when removing multiple kitchen appliances together"
        ]
       }
      ]
@@ -258,7 +244,7 @@
        "We professionally remove stoves from any kitchen setup – cramped apartments, narrow galley kitchens, basement suites, and even commercial spaces. Our experienced team carefully extracts your stove without damaging floors, countertops, or walls."
       ],
       [
-       "From massive commercial ranges to compact built-in ovens, we handle them all with precision. We take care of all the heavy lifting, safe disconnection of gas or electrical lines, and eco-friendly disposal so you don’t need to risk injury. When we are finished, your kitchen space will be cleaner and more usable than before we arrived."
+       "From massive commercial ranges to compact built-in ovens, we handle them all with precision. {{fact:utilityDisconnection}} When we are finished, your kitchen space will be cleaner and more usable than before we arrived."
       ]
      ]
     },
@@ -280,7 +266,7 @@
      "t": "ul",
      "items": [
       [
-       "Metal components properly recycled at recycling facilities"
+       "Metal components properly recycled where possible at recycling facilities"
       ],
       [
        "Gas lines safely purged and capped by licensed technicians"
@@ -328,9 +314,6 @@
       ],
       [
        "{{fact:freeOnsiteEstimates}}"
-      ],
-      [
-       "Discounted rates for multiple appliance removals"
       ]
      ]
     }
@@ -379,18 +362,6 @@
      "t": "cards",
      "items": [
       {
-       "title": "Send Us Photos",
-       "text": [
-        "{{fact:freeOnsiteEstimates}}"
-       ]
-      },
-      {
-       "title": "Get Your Price",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
-      {
        "title": "Schedule Your Removal",
        "text": [
         "Choose same-day or next-day service when available that works for you - we come to your location."
@@ -420,11 +391,11 @@
      "images": [
       {
        "src": "/images/uploads/2026/07/stove-removal-services-before-1024x572.jpeg",
-       "alt": "stove-removal-services"
+       "alt": "Before: Stove Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/stove-removal-services-after-1024x572.jpeg",
-       "alt": "stove-removal-services"
+       "alt": "After: Stove Removal: Live Junk Free job photo"
       }
      ]
     }
@@ -452,7 +423,7 @@
        "q": "2. Will you disconnect my stove before removal?",
        "a": [
         [
-         "Absolutely. You don’t need to do anything – we handle all disconnections professionally."
+         "Absolutely. {{fact:utilityDisconnection}}"
         ]
        ]
       },
@@ -460,7 +431,7 @@
        "q": "3. How much does stove removal cost?",
        "a": [
         [
-         "Our pricing depends on the stove type, location, and any required disconnections. We provide free, no-obligation quotes to give you accurate pricing for your specific situation. Contact us for details."
+         "{{fact:utilityDisconnection}} We provide free, no-obligation quotes to give you accurate pricing for your specific situation. Contact us for details."
         ]
        ]
       },

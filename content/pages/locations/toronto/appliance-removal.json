@@ -75,7 +75,7 @@
         "Live Junk Free"
        ]
       },
-      ", appliance removal in Toronto is something we do every single day. We work across all Toronto neighbourhoods — from Liberty Village condos to detached homes in North York, east-end houses in Scarborough, and townhouses in Etobicoke. If it plugs in and you don’t want it anymore, we’ll take it."
+      ", appliance removal in Toronto is something we do every single day. {{fact:scheduling}} If it plugs in and you don’t want it anymore, we’ll take it."
      ]
     },
     {
@@ -87,7 +87,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day appliance removal in Toronto is available most days. Just call or text — we’ll sort the rest."
+      "{{fact:scheduling}} Just call or text — we’ll sort the rest."
      ]
     },
     {
@@ -102,7 +102,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
+      "src": "/images/uploads/2026/08/wood-removal.webp",
       "alt": "Appliance Removal: Live Junk Free job photo",
       "width": 800,
       "height": 534
@@ -226,7 +226,7 @@
     {
      "t": "p",
      "c": [
-      "Gas or electric, freestanding or built-in — we disconnect and haul away stoves and ovens. We follow proper safety protocols for gas appliances before any removal begins."
+      "{{fact:utilityDisconnection}} We follow proper safety protocols for gas appliances before any removal begins."
      ]
     },
     {
@@ -242,7 +242,7 @@
     {
      "t": "p",
      "c": [
-      "Built-in or countertop, we remove both. Dishwasher removal often involves some plumbing disconnection, which our team handles as part of the job."
+      "Built-in or countertop, we remove both. {{fact:utilityDisconnection}}"
      ]
     },
     {
@@ -266,7 +266,7 @@
      "c": [
       {
        "b": [
-        "Bulk Appliance Clearouts"
+        "{{fact:competitorComparison}}"
        ]
       }
      ]
@@ -299,31 +299,19 @@
       {
        "title": "Flexible Scheduling",
        "text": [
-        "Work around your timeline with next-day or weekend slots available. Same-day services are also available."
-       ]
-      },
-      {
-       "title": "Pricing",
-       "text": [
-        "{{fact:competitorComparison}}"
+        "Work around your timeline with next-day or weekend slots available, subject to scheduling. Same-day services when available are also available."
        ]
       },
       {
        "title": "Eco-Friendly Disposal",
        "text": [
-        "We recycle materials and donate usable furniture to local charities"
+        "We recycle materials and donate suitable furniture where possible"
        ]
       },
       {
        "title": "Careful Removal",
        "text": [
-        "We protect your home during removal with padding and careful handling"
-       ]
-      },
-      {
-       "title": "Bulk Removal Options",
-       "text": [
-        "Special rates when clearing multiple pieces of furniture"
+        "{{fact:propertyProtection}}"
        ]
       },
       {
@@ -360,7 +348,7 @@
       {
        "br": 1
       },
-      "✓ Removing multiple appliances in one visit almost always saves you money",
+      "✓ Removing multiple appliances almost always saves you money",
       {
        "br": 1
       },
@@ -368,7 +356,7 @@
       {
        "br": 1
       },
-      "{{fact:competitorComparison}}",
+      "",
       {
        "br": 1
       },
@@ -413,9 +401,6 @@
       ],
       [
        "Commercial Appliances (restaurant equipment, prep coolers, small commercial units)"
-      ],
-      [
-       "Bulk Appliance Pickups (multiple appliances removed in one visit)"
       ]
      ]
     }
@@ -434,7 +419,7 @@
       {
        "title": "Book Your Appointment",
        "text": [
-        "Call us at +1 647 922 5865 or book online. Let us know what you need removed and pick a time that suits you. Same-day slots are often available across Toronto."
+        "Call us at +1 647 922 5865 or book online. Let us know what you need removed and pick a time that suits you. Same-day slots when available are often available across Toronto."
        ]
       },
       {
@@ -446,13 +431,13 @@
       {
        "title": "Appliance Removed Carefully",
        "text": [
-        "We assess the item, confirm your upfront quote on the spot, and once you're happy, we get straight to work — protecting your floors, walls, and surrounding cabinetry throughout."
+        "We assess the item, confirm your upfront quote at the onsite estimate, and once you're happy, we get straight to work — protecting your floors, walls, and surrounding cabinetry throughout."
        ]
       },
       {
        "title": "Responsible Disposal",
        "text": [
-        "Working appliances get donated to local Toronto charities or resale programs. Everything else goes to recycling facilities. We keep as much out of landfill as possible."
+        "Everything else goes to recycling facilities. We keep as much out of landfill as possible."
        ]
       }
      ]
@@ -479,11 +464,11 @@
      "t": "gallery",
      "images": [
       {
-       "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
+       "src": "/images/job-1.webp",
        "alt": "Appliance Removal: Live Junk Free job photo"
       },
       {
-       "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
+       "src": "/images/job-2.webp",
        "alt": "Appliance Removal: Live Junk Free job photo"
       },
       {
@@ -495,7 +480,7 @@
        "alt": "Appliance Removal: Live Junk Free job photo"
       },
       {
-       "src": "/images/uploads/2025/07/20250611_115029-1024x577.webp",
+       "src": "/images/job-3.webp",
        "alt": "Appliance Removal: Live Junk Free job photo"
       },
       {

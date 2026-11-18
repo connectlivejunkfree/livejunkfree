@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Hot tubs are not designed to be moved like ordinary household furniture. Their bulky shells, frames, pumps, motors, insulation, and other components can make transportation particularly challenging."
+      "Hot tubs are not designed to be moved like ordinary household furniture. {{fact:utilityDisconnection}}"
      ]
     },
     {
@@ -133,7 +133,7 @@
        "title": "Safe Hot Tub Demolition for Large Spa Units",
        "text": [
         [
-         "Large hot tubs can contain heavy structural components and awkward sections that are difficult to handle safely. Professional hot tub demolition in Woodbridge helps reduce the need for homeowners to cut, lift, or drag these components themselves."
+         "{{fact:structuralDemolition}}. Professional hot tub demolition in Woodbridge helps reduce the need for homeowners to cut, lift, or drag these components themselves."
         ]
        ]
       },
@@ -322,7 +322,7 @@
     {
      "t": "p",
      "c": [
-      "Every Hot Tub Demolition priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every Hot Tub Demolition priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -377,7 +377,7 @@
        "title": "Schedule Your Woodbridge Hot Tub Demolition",
        "text": [
         [
-         "Choose a convenient appointment based on available scheduling. If you need the hot tub removed quickly, ask whether same-day hot tub removal is available for your location and job requirements."
+         "Choose a convenient appointment based on available scheduling. If you need the hot tub removed quickly, ask whether same-day hot tub removal may be available for your location and job requirements."
         ]
        ]
       },
@@ -556,15 +556,10 @@
   {
    "blocks": [
     {
-     "t": "h",
-     "l": 3,
-     "text": "Hot Tub Pump, Motor and Equipment Removal"
-    },
-    {
      "t": "ul",
      "items": [
       [
-       "Older spas may contain pumps, motors, filters, plumbing components, and other equipment. These components can be handled as part of the overall hot tub removal project."
+       "{{fact:utilityDisconnection}} These components can be handled as part of the overall hot tub removal project."
       ]
      ]
     },

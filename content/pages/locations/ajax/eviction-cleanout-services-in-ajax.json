@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "An eviction can turn a ready-to-rent property into a property that needs immediate attention. Furniture, mattresses, appliances, electronics, clothing and unwanted trash may be left behind, creating extra work for landlords and property managers. Live Junk Free provides eviction cleanout services in Ajax to remove these unwanted contents and help get the property ready for its next chapter."
+     "text": "Furniture, mattresses, appliances, electronics, clothing and unwanted trash may be left behind, creating extra work for landlords and property managers. Live Junk Free provides eviction cleanout services in Ajax to remove these unwanted contents and help get the property ready for its next chapter."
     },
     {
      "t": "ctas",
@@ -87,7 +87,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/elementor/thumbs/eviction-cleanout-services-rr0twsm2u8xtgkjom4gto2kqxytsdwvxwo5bvurnp0.jpeg",
-      "alt": "eviction-cleanout-services"
+      "alt": "Eviction Cleanout in Ajax: Live Junk Free job photo"
      }
     }
    ]
@@ -106,7 +106,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "An eviction cleanout is often time-sensitive, particularly when a landlord needs to prepare a rental property for another tenant. Live Junk Free combines removal, hauling and final cleanup into one straightforward Ajax eviction cleanout service."
+     "text": "An eviction cleanout is often time-sensitive, particularly when a landlord needs to prepare a rental property for another tenant."
     }
    ]
   },
@@ -157,15 +157,6 @@
        "text": [
         [
          "Eviction properties can contain a mixture of furniture, metals, electronics, clothing and recyclable materials. Where practical, we sort eligible items for recycling or donation and use responsible disposal methods for the remaining materials."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Final Sweep After an Ajax Eviction Cleanout",
-       "text": [
-        [
-         "Once the agreed items have been removed, we sweep the cleared areas. This helps leave the property tidier and easier for a landlord, property manager, cleaner or contractor to prepare for its next use."
         ]
        ]
       }
@@ -309,7 +300,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -373,7 +364,7 @@
        "title": "We Remove Everything Agreed Upon",
        "text": [
         [
-         "Our crew handles the lifting, loading and hauling of the accepted items. After the removal, we sweep the cleared areas so the property is left more manageable."
+         "Our crew handles the lifting, loading and hauling of the accepted items. {{fact:cleanupScope}}."
         ]
        ]
       }

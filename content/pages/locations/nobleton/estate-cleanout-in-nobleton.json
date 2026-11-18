@@ -80,19 +80,19 @@
     {
      "t": "p",
      "c": [
-      "Not because they can’t. Nobleton’s full of people who could manage most of a project like this on their own — that’s part of the village’s character. What actually makes an estate cleanout worth handing off isn’t the sorting or the decisions, which most families genuinely want to keep control of. It’s the physical volume: hauling furniture, breaking down years of accumulated belongings, making dozens of trips to donation centres and recycling depots, on top of everything else a family’s already managing while settling an estate."
+      "Not because they can’t. Nobleton’s full of people who could manage most of a project like this on their own — that’s part of the village’s character. {{fact:cleanupScope}}. It’s the physical volume: hauling furniture, breaking down years of accumulated belongings, making dozens of trips to donation centres and recycling depots, on top of everything else a family’s already managing while settling an estate."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Live Junk Free handles exactly that part. The family decides what stays, what goes to which relative, what gets donated — the crew does the carrying, the sorting logistics, and the hauling, at a price that reflects the actual job rather than an inflated “estate job” markup just because of what the work is called."
+      "Live Junk Free handles exactly that part. {{fact:cleanupScope}}."
      ]
     },
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Estate-Cleanout-in-Nobleton-from-Live-Junk-Free-rrqpy2k3zguzp3vrdsbo44iv05g6r11mzgdqrbinj0.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Estate-Cleanout-in-Georgina-from-Live-Junk-Free-rrqzl0rilzt53jx1fra8gknwk7djx2ew0p5rs53au4.jpeg",
       "alt": "Estate Cleanout in Nobleton from Live Junk Free"
      }
     }
@@ -128,7 +128,7 @@
      "items": [
       {
        "n": "01",
-       "title": "No minimum-job padding, ever",
+       "title": "{{fact:propertyProtection}}",
        "text": [
         [
          "A small estate cleanout — one room, a garage, a handful of items — prices honestly for what it actually involves, not inflated to match an assumption about what estate work should cost."
@@ -146,7 +146,7 @@
       },
       {
        "n": "03",
-       "title": "One flat price, confirmed before anything moves",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number reflects what a crew member actually sees at the walkthrough, whether that’s a single room or a full hobby farm property."
@@ -158,7 +158,7 @@
        "title": "Hobby farm and rural estate coordination",
        "text": [
         [
-         "Where an estate includes a barn, shed or outbuilding, the whole property gets scoped and quoted together, with the same flat pricing as a village home."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -203,20 +203,13 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is the actual scope of the job — how many rooms or structures are involved, and how much sorting and hauling the belongings genuinely need. A single room or a mostly-sorted property is a modest job. A full hobby farm with a barn full of decades of accumulation takes considerably more time, and the price reflects that real difference."
+      "The honest factor is the actual scope of the job — how many rooms or structures are involved, and how much hauling the belongings genuinely need. A single room or a mostly-sorted property is a modest job. A full hobby farm with a barn full of decades of accumulation takes considerably more time, and the price reflects that real difference."
      ]
     },
     {
      "t": "p",
      "c": [
       "What never enters the calculation is an assumption that “estate cleanout” automatically means a bigger invoice. The word describes the situation, not the size of the job — a family clearing one room of a parent’s estate pays for a one-room job, not a padded minimum. The figure is confirmed privately at a free walkthrough."
-     ]
-    },
-    {
-     "t": "checks",
-     "items": [
-      "One Flat Price, Sized to the Actual Job",
-      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -232,12 +225,6 @@
      "t": "price",
      "label": "Nobleton Estate Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -284,29 +271,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual space and gives one flat number before anything moves, sized honestly to what’s actually there."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens on the Family's Terms",
-       "text": [
-        [
-         "The family makes the calls on what stays, what goes where, and what’s donated — the crew carries out the decisions and handles the physical work."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "A Space That's Clean and Ready",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable — house or outbuilding — ready for a sale, a new owner, or simply for the family."
+         "Whatever was worked on that visit is left and usable — house or outbuilding — ready for a sale, a new owner, or simply for the family."
         ]
        ]
       }
@@ -341,19 +310,13 @@
        "Estate cleanouts for homes around the King Road and Highway 27 corner"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Family-initiated cleanouts handled with real patience"
       ],
       [
-       "Same-day service for straightforward village access"
+       "Service for straightforward village access"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
-      ],
-      [
-       "Same flat pricing as any hobby farm property"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -372,16 +335,10 @@
        "Barn, shed and outbuilding coordination under one single booking"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Careful handling around active farm operations if any remain"
       ],
       [
        "Coordination with executors settling the estate"
-      ],
-      [
-       "Same flat pricing regardless of distance from the village"
       ]
      ]
     }
@@ -430,9 +387,6 @@
       ],
       [
        "Documentation provided for estate, legal or sale-related requirements"
-      ],
-      [
-       "Same flat pricing whether or not a deadline is involved"
       ],
       [
        "Photo updates for family who can't be present"
@@ -858,7 +812,7 @@
        "q": "Do you charge extra for hobby farm properties or long driveways?",
        "a": [
         [
-         "Never. The same flat pricing applies at a village home and out on the concessions."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },

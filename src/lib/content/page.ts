@@ -17,6 +17,18 @@ const SECTION_LABEL: Record<string, string> = {
 
 const tidy = (t: string) => t.replace(/\s*[-|–]\s*Live\s?Junk\s?Free.*$/i, "").trim();
 
+/**
+ * The one label used for a link to another page (QA 18 Nov OBS-06/93/112, B1-04/34/38): that page's own
+ * processed title (rules applied, tokens resolved), never the manifest's copy of the original WordPress title,
+ * which still holds raw slugs ("business-cleanout-services") and old claims.
+ */
+export function pageLabel(r: { path: string; title: string }): string {
+  const own = getDoc(r.path)?.title?.trim();
+  let t = tidy(resolvePrices(own || r.title || ""));
+  if (/^[a-z0-9]+(-[a-z0-9]+)+$/.test(t)) t = t.replace(/-/g, " ").replace(/\b(e) waste\b/i, "$1-waste").replace(/\b\w/g, (c) => c.toUpperCase());
+  return t;
+}
+
 /** Home › Services › Residential › Couch Removal Services (follows the URL hierarchy). */
 export function breadcrumbs(doc: PageDoc): { label: string; href: string }[] {
   const segs = doc.path.split("/").filter(Boolean);
@@ -25,7 +37,8 @@ export function breadcrumbs(doc: PageDoc): { label: string; href: string }[] {
     const href = `/${segs.slice(0, i + 1).join("/")}/`;
     const isLast = i === segs.length - 1;
     const town = site.towns.find((t) => t.slug === seg && segs[0] === "locations" && i === 1);
-    const label = isLast ? tidy(doc.title) : (SECTION_LABEL[seg] ?? (town ? town.name : tidy(manifestRow(href)?.title ?? seg)));
+    const row = manifestRow(href);
+    const label = isLast ? pageLabel({ path: doc.path, title: doc.title }) : (SECTION_LABEL[seg] ?? (town ? town.name : row ? pageLabel(row) : seg));
     if (!isLast && !manifestRow(href) && !SECTION_LABEL[seg]) return; // skip non-pages
     crumbs.push({ label, href });
   });
@@ -129,12 +142,12 @@ export function locationLinks(doc: PageDoc, town: string | null) {
   const parent = manifest.find((r) => r.type === "service" && (r.path.endsWith(`/${service}/`) || r.path.split("/").filter(Boolean).pop()!.startsWith(service.replace(/s$/, ""))));
   const category = !parent ? manifest.find((r) => r.type === "service-hub" && r.path.includes(service.replace(/-in$/, ""))) : undefined;
   const target = parent ?? category;
-  if (target) links.push({ label: tidy(target.title), href: target.path });
+  if (target) links.push({ label: pageLabel(target), href: target.path });
   const nearby = town
     ? nearbyTowns(town).map((t) => {
         // Prefer the same service in the nearby town, else that town's hub.
         const same = manifest.find((r) => r.type === "location-service" && r.town === t && r.path.split("/").filter(Boolean).pop()!.startsWith(service));
-        return same && isBuilt(same.path) ? { label: `${tidy(same.title)}`, href: same.path } : { label: `Junk removal in ${townName(t)}`, href: `/locations/${t}/` };
+        return same && isBuilt(same.path) ? { label: pageLabel(same), href: same.path } : { label: `Junk removal in ${townName(t)}`, href: `/locations/${t}/` };
       })
     : [];
   return { links, nearby };
@@ -144,14 +157,14 @@ export function locationLinks(doc: PageDoc, town: string | null) {
 export function hubChildren(path: string) {
   return childrenOf(path)
     .filter((r) => r.type === "service" || r.type === "service-hub")
-    .map((r) => ({ label: tidy(r.title), href: r.path, built: isBuilt(r.path) }));
+    .map((r) => ({ label: pageLabel(r), href: r.path, built: isBuilt(r.path) }));
 }
 
 /** Location × service pages under a town hub. */
 export function townServices(town: string) {
   return manifest
     .filter((r) => r.type === "location-service" && r.town === town && r.status === "extracted")
-    .map((r) => ({ label: tidy(r.title), href: r.path }));
+    .map((r) => ({ label: pageLabel(r), href: r.path }));
 }
 
 export const firstBlock = (sections: Section[], t: Block["t"]) => sections.flatMap((s) => s.blocks).find((b) => b.t === t);

@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Old furniture gets stuck in a way nothing else does. Too big for the car. Too heavy for one back. Too good to throw out, too worn to sell, too awkward for the curb — so it stays, sometimes for years. We unstick it. One call brings a fully insured crew to your Richmond Hill home or condo with a free flat quote, careful hands for the stairs, and a donation-first plan for every piece worth saving. Most furniture is gone the same day it’s finally decided on."
+      "Old furniture gets stuck in a way nothing else does. Too big for the car. Too heavy for one back. Too good to throw out, too worn to sell, too awkward for the curb — so it stays, sometimes for years. We unstick it. {{fact:changedScope}}. {{fact:scheduling}}"
      ]
     },
     {
@@ -97,44 +97,14 @@
      "text": "Richmond Hill's furniture lives in challenging places: upstairs bedrooms in Bayview Hill and Jefferson two-storeys, compact condos along Yonge with booked elevators, and basement rec rooms whose sectionals arrived before the railing did. Live Junk Free carries out of all of it — Google reviews earned on careful stairwells, tidy walls and pieces sent onward rather than under."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "A couch costs couch money — the truck decides",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Furniture is priced like everything we haul: by the truck space it fills. One sofa is a small load; a whole home's worth is more."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Quoted in front of the piece, not over the phone",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "\"A couch\" can mean a loveseat or a nine-foot sectional with a hidden sofa bed inside — the phone can't tell which. We look first: one free at-the-door assessment, one flat figure, zero obligation attached."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One number, disassembly included",
-       "text": []
-      }
-     ]
+     "text": "\"A couch\" can mean a loveseat or a nine-foot sectional with a hidden sofa bed inside — the phone can't tell which."
     },
     {
      "t": "h",
@@ -142,44 +112,14 @@
      "text": "{{fact:propertyProtection}}. If the wardrobe has to come apart to leave the room it was assembled in, that's included, not extra."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Stairs, corners and condos are the craft",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Getting a sectional down a switchback staircase without touching the walls is a learned skill, and our movers have the reps: pads on the banisters, runners on the floors, doors off hinges before anything is forced, elevator bookings respected in the Yonge-corridor buildings. The furniture leaves; the paint stays."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Good pieces go to good homes first",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Solid furniture with life left doesn't ride to a landfill on our watch. Donation partners get first claim on sofas, dining sets, dressers and desks — and most Richmond Hill pieces are placed within days. The genuinely finished gets recycled for materials where possible."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent pricing",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -260,7 +200,7 @@
       {
        "title": "2. Show Us the Pieces",
        "text": [
-        "The sofa, the spare bedroom set, the wall unit that outlived its TV — point at everything going and get one flat, quote. Free either way."
+        "{{fact:changedScope}}. Free either way."
        ]
       },
       {
@@ -373,7 +313,7 @@
          "Patio and balcony furniture"
         ],
         [
-         "Bed-bug-affected pieces — sealed on site, removed discreetly"
+         ""
         ]
        ]
       }

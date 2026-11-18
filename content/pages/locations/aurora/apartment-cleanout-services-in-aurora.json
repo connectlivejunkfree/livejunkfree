@@ -9,7 +9,7 @@
   "description": "Get reliable Apartment Cleanout Services in Aurora for unwanted furniture, household items, and debris. Live Junk Free makes cleanouts simple and hassle-free.",
   "canonical": "https://livejunkfree.ca/locations/aurora/apartment-cleanout-services-in-aurora/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Apartment-Cleanout-Services-in-Uxbridge.jpeg"
+  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Ajax.jpeg"
  },
  "title": "Apartment Cleanout Services in Aurora",
  "h1": "Apartment Cleanout Services in Aurora from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Apartment-Cleanout-Services-in-Aurora-from-Live-Junk-Free-rrzvs2vm8bh6x5a9rynmkx23n4la978vsy4kxj7218.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Apartment-Cleanout-Services-in-Scarborough-rrzql3tcrpivhivikn483lm9qw5u4nz13igjb2f9qk.jpeg",
       "alt": "Apartment Cleanout Services in Aurora from Live Junk Free"
      }
     }
@@ -128,7 +128,7 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat apartment cleanout price, whatever the building type",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number is set by the actual volume involved — never by the building’s age or the neighbourhood it’s in."
@@ -149,7 +149,7 @@
        "title": "Free apartment cleanout quotes that scope the real job first",
        "text": [
         [
-         "A crew member walks the actual unit and gives one flat number based on what’s really there, not a generic assumption."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -164,7 +164,7 @@
       },
       {
        "n": "05",
-       "title": "Same-day apartment cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
@@ -203,7 +203,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the unit, and how much sorting it genuinely needs. A lightly furnished apartment is a modest job. A unit packed with years of belongings takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A lightly furnished apartment is a modest job. A unit packed with years of belongings takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -215,7 +215,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "The Same Formula for Every Building Type in Aurora"
      ]
     },
@@ -236,7 +235,7 @@
     {
      "t": "p",
      "c": [
-      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -273,16 +272,7 @@
        "title": "Book Your Apartment Cleanout Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual unit, whatever its size or building type, and gives you one flat price before anything moves."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       },
@@ -300,7 +290,7 @@
        "title": "The Unit Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready for whatever comes next."
         ]
        ]
       }
@@ -338,13 +328,10 @@
        "Careful removal that protects original trim and features"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
-       "Same-day service for straightforward downtown access"
-      ],
-      [
-       "Same flat pricing as any other apartment cleanout"
+       "Service for straightforward downtown access"
       ],
       [
        "Full protection of finished floors throughout"
@@ -366,13 +353,7 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Same-day service for straightforward access"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
-      ],
-      [
-       "Same flat pricing as anywhere in Aurora"
+       "Service for straightforward access"
       ],
       [
        "Quick turnaround for straightforward jobs"
@@ -401,9 +382,6 @@
        "Scheduled around your move dates"
       ],
       [
-       "Same flat pricing regardless of who's on title"
-      ],
-      [
        "Sized to the reality of managing local rental units"
       ],
       [
@@ -426,13 +404,10 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation and recycling first, where possible; disposal only for what's left"
       ],
       [
-       "Same flat pricing regardless of the season"
-      ],
-      [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Recurring seasonal scheduling available on request"
@@ -848,14 +823,6 @@
        "a": [
         [
          "{{fact:sameDay}}."
-        ]
-       ]
-      },
-      {
-       "q": "Do you charge extra for a unit that's completely packed?",
-       "a": [
-        [
-         "The price reflects the actual volume and sorting required, not a flat surcharge."
         ]
        ]
       },

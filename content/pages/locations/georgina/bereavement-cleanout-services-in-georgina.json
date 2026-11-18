@@ -9,7 +9,7 @@
   "description": "Get compassionate bereavement cleanout services in Georgina from Live Junk Free. We handle property cleanouts with care, respect, and efficiency.",
   "canonical": "https://livejunkfree.ca/locations/georgina/bereavement-cleanout-services-in-georgina/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Bereavement-Cleanout-Services-in-Pickering.jpeg"
+  "ogImage": "/images/uploads/2026/07/Monitor-Removal-Services-1.jpeg"
  },
  "title": "Bereavement Cleanout Services in Georgina",
  "h1": "Bereavement Cleanout Services in Georgina from Live Junk Free",
@@ -126,7 +126,7 @@
        "title": "No waterfront premium on bereavement cleanout, ever",
        "text": [
         [
-         "The number reflects the size of the job and the sorting it needs — never whether the property looks out over the water or sits well inland."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -210,8 +210,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -231,7 +230,7 @@
     {
      "t": "p",
      "c": [
-      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -295,7 +294,7 @@
        "title": "A Space That's Clean and Ready",
        "text": [
         [
-         "We complete a final walkthrough, sweep the area, and leave the space ready for whatever comes next."
+         "We complete a final walkthrough, and leave the space ready for whatever comes next."
         ]
        ]
       }
@@ -333,16 +332,10 @@
        "Seasonal access and timing worked around gently"
       ],
       [
-       "Same flat pricing as anywhere inland"
-      ],
-      [
        "No waterfront premium anywhere in the quote"
       ],
       [
        "Family updates available for anyone coordinating from a distance"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     },
@@ -364,13 +357,10 @@
        "Family-initiated cleanouts handled with real patience"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
        "Documentation available for the estate file"
-      ],
-      [
-       "Same flat pricing as any waterfront property"
       ]
      ]
     }
@@ -388,12 +378,6 @@
      "items": [
       [
        "Bereavement cleanouts on rural properties away from the shoreline"
-      ],
-      [
-       "Same flat pricing regardless of distance from the lake"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ],
       [
        "Coordination with executors settling the estate"
@@ -421,13 +405,10 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
-       "Same flat pricing regardless of the season"
-      ],
-      [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Recurring visit scheduling available on request"
@@ -850,7 +831,7 @@
        "q": "Do you cover farm and inland properties, not just the shoreline?",
        "a": [
         [
-         "Yes, at the exact same flat pricing."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },

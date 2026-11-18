@@ -6,7 +6,7 @@
  "template": "AdsLanding",
  "seo": {
   "title": "Apartment Cleanout Service in the GTA | Live Junk Free",
-  "description": "Need an apartment cleanout in the GTA? Live Junk Free clears furniture, appliances & clutter fast. Same-day available. Landlords & tenants welcome. Book now!",
+  "description": "Need an apartment cleanout in the GTA? Live Junk Free clears furniture, appliances & clutter fast. Same-day may be available. Landlords & tenants welcome. Book now!",
   "canonical": "https://livejunkfree.ca/apartment-cleanout-service/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/apartment_cleanout_service.jpg-1024x577.jpeg"
@@ -26,7 +26,7 @@
     {
      "t": "p",
      "c": [
-      "Landlords and tenants welcome. We clear everything in one visit. Same-day available."
+      "Landlords and tenants welcome. We clear everything. Same-day may be available."
      ]
     },
     {
@@ -91,7 +91,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/05/apartment_cleanout_service.jpg-1024x577.jpeg",
-      "alt": "Apartment cleanout service.jpg",
+      "alt": "Apartment Cleanout: Live Junk Free job photo",
       "width": 800,
       "height": 451
      }
@@ -103,7 +103,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Apartment & Condo Cleanout in the GTA — Done in One Visit"
+     "text": "Apartment & Condo Cleanout in the GTA — Done"
     },
     {
      "t": "p",
@@ -114,7 +114,7 @@
         "apartment cleanout service"
        ]
       },
-      " across the Greater Toronto Area. We clear furniture, appliances, and clutter in a single visit. No sorting, no multiple trips. Just a clean, empty unit.",
+      " across the Greater Toronto Area. We clear furniture, appliances, and clutter in a single visit. No no multiple trips. Just a clean, empty unit.",
       {
        "br": 1
       }
@@ -239,7 +239,7 @@
        "Contact us for a quote"
       ],
       [
-       "Furniture, appliances, boxes, clothing, renovation debris — we take everything in one trip"
+       "{{fact:pickupTimes}}"
       ],
       [
        "Service across ",
@@ -341,7 +341,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We specialise in clearing apartments, condos, and residential units across the Greater Toronto Area. Landlords, tenants, and property managers — our trained crew handles the full cleanout in a single visit. Furniture, appliances, boxes, and clutter — all gone, all in one trip. No sorting, no multiple runs."
+     "text": "We specialise in clearing apartments, condos, and residential units across the Greater Toronto Area. Landlords, tenants, and property managers — our trained crew handles the full cleanout in a single visit. No no multiple runs."
     },
     {
      "t": "cards",
@@ -411,7 +411,7 @@
       {
        "title": "Book",
        "text": [
-        "Call 647-922-5865 or fill out the form. Tell us the unit size and your address. We offer same day apartment cleanout across the GTA when you book before noon."
+        "Call 647-922-5865 or fill out the form. Tell us the unit size and your address. We offer same day apartment cleanout when available across the GTA when you book before noon."
        ]
       },
       {
@@ -423,7 +423,7 @@
       {
        "title": "Gone — All of It",
        "text": [
-        "We load all items into the truck, sweep up, and leave the unit empty and clean. Landlords and property managers — we know your turnover timelines and work accordingly."
+        "We load all items into the truck, and leave the unit empty and clean. Landlords and property managers — we know your turnover timelines and work accordingly."
        ]
       }
      ]
@@ -472,7 +472,7 @@
        "q": "How fast can you clear the unit?",
        "a": [
         [
-         "We offer same day apartment cleanout across most of the GTA when you book before 12pm. Call 647-922-5865 or fill out the form to check availability."
+         "We offer same day apartment cleanout when available across most of the GTA when you book before 12pm. Call 647-922-5865 or fill out the form to check availability."
         ]
        ]
       },

@@ -9,7 +9,7 @@
   "description": "Storage unit cleanout services in Uxbridge from Live Junk Free come from a crew that actually knows the difference between scrap and salvage.",
   "canonical": "https://livejunkfree.ca/locations/uxbridge/storage-unit-cleanout-services-in-uxbridge/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Storage-Unit-Cleanout-Services-in-Uxbridge.jpeg"
+  "ogImage": "/images/uploads/2026/08/Storage-Unit-Cleanout-Services-in-Oshawa.jpeg"
  },
  "title": "Storage Unit Cleanout Services in Uxbridge",
  "h1": "Storage Unit Cleanout Services in Uxbridge from Live Junk Free",
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Storage unit cleanout services in Uxbridge from Live Junk Free come from a crew that actually knows the difference between scrap and salvage — in a town full of makers and craftspeople, a storage unit often holds tools, materials and project supplies genuinely worth keeping, sorted with a careful eye rather than swept into one general load."
+     "text": "Storage unit cleanout services in Uxbridge from Live Junk Free come from a crew that actually knows the difference between scrap and salvage — in a town full of makers and craftspeople, a storage unit often holds tools, materials and project supplies genuinely worth keeping, sorted with a careful eye rather than into one general load."
     },
     {
      "t": "ctas",
@@ -86,13 +86,13 @@
     {
      "t": "p",
      "c": [
-      "Whichever facility the unit’s at, the same flat pricing applies — no township premium, whether the unit’s downtown or well out on the concessions."
+      "{{fact:changedScope}}."
      ]
     },
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Storage-Unit-Cleanout-Services-in-Uxbridge-rs80484ztc8b1hyyjxrr3f7x3zcei96vijk8wx0ud0.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Storage-Unit-Cleanout-Services-in-Oshawa-rs83uukun4ipuyf8g4o67g8jynswxnmwov7rblez78.jpeg",
       "alt": "Storage Unit Cleanout Services in Uxbridge"
      }
     }
@@ -112,7 +112,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Never. The price reflects the size of the unit and the sorting it needs — never how far the facility sits from town."
+     "text": "Never."
     }
    ]
   },
@@ -121,15 +121,6 @@
     {
      "t": "steps",
      "items": [
-      {
-       "n": "01",
-       "title": "Salvage-conscious storage unit cleanout sorting",
-       "text": [
-        [
-         "Tools, materials and hardware that still have real use or resale value get set aside on request rather than swept into a general disposal load by default."
-        ]
-       ]
-      },
       {
        "n": "02",
        "title": "One flat storage unit cleanout price — no township premium",
@@ -150,19 +141,10 @@
       },
       {
        "n": "04",
-       "title": "Same-day storage unit cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first storage unit cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -198,7 +180,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how full the unit actually is, and how much sorting it genuinely needs. A small unit with a handful of boxes is a modest job. A workshop-style unit packed with years of tools, materials and equipment takes considerably more time to sort with the care it deserves, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small unit with a handful of boxes is a modest job. A workshop-style unit packed with years of tools, materials and equipment takes considerably more time to sort with the care it deserves, and the price reflects that real difference."
      ]
     },
     {
@@ -231,7 +213,7 @@
     {
      "t": "p",
      "c": [
-      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -273,15 +255,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual unit, notes anything worth salvaging, and gives you one flat price before anything moves."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Unit Gets Cleared, With Care",
        "text": [
@@ -295,7 +268,7 @@
        "title": "Your Unit Is Empty and Ready to Return",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready to hand back to the facility."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready to hand back to the facility."
         ]
        ]
       }
@@ -330,16 +303,10 @@
        "Storage unit cleanouts for units holding genuine tools and project materials"
       ],
       [
-       "Salvage-conscious sorting for anything still worth keeping"
-      ],
-      [
        "Facility access and gate coordination handled before arrival"
       ],
       [
-       "Same flat pricing as any other storage unit cleanout"
-      ],
-      [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     },
@@ -358,10 +325,7 @@
        "Coordination directly with facility management on timing"
       ],
       [
-       "Same flat pricing regardless of the facility's location"
-      ],
-      [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Priority booking for time-sensitive lease-end dates"
@@ -384,16 +348,13 @@
        "Storage unit cleanouts at facilities anywhere across the township"
       ],
       [
-       "Same flat pricing regardless of distance from the crossroads"
-      ],
-      [
        "Coordination with contractors or property managers"
       ],
       [
        "Discreet, unhurried scheduling that respects the family's pace"
       ],
       [
-       "Same-day completion for most straightforward removals"
+       "Completion for most straightforward removals"
       ]
      ]
     },
@@ -412,10 +373,7 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"

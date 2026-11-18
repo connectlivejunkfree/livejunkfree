@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Basement Cleanout Services in Bolton | Live Junk Free",
-  "description": "Live Junk Free provides basement cleanout services in Bolton to carry it all out, sort what can be reused or recycled, haul it away.",
+  "description": "Live Junk Free provides basement cleanout services in Bolton to carry it all out, sort what can be reused or recycled where possible, haul it away.",
   "canonical": "https://livejunkfree.ca/locations/bolton/basement-cleanout-services-in-bolton/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/basement-cleanout-services.jpeg"
@@ -99,7 +99,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/elementor/thumbs/basement-cleanout-services-rr0twuhr7x0e3sgyb5a2t23o4qkitb3ekxgaueovck.jpeg",
-      "alt": "basement-cleanout-services"
+      "alt": "Basement Cleanout in Bolton: Live Junk Free job photo"
      }
     }
    ]
@@ -172,7 +172,7 @@
        "title": "Sort for Donation and Recycling Where Possible",
        "text": [
         [
-         "Usable furniture, tools, books, sporting goods and housewares may be directed toward donation opportunities, while metals, electronics, wood, cardboard and old appliances can be routed toward appropriate recycling streams. Live Junk Free’s basement service emphasizes sorting materials rather than sending everything directly to landfill."
+         "Usable furniture, tools, books, sporting goods and housewares may be directed toward donation opportunities, while metals, electronics, wood, cardboard and old appliances can be routed toward appropriate recycling streams. {{fact:cleanupScope}}."
         ]
        ]
       }
@@ -316,7 +316,7 @@
     {
      "t": "p",
      "c": [
-      "Every basement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every basement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -371,7 +371,7 @@
        "title": "Choose Your Appointment",
        "text": [
         [
-         "Select a convenient appointment. Same-day availability can be requested when scheduling permits."
+         "Select a convenient appointment. {{fact:permits}}"
         ]
        ]
       },
@@ -380,7 +380,7 @@
        "title": "We Clean Out Basement Junk",
        "text": [
         [
-         "Our team carries the unwanted items out, loads the truck, separates materials for appropriate disposal or recycling and sweeps the cleared area before leaving."
+         "{{fact:cleanupScope}}."
         ]
        ]
       }
@@ -1179,7 +1179,7 @@
        "q": "3. Should I clear my Bolton basement before waterproofing or foundation repairs?",
        "a": [
         [
-         "Yes. Removing stored belongings before waterproofing, foundation work, drainage improvements, or other repairs gives contractors unobstructed access to the areas they need to inspect and work on. It also helps protect personal belongings during the project."
+         "Yes. {{fact:structuralDemolition}}. It also helps protect personal belongings during the project."
         ]
        ]
       },

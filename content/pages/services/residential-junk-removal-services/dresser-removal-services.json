@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/07/Dresser-Removal-Services.webp"
  },
  "title": "Dresser Removal Services",
- "h1": "Most Trusted Residential Dresser Removal Nearby",
+ "h1": "Residential Dresser Removal Nearby",
  "published": "2026-07-09T04:01:48",
  "modified": "2026-07-23T05:24:16",
  "sections": [
@@ -21,12 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Most Trusted Residential Dresser Removal Nearby"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "The most reliable residential dresser removal service in town"
+     "text": "Residential Dresser Removal Nearby"
     },
     {
      "t": "ctas",
@@ -199,7 +194,7 @@
      "c": [
       {
        "b": [
-        "Need Your Dresser to Move soon? Same-Day Removal Available"
+        "Need Your Dresser to Move soon? Same-Day Removal may be available"
        ]
       }
      ]
@@ -231,23 +226,23 @@
       {
        "title": "Save Money on Big Jobs",
        "text": [
-        "Clearing out multiple rooms? We offer special discounts when removing several dressers or whole bedroom sets."
+        "Clearing out multiple rooms? {{fact:changedScope}}."
        ]
       },
       {
        "title": "Easy Booking by Phone or Online",
        "text": [
-        "Get on our schedule instantly online or by phone – no waiting for callbacks or complicated paperwork."
+        "Get on our schedule online or by phone – no waiting for callbacks or complicated paperwork."
        ]
       },
       {
        "title": "Lightning-Fast Service",
        "text": [
-        "What would take you hours of struggling, we complete in about 60 minutes, including careful removal and full cleanup."
+        "{{fact:cleanupScope}}."
        ]
       },
       {
-       "title": "Honest Prices Guaranteed",
+       "title": "Honest Prices",
        "text": [
         "{{fact:competitorComparison}}"
        ]
@@ -278,32 +273,13 @@
      "t": "ul",
      "items": [
       [
-       "We donate usable dressers to charities"
+       "{{fact:recycling}}"
       ],
       [
        "We recycle wood, metal, and glass components"
       ],
       [
        "We minimize landfill waste sustainably"
-      ]
-     ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "{{fact:freeOnsiteEstimates}}"
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "{{fact:competitorComparison}}"
-      ],
-      [
-       "{{fact:freeOnsiteEstimates}}"
-      ],
-      [
-       "Bulk removal discounts for offices"
       ]
      ]
     }
@@ -361,7 +337,7 @@
       {
        "title": "Send a Photo",
        "text": [
-        "Simply text or upload pictures of your dresser, and we will reply immediately."
+        "{{fact:pickupTimes}}"
        ]
       },
       {
@@ -400,11 +376,11 @@
      "images": [
       {
        "src": "/images/uploads/2026/07/exercise-equipment-removal-services_before.jfif_202607142211.jpeg_202607142228-1024x765.jpeg",
-       "alt": "exercise-equipment-removal-services_before"
+       "alt": "Dresser Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/exercise-equipment-removal-services_before.jfif_202607142211.jpeg_202607142229-1024x765.jpeg",
-       "alt": "exercise-equipment-removal-services_after"
+       "alt": "Dresser Removal: Live Junk Free job photo"
       }
      ]
     }

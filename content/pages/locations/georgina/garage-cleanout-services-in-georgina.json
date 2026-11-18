@@ -9,7 +9,7 @@
   "description": "Garage cleanout services in Georgina from Live Junk Free cost the same whether the garage looks out toward Lake Simcoe.",
   "canonical": "https://livejunkfree.ca/locations/georgina/garage-cleanout-services-in-georgina/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Garage-Cleanout-Services-in-Georgina-735x1024.jpg"
+  "ogImage": "/images/uploads/2026/08/Garage-Cleanout-Services-in-Ajax-735x1024.jpg"
  },
  "title": "Garage Cleanout Services in Georgina",
  "h1": "Garage Cleanout Services in Georgina from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Garage-Cleanout-Services-in-Georgina-scaled-rrue22e05ngdvcbxerpdnu1ztq7w46f9feeufbsqr4.jpg",
+      "src": "/images/uploads/elementor/thumbs/Garage-Cleanout-Services-in-Ajax-scaled-rru2wzn5zketx8x0ewh78jmetx2mpl6fy999jwh7qo.jpg",
       "alt": "Garage Cleanout Services in Georgina"
      }
     }
@@ -131,16 +131,7 @@
        "title": "No waterfront premium on garage cleanout, ever",
        "text": [
         [
-         "The number reflects the size of the job and the sorting it needs — never whether the garage looks out over the water or sits well inland."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Garage cleanout sorting for boat and dock equipment",
-       "text": [
-        [
-         "Boat gear, dock hardware and seasonal lake equipment get sorted with an understanding of what’s actually useful, not treated the same as ordinary clutter."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -150,24 +141,6 @@
        "text": [
         [
          "Where access to a cottage garage depends on the time of year, that gets planned around at the walkthrough rather than treated as a complication."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "One flat garage cleanout price, confirmed before anything moves",
-       "text": [
-        [
-         "A crew member sees the actual garage and gives one flat number before anything moves — no per-item guessing."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first garage cleanout sorting for tools and equipment",
-       "text": [
-        [
-         "Working tools, equipment and household items with life left in them go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -209,7 +182,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Village, Distance or Rural Premium, Ever"
      ]
     },
@@ -226,12 +198,6 @@
      "t": "price",
      "label": "Georgina Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -282,7 +248,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual garage, notes any boat or dock equipment involved, and gives you one flat price before anything moves."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -300,7 +266,7 @@
        "title": "Your Garage Is Usable",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready to actually use again."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready to actually use again."
         ]
        ]
       }
@@ -369,7 +335,7 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     }
@@ -387,12 +353,6 @@
      "items": [
       [
        "Garage and outbuilding cleanouts on rural properties away from the shoreline"
-      ],
-      [
-       "Same flat pricing regardless of distance from the lake"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ],
       [
        "Careful handling around working farm operations"
@@ -414,10 +374,7 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ]
      ]
     }
@@ -789,7 +746,7 @@
        "q": "How much do garage cleanout services cost in Georgina?",
        "a": [
         [
-         "Pricing is confirmed free at an on-site walkthrough based on volume and sorting needed — never on the property’s location. "
+         "{{fact:cleanupScope}}. "
         ]
        ]
       },

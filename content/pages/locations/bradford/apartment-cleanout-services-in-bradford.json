@@ -9,7 +9,7 @@
   "description": "Get reliable Apartment Cleanout Services in Bradford from Live Junk Free. We handle unwanted furniture, junk, and debris for a smooth property cleanout.",
   "canonical": "https://livejunkfree.ca/locations/bradford/apartment-cleanout-services-in-bradford/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Apartment-Cleanout-Services-in-Uxbridge.jpeg"
+  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Ajax.jpeg"
  },
  "title": "Apartment Cleanout Services in Bradford",
  "h1": "Apartment Cleanout Services in Bradford from Live Junk Free",
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Apartment cleanout services in Bradford from Live Junk Free cover a rental and condo stock that's grown right alongside the town itself — newer buildings around Summerlyn as much as older units through mid-town — with the same flat price whether the building went up last year or decades ago."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -136,15 +136,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "One flat apartment cleanout price, whatever the building's age",
-       "text": [
-        [
-         "Size and volume set the number, confirmed on site — it makes no difference whether the building is three years old or thirty."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Local landlord apartment cleanout coordination",
        "text": [
@@ -159,15 +150,6 @@
        "text": [
         [
          "Units in older mid-town buildings get sorted with the specific patience that history deserves."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first apartment cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -203,20 +185,13 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the unit, and how much sorting it genuinely needs. A lightly furnished apartment is a modest job. A unit left full after a tenancy takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A lightly furnished apartment is a modest job. A unit left full after a tenancy takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
      "t": "p",
      "c": [
       "What never enters the calculation is an assumption about the building’s age. A newer Summerlyn-area unit and an older Holland Street apartment get quoted by the identical formula — actual volume, not assumed history. The figure is confirmed for free at an on-site walkthrough."
-     ]
-    },
-    {
-     "t": "checks",
-     "items": [
-      "{{fact:competitorComparison}}",
-      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -236,7 +211,7 @@
     {
      "t": "p",
      "c": [
-      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -282,7 +257,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual unit and gives you one flat price before anything moves, with no obligation attached to hearing it."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -300,7 +275,7 @@
        "title": "The Unit Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready for whatever comes next."
         ]
        ]
       }
@@ -341,13 +316,7 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Same-day service for straightforward access"
-      ],
-      [
-       "Donation-first sorting before any recycling"
-      ],
-      [
-       "Same flat pricing as any other apartment cleanout"
+       "Service for straightforward access"
       ]
      ]
     },
@@ -372,7 +341,7 @@
        "Multi-visit scheduling for larger or more complex situations"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
        "Documentation available for the property file"
@@ -401,9 +370,6 @@
        "Scheduled around your move dates"
       ],
       [
-       "Same flat pricing regardless of who's on title"
-      ],
-      [
        "Sized to the reality of managing local rental units"
       ],
       [
@@ -426,16 +392,13 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -831,7 +794,7 @@
        "q": "Do you charge extra for a unit in a newer building?",
        "a": [
         [
-         "Never. The identical flat pricing applies whether the building is in Summerlyn or on Holland Street."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },

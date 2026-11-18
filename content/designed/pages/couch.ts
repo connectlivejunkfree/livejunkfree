@@ -38,7 +38,7 @@ export const COUCH: ItemContent = {
   },
   panels: [
     { icon: "stairs", title: "Stairs and tight spaces", text: "We disassemble pieces when needed and protect your floors and door frames throughout." },
-    { icon: "building", title: "Condos and apartments", text: "We service high-rises, condos, and walk-ups; no job is too tricky." },
+    { icon: "building", title: "Condos and apartments", text: "We work in high-rises, condos and walk-ups. Tell us the floor, elevator and access when you request a quote." },
     { icon: "leaf", leaf: true, title: "Donated when possible", text: "Responsible disposal through recycling centers or donation partners." },
     { icon: "box", title: "Add other items", text: "Removing a couch and a few other items? Tell us everything and we'll price it as one job." },
   ],

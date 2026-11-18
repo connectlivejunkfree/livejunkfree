@@ -9,7 +9,7 @@
   "description": "Table Removal Services from Live Junk Free — an insured crew disassembles, carries out and hauls away any table, from a dining set to a full slate pool table.",
   "canonical": "https://livejunkfree.ca/services/residential-junk-removal-services/table-removal-services/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/table-removal.webp"
+  "ogImage": "/images/uploads/2026/08/wood-removal.webp"
  },
  "title": "Table Removal Services",
  "h1": "Table Removal Services from Live Junk Free",
@@ -86,13 +86,13 @@
     {
      "t": "p",
      "c": [
-      "Live Junk Free clears tables the same way it clears everything else: a free on-site quote, one flat price, and same-day removal in most cases. A table that’s too heavy or too large to move in one piece — a full slate pool table, a solid wood dining set, a boardroom conference table — gets broken down into manageable sections by a crew that’s done it before."
+      "{{fact:changedScope}}. A table that’s too heavy or too large to move in one piece — a full slate pool table, a solid wood dining set, a boardroom conference table — gets broken down into manageable sections by a crew that’s done it before."
      ]
     },
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/2026/08/table-removal.webp",
+      "src": "/images/uploads/2026/08/wood-removal.webp",
       "alt": "table removal",
       "width": 800,
       "height": 534
@@ -129,7 +129,7 @@
       },
       {
        "n": "02",
-       "title": "One flat price, whatever the table type",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number covers carrying, any needed disassembly, and haul-away — confirmed at the walkthrough, held through to the invoice."
@@ -207,8 +207,7 @@
     {
      "t": "checks",
      "items": [
-      "Junk Removal + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Junk Removal + Haul-Away in One Number"
      ]
     },
     {
@@ -271,16 +270,7 @@
        "title": "Book Your Table Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the table, measures the exit route, and gives you one flat price before touching anything."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       },
@@ -351,7 +341,7 @@
        "Coordination with delivery dates if a new table is arriving"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     },
@@ -400,9 +390,6 @@
       ],
       [
        "Office cleanout coordination alongside table removal"
-      ],
-      [
-       "Multi-unit and portfolio scheduling for property managers"
       ]
      ]
     },
@@ -510,7 +497,7 @@
        "q": "How much does table removal cost?",
        "a": [
         [
-         "Pricing is confirmed free at an on-site walkthrough and scales with the table’s size, weight and how much disassembly is needed — all in one flat number."
+         "{{fact:changedScope}}."
         ]
        ]
       },

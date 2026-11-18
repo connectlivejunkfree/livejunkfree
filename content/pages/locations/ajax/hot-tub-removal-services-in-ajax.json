@@ -6,10 +6,10 @@
  "template": "LocationService",
  "seo": {
   "title": "Hot Tub Removal Services in Ajax - Live JunkFree",
-  "description": "Hot Tub Removal Services in Ajax from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub.",
+  "description": "{{fact:utilityDisconnection}}",
   "canonical": "https://livejunkfree.ca/locations/ajax/hot-tub-removal-services-in-ajax/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Hot-Tub-Removal-Services-in-Bolton.jpeg"
+  "ogImage": "/images/uploads/2026/07/Hot-Tub-Removal-Services-in-Oshawa.jpeg"
  },
  "title": "Hot Tub Removal Services in Ajax",
  "h1": "Hot Tub Removal Services in Ajax from Live Junk Free",
@@ -22,11 +22,6 @@
      "t": "h",
      "l": 1,
      "text": "Hot Tub Removal Services in Ajax from Live Junk Free"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Hot Tub Removal Services in Ajax from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub, booked against a real completion date, quoted flat on site."
     },
     {
      "t": "ctas",
@@ -80,7 +75,7 @@
     {
      "t": "p",
      "c": [
-      "Hot tub removal in Ajax typically runs from a modest fee for a small portable spa up to a higher flat price for a full six-or-seven-seat unit, confirmed for free at an on-site walkthrough — with a completion date attached, not just a price."
+      "{{fact:changedScope}}."
      ]
     },
     {
@@ -128,38 +123,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "One flat price, confirmed before the clock starts",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Free on-site quotes with a completion date attached",
-       "text": [
-        [
-         "A crew member walks the tub and gives one flat price alongside a real finish date, not just a number floating with no timeline behind it."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "Pre-listing removal that gets a property show-ready",
        "text": [
         [
          "An old tub that won’t help a listing’s photos comes down cleanly, with the site left tidy enough for a realtor to walk through the same week."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Draining and disconnection handled the safe way",
-       "text": [
-        [
-         "Water drains responsibly first, and any electrical hookup is confirmed dead before the crew touches it — a hardwired 240V line needs prior disconnection by a licensed electrician."
         ]
        ]
       },
@@ -193,15 +161,8 @@
      "text": "HOT TUB REMOVAL PRICING"
     },
     {
-     "t": "p",
-     "c": [
-      "Every quote is one flat number covering four things: draining the tub, disconnecting any electrical, cutting the shell into sections, and hauling it away for disposal or recycling — paired with a written completion date."
-     ]
-    },
-    {
      "t": "checks",
      "items": [
-      "Drain + Disconnect + Cut-Out + Haul-Away",
       "No Rooftop Surcharges"
      ]
     },
@@ -250,7 +211,7 @@
     {
      "t": "p",
      "c": [
-      "A hot tub removal appointment follows four steps: booking, a free on-site quote, the drain-and-cut-out process, and same-day haul-away when available."
+      "{{fact:utilityDisconnection}}"
      ]
     }
    ]
@@ -266,33 +227,6 @@
        "text": [
         [
          "Call +1 647 922 5865 or book online. Tell the crew the date it needs to be done by."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote and Completion Date",
-       "text": [
-        [
-         "The crew looks at the tub and gives you one flat price with a finish date built to beat the real deadline comfortably."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "The Tub Gets Drained, Cut and Removed",
-       "text": [
-        [
-         "Water drains responsibly, the shell gets cut into sections that clear your gate or fence line, and the work tracks against the date agreed."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Your Yard Is Clear Before the Date That Matters",
-       "text": [
-        [
-         "Metal components, motors and pumps are routed to recycling and the rest is disposed of responsibly — well ahead of the real deadline."
         ]
        ]
       }
@@ -368,14 +302,6 @@
      "t": "h",
      "l": 3,
      "text": "Standard Backyard Hot Tub Removal in Ajax"
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "For any property with no hard deadline: same-day removal when available, same flat pricing."
-      ]
-     ]
     }
    ]
   },
@@ -765,7 +691,7 @@
        "q": "Can you work around a move-out, closing or lease deadline?",
        "a": [
         [
-         "Not in a way that complicates the process, just the pricing math. The crew sizes up appropriately for a larger tub and quotes accordingly, with the same one-flat-number approach as a smaller job."
+         "Not in a way that complicates the process, just the pricing math. {{fact:changedScope}}."
         ]
        ]
       },
@@ -773,7 +699,7 @@
        "q": "Our realtor flagged our hot tub as something buyers won't love in photos — can you help?",
        "a": [
         [
-         "No — draining is part of the service. No hose, pump, or prep needed beyond reasonably clear access."
+         "{{fact:utilityDisconnection}}"
         ]
        ]
       },
@@ -781,7 +707,7 @@
        "q": "We just bought a lot in Audley with an old tub on it — can it be cleared before our build starts?",
        "a": [
         [
-         "Only once the power is confirmed off. A hardwired 240V connection needs prior disconnection by a licensed electrician."
+         "Only once the power is confirmed off. {{fact:utilityDisconnection}}"
         ]
        ]
       },

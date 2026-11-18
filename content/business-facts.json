@@ -38,10 +38,10 @@
   "minimumPrice": {
     "status": "confirmed",
     "question": "Answers A1.3",
-    "value": 125,
-    "display": "C$125",
-    "text": "Junk Load from C$125 (1/16 load, 1 cubic yard). The final quote depends on the items, access and work required and will be confirmed before removal begins",
-    "short": "Junk Load from C$125"
+    "value": "{{rate:junkLoad.1/16.n}}",
+    "display": "{{rate:junkLoad.1/16}}",
+    "text": "Junk Load from {{rate:junkLoad.1/16}} (1/16 load, 1 cubic yard). The final quote depends on the items, access and work required and will be confirmed before removal begins",
+    "short": "Junk Load from {{rate:junkLoad.1/16}}"
   },
   "quoteText": {
     "status": "confirmed",
@@ -152,9 +152,9 @@
   "fullLoadPrice": {
     "status": "confirmed",
     "question": "Answers A1.4",
-    "value": 655,
-    "display": "C$655",
-    "text": "A full Junk Load (16 cubic yards) is C$655"
+    "value": "{{rate:junkLoad.Full.n}}",
+    "display": "{{rate:junkLoad.Full}}",
+    "text": "A full Junk Load (16 cubic yards) is {{rate:junkLoad.Full}}"
   },
   "pricingIntro": {
     "status": "confirmed",
@@ -232,5 +232,35 @@
     "status": "confirmed",
     "question": "Manisha follow-up, 18 Nov 2026",
     "text": "Structural or attached demolition work is subject to assessment and isn’t guaranteed for every project"
+  },
+  "changedScope": {
+    "status": "confirmed",
+    "question": "QA 18 Nov (prompt v3) safe wording; Answers A1.7",
+    "text": "Your price is agreed before work starts. If the items or access change, we confirm a new price with you before continuing"
+  },
+  "equipmentScope": {
+    "status": "confirmed",
+    "question": "QA 18 Nov (prompt v3) safe wording; Answers B5.10, B5.16",
+    "text": "Ask us about racking, large equipment or heavy materials; the scope is confirmed at the onsite estimate"
+  },
+  "hotTubPrep": {
+    "status": "pending-nav",
+    "question": "QA 18 Nov (prompt v3) safe wording; Answers B5.6 (logged for Nav)",
+    "text": "The hot tub must be drained and its power disconnected by a qualified person before pickup"
+  },
+  "waterTankPrep": {
+    "status": "pending-nav",
+    "question": "QA 18 Nov (prompt v3) safe wording; Answers B5.7 (logged for Nav)",
+    "text": "The tank must be drained and disconnected by a qualified person before pickup"
+  },
+  "deckPrep": {
+    "status": "pending-nav",
+    "question": "QA 18 Nov (prompt v3) safe wording; Answers B5.12 (logged for Nav)",
+    "text": "Any electrical or hot-tub connections must be safely disconnected by a qualified person; we confirm responsibility before work starts"
+  },
+  "pickupTimes": {
+    "status": "confirmed",
+    "question": "QA 18 Nov (prompt v3) safe wording; Answers B2.1",
+    "text": "Pickup times agreed with you"
   }
 }

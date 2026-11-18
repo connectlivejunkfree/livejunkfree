@@ -9,7 +9,7 @@
   "description": "Storage Unit Cleanout Services in Brampton for clearing unwanted items, old furniture, and clutter with fast, convenient junk removal.",
   "canonical": "https://livejunkfree.ca/locations/brampton/storage-unit-cleanout-services-in-brampton/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Storage-Unit-Cleanout-Services-in-Whitby.jpeg"
+  "ogImage": "/images/uploads/2026/08/Storage-Unit-Cleanout-Services-in-Oshawa.jpeg"
  },
  "title": "Storage Unit Cleanout Services in Brampton",
  "h1": "Storage Unit Cleanout Services in Brampton from Live Junk Free",
@@ -149,24 +149,6 @@
        ]
       },
       {
-       "n": "04",
-       "title": "{{fact:nextAvailable}}",
-       "text": [
-        [
-         "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first storage unit cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
-        ]
-       ]
-      },
-      {
        "n": "06",
        "title": "Independent storage unit cleanout pricing",
        "text": [
@@ -198,7 +180,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how full the unit actually is, and how much sorting it genuinely needs. A small unit is a modest job. A larger unit with years of accumulated belongings from more than one household member takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small unit is a modest job. A larger unit with years of accumulated belongings from more than one household member takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -231,7 +213,7 @@
     {
      "t": "p",
      "c": [
-      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -277,7 +259,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual unit and gives you one flat price before anything moves, sized to the real job regardless of the unit’s size."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -295,7 +277,7 @@
        "title": "Your Unit Is Empty and Ready to Return",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready to hand back to the facility."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready to hand back to the facility."
         ]
        ]
       }
@@ -333,13 +315,7 @@
        "Coordination across household members with different preferences"
       ],
       [
-       "Same flat pricing regardless of how many people contributed to the unit"
-      ],
-      [
-       "Donation-first sorting for fixtures and inventory still usable"
-      ],
-      [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Documentation available where needed"
@@ -364,13 +340,10 @@
        "Crew and equipment scaled appropriately to the real job"
       ],
       [
-       "Same flat pricing structure regardless of unit size"
-      ],
-      [
        "Multi-visit scheduling for larger or more complex situations"
       ],
       [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ]
      ]
     }
@@ -396,13 +369,7 @@
        "Consistent scheduling availability city-wide"
       ],
       [
-       "Same flat pricing structure everywhere in Brampton"
-      ],
-      [
-       "Same-day service for straightforward access"
-      ],
-      [
-       "Multi-item scoping available where more than one unit needs to go"
+       "Service for straightforward access"
       ]
      ]
     },
@@ -421,16 +388,13 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }

@@ -6,10 +6,10 @@
  "template": "LocationService",
  "seo": {
   "title": "Hot Tub Removal Services in Port Perry - Live JunkFree",
-  "description": "Hot Tub Removal Services in Port Perry from Live Junk Free — done safely and in one visit, draining, disconnecting, cutting apart.",
+  "description": "{{fact:utilityDisconnection}}",
   "canonical": "https://livejunkfree.ca/locations/port-perry/hot-tub-removal-services-in-port-perry/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/07/Hot-Tub-Removal-Services-in-Port-Perry.jpeg"
+  "ogImage": "/images/uploads/2026/07/Hot-Tub-Removal-Services-in-Toronto.jpeg"
  },
  "title": "Hot Tub Removal Services in Port Perry",
  "h1": "Hot Tub Removal Services in Port Perry from Live Junk Free",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Pickering’s hot tubs tell the same story as its houses — some have been sitting unused since the eighties, and some just arrived with a new-build lot. In Bay Ridges and West Shore, the city’s original bungalow and sidesplit streets, it’s a tub the first owners installed decades ago, drained and cleared as the house finally gets its renovation. Through Liverpool, Village East and Dunbarton, it’s straightforward backyard removal ahead of a deck or patio rebuild. On the larger lots of Rougemount, Rosebank and Highbush, it’s tubs cleared to make room for additions and bigger backyard plans. And in rising Seaton, it’s a different job entirely — old tubs left behind on newly acquired lots, cleared before construction or landscaping begins. The Google reviews behind Live Junk Free come from every one of those addresses — a hot tub removal crew that drained it properly, cut it down safely without wrecking the deck underneath, and hauled every piece away the same visit, whichever decade the tub came from."
+      "Pickering’s hot tubs tell the same story as its houses — some have been sitting unused since the eighties, and some just arrived with a new-build lot. {{fact:utilityDisconnection}} Through Liverpool, Village East and Dunbarton, it’s straightforward backyard removal ahead of a deck or patio rebuild. On the larger lots of Rougemount, Rosebank and Highbush, it’s tubs cleared to make room for additions and bigger backyard plans. And in rising Seaton, it’s a different job entirely — old tubs left behind on newly acquired lots, cleared before construction or landscaping begins."
      ]
     },
     {
@@ -114,10 +114,10 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat hot tub removal price — no postcard premium",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "A hot tub isn’t a normal junk item, and Live Junk Free’s quote reflects the real work: draining the water, disconnecting whatever needs disconnecting, cutting the shell into manageable sections, and hauling every piece away. The number is identical whether the tub sits on Queen Street or at the end of an island lane — no scenic-town markup, no waterfront premium, ever."
+         "{{fact:utilityDisconnection}} The number is identical whether the tub sits on Queen Street or at the end of an island lane — no scenic-town markup, no waterfront premium, ever."
         ]
        ]
       },
@@ -126,16 +126,7 @@
        "title": "Free on-site hot tub removal quotes anywhere in Scugog",
        "text": [
         [
-         "A Live Junk Free crew member comes to your property — Victorian home, waterfront cottage, farmhouse — looks at the tub’s size, condition and access, and gives you one flat number before anything happens. Free visit, no obligation, and no guessing over the phone."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Draining and disconnection handled the safe way",
-       "text": [
-        [
-         "Water gets drained responsibly before anything else happens, and any electrical hookup — a hardwired 240V line is common — gets confirmed dead before we touch it, with a licensed electrician’s prior disconnection required if the tub was still wired live. We don’t cut into anything until it’s genuinely safe to."
+         "{{fact:changedScope}}. Free visit, no obligation, and no guessing over the phone."
         ]
        ]
       },
@@ -178,11 +169,6 @@
     },
     {
      "t": "h",
-     "l": 2,
-     "text": "Hot Tub Removal Cost in Port Perry — One Flat Price From Live Junk Free"
-    },
-    {
-     "t": "h",
      "l": 3,
      "text": "What's Inside Every Port Perry Hot Tub Removal Quote"
     },
@@ -195,7 +181,6 @@
     {
      "t": "checks",
      "items": [
-      "Drain + Disconnect + Cut-Out + Haul-Away",
       "No Rooftop Surcharges"
      ]
     },
@@ -259,7 +244,7 @@
        "title": "Book Your Hot Tub Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots are usually available. Tell us the tub’s rough size and location, town or waterfront."
+         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots when available are usually available. Tell us the tub’s rough size and location, town or waterfront."
         ]
        ]
       },
@@ -268,16 +253,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the tub, confirms any electrical is safely disconnected, checks the path out to the truck — including any island or dock access — and gives you one flat price before touching anything. No pressure — decline and there’s no charge."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "The Tub Gets Drained, Cut and Removed",
-       "text": [
-        [
-         "Water drains responsibly, the shell gets cut into sections that clear your gate or fence line, and every piece — acrylic, foam, wood, metal — carries out without dragging across your lawn or deck."
+         "{{fact:changedScope}}. No pressure — decline and there’s no charge."
         ]
        ]
       },
@@ -286,7 +262,7 @@
        "title": "Your Yard Is Clear",
        "text": [
         [
-         "The space where the tub sat gets left clean, with metal components, motors and pumps routed to recycling and the rest disposed of responsibly."
+         "{{fact:utilityDisconnection}}"
         ]
        ]
       }
@@ -339,7 +315,7 @@
        "Careful, unhurried handling around established gardens"
       ],
       [
-       "Same-day service for straightforward downtown access"
+       "Service for straightforward downtown access"
       ]
      ]
     },
@@ -365,9 +341,6 @@
       ],
       [
        "Concrete pad or base removal available alongside the tub"
-      ],
-      [
-       "Same flat pricing as anywhere else in the township"
       ]
      ]
     }
@@ -390,16 +363,10 @@
        "Tubs left by a previous owner, cleared alongside anything else in the yard"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Multi-structure properties with more than one tub or spa"
       ],
       [
        "Careful handling around working farm operations"
-      ],
-      [
-       "Same flat pricing regardless of distance from town"
       ]
      ]
     },
@@ -427,7 +394,7 @@
        "Documentation available if needed for a sale or estate file"
       ],
       [
-       "Same-day completion for most straightforward removals"
+       "Completion for most straightforward removals"
       ]
      ]
     }
@@ -827,7 +794,7 @@
        "q": "Do I need to drain the hot tub myself before you arrive?",
        "a": [
         [
-         "No — draining is part of the service. The Live Junk Free crew handles it safely on arrival, and you don’t need a hose, a pump, or any prep beyond making sure the area around the tub is reasonably accessible."
+         "{{fact:utilityDisconnection}}"
         ]
        ]
       },
@@ -843,7 +810,7 @@
        "q": "Can you remove a hot tub on Scugog Island or a waterfront cottage?",
        "a": [
         [
-         "Regularly, and gently. Dock access, shoreline decking and seasonal scheduling all get planned at the walkthrough, with the same flat pricing as any other Port Perry property."
+         "Regularly, and gently. {{fact:changedScope}}."
         ]
        ]
       }

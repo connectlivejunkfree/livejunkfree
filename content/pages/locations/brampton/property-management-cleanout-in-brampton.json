@@ -9,7 +9,7 @@
   "description": "Live Junk Free provides property management cleanout in Brampton for landlords, homeowners and property managers across Bramalea, ...",
   "canonical": "https://livejunkfree.ca/locations/brampton/property-management-cleanout-in-brampton/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Property-Management-Cleanout-rotated.jpg"
+  "ogImage": "/images/uploads/2026/08/Retail-Cleanout-Services-rotated.jpg"
  },
  "title": "Property Management Cleanout in Brampton",
  "h1": "Property Management Cleanout in Brampton",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Most Brampton rental units sit inside occupied family homes, and we plan every property management cleanout around that. The owner lives upstairs. There may be children, elderly parents, or family working shifts and sleeping during the day. A crew that treats the job like an empty building — propping the front door, staging furniture in the hallway, working loudly through the afternoon — creates a problem for the household long after the truck leaves. We route everything through the separate entrance, protect shared stairs and driveways, and keep the rental unit cleanout contained to the unit itself."
+      "Most Brampton rental units sit inside occupied family homes, and we plan every property management cleanout around that. The owner lives upstairs. There may be children, elderly parents, or family working shifts and sleeping during the day. A crew that treats the job like an empty building — propping the front door, staging furniture in the hallway, working loudly through the afternoon — creates a problem for the household long after the truck leaves."
      ]
     },
     {
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Property-Management-Cleanout-rotated-rsgmt9p6otpmll2kr8g1vez727otli1czd8xjyuj78.jpg",
+      "src": "/images/uploads/elementor/thumbs/Retail-Cleanout-Services-rotated-rsihk2kt4iyt4qv82uxcq2s5v4l03ezuo4ufls6th0.jpg",
       "alt": "Property Management Cleanout"
      }
     }
@@ -135,16 +135,7 @@
        "title": "Secondary suite cleanouts handled with discretion",
        "text": [
         [
-         "Basement apartment turnovers in residential neighbourhoods draw attention nobody wants. We attend in unmarked vehicles where preferred, keep the work contained, and complete the rental unit cleanout without becoming the event on the street that day."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "",
-       "text": [
-        [
-         ""
+         "Basement apartment turnovers in residential neighbourhoods draw attention nobody wants."
         ]
        ]
       },
@@ -273,7 +264,7 @@
      "c": [
       {
        "b": [
-        "Your property management cleanout cost in Brampton is determined by the volume of material and the sorting it requires."
+        "{{fact:cleanupScope}}."
        ]
       },
       " A basement suite returned in reasonable order after a short tenancy is a straightforward job. A unit left fully furnished — beds in every room, appliances still connected, electronics, exercise equipment, and a garage or storage area holding household items accumulated across several years — is substantially larger, and we quote it for what is genuinely present."
@@ -309,7 +300,7 @@
     {
      "t": "p",
      "c": [
-      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -355,7 +346,7 @@
        "title": "Free on-site walkthrough and one flat property management cleanout price",
        "text": [
         [
-         "Our crew assesses the rental unit along with any garage, shed or storage area included in scope. We provide one flat price per unit before any work begins and hold that figure through to completion."
+         "Our crew assesses the rental unit along with any garage, shed or storage area included in scope. {{fact:changedScope}}."
         ]
        ]
       },
@@ -373,7 +364,7 @@
        "title": "Vacant rental unit returned ready to list",
        "text": [
         [
-         "The unit is left swept and empty, with the shared areas of your home exactly as we found them."
+         "The unit is left and empty, with the shared areas of your home exactly as we found them."
         ]
        ]
       }
@@ -546,7 +537,7 @@
      "t": "ul",
      "items": [
       [
-       "Property management cleanouts between tenancies can be scheduled around your listing date to help ensure the vacant rental unit is ready for photographs and showings. Short-notice tenant turnover cleanout requests can be accommodated, with property management cleanout pricing unaffected by a compressed timeline. Same-day property management cleanout in Brampton is available where access permits, with the vacant rental unit returned swept and ready to show."
+       "Property management cleanouts between tenancies can be scheduled around your listing date to help ensure the vacant rental unit is ready for photographs and showings. Short-notice tenant turnover cleanout requests can be accommodated, with property management cleanout pricing unaffected by a compressed timeline. Same-day property management cleanout when available in Brampton is available where access permits, with the vacant rental unit returned and ready to show."
       ]
      ]
     },
@@ -1140,7 +1131,7 @@
          "2. What happens when a tenant leaves a rental unit full of unwanted belongings?"
         ],
         [
-         "After the landlord or property manager confirms which belongings are authorized for removal, our crew can clear the unit. We handle the lifting, loading, hauling, and sorting of the approved items."
+         "After the landlord or property manager confirms which belongings are authorized for removal, our crew can clear the unit. {{fact:cleanupScope}}."
         ],
         [
          "3. Can you clear a property before it is shown to prospective tenants?"

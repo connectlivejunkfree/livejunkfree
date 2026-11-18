@@ -87,7 +87,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/elementor/thumbs/eviction-cleanout-services-rr0twsm2u8xtgkjom4gto2kqxytsdwvxwo5bvurnp0.jpeg",
-      "alt": "eviction-cleanout-services"
+      "alt": "Eviction Cleanout in Richmond Hill: Live Junk Free job photo"
      }
     }
    ]
@@ -106,7 +106,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "An eviction can create a tight turnaround between one tenant leaving and the property being prepared for another. Live Junk Free provides a Richmond Hill eviction cleanout service that brings removal, hauling and final sweeping together instead of leaving landlords to coordinate the heavy work themselves."
+     "text": "An eviction can create a tight turnaround between one tenant leaving and the property being prepared for another."
     }
    ]
   },
@@ -175,15 +175,6 @@
        "text": [
         [
          "Eviction cleanouts can contain furniture, electronics, metals, clothing and recyclable materials. Where practical, eligible items are sorted for recycling or donation, while remaining accepted materials are handled through responsible disposal methods."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Final Sweep After Your Richmond Hill Eviction Cleanout",
-       "text": [
-        [
-         "After the agreed items have been removed, our crew sweeps the cleared areas. This gives landlords and property managers a tidier space to work with when preparing the property for cleaning, repairs or a new occupant."
         ]
        ]
       }
@@ -339,7 +330,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -403,7 +394,7 @@
        "title": "We Remove It All",
        "text": [
         [
-         "Our crew handles the lifting, loading and hauling of the agreed items. Once the removal is complete, we sweep the cleared areas and leave the property more manageable."
+         "Our crew handles the lifting, loading and hauling of the agreed items. {{fact:cleanupScope}}."
         ]
        ]
       }
@@ -1192,7 +1183,7 @@
        "q": "What is included in an eviction cleanout in Richmond Hill?",
        "a": [
         [
-         "A Richmond Hill eviction cleanout can include the removal of unwanted furniture, mattresses, appliances, electronics, clothing, trash, recyclables and other accepted belongings. Cleanouts can cover rooms, garages and basements, followed by a final sweep of the cleared areas. "
+         "A Richmond Hill eviction cleanout can include the removal of unwanted furniture, mattresses, appliances, electronics, clothing, trash, recyclables and other accepted belongings. {{fact:cleanupScope}}. "
         ]
        ]
       },
@@ -1200,7 +1191,7 @@
        "q": "Do you offer same-day eviction cleanouts in Richmond Hill?",
        "a": [
         [
-         "Yes. Live Junk Free offers same-day and next-day eviction cleanout services in Richmond Hill when appointments are available. Contact us as soon as you know the property needs to be cleared so we can determine the earliest available option. "
+         "Yes. Live Junk Free offers same-day and next-day eviction cleanout services when available in Richmond Hill when appointments are available. Contact us as soon as you know the property needs to be cleared so we can determine the earliest available option. "
         ]
        ]
       },

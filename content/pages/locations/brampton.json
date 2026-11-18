@@ -106,7 +106,7 @@
     {
      "t": "p",
      "c": [
-      "That’s where Live Junk Free comes in. We handle the full job — carrying, hauling, and responsible disposal — across all of Brampton, with same-day and next-day availability in most neighbourhoods. Give us a call and we’ll handle the rest."
+      "That’s where Live Junk Free comes in. {{fact:scheduling}} Give us a call and we’ll handle the rest."
      ]
     },
     {
@@ -137,44 +137,14 @@
      "text": "Six Reasons Brampton Keeps Calling Live Junk Free"
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "We Actually Know Brampton",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "There's a big difference between knowing Brampton exists and knowing how to navigate a job in a Northwest Brampton new build versus an older semi in Bramalea. We work across the city regularly — familiar with the roads, the property types, and the kinds of access challenges that come with each area. No learning curve when we show up to your job."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Service That's Real, Not Just A Tagline",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "A lot of companies advertise same-day removal when available and mean \"maybe later this week.\" We don't. We keep slots available throughout the week, including weekends, because we know Brampton schedules don't always line up with Monday-to-Friday availability."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Every Load Sorted-Not Just Taken",
-       "text": []
-      }
-     ]
+     "text": "A lot of companies advertise same-day removal when available and mean \"maybe later this week.\" We don't. We keep slots available throughout the week, including weekends, because we know Brampton schedules don't always line up with Monday-to-Friday availability, subject to scheduling."
     },
     {
      "t": "h",
@@ -182,29 +152,9 @@
      "text": "Usable furniture and appliances don't go straight to disposal. We route them to local Brampton-area donation partners first. What's recyclable metals, electronics, materials, goes to recycling facilities. Only what genuinely has no other option ends up at a dump. That's the standard on every job, not just the easy ones."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "One Quote. That's The Number",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Before anything gets lifted, you get a price. That number is based on what we actually see — truck volume, item type, access complexity. And it doesn't move once we've started. No fuel levy added to the invoice. Brampton junk removal with us means the quote you approve is the number you pay."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Your Home Stays In One Piece",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -212,19 +162,9 @@
      "text": "Moving a fridge through a narrow hallway or carrying a sectional down a staircase is how walls get dented and floors get scratched — if it's not done right. {{fact:propertyProtection}}. Licensed and insured, with the kind of care that means you're not filing a damage complaint after we leave."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Residential And Commercial — We Handle Both",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Single-bedroom clearout or a full office decommission across a Brampton commercial property — same crew, same approach, same pricing transparency. We work with homeowners, landlords, property managers, and businesses throughout the city. Bigger jobs get volume pricing that makes the per-unit cost more efficient."
+     "text": "Single-bedroom clearout or a full office decommission across a Brampton commercial property — same crew, same approach, same pricing transparency. We work with homeowners, landlords, property managers, and businesses throughout the city."
     }
    ]
   },
@@ -286,7 +226,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "No heavy lifting, no logistics headaches, no price surprises — our Brampton crew takes care of it all."
+     "text": "No heavy lifting, no logistics headaches, no price surprises — our crew takes care of it all."
     },
     {
      "t": "cards",
@@ -294,7 +234,7 @@
       {
        "title": "Easy Brampton Booking",
        "text": [
-        "Call us or use our quick online form — takes two minutes. Tell us what's coming out, roughly how much there is, and where in Brampton you're located. We'll confirm a time slot right away. Same-day is available most days, so you're not waiting around for a window that suits us more than you."
+        "Call us or use our quick online form — takes two minutes. Tell us what's coming out, roughly how much there is, and where in Brampton you're located. We'll confirm a time slot right away. {{fact:scheduling}}"
        ]
       },
       {
@@ -304,9 +244,9 @@
        ]
       },
       {
-       "title": "Efficient Removal, Professional Cleanup",
+       "title": "Efficient Removal",
        "text": [
-        "We carry every item out ourselves — up or down stairs, through whatever access the property has. The truck gets loaded, the space gets swept, and we're out. You don't have to help, supervise, or clean up after us. That's included."
+        "We carry every item out ourselves — up or down stairs, through whatever access the property has. The truck gets loaded, the space gets, and we're out. You don't have to help, supervise, or clean up after us. That's included."
        ]
       },
       {
@@ -477,13 +417,7 @@
         "Residential"
        ]
       },
-      ": Brampton families call us for all kinds of reasons. A basement in Springdale that’s been filling up for years. A garage in Heart Lake that became a storage unit somewhere along the way. A parent’s home in Chinguacousy that needs to be cleared before it goes on the market. Whatever the situation, Live Junk Free works around your schedule and handles the full job in a single visit wherever possible. Same-day, subject to scheduling. ",
-      {
-       "b": [
-        "junk removal services in Brampton"
-       ]
-      },
-      " Timing confirmed at your estimate"
+      ": Brampton families call us for all kinds of reasons. A basement in Springdale that’s been filling up for years. A garage in Heart Lake that became a storage unit somewhere along the way. A parent’s home in Chinguacousy that needs to be cleared before it goes on the market. Whatever the situation, Live Junk Free works around your schedule and handles the full job in a single visit wherever possible. {{fact:sameDay}}."
      ]
     },
     {
@@ -530,7 +464,7 @@
        "q": "Q1: How quickly can you do junk removal in Brampton?",
        "a": [
         [
-         "A: Same-day service is available in Brampton most days including weekends. ",
+         "{{fact:pickupTimes}} ",
          {
           "a": "tel:+16479225865",
           "c": [

@@ -9,7 +9,7 @@
   "description": "Piano Removal Services in Newmarket from Live Junk Free — an experienced crew moves upright, baby grand and grand pianos safely.",
   "canonical": "https://livejunkfree.ca/locations/new-market/piano-removal-services-in-new-market/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Piano-Removal-in-Nobleton.jpg"
+  "ogImage": "/images/uploads/2026/08/Piano-Removal-in-Oshawa.jpg"
  },
  "title": "Piano Removal Services in Newmarket",
  "h1": "Piano Removal Services in Newmarket from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/2026/08/Piano-Removal-in-Nobleton.jpg",
+      "src": "/images/uploads/2026/08/Piano-Removal-in-Oshawa.jpg",
       "alt": "Piano Removal in Nobleton",
       "width": 618,
       "height": 496
@@ -120,7 +120,7 @@
      "items": [
       {
        "n": "01",
-       "title": "Weekend removal, no premium for the privilege",
+       "title": "Weekend removal, no premium for the privilege (subject to scheduling)",
        "text": [
         [
          "The price a crew gives at the walkthrough is the same whether the job happens on a Tuesday or a Saturday."
@@ -132,7 +132,7 @@
        "title": "Free on-site quotes booked around your actual availability",
        "text": [
         [
-         "A crew member comes when you’re free, measures doorways and staircase turns, and gives one flat number with a schedule built around your week."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -155,20 +155,11 @@
        ]
       },
       {
-       "n": "05",
-       "title": "{{fact:weekendPickup}}",
-       "text": [
-        [
-         "Households who can only be home after work get the same crew and the same flat number as anyone available at 10am on a Tuesday."
-        ]
-       ]
-      },
-      {
        "n": "06",
        "title": "Independent pricing",
        "text": [
         [
-         "National moving and junk removal franchises build a royalty into every quote, and some charge extra for weekend work. Live Junk Free does neither."
+         "National moving and junk removal franchises build a royalty into every quote, and some charge extra for weekend work, subject to scheduling. Live Junk Free does neither."
         ]
        ]
       }
@@ -201,8 +192,7 @@
     {
      "t": "checks",
      "items": [
-      "Move + Disassembly + Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Move + Disassembly + Haul-Away"
      ]
     },
     {
@@ -265,16 +255,7 @@
        "title": "Book Your Piano Removal Visit in Newmarket",
        "text": [
         [
-         "Call +1 647 922 5865 or book online, at whatever hour actually works — same-day and weekend slots are usually available."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote — Route Measured First",
-       "text": [
-        [
-         "The crew measures doorways and staircase turns, checks whether legs or lids need to come off, and gives you one flat price."
+         "Call +1 647 922 5865 or book online, at whatever hour actually works — same-day and weekend slots are usually available, subject to scheduling."
         ]
        ]
       },
@@ -336,13 +317,10 @@
        "Careful stairwell and doorway maneuvering with proper equipment"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Wall, corner and staircase protection throughout"
       ],
       [
-       "Same-day piano pick up for straightforward downtown access"
+       "Piano pick up for straightforward downtown access"
       ],
       [
        "Careful, unhurried handling around established properties"
@@ -352,7 +330,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Family Subdivision Weekend Piano Removal in Newmarket"
+     "text": "Family Subdivision Weekend Piano Removal in Newmarket (subject to scheduling)"
     },
     {
      "t": "ul",
@@ -361,7 +339,7 @@
        "Saturday and Sunday removal across Stonehaven and Summerhill Estates"
       ],
       [
-       "Evening scheduling for households that can only be home after work"
+       "Evening scheduling for households that can only be home after work (subject to scheduling)"
       ],
       [
        "Legs, lid and pedals detached where the move requires it"
@@ -373,7 +351,7 @@
        "Full protection of finished floors throughout"
       ],
       [
-       "Same-day completion for most straightforward removals"
+       "Completion for most straightforward removals"
       ]
      ]
     }
@@ -396,13 +374,7 @@
        "Business-park property removal along Leslie Street and Harry Walker Parkway"
       ],
       [
-       "{{fact:weekendPickup}}"
-      ],
-      [
        "Documentation available for property or facilities records"
-      ],
-      [
-       "Same flat pricing as residential removal"
       ],
       [
        "Coordination with building management where required"

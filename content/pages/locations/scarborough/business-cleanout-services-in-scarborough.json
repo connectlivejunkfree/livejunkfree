@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Business cleanout services in Scarborough from Live Junk Free cover a genuinely wide commercial mix — Golden Mile's real manufacturing legacy, one of the most diverse small business communities anywhere in the GTA, and newer commercial development near Scarborough Town Centre — with the same competency across all of it."
+     "text": "{{fact:pickupTimes}}"
     },
     {
      "t": "ctas",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Business-Cleanout-Services-in-Scarborough-from-Live-Junk-Free-rs15z8j6t87vrknqeoz5ycwep0mx73ghwuuoqt6a7s.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Business-Cleanout-Services-in-Markham-from-Live-Junk-Free-rs2rjo2x677zooc3v0hzxvy15jvtarvaifxhiicxfc.jpeg",
       "alt": "Business Cleanout Services in Scarborough from Live Junk Free"
      }
     }
@@ -155,19 +155,10 @@
       },
       {
        "n": "04",
-       "title": "One flat business cleanout price, whatever the business type",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Size and volume set the number, confirmed on site — it makes no difference whether the space has industrial history or is recently built."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first business cleanout sorting for fixtures and equipment",
-       "text": [
-        [
-         "Furniture, fixtures and equipment still in good condition go to donation partners or resale channels first, before anything reaches disposal."
         ]
        ]
       },
@@ -203,7 +194,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the space, and how much sorting it genuinely needs. A small storefront is a modest job. A Golden Mile industrial facility with genuine equipment takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small storefront is a modest job. A Golden Mile industrial facility with genuine equipment takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -215,8 +206,7 @@
     {
      "t": "checks",
      "items": [
-      "Hauling-Away",
-      "{{fact:competitorComparison}}"
+      "Hauling-Away"
      ]
     },
     {
@@ -232,12 +222,6 @@
      "t": "price",
      "label": "Scarborough Business Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -288,7 +272,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual space and gives you one flat price before anything moves, whatever the business’s history or size."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -306,7 +290,7 @@
        "title": "Your Space Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left and ready for whatever comes next."
         ]
        ]
       }
@@ -347,16 +331,10 @@
        "Business cleanouts for facilities tied to the area's manufacturing history"
       ],
       [
-       "Real recognition of equipment and machinery with genuine resale value"
-      ],
-      [
        "Crew size scaled appropriately to the real scope of the space"
       ],
       [
        "Loading dock access and scheduling coordinated in advance"
-      ],
-      [
-       "Same flat pricing regardless of industrial history"
       ],
       [
        "Documentation available where needed"
@@ -375,16 +353,10 @@
        "Business cleanouts for restaurants, shops and service businesses across the district"
       ],
       [
-       "Same flat pricing regardless of the business's size or type"
-      ],
-      [
        "Fixture and equipment removal handled carefully around neighbouring tenants"
       ],
       [
-       "Donation-first sorting for fixtures and inventory still usable"
-      ],
-      [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "No disruption to customers or the business next door"
@@ -410,13 +382,10 @@
        "Building rules and access coordination handled before arrival"
       ],
       [
-       "Same flat pricing as any other business cleanout"
-      ],
-      [
        "Discreet timing coordinated with property management"
       ],
       [
-       "Same-day service where access allows"
+       "Service where access allows"
       ],
       [
        "Documentation available for building management if needed"
@@ -438,16 +407,13 @@
        "Full sort of furniture, fixtures and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -868,14 +834,6 @@
        "a": [
         [
          "{{fact:sameDay}}."
-        ]
-       ]
-      },
-      {
-       "q": "Do you charge extra for a space that's completely packed?",
-       "a": [
-        [
-         "The price reflects the actual volume and sorting required, not a flat surcharge."
         ]
        ]
       },

@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Properties change hands discreetly in King City, and the clearing of them should match. Whether it’s an estate home passing between generations, an original bungalow emptying before the rebuild, or a garage on a country lot that’s quietly absorbed twenty years — our fully insured crew works the way this town prefers: unhurried walkthrough, one flat quote, careful sorting of everything that matters, and a property left empty, swept and ready for whatever comes next."
+      "Properties change hands discreetly in King City, and the clearing of them should match. {{fact:changedScope}}."
      ]
     },
     {
@@ -94,17 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The properties here span the township's whole story: original homes in the village core now sitting on coveted lots, estate residences on acreage toward Mary Lake, equestrian properties with barns and coach houses, and new luxury builds replacing what stood before. Live Junk Free has cleared across all of it — Google reviews earned with punctual crews, locked quotes and a habit of treating every property like the neighbours are watching. In King City, they usually are."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Volume prices the job — the postal code doesn't",
-       "text": []
-      }
-     ]
+     "text": "The properties here span the township's whole story: original homes in the village core now sitting on coveted lots, estate residences on acreage toward Mary Lake, equestrian properties with barns and coach houses, and new luxury builds replacing what stood before. In King City, they usually are."
     },
     {
      "t": "h",
@@ -112,29 +102,9 @@
      "text": "Some crews see a King City address and quote the driveway. We quote the truck: how much space the contents fill is the entire calculation, from a single garage to a whole estate. Flat, up front, and identical in logic to every other town we serve."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "The walkthrough comes first, always",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Estate properties hold more than they show — the coach house loft, the cedar closet, the storage rooms behind the storage rooms. We tour everything with you before naming a number, and the free figure that follows is firm because of it."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One approved price, immune to discovery",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -142,44 +112,14 @@
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} When the basement turns out to run the length of the house (here, it often does), the surprise is ours to carry, not yours to fund."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Discretion is part of the service, not an add-on",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Unmarked-by-drama arrivals, conversations kept private, contents never discussed beyond your door, and neighbours who see nothing but a crew working tidily. Estate matters, downsizing and family transitions in King City stay in King City."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Sorted like an appraiser is coming — because sometimes one is",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "These homes hold things of real value: art, silver, documents, pieces with provenance. We clear by sorting, setting aside anything significant for your review — and we're comfortable working alongside estate lawyers, appraisers and family representatives when the situation calls for it."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent pricing",
-       "text": []
-      }
-     ]
+     "text": "These homes hold things of real value: art, silver, documents, pieces with provenance. We clear by setting aside anything significant for your review — and we're comfortable working alongside estate lawyers, appraisers and family representatives when the situation calls for it."
     },
     {
      "t": "h",
@@ -203,7 +143,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "No hourly billing, no luxury-market markup, no revisions after the fact. The number agreed on the doorstep is the number paid when the last room is swept."
+     "text": "No hourly billing, no luxury-market markup, no revisions after the fact. The number agreed on the doorstep is the number paid when the last room is."
     },
     {
      "t": "cards",
@@ -260,7 +200,7 @@
       {
        "title": "2. The Full Walkthrough",
        "text": [
-        "House, basement, garage, coach house, barn — everything you want cleared gets seen, and one flat, quote follows. Free, unhurried, and yours to consider."
+        "{{fact:changedScope}}. Free, unhurried, and yours to consider."
        ]
       },
       {
@@ -270,7 +210,7 @@
        ]
       },
       {
-       "title": "4. Swept and Handed Back",
+       "title": "4. and Handed Back",
        "text": [
         "Every cleared space gets a broom finish — ready for listing, demolition, renovation or the next generation. The loads move on properly: donation first, recycling second, landfill last."
        ]
@@ -289,7 +229,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The calls here have their own character: an estate settling among siblings, a rebuild starting the moment the permits clear, a couple trading the acreage for something lock-and-leave. All handled:"
+     "text": "All handled:"
     },
     {
      "t": "faq",
@@ -361,7 +301,7 @@
        "q": "Sale & Property Cleanouts in King City",
        "a": [
         [
-         "Pre-listing cleanouts — swept and ready for staging photography"
+         "Pre-listing cleanouts — and ready for staging photography"
         ],
         [
          "Move-out clears timed to closing day"
@@ -536,7 +476,7 @@
        "q": "Q: Can you clear the barn and coach house along with the house?",
        "a": [
         [
-         "A: In one job, one quote and usually one visit — trucks cycling until every building is empty. Combined property clears always price better than piecemeal bookings, and lofts, tack rooms and storage bays are all standard territory."
+         "{{fact:scheduling}} Combined property clears always price better than piecemeal bookings, and lofts, tack rooms and storage bays are all standard territory."
         ]
        ]
       }

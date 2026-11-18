@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Live Junk Free provides retail cleanout services in Vaughan for national retailers, franchise operators, commercial landlords and property managers across the Vaughan Metropolitan Centre, the Highway 400 big-box belt, Vaughan Mills, Maple, Concord and Thornhill. Vaughan retail is dominated by national tenants and large-format units where closure decisions are made at head office and every location goes at once. We work to corporate timelines and multi-site schedules, at one flat price per unit confirmed on site, with same-day service available."
+     "text": "Live Junk Free provides retail cleanout services in Vaughan for national retailers, franchise operators, commercial landlords and property managers across the Vaughan Metropolitan Centre, the Highway 400 big-box belt, Vaughan Mills, Maple, Concord and Thornhill. Vaughan retail is dominated by national tenants and large-format units where closure decisions are made at head office and every location goes at once."
     },
     {
      "t": "ctas",
@@ -80,13 +80,13 @@
     {
      "t": "p",
      "c": [
-      "When a national retailer closes, the decision is made centrally and every location surrenders within the same few weeks — we schedule Vaughan retail store cleanouts as part of that sequence rather than as isolated bookings. A regional or national closure means multiple units coming down at once, often across several municipalities, with a single point of contact at head office or with the leasing agent managing the wind-down. What that buyer needs is not the cheapest quote on one store. It is predictable scheduling, consistent pricing across every site, and one set of paperwork rather than twelve."
+      "When a national retailer closes, the decision is made centrally and every location surrenders within the same few weeks — we schedule Vaughan retail store cleanouts as part of that sequence rather than as isolated bookings. A regional or national closure means multiple units coming down at once, often across several municipalities, with a single point of contact at head office or with the leasing agent managing the wind-down. {{fact:changedScope}}. It is predictable scheduling, consistent pricing across every site, and one set of paperwork rather than twelve."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Vaughan’s format adds the second requirement. Big-box and anchor units along Highway 400, at Vaughan Mills and through the Interchange Way and Colossus corridors carry full-height warehouse racking, extensive back-of-house, and fixture packages that take a crew rather than a truck. Smaller plaza and street-front units in Maple, Concord and Thornhill Village clear differently again. We confirm the format, the access and the removal scope at the walkthrough before quoting any retail cleanout."
+      "Vaughan’s format adds the second requirement. {{fact:equipmentScope}}. Smaller plaza and street-front units in Maple, Concord and Thornhill Village clear differently again. We confirm the format, the access and the removal scope at the walkthrough before quoting any retail cleanout."
      ]
     },
     {
@@ -112,7 +112,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We clear multiple retail units under one quote, one schedule and a single consolidated invoice. For a multi-site closure or a landlord turning over several units in the same centre, that means one point of contact and one sequence of bookings rather than separate quotes, separate crews and separate paperwork for every address."
+     "text": "We clear multiple retail units under one quote, one schedule and a single consolidated invoice."
     }
    ]
   },
@@ -123,19 +123,10 @@
      "items": [
       {
        "n": "01",
-       "title": "Multi-site retail cleanout services under one contract",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Chain and franchise closures are scheduled as a programme rather than a series of one-off jobs. Consistent pricing across every location, one contact, and consolidated invoicing for head office or the leasing agent managing the wind-down."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Big-box retail strip-out and warehouse racking removal",
-       "text": [
-        [
-         "Full-height pallet racking, mezzanine shelving, back-of-house storage systems and anchor-unit fixture packages dismantled and removed. Large-format retail cleanout services need a crew sized for the building, not a truck sized for a plaza unit."
         ]
        ]
       },
@@ -145,15 +136,6 @@
        "text": [
         [
          "Gondola shelving, wall standards, slatwall, display cases, counters, checkout stations, fitting rooms, service desks and signage. Fixtures come out as part of the retail cleanout rather than being arranged separately before we can start."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "",
-       "text": [
-        [
-         ""
         ]
        ]
       },
@@ -178,7 +160,7 @@
        "title": "Independent retail cleanout pricing",
        "text": [
         [
-         "National junk removal brands build royalty fees into every commercial quote before a truck is dispatched, and that compounds fast across a multi-location closure. As an independent operator we carry none of it, which is why our retail cleanout pricing in Vaughan sits well below the franchise alternatives."
+         "{{fact:changedScope}}. As an independent operator we carry none of it, which is why our retail cleanout pricing in Vaughan sits well below the franchise alternatives."
         ]
        ]
       }
@@ -278,20 +260,19 @@
     {
      "t": "p",
      "c": [
-      "Your retail cleanout cost in Vaughan is determined by the volume of material, the fixture removal involved, and the access the unit allows. A plaza unit in Maple or Concord with a counter, shelving and remaining stock is a short job. A closed anchor or big-box store with full-height warehouse racking, extensive back-of-house, fitting rooms, checkout banks and residual stock is a substantially larger one, and we quote it for what is genuinely present."
+      "Your retail cleanout cost in Vaughan is determined by the volume of material, the fixture removal involved, and the access the unit allows. A plaza unit in Maple or Concord with a counter, shelving and remaining stock is a short job. {{fact:equipmentScope}}."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Access is a legitimate factor and we are direct about it: a Highway 400 unit with a dedicated loading dock and a Thornhill Village street-front where everything crosses a public sidewalk are not equivalent jobs with identical contents. What never affects your price is how urgent the surrender date is, or how many units are in the programme. Each location is priced on its own volume, with the rate held consistent across every site in a multi-unit closure. We confirm your figures in writing at the walkthrough and hold them through to completion."
+      "Access is a legitimate factor and we are direct about it: a Highway 400 unit with a dedicated loading dock and a Thornhill Village street-front where everything crosses a public sidewalk are not equivalent jobs with identical contents. What never affects your price is how urgent the surrender date is, or how many units are in the programme. {{fact:changedScope}}. We confirm your figures in writing at the walkthrough and hold them through to completion."
      ]
     },
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -311,7 +292,7 @@
     {
      "t": "p",
      "c": [
-      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -348,16 +329,7 @@
        "title": "Book your retail cleanout with the unit and lease details",
        "text": [
         [
-         "Call +1 647 922 5865 or book online. Please tell us the unit size and format, your lease surrender date, how many locations are involved, what fixtures and racking are being removed, whether there is loading dock access, and any centre rules on working hours."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Free walkthrough and one flat retail cleanout price",
-       "text": [
-        [
-         "Our crew assesses the sales floor, back-of-house, stockroom, warehouse area and any exterior storage in scope. We provide one flat price per location before any work begins, held consistent across every site in a multi-unit programme."
+         "Call +1 647 922 5865 or book online. {{fact:equipmentScope}}."
         ]
        ]
       },
@@ -366,16 +338,16 @@
        "title": "Fixtures removed, unit cleared and documented",
        "text": [
         [
-         "We protect flooring and shared corridors first, then dismantle and remove racking, shelving, display units, counters, signage, residual stock, office furniture, electronics and appliances. We photograph each unit throughout."
+         "{{fact:equipmentScope}}. We photograph each unit throughout."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Unit returned swept",
+       "title": "Unit returned",
        "text": [
         [
-         "Each space is left broom-swept and empty."
+         "Each space is left and empty."
         ]
        ]
       }
@@ -480,7 +452,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than retail cleanout services across Vaughan. Our commercial junk removal handles offices throughout the Vaughan Metropolitan Centre and Highway 7 corridor, restaurants and banquet halls, medical and professional suites, warehouses and light-industrial space across the Concord, Keele and Steeles employment lands, alongside big-box units and plaza storefronts, with same-day attendance wherever access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and yard waste across Maple, Concord, Thornhill, Kleinburg and Woodbridge. Our demolition services cover interior strip-outs, tenant improvement removal, warehouse racking, partitions, dropped ceilings and built-in fixtures, along with sheds, garages, decks, fences, gazebos, above-ground pools and hot tubs on residential lots. Where a property requires complete clearing, we provide same-day office cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than retail cleanout services across Vaughan. Our commercial junk removal handles offices throughout the Vaughan Metropolitan Centre and Highway 7 corridor, restaurants and banquet halls, medical and professional suites, warehouses and light-industrial space across the Concord, Keele and Steeles employment lands, alongside big-box units and plaza storefronts, with same-day attendance wherever access allows, subject to availability. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and yard waste across Maple, Concord, Thornhill, Kleinburg and Woodbridge. {{fact:equipmentScope}}. Where a property requires complete clearing, we provide same-day office cleanout when available, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -510,15 +482,10 @@
   {
    "blocks": [
     {
-     "t": "h",
-     "l": 3,
-     "text": "Multi-Site & Chain Store Closure Cleanouts in Vaughan"
-    },
-    {
      "t": "ul",
      "items": [
       [
-       "We handle regional and national store closure programmes as one coordinated sequence, keeping retail cleanout pricing consistent across every location. A single point of contact works with head office or the leasing agent, while consolidated invoicing and documentation keep the entire project organized. Locations across Vaughan and the wider GTA are coordinated according to their individual surrender dates, with each unit returned broom-swept and ready for handover."
+       "We handle regional and national store closure programmes as one coordinated sequence, keeping retail cleanout pricing consistent across every location. A single point of contact works with head office or the leasing agent, while consolidated invoicing and documentation keep the entire project organized. Locations across Vaughan and the wider GTA are coordinated according to their individual surrender dates, with each unit returned and ready for handover."
       ]
      ]
     },
@@ -531,7 +498,7 @@
      "t": "ul",
      "items": [
       [
-       "We handle large-format retail strip-outs along Highway 400, Interchange Way, and Colossus. Full-height pallet racking and mezzanine shelving are dismantled and removed, along with extensive back-of-house and warehouse storage systems. Fitting rooms, checkout banks, and service counters are cleared as part of the same scope, with loading dock access used where available. Crew size is planned around the building and volume of work rather than simply the truck capacity."
+       "We handle large-format retail strip-outs along Highway 400, Interchange Way, and Colossus. {{fact:equipmentScope}}. Fitting rooms, checkout banks, and service counters are cleared as part of the same scope, with loading dock access used where available. Crew size is planned around the building and volume of work rather than simply the truck capacity."
       ]
      ]
     }
@@ -548,7 +515,7 @@
      "t": "ul",
      "items": [
       [
-       "We dismantle and remove gondola shelving, wall standards, slatwall, display cases, counters, checkout stations, service desks, and fitting rooms during retail strip-outs. Stockroom shelving, back-of-house racking, and office furniture are cleared in the same visit. Light interior demolition covers tenant improvements and partitions where required, while flooring, shared corridors, and neighbouring frontages are protected throughout the work. Reusable fixtures are offered to donation partners before disposal."
+       "We dismantle and remove gondola shelving, wall standards, slatwall, display cases, counters, checkout stations, service desks, and fitting rooms during retail strip-outs. {{fact:equipmentScope}}. Light interior demolition covers tenant improvements and partitions where required, while flooring, shared corridors, and neighbouring frontages are protected throughout the work. Reusable fixtures are offered to donation partners before disposal."
       ]
      ]
     },
@@ -561,7 +528,7 @@
      "t": "ul",
      "items": [
       [
-       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, and signage are removed after a tenant vacates, while multiple units within the same centre are handled under a single quote and invoice. Documentation is also prepared where a deposit or restoration claim is in dispute. Same-day retail cleanout services in Vaughan are available where access permits."
+       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, and signage are removed after a tenant vacates, while multiple units within the same centre are handled under a single quote and invoice. Documentation is also prepared where a deposit or restoration claim is in dispute. Same-day retail cleanout services when available in Vaughan are available where access permits."
       ]
      ]
     }

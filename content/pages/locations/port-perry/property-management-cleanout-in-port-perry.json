@@ -9,7 +9,7 @@
   "description": "",
   "canonical": "https://livejunkfree.ca/locations/port-perry/property-management-cleanout-in-port-perry/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Property-Management-Cleanout-in-Port-Perry-rotated.jpg"
+  "ogImage": "/images/uploads/2026/08/Retail-Cleanout-Services-rotated.jpg"
  },
  "title": "Property Management Cleanout in Port Perry",
  "h1": "Property Management Cleanout in Port Perry from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Property-Management-Cleanout-in-Port-Perry-rotated-rsf69b5wiprft78xgxaimcfmkywzdq3971e9wu2pbo.jpg",
+      "src": "/images/uploads/elementor/thumbs/Retail-Cleanout-Services-rotated-rsihk2kt4iyt4qv82uxcq2s5v4l03ezuo4ufls6th0.jpg",
       "alt": "Property Management Cleanout in Port Perry"
      }
     }
@@ -112,7 +112,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Multi-unit property cleanout works well here because Scugog addresses are spread out. A landlord with a waterfront rental on the lake, an apartment above a Queen Street shop, and a unit in Blackstock saves real money by routing all three into one visit — under a single quote structure and one consolidated invoice — rather than paying for three separate call-outs."
+     "text": "Multi-unit property cleanout works well here because Scugog addresses are spread out."
     }
    ]
   },
@@ -140,20 +140,11 @@
        ]
       },
       {
-       "n": "03",
-       "title": "",
-       "text": [
-        [
-         ""
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "Property management cleanout for landlords, not just management companies",
        "text": [
         [
-         "Scugog has very few property management firms. Most of our clients here are family landlords with one or two rental properties — an inherited home, a granny suite, a cottage they rent through summer. Small-portfolio property cleanouts get the same crew and the same flat pricing as any large portfolio."
+         "Scugog has very few property management firms. Most of our clients here are family landlords with one or two rental properties — an inherited home, a granny suite, a cottage they rent through summer. {{fact:changedScope}}."
         ]
        ]
       },
@@ -231,7 +222,7 @@
     {
      "t": "p",
      "c": [
-      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -277,7 +268,7 @@
        "title": "Free on-site walkthrough and one flat property management cleanout price",
        "text": [
         [
-         "The crew walks the unit and every outbuilding, checking condition as well as volume. You get one flat price per unit before anything is lifted, so property management cleanout pricing is settled before work begins."
+         "The crew walks the unit and every outbuilding, checking condition as well as volume. {{fact:changedScope}}."
         ]
        ]
       },
@@ -287,15 +278,6 @@
        "text": [
         [
          "Furniture, appliances, mattresses, electronics, hot tubs, exercise equipment, yard waste, and general household items come out with floors and stairwells protected. Everything is sorted donation-first, then recycling, then disposal — with the unit’s condition documented throughout, which matters most on eviction cleanout and abandoned rental property jobs."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Your vacant rental unit is ready to list",
-       "text": [
-        [
-         ""
         ]
        ]
       }
@@ -361,7 +343,7 @@
        "Fast turnaround so the vacant rental unit is ready before listing photos"
       ],
       [
-       "Same-day property management cleanout in Port Perry where access allows"
+       "Property management cleanout in Port Perry where access allows"
       ],
       [
        "Damage assessment noted and photographed during the visit"
@@ -448,7 +430,7 @@
     {
      "t": "p",
      "c": [
-      "The same crews and the same property management cleanout pricing run across all of Scugog Township and well past it. Property cleanout services cover Prince Albert, Seagrave, Greenbank, Blackstock, Caesarea, Nestleton, Utica, Manchester, and the full Lake Scugog shoreline, plus Uxbridge, Whitby, Oshawa, and the rest of Durham Region. GTA cleanout services extend from there:"
+      "{{fact:scheduling}} Property cleanout services cover Prince Albert, Seagrave, Greenbank, Blackstock, Caesarea, Nestleton, Utica, Manchester, and the full Lake Scugog shoreline, plus Uxbridge, Whitby, Oshawa, and the rest of Durham Region. GTA cleanout services extend from there:"
      ]
     },
     {

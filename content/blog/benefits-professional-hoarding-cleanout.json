@@ -66,7 +66,7 @@
     {
      "t": "p",
      "c": [
-      "Both hoarding cleanouts and house cleanouts can expose workers to significant health risks, including mold, dust, bacteria, structural instability, and sharp objects. Professional crews are equipped with personal protective equipment (PPE) like respirators, gloves, and safety gear. {{fact:cleanupScope}}."
+      "{{fact:structuralDemolition}}. Professional crews are equipped with personal protective equipment (PPE) like respirators, gloves, and safety gear. {{fact:cleanupScope}}."
      ]
     }
    ]
@@ -96,7 +96,7 @@
     {
      "t": "p",
      "c": [
-      "What could take an individual or family weeks or even months of exhausting weekend work can be accomplished by a professional team in a matter of days. Their systematic approach, experienced labor force, and project management skills significantly compress the timeline. This is crucial for estate settlements, property sales, or restoring a hoarded home to a livable condition."
+      "What could take an individual or family weeks or even months of exhausting weekend work can be accomplished by a professional team in a matter of days, subject to scheduling. Their systematic approach, experienced labor force, and project management skills significantly compress the timeline."
      ]
     }
    ]
@@ -121,12 +121,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "6. Proper Sorting, Donation, and Eco-Friendly Disposal"
+     "text": "6. Proper Donation, and Eco-Friendly Disposal"
     },
     {
      "t": "p",
      "c": [
-      "Professionals don’t just haul everything to the landfill. They implement sorting systems on-site to separate items for donation, recycling, and responsible disposal. They have established partnerships with local charities across the GTA, ensuring usable furniture, clothing, and household goods benefit the community. This eco-friendly approach is a core benefit for environmentally conscious clients."
+      "Professionals don’t just haul everything to the landfill. {{fact:cleanupScope}}. They have established partnerships with local charities across the GTA, ensuring usable furniture, clothing, and household goods benefit the community. This eco-friendly approach is a core benefit for environmentally conscious clients."
      ]
     }
    ]
@@ -136,7 +136,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "7. Legal and Regulatory Compliance"
+     "text": "7."
     },
     {
      "t": "p",
@@ -156,7 +156,7 @@
     {
      "t": "p",
      "c": [
-      "The physical labor of a full house cleanout is immense. The emotional toll of a hoarding cleanout or sorting through a loved one’s estate is even greater. Hiring professionals lifts this dual burden. They manage the physical heavy lifting and logistical headaches, allowing families to focus on decision-making, grieving, or supporting their loved one without the added strain of manual labor."
+      "The physical labor of a full house cleanout is immense. {{fact:cleanupScope}}. Hiring professionals lifts this dual burden. They manage the physical heavy lifting and logistical headaches, allowing families to focus on decision-making, grieving, or supporting their loved one without the added strain of manual labor."
      ]
     }
    ]
@@ -227,7 +227,7 @@
        "Structured, Clear Process: We provide transparent pricing, a detailed plan, and clear communication from assessment to completion."
       ],
       [
-       "Holistic Service: We handle sorting, removal, donation, recycling, and basic cleaning, leaving the property truly cleared."
+       "Holistic Service: We handle removal, donation, recycling, and basic cleaning, leaving the property truly cleared."
       ]
      ]
     },

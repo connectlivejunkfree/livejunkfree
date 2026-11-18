@@ -50,7 +50,7 @@
         "Live Junk Free"
        ]
       },
-      " is Woodbridge’s trusted junk removal team — locally operated, fully insured and built to serve every property type across this community at a standard that matches its character. We come to your Woodbridge property, assess everything in person, give you a completely free on-site estimate before touching a single item, and if you’re happy with it, everything is cleared the same day."
+      " is Woodbridge’s trusted junk removal team — locally operated, fully insured and built to serve every property type across this community at a standard that matches its character. We come to your Woodbridge property, assess everything in person, give you a completely free on-site estimate before touching a single item, and if you’re happy with it, everything is cleared the same day, subject to availability."
      ]
     },
     {
@@ -115,29 +115,9 @@
      "text": "We are not a national franchise. We are a locally owned, fully insured Woodbridge junk removal team with Google reviews from real customers across Vaughan and York Region — and a consistent track record of delivering professional results across every Woodbridge neighbourhood."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Every price is calculated in person, at your Woodbridge property",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "We do not quote over the phone based on your description. We do not give online estimates that drift upward when we arrive. We physically come to your property, walk through every area with you, and calculate your price based on what we actually see."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Volume-based — the most transparent pricing method available",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -145,29 +125,9 @@
      "text": "Your quote is based on how much space your items fill in our truck. One clear measure, one fair price. Whether you're in Islington Woods, Vellore Village, Sonoma Heights or anywhere else in Woodbridge — your neighbourhood and your postal code never add a dollar to your bill."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "{{fact:competitorComparison}}",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Labour, truck, fuel, disposal and — for Woodbridge condo and townhouse properties — elevator coordination and building access management. All of it inside one number. No line items. No additions."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "You see every dollar before we start",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -175,29 +135,9 @@
      "text": "We hand you the quote. You review it. If it works, we start immediately. If it doesn't, you owe us nothing and we leave. Transparent means you have complete information and complete control before a single item moves."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Professional service — here's exactly what that means",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Every Live Junk Free crew member arrives uniformed, on time and briefed on the property requirements. We work efficiently without cutting corners. We carry items carefully without damaging walls, floors or doorframes. We sweep up after ourselves. We treat your Woodbridge property with the same respect throughout the job as we showed at the beginning."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "",
-       "text": []
-      }
-     ]
+     "text": "Every Live Junk Free crew member arrives uniformed, on time and briefed on the property requirements. We work efficiently without cutting corners. We carry items carefully without damaging walls, floors or doorframes. We after ourselves. We treat your Woodbridge property with the same respect throughout the job as we showed at the beginning."
     },
     {
      "t": "h",
@@ -221,7 +161,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Two things Woodbridge homeowners, contractors and business owners consistently tell us they want from a junk removal company — and two things they consistently say they haven't always gotten from others: transparent pricing and professional service. At Live Junk Free, those aren't marketing promises. They are the two non-negotiable foundations of every single job we do in Woodbridge. Prices start as low as {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). Book your free Woodbridge junk removal estimate — transparent pricing and professional service, every time."
+     "text": "Two things Woodbridge homeowners, contractors and business owners consistently tell us they want from a junk removal company — and two things they consistently say they haven't always gotten from others: transparent pricing and professional service. At Live Junk Free, those aren't marketing promises. Prices start as low as {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). Book your free Woodbridge junk removal estimate — transparent pricing and professional service, every time."
     },
     {
      "t": "cards",
@@ -264,7 +204,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Woodbridge residents are busy people — managing families, businesses, construction schedules and daily life that doesn't slow down for junk removal. Our same-day junk removal when available process in Woodbridge, Ontario is built around that reality. One call to book. One visit to quote. One crew to handle everything. Here's our complete 4-step process — start to finish, nothing complicated:"
+     "text": "Woodbridge residents are busy people — managing families, businesses, construction schedules and daily life that doesn't slow down for junk removal. Our same-day junk removal when available process in Woodbridge, Ontario is built around that reality. One call to book. One crew to handle everything. Here's our complete 4-step process — start to finish, nothing complicated:"
     },
     {
      "t": "cards",
@@ -272,7 +212,7 @@
       {
        "title": "Book Your Pickup",
        "text": [
-        "Call +1 647 922 5865 or book online in minutes. We'll confirm your same-day or next-day appointment when available and provide a 30-minute arrival notice before we arrive."
+        "Call +1 647 922 5865 or book online in minutes. {{fact:scheduling}}"
        ]
       },
       {
@@ -290,7 +230,7 @@
       {
        "title": "Enjoy a Clean, Clutter-Free Space",
        "text": [
-        "We complete a final walkthrough, sweep the area clean, and ensure items are donated, recycled, or disposed of responsibly."
+        "We complete a final walkthrough, and ensure items are donated, recycled where possible, or disposed of responsibly."
        ]
       }
      ]
@@ -630,7 +570,7 @@
        "q": "Q: Do you offer same-day junk removal in Woodbridge?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of Woodbridge including Islington Woods, Vellore Village, Sonoma Heights, Humber Summit and surrounding Vaughan and York Region communities. Call +1 647 922 5865 to confirm today’s availability."
+         "{{fact:scheduling}} Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },
@@ -662,7 +602,7 @@
        "q": "Q: Are you a local Woodbridge company or a national franchise?",
        "a": [
         [
-         "A: We are 100% locally owned and operated — not a franchise."
+         "Careful Removal"
         ]
        ]
       },

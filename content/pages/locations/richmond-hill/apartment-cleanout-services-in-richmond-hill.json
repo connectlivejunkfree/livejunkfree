@@ -9,7 +9,7 @@
   "description": "Apartment Cleanout Services in Richmond Hill for fast, reliable removal of unwanted furniture, clutter, and household items.",
   "canonical": "https://livejunkfree.ca/locations/richmond-hill/apartment-cleanout-services-in-richmond-hill/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Apartment-Cleanout-Services-in-Schomberg.jpeg"
+  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Ajax.jpeg"
  },
  "title": "Apartment Cleanout Services in Richmond Hill",
  "h1": "Apartment Cleanout Services in Richmond Hill from Live Junk Free",
@@ -146,7 +146,7 @@
       },
       {
        "n": "03",
-       "title": "One flat apartment cleanout price, whatever the building",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number reflects the unit’s actual volume — never the building type or how many floors the freight elevator needs to travel."
@@ -203,7 +203,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the unit, and how much sorting it genuinely needs. A lightly furnished apartment is a modest job. A unit packed with years of belongings takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A lightly furnished apartment is a modest job. A unit packed with years of belongings takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -215,7 +215,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Building, Deadline or Heritage Surcharges"
      ]
     },
@@ -236,7 +235,7 @@
     {
      "t": "p",
      "c": [
-      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -282,7 +281,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew sees the actual unit and gives you one flat number, along with a plan that fits whatever timeline the building requires."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -300,7 +299,7 @@
        "title": "The Unit Is Handed Back on Time",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready — for the building, a sale, or the family."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready — for the building, a sale, or the family."
         ]
        ]
       }
@@ -369,13 +368,10 @@
        "Family-initiated cleanouts handled with real patience"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
-       "Same flat pricing as any other property type"
-      ],
-      [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -401,9 +397,6 @@
        "Scheduled around your move dates"
       ],
       [
-       "Same flat pricing regardless of who's on title"
-      ],
-      [
        "Portfolio arrangements available for landlords managing multiple units"
       ],
       [
@@ -426,16 +419,13 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }

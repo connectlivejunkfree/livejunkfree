@@ -136,15 +136,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Condo and tower-compliant estate cleanouts",
-       "text": [
-        [
-         "{{fact:insuranceDocs}}."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Keepsakes and documents set aside, always",
        "text": [
@@ -203,7 +194,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is the scope of the property — how many rooms are involved, and how much sorting and donation coordination the belongings genuinely need. A single-room job is modest. A full house or a large condo suite with years of belongings takes considerably more time, and the price reflects that real difference rather than a flat guess made over the phone."
+      "The honest factor is the scope of the property — how many rooms are involved, and how much donation coordination the belongings genuinely need. A single-room job is modest. A full house or a large condo suite with years of belongings takes considerably more time, and the price reflects that real difference rather than a flat guess made over the phone."
      ]
     },
     {
@@ -215,7 +206,7 @@
     {
      "t": "checks",
      "items": [
-      "One Flat Price, Whatever the Property Type",
+      "{{fact:competitorComparison}}",
       "No Building, Access or Neighbourhood Premium"
      ]
     },
@@ -232,12 +223,6 @@
      "t": "price",
      "label": "Toronto Estate Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -284,29 +269,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual space, maps the exit route, and gives one flat number before anything moves."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at the family’s pace, with anything meaningful set aside first, always."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "A Space That's Clean and Ready",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable — ready for a sale, a new tenant, or simply for the family, whichever applies."
+         "Whatever was worked on that visit is left and usable — ready for a sale, a new tenant, or simply for the family, whichever applies."
         ]
        ]
       }
@@ -384,7 +351,7 @@
        "Multi-visit scheduling for larger homes with years of accumulation"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Discretion maintained throughout, without having to ask for it"
@@ -411,12 +378,6 @@
       ],
       [
        "Careful protection of fences, gates and tight passageways"
-      ],
-      [
-       "Same flat pricing as any easier-access property"
-      ],
-      [
-       "Coordination around street parking permits where needed"
       ],
       [
        "No access surcharge added after the walkthrough"
@@ -816,7 +777,7 @@
        "q": "How much does an estate cleanout cost in Toronto?",
        "a": [
         [
-         "Pricing is based on how many rooms are involved and how much sorting the belongings need — never on the building type or neighbourhood. The figure is confirmed free at a private walkthrough."
+         "{{fact:cleanupScope}}. The figure is confirmed free at a private walkthrough."
         ]
        ]
       },

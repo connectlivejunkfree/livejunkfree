@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Every season on Lake Simcoe leaves a layer. Summer deposits water toys and patio furniture; winter adds ice-fishing gear and another space heater; and the cottage-turned-home keeps every era’s leftovers in the crawlspace, just in case. When the layers finally have to go, one call handles it: our fully insured crew comes to your Georgina home, quotes everything free and flat at the door, and carries it all out — from the bunkie, the boathouse or the back bedroom — usually the same day."
+      "Every season on Lake Simcoe leaves a layer. Summer deposits water toys and patio furniture; winter adds ice-fishing gear and another space heater; and the cottage-turned-home keeps every era’s leftovers in the crawlspace, just in case. When the layers finally have to go, one call handles it: our fully insured crew comes to your Georgina home, quotes everything free and flat at the door, and carries it all out — from the bunkie, the boathouse or the back bedroom — usually the same day, subject to availability."
      ]
     },
     {
@@ -97,44 +97,14 @@
      "text": "Georgina's homes carry the lake's history: winterized cottages in Jackson's Point holding three owners' worth of furnishings, year-round bungalows in Keswick, village homes in Sutton, and rural properties out toward Udora. Live Junk Free picks up from all of them — Google reviews earned by showing up on time in every season, quoting flat, and hauling careful."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "The truck measures it — nothing else does",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Your price is set by the space your items claim in the truck, full stop. One waterlogged sofa is a small load; a crawlspace's accumulated decades is more. Weight, stairs, sandy paths to the water and which Georgina community you call home change nothing."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Quotes come from looking, not guessing",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Lake properties are famous for hiding volume — under the deck, in the bunkie, behind the boathouse door that sticks. So we quote in person after seeing it all. One free walkthrough, one flat figure, zero obligation."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Everything rides inside one number",
-       "text": []
-      }
-     ]
+     "text": "Lake properties are famous for hiding volume — under the deck, in the bunkie, behind the boathouse door that sticks. So we quote in person after seeing it all."
     },
     {
      "t": "h",
@@ -142,44 +112,14 @@
      "text": "Carrying, loading, fuel, tipping and recycling fees — the quote you approve is fully loaded before we lift. Whatever surprises the crawlspace has been saving, the price has already made peace with them."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Waterfront carries are our comfort zone",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "{{fact:propertyProtection}}. The junk leaves; nothing else gets disturbed."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "No pressure, any season",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "The quote is free, takes no deposit, and holds while you wait for the thaw, the sale or the family consensus. Approve it and we start immediately; call back at ice-out and it's still good."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Local and franchise-free",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -260,19 +200,19 @@
       {
        "title": "2. Give Us the Tour",
        "text": [
-        "House, garage, bunkie, boathouse, the spot under the deck — point at everything that's going and get one flat, quote. Free either way."
+        "{{fact:changedScope}}. Free either way."
        ]
       },
       {
        "title": "3. We Handle the Hauling",
        "text": [
-        "On your yes, the crew carries: down lake paths, up bunkie steps, out of crawlspaces — floors protected indoors, careful footing outdoors, and nothing lifted by you."
+        "{{fact:structuralDemolition}}."
        ]
       },
       {
        "title": "4. Tidied and Sent On Right",
        "text": [
-        "The cleared spots get swept or raked, and the load gets sorted: donation partners take what still has summers left in it, recyclers take metals and electronics, and landfill gets only the remainder."
+        "The cleared spots get or raked, and the load gets sorted: donation partners take what still has summers left in it, recyclers take metals and electronics, and landfill gets only the remainder."
        ]
       }
      ]
@@ -330,7 +270,7 @@
          "Stoves, ovens, dishwashers and microwaves"
         ],
         [
-         "Drained hot water tanks and water softeners"
+         ""
         ],
         [
          "Space heaters, window ACs and dehumidifiers by the armload"
@@ -364,7 +304,7 @@
        "q": "The Big, Odd and Overdue in Georgina",
        "a": [
         [
-         "Hot tubs — drained, dismantled, hauled off the deck"
+         ""
         ],
         [
          "Pianos, pool tables and oversized inherited pieces"
@@ -382,7 +322,7 @@
          "Scrap metal, mowers and snowblowers past saving"
         ],
         [
-         "Bed-bug-affected furniture — sealed on site, removed discreetly"
+         ""
         ]
        ]
       }
@@ -513,7 +453,7 @@
        "q": "Q: What does junk removal cost in Georgina?",
        "a": [
         [
-         "A: Truck space decides — small loads from {{min_price:C}}, single items at the low end, larger clears scaling only with volume. The flat figure is quoted free at your door with stairs, slopes and awkward carries already included, and it can’t change once approved."
+         "A: Truck space decides — small loads from {{min_price:C}}, single items at the low end, larger clears scaling only with volume. {{fact:changedScope}}."
         ]
        ]
       },
@@ -521,7 +461,7 @@
        "q": "Q: We converted the cottage to a year-round home and inherited decades of stuff. Can you clear it?",
        "a": [
         [
-         "A: It’s one of our signature Georgina jobs. Cottage conversions come furnished with every previous owner’s leftovers — crawlspace to bunkie — and we clear it all in one visit, flagging anything that looks worth keeping before it loads."
+         "A: It’s one of our signature Georgina jobs. Cottage conversions come furnished with every previous owner’s leftovers — crawlspace to bunkie — and we clear it all, flagging anything that looks worth keeping before it loads."
         ]
        ]
       },

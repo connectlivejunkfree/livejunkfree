@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Demolition Services in Port Perry from Live Junk Free take down old pools, decks, sheds and fences across the township — from a Victorian backyard on Queen Street to a dock-adjacent structure on Scugog Island to a fence line on a Blackstock farm — with the same care and the same flat price no matter which of those it is."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Ask what a typical Port Perry demolition job looks like and the honest answer is: it depends where in the township you’re standing. In old Port Perry’s Victorian streets, it’s usually a shed or a small deck that’s outlived a century-old house — something torn down carefully enough that nobody would guess a demolition crew had even been there. Out on Scugog Island and the waterfront lanes, it’s a dock-adjacent deck or an old above ground pool near the shoreline, cleared with the kind of attention that low ground and close-by water actually demand. And across the concessions toward Blackstock, Nestleton, Seagrave and Greenbank, it’s fence lines and outbuildings that came with a farm property, torn down and hauled off without a distance charge tacked on for how far the address sits from town. Three different jobs, one flat pricing structure — the Google reviews behind Live Junk Free reflect that consistency more than anything else."
+      "Ask what a typical Port Perry demolition job looks like and the honest answer is: it depends where in the township you’re standing. In old Port Perry’s Victorian streets, it’s usually a shed or a small deck that’s outlived a century-old house — something torn down carefully enough that nobody would guess a demolition crew had even been there. Out on Scugog Island and the waterfront lanes, it’s a dock-adjacent deck or an old above ground pool near the shoreline, cleared with the kind of attention that low ground and close-by water actually demand. And across the concessions toward Blackstock, Nestleton, Seagrave and Greenbank, it’s fence lines and outbuildings that came with a farm property, torn down and hauled off without a distance charge tacked on for how far the address sits from town. {{fact:changedScope}}."
      ]
     },
     {
@@ -133,7 +133,7 @@
        "title": "Heritage-conscious demolition on century properties",
        "text": [
         [
-         "Old Port Perry’s buildings have survived this long because people have been careful around them, and demolition on those properties follows the same rule — nothing rushed, nothing forced near original woodwork or foundations that have earned some respect."
+         "{{fact:structuralDemolition}}."
         ]
        ]
       },
@@ -266,7 +266,7 @@
        "title": "Get Your Free Demolition Quote",
        "text": [
         [
-         "The crew walks the structure and everything around it, flags anything needing extra care, and gives one flat price before work begins."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -325,9 +325,6 @@
        "Above Ground Pool Demolition — frame, liner and decking torn down and hauled, older bungalow-belt installations handled with extra care"
       ],
       [
-       "Hot Tub Demolition — drained, disconnected and cut apart before removal"
-      ],
-      [
        "Jacuzzi Demolition — same process, any age of structure"
       ]
      ]
@@ -370,9 +367,6 @@
        "Garage Demolition — detached units taken down section by section"
       ],
       [
-       "Deck Demolition — wood and composite, footings addressed for an addition or rebuild"
-      ],
-      [
        "Fence Demolition — full runs or single sections"
       ],
       [
@@ -391,9 +385,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Concrete Demolition — patios, walkways and pads broken up and hauled, grading-conscious near ravine edges"
-      ],
       [
        "Flooring Demolition — old outdoor surfaces and bases removed"
       ],
@@ -673,7 +664,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {
@@ -992,7 +983,7 @@
        "q": "How careful are you around a heritage building?",
        "a": [
         [
-         "Very. Original trim, foundations and features that stay get masked and protected before anything comes down, and the work moves at the pace century buildings deserve. "
+         "Very. {{fact:structuralDemolition}}. "
         ]
        ]
       },

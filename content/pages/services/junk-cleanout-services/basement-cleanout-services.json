@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Years of buildup, cleared in a single visit — sorted, hauled, and swept."
+     "text": "Years of buildup, cleared in a single visit — sorted, hauled."
     },
     {
      "t": "ctas",
@@ -63,7 +63,7 @@
     {
      "t": "p",
      "c": [
-      "Basements have a way of becoming the family archive nobody asked for. When the day finally comes to reclaim that square footage, the real obstacle isn’t deciding to do it; it’s the hundreds of trips up a narrow staircase with heavy, awkward loads."
+      "Basements have a way of becoming the family archive nobody asked for."
      ]
     },
     {
@@ -85,7 +85,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/basement-cleanout-services-1024x765.jpeg",
-      "alt": "basement-cleanout-services",
+      "alt": "Basement Cleanout: Live Junk Free job photo",
       "width": 800,
       "height": 598
      }
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "One call brings a full team to your door, often the very same day. We haul out old furniture and appliances, dusty exercise machines, filing cabinets, carpets, shelving, storage bins, renovation debris, and every unlabeled box in between. As we work, we separate what can be donated from what can be recycled, so charities get the usable goods and only genuine waste is discarded."
+      "One call brings a full team to your door, often the very same day, subject to availability. We haul out old furniture and appliances, dusty exercise machines, filing cabinets, carpets, shelving, storage bins, renovation debris, and every unlabeled box in between. As we work, we separate what can be donated from what can be recycled where possible, so charities get the usable goods and only genuine waste is discarded."
      ]
     },
     {
@@ -167,7 +167,7 @@
     {
      "t": "p",
      "c": [
-      "Our team plans the route before lifting anything — padding stair railings, protecting drywall corners, and laying runners across main-floor flooring so nothing upstairs pays the price for what’s leaving downstairs. Bulky items that won’t clear the stairwell get dismantled on the spot."
+      "{{fact:propertyProtection}}. Bulky items that won’t clear the stairwell get dismantled at the onsite estimate."
      ]
     },
     {
@@ -183,7 +183,7 @@
        "Complete clear-out – Storage areas, cold rooms, under-stair spaces, and utility corners emptied to the walls"
       ],
       [
-       "Sort at the source – Donations, recyclables, and waste separated as we carry, with the floor swept before we go"
+       "Sort at the source – Donations, recyclables, and waste separated as we carry, with the floor before we go"
       ]
      ]
     },
@@ -192,7 +192,7 @@
      "c": [
       {
        "b": [
-        "Same-Day Basement Cleanouts Available!"
+        "Same-Day Basement Cleanouts may be available!"
        ]
       }
      ]
@@ -210,7 +210,7 @@
      "t": "cards",
      "items": [
       {
-       "title": "Bulk Beats Piecemeal",
+       "title": "Beats Piecemeal",
        "text": [
         "Clearing the whole basement at once costs far less per item than booking removals one piece at a time"
        ]
@@ -228,15 +228,9 @@
        ]
       },
       {
-       "title": "Charity Before Landfill",
+       "title": "Donate or Recycle Where Possible",
        "text": [
         "Usable furniture, tools, and household goods are donated locally, with recycling for the rest"
-       ]
-      },
-      {
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        "Lifting, carrying, hauling, disposal, and sweep-up bundled into a single upfront price"
        ]
       },
       {
@@ -280,7 +274,7 @@
       {
        "title": "Watch It Disappear",
        "text": [
-        "Our team carries everything up and out, protects your stairs and floors, sorts for donation and recycling, and sweeps before leaving."
+        "{{fact:cleanupScope}}."
        ]
       }
      ]
@@ -300,11 +294,11 @@
      "t": "gallery",
      "images": [
       {
-       "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
+       "src": "/images/job-1.webp",
        "alt": "Basement Cleanout: Live Junk Free job photo"
       },
       {
-       "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
+       "src": "/images/job-2.webp",
        "alt": "Basement Cleanout: Live Junk Free job photo"
       },
       {
@@ -316,7 +310,7 @@
        "alt": "Basement Cleanout: Live Junk Free job photo"
       },
       {
-       "src": "/images/uploads/2025/07/20250611_115029-1024x577.webp",
+       "src": "/images/job-3.webp",
        "alt": "Basement Cleanout: Live Junk Free job photo"
       },
       {

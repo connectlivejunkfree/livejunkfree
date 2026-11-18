@@ -140,8 +140,9 @@ export function CommercialTemplate({ c, crumbs, path, pending, name }: Base & { 
       <Sec variant="white tight">
         <div className="route-mini">
           {c.segments.map((s) => (
-            <div key={s.title} className="panel flat">
-              <h2 className="h4">{s.title}</h2>
+            <div key={s.title} className="panel flat stack-sm">
+              <h2 className="h4">{s.href ? <Link href={s.href}>{s.title}</Link> : s.title}</h2>
+              {s.text ? <p className="small muted">{s.text}</p> : null}
             </div>
           ))}
         </div>

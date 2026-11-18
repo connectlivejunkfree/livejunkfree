@@ -9,7 +9,7 @@
   "description": "Bereavement cleanout services in Port Perry from Live Junk Free come from a crew that recognizes what a piece might be worth before it leaves.",
   "canonical": "https://livejunkfree.ca/locations/port-perry/bereavement-cleanout-services-in-port-perry/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Bereavement-Cleanout-Services-in-Port-Perry.jpeg"
+  "ogImage": "/images/uploads/2026/07/Monitor-Removal-Services-1.jpeg"
  },
  "title": "Bereavement Cleanout Services in Port Perry",
  "h1": "Bereavement Cleanout Services in Port Perry from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Bereavement-Cleanout-Services-in-Port-Perry-rs63wt8kugyco2lhg2l76jd5bnrm68d8xdfcujoud0.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Bereavement-Cleanout-Services-in-Oshawa-rs64k2qrzusu0msylmlse60ulz3nojq34iozg372d0.jpeg",
       "alt": "Bereavement Cleanout Services in Port Perry"
      }
     }
@@ -121,15 +121,6 @@
     {
      "t": "steps",
      "items": [
-      {
-       "n": "01",
-       "title": "Antiques-aware sorting for every bereavement cleanout",
-       "text": [
-        [
-         "Furniture and pieces that look like they might carry real value get set aside for a proper look, so a family isn’t left wondering later what might have been there."
-        ]
-       ]
-      },
       {
        "n": "02",
        "title": "No waterfront or scenic-town markup on bereavement cleanout",
@@ -204,8 +195,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -225,7 +215,7 @@
     {
      "t": "p",
      "c": [
-      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -289,7 +279,7 @@
        "title": "A Space That's Clean and Ready",
        "text": [
         [
-         "We complete a final walkthrough, sweep the area, and leave the space ready for whatever comes next."
+         "We complete a final walkthrough, and leave the space ready for whatever comes next."
         ]
        ]
       }
@@ -324,10 +314,7 @@
        "Bereavement cleanouts through old Port Perry's Victorian streets"
       ],
       [
-       "Careful, appraisal-minded sorting for homes with genuine antiques"
-      ],
-      [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Documentation available for an executor or estate file"
@@ -397,10 +384,7 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ]
      ]
     }
@@ -788,7 +772,7 @@
        "q": "We're not sure if anything in the home is actually valuable — how do you handle that?",
        "a": [
         [
-         "With real care. Pieces that look like they might carry genuine value get set aside for a proper look rather than swept into general disposal, so the choice stays with the family. "
+         "With real care. Pieces that look like they might carry genuine value get set aside for a proper look rather than into general disposal, so the choice stays with the family. "
         ]
        ]
       },

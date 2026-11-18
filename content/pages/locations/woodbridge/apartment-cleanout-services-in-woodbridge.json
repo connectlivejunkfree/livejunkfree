@@ -9,7 +9,7 @@
   "description": "Apartment cleanout services in Woodbridge from Live Junk Free handle a family's apartment unit — whether it's a parent's own place.",
   "canonical": "https://livejunkfree.ca/locations/woodbridge/apartment-cleanout-services-in-woodbridge/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Apartment-Cleanout-Services-in-Woodbridge.jpeg"
+  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Ajax.jpeg"
  },
  "title": "Apartment Cleanout Services in Woodbridge",
  "h1": "Apartment Cleanout Services in Woodbridge from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Apartment-Cleanout-Services-in-Woodbridge-rrxpvfzu4c5ni4s5s3z6h1y6yovzartf7fegwxj4wg.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Ajax-rrmzgn6andbie2zv3395ne9iklgc1ewincvh8j7pn4.jpeg",
       "alt": "Apartment Cleanout Services in Woodbridge"
      }
     }
@@ -141,15 +141,6 @@
        "text": [
         [
          "{{fact:insuranceDocs}}."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "One flat apartment cleanout price — kept like a promise",
-       "text": [
-        [
-         "A crew member sees the actual unit and gives one flat number before anything moves."
         ]
        ]
       },
@@ -209,7 +200,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -230,7 +220,7 @@
     {
      "t": "p",
      "c": [
-      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -276,7 +266,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual unit and gives you one flat price before anything moves, with no assumptions made about the household."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -294,7 +284,7 @@
        "title": "The Unit Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready — for the family, or for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready — for the family, or for whatever comes next."
         ]
        ]
       }
@@ -333,9 +323,6 @@
       ],
       [
        "Keepsakes and anything meaningful set aside for the family, always"
-      ],
-      [
-       "Same flat pricing as any other apartment cleanout"
       ]
      ]
     },
@@ -355,9 +342,6 @@
       ],
       [
        "Common-area and hallway protection throughout"
-      ],
-      [
-       "Same flat pricing as any other apartment cleanout"
       ]
      ]
     }
@@ -383,7 +367,7 @@
        "Discreet, unhurried scheduling that respects the family's pace"
       ],
       [
-       "Same-day completion for most straightforward removals"
+       "Completion for most straightforward removals"
       ]
      ]
     },
@@ -402,10 +386,7 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ]
      ]
     }

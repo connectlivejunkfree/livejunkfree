@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/07/Soil-Removal-Service.jpeg"
  },
  "title": "Soil Removal Services",
- "h1": "Most Reliable Residential Soil Removal in Your Area",
+ "h1": "Residential Soil Removal in Your Area",
  "published": "2026-07-17T11:47:48",
  "modified": "2026-07-23T06:26:29",
  "sections": [
@@ -21,12 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Most Reliable Residential Soil Removal in Your Area"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in the town."
+     "text": "Residential Soil Removal in Your Area"
     },
     {
      "t": "ctas",
@@ -75,7 +70,7 @@
     {
      "t": "p",
      "c": [
-      "Environmental responsibility guides our approach to soil disposal. We don’t simply haul away and dump the material. We carefully sort and recycle clean fill for community projects, properly process contaminated soil at licensed facilities, and minimize landfill waste through sustainable practices."
+      "Environmental responsibility guides our approach to soil disposal. We don’t simply haul away and dump the material."
      ]
     },
     {
@@ -151,7 +146,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Soil Removal Available Now"
+     "text": "Same-Day Soil Removal may be available Now"
     },
     {
      "t": "p",
@@ -162,7 +157,7 @@
     {
      "t": "p",
      "c": [
-      "Whether you’re preparing for construction, fixing drainage issues, or simply clearing excess dirt, our same-day service when available means no waiting. {{fact:siteWorkScope}}. Our licensed team removes soil safely and efficiently, with same-day availability for urgent projects."
+      "Whether you’re preparing for construction, fixing drainage issues, or simply clearing excess dirt, our same-day service when available means no waiting. {{fact:siteWorkScope}}. Our licensed team removes soil safely and efficiently, with same-day availability when available for urgent projects."
      ]
     },
     {
@@ -190,7 +185,7 @@
      "c": [
       {
        "b": [
-        "Need Soil Removed Urgently? Same-Day Service Available"
+        "Need Soil Removed Urgently? Same-Day Service may be available"
        ]
       }
      ]
@@ -210,13 +205,7 @@
       {
        "title": "Schedule Around Your Needs",
        "text": [
-        "– Choose same-day, next-day, or weekend soil removal with no premium charges, subject to scheduling. We’ll arrange the ideal time that fits your project timeline."
-       ]
-      },
-      {
-       "title": "Environmentally Responsible Processing",
-       "text": [
-        "We carefully recycle clean fill for community projects and ensure contaminated soils are properly treated at licensed facilities, protecting both your property and our ecosystem."
+        "{{fact:changedScope}}. We’ll arrange the ideal time that fits your project timeline."
        ]
       },
       {
@@ -226,7 +215,7 @@
        ]
       },
       {
-       "title": "Instant Booking Convenience",
+       "title": "Booking Convenience",
        "text": [
         "– Secure your spot online or by phone, no lengthy forms or waiting for return calls."
        ]
@@ -240,7 +229,7 @@
       {
        "title": "Honest, Pricing",
        "text": [
-        "– Your quoted price is final for difficult access, soil type, or disposal requirements."
+        "{{fact:competitorComparison}}"
        ]
       }
      ]
@@ -297,9 +286,6 @@
        "Recycle Clean Fill – Donate quality soil to community gardens and construction projects"
       ],
       [
-       "Responsible Processing – Properly handle contaminated soil at licensed facilities"
-      ],
-      [
        "{{fact:recycling}}"
       ]
      ]
@@ -318,13 +304,7 @@
      "t": "ul",
      "items": [
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
-       "Free on-site estimates available same day"
-      ],
-      [
-       "Special rates for large-volume and commercial soil removal"
+       "Free on-site estimates available"
       ]
      ]
     }
@@ -373,17 +353,6 @@
        ]
       }
      ]
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "Excavation dirt and clean fill"
-      ],
-      [
-       "Contaminated or treated soils (properly contained)"
-      ]
-     ]
     }
    ]
   },
@@ -404,15 +373,9 @@
        ]
       },
       {
-       "title": "Get a Fair Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
-      {
        "title": "Choose Your Time",
        "text": [
-        "Choose from same-day emergency soil removal or schedule in advance, and we work around your timeline for complete convenience, subject to scheduling."
+        "{{fact:scheduling}}"
        ]
       },
       {
@@ -463,7 +426,7 @@
        "q": "Do you remove all types of soil, including contaminated soil?",
        "a": [
         [
-         "Yes, we remove all soil types – topsoil, clay, sand, and properly contained contaminated soil (special handling applies). Our teams are equipped for residential and commercial soil removal projects of any scale."
+         "Our teams are equipped for residential and commercial soil removal projects of any scale."
         ]
        ]
       },
@@ -479,7 +442,7 @@
        "q": "What areas do you serve for soil removal?",
        "a": [
         [
-         "We cover Markham, Vaughan, Richmond Hill, and the surrounding GTA. Confirm your specific address with us. Same-day soil removal availability varies by location. Call early for the best options."
+         "We cover Markham, Vaughan, Richmond Hill, and the surrounding GTA. Confirm your specific address with us. Same-day soil removal when available availability varies by location. Call early for the best options."
         ]
        ]
       },

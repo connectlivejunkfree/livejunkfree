@@ -9,7 +9,7 @@
   "description": "Hoarding cleanouts in Bolton from Live Junk Free bring two things that don't always come from the same crew — the actual capacity to clear.",
   "canonical": "https://livejunkfree.ca/locations/bolton/hoarding-cleanouts-in-bolton/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Bolton.jpeg"
+  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Ajax.jpeg"
  },
  "title": "Hoarding Cleanouts in Bolton",
  "h1": "Hoarding Cleanouts in Bolton from Live Junk Free",
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Hoarding cleanouts in Bolton from Live Junk Free bring two things that don't always come from the same crew — the actual capacity to clear a genuinely large volume of accumulation properly, and the patience to slow down wherever the sorting turns personal. Neither gets shortchanged for the other."
+     "text": "Neither gets shortchanged for the other."
     },
     {
      "t": "ctas",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Bolton-rrn6g8n3yxqi0ljdxue71wn6phd8ctq18n69mu645s.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Ajax-rrmzgn6andbie2zv3395ne9iklgc1ewincvh8j7pn4.jpeg",
       "alt": "Hoarding Cleanouts in Bolton"
      }
     }
@@ -127,7 +127,7 @@
       },
       {
        "n": "02",
-       "title": "The same patience for delicate sorting, whatever the scale",
+       "title": "The same patience for delicate whatever the scale",
        "text": [
         [
          "A large job doesn’t mean less attention to individual items that matter — photographs, documents, anything personal still gets the same careful set-aside treatment as it would in a smaller room."
@@ -136,7 +136,7 @@
       },
       {
        "n": "03",
-       "title": "One flat price, town or concession",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Size and material of the job set the number — never distance from Queen Street, and never an assumption about what a family can or can’t handle emotionally."
@@ -199,7 +199,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -220,7 +219,7 @@
     {
      "t": "p",
      "c": [
-      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -262,29 +261,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual space, assesses the real volume involved, and gives one flat number sized to the job in front of them."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room, at the Right Pace for Each Part",
-       "text": [
-        [
-         "Larger, more straightforward volumes move efficiently; anything that turns personal slows down, with everything meaningful set aside first, always."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "A Space That's Genuinely Clean, Not Just Superficially Cleared",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and properly usable, with follow-up visits scheduled whenever the family is ready for the next one."
+         "Whatever was worked on that visit is left and properly usable, with follow-up visits scheduled whenever the family is ready for the next one."
         ]
        ]
       }
@@ -368,9 +349,6 @@
       ],
       [
        "Real capacity for genuinely large volumes across a house and its outbuildings"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ],
       [
        "Coordination with executors or family members settling an estate"
@@ -996,7 +974,7 @@
        "q": "How much does a hoarding cleanout cost in Bolton?",
        "a": [
         [
-         "Pricing is based on how many rooms are affected and how much sorting the belongings need — never on whether there’s a deadline involved. The figure is confirmed free at a private walkthrough."
+         "{{fact:cleanupScope}}. The figure is confirmed free at a private walkthrough."
         ]
        ]
       },

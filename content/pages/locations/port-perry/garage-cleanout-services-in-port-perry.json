@@ -9,7 +9,7 @@
   "description": "Garage cleanout services in Port Perry from Live Junk Free cost the same whether the garage sits on Queen Street or looks out over Scugog Island's shoreline.",
   "canonical": "https://livejunkfree.ca/locations/port-perry/garage-cleanout-services-in-port-perry/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Garage-Cleanout-Services-in-Port-Perry-735x1024.jpg"
+  "ogImage": "/images/uploads/2026/08/Garage-Cleanout-Services-in-Ajax-735x1024.jpg"
  },
  "title": "Garage Cleanout Services in Port Perry",
  "h1": "Garage Cleanout Services in Port Perry from Live Junk Free",
@@ -86,13 +86,13 @@
     {
      "t": "p",
      "c": [
-      "Around old Port Perry’s Victorian streets, that’s often exactly the scenario. Along Scugog Island and the waterfront, it’s the same careful sorting applied to a cottage or seasonal garage. On the farms toward Blackstock, Nestleton, Seagrave and Greenbank, a garage cleanout sometimes extends into a barn as well."
+      "Around old Port Perry’s Victorian streets, that’s often exactly the scenario. {{fact:cleanupScope}}. On the farms toward Blackstock, Nestleton, Seagrave and Greenbank, a garage cleanout sometimes extends into a barn as well."
      ]
     },
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Garage-Cleanout-Services-in-Port-Perry-scaled-rrvurtlggzc895qgul23afxw6if7srds0f3alvz69c.jpg",
+      "src": "/images/uploads/elementor/thumbs/Garage-Cleanout-Services-in-Ajax-scaled-rru2wzn5zketx8x0ewh78jmetx2mpl6fy999jwh7qo.jpg",
       "alt": "Garage Cleanout Services in Port Perry"
      }
     }
@@ -127,20 +127,11 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "Antiques-aware garage cleanout sorting",
-       "text": [
-        [
-         "Furniture, collectibles and pieces that look like they might carry real value get separated out during sorting, set aside rather than assumed disposable because they were found in a garage."
-        ]
-       ]
-      },
-      {
        "n": "02",
-       "title": "One flat garage cleanout price, no postcard premium",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "The number reflects the size of the job and the sorting it needs — never whether the address happens to be on the water or in the antiques district."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -158,16 +149,7 @@
        "title": "Farmhouse and barn garage cleanout coordination",
        "text": [
         [
-         "Where a garage cleanout extends into a barn or outbuilding on a working farm, the whole space gets scoped and quoted together, under one visit."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first garage cleanout sorting for tools and equipment",
-       "text": [
-        [
-         "Working tools, equipment and household items with life left in them go to donation partners first, before anything reaches disposal."
+         "{{fact:scheduling}}"
         ]
        ]
       },
@@ -209,7 +191,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Village, Distance or Rural Premium, Ever"
      ]
     },
@@ -226,12 +207,6 @@
      "t": "price",
      "label": "Port Perry Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -282,7 +257,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual garage, notes anything that calls for a careful, appraisal-minded sort, and gives you one flat price before anything moves."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -300,7 +275,7 @@
        "title": "Your Garage Is Usable",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready to actually use again."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready to actually use again."
         ]
        ]
       }
@@ -341,13 +316,10 @@
        "Garage cleanouts through old Port Perry's Victorian streets"
       ],
       [
-       "Careful, appraisal-minded sorting for garages with genuine antiques or collectibles"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same-day service for straightforward downtown access"
+       "Service for straightforward downtown access"
       ]
      ]
     },
@@ -364,9 +336,6 @@
       ],
       [
        "Seasonal access and timing planned around the property's own rhythm"
-      ],
-      [
-       "Same flat pricing as anywhere else in the township"
       ],
       [
        "Cottage and seasonal-property coordination"
@@ -392,9 +361,6 @@
        "Whole-property coordination where a barn is involved"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Crews accustomed to working calmly around rural properties"
       ]
      ]
@@ -414,7 +380,7 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Recurring seasonal scheduling available on request"
@@ -789,7 +755,7 @@
        "q": "How much do garage cleanout services cost in Port Perry?",
        "a": [
         [
-         "Pricing is confirmed free at an on-site walkthrough based on how full the garage is and how much sorting it needs — never on its location."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -797,7 +763,7 @@
        "q": "Our garage has antiques or collectibles mixed in with regular clutter — how do you handle that?",
        "a": [
         [
-         "With real care. Pieces that look like they carry genuine value get set aside for a proper look rather than swept into general disposal. "
+         "With real care. Pieces that look like they carry genuine value get set aside for a proper look rather than into general disposal. "
         ]
        ]
       },
@@ -805,7 +771,7 @@
        "q": "Can you work around seasonal access to an island or waterfront garage?",
        "a": [
         [
-         "Yes — tell the crew your property’s rhythm at the walkthrough and the visit gets planned around it, at the same flat price as anywhere else. "
+         "{{fact:changedScope}}. "
         ]
        ]
       },
@@ -813,7 +779,7 @@
        "q": "Can the cleanout include a barn, not just the garage?",
        "a": [
         [
-         "Yes — it’s regular work for us on Scugog’s farm properties, scoped and quoted together under one visit. "
+         "{{fact:pickupTimes}} "
         ]
        ]
       },
@@ -830,7 +796,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Garage-Cleanout-Services-in-Bolton-scaled-rru3godh4nd138bjgetwgkryqg1dxdc1zp5dejadf4.jpg",
+      "src": "/images/uploads/elementor/thumbs/Garage-Cleanout-Services-in-Ajax-scaled-rru2wzn5zketx8x0ewh78jmetx2mpl6fy999jwh7qo.jpg",
       "alt": "Garage Cleanout Services in Bolton"
      }
     }

@@ -24,11 +24,6 @@
      "text": "Your Trusted Local Brush Removal Services Provider Experts"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "The most reliable brush clearing and disposal service."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -115,7 +110,7 @@
     {
      "t": "p",
      "c": [
-      "For invasive shrubs, fallen branches, or snow removal brush in car areas, our professional same-day brush removal service ensures thorough cleanup, subject to scheduling. No heavy lifting, no mess, just seamless removal from start to finish."
+      "{{fact:cleanupScope}}. No heavy lifting, no mess, just seamless removal from start to finish."
      ]
     },
     {
@@ -157,7 +152,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Fast & Easy Brush Removal – Same-Day Service Available"
+     "text": "Fast & Easy Brush Removal – Same-Day Service may be available"
     },
     {
      "t": "p",
@@ -195,9 +190,6 @@
      "items": [
       [
        "Professional cutting and safe removal of all brush types"
-      ],
-      [
-       "Thorough cleanup and hauling of all debris"
       ],
       [
        "Environmentally responsible disposal through approved facilities"
@@ -242,15 +234,9 @@
        ]
       },
       {
-       "title": "{{fact:nextAvailable}}",
-       "text": [
-        "{{fact:nextAvailable}}"
-       ]
-      },
-      {
        "title": "Eco-Conscious Processing",
        "text": [
-        "– 100% of brush materials are recycled or repurposed through sustainable methods"
+        "Careful Removal"
        ]
       },
       {
@@ -288,7 +274,7 @@
        "We specialize in safely removing all types of brush, from overgrown shrubs to storm debris and snow removal brush car areas, and everything in between. Our professional team carefully handles each job, cutting and clearing vegetation without damaging your property."
       ],
       [
-       "When we are done, your land will be clean, organized, and ready for landscaping or whatever use you choose. No brush removal challenge is too big for our experienced crew – we’ve successfully cleared thousands of properties in your area, including post-winter brush snow removal projects"
+       "When we are done, your land will be clean, organized, and ready for landscaping or whatever use you choose."
       ]
      ]
     },
@@ -307,13 +293,13 @@
      "t": "ul",
      "items": [
       [
-       "Responsible Recycling – We recycle up to 100% of brush materials through mulching and composting programs, transforming waste into nutrient-rich resources"
+       "Careful Removal"
       ],
       [
        "Community Reuse Program – Usable wood and branches find new purpose through local parks, wildlife habitats, and erosion control projects"
       ],
       [
-       "Eco-Smart Processing – Our sorting system ensures maximum material recovery, because every branch deserves a sustainable second life"
+       "{{fact:cleanupScope}}."
       ]
      ]
     },
@@ -347,12 +333,6 @@
      "items": [
       [
        "{{fact:freeOnsiteEstimates}}"
-      ],
-      [
-       "Flat-Rate Pricing – Know your total cost upfront"
-      ],
-      [
-       "Area Discounts – Special savings for large property clearings and bulk brush removal"
       ]
      ]
     }
@@ -427,15 +407,9 @@
        ]
       },
       {
-       "title": "Get Your Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
-      {
        "title": "Pick Your Preferred Time",
        "text": [
-        "Schedule same-day or next-day pickup with our team, available at your convenience, even for urgent brush snow removal needs."
+        "Schedule same-day or next-day pickup when available with our team, available at your convenience, even for urgent brush snow removal needs."
        ]
       },
       {
@@ -465,7 +439,7 @@
        "alt": "brush removal services before"
       },
       {
-       "src": "/images/uploads/2026/07/sod-removal-services-after-2-1-1024x765.png",
+       "src": "/images/uploads/2026/07/sod-removal-services-after-2-1024x765.png",
        "alt": "brush removal services after"
       }
      ]
@@ -494,7 +468,7 @@
        "q": "How is pricing determined for brush removal?",
        "a": [
         [
-         "Costs depend on the volume of material and job complexity. We offer free, no-obligation quotes with transparent flat-rate pricing."
+         "Costs depend on the volume of material and job complexity. {{fact:changedScope}}."
         ]
        ]
       },
@@ -510,7 +484,7 @@
        "q": "How quickly can you remove my brush?",
        "a": [
         [
-         "Same-day and next-day service is often available, especially for urgent storm cleanups or property preparations."
+         "Same-day and next-day service when available is often available, especially for urgent storm cleanups or property preparations."
         ]
        ]
       },

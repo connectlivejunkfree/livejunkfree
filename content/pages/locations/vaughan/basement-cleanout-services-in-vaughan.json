@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Basement Cleanout Services in Vaughan | Live Junk Free",
-  "description": "Live Junk Free provides basement cleanout services in Vaughan to clear the buildup, haul it away and leave your space open and swept.",
+  "description": "Live Junk Free provides basement cleanout services in Vaughan to clear the buildup, haul it away and leave your space open.",
   "canonical": "https://livejunkfree.ca/locations/vaughan/basement-cleanout-services-in-vaughan/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/basement-cleanout-services.jpeg"
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Years of boxes, furniture, appliances and forgotten belongings can make your Vaughan basement feel impossible to reclaim. Live Junk Free provides basement cleanout services in Vaughan to clear the buildup, haul it away and leave your space open and swept."
+     "text": "Years of boxes, furniture, appliances and forgotten belongings can make your Vaughan basement feel impossible to reclaim. Live Junk Free provides basement cleanout services in Vaughan to clear the buildup, haul it away and leave your space open."
     },
     {
      "t": "ctas",
@@ -105,7 +105,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/elementor/thumbs/basement-cleanout-services-rr0twuhr7x0e3sgyb5a2t23o4qkitb3ekxgaueovck.jpeg",
-      "alt": "basement-cleanout-services"
+      "alt": "Basement Cleanout in Vaughan: Live Junk Free job photo"
      }
     }
    ]
@@ -124,7 +124,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Basement clutter can be difficult to tackle because the job involves more than sorting. Furniture and appliances have to come up stairs, boxes need to be carried out and awkward items may require more than one person. Our basement cleaning and junk removal crew handles the physical work from the basement to the truck."
+     "text": "Furniture and appliances have to come up stairs, boxes need to be carried out and awkward items may require more than one person. Our basement cleaning and junk removal crew handles the physical work from the basement to the truck."
     }
    ]
   },
@@ -162,10 +162,10 @@
       },
       {
        "n": "04",
-       "title": "Basement Cleaning and Junk Removal Near Me in One Visit",
+       "title": "Basement Cleaning and Junk Removal Near Me",
        "text": [
         [
-         "Instead of hiring separate crews for hauling and cleanup, our basement cleaning and junk removal near me service combines the work. We remove the unwanted contents, sort appropriate materials and sweep the floor before leaving."
+         "Instead of hiring separate crews for hauling and cleanup, our basement cleaning and junk removal near me service combines the work. We remove the unwanted contents, sort appropriate materials before leaving."
         ]
        ]
       },
@@ -321,7 +321,7 @@
     {
      "t": "p",
      "c": [
-      "Every basement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every basement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -385,7 +385,7 @@
        "title": "We Clean Out Basement Junk",
        "text": [
         [
-         "Our crew carries the unwanted items out, loads them onto the truck, separates appropriate materials for donation and recycling and sweeps the basement when the removal is complete."
+         "{{fact:cleanupScope}}."
         ]
        ]
       }
@@ -490,7 +490,7 @@
     {
      "t": "p",
      "c": [
-      "If you are searching for basement cleanouts near me because you need the space cleared quickly, Live Junk Free offers same-day basement cleanouts when scheduling allows. Along with basement junk removal, we provide house cleanouts, apartment cleanouts, garage cleanouts, estate cleanouts, eviction cleanouts, hoarding cleanouts, storage unit cleanouts and office cleanouts. Our demolition services also include deck demolition, fence demolition, garage demolition, shed demolition and hot tub demolition for larger property projects."
+      "If you are searching for basement cleanouts near me because you need the space cleared quickly, Live Junk Free offers same-day basement cleanouts when available when scheduling allows. Along with basement junk removal, we provide house cleanouts, apartment cleanouts, garage cleanouts, estate cleanouts, eviction cleanouts, hoarding cleanouts, storage unit cleanouts and office cleanouts. Our demolition services also include deck demolition, fence demolition, garage demolition, shed demolition and hot tub demolition for larger property projects."
      ]
     },
     {

@@ -9,7 +9,7 @@
   "description": "Learn how eco friendly office cleanouts help recycle old equipment, reduce landfill waste, protect data, and support sustainable business practices",
   "canonical": "https://livejunkfree.ca/blog/eco-friendly-office-cleanouts-recycle-equipment/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2025/12/Eco-Friendly-Office-Cleanouts-How-to-Recycle-Old-Equipment.jpeg"
+  "ogImage": "/images/uploads/2025/10/Is-It-Legal-to-Throw-Electronics-in-the-Trash.jpeg"
  },
  "title": "Eco-Friendly Office Cleanouts: How to Recycle Old Equipment",
  "h1": "Eco-Friendly Office Cleanouts: How to Recycle Old Equipment",
@@ -20,7 +20,7 @@
   "Blog"
  ],
  "featuredImage": {
-  "src": "/images/uploads/2025/12/Eco-Friendly-Office-Cleanouts-How-to-Recycle-Old-Equipment.jpeg",
+  "src": "/images/uploads/2025/10/Is-It-Legal-to-Throw-Electronics-in-the-Trash.jpeg",
   "alt": "Eco-Friendly Office Cleanouts: How to Recycle Old Equipment"
  },
  "sections": [
@@ -29,7 +29,7 @@
     {
      "t": "p",
      "c": [
-      "In today’s business environment, corporate responsibility extends beyond profits to include environmental stewardship. When it’s time to update your workspace through an office cleanout, how you dispose of old equipment speaks volumes about your company’s values. An eco-friendly office cleanout moves beyond simple disposal to prioritize recycling, refurbishment, and responsible waste diversion. This approach not only benefits the planet but also enhances your brand reputation and ensures compliance with regulations, particularly for electronic waste. For businesses in Markham, Mississauga, Brampton, and ",
+      "In today’s business environment, corporate responsibility extends beyond profits to include environmental stewardship. When it’s time to update your workspace through an office cleanout, how you dispose of old equipment speaks volumes about your company’s values. An eco-friendly office cleanout moves beyond simple disposal to prioritize recycling, refurbishment, and responsible waste diversion. For businesses in Markham, Mississauga, Brampton, and ",
       {
        "a": "/locations/",
        "c": [
@@ -118,7 +118,7 @@
        "Employee Sales/Donations: Offer items to employees at a low cost or for free."
       ],
       [
-       "Charity and Non-Profit Donation: Many local organizations in the GTA, from schools in Pickering to startups in Richmond Hill, need desks, chairs, and filing cabinets. Donation extends product life and supports your community."
+       "Donation extends product life and supports your community."
       ]
      ]
     },
@@ -136,7 +136,7 @@
      "t": "ul",
      "items": [
       [
-       "Electronics (E-Waste): This is non-negotiable. Ontario has strict regulations for electronics recycling. Professional office cleanout services partner with e-waste recyclers who safely break down components, recover precious metals, and ensure toxic elements are contained."
+       "Electronics (E-Waste): This is non-negotiable. Ontario has strict regulations for electronics recycling."
       ],
       [
        "Metal and Wood: Metal desks, filing cabinets, and shelving are highly recyclable. Wood from furniture can often be chipped for mulch or biomass fuel."
@@ -203,7 +203,7 @@
      "t": "ul",
      "items": [
       [
-       "Donation Coordination: They have established relationships with local charities and can efficiently handle the pickup and delivery of donatable items."
+       "{{fact:recycling}}"
       ],
       [
        "Efficient Material Handling: They have the manpower and logistics to sort materials on-site, preventing contamination of recyclable streams."
@@ -245,10 +245,7 @@
        "Sustainable Assessment: We evaluate your items with a focus on maximizing donation and recycling opportunities."
       ],
       [
-       "On-Site Sorting: Our crews sort materials directly into dedicated streams: donation, e-waste, metal, wood, and general waste."
-      ],
-      [
-       "We maximize donations to local GTA charities."
+       "{{fact:cleanupScope}}."
       ],
       [
        "Transparent Tracking: We provide details on where materials were diverted, offering you clear evidence of your company’s sustainable action."
@@ -407,17 +404,6 @@
      "c": [
       "Ensuring Complete Data Security:"
      ]
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "{{fact:recycling}}"
-      ],
-      [
-       "This is a non-negotiable document for your compliance files."
-      ]
-     ]
     }
    ]
   },
@@ -439,9 +425,6 @@
      "items": [
       [
        "Enhanced Brand Image: Demonstrates commitment to ESG (Environmental, Social, and Governance) principles to clients, investors, and employees."
-      ],
-      [
-       "Risk Mitigation: Ensures compliance with Ontario’s electronic waste regulations, avoiding potential fines."
       ],
       [
        "Employee Morale: Staff increasingly want to work for companies that reflect their values. A sustainable cleanout is a visible demonstration of those values."

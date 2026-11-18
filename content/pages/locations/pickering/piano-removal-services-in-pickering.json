@@ -9,7 +9,7 @@
   "description": "Piano Removal Services in Pickering from Live Junk Free — an experienced crew moves upright, baby grand and grand pianos safely.",
   "canonical": "https://livejunkfree.ca/locations/pickering/piano-removal-services-in-pickering/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Piano-Removal-in-Pickering.jpg"
+  "ogImage": "/images/uploads/2026/08/Piano-Removal-in-Oshawa.jpg"
  },
  "title": "Piano Removal Services in Pickering",
  "h1": "Piano Removal Services in Pickering from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/2026/08/Piano-Removal-in-Pickering.jpg",
+      "src": "/images/uploads/2026/08/Piano-Removal-in-Oshawa.jpg",
       "alt": "Piano Removal in Pickering",
       "width": 618,
       "height": 496
@@ -129,7 +129,7 @@
       },
       {
        "n": "02",
-       "title": "One flat price, whatever the piano's age",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Size and type set the number, confirmed at the walkthrough — it makes no difference whether the piano arrived last year or fifty years ago."
@@ -159,7 +159,7 @@
        "title": "Donation-first for pianos that still play",
        "text": [
         [
-         "Working pianos are checked against donation partners — schools, community centres, churches — before anything is recycled."
+         "Working pianos are checked against donation partners — schools, community centres, churches — before anything is recycled where possible."
         ]
        ]
       },
@@ -201,8 +201,7 @@
     {
      "t": "checks",
      "items": [
-      "Move + Disassembly + Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Move + Disassembly + Haul-Away"
      ]
     },
     {
@@ -274,7 +273,7 @@
        "title": "Get a Free On-Site Quote — Route Measured First",
        "text": [
         [
-         "The crew measures doorways and staircase turns, checks whether legs or lids need to come off, and gives you one flat price."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -342,7 +341,7 @@
        "Wall, corner and staircase protection throughout"
       ],
       [
-       "Donation-first checks before any piano is recycled"
+       "Donation-first checks before any piano is recycled where possible"
       ],
       [
        "Full room cleanouts alongside the piano removal, on request"
@@ -361,13 +360,10 @@
        "Piano removal ahead of additions across Rougemount, Rosebank and Highbush"
       ],
       [
-       "Timed to land before your contractor's foundation work begins"
-      ],
-      [
        "Legs, lid and pedals detached where the move requires it"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Coordination around the renovation's broader schedule"
@@ -399,13 +395,10 @@
        "Coordination around new piano delivery dates"
       ],
       [
-       "Same-day piano pick up for straightforward access"
+       "Piano pick up for straightforward access"
       ],
       [
        "Full protection of finished floors throughout"
-      ],
-      [
-       "Donation-first sorting before any recycling"
       ]
      ]
     },
@@ -843,7 +836,7 @@
        "q": "Do you charge extra for stairs?",
        "a": [
         [
-         "No. Narrow staircases and multi-floor moves are factored into one flat quote at the walkthrough."
+         "No. {{fact:changedScope}}."
         ]
        ]
       },
@@ -852,14 +845,6 @@
        "a": [
         [
          "Legs, the lid and sometimes the pedal lyre come off to fit through doorways and stairwells, and the piano moves on proper piano boards. "
-        ]
-       ]
-      },
-      {
-       "q": "Can you clear a piano ahead of an addition being built?",
-       "a": [
-        [
-         "Yes — removal times to land before your contractor’s foundation work begins, cleared exactly to fit the plan."
         ]
        ]
       }

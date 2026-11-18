@@ -9,7 +9,7 @@
   "description": "Hoarding cleanouts in Pickering from Live Junk Free are handled privately, without judgment, and at whatever pace a family needs.",
   "canonical": "https://livejunkfree.ca/locations/pickering/hoarding-cleanouts-in-pickering/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Pickering.jpeg"
+  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Ajax.jpeg"
  },
  "title": "Hoarding Cleanouts in Pickering",
  "h1": "Hoarding Cleanouts in Pickering from Live Junk Free",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Hoarder clean out cost is set by two honest factors: how many rooms are affected, and how much sorting and donation coordination the belongings need. A single room is a modest job. A full bungalow with decades of accumulation across every level — including a basement — takes considerably more time, and the price reflects that real scope rather than a phone-estimate guess."
+      "Hoarder clean out cost is set by two honest factors: how many rooms are affected, and how much donation coordination the belongings need. A single room is a modest job. A full bungalow with decades of accumulation across every level — including a basement — takes considerably more time, and the price reflects that real scope rather than a phone-estimate guess."
      ]
     },
     {
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Pickering-rrlnorx9qay77l77wo1oeed1dygq2p59isu3o5a2kw.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Ajax-rrmzgn6andbie2zv3395ne9iklgc1ewincvh8j7pn4.jpeg",
       "alt": "Hoarding Cleanouts in Pickering"
      }
     }
@@ -148,7 +148,7 @@
        "title": "Anything meaningful gets physically set aside",
        "text": [
         [
-         "Photographs, documents, jewellery and cash found during sorting go straight into a separate pile for the family to review, never grouped into a donation or disposal load by default."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -193,7 +193,7 @@
     {
      "t": "p",
      "c": [
-      "Every quote covers the same things regardless of scope: sorting through the space, setting aside anything meaningful, hauling and donation coordination for everything else, and disposal for what genuinely can’t be reused. The number is set after an in-person walkthrough — not from a phone description — because the actual amount of work varies enormously between a single room and a full house."
+      "{{fact:cleanupScope}}. The number is set after an in-person walkthrough — not from a phone description — because the actual amount of work varies enormously between a single room and a full house."
      ]
     },
     {
@@ -220,7 +220,7 @@
     {
      "t": "p",
      "c": [
-      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -262,29 +262,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual space in person and gives one flat number before anything moves, with no obligation attached to hearing it."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at a pace that matches what the family and, where relevant, the resident can handle that day."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "The Space Is Left Clean and Usable",
        "text": [
         [
-         "Whatever was worked on that visit gets swept and left functional — the whole house, or just the room that was tackled, with follow-up visits scheduled whenever the family is ready for the next one."
+         "Whatever was worked on that visit gets and left functional — the whole house, or just the room that was tackled, with follow-up visits scheduled whenever the family is ready for the next one."
         ]
        ]
       }
@@ -350,7 +332,7 @@
        "Cleaning out a hoarder's home while the resident continues living there"
       ],
       [
-       "Kitchen, bathroom and bedroom cleared to a safe, livable standard"
+       "Careful Removal"
       ],
       [
        "Basement and garage cleanouts where accumulation has built up over years"

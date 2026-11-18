@@ -9,10 +9,10 @@
   "description": "Fast commercial junk removal in Whitby for offices, retail stores, warehouses, and businesses. Book with Live Junk Free today.",
   "canonical": "https://livejunkfree.ca/locations/commercial-junk-removal-in-whitby/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/07/Commercial-Junk-Removal-in-Aurora.jpeg"
+  "ogImage": "/images/uploads/2026/07/Monitor-Removal-Services-1.jpeg"
  },
  "title": "Commercial Junk Removal in Whitby",
- "h1": "Most Reliable Commercial Junk Removal in Whitby, Ontario",
+ "h1": "Commercial Junk Removal in Whitby, Ontario",
  "published": "2026-08-04T03:00:32",
  "modified": "2026-08-04T03:00:32",
  "sections": [
@@ -21,7 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Most Reliable Commercial Junk Removal in Whitby, Ontario"
+     "text": "Commercial Junk Removal in Whitby, Ontario"
     },
     {
      "t": "h",
@@ -92,7 +92,7 @@
     {
      "t": "p",
      "c": [
-      "Responsible disposal guides how we work. We don’t simply haul everything to a landfill — we sort office furniture and provide e-waste removal and recycling wherever possible, and we process construction debris removal and general commercial waste through licensed facilities to keep Whitby’s landfill impact low."
+      "Responsible disposal guides how we work."
      ]
     },
     {
@@ -129,16 +129,7 @@
        "title": "Schedule Around Your Business Hours",
        "text": [
         [
-         "Choose same day junk removal when available, next-day, evening, or weekend service with no premium charges — we work around your Whitby operation’s timeline."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Environmentally Responsible Processing",
-       "text": [
-        [
-         "We recycle office furniture through our office furniture removal service, and ensure construction debris removal and e-waste removal are properly processed at licensed facilities."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -147,13 +138,13 @@
        "title": "Economical for Large-Scale Projects",
        "text": [
         [
-         "Clearing a warehouse, multi-unit office, or full retail plaza?"
+         "{{fact:competitorComparison}}"
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Instant Booking Convenience",
+       "title": "Booking Convenience",
        "text": [
         [
          "Secure your spot online or by phone — no lengthy forms or waiting for a callback, making us one of the easiest junk removal companies near me to book in Whitby."
@@ -174,7 +165,7 @@
        "title": "Honest, Pricing",
        "text": [
         [
-         "Your quoted price is final — for stairs, difficult access, item type, or disposal requirements. It’s why so many local businesses search commercial junk removal near me and choose us."
+         "{{fact:changedScope}}. It’s why so many local businesses search commercial junk removal near me and choose us."
         ]
        ]
       }
@@ -191,12 +182,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Commercial Junk Removal Available Now"
+     "text": "Same-Day Commercial Junk Removal may be available Now"
     },
     {
      "t": "h",
      "l": 3,
-     "text": "Flat-Rate Junk Removal Quotes — Volume Decides. You Approve. That's It."
+     "text": "You Approve. That's It."
     },
     {
      "t": "p",
@@ -207,14 +198,13 @@
     {
      "t": "p",
      "c": [
-      "Whether you’re relocating, renovating, closing a location, or managing a property management cleanout across multiple tenants, our same day junk removal when available service means no waiting on your project timeline. As one of the most responsive junk removal companies near me in Whitby, our fully insured, uniformed team handles it all:"
+      "Whether you’re relocating, renovating, closing a location, or managing a property management cleanout across multiple tenants, our same day junk removal service when available means no waiting on your project timeline. As one of the most responsive junk removal companies near me in Whitby, our fully insured, uniformed team handles it all:"
      ]
     },
     {
      "t": "checks",
      "items": [
-      "Junk Removal + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Junk Removal + Haul-Away in One Number"
      ]
     },
     {
@@ -262,7 +252,7 @@
     {
      "t": "p",
      "c": [
-      "No bin permits to file, no dumpsters blocking your customers’ parking. Just this:"
+      "{{fact:permits}} Just this:"
      ]
     }
    ]
@@ -282,20 +272,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Fair Quote",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Choose Your Time",
        "text": [
         [
-         "Book same day junk removal when available, next-day, or after-hours service — we work around your Whitby business’s schedule, no matter what hours you operate."
+         "{{fact:scheduling}}"
         ]
        ]
       },

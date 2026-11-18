@@ -123,7 +123,7 @@
      "items": [
       {
        "n": "01",
-       "title": "Multi-site retail cleanout services for national closure programmes",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Chain wind-downs are scheduled as a programme rather than a series of one-off jobs. Consistent per-unit pricing across every location, a schedule your facilities team can plan against, and consolidated invoicing and documentation for head office."
@@ -144,7 +144,7 @@
        "title": "Power centre and big-box retail strip-out services",
        "text": [
         [
-         "Full-height pallet racking, mezzanine shelving, back-of-house storage systems and anchor-unit fixture packages across Heartland, Dixie and the Erin Mills and Meadowvale centres. Large-format retail cleanout services need a crew sized for the building."
+         "{{fact:equipmentScope}}. Large-format retail cleanout services need a crew sized for the building."
         ]
        ]
       },
@@ -171,7 +171,7 @@
        "title": "Independent retail cleanout pricing",
        "text": [
         [
-         "National junk removal brands build royalty fees into every commercial quote before a truck is dispatched, and across a multi-location programme that compounds into real money. As an independent operator we carry none of it."
+         "{{fact:changedScope}}. As an independent operator we carry none of it."
         ]
        ]
       }
@@ -271,7 +271,7 @@
     {
      "t": "p",
      "c": [
-      "Your retail cleanout cost in Mississauga is determined by the volume of material, the fixture removal involved, and the access the unit allows. A small plaza bay in Cooksville or Malton with a counter, shelving and remaining stock is a short job. A closed anchor unit at Heartland with full-height racking and deep back-of-house, or a Square One unit with restricted service corridor access and permitted-hours-only working, is a substantially larger one — and we quote each for what is genuinely present."
+      "Your retail cleanout cost in Mississauga is determined by the volume of material, the fixture removal involved, and the access the unit allows. A small plaza bay in Cooksville or Malton with a counter, shelving and remaining stock is a short job. {{fact:equipmentScope}}."
      ]
     },
     {
@@ -283,8 +283,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -304,7 +303,7 @@
     {
      "t": "p",
      "c": [
-      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -341,16 +340,7 @@
        "title": "Book your retail cleanout with the unit and lease details",
        "text": [
         [
-         "Call +1 647 922 5865 or book online. Please tell us the unit format, your lease surrender date, how many locations are involved, what fixtures and racking are being removed, whether there is loading dock or service corridor access, and any centre rules on working hours."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Free walkthrough and one flat retail cleanout price",
-       "text": [
-        [
-         "Our crew assesses the sales floor, back-of-house, stockroom, warehouse area and any exterior storage in scope. We provide one flat price per location before any work begins, held consistent across every site in a multi-unit programme."
+         "Call +1 647 922 5865 or book online. {{fact:equipmentScope}}."
         ]
        ]
       },
@@ -359,16 +349,16 @@
        "title": "Retail cleanout scheduled to your street's access rules",
        "text": [
         [
-         "We protect flooring, shared corridors and service lifts first, then dismantle and remove racking, shelving, display units, counters, signage, residual stock, office furniture, electronics and appliances. We photograph each unit throughout."
+         "{{fact:equipmentScope}}. We photograph each unit throughout."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Fixtures removed, unit swept",
+       "title": "Fixtures removed, unit",
        "text": [
         [
-         "Each space is left broom-swept and empty."
+         "Each space is left and empty."
         ]
        ]
       }
@@ -473,7 +463,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than retail cleanout services across Mississauga. Our commercial junk removal handles mall and plaza units, power centre and big-box stores, offices through the City Centre and Airport Corporate Centre, restaurants and banquet halls, medical and professional suites, warehouses and light-industrial space across the Northeast, Gateway and Meadowvale Business Park employment lands, with same-day attendance wherever access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and yard waste from condos, townhouses and detached homes in every ward. Our demolition services cover interior strip-outs, tenant improvement removal, warehouse racking, kitchen and bar builds, partitions, dropped ceilings and built-in fixtures, along with sheds, garages, decks, fences, gazebos, above-ground pools and hot tubs on residential lots. Where a property requires complete clearing, we provide same-day office cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than retail cleanout services across Mississauga. Our commercial junk removal handles mall and plaza units, power centre and big-box stores, offices through the City Centre and Airport Corporate Centre, restaurants and banquet halls, medical and professional suites, warehouses and light-industrial space across the Northeast, Gateway and Meadowvale Business Park employment lands, with same-day attendance wherever access allows, subject to availability. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and yard waste from condos, townhouses and detached homes in every ward. {{fact:equipmentScope}}. Where a property requires complete clearing, we provide same-day office cleanout when available, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -503,15 +493,10 @@
   {
    "blocks": [
     {
-     "t": "h",
-     "l": 3,
-     "text": "Multi-Site & National Programme Retail Cleanouts in Mississauga"
-    },
-    {
      "t": "ul",
      "items": [
       [
-       "We handle chain and franchise closure programmes as one coordinated sequence, keeping per-unit retail cleanout pricing consistent across every location. A single point of contact works with head office real estate and facilities teams, while consolidated invoicing and documentation keep the programme organized. Rates extend across every GTA location included in the programme, with each unit returned broom-swept ahead of its surrender date."
+       "We handle chain and franchise closure programmes as one coordinated sequence, keeping per-unit retail cleanout pricing consistent across every location. A single point of contact works with head office real estate and facilities teams, while consolidated invoicing and documentation keep the programme organized. Rates extend across every GTA location included in the programme, with each unit returned ahead of its surrender date."
       ]
      ]
     },
@@ -541,7 +526,7 @@
      "t": "ul",
      "items": [
       [
-       "We handle large-format retail strip-outs across Heartland, Dixie, Meadowvale, and Winston Churchill. Full-height pallet racking and mezzanine shelving are dismantled and removed, along with back-of-house storage systems and stockrooms. Fitting rooms, checkout banks, and service counters are cleared as part of the same scope, with loading dock and after-hours access used where available. Crew size is planned around the building and volume of work rather than simply the truck capacity."
+       "We handle large-format retail strip-outs across Heartland, Dixie, Meadowvale, and Winston Churchill. {{fact:equipmentScope}}."
       ]
      ]
     },
@@ -554,7 +539,7 @@
      "t": "ul",
      "items": [
       [
-       "We handle cleanouts for family-run retail units along Hurontario, Dundas, Airport Road, and Lakeshore. Decades of stock, records, and display materials are sorted rather than simply bulldozed, while abandoned fixtures, remaining stock, and signage are removed after a tenant vacates. Units are returned to a showable shell condition for re-leasing, with multiple plaza bays handled under one quote and consolidated invoice. Same-day retail cleanout services in Mississauga are available where access permits."
+       "We handle cleanouts for family-run retail units along Hurontario, Dundas, Airport Road, and Lakeshore. Decades of stock, records, and display materials are sorted rather than simply bulldozed, while abandoned fixtures, remaining stock, and signage are removed after a tenant vacates. Units are returned to a showable shell condition for re-leasing, with multiple plaza bays handled under one quote and consolidated invoice. Same-day retail cleanout services when available in Mississauga are available where access permits."
       ]
      ]
     }

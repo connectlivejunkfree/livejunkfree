@@ -24,11 +24,6 @@
      "text": "Your Trusted Local Pool Table Experts"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "The most reliable pool table disassembly and removal service."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -150,7 +145,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Fast & Easy Pool Table Removal – Same-Day Service Available"
+     "text": "Fast & Easy Pool Table Removal – Same-Day Service may be available"
     },
     {
      "t": "p",
@@ -228,32 +223,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "{{fact:competitorComparison}}"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "– Bundle your pool table removal with other services like furniture hauling or home cleanouts for maximum value"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Careful Removal"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Careful Removal"
-    },
-    {
-     "t": "h",
-     "l": 3,
      "text": "Flexible Scheduling"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "{{fact:nextAvailable}}"
     },
     {
      "t": "h",
@@ -273,17 +243,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "– From disassembly to final cleanup, we leave your room ready for new possibilities"
-    },
-    {
-     "t": "h",
-     "l": 3,
      "text": "Year-Round Availability"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "– Expert service regardless of season, with climate-controlled transport in extreme weather"
     }
    ]
   },
@@ -306,7 +266,7 @@
        "We specialize in safely removing all types of pool tables, from antique slate models to modern tournament-size tables, and everything in between. Our professional team carefully handles each job, disassembling and moving your pool table without damaging your property or the table itself."
       ],
       [
-       "When we’re done, your space will be completely clear, organized, and ready for new furniture or whatever use you choose. No pool table removal challenge is too big for our experienced crew; we have successfully removed hundreds of tables throughout your area, including delicate tables requiring special pocket removal and reassembly services."
+       "When we’re done, your space will be completely clear, organized, and ready for new furniture or whatever use you choose."
       ]
      ]
     },
@@ -325,7 +285,7 @@
      "t": "ul",
      "items": [
       [
-       "Table Renewal Program – Playable pool tables find new homes through donations to schools, community centers, and youth organizations"
+       "{{fact:recycling}}"
       ],
       [
        "Sustainable Component Recycling – We carefully dismantle and repurpose slate, felt, and wood materials through recycling partners"
@@ -365,9 +325,6 @@
      "items": [
       [
        "{{fact:freeOnsiteEstimates}}"
-      ],
-      [
-       "Flat-Rate Pricing – Know your total cost upfront"
       ],
       [
        "{{fact:competitorComparison}}"
@@ -438,7 +395,7 @@
       {
        "title": "Share Your Pool Table Details",
        "text": [
-        "Send us photos of your pool table, including size, style, and location, via text or our website. We'll assess everything instantly."
+        "Send us photos of your pool table, including size, style, and location, via text or our website. {{fact:scheduling}}"
        ]
       },
       {
@@ -450,7 +407,7 @@
       {
        "title": "Pick Your Preferred Time",
        "text": [
-        "Schedule same-day or next-day service with our team, available at your convenience for urgent pool table removal service needs."
+        "Schedule same-day or next-day service when available with our team, available at your convenience for urgent pool table removal service needs."
        ]
       },
       {
@@ -481,7 +438,7 @@
       },
       {
        "src": "/images/uploads/2026/07/pool-table-removal-services_before.jpeg_202607141604-1024x765.jpeg",
-       "alt": "pool table removal services after"
+       "alt": "pool table removal services before"
       }
      ]
     }
@@ -533,7 +490,7 @@
        "q": "Can I get same-day service?",
        "a": [
         [
-         "Yes, we often provide same-day or next-day removal depending on schedule availability. "
+         "Yes, we often provide same-day or next-day removal when available depending on schedule availability. "
         ]
        ]
       },
@@ -557,7 +514,7 @@
        "q": "Do I need to prepare the area beforehand?",
        "a": [
         [
-         "No preparation is needed. We handle everything from disassembly to final cleanup of the space. "
+         "No preparation is needed. {{fact:cleanupScope}}. "
         ]
        ]
       }

@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Live Junk Free provides retail cleanout services in Bolton for shop owners, restaurateurs, commercial landlords and property managers across the Queen Street heritage core, the Highway 50 plaza strip, the Coleraine and Albion Vaughan commercial units and the Bolton employment lands. Bolton is a self-contained town centre serving 27,000 people, with the retail density of a small city inside a village street plan. That combination decides how a cleanout has to be worked, and we plan around it rather than discovering it on the day."
+     "text": "Live Junk Free provides retail cleanout services in Bolton for shop owners, restaurateurs, commercial landlords and property managers across the Queen Street heritage core, the Highway 50 plaza strip, the Coleraine and Albion Vaughan commercial units and the Bolton employment lands. That combination decides how a cleanout has to be worked, and we plan around it rather than discovering it on the day."
     },
     {
      "t": "ctas",
@@ -154,15 +154,6 @@
        "text": [
         [
          "Gondola shelving, wall standards, slatwall, display cases, counters, checkout stations, fitting rooms, service desks, coolers and signage. Fixtures come out as part of the retail cleanout rather than being arranged separately before we can start."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "",
-       "text": [
-        [
-         ""
         ]
        ]
       },
@@ -304,7 +295,7 @@
     {
      "t": "p",
      "c": [
-      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -346,29 +337,20 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Free walkthrough and one flat retail cleanout price",
-       "text": [
-        [
-         "Our crew assesses the sales floor or dining room, kitchen, back rooms, cellar and any upper storage in scope. We provide one flat price before any work begins and hold that figure through to completion."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Retail cleanout scheduled to your street's access rules",
        "text": [
         [
-         "We sheet frontages, glazing and original finishes first, then dismantle and remove shelving, racking, display units, counters, coolers, kitchen equipment, signage, remaining stock, office furniture, electronics and appliances. We photograph the unit throughout."
+         "{{fact:equipmentScope}}. We photograph the unit throughout."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Fixtures removed, unit swept",
+       "title": "Fixtures removed, unit",
        "text": [
         [
-         "The space is left broom-swept and empty, with every original finish as we found it."
+         "The space is left and empty, with every original finish as we found it."
         ]
        ]
       }
@@ -473,7 +455,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than retail cleanout services across Bolton. Our commercial junk removal handles Queen Street shops and Highway 50 plaza units, restaurants and banquet halls, offices, medical and professional suites, workshops, warehouses and light-industrial space throughout the Bolton employment lands and the Coleraine corridor, with same-day attendance wherever access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from village core homes, townhouses and North Hill subdivisions alike. Our demolition services cover interior strip-outs, tenant improvement removal, kitchen and bar builds, partitions, dropped ceilings and built-in fixtures, along with sheds, garages, decks, fences, gazebos, above-ground pools and hot tubs on residential lots. Where a property requires complete clearing, we provide same-day office cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than retail cleanout services across Bolton. Our commercial junk removal handles Queen Street shops and Highway 50 plaza units, restaurants and banquet halls, offices, medical and professional suites, workshops, warehouses and light-industrial space throughout the Bolton employment lands and the Coleraine corridor, with same-day attendance wherever access allows, subject to availability. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from village core homes, townhouses and North Hill subdivisions alike. Our demolition services cover interior strip-outs, tenant improvement removal, kitchen and bar builds, partitions, dropped ceilings and built-in fixtures, along with sheds, garages, decks, fences, gazebos, above-ground pools and hot tubs on residential lots. Where a property requires complete clearing, we provide same-day office cleanout when available, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -554,7 +536,7 @@
      "t": "ul",
      "items": [
       [
-       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, and signage are removed after a tenant vacates, while multiple units can be cleared under one quote and consolidated invoice. Same-day retail cleanout services in Bolton are available where access permits."
+       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, and signage are removed after a tenant vacates, while multiple units can be cleared under one quote and consolidated invoice. Same-day retail cleanout services when available in Bolton are available where access permits."
       ]
      ]
     }
@@ -1098,7 +1080,7 @@
        "q": "My restaurant is in an older Queen Street building. Can you strip it safely?",
        "a": [
         [
-         "Yes. Kitchens fitted into nineteenth-century buildings were built around whatever the structure allowed, so we protect original frontages, masonry and interior finishes before anything is disconnected. That labour is priced into your quote from the outset."
+         "Yes. {{fact:utilityDisconnection}} That labour is priced into your quote from the outset."
         ]
        ]
       }

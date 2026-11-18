@@ -92,7 +92,7 @@
     {
      "t": "p",
      "c": [
-      "Whether you are moving offices, closing a business, downsizing, preparing a space for a new tenant, or completing an end-of-lease cleanout, we provide a complete removal solution. We handle the heavy lifting, loading, hauling, sorting, recycling, and responsible disposal so your team does not have to."
+      "Whether you are moving offices, closing a business, downsizing, preparing a space for a new tenant, or completing an end-of-lease cleanout, we provide a complete removal solution. We handle the heavy lifting, loading, hauling, recycling, and responsible disposal so your team does not have to."
      ]
     },
     {
@@ -128,20 +128,11 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "Insured, compliant office cleanout services for managed buildings",
-       "text": [
-        [
-         "Crew sign-in and protection of common areas, following your building's rules. This is what gets the elevator released."
-        ]
-       ]
-      },
-      {
        "n": "02",
        "title": "{{fact:weekendPickup}}",
        "text": [
         [
-         "Most Toronto buildings only permit this work outside business hours, so it is our normal operating pattern rather than a premium service."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -159,16 +150,7 @@
        "title": "Computer, monitor and electronics removal",
        "text": [
         [
-         "Lateral and vertical filing cabinets, bookcases, storage cupboards, mobile shelving, safes and back-room racking removed — including the storage rooms and file rooms that never appear on the floor plan somebody sends us."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Filing cabinet, shelving and storage removal",
-       "text": [
-        [
-         "Lateral and vertical filing cabinets, bookcases, storage cupboards, mobile shelving, safes and back-room racking removed — including the file rooms, server rooms and basement lockers that never appear on the floor plan somebody sends us."
+         "{{fact:equipmentScope}}."
         ]
        ]
       },
@@ -277,13 +259,13 @@
     {
      "t": "p",
      "c": [
-      "Your office cleanout cost in Toronto is determined by the number of workstations to be dismantled, the volume of furniture and equipment to be removed, and how the material leaves the building. A private suite returned with desks, chairs and a few filing cabinets is a straightforward job. A full floor of benching with a server room, a file room and a locker in P2, cleared overnight through a single booked elevator, is a considerably larger one — and the elevator, not the floor, sets how long it takes."
+      "Your office cleanout cost in Toronto is determined by the number of workstations to be dismantled, the volume of furniture and equipment to be removed, and how the material leaves the building. A private suite returned with desks, chairs and a few filing cabinets is a straightforward job. {{fact:scheduling}}"
      ]
     },
     {
      "t": "p",
      "c": [
-      "Three factors never enter the calculation. Urgency — a cleanout booked for tomorrow costs the same as one booked next month. Job size — a single suite is priced on its contents exactly as a multi-floor clearance is, with no minimum applied. We confirm your figure in writing at the walkthrough and hold it through to completion."
+      "Three factors never enter the calculation. Urgency — a cleanout booked for tomorrow costs the same as one booked next month. {{fact:changedScope}}. We confirm your figure in writing at the walkthrough and hold it through to completion."
      ]
     },
     {
@@ -310,7 +292,7 @@
     {
      "t": "p",
      "c": [
-      "Every office cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every office cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -352,15 +334,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Free walkthrough and one flat office cleanout price",
-       "text": [
-        [
-         "Our crew walks the floor, the workstation runs, the file and storage rooms, the server room and the full exit route from suite door to loading dock."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Workstations dismantled, offices cleared and documented",
        "text": [
@@ -371,10 +344,10 @@
       },
       {
        "n": "04",
-       "title": "Suites returned swept",
+       "title": "Suites returned",
        "text": [
         [
-         "The office is left broom-swept and empty, storage rooms and lockers included — to base condition where the lease requires it —."
+         "The office is left and empty, storage rooms and lockers included — to base condition where the lease requires it —."
         ]
        ]
       }
@@ -479,7 +452,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than office cleanout services across Toronto. Our commercial junk removal handles Financial District and Bay Street towers, King West and Liberty Village brick-and-beam floors, Yonge and Bloor corridor suites, North York Centre, Scarborough Town Centre and Etobicoke offices, co-working and serviced floors, retail units, cafés and restaurants, with same-day attendance wherever building access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from condos, semis, houses and rental properties across the city. Our demolition services cover office partition and cubicle removal, interior strip-outs, tenant improvement removal and built-in fixtures, along with sheds, garages, decks, fences, gazebos, above-ground pools and hot tubs. Where a property requires complete clearing, we provide same-day office cleanout, retail cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than office cleanout services across Toronto. Our commercial junk removal handles Financial District and Bay Street towers, King West and Liberty Village brick-and-beam floors, Yonge and Bloor corridor suites, North York Centre, Scarborough Town Centre and Etobicoke offices, co-working and serviced floors, retail units, cafés and restaurants, with same-day attendance wherever building access allows, subject to availability. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from condos, semis, houses and rental properties across the city. Our demolition services cover office partition and cubicle removal, interior strip-outs, tenant improvement removal and built-in fixtures, along with sheds, garages, decks, fences, gazebos, above-ground pools and hot tubs. Where a property requires complete clearing, we provide same-day office cleanout when available, retail cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -530,7 +503,7 @@
      "t": "ul",
      "items": [
       [
-       "King West, Liberty Village, the Junction, Leslieville and the east end conversions were not designed for this work. Freight elevators are small, slow or absent, staircases are original, doorways are narrower than the boardroom table that came in during a renovation, and loading happens on a street with a permit window and a bike lane. We measure the carry route before quoting, break furniture down rather than forcing it, and price by the exit rather than by the floor area."
+       "King West, Liberty Village, the Junction, Leslieville and the east end conversions were not designed for this work. {{fact:permits}} We measure the carry route before quoting, break furniture down rather than forcing it, and price by the exit rather than by the floor area."
       ]
      ]
     }
@@ -1021,14 +994,6 @@
        ]
       },
       {
-       "q": "Can you work overnight or on a weekend, and is there a surcharge?",
-       "a": [
-        [
-         "Most managed buildings only permit this work outside business hours, so it is how the majority of our Toronto office cleanouts run. "
-        ]
-       ]
-      },
-      {
        "q": "Do your office cleanout services include cubicle and workstation removal?",
        "a": [
         [
@@ -1048,7 +1013,7 @@
        "q": "Is our office furniture worth anything, or does the cleanout just dump it?",
        "a": [
         [
-         "Often worth something, depending on make and condition. Desks, chairs and recognised workstation systems go to resale or our donation partners where there is a buyer, and that reduces your bill. Metal and electronics are recycled, and only the remainder goes to landfill. We tell you which when we quote. "
+         "Often worth something, depending on make and condition. Desks, chairs and recognised workstation systems go to resale or our donation partners where there is a buyer, and that reduces your bill. Metal and electronics are recycled where possible, and only the remainder goes to landfill. We tell you which when we quote. "
         ]
        ]
       }

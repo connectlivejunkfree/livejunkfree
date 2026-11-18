@@ -24,11 +24,6 @@
      "text": "Hoarding Cleanouts in Mississauga from Live Junk Free"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "Hoarding cleanouts in Mississauga from Live Junk Free are handled privately, without judgment, and on a schedule you can actually count on — a free confidential quote, an experienced crew, and donation-first sorting throughout."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -129,15 +124,6 @@
        ]
       },
       {
-       "n": "03",
-       "title": "Condo and tower-compliant hoarding cleanout scheduling",
-       "text": [
-        [
-         "{{fact:insuranceDocs}}."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "Discreet hoarding cleanouts, house or high-rise",
        "text": [
@@ -160,7 +146,7 @@
        "title": "Free on-site quotes, with an honest cost to clean out a hoarder's house",
        "text": [
         [
-         "A crew member walks the property, sees the real scope, and gives one flat number before anything moves — no guessing from a phone description, and once work is underway."
+         "{{fact:changedScope}}."
         ]
        ]
       }
@@ -187,7 +173,7 @@
     {
      "t": "p",
      "c": [
-      "Hoarder clean out cost depends on the volume of belongings, how many rooms are affected, and how much sorting and donation coordination is involved — a single room or condo suite is a modest job, a full house costs more given the time required. The figure is confirmed at a free, no-obligation walkthrough, budget-ready from the first quote."
+      "Hoarder clean out cost depends on the volume of belongings, how many rooms are affected, and how much donation coordination is involved — a single room or condo suite is a modest job, a full house costs more given the time required. The figure is confirmed at a free, no-obligation walkthrough, budget-ready from the first quote."
      ]
     },
     {
@@ -214,7 +200,7 @@
     {
      "t": "p",
      "c": [
-      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -256,15 +242,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Your Hoarding Cleanout Quote — A Respectful Walkthrough, One Committed Window",
-       "text": [
-        [
-         "A crew member visits, sees the actual scope, and provides one flat price alongside a real arrival window for the work itself — not just a vague promise."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Hoarding Cleanout Runs Methodically, Room by Room",
        "text": [
@@ -275,10 +252,10 @@
       },
       {
        "n": "04",
-       "title": "Hoarding Cleanout Complete — the Space Left Clean and Livable",
+       "title": "Careful Removal",
        "text": [
         [
-         "Debris is hauled the same visit where possible, donations go to local partners, and the space is left swept and safe — inside the window that was promised."
+         "Debris is hauled the same visit where possible, donations go to local partners, and the space is left and safe — inside the window that was promised."
         ]
        ]
       }
@@ -341,7 +318,7 @@
        "Cleaning out a hoarder's home while the resident continues living there, paced to their comfort"
       ],
       [
-       "Kitchen, bathroom and bedroom cleared to a livable, safe standard"
+       "Careful Removal"
       ],
       [
        "Basement and garage cleanouts where accumulation has built up over years"
@@ -999,7 +976,7 @@
        "q": "What's the cost to clean out a hoarder's house in Mississauga?",
        "a": [
         [
-         "Hoarder clean out cost depends on the volume of belongings, the number of rooms affected, and how much sorting is involved — a single condo suite or room prices modestly, a full house costs more given the time required. The exact figure is confirmed free at a private walkthrough, with no obligation to proceed."
+         "{{fact:cleanupScope}}. The exact figure is confirmed free at a private walkthrough, with no obligation to proceed."
         ]
        ]
       },

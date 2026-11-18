@@ -9,7 +9,7 @@
   "description": "Live Junk Free provides property management cleanout in Scarborough for landlords, homeowners and property managers across the Kingston.",
   "canonical": "https://livejunkfree.ca/locations/scarborough/property-management-cleanout-in-scarborough/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Property-Management-Cleanout-rotated.jpg"
+  "ogImage": "/images/uploads/2026/08/Retail-Cleanout-Services-rotated.jpg"
  },
  "title": "Property Management Cleanout in Scarborough",
  "h1": "Property Management Cleanout in Scarborough",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Property-Management-Cleanout-rotated-rsgmt9p6otpmll2kr8g1vez727otli1czd8xjyuj78.jpg",
+      "src": "/images/uploads/elementor/thumbs/Retail-Cleanout-Services-rotated-rsihk2kt4iyt4qv82uxcq2s5v4l03ezuo4ufls6th0.jpg",
       "alt": "Property Management Cleanout"
      }
     }
@@ -145,15 +145,6 @@
        "text": [
         [
          "Scarborough building offices and property management companies require proof of coverage on file. We submit ours in advance so no part of your booked window is spent resolving paperwork in a lobby."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "",
-       "text": [
-        [
-         ""
         ]
        ]
       },
@@ -310,7 +301,7 @@
     {
      "t": "p",
      "c": [
-      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -356,7 +347,7 @@
        "title": "Free on-site walkthrough and one flat property management cleanout price",
        "text": [
         [
-         "Our crew assesses the rental unit along with any locker, garage or additional storage included. We provide one flat price per unit before any work begins and hold that figure through to completion."
+         "Our crew assesses the rental unit along with any locker, garage or additional storage included. {{fact:changedScope}}."
         ]
        ]
       },
@@ -374,7 +365,7 @@
        "title": "Vacant rental unit returned ready to list",
        "text": [
         [
-         "The unit is left swept and empty, with the building’s common areas or your shared entrance exactly as we found them."
+         "The unit is left and empty, with the building’s common areas or your shared entrance exactly as we found them."
         ]
        ]
       }
@@ -479,7 +470,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than property management cleanout across Scarborough. Our commercial junk removal service supports offices and retail units along Kennedy, Eglinton East and the Golden Mile, plazas throughout Agincourt and Malvern, industrial space in the Progress and Tapscott employment lands, and building common areas for property managers, with same-day attendance wherever access allows. Our demolition services cover sheds, garages, decks, fences, gazebos, trampolines, above-ground pools and hot tubs across Scarborough’s older lots in Birch Cliff, Cliffside and Guildwood, along with light interior demolition ahead of a unit renovation. Where a property requires complete clearing, we provide same-day apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, office cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than property management cleanout across Scarborough. Our commercial junk removal service supports offices and retail units along Kennedy, Eglinton East and the Golden Mile, plazas throughout Agincourt and Malvern, industrial space in the Progress and Tapscott employment lands, and building common areas for property managers, with same-day attendance wherever access allows, subject to availability. Our demolition services cover sheds, garages, decks, fences, gazebos, trampolines, above-ground pools and hot tubs across Scarborough’s older lots in Birch Cliff, Cliffside and Guildwood, along with light interior demolition ahead of a unit renovation. Where a property requires complete clearing, we provide same-day apartment cleanout when available, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, office cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -530,7 +521,7 @@
      "t": "ul",
      "items": [
       [
-       "Units vacated after ten, twenty, or thirty years of continuous occupancy often require a carefully assessed cleanout. The property can be evaluated on site so the property management cleanout quote reflects the actual volume involved. Closets, lockers, and decades of accumulated household items can be fully cleared, with bulk furniture disassembled where the removal route requires it. Donation partners can be approached before usable items are written off, and the property’s condition can be documented room by room for your rental property records."
+       "Units vacated after ten, twenty, or thirty years of continuous occupancy often require a carefully assessed cleanout. The property can be evaluated on site so the property management cleanout quote reflects the actual volume involved. {{fact:changedScope}}. Donation partners can be approached before usable items are written off, and the property’s condition can be documented room by room for your rental property records."
       ]
      ]
     }
@@ -547,7 +538,7 @@
      "t": "ul",
      "items": [
       [
-       "Secondary suites across Agincourt, Malvern, Woburn, Bendale, and West Hill can be cleared using separate-entrance routing that keeps the work away from the family’s main living space. Shared stairs, side doors, and driveways are protected throughout the cleanout. Work can be scheduled around household hours where shift workers, children, or family routines require additional consideration. First-time landlords can receive guidance on what to keep, remove, and document before preparing the suite for the next tenant, with same-day property management cleanout in Scarborough available where access permits."
+       "Secondary suites across Agincourt, Malvern, Woburn, Bendale, and West Hill can be cleared using separate-entrance routing that keeps the work away from the family’s main living space. Shared stairs, side doors, and driveways are protected throughout the cleanout. Work can be scheduled around household hours where shift workers, children, or family routines require additional consideration. First-time landlords can receive guidance on what to keep, remove, and document before preparing the suite for the next tenant, with same-day property management cleanout when available in Scarborough available where access permits."
       ]
      ]
     },
@@ -1104,7 +1095,7 @@
        "q": "How do you remove furniture the refuse chute will not take?",
        "a": [
         [
-         "Everything travels the same route as the crew. We disassemble items where required and protect corridors and elevator interiors, so bulk removal does not result in damage to common areas your building would charge back to you. "
+         "Everything travels the same route as the crew. {{fact:changedScope}}. "
         ]
        ]
       }
@@ -1195,7 +1186,7 @@
          "11. Are condos and apartment units included in property cleanouts?"
         ],
         [
-         "Yes. Condo and apartment cleanouts are included, from individual units to larger multi-unit turnover projects. For high-rise buildings, we can plan the job around service elevators, loading areas, building access, and required paperwork."
+         "Yes. {{fact:changedScope}}. For high-rise buildings, we can plan the job around service elevators, loading areas, building access, and required paperwork."
         ],
         [
          "12. Can townhouses be cleared before they are rented again?"
@@ -1279,7 +1270,7 @@
          "25. How can landlords prepare a rental for listing photographs?"
         ],
         [
-         "Removing excess furniture, boxes, clutter, and leftover tenant belongings can make the property look more open and easier to photograph. We can complete the cleanout before the photographer arrives and leave the unit swept and empty."
+         "Removing excess furniture, boxes, clutter, and leftover tenant belongings can make the property look more open and easier to photograph. We can complete the cleanout before the photographer arrives and leave the unit and empty."
         ],
         [
          "26. Can a property manager arrange a cleanout between short lease periods?"
@@ -1333,7 +1324,7 @@
          "34. Does the property manager need to sort the contents beforehand?"
         ],
         [
-         "Not necessarily. We can handle the sorting as part of the cleanout. However, the property manager should identify anything that must remain at the property before our crew begins."
+         "Not necessarily. {{fact:cleanupScope}}. However, the property manager should identify anything that must remain at the property before our crew begins."
         ],
         [
          "35. Who handles heavy lifting and bulky furniture?"

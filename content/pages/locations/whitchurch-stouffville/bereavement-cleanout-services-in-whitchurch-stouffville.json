@@ -9,7 +9,7 @@
   "description": "Compassionate Bereavement Cleanout Services in Whitchurch-Stouffville for handling unwanted belongings with care, respect, and efficiency.",
   "canonical": "https://livejunkfree.ca/locations/whitchurch-stouffville/bereavement-cleanout-services-in-whitchurch-stouffville/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Bereavement-Cleanout-Services-in-Pickering.jpeg"
+  "ogImage": "/images/uploads/2026/07/Monitor-Removal-Services-1.jpeg"
  },
  "title": "Bereavement Cleanout Services in Whitchurch-Stouffville",
  "h1": "Bereavement Cleanout Services in Whitchurch-Stouffville from Live Junk Free",
@@ -86,13 +86,13 @@
     {
      "t": "p",
      "c": [
-      "On the working farms toward Vandorf and Gormley, bereavement cleanout often means a property that’s been in a farming family for generations. Around Main Street Stouffville’s older homes, it’s the same careful standard applied to a heritage property. Whichever it is, the same flat pricing and the same respectful pace apply."
+      "On the working farms toward Vandorf and Gormley, bereavement cleanout often means a property that’s been in a farming family for generations. Around Main Street Stouffville’s older homes, it’s the same careful standard applied to a heritage property. {{fact:changedScope}}."
      ]
     },
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Bereavement-Cleanout-Services-in-Whitchurch-Stouffville-rs4g8j3ozs4uccfq8jfm0r7hkmtn7pte5uouyzhuak.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Bereavement-Cleanout-Services-in-Bolton-rs4ixrinyt8nc776gki9y7w1rjkjgjtsv4525fbqn0.jpeg",
       "alt": "Bereavement Cleanout Services in Whitchurch-Stouffville"
      }
     }
@@ -121,15 +121,6 @@
     {
      "t": "steps",
      "items": [
-      {
-       "n": "01",
-       "title": "Real, regular bereavement cleanout experience in Ballantrae",
-       "text": [
-        [
-         "Contained work zones, quiet scheduling and a genuinely unhurried pace come from having done this work in the community often enough to know what actually helps."
-        ]
-       ]
-      },
       {
        "n": "02",
        "title": "No charge for the time a bereavement cleanout takes to approve",
@@ -231,7 +222,7 @@
     {
      "t": "p",
      "c": [
-      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -295,7 +286,7 @@
        "title": "A Space That's Clean and Ready",
        "text": [
         [
-         "We complete a final walkthrough, sweep the area, and leave the space ready for whatever comes next."
+         "We complete a final walkthrough, and leave the space ready for whatever comes next."
         ]
        ]
       }
@@ -330,13 +321,7 @@
        "Bereavement cleanouts informed by real, regular experience in the community"
       ],
       [
-       "Contained work zones and quiet scheduling as standard"
-      ],
-      [
        "Coordination with family and, where relevant, community management"
-      ],
-      [
-       "Same flat pricing as anywhere else in the township"
       ],
       [
        "Discreet, unhurried handling throughout"
@@ -361,16 +346,10 @@
        "Whole-property coordination where a barn or outbuilding is involved"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Real patience for farmhouses held by a family for generations"
       ],
       [
        "Coordination with executors settling the estate"
-      ],
-      [
-       "Same flat pricing regardless of distance from town"
       ]
      ]
     }
@@ -396,13 +375,10 @@
        "Careful, unhurried handling around established properties"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
-       "Same-day service for straightforward downtown access"
-      ],
-      [
-       "Same flat pricing as any other property type"
+       "Service for straightforward downtown access"
       ]
      ]
     },
@@ -421,13 +397,10 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
-       "Same flat pricing regardless of the season"
-      ],
-      [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Recurring visit scheduling available on request"
@@ -818,7 +791,7 @@
        "q": "Do you have real experience with bereavement cleanouts in Ballantrae specifically?",
        "a": [
         [
-         "Yes, regularly. That experience shapes how the whole visit is planned — quiet scheduling, contained work, and a pace that respects both the family and the surrounding community."
+         "Yes, regularly."
         ]
        ]
       },

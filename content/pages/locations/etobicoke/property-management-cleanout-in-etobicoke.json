@@ -9,7 +9,7 @@
   "description": "Live Junk Free provides property management cleanout in Etobicoke for landlords and property managers across the Kipling and Islington corridor..",
   "canonical": "https://livejunkfree.ca/locations/etobicoke/property-management-cleanout-in-etobicoke/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Property-Management-Cleanout-rotated.jpg"
+  "ogImage": "/images/uploads/2026/08/Retail-Cleanout-Services-rotated.jpg"
  },
  "title": "Property Management Cleanout in Etobicoke",
  "h1": "Property Management Cleanout in Etobicoke",
@@ -97,7 +97,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Property-Management-Cleanout-rotated-rsgmt9p6otpmll2kr8g1vez727otli1czd8xjyuj78.jpg",
+      "src": "/images/uploads/elementor/thumbs/Retail-Cleanout-Services-rotated-rsihk2kt4iyt4qv82uxcq2s5v4l03ezuo4ufls6th0.jpg",
       "alt": "Property Management Cleanout"
      }
     }
@@ -154,20 +154,11 @@
        ]
       },
       {
-       "n": "04",
-       "title": "",
-       "text": [
-        [
-         ""
-        ]
-       ]
-      },
-      {
        "n": "05",
        "title": "Furniture removal the refuse chute cannot handle",
        "text": [
         [
-         "Furniture, mattresses, appliances and exercise equipment all travel the same route as the crew. We disassemble where necessary, protect corridors and elevator interiors, and remove bulk household items without damage to common areas your building would charge back to you."
+         "Furniture, mattresses, appliances and exercise equipment all travel the same route as the crew."
         ]
        ]
       },
@@ -314,7 +305,7 @@
     {
      "t": "p",
      "c": [
-      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -360,7 +351,7 @@
        "title": "Free on-site walkthrough and one flat property management cleanout price",
        "text": [
         [
-         "Our crew assesses the rental unit along with any locker or additional storage included. We provide one flat price per unit before any work begins and hold that price through to completion."
+         "Our crew assesses the rental unit along with any locker or additional storage included. {{fact:changedScope}}."
         ]
        ]
       },
@@ -375,10 +366,10 @@
       },
       {
        "n": "04",
-       "title": "Your vacant rental unit is ready for the next tenant",
+       "title": "Careful Removal",
        "text": [
         [
-         "The unit is left swept and empty, with the building’s common areas as we found them."
+         "The unit is left and empty, with the building’s common areas as we found them."
         ]
        ]
       }
@@ -534,7 +525,7 @@
      "t": "ul",
      "items": [
       [
-       "Apartments vacated after ten, twenty, or even thirty years of occupancy often require a larger, carefully planned cleanout. The property can be assessed on site so the property management cleanout quote reflects the actual volume rather than an estimate based on assumptions. Closets, lockers, and accumulated household belongings can be fully cleared, with bulk furniture disassembled where necessary to navigate the removal route. Donation options can be explored before usable items are written off, and the property’s condition can be documented room by room for your rental records."
+       "Apartments vacated after ten, twenty, or even thirty years of occupancy often require a larger, carefully planned cleanout. The property can be assessed on site so the property management cleanout quote reflects the actual volume rather than an estimate based on assumptions. {{fact:changedScope}}. Donation options can be explored before usable items are written off, and the property’s condition can be documented room by room for your rental records."
       ]
      ]
     }
@@ -551,7 +542,7 @@
      "t": "ul",
      "items": [
       [
-       "Property management cleanouts between tenancies can be scheduled around your listing date to help get the vacant rental unit ready for photographs and showings. Short-notice tenant turnover cleanout requests can be accommodated, with pricing unaffected by a compressed timeline. Same-day property management cleanout in Etobicoke is available where access permits, with the rental unit returned swept and ready to show."
+       "Property management cleanouts between tenancies can be scheduled around your listing date to help get the vacant rental unit ready for photographs and showings. Short-notice tenant turnover cleanout requests can be accommodated, with pricing unaffected by a compressed timeline. Same-day property management cleanout when available in Etobicoke is available where access permits, with the rental unit returned and ready to show."
       ]
      ]
     },
@@ -1175,7 +1166,7 @@
          "7. How can a vacant rental be prepared for the next occupant?"
         ],
         [
-         "A vacant rental can be cleared of unwanted furniture, appliances, boxes, personal belongings, and other leftover items. We can also sweep the space after removal so it is ready for cleaning, repairs, photographs, showings, or the next tenant."
+         "A vacant rental can be cleared of unwanted furniture, appliances, boxes, personal belongings, and other leftover items. We can also after removal so it is ready for cleaning, repairs, photographs, showings, or the next tenant."
         ],
         [
          "8. Can a property be cleared before it is advertised for rent?"
@@ -1283,7 +1274,7 @@
          "25. How can property managers prepare a rental for listing photographs?"
         ],
         [
-         "Removing excess furniture, clutter, boxes, and leftover tenant belongings can make the property easier to photograph. We can clear the unit before the photographer arrives and leave the space swept and ready for the next preparation step."
+         "Removing excess furniture, clutter, boxes, and leftover tenant belongings can make the property easier to photograph. We can clear the unit before the photographer arrives and leave the space and ready for the next preparation step."
         ],
         [
          "26. Can a cleanout be completed between short tenant turnover periods?"
@@ -1337,7 +1328,7 @@
          "34. Does the property manager need to sort the contents beforehand?"
         ],
         [
-         "Not necessarily. We can handle the sorting as part of the cleanout, including identifying items that may be suitable for donation or recycling. The property manager should identify anything that must remain before work begins."
+         "Not necessarily. {{fact:cleanupScope}}. The property manager should identify anything that must remain before work begins."
         ],
         [
          "35. Who handles heavy furniture and other difficult-to-lift items?"

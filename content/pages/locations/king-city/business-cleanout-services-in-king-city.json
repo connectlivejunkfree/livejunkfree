@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Business cleanout services in King City from Live Junk Free happen without a truck parked visibly for hours announcing a closure to the street, whether it's a village shop, an equestrian operation, or a professional office where client confidentiality genuinely matters — same discretion, same flat price, regardless of the business."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -86,13 +86,13 @@
     {
      "t": "p",
      "c": [
-      "Around the King Road village core, that’s usually a more contained retail or office space. On equestrian and larger properties, business cleanout sometimes means a tack shop, a boarding operation’s support building, or a training facility’s equipment storage."
+      "On equestrian and larger properties, business cleanout sometimes means a tack shop, a boarding operation’s support building, or a training facility’s equipment storage."
      ]
     },
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Business-Cleanout-Services-in-King-City-from-Live-Junk-Free-rs2qulpux8wdt2c9mj8oby5inccx9t69iacnl3lvxc.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Business-Cleanout-Services-in-Caledon-rs1i0614l6uwvzecsooprcgc6lpgovz4vklxw1cixs.jpeg",
       "alt": "Business Cleanout Services in King City from Live Junk Free"
      }
     }
@@ -136,15 +136,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "One flat business cleanout price — the address never inflates it",
-       "text": [
-        [
-         "The number reflects the actual work involved, never an assumption about the business’s location, clientele or value."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Equestrian and stable-adjacent business cleanout coordination",
        "text": [
@@ -159,15 +150,6 @@
        "text": [
         [
          "Client files, records and sensitive materials are handled with the same discretion given to any confidential situation, never discussed with anyone outside the job."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first business cleanout sorting for fixtures and equipment",
-       "text": [
-        [
-         "Furniture, fixtures and equipment still in good condition go to donation partners or resale channels first, before anything reaches disposal."
         ]
        ]
       },
@@ -203,7 +185,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the space, and how much sorting it genuinely needs. A single-room village office is a modest job. A larger equestrian support building or a full retail space takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A single-room village office is a modest job. A larger equestrian support building or a full retail space takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -215,8 +197,7 @@
     {
      "t": "checks",
      "items": [
-      "Hauling-Away",
-      "{{fact:competitorComparison}}"
+      "Hauling-Away"
      ]
     },
     {
@@ -232,12 +213,6 @@
      "t": "price",
      "label": "King City Business Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -284,15 +259,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Quiet Walkthrough, One Flat Quote",
-       "text": [
-        [
-         "A crew member visits at a time you choose, sees the actual space, and gives one flat price."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Space Gets Cleared, Without an Audience",
        "text": [
@@ -306,7 +272,7 @@
        "title": "Your Space Is Ready, and a Street That Never Knew",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and ready, with the same discretion on the way out as on the way in."
+         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left and ready, with the same discretion on the way out as on the way in."
         ]
        ]
       }
@@ -350,10 +316,10 @@
        "Identical discretion and pricing standard as a larger operation"
       ],
       [
-       "Same-day service for straightforward village access"
+       "Service for straightforward village access"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
        "No distinction made based on the size of the business"
@@ -379,9 +345,6 @@
       ],
       [
        "Gates closed and left exactly as found"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ],
       [
        "Same discretion standard regardless of the property's scale"
@@ -413,9 +376,6 @@
        "No client's situation discussed with anyone outside the job"
       ],
       [
-       "Same flat pricing as any other business cleanout"
-      ],
-      [
        "Discreet, unmarked scheduling as standard"
       ],
       [
@@ -438,13 +398,10 @@
        "Full sort of furniture, fixtures and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
-       "Same flat pricing regardless of the season"
-      ],
-      [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Quick turnaround for straightforward jobs"

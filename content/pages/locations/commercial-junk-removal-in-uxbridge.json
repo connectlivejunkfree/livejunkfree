@@ -9,7 +9,7 @@
   "description": "Fast commercial junk removal in Vaughan for offices, retail, warehouses & construction sites. Book Live Junk Free today.",
   "canonical": "https://livejunkfree.ca/locations/commercial-junk-removal-in-uxbridge/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/07/Commercial-Junk-Removal-in-Aurora.jpeg"
+  "ogImage": "/images/uploads/2026/07/Monitor-Removal-Services-1.jpeg"
  },
  "title": "Commercial Junk Removal in Uxbridge",
  "h1": "Commercial Junk Removal Services in Uxbridge",
@@ -80,13 +80,13 @@
     {
      "t": "p",
      "c": [
-      "Uxbridge earned its title by keeping 220 kilometres of trails open — and its businesses hold their own spaces to the same principle. A stockroom you can’t walk through, a studio buried in retired fixtures, a barn bay lost to accumulation: that’s a blocked trail by another name, and clearing it is precisely our work. The Google reviews behind Live Junk Free include Brock Street shopkeepers, township farmers and workshop owners who called, got a flat junk removal quote written on the spot, and watched the path through their own property reopen the very same day, subject to scheduling."
+      "Uxbridge earned its title by keeping 220 kilometres of trails open — and its businesses hold their own spaces to the same principle. A stockroom you can’t walk through, a studio buried in retired fixtures, a barn bay lost to accumulation: that’s a blocked trail by another name, and clearing it is precisely our work. {{fact:changedScope}}."
      ]
     },
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Commercial-Junk-Removal-Services-in-Vaughan-rreslh7j9vxgx8whe6xo7sytdb1ldcve6w2dfgoe4o.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Commercial-Junk-Removal-in-Georgina-rrefh4dau3b4jp0ymihzpi2unl8a92ncwxx8en1myw.jpeg",
       "alt": "Commercial Junk Removal Services in Uxbridge"
      }
     }
@@ -112,7 +112,7 @@
      "items": [
       {
        "n": "01",
-       "title": "Truck-volume junk removal pricing — flat across the whole township",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Brock Street storefront or a Zephyr concession, your Uxbridge junk removal price is your load’s share of the truck and nothing besides. No township-distance charges, no weight math, no stair or carry surcharges. The same load prices the same everywhere we roll."
@@ -124,7 +124,7 @@
        "title": "Free junk removal quotes walked and written at your Uxbridge property",
        "text": [
         [
-         "Our crew lead tours the actual space — shop floor, studio loft, drive shed — sizes everything going, and writes one firm flat rate before a single item moves. The visit is free, the number holds without expiry, and declining it ends things pleasantly."
+         "{{fact:changedScope}}. The visit is free, the number holds without expiry, and declining it ends things pleasantly."
         ]
        ]
       },
@@ -133,7 +133,7 @@
        "title": "Full-crew junk hauling — the whole carry is ours, first step to last",
        "text": [
         [
-         "Uxbridge businesses run lean, and hauling steals hours nobody has spare. Our junk removal crew handles every dismantle, carry, load and sweep — down the back stairs, across the yard, however far the truck had to park — while your people stay on the work that pays."
+         "Uxbridge businesses run lean, and hauling steals hours nobody has spare. {{fact:cleanupScope}}."
         ]
        ]
       },
@@ -143,15 +143,6 @@
        "text": [
         [
          "{{fact:propertyProtection}}. The junk leaves; the character — downtown or country — stays untouched."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "{{fact:nextAvailable}}",
-       "text": [
-        [
-         "Shops clear before the weekend hikers and cyclists roll in, venues clear between event weekends, farms clear in the quiet months."
         ]
        ]
       },
@@ -212,12 +203,6 @@
      "value": "Junk Load from {{min_price:C}}"
     },
     {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -266,7 +251,7 @@
        "title": "Walk the Load, Keep the Junk Removal Quote",
        "text": [
         [
-         "Lead the crew through everything going: the storeroom shelving, the retired kiln, the implements in the far bay. It measures against truck space and comes back as one written flat rate. Take your time deciding — the visit costs nothing and the number keeps."
+         "Lead the crew through everything going: the storeroom shelving, the retired kiln, the implements in the far bay. {{fact:changedScope}}. Take your time deciding — the visit costs nothing and the number keeps."
         ]
        ]
       },
@@ -281,7 +266,7 @@
       },
       {
        "n": "04",
-       "title": "Swept Through, Junk Disposal Sorted, Path Open",
+       "title": "Through, Junk Disposal Sorted, Path Open",
        "text": [
         [
          "Every job ends with a broom and, on request, paperwork on where it all went: donation partners for the usable, licensed recyclers for metals, appliances and e-waste, landfill strictly for the remainder."
@@ -363,9 +348,6 @@
       ],
       [
        "Framing-shop and craft-business stockroom cleanouts"
-      ],
-      [
-       "Donation-first sorting for pieces with another life in them"
       ]
      ]
     }
@@ -395,9 +377,6 @@
       ],
       [
        "Estate and farm-transition clearances handled respectfully"
-      ],
-      [
-       "Multi-truck capacity for generational cleanouts"
       ]
      ]
     },
@@ -725,7 +704,7 @@
        "q": "Can farms book big clear-outs — decades of accumulation?",
        "a": [
         [
-         "Gladly; they’re some of our most satisfying jobs. Implements, fencing, scrap and generations of “might need it” all sort, carry and haul at standard volume pricing, with multi-truck days staged for the largest barns and sheds."
+         "Gladly; they’re some of our most satisfying jobs. {{fact:changedScope}}."
         ]
        ]
       },
@@ -733,7 +712,7 @@
        "q": "How fast can a truck reach my Uxbridge business?",
        "a": [
         [
-         "Often same-day."
+         "Often same-day when available."
         ]
        ]
       },
@@ -749,7 +728,7 @@
        "q": "Can Uxbridge businesses set up recurring junk removal?",
        "a": [
         [
-         "Easily — shops, venues and landlords across the township hold standing schedules, seasonal to monthly to per-turnover, all at unchanged volume rates on one consolidated invoice."
+         "{{fact:changedScope}}."
         ]
        ]
       },

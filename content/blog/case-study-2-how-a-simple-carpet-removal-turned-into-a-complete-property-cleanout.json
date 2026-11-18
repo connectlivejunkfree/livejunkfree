@@ -117,7 +117,7 @@
     {
      "t": "p",
      "c": [
-      "We knew that every interaction mattered. From the first phone call to the final cleanup, the homeowner was evaluating not just the quality of our work but also the professionalism of our entire company."
+      "We knew that every interaction mattered. {{fact:cleanupScope}}."
      ]
     }
    ]
@@ -168,7 +168,7 @@
     {
      "t": "p",
      "c": [
-      "Once all removal work was complete, our team thoroughly cleaned the work area. We swept the floors, collected every piece of debris, and made sure no nails, staples, or leftover materials remained behind. Before considering the project finished, we invited the homeowner to inspect the completed work."
+      "Once all removal work was complete, our team thoroughly cleaned the work area. We the floors, collected every piece of debris, and made sure no nails, staples, or leftover materials remained behind. Before considering the project finished, we invited the homeowner to inspect the completed work."
      ]
     },
     {
@@ -225,7 +225,7 @@
     {
      "t": "p",
      "c": [
-      "The second was an old hot tub located in the backyard. The hot tub had been unused for years and occupied valuable outdoor space. The homeowner had postponed removing it because they believed the project would be too complicated."
+      "The hot tub had been unused for years and occupied valuable outdoor space. The homeowner had postponed removing it because they believed the project would be too complicated."
      ]
     },
     {
@@ -320,9 +320,6 @@
       ],
       [
        "Efficient and organized workmanship."
-      ],
-      [
-       "Thorough cleanup after every stage of the project."
       ],
       [
        "Honest pricing with no unexpected charges."

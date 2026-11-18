@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "Brampton’s larger-format retail runs conventionally alongside it. Bramalea City Centre and Shoppers World units operate under centre management rules with insurance on file and booked loading. Big-box and anchor stores along Steeles, Queen and Bovaird carry full-height racking and deep back-of-house. Downtown Brampton has older street-front units with narrow frontages and limited rear access. We confirm the format, the storage in scope and the access at the walkthrough before quoting any retail cleanout."
+      "Brampton’s larger-format retail runs conventionally alongside it. Bramalea City Centre and Shoppers World units operate under centre management rules with insurance on file and booked loading. {{fact:equipmentScope}}. Downtown Brampton has older street-front units with narrow frontages and limited rear access. We confirm the format, the storage in scope and the access at the walkthrough before quoting any retail cleanout."
      ]
     },
     {
@@ -153,7 +153,7 @@
        "title": "Big-box and anchor unit retail strip-out services",
        "text": [
         [
-         "Full-height pallet racking, mezzanine shelving, back-of-house storage systems and anchor-unit fixture packages along Steeles, Queen and Bovaird. Large-format retail cleanout services need a crew sized for the building."
+         "{{fact:equipmentScope}}. Large-format retail cleanout services need a crew sized for the building."
         ]
        ]
       },
@@ -304,7 +304,7 @@
     {
      "t": "p",
      "c": [
-      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -346,29 +346,20 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Free walkthrough and one flat retail cleanout price",
-       "text": [
-        [
-         "Our crew assesses the sales floor, back room, mezzanine, kitchen and any additional storage in scope. We provide one flat price before any work begins and hold that figure through to completion."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Retail cleanout scheduled to your street's access rules",
        "text": [
         [
-         "We protect flooring, shared corridors and service lifts first, then dismantle and remove racking, shelving, display units, counters, coolers, kitchen equipment, signage, remaining stock, office furniture, electronics and appliances. We photograph the unit throughout."
+         "{{fact:equipmentScope}}. We photograph the unit throughout."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Fixtures removed, unit swept",
+       "title": "Fixtures removed, unit",
        "text": [
         [
-         "The space is left broom-swept and empty."
+         "The space is left and empty."
         ]
        ]
       }
@@ -473,7 +464,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than retail cleanout services across Brampton. Our commercial junk removal handles plaza and mall units, big-box and anchor stores, restaurants and banquet halls, offices along Steeles and Queen Street, medical and professional suites, warehouses and light-industrial space throughout the Airport Road, Torbram and Highway 407 employment lands, with same-day attendance wherever access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and yard waste from detached homes, townhouses and apartments in every part of the city. Our demolition services cover interior strip-outs, tenant improvement removal, kitchen builds, warehouse racking, partitions, dropped ceilings and built-in fixtures, along with sheds, garages, decks, fences, gazebos, above-ground pools and hot tubs on residential lots. Where a property requires complete clearing, we provide same-day office cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than retail cleanout services across Brampton. Our commercial junk removal handles plaza and mall units, big-box and anchor stores, restaurants and banquet halls, offices along Steeles and Queen Street, medical and professional suites, warehouses and light-industrial space throughout the Airport Road, Torbram and Highway 407 employment lands, with same-day attendance wherever access allows, subject to availability. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and yard waste from detached homes, townhouses and apartments in every part of the city. {{fact:equipmentScope}}. Where a property requires complete clearing, we provide same-day office cleanout when available, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -554,7 +545,7 @@
      "t": "ul",
      "items": [
       [
-       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, and signage are removed after a tenant vacates, while multiple plaza bays can be handled under one quote and consolidated invoice. Same-day retail cleanout services in Brampton are available where access permits."
+       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, and signage are removed after a tenant vacates, while multiple plaza bays can be handled under one quote and consolidated invoice. Same-day retail cleanout services when available in Brampton are available where access permits."
       ]
      ]
     }

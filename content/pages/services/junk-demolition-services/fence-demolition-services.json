@@ -24,11 +24,6 @@
      "text": "Your Trusted Local Experts for Fence Removal & Demolition"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in town."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -85,7 +80,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/fence-demolition-services-1024x765.jpeg",
-      "alt": "fence-demolition-services",
+      "alt": "Fence Demolition: Live Junk Free job photo",
       "width": 800,
       "height": 598
      }
@@ -114,7 +109,7 @@
     {
      "t": "p",
      "c": [
-      "We take care of all the hard work: carefully dismantling panels, extracting stubborn concrete footings, removing every last nail and screw, and hauling away all debris."
+      "{{fact:structuralDemolition}}."
      ]
     },
     {
@@ -149,7 +144,7 @@
     {
      "t": "p",
      "c": [
-      "Not only is the old fence unsightly, but it’s also a potential safety risk. Many property owners are unaware that removing a fence properly entails more than merely removing the panels. Fence demolition is risky and annoying because of rotted posts, corroded nails, hidden concrete footings, and unstable portions."
+      "Not only is the old fence unsightly, but it’s also a potential safety risk. Many property owners are unaware that removing a fence properly entails more than merely removing the panels. {{fact:structuralDemolition}}."
      ]
     },
     {
@@ -169,9 +164,6 @@
      "items": [
       [
        "Specialized tools for efficient fence panel and post removal"
-      ],
-      [
-       "Heavy-duty equipment to extract stubborn concrete footings"
       ],
       [
        "Protective gear to handle sharp edges and rusted fasteners"
@@ -212,31 +204,13 @@
       {
        "title": "Cost Savings",
        "text": [
-        "– Special pricing for multiple fence removals or large properties"
-       ]
-      },
-      {
-       "title": "Flexible Scheduling",
-       "text": [
-        ""
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Property Protection",
        "text": [
         "– Special measures safeguard your landscaping and structures"
-       ]
-      },
-      {
-       "title": "All-Weather Operation",
-       "text": [
-        "– We work safely in rain, snow, or extreme heat"
-       ]
-      },
-      {
-       "title": "Complete Cleanup",
-       "text": [
-        ""
        ]
       }
      ]
@@ -291,9 +265,6 @@
        "All wood, vinyl, and metal fencing materials are sorted for proper recycling"
       ],
       [
-       "Concrete footings are crushed and repurposed for construction use"
-      ],
-      [
        "Metal hardware and fasteners are processed at recycling centers"
       ]
      ]
@@ -328,12 +299,6 @@
      "items": [
       [
        "Free estimates via phone, text, or online"
-      ],
-      [
-       "Discounted rates for multiple fence removals"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -360,9 +325,6 @@
       ],
       [
        "Vinyl Fences – All styles from privacy panels to picket fences"
-      ],
-      [
-       "Chain Link Fences – Complete removal including posts and concrete footings"
       ]
      ]
     }
@@ -381,19 +343,7 @@
       {
        "title": "Send us Photos",
        "text": [
-        "Simply take clear photos of your fence from multiple angles and text or upload them to our website. We'll respond within 30 minutes with a free quote."
-       ]
-      },
-      {
-       "title": "Get Your Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
-      {
-       "title": "Pick Your Time",
-       "text": [
-        ""
+        "Simply take clear photos of your fence from multiple angles and text or upload them to our website. We'll respond with a free quote."
        ]
       },
       {
@@ -424,7 +374,7 @@
      "images": [
       {
        "src": "/images/uploads/2026/07/fence-demolition-services-before-1024x765.jpeg",
-       "alt": "fence-demolition-services before"
+       "alt": "Before: Fence Demolition: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/fence-demolition-services-after-1024x765.jpeg",
@@ -469,18 +419,10 @@
        ]
       },
       {
-       "q": "Do I need a permit for deck removal?",
-       "a": [
-        [
-         ""
-        ]
-       ]
-      },
-      {
        "q": "Do you handle post and concrete base removal?",
        "a": [
         [
-         "Absolutely. Our service includes complete removal of all fence posts and concrete footings – we leave no trace behind."
+         "Absolutely. {{fact:structuralDemolition}}."
         ]
        ]
       }

@@ -114,7 +114,7 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat piano removal price — stairs and access never bill extra",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "A piano isn’t a normal junk removal item — an upright can weigh 300 to 500 pounds, and a grand piano considerably more — and Live Junk Free’s quote reflects the real work: careful maneuvering, wall and doorway protection, and the crew size a piece that heavy actually needs. All of it sits inside one written piano removal price agreed on site, with narrow stairwells and tight turns never adding a line. No hidden piano disposal cost."
@@ -126,7 +126,7 @@
        "title": "Free on-site quotes for piano removal, piano haul away and piano pickup alike",
        "text": [
         [
-         "A Live Junk Free crew member comes to your Toronto property, looks at the piano’s size, type and the actual path out — staircase, doorway width, building elevator — and gives you one flat number with the logistics already worked out. Free visit, no obligation, no guessing over the phone. Whether you call it piano removal, piano haul away or just “getting rid of the piano,” the process and the price are the same."
+         "{{fact:changedScope}}. Free visit, no obligation, no guessing over the phone. Whether you call it piano removal, piano haul away or just “getting rid of the piano,” the process and the price are the same."
         ]
        ]
       },
@@ -144,7 +144,7 @@
        "title": "Donation-first for pianos that still play",
        "text": [
         [
-         "A piano that still works deserves a second home before it becomes junk. Live Junk Free checks with donation partners — schools, community centres, churches and music programs — before defaulting to recycling, so a functioning upright or grand often finds its way to someone who’ll actually play it."
+         "A piano that still works deserves a second home before it becomes junk."
         ]
        ]
       },
@@ -178,11 +178,6 @@
     },
     {
      "t": "h",
-     "l": 2,
-     "text": "Piano Removal Cost in Toronto — One Flat Price From Live Junk Free"
-    },
-    {
-     "t": "h",
      "l": 3,
      "text": "What's Inside Every Toronto Piano Removal and Disposal Quote"
     },
@@ -195,8 +190,7 @@
     {
      "t": "checks",
      "items": [
-      "Move + Disassembly + Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Move + Disassembly + Haul-Away"
      ]
     },
     {
@@ -259,7 +253,7 @@
        "title": "Book Your Piano Removal or Pick Up Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots are usually available. Tell us the piano type — upright, console, baby grand, grand — and its location, so the crew arrives with the right equipment."
+         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots when available are usually available. Tell us the piano type — upright, console, baby grand, grand — and its location, so the crew arrives with the right equipment."
         ]
        ]
       },
@@ -268,7 +262,7 @@
        "title": "Get a Free On-Site Quote — Route Measured First",
        "text": [
         [
-         "The crew looks at the piano, measures doorways and staircase turns, checks whether legs or lids need to come off, and gives you one flat price before touching anything. No pressure — decline and there’s no charge."
+         "{{fact:changedScope}}. No pressure — decline and there’s no charge."
         ]
        ]
       },
@@ -333,10 +327,10 @@
        "Wall, corner and staircase protection throughout"
       ],
       [
-       "Donation-first checks before any piano is recycled"
+       "Donation-first checks before any piano is recycled where possible"
       ],
       [
-       "Same-day piano pick up for straightforward access"
+       "Piano pick up for straightforward access"
       ],
       [
        "Basement and second-floor piano removal, no problem"
@@ -397,9 +391,6 @@
       ],
       [
        "Tight elevator and corridor maneuvering handled by experienced crews"
-      ],
-      [
-       "Same flat pricing as house-based piano removal"
       ]
      ]
     },
@@ -829,7 +820,7 @@
        "q": "Do you charge extra for stairs?",
        "a": [
         [
-         "No. Narrow staircases, turning stairwells and multi-floor moves are factored into one flat quote at the walkthrough, not billed as an add-on. A piano on the third floor of a Toronto walk-up prices the same formula as one on the ground floor — the crew and equipment adjust, not the honesty of the number."
+         "No. {{fact:changedScope}}. A piano on the third floor of a Toronto walk-up prices the same formula as one on the ground floor — the crew and equipment adjust, not the honesty of the number."
         ]
        ]
       },
@@ -845,7 +836,7 @@
        "q": "What's involved in moving a grand or baby grand piano?",
        "a": [
         [
-         "More disassembly than most people expect. Legs, the lid and sometimes the pedal lyre come off to fit through doorways and stairwells, the piano moves on proper piano boards, and everything reassembles correctly at the destination if it’s going to a donation recipient rather than being recycled."
+         "More disassembly than most people expect. Legs, the lid and sometimes the pedal lyre come off to fit through doorways and stairwells, the piano moves on proper piano boards, and everything reassembles correctly at the destination if it’s going to a donation recipient rather than being recycled where possible."
         ]
        ]
       },
@@ -861,7 +852,7 @@
        "q": "What happens to the piano once it's removed — is it just junk piano removal?",
        "a": [
         [
-         "Not by default. We check with donation partners — schools, community centres, churches and music programs — before anything is recycled, so a piano that still plays often gets a second life. Only pianos that are genuinely beyond use go to piano recycling, where the metal frame and strings are separated for metal recyclers and the wood cabinet disposed of responsibly."
+         "Not by default. We check with donation partners — schools, community centres, churches and music programs — before anything is recycled where possible, so a piano that still plays often gets a second life. Only pianos that are genuinely beyond use go to piano recycling, where the metal frame and strings are separated for metal recyclers and the wood cabinet disposed of responsibly."
         ]
        ]
       },

@@ -112,7 +112,7 @@
      "items": [
       {
        "n": "01",
-       "title": "No minimum-job padding on demolition pricing",
+       "title": "{{fact:propertyProtection}}",
        "text": [
         [
          "A single fence section or a small shed prices as the modest job it actually is — there’s no floor built into the number to make a small job artificially expensive. Small jobs are a normal, welcome part of the work here."
@@ -124,7 +124,7 @@
        "title": "Free demolition quotes at the property, not guessed from a description",
        "text": [
         [
-         "A crew member walks whatever’s coming down, sees the real scope, and gives one flat price on the spot. No obligation attached to hearing the number."
+         "{{fact:changedScope}}. No obligation attached to hearing the number."
         ]
        ]
       },
@@ -133,7 +133,7 @@
        "title": "The heavy, awkward part handled so you can get back to building",
        "text": [
         [
-         "Draining a pool, cutting a deck into loadable pieces, hauling a few hundred pounds of shed frame — none of it is a weekend job worth the risk of doing solo. Live Junk Free takes exactly that part while the actual project stays yours."
+         "{{fact:utilityDisconnection}} Live Junk Free takes exactly that part while the actual project stays yours."
         ]
        ]
       },
@@ -142,7 +142,7 @@
        "title": "Hobby farm demolition — fences, sheds and outbuildings, any scale",
        "text": [
         [
-         "Long fence runs and multiple structures across a rural property get walked and quoted as one job, with the same flat pricing whether the property is a village lot or a working hobby farm on the concessions."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -193,8 +193,7 @@
     {
      "t": "checks",
      "items": [
-      "Tear-Down + Haul-Away in One Number",
-      "No Minimum-Job Padding, No Trip Fees"
+      "Tear-Down + Haul-Away in One Number"
      ]
     },
     {
@@ -262,15 +261,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get Your Free Demolition Quote",
-       "text": [
-        [
-         "The crew walks the structure and gives one flat price before touching anything — no pressure either way."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Demolition Runs Clean and Considerate",
        "text": [
@@ -325,9 +315,6 @@
        "Above Ground Pool Demolition — frame, liner and decking torn down and hauled, older bungalow-belt installations handled with extra care"
       ],
       [
-       "Hot Tub Demolition — drained, disconnected and cut apart before removal"
-      ],
-      [
        "Jacuzzi Demolition — same process, any age of structure"
       ]
      ]
@@ -370,9 +357,6 @@
        "Garage Demolition — detached units taken down section by section"
       ],
       [
-       "Deck Demolition — wood and composite, footings addressed for an addition or rebuild"
-      ],
-      [
        "Fence Demolition — full runs or single sections"
       ],
       [
@@ -391,9 +375,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Concrete Demolition — patios, walkways and pads broken up and hauled, grading-conscious near ravine edges"
-      ],
       [
        "Flooring Demolition — old outdoor surfaces and bases removed"
       ],
@@ -673,7 +654,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {
@@ -992,7 +973,7 @@
        "q": "Is my job too small to bother calling about?",
        "a": [
         [
-         "Count the real costs: trailer rental, tipping fees per load, fuel, the weekend, and the risk in dropping a structure you’ve never dropped before. Our flat quote usually lands near the DIY total — with the safety, the speed and the same-day disposal included, and your energy saved for the build itself."
+         "Count the real costs: trailer rental, tipping fees per load, fuel, the weekend, and the risk in dropping a structure you’ve never dropped before. {{fact:changedScope}}."
         ]
        ]
       },

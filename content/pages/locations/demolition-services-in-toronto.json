@@ -9,7 +9,7 @@
   "description": "Got a pool, deck, shed or garage that needs to disappear from a Toronto property with no backyard access to speak of?",
   "canonical": "https://livejunkfree.ca/locations/demolition-services-in-toronto/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/07/garage-demolition-services.jpeg"
+  "ogImage": "/images/uploads/2026/07/garage-cleanout-services.jpeg"
  },
  "title": "Demolition Services in Toronto",
  "h1": "Demolition Services in Toronto from Live Junk Free",
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Got a pool, deck, shed or garage that needs to disappear from a Toronto property with no backyard access to speak of? Live Junk Free provides professional demolition services in Toronto: we tear it down, cut it into pieces small enough to actually fit through a laneway or a side gate, and haul the whole thing away — quoted flat, on the spot."
+     "text": "Got a pool, deck, shed or garage that needs to disappear from a Toronto property with no backyard access to speak of? Live Junk Free provides professional demolition services in Toronto: we tear it down, cut it into pieces small enough to actually fit through a laneway or a side gate, and haul the whole thing away — quoted flat, at the onsite estimate."
     },
     {
      "t": "ctas",
@@ -121,7 +121,7 @@
       },
       {
        "n": "02",
-       "title": "One flat price, done — access included",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Above ground pool, shed, deck, garage, fence, concrete pad — whatever’s coming down, teardown and haul-away sit inside a single figure agreed on site. A tight laneway doesn’t add a line to the invoice; it’s already factored into the number before the crew shows up."
@@ -148,7 +148,7 @@
       },
       {
        "n": "05",
-       "title": "Booked today, gone today, more often than not",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "Call in the morning and there’s a real chance the structure’s down and hauled by evening."
@@ -266,7 +266,7 @@
        "title": "The Crew Maps the Route, Then Prices the Job",
        "text": [
         [
-         "Structure first, exit path second: gate, laneway, shared fence line, whatever’s in the way. One flat number, given on the spot, no obligation attached."
+         "Structure first, exit path second: gate, laneway, shared fence line, whatever’s in the way. {{fact:changedScope}}."
         ]
        ]
       },
@@ -325,9 +325,6 @@
        "Above Ground Pool Demolition — frame, liner and decking torn down and hauled, older bungalow-belt installations handled with extra care"
       ],
       [
-       "Hot Tub Demolition — drained, disconnected and cut apart before removal"
-      ],
-      [
        "Jacuzzi Demolition — same process, any age of structure"
       ]
      ]
@@ -370,9 +367,6 @@
        "Garage Demolition — detached units taken down section by section"
       ],
       [
-       "Deck Demolition — wood and composite, footings addressed for an addition or rebuild"
-      ],
-      [
        "Fence Demolition — full runs or single sections"
       ],
       [
@@ -391,9 +385,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Concrete Demolition — patios, walkways and pads broken up and hauled, grading-conscious near ravine edges"
-      ],
       [
        "Flooring Demolition — old outdoor surfaces and bases removed"
       ],
@@ -673,7 +664,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {
@@ -992,7 +983,7 @@
        "q": "We don't have backyard access, just a laneway. Is that a dealbreaker?",
        "a": [
         [
-         "By treating the party wall as the project’s most important surface. Vibration-conscious methods, controlled plaster passes, nothing prying or hammering against the shared line, and containment sealed on our side — the neighbour’s home stays exactly as it was, which in this city is the whole job."
+         "By treating the party wall as the project’s most important surface."
         ]
        ]
       },
@@ -1000,7 +991,7 @@
        "q": "Will this damage our neighbour's fence or wall?",
        "a": [
         [
-         "It’s a signature Toronto job for us. The old garage drops in sequence, the slab is addressed per your builder’s plan, debris exits through the lane the same day, and the cleared lot hands over matched to your suite drawings — with permit-likely work flagged at assessment and honoured, subject to scheduling."
+         "It’s a signature Toronto job for us. {{fact:equipmentScope}}."
         ]
        ]
       },

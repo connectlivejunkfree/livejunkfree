@@ -9,7 +9,7 @@
   "description": "Apartment cleanout services in Pickering from Live Junk Free cover both real sides of the city's housing stock.",
   "canonical": "https://livejunkfree.ca/locations/pickering/apartment-cleanout-services-in-pickering/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Apartment-Cleanout-Services-in-Pickering.jpeg"
+  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Ajax.jpeg"
  },
  "title": "Apartment Cleanout Services in Pickering",
  "h1": "Apartment Cleanout Services in Pickering from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Apartment-Cleanout-Services-in-Pickering-rrztstq25fy788e5r4nyqsm6v2edwi5goeqk32pwuo.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Ajax-rrmzgn6andbie2zv3395ne9iklgc1ewincvh8j7pn4.jpeg",
       "alt": "Apartment Cleanout Services in Pickering"
      }
     }
@@ -146,10 +146,10 @@
       },
       {
        "n": "03",
-       "title": "One flat apartment cleanout price, confirmed before anything moves",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "A crew member sees the actual unit and gives one flat number before anything moves, whatever the building type."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -159,15 +159,6 @@
        "text": [
         [
          "Where an apartment cleanout follows years after a family first downsized from a house, the crew handles it with the same care given to any long-held property."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first apartment cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -209,7 +200,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -230,7 +220,7 @@
     {
      "t": "p",
      "c": [
-      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -272,15 +262,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual unit and gives you one flat price before anything moves, whatever the building’s age."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Apartment Gets Cleared, With Care",
        "text": [
@@ -294,7 +275,7 @@
        "title": "The Unit Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready for whatever comes next."
         ]
        ]
       }
@@ -335,7 +316,7 @@
        "Careful, unhurried handling around established properties"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -355,9 +336,6 @@
       ],
       [
        "Damage or abandonment documentation available on request"
-      ],
-      [
-       "Same flat pricing regardless of the building's age"
       ]
      ]
     }
@@ -381,9 +359,6 @@
       ],
       [
        "Same fair standard as anywhere in the region"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
       ]
      ]
     },
@@ -402,10 +377,10 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }

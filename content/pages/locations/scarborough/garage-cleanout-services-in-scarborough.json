@@ -9,7 +9,7 @@
   "description": "Garage cleanout services in Scarborough from Live Junk Free are some of the most frequently booked in the region.",
   "canonical": "https://livejunkfree.ca/locations/scarborough/garage-cleanout-services-in-scarborough/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Garage-Cleanout-Services-in-Scarborough--735x1024.jpg"
+  "ogImage": "/images/uploads/2026/08/Garage-Cleanout-Services-in-Ajax-735x1024.jpg"
  },
  "title": "Garage Cleanout Services in Scarborough",
  "h1": "Garage Cleanout Services in Scarborough from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Garage-Cleanout-Services-in-Scarborough--scaled-rrtynsw26kpjt1fhx6p1dp91ma459e1981rixhlzsg.jpg",
+      "src": "/images/uploads/elementor/thumbs/Garage-Cleanout-Services-in-Ajax-scaled-rru2wzn5zketx8x0ewh78jmetx2mpl6fy999jwh7qo.jpg",
       "alt": "Garage Cleanout Services in Scarborough"
      }
     }
@@ -146,7 +146,7 @@
       },
       {
        "n": "03",
-       "title": "One flat garage cleanout price, whatever the property's age",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Size and volume set the number, confirmed on site — it makes no difference whether the garage is decades old or recently built."
@@ -164,7 +164,7 @@
       },
       {
        "n": "05",
-       "title": "Same-day garage cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
@@ -209,7 +209,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Village, Distance or Rural Premium, Ever"
      ]
     },
@@ -226,12 +225,6 @@
      "t": "price",
      "label": "Scarborough Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -282,7 +275,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual space and gives you one flat price before anything moves, whatever the garage’s age or location."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -300,7 +293,7 @@
        "title": "Your Garage Is Usable",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready to actually use again."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready to actually use again."
         ]
        ]
       }
@@ -347,7 +340,7 @@
        "Coordination with your renovation contractor's timeline"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -367,9 +360,6 @@
       ],
       [
        "Grounds and landscaping protection throughout"
-      ],
-      [
-       "Same flat pricing as any other property type"
       ]
      ]
     }
@@ -411,10 +401,7 @@
        "Garage cleanouts ahead of a renovation or addition build"
       ],
       [
-       "Timed to land before your contractor's foundation work begins"
-      ],
-      [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Coordination around the renovation's broader schedule"
@@ -789,7 +776,7 @@
        "q": "How much do garage cleanout services cost in Scarborough?",
        "a": [
         [
-         "Pricing is confirmed free at an on-site walkthrough based on how full the garage is and how much sorting it needs — with no village premium anywhere."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -813,7 +800,7 @@
        "q": "Can you clear a storage locker near Scarborough Town Centre?",
        "a": [
         [
-         "Every hamlet, at the same flat pricing as Main Street."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -845,7 +832,7 @@
        "q": "What happens if we find something valuable while sorting?",
        "a": [
         [
-         "The price reflects the actual volume and sorting required — a fuller garage costs more because it genuinely takes more time, not because of a flat surcharge."
+         "{{fact:cleanupScope}}."
         ]
        ]
       }

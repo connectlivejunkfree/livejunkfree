@@ -9,7 +9,7 @@
   "description": "Garage cleanout services in Brampton from Live Junk Free understand that a garage here is often shared storage for several generations.",
   "canonical": "https://livejunkfree.ca/locations/brampton/garage-cleanout-services-in-brampton/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Garage-Cleanout-Services-in-Brampton-735x1024.jpg"
+  "ogImage": "/images/uploads/2026/08/Garage-Cleanout-Services-in-Ajax-735x1024.jpg"
  },
  "title": "Garage Cleanout Services in Brampton",
  "h1": "Garage Cleanout Services in Brampton from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Garage-Cleanout-Services-in-Brampton-scaled-rru4n4r1t9h9h6nhjrha2v3gmys7l7vlttwvqgc8ds.jpg",
+      "src": "/images/uploads/elementor/thumbs/Garage-Cleanout-Services-in-Ajax-scaled-rru2wzn5zketx8x0ewh78jmetx2mpl6fy999jwh7qo.jpg",
       "alt": "Garage Cleanout Services in Brampton"
      }
     }
@@ -137,10 +137,10 @@
       },
       {
        "n": "02",
-       "title": "One flat garage cleanout price, whatever the household size",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "The number reflects the garage’s volume and the sorting it needs — never how many generations live in the house."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -159,15 +159,6 @@
        "text": [
         [
          "Springdale, Bramalea, Heart Lake, downtown — the same crew and equipment cover all of it."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first garage cleanout sorting for tools and equipment",
-       "text": [
-        [
-         "Working tools, equipment and household items with life left in them go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -209,7 +200,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Village, Distance or Rural Premium, Ever"
      ]
     },
@@ -226,12 +216,6 @@
      "t": "price",
      "label": "Brampton Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -282,7 +266,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual garage and gives you one flat price before anything moves, sized to the real job regardless of the household’s size."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -300,7 +284,7 @@
        "title": "Your Garage Is Usable",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready to actually park in again."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready to actually park in again."
         ]
        ]
       }
@@ -345,9 +329,6 @@
       ],
       [
        "Real respect for items belonging to different family members"
-      ],
-      [
-       "Same flat pricing whatever the household size"
       ]
      ]
     },
@@ -393,9 +374,6 @@
       ],
       [
        "Consistent scheduling availability city-wide"
-      ],
-      [
-       "Same flat pricing structure everywhere in Brampton"
       ]
      ]
     },
@@ -414,10 +392,7 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ]
      ]
     }

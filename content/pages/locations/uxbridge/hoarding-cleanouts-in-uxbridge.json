@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Hoarding cleanouts in Uxbridge from Live Junk Free are handled privately, without judgment, and with the same flat price whether the property is downtown or eight concessions out — a free confidential quote, an experienced crew, and donation-first sorting throughout."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -120,15 +120,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "One flat hoarding cleanout price — the same number on Brock Street or a concession",
-       "text": [
-        [
-         "Distance never enters the calculation. A hoarding cleanout eight kilometres down a gravel laneway costs exactly what the identical job costs in the village core, and it always has."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Discreet hoarding cleanout scheduling on request",
        "text": [
@@ -160,7 +151,7 @@
        "title": "Free on-site quotes, with an honest cost to clean out a hoarder's house",
        "text": [
         [
-         "A crew member walks the property, sees the real scope, and gives one flat number before anything moves — no guessing from a phone description, and once the work is underway."
+         "{{fact:changedScope}}."
         ]
        ]
       }
@@ -187,19 +178,18 @@
     {
      "t": "p",
      "c": [
-      "Hoarder clean out cost comes down to two honest factors: how much space is affected, and how much sorting the belongings actually need. A single room is a modest job on its own. A full farm property with a barn full of decades of accumulation takes considerably more time, and the price reflects that real difference rather than a flat guess made over the phone."
+      "{{fact:cleanupScope}}. A single room is a modest job on its own. A full farm property with a barn full of decades of accumulation takes considerably more time, and the price reflects that real difference rather than a flat guess made over the phone."
      ]
     },
     {
      "t": "p",
      "c": [
-      "What never factors in, under any circumstance, is where in the township the property happens to sit. A heritage home on Brock Street and a farmhouse eight concessions out get priced by the identical formula — size of the job, not distance from downtown. The figure is confirmed at a free, no-obligation walkthrough, privately and without pressure to decide anything on the spot."
+      "What never factors in, under any circumstance, is where in the township the property happens to sit. A heritage home on Brock Street and a farmhouse eight concessions out get priced by the identical formula — size of the job, not distance from downtown. The figure is confirmed at a free, no-obligation walkthrough, privately and without pressure to decide anything at the onsite estimate."
      ]
     },
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Township Premium, No Rushed Timelines"
      ]
     },
@@ -220,7 +210,7 @@
     {
      "t": "p",
      "c": [
-      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -262,15 +252,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Respectful Walkthrough and a Flat Quote",
-       "text": [
-        [
-         "A crew member visits the property — house, and any outbuildings — sees the actual scope, and provides one flat price, with unmarked arrival if that’s preferred and no assumptions made either way."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Hoarding Cleanout Runs Methodically, Room by Room",
        "text": [
@@ -281,10 +262,10 @@
       },
       {
        "n": "04",
-       "title": "Hoarding Cleanout Complete — the Property Left Clean and Livable",
+       "title": "Careful Removal",
        "text": [
         [
-         "Debris is hauled the same visit where possible, donations go to local partners, and the property is left swept and safe — with follow-up visits available if the job needs to happen in stages."
+         "Debris is hauled the same visit where possible, donations go to local partners, and the property is left and safe — with follow-up visits available if the job needs to happen in stages."
         ]
        ]
       }
@@ -325,10 +306,10 @@
        "Family-initiated cleanouts handled with real patience and no time pressure"
       ],
       [
-       "Same-day service for straightforward downtown access"
+       "Service for straightforward downtown access"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
        "Full discretion maintained throughout, on a street where people notice"
@@ -354,12 +335,6 @@
       ],
       [
        "Crews accustomed to working calmly around rural and farm properties"
-      ],
-      [
-       "Salvage and donation-first sorting maintained throughout, even in overwhelmed spaces"
-      ],
-      [
-       "Same flat pricing regardless of how far down the laneway the property sits"
       ]
      ]
     }
@@ -377,9 +352,6 @@
      "items": [
       [
        "Hoarding cleanouts in Goodwood, Zephyr, Leaskdale and Sandford"
-      ],
-      [
-       "Same flat pricing as downtown, no hamlet premium of any kind"
       ],
       [
        "Discreet, unhurried scheduling on request as a matter of course"
@@ -1020,7 +992,7 @@
        "q": "What's the cost to clean out a hoarder's house in Uxbridge?",
        "a": [
         [
-         "Hoarder clean out cost depends on the volume of belongings, the number of rooms or buildings affected, and how much sorting is involved — a single room prices modestly, a full property with a barn or shed costs more given the time required. The exact figure is confirmed free at a private walkthrough, with no township or distance premium anywhere."
+         "{{fact:cleanupScope}}. The exact figure is confirmed free at a private walkthrough, with no township or distance premium anywhere."
         ]
        ]
       },
@@ -1036,7 +1008,7 @@
        "q": "What's the best way to clean out a hoarder's house?",
        "a": [
         [
-         "Professional help, a clear plan, and patience. Going in without a strategy usually causes more distress than progress. The most effective approach sorts systematically — keep, donate, recycle, dispose — respects the resident’s input wherever they’re able to give it, and moves at a pace the household can handle, sometimes across more than one visit."
+         "Professional help, a clear plan, and patience. Going in without a strategy usually causes more distress than progress. {{fact:scheduling}}"
         ]
        ]
       },
@@ -1052,7 +1024,7 @@
        "q": "Do you cover the hamlets — Goodwood, Zephyr, Leaskdale, Sandford?",
        "a": [
         [
-         "Every one, at the same flat pricing as downtown. No address waits longer or pays more, ever."
+         "{{fact:changedScope}}. No address waits longer or pays more, ever."
         ]
        ]
       },

@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Anyone who’s tried to get rid of a couch in Oshawa knows the drill: check the collection calendar, count your item limit, drag it to the curb by 7AM, and hope it’s on the approved list — because the fridge, the mattress and the busted treadmill usually aren’t. We’re the other option. One call, and our fully insured crew picks up everything at once, from inside your home, on your schedule — quoted free at the door and usually gone the same day."
+      "Anyone who’s tried to get rid of a couch in Oshawa knows the drill: check the collection calendar, count your item limit, drag it to the curb by 7AM, and hope it’s on the approved list — because the fridge, the mattress and the busted treadmill usually aren’t. We’re the other option. {{fact:scheduling}}"
      ]
     },
     {
@@ -94,17 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "From the postwar bungalows of central Oshawa to family streets in Donevan and Pinecrest and the new builds up in Windfields, our trucks are a familiar sight across the city. The Google reviews behind Live Junk Free come from Oshawa homeowners who got what they were promised: punctual crews, honest flat quotes, careful hands on the staircase, and a clean sweep before we pull away."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Truck space is the price tag — full stop",
-       "text": []
-      }
-     ]
+     "text": "From the postwar bungalows of central Oshawa to family streets in Donevan and Pinecrest and the new builds up in Windfields, our trucks are a familiar sight across the city."
     },
     {
      "t": "h",
@@ -112,29 +102,9 @@
      "text": "Everything you're tossing gets measured against the truck: a fraction of the box costs a fraction of the price. Weight doesn't matter. Stairs don't matter. How long it takes doesn't matter."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Quotes are given standing in front of your junk",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Not over the phone, not from photos, not from a form. A crew member looks at the actual pile — including the part of it you forgot to mention — and hands you one flat number. It's free, it's firm, and you're welcome to say no."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Everything's inside the number",
-       "text": []
-      }
-     ]
+     "text": "Not over the phone, not from photos, not from a form. It's free, it's firm, and you're welcome to say no."
     },
     {
      "t": "h",
@@ -142,44 +112,14 @@
      "text": "The carry, the load, the drive, the disposal fees, the fuel — one figure covers the lot. Approve it and it's frozen; nothing discovered mid-job, from a heavier-than-expected dresser to a second trip downstairs, can nudge it upward."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Your house is treated like it's still for sale",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Runner mats on the floors, pads on the corners, furniture taken apart before it's ever forced through a doorframe. Whether it's a 1950s bungalow with narrow halls or a brand-new build with untouched trim, our movers leave zero evidence they were there — except the missing junk."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Pressure isn't part of the service",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "You get the quote; you make the call. Yes means the truck gets loaded right then. No means we thank you for your time and leave — no fee, no deposit, no callback campaign. Quotes don't expire, so \"later\" works too."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent means",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -260,7 +200,7 @@
       {
        "title": "2. Point It Out",
        "text": [
-        "Walk the crew past everything that's leaving — the bedroom set, the garage shelf, the freezer in the basement. One flat, upfront quote lands in your hand. No obligation attached to it."
+        "Walk the crew past everything that's leaving — the bedroom set, the garage shelf, the freezer in the basement. {{fact:changedScope}}. No obligation attached to it."
        ]
       },
       {
@@ -272,7 +212,7 @@
       {
        "title": "4. Clean Exit, Conscious Disposal",
        "text": [
-        "The space gets swept, the truck gets sorted: donation partners take the usable, recyclers take metals and electronics, and landfill gets last call only. You get your room back — and your Saturday."
+        "The space gets, the truck gets sorted: donation partners take the usable, recyclers take metals and electronics, and landfill gets last call only. You get your room back — and your Saturday."
        ]
       }
      ]
@@ -336,7 +276,7 @@
          "Dishwashers, microwaves and window AC units"
         ],
         [
-         "Drained hot water tanks and water softeners"
+         ""
         ],
         [
          "The dead beer fridge that outlived three TVs"
@@ -362,7 +302,7 @@
          "Yard pickups — swing sets, trampolines, fencing, lumber"
         ],
         [
-         "Post-move sweeps of whatever the movers left behind"
+         ""
         ]
        ]
       },
@@ -370,7 +310,7 @@
        "q": "The Big, Odd and Curb-Rejected in Oshawa",
        "a": [
         [
-         "Hot tubs — drained, cut down and hauled off"
+         ""
         ],
         [
          "Pianos, organs and pool tables"
@@ -388,7 +328,7 @@
          "BBQs, mowers, snowblowers and scrap metal"
         ],
         [
-         "Bed-bug-affected furniture — sealed on site and removed discreetly"
+         ""
         ]
        ]
       }

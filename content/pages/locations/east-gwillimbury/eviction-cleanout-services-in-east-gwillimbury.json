@@ -87,7 +87,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/elementor/thumbs/eviction-cleanout-services-rr0twsm2u8xtgkjom4gto2kqxytsdwvxwo5bvurnp0.jpeg",
-      "alt": "eviction-cleanout-services"
+      "alt": "Eviction Cleanout in East Gwillimbury: Live Junk Free job photo"
      }
     }
    ]
@@ -148,15 +148,6 @@
        "text": [
         [
          "A landlord may need a property cleared before repairs, inspections, showings or a new tenancy. Same-day and next-day eviction cleanout appointments may be available depending on scheduling."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Responsible Sorting & Disposal",
-       "text": [
-        [
-         "We consider where removed materials can go rather than treating everything as ordinary garbage. Furniture, metals and electronics may be recycled where possible, while usable goods may be directed toward donation opportunities."
         ]
        ]
       },
@@ -309,7 +300,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -365,15 +356,6 @@
        "text": [
         [
          "Choose an available appointment that works with your property schedule. Same-day and next-day service may be available depending on availability."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "We Remove & Sweep",
-       "text": [
-        [
-         "Our crew handles the lifting, loading and hauling of the agreed items and completes a final sweep once the cleanout is finished."
         ]
        ]
       }
@@ -564,7 +546,7 @@
      "t": "ul",
      "items": [
       [
-       "Smaller leftovers can add significant time to a property cleanout. We can remove accepted mattresses, clothing, trash, recyclables, yard waste and debris, followed by a final sweep of the cleared areas."
+       "Smaller leftovers can add significant time to a property cleanout. {{fact:cleanupScope}}."
       ]
      ]
     }
@@ -1172,7 +1154,7 @@
        "q": "Do you offer same-day eviction cleanout services in East Gwillimbury?",
        "a": [
         [
-         "Same-day and next-day services may be available depending on scheduling. Weekend and evening appointments may also be available when openings permit. "
+         "Same-day and next-day services may be available depending on scheduling. Weekend and evening appointments may also be available when openings permit, subject to scheduling. (subject to scheduling) "
         ]
        ]
       },

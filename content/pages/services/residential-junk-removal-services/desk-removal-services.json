@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/07/desk-removal-services.jpeg"
  },
  "title": "Desk Removal Services",
- "h1": "Most Trusted Choice for Desk Removal Services in Your Area",
+ "h1": "Choice for Desk Removal Services in Your Area",
  "published": "2026-07-19T09:53:08",
  "modified": "2026-07-23T05:18:48",
  "sections": [
@@ -21,7 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Most Trusted Choice for Desk Removal Services in Your Area"
+     "text": "Choice for Desk Removal Services in Your Area"
     },
     {
      "t": "h",
@@ -63,13 +63,13 @@
     {
      "t": "p",
      "c": [
-      "Removing old desks from your home or office doesn’t need to be difficult. At Live Junk Free, we take care of everything for you. You can choose any time that works best for you – we even offer same-day service if you need quick removal."
+      "Removing old desks from your home or office doesn’t need to be difficult. At Live Junk Free, we take care of everything for you. You can choose any time that works best for you – we even offer same-day service when available if you need quick removal."
      ]
     },
     {
      "t": "p",
      "c": [
-      "When our team arrives, they will carefully take apart and remove your desk without damaging your space. {{fact:propertyProtection}}. The best part is we don’t just throw desks in the trash. We work hard to recycle the materials or donate good-quality desks to schools and charities so they can be used again."
+      "When our team arrives, they will carefully take apart and remove your desk without damaging your space. {{fact:propertyProtection}}. The best part is we don’t just throw desks in the trash."
      ]
     },
     {
@@ -91,7 +91,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/desk-removal-services-1024x765.jpeg",
-      "alt": "desk-removal-services",
+      "alt": "Desk Removal: Live Junk Free job photo",
       "width": 800,
       "height": 598
      }
@@ -114,7 +114,7 @@
     {
      "t": "p",
      "c": [
-      "With our skilled team handling the job, you can focus on your work while we clear your space efficiently. Before you know it, you’ll have a clean, open area ready for new furniture or whatever comes next – quality desk removal that’s both affordable and completely worry-free."
+      "With our skilled team handling the job, you can focus on your work while we clear your space efficiently."
      ]
     },
     {
@@ -155,7 +155,7 @@
     {
      "t": "p",
      "c": [
-      "Getting rid of an old desk can be tough, and maybe it’s heavy, broken, or just stuck in place. Don’t worry! We make desk removal super easy and stress-free. Whether you’re cleaning out a home office or updating your workspace, we’ll take care of it fast. Need more gone? We also offer same-day removal when available services."
+      "Getting rid of an old desk can be tough, and maybe it’s heavy, broken, or just stuck in place. Don’t worry! We make desk removal super easy and stress-free. Whether you’re cleaning out a home office or updating your workspace, we’ll take care of it fast. Need more gone? We also offer same-day removal services when available."
      ]
     },
     {
@@ -229,7 +229,7 @@
       {
        "title": "Hassle-Free Booking",
        "text": [
-        "Secure your removal slot in under a minute through our simple online system or quick phone call. No paperwork, no waiting for callbacks – just instant confirmation."
+        "Secure your removal slot in under a minute through our simple online system or quick phone call. No paperwork, no waiting for callbacks – just confirmation."
        ]
       },
       {
@@ -239,7 +239,7 @@
        ]
       },
       {
-       "title": "Transparent Pricing Guarantee",
+       "title": "Transparent Clear Quotes",
        "text": [
         "{{fact:taxNote}}. {{fact:pricingIntro.extra}}"
        ]
@@ -251,7 +251,7 @@
        ]
       },
       {
-       "title": "Property Protection Guarantee",
+       "title": "Careful Removal",
        "text": [
         "{{fact:propertyProtection}}."
        ]
@@ -287,7 +287,7 @@
      "t": "ul",
      "items": [
       [
-       "Donate usable desks to charities"
+       "{{fact:recycling}}"
       ],
       [
        "Recycle wood, metal, and glass components"
@@ -332,12 +332,6 @@
      "items": [
       [
        "{{fact:competitorComparison}}"
-      ],
-      [
-       "{{fact:freeOnsiteEstimates}}"
-      ],
-      [
-       "Bulk removal discounts for offices"
       ]
      ]
     }
@@ -386,15 +380,9 @@
        ]
       },
       {
-       "title": "Get Your Price",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
-      {
        "title": "Pick a Time",
        "text": [
-        "Or next-day slots."
+        "Or next-day slots when available."
        ]
       },
       {
@@ -421,11 +409,11 @@
      "images": [
       {
        "src": "/images/uploads/2026/07/desk-removal-services-before.jpg",
-       "alt": "desk-removal-services"
+       "alt": "Before: Desk Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/desk-removal-services-after-1024x765.jpeg",
-       "alt": "desk-removal-services"
+       "alt": "After: Desk Removal: Live Junk Free job photo"
       }
      ]
     }

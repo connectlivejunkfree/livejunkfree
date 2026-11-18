@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Few cities turn over more apartments than Oshawa. Students arrive and leave with the school year, tenants move up and move on, investors flip units, families downsize — and almost every changeover leaves a unit full of things someone has to deal with. That someone can be us. Our fully insured Oshawa crew walks the unit with you, quotes one free flat price on the spot, and clears everything — furniture, appliances, closets, lockers — usually the same day you call."
+      "Few cities turn over more apartments than Oshawa. Students arrive and leave with the school year, tenants move up and move on, investors flip units, families downsize — and almost every changeover leaves a unit full of things someone has to deal with. That someone can be us. {{fact:changedScope}}."
      ]
     },
     {
@@ -97,29 +97,9 @@
      "text": "Between the apartment towers along Simcoe, the student rentals surrounding Durham College and Ontario Tech in the north end, and basement units woven through McLaughlin, Eastdale and Vanier, Oshawa keeps a cleanout crew busy year-round. Live Junk Free has built Google reviews doing exactly this work — for tenants racing a lease date, landlords facing a full unit, and families clearing a loved one's apartment with care."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Volume in, price out — the formula never changes",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Whatever fills a quarter of the truck costs quarter-truck money; whatever fills it all costs full-load money. Nothing else — not the hours, not the flight of stairs, not the wait for the elevator, not which Oshawa neighbourhood the building sits in — touches the price."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "We price the unit we can see, not the one you describe",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -127,59 +107,19 @@
      "text": "Apartments are deceptive: a \"mostly empty\" unit often hides a stuffed closet, a loaded balcony and a locker in the basement. Our quotes come after an in-person look at all of it. Free, flat, and yours to turn down."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One approved figure covers the job end to end",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Whatever the unit reveals along the way changes nothing on your invoice."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Landlords get a unit back, not a bigger problem",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Turnover cleanouts are about the next tenant, so we work to that standard: everything out including what's stuck to the back of closets, common areas protected and left tidy, before-and-after photos on request, and units returned swept and showable — sometimes within hours of the call."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Quote first, decide second, pay only if we work",
-       "text": []
-      }
-     ]
+     "text": "Turnover cleanouts are about the next tenant, so we work to that standard: everything out including what's stuck to the back of closets, common areas protected and left tidy, before-and-after photos on request, and units returned and showable — sometimes within hours of the call."
     },
     {
      "t": "h",
      "l": 3,
      "text": "There's no fee for the walkthrough and no pressure after the number lands. Approve it and the clearing starts immediately; decline it and we're gone with a handshake. Approved prices are locked and final."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "{{fact:competitorComparison}}",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -194,16 +134,6 @@
      "t": "h",
      "l": 2,
      "text": "What It Costs to Empty an Apartment in Oshawa"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Flat-Rate, Volume-Based, Quoted Inside the Unit"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "cards",
@@ -260,7 +190,7 @@
       {
        "title": "2. Walk It",
        "text": [
-        "Show us the unit and everything attached to it — balcony, locker, storage cage. We size the whole job and hand you one flat, quote, free of charge and free of pressure."
+        "Show us the unit and everything attached to it — balcony, locker, storage cage. {{fact:changedScope}}."
        ]
       },
       {
@@ -272,7 +202,7 @@
       {
        "title": "4. Hand It Back",
        "text": [
-        "The unit gets swept — for the landlord, the photographer or the new keys. The load gets sorted at our end: donations first, recycling second, landfill only for what remains."
+        "The unit gets — for the landlord, the photographer or the new keys. The load gets sorted at our end: donations first, recycling second, landfill only for what remains."
        ]
       }
      ]
@@ -324,13 +254,13 @@
          "Eviction unit clearing, handled promptly and professionally"
         ],
         [
-         "Between-tenant turnover clears — swept and showable fast"
+         "Between-tenant turnover clears — and showable fast"
         ],
         [
          "Pre-renovation strip-outs for investors and flippers"
         ],
         [
-         "Recurring multi-unit arrangements for Oshawa property managers"
+         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -512,7 +442,7 @@
        "q": "Q: My tenant moved out and left the place full. How fast can you clear it?",
        "a": [
         [
-         "A: Often same-day, almost always within a day or two. Once you’ve satisfied Ontario’s rules around a former tenant’s belongings, call us — we clear the unit completely, photograph before and after if you want records, and hand back a swept apartment ready to show. Plenty of Oshawa landlords have us saved in their contacts for this exact scenario."
+         "A: Often same-day, almost always within a day or two, subject to availability. Once you’ve satisfied Ontario’s rules around a former tenant’s belongings, call us — we clear the unit completely, photograph before and after if you want records, and hand back a apartment ready to show. Plenty of Oshawa landlords have us saved in their contacts for this exact scenario."
         ]
        ]
       },
@@ -520,7 +450,7 @@
        "q": "Q: Do you do student apartment cleanouts near Durham College and Ontario Tech?",
        "a": [
         [
-         "A: Every spring and fall, in volume. Whether you’re a student leaving town, a parent handling it from a distance, or a landlord resetting a shared house between school years, campus-area cleanouts are one of our most practiced Oshawa services — and volume pricing keeps a single room’s worth cheap."
+         "A: Every spring and fall, in volume. {{fact:changedScope}}."
         ]
        ]
       },

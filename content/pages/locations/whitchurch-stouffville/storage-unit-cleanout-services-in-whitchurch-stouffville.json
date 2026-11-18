@@ -9,7 +9,7 @@
   "description": "Storage Unit Cleanout Services in Whitchurch-Stouffville from Live Junk Free. Fast, reliable cleanouts for unwanted items and clutter.",
   "canonical": "https://livejunkfree.ca/locations/whitchurch-stouffville/storage-unit-cleanout-services-in-whitchurch-stouffville/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Storage-Unit-Cleanout-Services-in-Nobleton.jpeg"
+  "ogImage": "/images/uploads/2026/08/Storage-Unit-Cleanout-Services-in-Oshawa.jpeg"
  },
  "title": "Storage Unit Cleanout Services in Whitchurch-Stouffville",
  "h1": "Storage Unit Cleanout Services in Whitchurch-Stouffville from Live Junk Free",
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Storage unit cleanout services in Whitchurch-Stouffville from Live Junk Free are most often needed downtown near the GO station, where most of the township's genuine facility stock actually is — with the same flat pricing extended to farm-adjacent units near Vandorf and Gormley, and to Ballantrae residents downsizing into a smaller space. If you've searched storage unit cleanout services near me from anywhere in the township, this is genuinely the local crew already covering your area."
+     "text": "If you've searched storage unit cleanout services near me from anywhere in the township, this is genuinely the crew already covering your area."
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because the township’s genuine storage facility stock is concentrated downtown near the GO station and along Main Street, while the farm concessions toward Vandorf and Gormley hold barns and outbuildings rather than standalone facilities. Live Junk Free covers storage unit cleanout wherever a resident’s unit actually is, most commonly downtown, with the identical flat pricing extended to any farm-adjacent unit or Ballantrae resident using those same facilities."
+      "Because the township’s genuine storage facility stock is concentrated downtown near the GO station and along Main Street, while the farm concessions toward Vandorf and Gormley hold barns and outbuildings rather than standalone facilities. {{fact:changedScope}}."
      ]
     },
     {
@@ -152,19 +152,10 @@
       },
       {
        "n": "04",
-       "title": "Same-day storage unit cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first storage unit cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -200,13 +191,13 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how full the unit actually is, and how much sorting it genuinely needs. A small downtown unit is a modest job. A unit holding genuine farm equipment, or a larger household unit, takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small downtown unit is a modest job. A unit holding genuine farm equipment, or a larger household unit, takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
      "t": "p",
      "c": [
-      "What never enters the calculation is which part of the township the resident lives in. A downtown corridor resident and a Ballantrae resident get quoted by the identical formula. The figure is confirmed for free on site. If you’ve been comparing storage unit cleanout cost quotes from different companies, volume and sorting time are genuinely the only variables that should matter."
+      "What never enters the calculation is which part of the township the resident lives in. A downtown corridor resident and a Ballantrae resident get quoted by the identical formula. The figure is confirmed for free on site. {{fact:cleanupScope}}."
      ]
     },
     {
@@ -233,7 +224,7 @@
     {
      "t": "p",
      "c": [
-      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -275,15 +266,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual unit and gives you one flat price before anything moves."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Unit Gets Cleared, on Your Terms",
        "text": [
@@ -297,7 +279,7 @@
        "title": "Your Unit Is Empty and Ready to Return",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready to hand back to the facility."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready to hand back to the facility."
         ]
        ]
       }
@@ -335,16 +317,10 @@
        "Standard scheduling without a rural distinction"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Full sort of furniture, boxes and household items"
-      ],
-      [
-       "Donation-first sorting throughout"
-      ],
-      [
-       "Same flat pricing as anywhere else in the township"
       ]
      ]
     },
@@ -364,9 +340,6 @@
       ],
       [
        "Discreet scheduling on request"
-      ],
-      [
-       "Same flat pricing as anywhere else in the township"
       ],
       [
        "Coordination with family where relevant"
@@ -395,9 +368,6 @@
        "Equipment and supplies sorted with real understanding"
       ],
       [
-       "Same flat pricing regardless of distance from downtown"
-      ],
-      [
        "Documentation available if the situation requires it"
       ],
       [
@@ -423,16 +393,13 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -820,7 +787,7 @@
        "q": "Is storage unit cleanout mostly a downtown service?",
        "a": [
         [
-         "Honestly, yes — most of the township’s storage facilities are concentrated near Main Street and the GO station, though any resident gets the same flat pricing."
+         "{{fact:changedScope}}."
         ]
        ]
       },

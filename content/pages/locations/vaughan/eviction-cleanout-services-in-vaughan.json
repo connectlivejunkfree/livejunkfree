@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Eviction Cleanout Services in Vaughan | Live Junk Free",
-  "description": "Live Junk Free provides professional eviction cleanout services in Vaughan and the whole team is equipped to handle the heavy lifting, sorting, ...",
+  "description": "Live Junk Free provides professional eviction cleanout services in Vaughan and the whole team is equipped to handle the heavy lifting...",
   "canonical": "https://livejunkfree.ca/locations/vaughan/eviction-cleanout-services-in-vaughan/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/09/OFFICE-CLEANOUT-SERVICES.jpeg"
@@ -22,11 +22,6 @@
      "t": "h",
      "l": 1,
      "text": "Best Eviction Cleanout Services in Vaughan from Live Junk Free"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Live Junk Free provides professional eviction cleanout services in Vaughan and the whole team is equipped to handle the heavy lifting, sorting, loading, hauling, responsible disposal, and final sweeping required to get the property cleared."
     },
     {
      "t": "ctas",
@@ -87,7 +82,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/elementor/thumbs/eviction-cleanout-services-rr0twsm2u8xtgkjom4gto2kqxytsdwvxwo5bvurnp0.jpeg",
-      "alt": "eviction-cleanout-services"
+      "alt": "Eviction Cleanout in Vaughan: Live Junk Free job photo"
      }
     }
    ]
@@ -301,23 +296,20 @@
        "Electronics and mattress removal"
       ],
       [
-       "Sorting and loading"
+       "Loading"
       ],
       [
        "Hauling"
       ],
       [
        "Responsible disposal"
-      ],
-      [
-       "Final sweeping"
       ]
      ]
     },
     {
      "t": "p",
      "c": [
-      "For large eviction cleanouts, multiple units, and apartment buildings, bulk or custom pricing may be available."
+      "{{fact:changedScope}}."
      ]
     },
     {
@@ -344,7 +336,7 @@
     {
      "t": "p",
      "c": [
-      "Every office cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every office cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -400,15 +392,6 @@
        "text": [
         [
          "Choose a convenient service time. Same-day or next-day eviction cleanouts may be available depending on scheduling, including flexible weekend and evening options."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "We Clear the Property & Sweep",
-       "text": [
-        [
-         "Our crew arrives, removes the unwanted belongings, loads and hauls everything away, and completes a final sweep so the cleared area is ready for its next use."
         ]
        ]
       }
@@ -569,7 +552,7 @@
      "t": "ul",
      "items": [
       [
-       "A complete house cleanout can involve multiple rooms as well as garages and basements. Our crew can remove unwanted household contents throughout the property and handle the lifting, loading, hauling, and final sweep."
+       "A complete house cleanout can involve multiple rooms as well as garages and basements. {{fact:cleanupScope}}."
       ]
      ]
     }
@@ -1207,7 +1190,7 @@
        "q": "3. Can I get same-day eviction cleanout services in Vaughan?",
        "a": [
         [
-         "Yes. Live Junk Free offers same-day and next-day eviction cleanout services when scheduling permits. {{fact:scheduling}} "
+         "Yes. {{fact:permits}} "
         ]
        ]
       },

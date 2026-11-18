@@ -6,13 +6,13 @@
  "template": "None",
  "seo": {
   "title": "Komal - Live JunkFree",
-  "description": "Old TVs, computers & electronics taking up space? Live Junk Free safely removes & recycles e-waste removal services across the GTA. Same-day available. Call +1 647 922 5865!",
+  "description": "Old TVs, computers & electronics taking up space? Live Junk Free safely removes & recycles e-waste removal services across the GTA. Same-day may be available. Call +1 647 922 5865!",
   "canonical": "https://livejunkfree.ca/locations/komal/",
   "robots": "follow, noindex",
   "ogImage": "/images/uploads/2026/07/E-Waste-Removal-Service.jpeg"
  },
  "title": "Komal",
- "h1": "Locally Trusted – 5-Star Rated E-Waste Removal Service!",
+ "h1": "E-Waste Removal Service!",
  "published": "2026-07-24T07:17:38",
  "modified": "2026-07-24T07:17:38",
  "sections": [
@@ -21,12 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Locally Trusted – 5-Star Rated E-Waste Removal Service!"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "We’re the Top Choice for Electronics Recycling."
+     "text": "E-Waste Removal Service!"
     },
     {
      "t": "ctas",
@@ -80,7 +75,7 @@
     {
      "t": "p",
      "c": [
-      "From the postwar bungalows of central Oshawa to family streets in Donevan and Pinecrest and the new builds up in Windfields, our trucks are a familiar sight across the city. The Google reviews behind Live Junk Free come from Oshawa homeowners who got what they were promised: punctual crews, honest flat quotes, careful hands on the staircase, and a clean sweep before we pull away."
+      "From the postwar bungalows of central Oshawa to family streets in Donevan and Pinecrest and the new builds up in Windfields, our trucks are a familiar sight across the city. {{fact:cleanupScope}}."
      ]
     },
     {
@@ -126,7 +121,7 @@
        "title": "Quotes are given standing in front of your junk",
        "text": [
         [
-         "Not over the phone, not from photos, not from a form. A crew member looks at the actual pile — including the part of it you forgot to mention — and hands you one flat number. It’s free, it’s firm, and you’re welcome to say no."
+         "Not over the phone, not from photos, not from a form. {{fact:changedScope}}. It’s free, it’s firm, and you’re welcome to say no."
         ]
        ]
       },
@@ -268,7 +263,7 @@
        "title": "Point It Out",
        "text": [
         [
-         " Walk the crew past everything that’s leaving — the bedroom set, the garage shelf, the freezer in the basement. One flat, upfront quote lands in your hand. No obligation attached to it. "
+         " Walk the crew past everything that’s leaving — the bedroom set, the garage shelf, the freezer in the basement. {{fact:changedScope}}. No obligation attached to it. "
         ]
        ]
       },
@@ -286,7 +281,7 @@
        "title": "Clean Exit, Conscious Disposal",
        "text": [
         [
-         " The space gets swept, the truck gets sorted: donation partners take the usable, recyclers take metals and electronics, and landfill gets last call only. You get your room back — and your Saturday. "
+         " The space gets, the truck gets sorted: donation partners take the usable, recyclers take metals and electronics, and landfill gets last call only. You get your room back — and your Saturday. "
         ]
        ]
       }
@@ -367,9 +362,6 @@
        "Dishwashers, microwaves and window AC units"
       ],
       [
-       "Drained hot water tanks and water softeners"
-      ],
-      [
        "The dead beer fridge that outlived three TVs"
       ]
      ]
@@ -400,9 +392,6 @@
       ],
       [
        "Yard pickups — swing sets, trampolines, fencing, lumber"
-      ],
-      [
-       "Post-move sweeps of whatever the movers left behind"
       ]
      ]
     },
@@ -414,9 +403,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Hot tubs — drained, cut down and hauled off"
-      ],
       [
        "Pianos, organs and pool tables"
       ],
@@ -431,9 +417,6 @@
       ],
       [
        "BBQs, mowers, snowblowers and scrap metal"
-      ],
-      [
-       "Bed-bug-affected furniture — sealed on site and removed discreetly"
       ]
      ]
     }

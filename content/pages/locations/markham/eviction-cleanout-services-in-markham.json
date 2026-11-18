@@ -87,7 +87,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/elementor/thumbs/eviction-cleanout-services-rr0twsm2u8xtgkjom4gto2kqxytsdwvxwo5bvurnp0.jpeg",
-      "alt": "eviction-cleanout-services"
+      "alt": "Eviction Cleanout in Markham: Live Junk Free job photo"
      }
     }
    ]
@@ -147,7 +147,7 @@
        "title": "Fast Eviction Cleanouts in Markham",
        "text": [
         [
-         "When a unit needs to be prepared for its next tenant or property milestone, waiting days for removal can become inconvenient. Same-day and next-day options are available when scheduling permits."
+         "When a unit needs to be prepared for its next tenant or property milestone, waiting days for removal can become inconvenient. {{fact:permits}}"
         ]
        ]
       },
@@ -165,7 +165,7 @@
        "title": "Insured & Respectful Eviction Cleanout Crew",
        "text": [
         [
-         "Eviction situations can already be stressful for everyone involved. Our trained and insured crew approaches the property professionally, handles the removal carefully and leaves the cleared area swept and tidy."
+         "Eviction situations can already be stressful for everyone involved. Our trained and insured crew approaches the property professionally, handles the removal carefully and leaves the cleared area and tidy."
         ]
        ]
       }
@@ -309,7 +309,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -373,7 +373,7 @@
        "title": "We Clear, Haul & Tidy",
        "text": [
         [
-         "Our crew arrives, removes the agreed items, loads everything for hauling and completes a final sweep so the cleared area is left more presentable."
+         "{{fact:cleanupScope}}."
         ]
        ]
       }
@@ -570,7 +570,7 @@
      "t": "ul",
      "items": [
       [
-       "Eviction properties may contain mattresses, clothing, trash, recyclables, yard waste or debris. We can remove these accepted materials as part of the overall cleanout and leave the area swept after removal."
+       "Eviction properties may contain mattresses, clothing, trash, recyclables, yard waste or debris. We can remove these accepted materials as part of the overall cleanout and leave the area after removal."
       ]
      ]
     }

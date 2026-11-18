@@ -24,11 +24,6 @@
      "text": "Your Trusted Local Choice for Above Ground Pool Demolition Service!"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in town."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -121,7 +116,7 @@
     {
      "t": "p",
      "c": [
-      "Our experienced team makes it easy. While we work, you can relax knowing your space will be cleared quickly and safely. In no time, you’ll have a clean, open area ready for new landscaping, patio furniture, or whatever you envision. Simple, hassle-free above ground removal at the best price."
+      "Our experienced team makes it easy. While we work, you can relax knowing your space will be cleared quickly and safely. In no time, you’ll have a clean, open area ready for new landscaping, patio furniture, or whatever you envision. {{fact:changedScope}}."
      ]
     },
     {
@@ -162,7 +157,7 @@
     {
      "t": "p",
      "c": [
-      "We understand some projects need immediate attention, whether you are preparing for landscaping, creating an outdoor living space, or simply reclaiming your backyard. That’s why we offer same-day or next-day above ground demolition and removal in your area, subject to scheduling. Our quick response means you could have your space cleared in just hours."
+      "{{fact:scheduling}} That’s why we offer same-day or next-day above ground demolition and removal in your area, subject to scheduling. Our quick response means you could have your space cleared in just hours."
      ]
     },
     {
@@ -176,9 +171,6 @@
      "items": [
       [
        "Safely dismantle and remove all above ground types (acrylic, wooden, inflatable)"
-      ],
-      [
-       "Handle complex disconnections (electrical, plumbing)"
       ],
       [
        "Remove all debris – we leave nothing behind"
@@ -214,18 +206,6 @@
        "title": "Fast & Efficient",
        "text": [
         "Timing confirmed at your estimate"
-       ]
-      },
-      {
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        "– Special rates when removing multiple spas or tubs"
-       ]
-      },
-      {
-       "title": "Flexible Scheduling",
-       "text": [
-        ""
        ]
       },
       {
@@ -267,10 +247,10 @@
      "t": "ul",
      "items": [
       [
-       "We specialize in above ground pool demolition and removal in any location, whether your spa is wedged in a tight backyard space, positioned on a delicate deck, or surrounded by intricate landscaping. Our expert technicians use specialized techniques to carefully disconnect and dismantle your above ground while protecting your property, leaving absolutely behind. From compact inflatable models to massive luxury spas, we handle every removal with meticulous attention to detail."
+       "We specialize in above ground pool demolition and removal in any location, whether your spa is wedged in a tight backyard space, positioned on a delicate deck, or surrounded by intricate landscaping. {{fact:utilityDisconnection}} From compact inflatable models to massive luxury spas, we handle every removal with meticulous attention to detail."
       ],
       [
-       "We manage the complete process, from safe disconnection and demolition to debris removal and final cleanup, so you don’t need to worry about anything. Our team arrives fully prepared with all necessary equipment to tackle even the most challenging above ground removals, ensuring every component is disposed of properly. When we finish, your space won’t just be empty – it will be tidy and ready for your next backyard project."
+       "{{fact:utilityDisconnection}} Our team arrives fully prepared with all necessary equipment to tackle even the most challenging above ground removals, ensuring every component is disposed of properly. When we finish, your space won’t just be empty – it will be tidy and ready for your next backyard project."
       ]
      ]
     },
@@ -294,7 +274,7 @@
      "t": "ul",
      "items": [
       [
-       "Acrylic shells are professionally recycled"
+       "Acrylic shells are professionally recycled where possible"
       ],
       [
        "Metal components are separated and repurposed"
@@ -326,7 +306,7 @@
      "c": [
       {
        "b": [
-        "Transparent Above Ground Pool Removal Pricing – Guaranteed"
+        "Transparent Above Ground Pool Removal Pricing –"
        ]
       }
      ]
@@ -342,9 +322,6 @@
      "items": [
       [
        "Free estimates by phone, text, or online"
-      ],
-      [
-       "Special pricing for multiple above ground removals"
       ],
       [
        "– our quotes are confirmed before work starts"
@@ -454,7 +431,7 @@
       },
       {
        "src": "/images/uploads/2026/07/above-ground-demolition-services-after-1024x765.jpeg",
-       "alt": "above-ground-demolition-services"
+       "alt": "After: Above Ground Demolition: Live Junk Free job photo"
       }
      ]
     }
@@ -491,14 +468,6 @@
        "a": [
         [
          "We serve Schomberg, Mississauga, Newmarket, Nobleton, Oshawa, Aurora, and Bolton for above ground demolition and removal."
-        ]
-       ]
-      },
-      {
-       "q": "Do I need to drain the above ground pool before removal?",
-       "a": [
-        [
-         "No, you don’t need to drain it, we’ll handle all the draining and disconnections as part of our service."
         ]
        ]
       }
@@ -623,7 +592,7 @@
     {
      "t": "p",
      "c": [
-      "Above-ground demolition can involve removing pools, decks, sheds, garages, patios, fences, and other structures from residential properties. Below are answers to common questions about demolition pricing, timing, safety, permits, debris removal, recycling, and choosing a professional demolition company in the GTA."
+      "Above-ground demolition can involve removing pools, decks, sheds, garages, patios, fences, and other structures from residential properties. {{fact:permits}}"
      ]
     },
     {
@@ -660,7 +629,7 @@
          "5. Do companies charge extra for site cleanup and land leveling?"
         ],
         [
-         "Basic demolition cleanup and debris removal can be included in the scope of the project. If the job also requires substantial grading, backfilling, excavation, or landscaping work, those additional services should be discussed and quoted separately."
+         "Basic demolition cleanup and debris removal can be included in the scope of the project. {{fact:equipmentScope}}."
         ],
         [
          "6. How does the location and accessibility of the structure impact the overall price?"
@@ -678,7 +647,7 @@
          "8. What are the cost factors that could cause a price increase mid-project?"
         ],
         [
-         "Unexpected structural conditions, difficult access, additional debris, hidden foundations, concrete, or work outside the original agreed scope can affect the cost. Live Junk Free’s approach is to assess the project beforehand and provide transparent pricing so the scope is clear before demolition begins."
+         "{{fact:structuralDemolition}}. Live Junk Free’s approach is to assess the project beforehand and provide transparent pricing so the scope is clear before demolition begins."
         ],
         [
          "9. How long does it take to complete a standard above-ground demolition?"
@@ -696,7 +665,7 @@
          "11. How do contractors ensure underground utility lines aren’t damaged?"
         ],
         [
-         "Before demolition, the project should be assessed for potential utility connections and hazards. Live Junk Free can handle appropriate disconnections for above-ground pool-related electrical and plumbing components, while homeowners should disclose known utility lines and connections before work begins."
+         "Before demolition, the project should be assessed for potential utility connections and hazards. {{fact:utilityDisconnection}}"
         ],
         [
          "12. What safety precautions are taken to protect my house and nearby landscaping?"
@@ -705,16 +674,16 @@
          "Professional demolition crews work in sections and use protective measures around structures and landscaping. Live Junk Free specifically highlights property-protection measures for demolition projects, including protecting surrounding areas while dismantling structures."
         ],
         [
-         "13. Do I need to drain an above-ground pool completely before the crew arrives?"
+         "13. {{fact:utilityDisconnection}}"
         ],
         [
-         "No. Live Junk Free states that homeowners do not need to drain the above-ground pool beforehand. The crew can handle draining and necessary disconnections as part of the removal service."
+         "No. {{fact:utilityDisconnection}}"
         ],
         [
-         "14. How is a concrete slab or foundation under a shed or deck broken up and removed?"
+         "14. {{fact:structuralDemolition}}."
         ],
         [
-         "Concrete slabs, footings, and foundations may require specialized demolition equipment and techniques. Live Junk Free also provides concrete demolition services for slabs, footings, patios, pool decks, and foundations, with the debris removed after demolition."
+         "{{fact:structuralDemolition}}."
         ],
         [
          "15. Will the demolition process create excessive noise or dust for my neighbors?"
@@ -726,19 +695,19 @@
          "16. What is the step-by-step process for tearing down a manufactured or mobile home?"
         ],
         [
-         "Manufactured or mobile-home demolition is significantly more complex than a typical backyard structure. It may involve utility disconnections, permits, structural dismantling, debris separation, transportation, and site cleanup. The project should be assessed individually before work begins."
+         "Manufactured or mobile-home demolition is significantly more complex than a typical backyard structure. {{fact:permits}} The project should be assessed individually before work begins."
         ],
         [
-         "17. Do I need a building or demolition permit for above-ground structures?"
+         "17. {{fact:permits}}"
         ],
         [
-         "Permit requirements depend on the municipality, structure, size, location, and type of demolition. Some smaller structures may not require a permit, while other projects can have specific requirements. Live Junk Free can help identify local requirements, but homeowners should confirm permit requirements with their municipality."
+         "{{fact:permits}}"
         ],
         [
          "18. Does the homeowner or the contractor handle the permitting process?"
         ],
         [
-         "This depends on the project and municipality. When a permit is required, the homeowner and contractor should establish who is responsible for obtaining it before demolition begins. Permit requirements should be confirmed before scheduling the work."
+         "This depends on the project and municipality. {{fact:permits}}"
         ],
         [
          "19. Are there specific HOA rules I need to check before demolition?"
@@ -777,10 +746,10 @@
          "Demolition debris can be sorted according to material type, with recyclable materials directed toward appropriate recycling streams and non-recyclable materials disposed of responsibly. Live Junk Free emphasizes recycling and responsible disposal as part of its demolition services."
         ],
         [
-         "25. Can any materials like metal pool frames or wood beams be recycled or salvaged?"
+         "25. Can any materials like metal pool frames or wood beams be recycled where possible or salvaged?"
         ],
         [
-         "Yes. Some demolition materials can be recycled or reused depending on their condition and material type. Live Junk Free separates recyclable materials such as metal components and processes suitable materials through appropriate recycling channels."
+         "Yes. Some demolition materials can be recycled where possible or reused depending on their condition and material type. Live Junk Free separates recyclable materials such as metal components and processes suitable materials through appropriate recycling channels."
         ],
         [
          "26. Will the contractor haul away all trash, or will a dumpster be left on my driveway?"
@@ -792,13 +761,13 @@
          "27. What happens to the dirt or grass under an above-ground structure once it’s gone?"
         ],
         [
-         "Once the structure is removed, the condition of the underlying area can be assessed. Depending on what was underneath, the area may need sweeping, filling, grading, soil replacement, or landscaping before it is ready for a new use."
+         "Once the structure is removed, the condition of the underlying area can be assessed. {{fact:cleanupScope}}."
         ],
         [
-         "28. Do companies offer backfilling and grading services to make the yard level again?"
+         "28. {{fact:equipmentScope}}."
         ],
         [
-         "Backfilling and grading are project-specific services. If your demolition leaves holes, footings, uneven ground, or other site conditions that require leveling, discuss those requirements when requesting your quote so the scope can be clearly defined."
+         "{{fact:equipmentScope}}."
         ],
         [
          "29. How do they handle matted decks or wet insulation?"
@@ -819,7 +788,7 @@
          "31. What tools would I need to rent if I chose to do the demolition myself?"
         ],
         [
-         "The tools depend on the structure. A DIY project may require items such as heavy-duty cutting tools, pry bars, saws, moving equipment, protective gear, and potentially larger equipment for concrete or heavy structures. Rental costs can quickly add to the overall DIY expense."
+         "The tools depend on the structure. {{fact:equipmentScope}}. Rental costs can quickly add to the overall DIY expense."
         ],
         [
          "32. How much money can I save by doing the teardown myself versus hiring a service?"
@@ -858,7 +827,7 @@
          "A written agreement should clearly state the structure being demolished, work included, total price, payment terms, expected schedule, debris removal, disposal or recycling, site cleanup, permit responsibilities, and how additional work will be handled. A clear scope helps prevent misunderstandings."
         ],
         [
-         "38. Do demolition companies offer warranties or guarantees for property damage?"
+         "38."
         ],
         [
          "Policies vary between contractors. Ask about liability insurance and the company’s process for handling accidental property damage before work begins. Live Junk Free is fully insured and emphasizes property protection during demolition projects."

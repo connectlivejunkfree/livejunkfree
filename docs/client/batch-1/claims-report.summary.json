@@ -1,0 +1,49 @@
+{
+ "batch": {
+  "fail": 0,
+  "allowed": 487,
+  "pages": {}
+ },
+ "site": {
+  "hits": 1145,
+  "allowed": 6127,
+  "routes": 736
+ },
+ "byCategory": {
+  "timing": {
+   "batchFail": 0,
+   "site": 190,
+   "allowed": 4135
+  },
+  "specialist": {
+   "batchFail": 0,
+   "site": 177,
+   "allowed": 835
+  },
+  "handling": {
+   "batchFail": 0,
+   "site": 552,
+   "allowed": 905
+  },
+  "guarantees": {
+   "batchFail": 0,
+   "site": 183,
+   "allowed": 80
+  },
+  "recycling": {
+   "batchFail": 0,
+   "site": 16,
+   "allowed": 567
+  },
+  "local": {
+   "batchFail": 0,
+   "site": 27,
+   "allowed": 0
+  },
+  "price": {
+   "batchFail": 0,
+   "site": 0,
+   "allowed": 92
+  }
+ }
+}

@@ -24,11 +24,6 @@
      "text": "Your Trusted Local Patio Furniture Removal Experts"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": ""
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -219,12 +214,6 @@
      "t": "cards",
      "items": [
       {
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
-      {
        "title": "Careful Removal",
        "text": [
         "{{fact:propertyProtection}}"
@@ -240,12 +229,6 @@
        "title": "Eco-Friendly Processing",
        "text": [
         "{{fact:recycling}}"
-       ]
-      },
-      {
-       "title": "Quotes",
-       "text": [
-        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -285,7 +268,7 @@
        "From heavy wrought iron sets to delicate glass-top tables, we handle them all with care and expertise. We take care of all the hard work, including disassembly, hauling, and eco-friendly disposal, so you can focus on enjoying your outdoor space. When we’re done, we leave your area clean, open, and ready for new furniture or a fresh look."
       ],
       [
-       "No patio furniture challenge is too big or too small for our experienced team. We have completed hundreds of outdoor furniture removals near you."
+       "No patio furniture challenge is too big or too small for our experienced team."
       ]
      ]
     },
@@ -310,20 +293,6 @@
        ]
       },
       ", we believe updating your outdoor space shouldn’t harm the environment."
-     ]
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "{{fact:recycling}}"
-      ],
-      [
-       "Furniture Donation Program: Gently used items find new homes through local shelters and community organizations"
-      ],
-      [
-       "Smart Waste Sorting: Our careful separation system ensures minimal landfill contribution"
-      ]
      ]
     },
     {
@@ -360,13 +329,7 @@
      "t": "ul",
      "items": [
       [
-       "{{fact:recycling}}"
-      ],
-      [
        "{{fact:freeOnsiteEstimates}}"
-      ],
-      [
-       "Project Discounts – Special pricing when combining multiple renovation services"
       ]
      ]
     }
@@ -423,7 +386,7 @@
       {
        "title": "Choose Your Time",
        "text": [
-        "Book same-day or next-day pickup with our professional furniture removal team, available at your convenience."
+        "Book same-day or next-day pickup when available with our professional furniture removal team, available at your convenience."
        ]
       },
       {

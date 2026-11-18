@@ -69,7 +69,7 @@
     {
      "t": "p",
      "c": [
-      "Taking one down is harder than it looks. Playsets are engineered not to come apart — lag-bolted beams, hidden brackets, weather-fused hardware, and posts often set in concrete below the lawn. Our playset demolition crews handle the entire job: systematic dismantling, safe demolition of rotted sections, extraction of anchors and footings on request, and complete haul-away of every board, bolt, and panel. Families across the Greater Toronto Area book us with a free quote and get their yard back in an afternoon."
+      "Taking one down is harder than it looks. Playsets are engineered not to come apart — lag-bolted beams, hidden brackets, weather-fused hardware, and posts often set in concrete below the lawn. {{fact:structuralDemolition}}. Families across the Greater Toronto Area book us with a free quote and get their yard back in an afternoon."
      ]
     },
     {
@@ -85,7 +85,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/playset-demolition-removal-services-1024x765.jpeg",
-      "alt": "playset-demolition-removal-services",
+      "alt": "Playset Demolition Removal: Live Junk Free job photo",
       "width": 800,
       "height": 598
      }
@@ -148,11 +148,6 @@
   {
    "blocks": [
     {
-     "t": "h",
-     "l": 2,
-     "text": "Complete Playset Dismantling & Haul Away – Towers, Swings, Slides & Footings"
-    },
-    {
      "t": "p",
      "c": [
       "The average wooden playset weighs several hundred pounds and is held together by dozens of lag bolts, carriage bolts, and brackets that have spent a decade rusting into place. Add sun-brittled plastic, splinter-prone lumber, elevated platforms, and posts anchored in concrete, and DIY removal becomes a long, skinned-knuckle weekend with a real risk of a beam coming down wrong."
@@ -167,7 +162,7 @@
     {
      "t": "p",
      "c": [
-      "Teardown is methodical, not brute-force: swings, slides, and accessories come off first, then platforms and rails, then the frame is dropped in controlled sections. We work on tarps to catch hardware and debris, protect surrounding grass, gardens, and fences, and — if you choose the option — dig out ground anchors and concrete footings so the spot is truly ready for sod, garden beds, or new construction."
+      "Teardown is methodical, not brute-force: swings, slides, and accessories come off first, then platforms and rails, then the frame is dropped in controlled sections. {{fact:structuralDemolition}}."
      ]
     },
     {
@@ -180,10 +175,7 @@
      "t": "ul",
      "items": [
       [
-       "Full structural teardown – Every beam, panel, slide, swing, chain, and bracket dismantled and removed"
-      ],
-      [
-       "Yard left play-ready again – Metal recycled, debris raked from the site, and optional footing extraction for a clean slate"
+       "{{fact:structuralDemolition}}."
       ]
      ]
     },
@@ -210,7 +202,7 @@
      "t": "cards",
      "items": [
       {
-       "title": "Teardown & Haul in One Visit",
+       "title": "Teardown & Haul",
        "text": [
         "Dismantling, demolition, loading, and site cleanup handled by a single crew"
        ]
@@ -219,12 +211,6 @@
        "title": "Lawn & Garden Protection",
        "text": [
         "Tarps, plywood paths, and careful staging keep grass, beds, and fences unharmed"
-       ]
-      },
-      {
-       "title": "Footing & Anchor Extraction",
-       "text": [
-        "Optional removal of concrete footings and ground anchors for a build-ready spot"
        ]
       },
       {
@@ -266,9 +252,6 @@
      "items": [
       [
        "After confirming scope from your photos — structure type, size, anchoring, and access to the yard — the crew begins with accessories: swings, slides, climbing walls, and canopies come off first. Platforms and railings follow, and the main frame is then unbolted or cut down in managed sections, never toppled. Hardware lands on tarps, not in your grass."
-      ],
-      [
-       "Once the structure is loaded, we rake the footprint clear of mulch debris, splinters, and stray bolts, complete any requested footing removal, and walk the site with you — leaving nothing behind but level ground."
       ]
      ]
     },
@@ -332,7 +315,7 @@
        "Figure – Teardown labour, hauling, recycling, and site cleanup in one written price"
       ],
       [
-       "Add-On Savings – Combine with shed demolition, trampoline removal, or a yard cleanout for a reduced bundle rate"
+       "{{fact:changedScope}}."
       ]
      ]
     }
@@ -395,13 +378,7 @@
       {
        "title": "Pick Your Demolition Day",
        "text": [
-        "Choose a same-week, weekend, or project-timed slot that beats your landscaper, pool crew, or listing date."
-       ]
-      },
-      {
-       "title": "Enjoy the Open Yard",
-       "text": [
-        "We unbolt, drop, load, rake, and sweep the footprint — leaving level ground ready for whatever comes next."
+        "Choose a same-week, weekend, or project-timed slot that beats your landscaper, pool crew, or listing date, subject to scheduling."
        ]
       }
      ]
@@ -426,11 +403,11 @@
      "images": [
       {
        "src": "/images/uploads/2026/07/playset-demolition-removal-services-before-1024x765.jpeg",
-       "alt": "playset-demolition-removal-services"
+       "alt": "Before: Playset Demolition Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/playset-demolition-removal-services-after-1024x765.jpeg",
-       "alt": "playset-demolition-removal-services"
+       "alt": "After: Playset Demolition Removal: Live Junk Free job photo"
       }
      ]
     }
@@ -458,7 +435,7 @@
        "q": "2) Can you remove the concrete footings and ground anchors too?",
        "a": [
         [
-         "Yes, as an optional add-on. Many playsets are anchored with buried concrete or steel stakes, and we can dig these out so the ground is fully clear for sod, gardens, pools, or construction. If you’d rather leave footings below grade, we’ll cut posts flush instead — your choice at quote time."
+         "Yes, as an optional add-on. Many playsets are anchored with buried concrete or steel stakes, and we can dig these out so the ground is fully clear for sod, gardens, pools, or construction. {{fact:structuralDemolition}}."
         ]
        ]
       },

@@ -121,7 +121,7 @@
        "title": "Honest timelines where a real deadline exists",
        "text": [
         [
-         "Where a closing, an estate deadline or a lease end date is genuinely driving the schedule, the crew gives a realistic assessment at the walkthrough rather than agreeing to something that might not hold up once the sorting actually starts."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -131,15 +131,6 @@
        "text": [
         [
          "Most hoarding cleanouts don’t have an external deadline at all, and those get exactly the same unhurried, family-paced approach as anywhere else — nothing about Ajax’s identity as a fast-moving city changes that."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "One flat price, confirmed before anything moves",
-       "text": [
-        [
-         "The number reflects what a crew member actually sees at the walkthrough, not a rushed guess made to accommodate a tight schedule, and it holds regardless of what the sorting turns up."
         ]
        ]
       },
@@ -193,13 +184,12 @@
     {
      "t": "p",
      "c": [
-      "A cleanout tied to a closing date costs the same as one with no external timeline at all — urgency doesn’t come with a premium, and a relaxed schedule doesn’t come with a discount either. The figure is confirmed privately at a free walkthrough."
+      "{{fact:changedScope}}. The figure is confirmed privately at a free walkthrough."
      ]
     },
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -220,7 +210,7 @@
     {
      "t": "p",
      "c": [
-      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -262,29 +252,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual space and gives one flat number, along with a realistic timeline if a deadline is genuinely part of the picture."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at whatever pace the situation actually allows, with anything meaningful set aside first, always."
-        ]
-       ]
-      },
-      {
        "n": "04",
-       "title": "A Space That's Clean and Livable",
+       "title": "Careful Removal",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable — ready for a closing, a new tenant, or simply for the family, whichever applies."
+         "Whatever was worked on that visit is left and usable — ready for a closing, a new tenant, or simply for the family, whichever applies."
         ]
        ]
       }
@@ -374,9 +346,6 @@
       ],
       [
        "Real patience for homes that have held a family for a long time"
-      ],
-      [
-       "Same flat pricing as anywhere else in the city"
       ],
       [
        "Coordination with executors where an estate is involved"
@@ -1002,7 +971,7 @@
        "q": "How much does a hoarding cleanout cost in Ajax?",
        "a": [
         [
-         "Pricing is based on how many rooms are affected and how much sorting the belongings need — never on whether there’s a deadline involved. The figure is confirmed free at a private walkthrough. "
+         "{{fact:cleanupScope}}. The figure is confirmed free at a private walkthrough. "
         ]
        ]
       },

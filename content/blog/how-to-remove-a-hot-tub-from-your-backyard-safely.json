@@ -111,9 +111,6 @@
        "Plumbing components"
       ],
       [
-       "Pumps"
-      ],
-      [
        "Motors"
       ],
       [
@@ -127,13 +124,7 @@
     {
      "t": "p",
      "c": [
-      "A filled hot tub is far heavier, which is why the first step is always to completely drain it before attempting to move it."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "But even after draining, moving a hot tub can require several people and careful planning."
+      "{{fact:utilityDisconnection}}"
      ]
     }
    ]
@@ -144,12 +135,6 @@
      "t": "h",
      "l": 2,
      "text": "1. Turn Off the Power First"
-    },
-    {
-     "t": "p",
-     "c": [
-      "Before doing anything else, make sure the hot tub is disconnected from its electrical supply."
-     ]
     },
     {
      "t": "p",
@@ -178,12 +163,6 @@
     {
      "t": "p",
      "c": [
-      ""
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
       "Never cut electrical wires simply to get the hot tub out faster."
      ]
     }
@@ -195,18 +174,6 @@
      "t": "h",
      "l": 2,
      "text": "2."
-    },
-    {
-     "t": "p",
-     "c": [
-      "If the hot tub is connected to external plumbing, water lines, drains, or other systems, these connections need to be addressed before moving it."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "Make sure the tub has been completely drained and that connected lines are properly disconnected."
-     ]
     },
     {
      "t": "p",
@@ -247,24 +214,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "3. Drain the Hot Tub Completely"
+     "text": "3."
     },
     {
      "t": "p",
      "c": [
       "Never try to move a filled hot tub."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "Depending on the model and installation, draining may involve a drain valve, submersible pump, or another suitable method."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "Before draining, consider where the water will go."
      ]
     },
     {
@@ -276,9 +231,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Your home’s foundation"
-      ],
       [
        "Neighbouring properties"
       ],
@@ -297,12 +249,6 @@
      "t": "p",
      "c": [
       "Follow applicable local requirements for wastewater disposal if necessary."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "Once the tub is empty, allow remaining water to drain from the plumbing and equipment."
      ]
     }
    ]
@@ -496,9 +442,6 @@
        "Cabinet panels"
       ],
       [
-       "Pumps"
-      ],
-      [
        "Motors"
       ],
       [
@@ -633,9 +576,6 @@
       ],
       [
        "Gravel"
-      ],
-      [
-       "A specially prepared foundation"
       ]
      ]
     },
@@ -810,12 +750,6 @@
      "c": [
       "The biggest risk is attempting to move one without enough people or the proper equipment."
      ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "If the hot tub is large, located in a difficult area, or requires dismantling, professional removal is usually a more practical option."
-     ]
     }
    ]
   },
@@ -883,12 +817,6 @@
       [
        "Whether the base also needs to be removed"
       ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "A hot tub located beside a wide driveway may be much easier to remove than one located in a backyard behind several narrow gates."
      ]
     },
     {
@@ -1002,9 +930,6 @@
        "Electrical components"
       ],
       [
-       "Pumps"
-      ],
-      [
        "Motors"
       ],
       [
@@ -1015,7 +940,7 @@
     {
      "t": "p",
      "c": [
-      "A responsible removal process looks at the materials and determines what can be reused, recycled, or appropriately disposed of."
+      "A responsible removal process looks at the materials and determines what can be reused, recycled where possible, or appropriately disposed of."
      ]
     }
    ]
@@ -1088,12 +1013,6 @@
      "c": [
       "Before scheduling the removal, provide details about the hot tub and its location. Photos of the hot tub, backyard, gates, stairs, and access route can also help us understand the job."
      ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "If the hot tub requires electrical disconnection, that work should be completed by a qualified professional before the physical removal."
-     ]
     }
    ]
   },
@@ -1108,12 +1027,6 @@
      "t": "cards",
      "items": [
       {
-       "title": "How do you remove a hot tub from a backyard?",
-       "text": [
-        ""
-       ]
-      },
-      {
        "title": "Can I remove a hot tub myself?",
        "text": [
         "Some smaller or easily accessible hot tubs may be moved with sufficient help and proper equipment. However, large hot tubs can be extremely heavy and difficult to maneuver. Professional removal can reduce the risk of injury and property damage."
@@ -1122,13 +1035,7 @@
       {
        "title": "Does a hot tub need to be drained before removal?",
        "text": [
-        "Yes. A hot tub should be completely drained before it is moved. Remaining water should also be allowed to drain from the relevant plumbing and equipment."
-       ]
-      },
-      {
-       "title": "Do I need an electrician to disconnect my hot tub?",
-       "text": [
-        "If the hot tub is hardwired or connected to a dedicated electrical circuit, electrical disconnection should be handled by a qualified electrician."
+        "Yes. {{fact:utilityDisconnection}}"
        ]
       },
       {
@@ -1146,7 +1053,7 @@
       {
        "title": "How heavy is an empty hot tub?",
        "text": [
-        "The weight varies significantly by model and size. Even when completely drained, a hot tub can be heavy enough to require several people and appropriate moving equipment."
+        "The weight varies significantly by model and size. {{fact:utilityDisconnection}}"
        ]
       },
       {
@@ -1158,7 +1065,7 @@
       {
        "title": "What happens to an old hot tub after removal?",
        "text": [
-        "Depending on its condition and materials, components may be reused, recycled, or appropriately disposed of. Pumps, motors, metal, plastic, and other materials may have different disposal options."
+        "Depending on its condition and materials, components may be reused, recycled where possible, or appropriately disposed of. {{fact:utilityDisconnection}}"
        ]
       },
       {
@@ -1171,12 +1078,6 @@
        "title": "Can you remove an old hot tub that no longer works?",
        "text": [
         "Yes, an old or non-working hot tub can often be removed as part of a junk removal service, provided the company accepts the item and the property has suitable access."
-       ]
-      },
-      {
-       "title": "How should I prepare for hot tub removal?",
-       "text": [
-        "Drain the hot tub, arrange for safe electrical disconnection where required, remove personal items, clear the access route, and inform the removal company about gates, stairs, fences, decks, or other obstacles."
        ]
       },
       {

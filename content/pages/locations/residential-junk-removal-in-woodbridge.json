@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Woodbridge doesn’t waste. Things here get fixed, repurposed, handed down and stored “in case” — which is exactly why letting go is hard, and exactly why we run the service the way we do. Nothing good gets thrown out on our watch either: furniture with life left goes to donation, working appliances find second homes, metals get recovered — and only the truly finished sees a landfill. One free flat quote at your door, careful hands on the stairs, and an exit your conscience can sign off on."
+      "Woodbridge doesn’t waste. Things here get fixed, repurposed, handed down and stored “in case” — which is exactly why letting go is hard, and exactly why we run the service the way we do. Nothing good gets thrown out on our watch either: furniture with life left goes to donation, working appliances find second homes, metals get recovered — and only the truly finished sees a landfill. {{fact:changedScope}}."
      ]
     },
     {
@@ -97,44 +97,14 @@
      "text": "The houses here famously run doubles: the upstairs kitchen and the real one downstairs, the formal living room preserved under decades of care and the family room where life actually happened. When the doubles finally become too many, Live Junk Free is the call — Google reviews earned across Woodbridge by quoting flat, carrying carefully, and making sure the good stuff lands somewhere it's appreciated."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Truck space is the entire price",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "A single sofa is a small slice of the truck and billed like one; the duplicate dining set plus the spare fridge is more — always flat, always up front."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "We quote standing in front of the pieces",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "\"The old couch\" in a Woodbridge home often has a matching loveseat, two armchairs and a marble coffee table standing beside it. So the number waits for the in-person look: one free assessment, one flat figure, zero pressure to take it."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One approved number — dismantling, stairs and all",
-       "text": []
-      }
-     ]
+     "text": "\"The old couch\" in a Woodbridge home often has a matching loveseat, two armchairs and a marble coffee table standing beside it."
     },
     {
      "t": "h",
@@ -142,44 +112,14 @@
      "text": "{{fact:propertyProtection}}. The wall unit that was assembled in the room comes apart in the room, included."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Carried like the house was just renovated — because it might have been",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Runners on the tile, pads on the railings, doors off hinges before anything squeezes — our movers protect the finishes this town takes pride in. The furniture leaves; the paint, the trim and the terrazzo never know we were there."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Waste-not is our policy too",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "If it still serves, it doesn't get scrapped. Donation partners take first pick of furniture, appliances and housewares — and pieces from Woodbridge homes, kept the way they're kept here, get placed fast. Tell us if a specific item should go somewhere particular and we'll direct it."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent pricing",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -260,7 +200,7 @@
       {
        "title": "2. Show Us What's Finally Going",
        "text": [
-        "The formal set, the downstairs spares, the garage's patient pile — point at it all and get one flat, quote. Free either way."
+        "{{fact:changedScope}}. Free either way."
        ]
       },
       {
@@ -327,7 +267,7 @@
          "Fridges and freezers — upstairs, downstairs and the garage’s third"
         ],
         [
-         "Second-kitchen stoves, ovens and cooktops (gas disconnected by a licensed tech first)"
+         ""
         ],
         [
          "Washers, dryers and stacked pairs"
@@ -336,7 +276,7 @@
          "Dishwashers, microwaves and countertop retirees"
         ],
         [
-         "Drained hot water tanks and wine-fridge units"
+         ""
         ]
        ]
       },
@@ -350,7 +290,7 @@
          "Garage overflow — one wall or the whole bay"
         ],
         [
-         "Shed and backyard structure sorting"
+         ""
         ],
         [
          "Cantina-adjacent clearing — old shelving, crates and equipment"
@@ -370,7 +310,7 @@
          "Pianos, organs and pool tables"
         ],
         [
-         "Hot tubs — drained, dismantled, hauled"
+         ""
         ],
         [
          "Treadmills and home gyms past their era"
@@ -385,7 +325,7 @@
          "Scrap metal, BBQs and garden equipment"
         ],
         [
-         "Bed-bug-affected furniture — sealed on site, removed discreetly"
+         ""
         ]
        ]
       }
@@ -532,7 +472,7 @@
        "q": "Q: Can you take the duplicate set from the basement — couch, table, spare fridge — in one visit?",
        "a": [
         [
-         "A: One visit, one combined load, one flat price — the most economical booking there is. Doubles from downstairs are practically the signature Woodbridge pickup, and everything rides out together."
+         "{{fact:changedScope}}. Doubles from downstairs are practically the signature Woodbridge pickup, and everything rides out together."
         ]
        ]
       },

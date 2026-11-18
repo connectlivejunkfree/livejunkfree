@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Woodbridge houses weren’t just bought — they were built up, weekend by weekend, by the people who lived in them. The basement kitchen tiled by the owner himself. The workshop where everything in the house got fixed at least twice. The wine room, the garden shed, the tomato jars stacked with a system only one person understood. When the day comes to clear a home like that, it deserves better than a dumpster crew. One free walkthrough, one flat quote, and a fully insured team that sorts before it hauls — every time."
+      "Woodbridge houses weren’t just bought — they were built up, weekend by weekend, by the people who lived in them. The basement kitchen tiled by the owner himself. The workshop where everything in the house got fixed at least twice. The wine room, the garden shed, the tomato jars stacked with a system only one person understood. When the day comes to clear a home like that, it deserves better than a dumpster crew. {{fact:changedScope}}."
      ]
     },
     {
@@ -97,29 +97,9 @@
      "text": "The handover is happening street by street: homes raised and perfected by their first owners passing to children, grandchildren or new families entirely. From the older streets near the historic village core to the wide courts built since, Live Junk Free has cleared these houses with the care they were built with — Google reviews earned one respectful cleanout at a time."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "The truck sets the price — the decades don't",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Forty years of a family's building and keeping is measured the same way as any job: how much truck space leaves the property. Flat, quoted up front, and untouched by the hours, the emotion or the Woodbridge address."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Every level gets walked before any number is spoken",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -127,29 +107,9 @@
      "text": "These homes run deep — the finished basement below the basement kitchen, the workshop behind the garage, the storage over the shed. We tour it all with you first; the free figure that follows is firm because nothing was left unseen."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One approved price, sealed against surprises",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Crew, trucks, fuel, disposal fees, donation runs — the quote carries every cost before you accept. When the crawlspace holds thirty more boxes than anyone remembered, that's ours to absorb, never yours to renegotiate."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "We know handmade when we see it — and treat it accordingly",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -157,29 +117,9 @@
      "text": "Preserves put up by hand, tools sharpened for decades, furniture repaired better than new, the trellis wire and stakes of a serious garden — our crews sort with the understanding that half this house was made, not bought. Anything significant is set aside for the family; the useful goes to donation; only the truly finished gets disposed."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "The family sets the pace, always",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "The quote is free, holds without a deposit, and waits while siblings confer or a parent gets comfortable. One sweeping clear or several gentle visits — priced identically by volume, and no one at the door pushing for more than you're ready for."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent pricing",
-       "text": []
-      }
-     ]
+     "text": "The quote is free, holds without a deposit, and waits while siblings confer or a parent gets comfortable."
     },
     {
      "t": "h",
@@ -194,11 +134,6 @@
      "t": "h",
      "l": 2,
      "text": "What a Cleanout Costs in Woodbridge"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "One Flat Figure — Basement Kitchen to Attic"
     },
     {
      "t": "h",
@@ -270,7 +205,7 @@
        ]
       },
       {
-       "title": "4. Swept and Handed Over",
+       "title": "4. and Handed Over",
        "text": [
         "Every cleared space gets a broom finish — ready for the sale, the renovation or the next generation's plans. The loads move on properly: donation first, recycling and scrap second, landfill last and least."
        ]
@@ -341,7 +276,7 @@
        "q": "Estate & Family Transition Cleanouts in Woodbridge",
        "a": [
         [
-         "Estate cleanouts — patient, documented, valuables returned to family"
+         ""
         ],
         [
          "Multigenerational handovers, sorted with everyone’s voice heard"
@@ -364,7 +299,7 @@
        "q": "Sale, Rental & Business Cleanouts in Woodbridge",
        "a": [
         [
-         "Pre-listing cleanouts — emptied and swept before staging photos"
+         "Pre-listing cleanouts — emptied before staging photos"
         ],
         [
          "Move-out clears timed to closing day"

@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Bradford Appliance Pickup for Junk and Waste | Live Junk Free",
-  "description": "Fast and safe appliances removal in Bradford. Ideal for residential, office, e waste and large item disposal. Same day service available. Book now!",
+  "description": "Fast and safe appliances removal in Bradford. Ideal for residential, office, e waste and large item disposal. Same day service may be available. Book now!",
   "canonical": "https://livejunkfree.ca/locations/appliances-removal-in-bradford/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "We are Bradford’s trusted appliance removal team — locally operated, fully insured and built to haul away the heaviest items in your home safely. Fridges, freezers, washers, dryers, stoves, dishwashers — from basements, kitchens, garages or upstairs laundry rooms. We come to your Bradford home, assess the job in person, hand you a completely free on-site estimate before touching a single appliance, and if you’re ready to go, it’s gone the same day. No delays, no drawn-out booking process, no runaround."
+      "We are Bradford’s trusted appliance removal team — locally operated, fully insured and built to haul away the heaviest items in your home safely. Fridges, freezers, washers, dryers, stoves, dishwashers — from basements, kitchens, garages or upstairs laundry rooms. {{fact:scheduling}} No delays, no drawn-out booking process, no runaround."
      ]
     },
     {
@@ -97,29 +97,9 @@
      "text": "Live Junk Free is a locally owned, fully insured junk removal team that has built its reputation across Bradford West Gwillimbury one pickup at a time — with Google reviews from real customers, and a crew trained to move heavy appliances through tight hallways, basement stairs and doorframes on your home."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "You pay for the space your appliances take up",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Our pricing is calculated based on how much of our truck your items fill. A single dishwasher is priced small. A full kitchen's worth of appliances is priced accurately. The clock never runs. Your Bradford neighbourhood never affects your rate."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "We come to your home and quote in person — every time",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -127,29 +107,9 @@
      "text": "No phone estimates based on your description. We physically visit your Bradford home, look at the appliance, its location and the path out, and calculate your quote based on what we actually see. That's the only accurate way to price an appliance removal — and it's the only way we do it."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One flat number — labour, truck, fuel, disposal",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Nothing is added afterward, no matter how heavy the item or how tricky the stairs."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Heavy appliances moved safely — your home stays untouched",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -157,29 +117,9 @@
      "text": "Fridges and washers aren't just heavy — they're awkward, and one wrong move can gouge a floor or dent a wall. {{fact:propertyProtection}}."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "You approve the price before we start — guaranteed",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Once you've reviewed the quote, the decision is entirely yours. Zero pressure. If you approve it, we start immediately. If you don't, we leave with no charge. And once you've approved it, that number never changes — regardless of how the job unfolds."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -252,9 +192,9 @@
      "t": "cards",
      "items": [
       {
-       "title": "1. Book Quickly, Get Confirmed Instantly",
+       "title": "1. Book Quickly, Get Confirmed",
        "text": [
-        "Call +1 647 922 5865 or use our online booking form to schedule your Bradford appliance pickup in minutes. We offer same-day and next-day appointments with a 30-minute arrival notice, so you're never left waiting around, subject to scheduling."
+        "Call +1 647 922 5865 or use our online booking form to schedule your Bradford appliance pickup in minutes. {{fact:scheduling}}"
        ]
       },
       {
@@ -266,7 +206,7 @@
       {
        "title": "3. We Handle All the Heavy Lifting",
        "text": [
-        "Once approved, we disconnect standard hookups, protect your floors and doorframes, and carry the appliance out from wherever it sits — kitchens, basements, garages or upstairs laundry rooms. You don't need to move or prepare anything beforehand."
+        "{{fact:utilityDisconnection}} You don't need to move or prepare anything beforehand."
        ]
       },
       {
@@ -289,7 +229,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Bradford West Gwillimbury is one of the fastest-growing communities north of Toronto — thousands of new homes rising in subdivisions off Yonge Street and Holland Street where builder-grade appliances are already being upgraded, an established downtown core with older homes and decades-old units due for replacement, and rural properties around the Holland Marsh with garage freezers and outbuilding equipment. Whatever appliance needs to go, Live Junk Free removes it with the same professional standard, transparent pricing and same-day speed every time, subject to scheduling."
+     "text": "Whatever appliance needs to go, Live Junk Free removes it with the same professional standard, transparent pricing and same-day speed every time, subject to scheduling."
     },
     {
      "t": "faq",
@@ -304,7 +244,7 @@
          "Freezer removal Bradford — chest freezers, upright freezers, basement units"
         ],
         [
-         "Stove and oven removal Bradford — electric, gas (disconnected), induction"
+         ""
         ],
         [
          "Dishwasher removal Bradford"
@@ -330,7 +270,7 @@
          "Stacked washer-dryer removal Bradford — including tight closets"
         ],
         [
-         "Hot water tank removal Bradford — drained tanks, basement and utility rooms"
+         ""
         ],
         [
          "Water softener removal Bradford"
@@ -342,7 +282,7 @@
          "Window and wall AC unit removal Bradford"
         ],
         [
-         "Furnace and old HVAC equipment removal Bradford — disconnected units"
+         ""
         ]
        ]
       },
@@ -513,7 +453,7 @@
        "q": "Q: How much does appliance removal cost in Bradford, Ontario?",
        "a": [
         [
-         "A: Our Bradford appliance removal pricing is 100% volume-based — you pay based on how much space your items fill in our truck, not by the hour. We provide a free on-site estimate before any work begins.. — fair, flat and final."
+         "We provide a free on-site estimate before any work begins.. — fair, flat and final."
         ]
        ]
       },
@@ -521,7 +461,7 @@
        "q": "Q: Do you offer same-day appliance removal in Bradford?",
        "a": [
         [
-         "A: Yes — same-day pickups are available across all of Bradford West Gwillimbury, including the downtown core, the newer subdivisions off Yonge Street, Bond Head and surrounding communities. Call +1 647 922 5865 to confirm today’s availability."
+         "{{fact:scheduling}} Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },

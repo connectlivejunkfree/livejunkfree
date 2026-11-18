@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Demolition Services in Etobicoke from Live Junk Free tear down the pools, decks, sheds and fences that came with a fifties bungalow just as capably as anything installed last year — same crew, same flat price, same care whichever decade the structure belongs to."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -115,16 +115,7 @@
        "title": "Demolition that accounts for the era, not just the size",
        "text": [
         [
-         "An above ground pool from the sixties comes apart differently than one from last year — corroded fasteners, buried footings, materials that need a closer look before cutting starts. Live Junk Free prices and plans for that at the walkthrough rather than treating every structure the same."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "One flat demolition price, regardless of the structure's age",
-       "text": [
-        [
-         "Older or newer, the number reflects what’s actually there — size, material, condition — confirmed on site before anything comes apart, and held to through the invoice."
+         "{{fact:structuralDemolition}}. Live Junk Free prices and plans for that at the walkthrough rather than treating every structure the same."
         ]
        ]
       },
@@ -173,11 +164,6 @@
     {
      "t": "eyebrow",
      "text": "DEMOLITION PRICING"
-    },
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Demolition Cost in Etobicoke — One Flat Price, Every Era Included"
     },
     {
      "t": "h",
@@ -262,15 +248,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Lock One Flat Demolition Quote and a Held Date",
-       "text": [
-        [
-         "The crew walks the structure, checks for anything age-related that might affect the approach, and gives one flat price before work starts."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Demolition Runs to the Structure's Condition",
        "text": [
@@ -325,9 +302,6 @@
        "Above Ground Pool Demolition — frame, liner and decking torn down and hauled, older bungalow-belt installations handled with extra care"
       ],
       [
-       "Hot Tub Demolition — drained, disconnected and cut apart before removal"
-      ],
-      [
        "Jacuzzi Demolition — same process, any age of structure"
       ]
      ]
@@ -370,9 +344,6 @@
        "Garage Demolition — detached units taken down section by section"
       ],
       [
-       "Deck Demolition — wood and composite, footings addressed for an addition or rebuild"
-      ],
-      [
        "Fence Demolition — full runs or single sections"
       ],
       [
@@ -391,9 +362,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Concrete Demolition — patios, walkways and pads broken up and hauled, grading-conscious near ravine edges"
-      ],
       [
        "Flooring Demolition — old outdoor surfaces and bases removed"
       ],
@@ -673,7 +641,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {
@@ -992,7 +960,7 @@
        "q": "Our pool and deck are original to a fifties bungalow — does that change anything?",
        "a": [
         [
-         "It changes the approach, not the price. Older installations sometimes have corroded fasteners, buried footings or hidden wear, and the crew accounts for that at the walkthrough rather than discovering it mid-job. "
+         "It changes the approach, not the price. {{fact:structuralDemolition}}. "
         ]
        ]
       },

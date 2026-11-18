@@ -9,7 +9,7 @@
   "description": "Hoarding cleanouts in Aurora from Live Junk Free never start with the crew sizing up a house and adjusting their approach based on what it looks like from the driveway.",
   "canonical": "https://livejunkfree.ca/locations/aurora/hoarding-cleanouts-in-aurora/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Aurora.jpeg"
+  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Ajax.jpeg"
  },
  "title": "Hoarding Cleanouts in Aurora",
  "h1": "Hoarding Cleanouts in Aurora from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Aurora-rrmz0sm9exmgms0mmqmm3w8pzpkj94zg4wvqxkpok0.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Ajax-rrmzgn6andbie2zv3395ne9iklgc1ewincvh8j7pn4.jpeg",
       "alt": "Hoarding Cleanouts in Aurora"
      }
     }
@@ -127,7 +127,7 @@
       },
       {
        "n": "02",
-       "title": "One flat price, heritage home or larger estate",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number is set by the actual work involved — never by the size, age or apparent value of the property itself."
@@ -193,13 +193,12 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is the scope of the space — how many rooms are affected, and how much sorting the belongings genuinely need. A single room is a modest job. A full home with years of accumulation across multiple levels takes considerably more time, and the price reflects that real difference rather than a flat guess made over the phone."
+      "{{fact:cleanupScope}}. A single room is a modest job. A full home with years of accumulation across multiple levels takes considerably more time, and the price reflects that real difference rather than a flat guess made over the phone."
      ]
     },
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -220,7 +219,7 @@
     {
      "t": "p",
      "c": [
-      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -262,29 +261,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual space, whatever kind of property it is, and gives one flat number based purely on the scope of the job."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at the family’s pace, with anything meaningful set aside first, always."
-        ]
-       ]
-      },
-      {
        "n": "04",
-       "title": "A Space That's Clean and Livable",
+       "title": "Careful Removal",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable, with follow-up visits scheduled whenever the family is ready for the next one."
+         "Whatever was worked on that visit is left and usable, with follow-up visits scheduled whenever the family is ready for the next one."
         ]
        ]
       }
@@ -328,7 +309,7 @@
        "Multi-visit scheduling for homes with years of accumulation"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -351,9 +332,6 @@
       ],
       [
        "No requirement to explain how the situation developed"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
       ]
      ]
     }
@@ -1002,7 +980,7 @@
        "q": "How much does a hoarding cleanout cost in Aurora?",
        "a": [
         [
-         "Pricing is based on how many rooms are affected and how much sorting the belongings need — never on the size, age or appearance of the property. The figure is confirmed free at a private walkthrough. "
+         "{{fact:cleanupScope}}. The figure is confirmed free at a private walkthrough. "
         ]
        ]
       },

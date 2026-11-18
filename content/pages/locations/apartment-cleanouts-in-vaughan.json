@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Vaughan built itself a downtown in barely a decade — and filled it with thousands of condo units where every square foot counts and every building has a rulebook. Clearing one of those units means moving a full apartment’s worth of belongings through pristine lobbies, booked elevators and narrow unit doors without leaving a trace. That’s our specialty. One free in-unit quote, one flat price, and a fully insured crew that empties the apartment while keeping the building manager happy."
+      "Clearing one of those units means moving a full apartment’s worth of belongings through pristine lobbies, booked elevators and narrow unit doors without leaving a trace. That’s our specialty. {{fact:changedScope}}."
      ]
     },
     {
@@ -94,17 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The spread is wide in this city: gleaming new high-rises around the Vaughan Metropolitan Centre and Promenade, long-established basement apartments tucked into Woodbridge and Maple family homes, and everything between in Concord and Thornhill. Live Junk Free clears units across all of it — Google reviews built on showing up when promised, quoting flat, and treating brand-new buildings like the showpieces they are."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "The load prices the job — the tower doesn't",
-       "text": []
-      }
-     ]
+     "text": "The spread is wide in this city: gleaming new high-rises around the Vaughan Metropolitan Centre and Promenade, long-established basement apartments tucked into Woodbridge and Maple family homes, and everything between in Concord and Thornhill."
     },
     {
      "t": "h",
@@ -112,29 +102,9 @@
      "text": "Whether your unit sits on the third floor of a Maple walk-up or the thirty-eighth of a VMC tower, the quote is built the same way: truck volume, nothing else. Elevator waits, long parkade walks and compact-unit puzzles are absorbed by us, not billed to you."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Every quote starts inside the unit",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Condos hide volume in clever places — under platform beds, above closets, out on the balcony, down in the locker. Phone estimates miss half of it, so we skip them entirely. One walkthrough, one flat number, no obligation whatsoever."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Approved means locked",
-       "text": []
-      }
-     ]
+     "text": "Condos hide volume in clever places — under platform beds, above closets, out on the balcony, down in the locker. Phone estimates miss half of it, so we skip them entirely."
     },
     {
      "t": "h",
@@ -142,44 +112,14 @@
      "text": "{{fact:propertyProtection}}. If the sofa has to come apart to exit a compact unit or the loading dock runs behind schedule, your price doesn't feel it."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "New buildings are unforgiving — our crews aren't the ones who scuff them",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Vaughan's towers are young, and their boards intend to keep them looking that way. {{fact:insuranceDocs}}. Your building's rulebook is our checklist."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "The quote asks nothing of you",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "It's free, it doesn't expire, and declining it costs nothing — not a deposit, not a fee, not a follow-up call. Approve it and the crew starts clearing that minute; the figure you said yes to is the figure you'll pay."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Franchise-free pricing",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -194,11 +134,6 @@
      "t": "h",
      "l": 2,
      "text": "Apartment Cleanout Pricing in Vaughan, Kept Simple"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Truck Volume In, Flat Figure Out"
     },
     {
      "t": "h",
@@ -260,7 +195,7 @@
       {
        "title": "2. Tour the Unit, Take the Quote",
        "text": [
-        "Show us everything: the rooms, the balcony, the locker, the parkade cage. We size it all and hand over one flat, all-in figure. It's free, and \"no\" is a fine answer."
+        "Show us everything: the rooms, the balcony, the locker, the parkade cage. {{fact:changedScope}}. It's free, and \"no\" is a fine answer."
        ]
       },
       {
@@ -270,9 +205,9 @@
        ]
       },
       {
-       "title": "4. Swept, Ready, Responsibly Routed",
+       "title": "4., Ready, Responsibly Routed",
        "text": [
-        "A final sweep leaves the unit fit for inspection, staging photos or the next set of keys. The truckload splits at our end: donation partners, then recyclers, then landfill last and least."
+        "{{fact:cleanupScope}}. The truckload splits at our end: donation partners, then recyclers, then landfill last and least."
        ]
       }
      ]
@@ -304,7 +239,7 @@
          "Compact and studio unit clearing — every cubic foot of it"
         ],
         [
-         "Pre-sale cleanouts, swept and ready for staging or photos"
+         "Pre-sale cleanouts and ready for staging or photos"
         ],
         [
          "Investor unit turnovers between tenants or before listing"
@@ -333,7 +268,7 @@
          "Eviction cleanouts, prompt and professional"
         ],
         [
-         "Multi-unit arrangements for Vaughan property managers"
+         "{{fact:competitorComparison}}"
         ]
        ]
       },

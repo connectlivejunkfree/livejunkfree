@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/07/dirt-removal-services_before.jpg_202607151236.jpeg"
  },
  "title": "Dirt Removal Services",
- "h1": "Most Trusted Residential Dirt Removal in Your Area",
+ "h1": "Residential Dirt Removal in Your Area",
  "published": "2026-07-09T04:22:36",
  "modified": "2026-07-23T06:24:56",
  "sections": [
@@ -21,12 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Most Trusted Residential Dirt Removal in Your Area"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in town."
+     "text": "Residential Dirt Removal in Your Area"
     },
     {
      "t": "ctas",
@@ -91,7 +86,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/dirt-removal-services_before.jpg_202607151236-1024x765.jpeg",
-      "alt": "dirt-removal-services",
+      "alt": "Dirt Removal: Live Junk Free job photo",
       "width": 800,
       "height": 598
      }
@@ -103,12 +98,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Book Your Dirt Removal & Unlock Exclusive Discounts"
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "p",
      "c": [
-      "Our professional dirt removal service starts at just {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), and we handle everything for you. We’ll remove soil, debris, and construction waste from any location on your property – and leave the area completely clean."
+      "Our professional dirt removal service starts at just {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), and we handle everything for you."
      ]
     },
     {
@@ -151,7 +146,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Dirt Gone Today – Removal Services"
+     "text": "{{fact:pickupTimes}}"
     },
     {
      "t": "p",
@@ -193,7 +188,7 @@
      "c": [
       {
        "b": [
-        "Need Dirt Gone Urgently? Same-Day Removal Available."
+        "Need Dirt Gone Urgently? Same-Day Removal may be available."
        ]
       }
      ]
@@ -225,7 +220,7 @@
       {
        "title": "Book:",
        "text": [
-        "Get on our schedule instantly through our website or by phone – no lengthy wait times or complicated forms to complete."
+        "Get on our schedule through our website or by phone – no lengthy wait times or complicated forms to complete."
        ]
       },
       {
@@ -235,13 +230,7 @@
        ]
       },
       {
-       "title": "Transparent Pricing:",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
-      {
-       "title": "Property Protection Guaranteed",
+       "title": "Property Protection",
        "text": [
         "Advanced techniques safeguard your landscaping and hardscapes during removal"
        ]
@@ -292,12 +281,6 @@
      "items": [
       [
        "We recycle clean fill and reusable soil for community projects"
-      ],
-      [
-       "We properly process and dispose of contaminated materials at licensed facilities"
-      ],
-      [
-       "We minimize landfill waste through sustainable sorting"
       ]
      ]
     },
@@ -310,13 +293,7 @@
      "t": "ul",
      "items": [
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Free immediate estimates available by phone, text, or online form"
-      ],
-      [
-       "Special discounted rates for large-volume dirt removal and commercial projects"
       ]
      ]
     }
@@ -362,9 +339,6 @@
      "t": "ul",
      "items": [
       [
-       "Excavation dirt and clean fill"
-      ],
-      [
        "Concrete fragments and rubble"
       ]
      ]
@@ -379,17 +353,8 @@
      "t": "ul",
      "items": [
       [
-       "Contaminated soil (properly contained)"
-      ],
-      [
        "Pool backfill materials"
       ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "Bulk Items:"
      ]
     },
     {
@@ -416,18 +381,6 @@
      "t": "cards",
      "items": [
       {
-       "title": "Share Your Project Details",
-       "text": [
-        "Simply describe or send photos of your dirt/debris pile and we'll respond immediately with a solution."
-       ]
-      },
-      {
-       "title": "Get a Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
-      {
        "title": "Select Your Preferred Time",
        "text": [
         "Choose same-day when available or scheduled removal at your convenience - we work around your timeline."
@@ -436,7 +389,7 @@
       {
        "title": "We Handle Everything",
        "text": [
-        "Our professional team arrives, removes all dirt/debris, and leaves your property clean, typically in under 1 hour."
+        "{{fact:scheduling}}"
        ]
       }
      ]
@@ -457,11 +410,11 @@
      "images": [
       {
        "src": "/images/uploads/2026/07/dirt-removal-services_before.jpg_202607151231-1024x765.jpeg",
-       "alt": "dirt-removal-services-before"
+       "alt": "Dirt Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/dirt-removal-services_before.jpg_202607151232-1024x765.jpeg",
-       "alt": "dirt-removal-services-after"
+       "alt": "Dirt Removal: Live Junk Free job photo"
       }
      ]
     }
@@ -497,7 +450,7 @@
        "q": "What areas do you serve for dirt removal?",
        "a": [
         [
-         "We cover the Greater Toronto Area. Contact us to confirm service for your specific address. Same-day availability varies by location."
+         "We cover the Greater Toronto Area. Contact us to confirm service for your specific address. Same-day availability when available varies by location."
         ]
        ]
       },
@@ -513,7 +466,7 @@
        "q": "Do you handle large quantities of dirt removal?",
        "a": [
         [
-         "Absolutely. Our teams handle small garden cleanouts to construction-scale projects. Special equipment ensures efficient removal for bulk quantities."
+         "Absolutely. Our teams handle small garden cleanouts to construction-scale projects. {{fact:changedScope}}."
         ]
        ]
       }

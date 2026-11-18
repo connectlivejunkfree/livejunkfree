@@ -9,7 +9,7 @@
   "description": "Cleanout services in Whitchurch-Stouffville from Live Junk Free — estate, downsizing, farmhouse and hoarding cleanouts by an insured crew.",
   "canonical": "https://livejunkfree.ca/locations/cleanout-services-in-whitchurch-stouffville/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/07/Cleanout-Services-in-Whitchurch-Stouffville.jpeg"
+  "ogImage": "/images/uploads/2026/07/Cleanout-Services-in-Oshawa.jpeg"
  },
  "title": "Cleanout Services in Whitchurch-Stouffville",
  "h1": "Professional Cleanout Services in Whitchurch-Stouffville",
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Whitchurch-Stouffville from Live Junk Free — estate, downsizing, farmhouse and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished swept the same day whenever size allows."
+     "text": "Cleanout services in Whitchurch-Stouffville from Live Junk Free — estate, downsizing, farmhouse and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished the same day whenever size allows, subject to availability."
     },
     {
      "t": "ctas",
@@ -126,7 +126,7 @@
        "title": "Free walkthrough cleanout quotes anywhere in the township",
        "text": [
         [
-         "A Live Junk Free crew lead walks the whole property — house, garage, outbuildings where they exist — hears what the cleanout is for, and writes one firm flat quote on the spot. Free, unhurried, no expiry, whether the address is a Main Street heritage home or a Ballantrae bungalow."
+         "{{fact:changedScope}}. Free, unhurried, no expiry, whether the address is a Main Street heritage home or a Ballantrae bungalow."
         ]
        ]
       },
@@ -162,7 +162,7 @@
        "title": "Independent cleanout pricing",
        "text": [
         [
-         "No head-office royalties inside our quotes and no rural or township padding either — Live Junk Free runs local crews and our own trucks, one honest number."
+         "{{fact:propertyProtection}}."
         ]
        ]
       }
@@ -195,8 +195,7 @@
     {
      "t": "checks",
      "items": [
-      "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -212,12 +211,6 @@
      "t": "price",
      "label": "Whitchurch-Stouffville Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -259,7 +252,7 @@
        "title": "Book Your Whitchurch-Stouffville Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit anywhere in the township. A Live Junk Free crew lead tours the property, hears what the cleanout is for, and writes one flat quote with a timeline that fits it."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit anywhere in the township. {{fact:changedScope}}."
         ]
        ]
       },
@@ -283,10 +276,10 @@
       },
       {
        "n": "04",
-       "title": "Swept, Empty and Ready for What's Next",
+       "title": ", Empty and Ready for What's Next",
        "text": [
         [
-         "The property hands back broom-swept — house and any outbuildings included — with debris gone on our own trucks and donation or disposal documentation available for the estate, the sale or your own file."
+         "The property hands back — house and any outbuildings included — with debris gone on our own trucks and donation or disposal documentation available for the estate, the sale or your own file."
         ]
        ]
       }
@@ -336,10 +329,7 @@
        "Executor and out-of-town family coordination with documentation"
       ],
       [
-       "Donation-first sorting recorded for the estate file"
-      ],
-      [
-       "Sale-ready, broom-swept handovers"
+       "Sale-ready handovers"
       ]
      ]
     },
@@ -367,7 +357,7 @@
        "Completion for single-room and garage-scale downsizing"
       ],
       [
-       "Documentation of what was donated or recycled, on request"
+       "Documentation of what was donated or recycled where possible, on request"
       ]
      ]
     }
@@ -418,16 +408,13 @@
        "Pre-listing purges that get properties photo-ready"
       ],
       [
-       "Sold-home cleanouts finished broom-swept before closing"
+       "Sold-home cleanouts finished before closing"
       ],
       [
        "Judgment-free hoarding cleanouts, unmarked scheduling on request"
       ],
       [
        "Room-by-room method with the resident's priorities respected"
-      ],
-      [
-       "Respectful crews, first knock to final sweep"
       ]
      ]
     }
@@ -719,7 +706,7 @@
        "q": "How do you handle a farmhouse cleanout with generations of belongings?",
        "a": [
         [
-         "No preparation is necessary. Simply identify the items you want removed, and our crew will take care of everything else, including sorting, lifting, and loading the unwanted items."
+         "No preparation is necessary. Simply identify the items you want removed, and our crew will take care of everything else, including lifting, and loading the unwanted items."
         ]
        ]
       },

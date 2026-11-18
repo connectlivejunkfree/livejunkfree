@@ -115,7 +115,7 @@
        "title": "Demolition priced the same regardless of the structure's age",
        "text": [
         [
-         "An above ground pool from 1978 and one installed five years ago come apart the same way, and Live Junk Free’s demolition quote doesn’t change based on how old the thing is — it changes based on size, material and access. One number, given on site, honoured through to the invoice."
+         "{{fact:changedScope}}. One number, given on site, honoured through to the invoice."
         ]
        ]
       },
@@ -124,7 +124,7 @@
        "title": "Free demolition quotes that account for what decades of wear actually look like",
        "text": [
         [
-         "Older structures sometimes hide surprises — corroded fasteners, a deck built without permits, a shed with a floor that’s rotted through. A crew member walks the property first and prices the demolition around what’s actually there, not what a newer structure would typically involve."
+         "{{fact:permits}} A crew member walks the property first and prices the demolition around what’s actually there, not what a newer structure would typically involve."
         ]
        ]
       },
@@ -133,7 +133,7 @@
        "title": "Addition-prep demolition that respects the drawings",
        "text": [
         [
-         "When a deck or shed needs to disappear because a contractor’s about to break ground, Live Junk Free clears exactly the footprint the plans call for — no more, no less — so the foundation crew inherits a site that matches what they were told to expect."
+         "{{fact:structuralDemolition}}."
         ]
        ]
       },
@@ -266,7 +266,7 @@
        "title": "Get Your Free Demolition Quote",
        "text": [
         [
-         "The crew walks the structure, checks for anything age or condition-related that might affect the approach, and gives you one flat price before work starts."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -325,9 +325,6 @@
        "Above Ground Pool Demolition — frame, liner and decking torn down and hauled, older bungalow-belt installations handled with extra care"
       ],
       [
-       "Hot Tub Demolition — drained, disconnected and cut apart before removal"
-      ],
-      [
        "Jacuzzi Demolition — same process, any age of structure"
       ]
      ]
@@ -370,9 +367,6 @@
        "Garage Demolition — detached units taken down section by section"
       ],
       [
-       "Deck Demolition — wood and composite, footings addressed for an addition or rebuild"
-      ],
-      [
        "Fence Demolition — full runs or single sections"
       ],
       [
@@ -391,9 +385,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Concrete Demolition — patios, walkways and pads broken up and hauled, grading-conscious near ravine edges"
-      ],
       [
        "Flooring Demolition — old outdoor surfaces and bases removed"
       ],
@@ -673,7 +664,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {
@@ -1000,7 +991,7 @@
        "q": "We're adding onto the house — can demolition happen exactly to the footprint the drawings show?",
        "a": [
         [
-         "The precise opening act. Porches and rear structures come off at the drawn line, wall openings cut exactly where the plan says, and anything structural stages behind your engineer’s design and permit — so the foundation crew inherits a site that matches the drawings."
+         "The precise opening act. {{fact:structuralDemolition}}."
         ]
        ]
       },

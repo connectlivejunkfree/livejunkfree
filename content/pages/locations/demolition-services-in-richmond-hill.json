@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Demolition Services in Richmond Hill from Live Junk Free tear down pools, decks, sheds and fences across a city built on two very different kinds of ground — heritage streets around Mill Pond and newer subdivisions edging the Oak Ridges Moraine — with the environmental care and the flat pricing both matched to where the property actually sits."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -120,15 +120,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "One flat demolition price, wherever in the city the property sits",
-       "text": [
-        [
-         "Structure size and material set the number — never the neighbourhood, never what kind of ground it’s built on."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Free demolition quotes that catch site-specific concerns early",
        "text": [
@@ -173,11 +164,6 @@
     {
      "t": "eyebrow",
      "text": "DEMOLITION PRICING"
-    },
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Demolition Cost in Richmond Hill — One Flat Number, Every Neighbourhood"
     },
     {
      "t": "h",
@@ -262,15 +248,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Approve One Flat Demolition Quote and a Real Date",
-       "text": [
-        [
-         "The crew walks the structure and the ground around it, flags anything site-specific, and gives one flat price before touching anything."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Demolition Runs to the Site's Requirements",
        "text": [
@@ -325,9 +302,6 @@
        "Above Ground Pool Demolition — frame, liner and decking torn down and hauled, older bungalow-belt installations handled with extra care"
       ],
       [
-       "Hot Tub Demolition — drained, disconnected and cut apart before removal"
-      ],
-      [
        "Jacuzzi Demolition — same process, any age of structure"
       ]
      ]
@@ -370,9 +344,6 @@
        "Garage Demolition — detached units taken down section by section"
       ],
       [
-       "Deck Demolition — wood and composite, footings addressed for an addition or rebuild"
-      ],
-      [
        "Fence Demolition — full runs or single sections"
       ],
       [
@@ -391,9 +362,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Concrete Demolition — patios, walkways and pads broken up and hauled, grading-conscious near ravine edges"
-      ],
       [
        "Flooring Demolition — old outdoor surfaces and bases removed"
       ],
@@ -673,7 +641,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {

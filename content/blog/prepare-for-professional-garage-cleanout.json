@@ -6,7 +6,7 @@
  "template": "BlogPost",
  "seo": {
   "title": "How to Prepare for a Professional Garage Cleanout",
-  "description": "Learn how to prepare for a professional garage cleanout with sorting tips, item separation guidance, and what to expect from expert junk removal teams.",
+  "description": "{{fact:cleanupScope}}.",
   "canonical": "https://livejunkfree.ca/blog/prepare-for-professional-garage-cleanout/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2025/12/How-to-Prepare-for-a-Professional-Garage-Cleanout.jpeg"
@@ -97,9 +97,6 @@
      "items": [
       [
        "Items you’d like to be donated (if the service offers that)."
-      ],
-      [
-       "Particularly heavy or awkward items (e.g., old safes, machinery)."
       ],
       [
        "Anything of potential monetary value you want to set aside."
@@ -201,7 +198,7 @@
        "Access Details: Inform them of any tight alleyways, low-hanging branches, or parking restrictions at your home."
       ],
       [
-       "Your Goals: Let them know if you want the space simply cleared, or if you also want it swept out afterwards."
+       "Your Goals: Let them know if you want the space simply cleared, or if you also want it out afterwards."
       ],
       [
        "Donation Requests: If you have items for donation, confirm that the garage cleanouts service offers this, and if you need to pre-sort them."
@@ -271,9 +268,6 @@
       ],
       [
        "Responsible Handling: We will take your clearly indicated discard pile and sort it ourselves for donation, recycling, and landfill, diverting waste responsibly."
-      ],
-      [
-       "Final Cleanup: We can provide a basic sweep of the cleared area, leaving you with a usable space."
       ],
       [
        "GTA-Wide Service: We serve homeowners in Ajax, Aurora, Bolton, Bradford, Brampton, Caledon, East Gwillimbury, Etobicoke, Georgina, King City, Markham, Mississauga, Newmarket, Nobleton, Oshawa, Pickering, Port Perry, and Richmond Hill."

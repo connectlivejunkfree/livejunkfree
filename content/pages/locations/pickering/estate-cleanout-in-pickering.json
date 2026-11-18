@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "There’s nothing unusual about how long that takes, or how much is actually in the house once someone starts going through it. Live Junk Free approaches every version of this the same way: an honest walkthrough, one flat number, and a pace that respects both the family’s timeline and the weight of what they’re doing."
+      "There’s nothing unusual about how long that takes, or how much is actually in the house once someone starts going through it. {{fact:changedScope}}."
      ]
     },
     {
@@ -116,7 +116,7 @@
     {
      "t": "p",
      "c": [
-      "The price reflects the actual volume and how much sorting it needs — a bungalow with fifty years of accumulated belongings is a bigger job than a smaller, more recent home, and the quote is set honestly for that real scope, not inflated by an assumption about what an “estate” should cost."
+      "{{fact:cleanupScope}}."
      ]
     }
    ]
@@ -141,15 +141,6 @@
        "text": [
         [
          "Photographs, jewellery, paperwork and anything that looks meaningful go straight to the family, never grouped into a donation or disposal load by default."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "One flat price, confirmed before anything moves",
-       "text": [
-        [
-         "The number reflects what a crew member actually sees at the walkthrough — never a guess, and never adjusted once the sorting reveals more than expected."
         ]
        ]
       },
@@ -203,19 +194,18 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is the scope of the property — how many rooms are affected, and how much sorting and donation coordination the belongings genuinely need. A single room is a modest job. A full bungalow with fifty years of accumulation across every level, including a basement and garage, takes considerably more time, and the price reflects that real difference rather than a flat estimate given over the phone."
+      "The honest factor is the scope of the property — how many rooms are affected, and how much donation coordination the belongings genuinely need. A single room is a modest job. A full bungalow with fifty years of accumulation across every level, including a basement and garage, takes considerably more time, and the price reflects that real difference rather than a flat estimate given over the phone."
      ]
     },
     {
      "t": "p",
      "c": [
-      "What doesn’t factor in is how long it’s been since the family last cleared the home, or how much sentimental sorting the belongings call for. The figure is confirmed privately at a free walkthrough."
+      "{{fact:cleanupScope}}. The figure is confirmed privately at a free walkthrough."
      ]
     },
     {
      "t": "checks",
      "items": [
-      "One Flat Price, Set After Seeing the Real Scope",
       "Executor Documentation Included as Standard"
      ]
     },
@@ -232,12 +222,6 @@
      "t": "price",
      "label": "Pickering Estate Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -278,29 +262,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual space, understands the real scope, and gives one flat number before anything moves."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at the family’s pace, with anything meaningful set aside first, always."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "A Home That's Clean and Ready",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable — ready for a listing, a new owner, or simply for the family to take the next step."
+         "Whatever was worked on that visit is left and usable — ready for a listing, a new owner, or simply for the family to take the next step."
         ]
        ]
       }
@@ -347,7 +313,7 @@
        "Multi-visit scheduling for larger homes with years of belongings"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ]
      ]
     },
@@ -395,15 +361,6 @@
        "Estate cleanouts for more recently built homes and newer neighbourhoods"
       ],
       [
-       "Same flat pricing structure as an original bungalow-belt property"
-      ],
-      [
-       "Straightforward scheduling for more contained volumes"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
-      ],
-      [
        "Coordination around listing timelines where relevant"
       ],
       [
@@ -427,9 +384,6 @@
       ],
       [
        "Documentation provided for estate, legal or sale-related requirements"
-      ],
-      [
-       "Same flat pricing whether or not a deadline is involved"
       ],
       [
        "Discreet, respectful communication with every party involved"
@@ -804,7 +758,7 @@
        "q": "How much does an estate cleanout cost in Pickering?",
        "a": [
         [
-         "Pricing is based on how many rooms are affected and how much sorting the belongings need — a single room prices modestly, a full bungalow with decades of accumulation costs more given the real time required. The figure is confirmed free at a private walkthrough."
+         "{{fact:cleanupScope}}. The figure is confirmed free at a private walkthrough."
         ]
        ]
       },
@@ -844,7 +798,7 @@
        "q": "Does the cleanout need to happen before a listing goes live?",
        "a": [
         [
-         "Often, yes, and that timing gets planned for at the walkthrough. If there’s no deadline at all, that’s just as normal, and the same flat pricing applies either way."
+         "Often, yes, and that timing gets planned for at the walkthrough. {{fact:changedScope}}."
         ]
        ]
       },

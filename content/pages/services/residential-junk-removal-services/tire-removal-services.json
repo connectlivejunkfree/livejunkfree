@@ -24,11 +24,6 @@
      "text": "Your Trusted Local Tire Removal Experts"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "The most reliable tire disposal service."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -84,8 +79,8 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/2026/07/e-waste-removal-services-before-4.jpg",
-      "alt": "tire-removal-services",
+      "src": "/images/uploads/2026/07/e-waste-removal-services-before-2.jpg",
+      "alt": "Before: Tire Removal: Live Junk Free job photo",
       "width": 800,
       "height": 534
      }
@@ -97,7 +92,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Say Goodbye to Your Old Tires – Same-Day Pickup Available!"
+     "text": "Say Goodbye to Your Old Tires – Same-Day Pickup may be available!"
     },
     {
      "t": "p",
@@ -150,7 +145,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Fast & Easy Tire Removal – Same-Day Service Available"
+     "text": "Fast & Easy Tire Removal – Same-Day Service may be available"
     },
     {
      "t": "p",
@@ -191,9 +186,6 @@
       ],
       [
        "Environmentally responsible recycling through recycling facilities"
-      ],
-      [
-       "Proper documentation for commercial and municipal compliance"
       ]
      ]
     },
@@ -219,11 +211,6 @@
     {
      "t": "h",
      "l": 3,
-     "text": "{{fact:competitorComparison}}"
-    },
-    {
-     "t": "h",
-     "l": 3,
      "text": "Save when combining tire removal with other junk removal services – perfect for garage cleanouts or auto shop renovations"
     },
     {
@@ -239,22 +226,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "{{fact:nextAvailable}}"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "{{fact:nextAvailable}}"
-    },
-    {
-     "t": "h",
-     "l": 3,
      "text": "Eco-Conscious Recycling:"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "{{fact:recycling}}"
     },
     {
      "t": "cards",
@@ -266,7 +238,7 @@
        ]
       },
       {
-       "title": "Green Disposal Guarantee",
+       "title": "Green Disposal",
        "text": [
         "{{fact:recycling}}"
        ]
@@ -294,7 +266,7 @@
        "We specialize in safely removing all types of tires – from passenger car tires to massive truck tires, and everything in between. Our professional team carefully handles each job, loading and transporting tires without damaging your property."
       ],
       [
-       "When we’re done, your space will be clean, organized, and ready for new tires or whatever use you choose. No tire removal challenge is too big for our experienced crew – we’ve successfully removed thousands of tires in your area."
+       "When we’re done, your space will be clean, organized, and ready for new tires or whatever use you choose."
       ]
      ]
     },
@@ -313,13 +285,7 @@
      "t": "ul",
      "items": [
       [
-       "{{fact:recycling}}"
-      ],
-      [
-       "Community Donation Program: Usable tires find new purpose through local schools, playgrounds, and urban farming initiatives"
-      ],
-      [
-       "Waste-Smart Processing: Our meticulous sorting system ensures minimal landfill contribution, because every tire deserves a second life"
+       "{{fact:cleanupScope}}."
       ]
      ]
     },
@@ -353,9 +319,6 @@
      "items": [
       [
        "{{fact:freeOnsiteEstimates}}"
-      ],
-      [
-       "Flat-Rate Pricing: Know your total cost upfront"
       ],
       [
        "{{fact:competitorComparison}}"
@@ -426,7 +389,7 @@
       {
        "title": "Share Your Tire Details",
        "text": [
-        "Snap a few photos of your tires (car, bike, truck, etc.) and send them via text or our website. We’ll assess the size and quantity instantly."
+        "Snap a few photos of your tires (car, bike, truck, etc.) and send them via text or our website. {{fact:scheduling}}"
        ]
       },
       {
@@ -438,7 +401,7 @@
       {
        "title": "Pick Your Preferred Time",
        "text": [
-        "Schedule same-day or next-day pickup with our team, available at your convenience."
+        "Schedule same-day or next-day pickup when available with our team, available at your convenience."
        ]
       },
       {
@@ -465,19 +428,19 @@
      "images": [
       {
        "src": "/images/uploads/2026/07/tire-removal-services-before1-1024x765.jpeg",
-       "alt": "tire-removal-services before1"
+       "alt": "Tire Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/tire-removal-services-after1-1024x765.jpeg",
-       "alt": "tire-removal-services after1"
+       "alt": "Tire Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/tire-removal-services-before2-1024x765.jpeg",
-       "alt": "tire-removal-services before2"
+       "alt": "Tire Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/tire-removal-services-after2-1024x765.jpeg",
-       "alt": "tire-removal-services after2"
+       "alt": "Tire Removal: Live Junk Free job photo"
       }
      ]
     }
@@ -497,7 +460,7 @@
        "q": "Do you remove all types of tires, including car and truck tires?",
        "a": [
         [
-         "Yes! We remove all tire types, passenger cars, SUVs, trucks, ATVs, farm equipment, and more. No job is too big, from single tire pickups to commercial fleet removals. All sizes and conditions accepted."
+         "Yes! We remove all tire types, passenger cars, SUVs, trucks, ATVs, farm equipment, and more., from single tire pickups to commercial fleet removals. All sizes and conditions accepted."
         ]
        ]
       },
@@ -529,7 +492,7 @@
        "q": "Can I schedule a same-day tire pickup?",
        "a": [
         [
-         "Absolutely! Same-day service is available for urgent requests, subject to availability. Most clients get next-day pickup when booking before noon. Emergency storm cleanups are prioritized. "
+         "Absolutely! Same-day service is available for urgent requests, subject to availability. Most clients get next-day pickup when available when booking before noon. {{fact:scheduling}} "
         ]
        ]
       },
@@ -553,7 +516,7 @@
        "q": "Do I need to remove rims before tire removal?",
        "a": [
         [
-         "Not required! We provide free rim removal (steel/alloy). However, tires without rims qualify for discounted rates. Our team brings professional demounting tools to every job."
+         "Not required! We provide free rim removal (steel/alloy). {{fact:changedScope}}. Our team brings professional demounting tools to every job."
         ]
        ]
       }

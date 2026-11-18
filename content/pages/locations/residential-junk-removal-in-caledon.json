@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "In the city, clutter runs out of room and forces a decision. In Caledon, it never has to — there’s always another corner of the basement, another shelf in the shed, another spot in the loft. Which is how a house quietly ends up storing three sofas and two dead freezers. We’re the decision, made easy: one call, a free flat quote at your door, and a fully insured crew that carries it all out — from whichever building it’s been hiding in — usually the same day."
+      "In the city, clutter runs out of room and forces a decision. In Caledon, it never has to — there’s always another corner of the basement, another shelf in the shed, another spot in the loft. Which is how a house quietly ends up storing three sofas and two dead freezers. {{fact:changedScope}}."
      ]
     },
     {
@@ -97,44 +97,14 @@
      "text": "The township's homes span every kind: busy family houses on North Hill and South Hill, village homes in Caledon East and Inglewood, and farmhouses down long laneways where the nearest neighbour is a field away."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "The truck is the only measure",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Your price reflects how much truck space the items fill — a lone mattress is a sliver, a basement's worth is more — and absolutely nothing else. Not the weight, not the stairs, not the twenty minutes of gravel to reach you. Every Caledon address, town or township, pays the same way."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Quotes happen at the junk, not at the phone",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Country homes especially underestimate themselves — \"just a couch and a few things\" has a way of becoming a shed's supporting cast. So we look first: one free, in-person assessment, one flat figure, zero obligation attached."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Means the number can't grow",
-       "text": []
-      }
-     ]
+     "text": "Country homes especially underestimate themselves — \"just a couch and a few things\" has a way of becoming a shed's supporting cast."
     },
     {
      "t": "h",
@@ -142,44 +112,14 @@
      "text": "Carrying, loading, fuel, tipping fees, the drive out and back — the quote holds every cost before you approve it. Whatever the job reveals once we're lifting, your figure is already finished changing."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "We carry from wherever it landed",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "The couch in the basement, the freezer in the summer kitchen, the mattress in the loft over the garage — items get picked up from their actual resting place, not a staging spot you had to create. Floors runnered, corners padded, doorframes respected, every trip."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "A free quote with no clock attached",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "No deposit, no expiry, no follow-up pestering. Approve it and the crew starts immediately; think on it through a season and it's still good. Country pace is fine by us."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Local and franchise-free",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -260,7 +200,7 @@
       {
        "title": "2. Walk Us Through It",
        "text": [
-        "Point at everything that's going — one item or a houseful. We measure it against the truck and hand you a single flat, quote. Free either way."
+        "Point at everything that's going — one item or a houseful. {{fact:changedScope}}. Free either way."
        ]
       },
       {
@@ -272,7 +212,7 @@
       {
        "title": "4. Tidied, Loaded, Sorted On",
        "text": [
-        "The cleared spots get swept, the truck heads out, and the load splits by conscience: donation partners take the usable, recyclers take metals and electronics, and landfill gets only the last resort."
+        "The cleared spots get, the truck heads out, and the load splits by conscience: donation partners take the usable, recyclers take metals and electronics, and landfill gets only the last resort."
        ]
       }
      ]
@@ -333,7 +273,7 @@
          "Dishwashers, microwaves and countertop retirees"
         ],
         [
-         "Drained hot water and pressure tanks"
+         ""
         ],
         [
          "Dehumidifiers, window ACs and space heaters"
@@ -367,7 +307,7 @@
        "q": "The Oversized and Odd in Caledon",
        "a": [
         [
-         "Hot tubs — drained, dismantled, hauled off the deck"
+         ""
         ],
         [
          "Pianos, organs and pool tables"
@@ -385,7 +325,7 @@
          "BBQs, mowers, snowblowers and scrap metal"
         ],
         [
-         "Bed-bug-affected furniture — sealed on site, removed discreetly"
+         ""
         ]
        ]
       }
@@ -516,7 +456,7 @@
        "q": "Q: What does junk removal cost for a Caledon home?",
        "a": [
         [
-         "A: The truck decides: small loads start at {{min_price:C}}, single items stay proportionally cheap, and larger clears scale only with the space they fill. The flat figure arrives free at your door, includes every cost, and can’t change after you approve it — no matter where in the township you live."
+         "A: The truck decides: small loads start at {{min_price:C}}, single items stay proportionally cheap, and larger clears scale only with the space they fill. {{fact:changedScope}}."
         ]
        ]
       },

@@ -92,7 +92,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/gazebo-removal-services-before-1024x765.jpeg",
-      "alt": "gazebo-removal-services",
+      "alt": "Before: How It Works: Live Junk Free job photo",
       "width": 800,
       "height": 598
      }
@@ -137,7 +137,7 @@
        }
       },
       {
-       "title": "Same Day Removal when available",
+       "title": "Removal when available",
        "text": [
         "Clearing Your Space Today, Not Tomorrow."
        ],
@@ -202,7 +202,7 @@
       {
        "title": "Contact Us and Seek a No-obligation Quote",
        "text": [
-        "Whenever a need to clean up your spaces arises, just reach out to our representatives by calling on our official contact number. After hearing all your queries, our staff will revert with a resolution and educate you about our commercial and",
+        "After hearing all your queries, our staff will revert with a resolution and educate you about our commercial and",
         {
          "a": "/about/",
          "c": [
@@ -256,7 +256,7 @@
        }
       },
       {
-       "title": "Your stuff is handled and recycled responsibly",
+       "title": "Your stuff is handled and recycled where possible",
        "text": [
         "While ",
         {
@@ -265,7 +265,7 @@
           " our experts haul materials "
          ]
         },
-        " after sorting them and seeking permission from you about the same, they dispose of everything in a sustainable manner without causing any harm to the surroundings."
+        " Careful Removal"
        ],
        "image": {
         "src": "/images/uploads/2025/01/05.png",
@@ -362,7 +362,7 @@
        "q": "How far in advance do I need to schedule a pickup?",
        "a": [
         [
-         "We strive to accommodate our customers’ schedules as much as possible. However, we understand that emergencies happen, so feel free to reach out to us, and we’ll do our best to accommodate your needs.",
+         "We strive to accommodate our customers’ schedules as much as possible. {{fact:scheduling}}",
          {
           "br": 1
          },

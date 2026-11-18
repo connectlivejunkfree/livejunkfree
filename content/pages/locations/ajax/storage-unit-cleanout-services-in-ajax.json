@@ -9,7 +9,7 @@
   "description": "Get Storage Unit Cleanout Services in Ajax from Live Junk Free. Fast, reliable junk removal for storage units, homes, and businesses.",
   "canonical": "https://livejunkfree.ca/locations/ajax/storage-unit-cleanout-services-in-ajax/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Storage-Unit-Cleanout-Services-in-Whitby.jpeg"
+  "ogImage": "/images/uploads/2026/08/Storage-Unit-Cleanout-Services-in-Oshawa.jpeg"
  },
  "title": "Storage Unit Cleanout Services in Ajax",
  "h1": "Storage Unit Cleanout Services in Ajax from Live Junk Free",
@@ -158,15 +158,6 @@
        ]
       },
       {
-       "n": "05",
-       "title": "Donation-first storage unit cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
-        ]
-       ]
-      },
-      {
        "n": "06",
        "title": "Independent storage unit cleanout pricing",
        "text": [
@@ -198,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how full the unit actually is, and how much sorting it genuinely needs. A small unit is a modest job. A larger unit left full after months or years of storage takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small unit is a modest job. A larger unit left full after months or years of storage takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -210,8 +201,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -231,7 +221,7 @@
     {
      "t": "p",
      "c": [
-      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -277,7 +267,7 @@
        "title": "A Free On-Site Quote — Price and Date Both Confirmed",
        "text": [
         [
-         "A crew member sees the actual unit and gives one flat price alongside a written completion date built to beat the real deadline."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -336,9 +326,6 @@
        "Written confirmation of the completion date"
       ],
       [
-       "Same flat pricing regardless of how tight the original timeline felt"
-      ],
-      [
        "Priority booking for time-sensitive turnovers"
       ],
       [
@@ -367,9 +354,6 @@
        "Discreet, unhurried scheduling that respects the family's pace"
       ],
       [
-       "Same flat pricing whatever the situation"
-      ],
-      [
        "Documentation available for the estate file"
       ]
      ]
@@ -393,16 +377,10 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Same flat pricing as any other storage unit cleanout"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
-      ],
-      [
        "Documentation available where needed"
       ],
       [
-       "Same-day completion for most straightforward removals"
+       "Completion for most straightforward removals"
       ]
      ]
     },
@@ -421,16 +399,13 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -826,7 +801,7 @@
        "q": "We don't have a firm deadline yet — is that unusual?",
        "a": [
         [
-         "Not at all. Where there’s genuinely no external timeline, the schedule is just as flexible as anywhere else, and the same flat pricing applies either way."
+         "Not at all. {{fact:changedScope}}."
         ]
        ]
       },
@@ -882,7 +857,7 @@
        "q": "Does storage unit cleanout near me actually mean a local Ajax crew, or a booking that gets passed along?",
        "a": [
         [
-         "A local crew. Live Junk Free coordinates directly with Ajax facilities, so the deadline-backward scheduling this page promises is handled by the same team taking your call."
+         "A crew. Live Junk Free coordinates directly with Ajax facilities, so the deadline-backward scheduling this page promises is handled by the same team taking your call."
         ]
        ]
       },
@@ -898,7 +873,7 @@
        "q": "If I just need to clear out storage unit space with no real deadline attached, is that still handled the same way?",
        "a": [
         [
-         "Yes — the deadline-backward scheduling is there for when it’s needed, but a unit with no external timeline gets the same flat pricing and just as much flexibility."
+         "{{fact:changedScope}}."
         ]
        ]
       }

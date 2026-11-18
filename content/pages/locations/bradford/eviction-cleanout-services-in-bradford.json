@@ -87,7 +87,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/elementor/thumbs/eviction-cleanout-services-rr0twsm2u8xtgkjom4gto2kqxytsdwvxwo5bvurnp0.jpeg",
-      "alt": "eviction-cleanout-services"
+      "alt": "Eviction Cleanout in Bradford: Live Junk Free job photo"
      }
     }
    ]
@@ -126,7 +126,7 @@
            "eviction cleanout services in Bradford"
           ]
          },
-         " are available for same-day or next-day appointments when scheduling allows, helping you move toward the next stage of the property turnover without unnecessary delays."
+         " are available for same-day or next-day appointments when available when scheduling allows, helping you move toward the next stage of the property turnover without unnecessary delays."
         ]
        ]
       },
@@ -169,15 +169,6 @@
        "text": [
         [
          "Not everything removed from an eviction property needs to go directly to landfill. We sort items where practical and prioritize recycling, donation and responsible disposal for eligible materials."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Final Sweep After Bradford Eviction Cleanouts",
-       "text": [
-        [
-         "The job does not end when the last item is loaded. After removing the agreed belongings, our crew sweeps the cleared areas so the property is left tidier and easier to prepare for its next use."
         ]
        ]
       }
@@ -321,7 +312,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -358,7 +349,7 @@
        "title": "Send Us the Property Details",
        "text": [
         [
-         "Tell us where the property is located in Bradford and what needs to be removed. Photos can also help us understand the size and type of cleanout before the appointment."
+         "Photos can also help us understand the size and type of cleanout before the appointment."
         ]
        ]
       },
@@ -376,16 +367,7 @@
        "title": "Schedule Your Bradford Cleanout",
        "text": [
         [
-         "Choose an available appointment that works for your property turnover schedule. Same-day or next-day service may be available when scheduling permits."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "We Remove, Haul & Sweep",
-       "text": [
-        [
-         "Our crew handles the lifting, loading and hauling of the agreed items. Once the removal is complete, we sweep the cleared areas and leave the property more manageable for its next step."
+         "Choose an available appointment that works for your property turnover schedule. {{fact:permits}}"
         ]
        ]
       }

@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/07/Monitor-Removal-Services-1.jpeg"
  },
  "title": "Monitor Removal Services",
- "h1": "Most Trusted Monitor Removal Service in Your Area",
+ "h1": "Monitor Removal Service in Your Area",
  "published": "2026-07-09T13:29:33",
  "modified": "2026-07-23T08:13:55",
  "sections": [
@@ -21,12 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Most Trusted Monitor Removal Service in Your Area"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in town."
+     "text": "Monitor Removal Service in Your Area"
     },
     {
      "t": "ctas",
@@ -90,7 +85,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/2026/07/Monitor-Removal-Services-1024x765.jpeg",
+      "src": "/images/business-cleanout.jpg",
       "alt": "Monitor Removal Services",
       "width": 800,
       "height": 598
@@ -144,7 +139,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Monitor Removal Available"
+     "text": "Same-Day Monitor Removal may be available"
     },
     {
      "t": "p",
@@ -180,7 +175,7 @@
      "c": [
       {
        "b": [
-        "Need Monitor Removal Soon? Same-Day Service Available!"
+        "Need Monitor Removal Soon? Same-Day Service may be available!"
        ]
       }
      ]
@@ -206,25 +201,19 @@
       {
        "title": "{{fact:recycling}}",
        "text": [
-        "High-quality displays get refurbished for schools, while non-functional screens are responsibly recycled."
+        "High-quality displays get refurbished for schools, while non-functional screens are responsibly recycled where possible."
        ]
       },
       {
-       "title": "Affordable Bulk Removal Options",
+       "title": "Affordable Removal Options",
        "text": [
-        "– Clearing an entire office of monitors? We offer special rates for large-scale projects and corporate accounts."
+        "– Clearing an entire office of monitors? {{fact:changedScope}}."
        ]
       },
       {
        "title": "Quick & Easy Booking",
        "text": [
         "– Get booked online or by phone – no complicated forms or lengthy wait times."
-       ]
-      },
-      {
-       "title": "Honest, Upfront Pricing",
-       "text": [
-        ""
        ]
       },
       {
@@ -258,11 +247,9 @@
       [
        {
         "a": "/about/",
-        "c": [
-         "{{fact:recycling}}"
-        ]
+        "c": []
        },
-       " arrives fully prepared with protective equipment to handle your monitors safely. We use specialized padding and transport methods to prevent screen damage during removal. Whether you’re clearing one monitor or fifty, we treat every job with the same attention to detail."
+       " arrives fully prepared with protective equipment to handle your monitors safely. {{fact:propertyProtection}}. Whether you’re clearing one monitor or fifty, we treat every job with the same attention to detail."
       ],
       [
        "Most standard monitor removal projects are completed in about an hour, leaving your space clean and ready for whatever comes next."
@@ -287,7 +274,7 @@
        "Recycling – All monitors processed at licensed e-waste facilities meet environmental standards"
       ],
       [
-       "Community Donation Program – Functional monitors donated to schools and nonprofits"
+       "Community Donation Program – Functional monitors donated where possible"
       ]
      ]
     },
@@ -385,19 +372,13 @@
       {
        "title": "Send Us Details",
        "text": [
-        "Text or email us about your old monitors/displays. We'll respond within 30 minutes with a free estimate."
-       ]
-      },
-      {
-       "title": "Get a Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
+        "Text or email us about your old monitors/displays. We'll respond with a free estimate."
        ]
       },
       {
        "title": "Choose Your Time",
        "text": [
-        "Select same-day, next-day, or schedule in advance, and we work around your availability."
+        "Select same-day when available, next-day, or schedule in advance, and we work around your availability."
        ]
       },
       {
@@ -460,7 +441,7 @@
        "q": "How do you safely dispose of old monitors?",
        "a": [
         [
-         "We follow eco-friendly disposal methods, ensuring monitors are recycled or refurbished to prevent harmful e-waste."
+         "We follow eco-friendly disposal methods, ensuring monitors are recycled where possible or refurbished to prevent harmful e-waste."
         ]
        ]
       },
@@ -484,7 +465,7 @@
        "q": "Can I schedule a same-day monitor pickup?",
        "a": [
         [
-         "Yes! Same-day pickup is often available. Call or book online for fast service"
+         "Yes! Same-day pickup when available is often available. Call or book online for fast service"
         ]
        ]
       }

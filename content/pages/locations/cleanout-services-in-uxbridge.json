@@ -9,7 +9,7 @@
   "description": "Cleanout services in Uxbridge with a maker's eye for what deserves a second life — estate, studio, farmhouse and hoarding cleanouts by an insured crew.",
   "canonical": "https://livejunkfree.ca/locations/cleanout-services-in-uxbridge/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/07/Cleanout-Services-in-Uxbridge.jpeg"
+  "ogImage": "/images/uploads/2026/07/cleanout-services-in-caledon.jpeg"
  },
  "title": "Cleanout Services in Uxbridge",
  "h1": "Professional Cleanout Services in Uxbridge",
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Uxbridge with a maker's eye for what deserves a second life — estate, studio, farmhouse and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first and salvage-aware, finished swept the same day whenever size allows."
+     "text": "Cleanout services in Uxbridge with a maker's eye for what deserves a second life — estate, studio, farmhouse and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first and salvage-aware, finished the same day whenever size allows, subject to availability."
     },
     {
      "t": "ctas",
@@ -126,7 +126,7 @@
        "title": "Free walkthrough cleanout quotes at any Uxbridge address",
        "text": [
         [
-         "A crew lead walks the property — house, studio, barn — hears what the cleanout is for, and writes one firm flat quote on the spot. Free, unhurried, no expiry; sorting a life’s work often takes longer than a single visit to decide."
+         "{{fact:changedScope}}. {{fact:cleanupScope}}."
         ]
        ]
       },
@@ -136,15 +136,6 @@
        "text": [
         [
          "Clearing a working artist’s or craftsperson’s estate isn’t like clearing a spare room — half-finished pieces, raw materials, tools worth real money and a body of work that matters to the family all need a trained eye. We slow down in these spaces, set aside anything that looks like art, material or equipment worth keeping, and let the family decide what happens next."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Salvage-first sorting — a maker's town deserves it",
-       "text": [
-        [
-         "Weathered barn board, good lumber, hardware, tools with life left and materials worth reusing get set aside intact rather than binned by default — for the family’s own projects or the reclamation trade. {{fact:pricingIntro.extra}}"
         ]
        ]
       },
@@ -162,7 +153,7 @@
        "title": "Independent cleanout pricing",
        "text": [
         [
-         "No head-office royalties inside our quotes and no township or distance padding either — local crews, our own trucks, one honest number."
+         "{{fact:propertyProtection}}."
         ]
        ]
       }
@@ -195,8 +186,7 @@
     {
      "t": "checks",
      "items": [
-      "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -212,12 +202,6 @@
      "t": "price",
      "label": "Uxbridge Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -259,7 +243,7 @@
        "title": "Book Your Uxbridge Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit, town or township. The crew lead tours the property, hears what the cleanout is for, and writes one flat quote with a timeline that fits it."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit, town or township. {{fact:changedScope}}."
         ]
        ]
       },
@@ -268,7 +252,7 @@
        "title": "Protect the Keep-List, Approve the Quote",
        "text": [
         [
-         "Family items, documents, tools, materials and anything flagged get set aside first, wherever they live. The written number locks, and the sweep is scheduled to your family’s pace, season permitting."
+         "Family items, documents, tools, materials and anything flagged get set aside first, wherever they live. {{fact:cleanupScope}}."
         ]
        ]
       },
@@ -283,7 +267,7 @@
       },
       {
        "n": "04",
-       "title": "Swept, Empty and the Good Material Given Its Second Life",
+       "title": ", Empty and the Good Material Given Its Second Life",
        "text": [
         [
          "The property hands back clear — house, studio or barn — with debris gone on our own trucks, salvage staying where you want it or routed to the reclamation trade, and donation or disposal documentation available for the estate or your own file."
@@ -339,7 +323,7 @@
        "Original trim, doors and hardware salvaged intact on request"
       ],
       [
-       "Sale-ready, broom-swept handovers"
+       "Sale-ready handovers"
       ]
      ]
     },
@@ -425,9 +409,6 @@
       ],
       [
        "Garage, basement and moving cleanouts for town and subdivision homes"
-      ],
-      [
-       "Respectful crews, first knock to final sweep"
       ]
      ]
     }
@@ -727,7 +708,7 @@
        "q": "Do you cover the hamlets — Goodwood, Zephyr, Leaskdale, Sandford?",
        "a": [
         [
-         "Every one, at the same flat pricing as downtown. The township’s hamlets and concessions ride the same daily routes; no address waits longer or pays more."
+         "{{fact:changedScope}}. The township’s hamlets and concessions ride the same daily routes; no address waits longer or pays more."
         ]
        ]
       },

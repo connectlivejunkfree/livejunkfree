@@ -9,10 +9,10 @@
   "description": "Live Junk Free offers complete Jacuzzi demolition and removal services across the Greater Toronto Area. Book your safe removal today and open up your outdoor space.",
   "canonical": "https://livejunkfree.ca/services/junk-demolition-services/jacuzzi-demolition-services/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/07/jacuzzi-demolition-services.jpeg"
+  "ogImage": "/images/uploads/2026/07/hot-tub-demolition-services.jpeg"
  },
  "title": "Jacuzzi Demolition Services",
- "h1": "Locally Trusted – A 5-Star Rated Jacuzzi Demolition Service in Your Area",
+ "h1": "Jacuzzi Demolition Service in Your Area",
  "published": "2026-07-10T05:26:37",
  "modified": "2026-07-23T08:25:54",
  "sections": [
@@ -21,7 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Locally Trusted – A 5-Star Rated Jacuzzi Demolition Service in Your Area"
+     "text": "Jacuzzi Demolition Service in Your Area"
     },
     {
      "t": "h",
@@ -85,7 +85,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/jacuzzi-demolition-services-1024x765.jpeg",
-      "alt": "jacuzzi-demolition-services",
+      "alt": "Jacuzzi Demolition: Live Junk Free job photo",
       "width": 800,
       "height": 598
      }
@@ -102,13 +102,13 @@
     {
      "t": "p",
      "c": [
-      "Removing an old Jacuzzi doesn’t have to be difficult. We’ll safely disconnect any plumbing or electrical, dismantle your Jacuzzi (including built-in and freestanding models), clean the area thoroughly, and haul everything away – no heavy lifting or mess left behind."
+      "Removing an old Jacuzzi doesn’t have to be difficult. {{fact:utilityDisconnection}}"
      ]
     },
     {
      "t": "p",
      "c": [
-      "With our experienced team handling the job, you can relax while we clear out your space quickly and safely. Before you know it, you’ll have a clean, open area ready for new furniture, landscaping, or whatever comes next. Affordable, worry-free Jacuzzi demolition."
+      "With our experienced team handling the job, you can relax while we clear out your space quickly and safely. Before you know it, you’ll have a clean, open area ready for new furniture, landscaping, or whatever comes next."
      ]
     },
     {
@@ -138,7 +138,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Fast & Local Jacuzzi demolition – Same Day Service Available!"
+     "text": "Fast & Local Jacuzzi demolition – Same Day Service may be available!"
     },
     {
      "t": "p",
@@ -150,7 +150,7 @@
         "Live Junk Free"
        ]
       },
-      "{{fact:scheduling}} We understand Jacuzzi demolition often can’t wait, whether you’re renovating your outdoor space, dealing with a leak, or simply tired of that unused eyesore. That’s why we offer same-day or next-day demolition whenever possible, so you don’t have to live with that bulky unit a moment longer than necessary."
+      "{{fact:scheduling}} We understand Jacuzzi demolition often can’t wait, whether you’re renovating your outdoor space, dealing with a leak, or simply tired of that unused eyesore. That’s why we offer same-day or next-day demolition when available whenever possible, so you don’t have to live with that bulky unit a moment longer than necessary."
      ]
     },
     {
@@ -170,9 +170,6 @@
      "items": [
       [
        "Safe dismantling of all Jacuzzi types (built-in, freestanding, indoor/outdoor models)"
-      ],
-      [
-       "Professional handling of heavy acrylic shells and structural components"
       ],
       [
        "Eco-friendly disposal with recycling of all possible materials"
@@ -226,15 +223,9 @@
        ]
       },
       {
-       "title": "Instant Space Recovery",
+       "title": "Space Recovery",
        "text": [
         "– Reclaim your patio, deck, or basement from that unused eyesore in just hours, not days."
-       ]
-      },
-      {
-       "title": "Worry-Free Service",
-       "text": [
-        "– Avoid the dangers of demolition including back injuries, electrical hazards, and property damage."
        ]
       }
      ]
@@ -257,10 +248,10 @@
      "t": "ul",
      "items": [
       [
-       "We handle Jacuzzi demolition in any location, whether it’s a tight basement corner, elevated deck, backyard patio, or commercial property space. Our experienced team carefully dismantles and removes your spa unit without causing any damage to your surroundings."
+       "We handle Jacuzzi demolition in any location, whether it’s a tight basement corner, elevated deck, backyard patio, or commercial property space."
       ],
       [
-       "From luxury built-in models to freestanding acrylic Jacuzzis and everything in between, we take care of it all. We handle the complete process including safe disconnection of plumbing and electrical components, professional dismantling of all materials, careful demolition of heavy shell pieces, proper disposal of all parts, and a thorough final cleanup. When we’re finished, your space will be cleaner and more usable than we found it, ready for whatever you have planned next."
+       "From luxury built-in models to freestanding acrylic Jacuzzis and everything in between, we take care of it all. {{fact:utilityDisconnection}} When we’re finished, your space will be cleaner and more usable than we found it, ready for whatever you have planned next."
       ]
      ]
     },
@@ -322,9 +313,6 @@
       ],
       [
        "{{fact:freeOnsiteEstimates}}"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -373,27 +361,9 @@
      "t": "cards",
      "items": [
       {
-       "title": "Send a Photo",
-       "text": [
-        "{{fact:freeOnsiteEstimates}}"
-       ]
-      },
-      {
-       "title": "Get a Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
-      {
        "title": "Schedule Your Slot",
        "text": [
         "Choose same-day or next-day demolition when available, we work near you."
-       ]
-      },
-      {
-       "title": "We Remove It",
-       "text": [
-        "Our crew pumps out water, removes the jacuzzi, cleans the area, and hauls it all away."
        ]
       }
      ]
@@ -418,11 +388,11 @@
      "images": [
       {
        "src": "/images/uploads/2026/07/jacuzzi-demolition-services-before-1024x765.jpeg",
-       "alt": "jacuzzi-demolition-services before"
+       "alt": "Before: Jacuzzi Demolition: Live Junk Free job photo"
       },
       {
-       "src": "/images/uploads/2026/07/jacuzzi-demolition-services-after-1024x765.jpeg",
-       "alt": "jacuzzi-demolition-services"
+       "src": "/images/uploads/2026/07/hot-tub-demolition-services-after-1024x765.jpeg",
+       "alt": "After: Jacuzzi Demolition: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250530_110858-1024x577.webp",

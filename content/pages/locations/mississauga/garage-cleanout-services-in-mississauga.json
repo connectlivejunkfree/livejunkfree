@@ -9,7 +9,7 @@
   "description": "Garage cleanout services in Mississauga from Live Junk Free arrive on the window they commit to, whether you're a homeowner..",
   "canonical": "https://livejunkfree.ca/locations/mississauga/garage-cleanout-services-in-mississauga/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Garage-Cleanout-Services-in-Mississauga-735x1024.jpg"
+  "ogImage": "/images/uploads/2026/08/Garage-Cleanout-Services-in-Ajax-735x1024.jpg"
  },
  "title": "Garage Cleanout Services in Mississauga",
  "h1": "Garage Cleanout Services in Mississauga from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Garage-Cleanout-Services-in-Mississauga-scaled-rruqln0phbmhjae9jgq11dr1oqh11e4yih9hfw8vhs.jpg",
+      "src": "/images/uploads/elementor/thumbs/Garage-Cleanout-Services-in-Ajax-scaled-rru2wzn5zketx8x0ewh78jmetx2mpl6fy999jwh7qo.jpg",
       "alt": "Garage Cleanout Services in Mississauga"
      }
     }
@@ -141,15 +141,6 @@
        "text": [
         [
          "Move-out and move-in dates get factored into the plan from the first call, so a rental garage is ready exactly when the next tenancy needs it to be."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "One flat garage cleanout price, forecastable to the dollar",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -209,7 +200,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Village, Distance or Rural Premium, Ever"
      ]
     },
@@ -226,12 +216,6 @@
      "t": "price",
      "label": "Mississauga Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -278,15 +262,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote — Window Committed",
-       "text": [
-        [
-         "The crew looks at the actual garage and gives you one flat price alongside a committed arrival window."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Garage Gets Cleared, on Schedule",
        "text": [
@@ -300,7 +275,7 @@
        "title": "Your Garage Is Usable, Exactly When Promised",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready to actually use again — on schedule, not sometime after."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready to actually use again — on schedule, not sometime after."
         ]
        ]
       }
@@ -366,9 +341,6 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Donation-first sorting maintained throughout"
-      ],
-      [
        "Same reliable standard as any other service in the city"
       ]
      ]
@@ -414,7 +386,7 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Recurring seasonal scheduling available on request"

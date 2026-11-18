@@ -9,7 +9,7 @@
   "description": "Cleanout services in Port Perry for heritage homes and island cottages alike — estate, downsizing and hoarding cleanouts by an insured crew.",
   "canonical": "https://livejunkfree.ca/locations/cleanout-services-in-port-perry/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/07/Cleanout-Services-in-Port-Perry.jpeg"
+  "ogImage": "/images/uploads/2026/07/cleanout-services-in-Newmarket.jpeg"
  },
  "title": "Cleanout Services in Port Perry",
  "h1": "Professional Cleanout Services in Port Perry",
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Port Perry for heritage homes and island cottages alike — estate, downsizing and hoarding cleanouts by an insured crew, quoted flat on site with no scenic-town markup, sorted with an antiques town's eye for what's worth keeping, and finished swept the same day whenever size allows."
+     "text": "Cleanout services in Port Perry for heritage homes and island cottages alike — estate, downsizing and hoarding cleanouts by an insured crew, quoted flat on site with no scenic-town markup, sorted with an antiques town's eye for what's worth keeping, and finished the same day whenever size allows, subject to availability."
     },
     {
      "t": "ctas",
@@ -126,7 +126,7 @@
        "title": "Free walkthrough cleanout quotes anywhere in Scugog",
        "text": [
         [
-         "A crew lead walks the property — Victorian home, island cottage, Blackstock farmhouse — hears what the cleanout is for, and writes one firm flat quote on the spot. Free, unhurried, no expiry; estate decisions in an antiques town often take a family longer than most."
+         "{{fact:changedScope}}. Free, unhurried, no expiry; estate decisions in an antiques town often take a family longer than most."
         ]
        ]
       },
@@ -135,7 +135,7 @@
        "title": "Estate cleanouts with an antiques town's eye for what's worth keeping",
        "text": [
         [
-         "In a community that trades on the value of old things, a cleanout crew needs to recognize them too. Keepsakes, family pieces and anything that looks like it might be worth more than a donation bin get set aside and flagged for the family to assess, appraise or consign before anything else moves — nothing gets swept away by default."
+         "In a community that trades on the value of old things, a cleanout crew needs to recognize them too. Keepsakes, family pieces and anything that looks like it might be worth more than a donation bin get set aside and flagged for the family to assess, appraise or consign before anything else moves — nothing gets away by default."
         ]
        ]
       },
@@ -195,8 +195,7 @@
     {
      "t": "checks",
      "items": [
-      "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -212,12 +211,6 @@
      "t": "price",
      "label": "Port Perry Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -259,7 +252,7 @@
        "title": "Book Your Port Perry Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit, town or township. The crew lead tours the property, hears what the cleanout is for, and writes one flat quote with a timeline that fits the family’s pace."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit, town or township. {{fact:changedScope}}."
         ]
        ]
       },
@@ -283,10 +276,10 @@
       },
       {
        "n": "04",
-       "title": "Swept, Empty and Ready for the Next Chapter",
+       "title": ", Empty and Ready for the Next Chapter",
        "text": [
         [
-         "The property hands back broom-swept — house, cottage or farmhouse — with debris gone on our own trucks and donation or disposal documentation available for the estate, the sale or your own file."
+         "The property hands back — house, cottage or farmhouse — with debris gone on our own trucks and donation or disposal documentation available for the estate, the sale or your own file."
         ]
        ]
       }
@@ -327,9 +320,6 @@
        "Full estate cleanouts through old Port Perry's Victorian streets"
       ],
       [
-       "Antiques-aware sorting — items worth a second look flagged before donation"
-      ],
-      [
        "Keepsakes, documents and valuables set aside for the family, always"
       ],
       [
@@ -339,7 +329,7 @@
        "Executor and out-of-town family coordination with documentation"
       ],
       [
-       "Sale-ready, broom-swept handovers"
+       "Sale-ready handovers"
       ]
      ]
     },
@@ -425,9 +415,6 @@
       ],
       [
        "Garage, basement and moving cleanouts for village homes"
-      ],
-      [
-       "Respectful crews, first knock to final sweep"
       ]
      ]
     }

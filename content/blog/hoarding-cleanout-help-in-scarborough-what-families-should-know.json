@@ -247,11 +247,6 @@
   {
    "blocks": [
     {
-     "t": "h",
-     "l": 2,
-     "text": "Create Simple Sorting Categories"
-    },
-    {
      "t": "p",
      "c": [
       "Before the junk removal team arrives, families can establish a few basic categories:"
@@ -373,7 +368,7 @@
     {
      "t": "p",
      "c": [
-      "If there are concerns involving mould, pests, animal waste, human waste, needles, chemicals, structural damage, or other potentially hazardous materials, a standard junk removal approach may not be enough. Specialized remediation or professional support may be appropriate."
+      "{{fact:structuralDemolition}}. Specialized remediation or professional support may be appropriate."
      ]
     },
     {
@@ -432,9 +427,6 @@
       ],
       [
        "Clearing unwanted household contents"
-      ],
-      [
-       "Sweeping and tidying the area after removal"
       ]
      ]
     },
@@ -536,7 +528,7 @@
     {
      "t": "p",
      "c": [
-      "Whenever possible, involve them in sorting and decision-making. A family-led cleanout that completely excludes the individual can create additional emotional difficulties."
+      "Whenever possible, involve them in decision-making. A family-led cleanout that completely excludes the individual can create additional emotional difficulties."
      ]
     }
    ]
@@ -604,7 +596,7 @@
      "c": [
       {
        "b": [
-        "Clear the entrance → establish pathways → restore essential rooms → remove bulky items → continue sorting."
+        ""
        ]
       }
      ]
@@ -668,9 +660,6 @@
      "items": [
       [
        "Identifying items that must stay"
-      ],
-      [
-       "Separating important documents and valuables"
       ],
       [
        "Discussing the cleanout plan with the homeowner"

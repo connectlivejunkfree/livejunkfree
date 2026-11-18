@@ -9,7 +9,7 @@
   "description": "Garage cleanout services in Richmond Hill from Live Junk Free respect the ground the garage sits on as much as what's inside it.",
   "canonical": "https://livejunkfree.ca/locations/richmond-hill/garage-cleanout-services-in-richmond-hill/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Garage-Cleanout-Services-in-Richmond-Hill-735x1024.jpg"
+  "ogImage": "/images/uploads/2026/08/Garage-Cleanout-Services-in-Ajax-735x1024.jpg"
  },
  "title": "Garage Cleanout Services in Richmond Hill",
  "h1": "Garage Cleanout Services in Richmond Hill from Live Junk Free",
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Garage cleanout services in Richmond Hill from Live Junk Free respect the ground the garage sits on as much as what's inside it — properties near the Oak Ridges Moraine get drainage and footprint protection built into the visit, at the same flat price as anywhere else in the city."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Garage-Cleanout-Services-in-Richmond-Hill-scaled-rrtzb9wyumubqhc1utyn5a0fnof4ha7y4891d8t2eo.jpg",
+      "src": "/images/uploads/elementor/thumbs/Garage-Cleanout-Services-in-Ajax-scaled-rru2wzn5zketx8x0ewh78jmetx2mpl6fy999jwh7qo.jpg",
       "alt": "Garage Cleanout Services in Richmond Hill"
      }
     }
@@ -127,15 +127,6 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        [
-         "Work stays inside the approved footprint, and drainage gets respected throughout — included as standard for properties near Oak Ridges, not an upcharge."
-        ]
-       ]
-      },
-      {
        "n": "02",
        "title": "Heritage-careful garage cleanout around Mill Pond",
        "text": [
@@ -154,17 +145,8 @@
        ]
       },
       {
-       "n": "04",
-       "title": "One flat garage cleanout price, whatever the property type",
-       "text": [
-        [
-         "The number reflects the garage’s actual volume — never the neighbourhood or its proximity to the moraine."
-        ]
-       ]
-      },
-      {
        "n": "05",
-       "title": "Same-day garage cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
@@ -209,7 +191,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Village, Distance or Rural Premium, Ever"
      ]
     },
@@ -226,12 +207,6 @@
      "t": "price",
      "label": "Richmond Hill Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -278,15 +253,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual garage and gives you one flat price before anything moves."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Garage Gets Cleared, With Grounds Respected",
        "text": [
@@ -300,7 +266,7 @@
        "title": "Your Garage Is Usable",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready to actually park in again."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready to actually park in again."
         ]
        ]
       }
@@ -344,10 +310,10 @@
        "Careful removal that protects heritage trim and features"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
-       "Same-day service for straightforward downtown access"
+       "Service for straightforward downtown access"
       ]
      ]
     },
@@ -392,9 +358,6 @@
        "Work kept inside the approved footprint throughout"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Standard removal for newer Oak Ridges subdivision garages"
       ]
      ]
@@ -414,7 +377,7 @@
        "Timed to land before your contractor's start date"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Coordination around the renovation's broader schedule"
@@ -789,7 +752,7 @@
        "q": "How much do garage cleanout services cost in Richmond Hill?",
        "a": [
         [
-         "Pricing is confirmed free at an on-site walkthrough based on how full the garage is and how much sorting it needs — with no village premium anywhere."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },

@@ -9,7 +9,7 @@
   "description": "Storage unit cleanout services in Whitby from Live Junk Free start by handling the facility itself — gate codes, access hours, unit-specific rules..",
   "canonical": "https://livejunkfree.ca/locations/whitby/storage-unit-cleanout-services-in-whitby/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Storage-Unit-Cleanout-Services-in-Whitby.jpeg"
+  "ogImage": "/images/uploads/2026/08/Storage-Unit-Cleanout-Services-in-Oshawa.jpeg"
  },
  "title": "Storage Unit Cleanout Services in Whitby",
  "h1": "Storage Unit Cleanout Services in Whitby from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Storage-Unit-Cleanout-Services-in-Whitby-rs6c3q3n46o1bo7wd1sazm8iys6g7i5gh20oewf450.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Storage-Unit-Cleanout-Services-in-Oshawa-rs83uukun4ipuyf8g4o67g8jynswxnmwov7rblez78.jpeg",
       "alt": "Storage Unit Cleanout Services in Whitby"
      }
     }
@@ -135,7 +135,7 @@
        "title": "One flat storage unit cleanout price, confirmed before anything moves",
        "text": [
         [
-         "A crew member sees the actual unit and gives one flat number before anything moves — no per-item guessing once the work starts."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -150,19 +150,10 @@
       },
       {
        "n": "04",
-       "title": "Same-day storage unit cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first storage unit cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -225,7 +216,7 @@
     {
      "t": "p",
      "c": [
-      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -267,15 +258,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual unit and gives you one flat price before anything moves."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Unit Gets Cleared, With Care",
        "text": [
@@ -289,7 +271,7 @@
        "title": "Your Unit Is Empty and Ready to Return",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready to hand back to the facility."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready to hand back to the facility."
         ]
        ]
       }
@@ -327,13 +309,7 @@
        "Facility access and gate coordination handled before arrival"
       ],
       [
-       "Donation-first sorting for furniture and household items"
-      ],
-      [
-       "Same-day service for straightforward access"
-      ],
-      [
-       "Same flat pricing as any other storage unit cleanout"
+       "Service for straightforward access"
       ]
      ]
     },
@@ -352,10 +328,7 @@
        "Coordination directly with facility management on timing"
       ],
       [
-       "Same flat pricing regardless of how tight the timeline is"
-      ],
-      [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Priority booking for time-sensitive lease-end dates"
@@ -406,10 +379,7 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
@@ -792,7 +762,7 @@
        "q": "How much do storage unit cleanout services cost in Whitby?",
        "a": [
         [
-         "Pricing is confirmed free on site based on how full the unit is and how much sorting it needs — a lightly packed unit costs less, one packed floor to ceiling costs more given the real time required. "
+         "{{fact:cleanupScope}}. "
         ]
        ]
       },

@@ -87,7 +87,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/elementor/thumbs/eviction-cleanout-services-rr0twsm2u8xtgkjom4gto2kqxytsdwvxwo5bvurnp0.jpeg",
-      "alt": "eviction-cleanout-services"
+      "alt": "Eviction Cleanout in Schomberg: Live Junk Free job photo"
      }
     }
    ]
@@ -153,19 +153,10 @@
       },
       {
        "n": "05",
-       "title": "Responsible Sorting and Disposal",
+       "title": "Disposal",
        "text": [
         [
          "We do more than simply load everything onto a truck. During an eviction cleanout in Schomberg, items are sorted for appropriate disposal, recycling, or donation whenever possible. Furniture, metals, electronics, and usable goods may be diverted from the landfill when practical."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Final Sweep After Eviction Cleanout",
-       "text": [
-        [
-         "Once the unwanted belongings are removed, our crew completes a final sweep and tidy-up of the cleared areas. This gives landlords and property managers a cleaner space to inspect, repair, renovate, list, or prepare for the next occupant."
         ]
        ]
       }
@@ -297,7 +288,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -361,7 +352,7 @@
        "title": "We Remove It All",
        "text": [
         [
-         "Our crew arrives, removes the unwanted belongings, sorts materials for responsible handling, hauls everything away, and completes a final sweep of the area."
+         "{{fact:cleanupScope}}."
         ]
        ]
       }
@@ -1144,7 +1135,7 @@
        "q": "1. What does an eviction cleanout in Schomberg include?",
        "a": [
         [
-         "An eviction cleanout involves removing unwanted furniture, appliances, household belongings, trash, and other non-hazardous items left behind by a former tenant. Live Junk Free handles the lifting, loading, hauling, sorting, and final sweep-up."
+         "An eviction cleanout involves removing unwanted furniture, appliances, household belongings, trash, and other non-hazardous items left behind by a former tenant. Live Junk Free handles the lifting, loading, hauling."
         ]
        ]
       },
@@ -1176,7 +1167,7 @@
        "q": "5. Do you offer same-day eviction cleanouts in Schomberg?",
        "a": [
         [
-         "Same-day and next-day eviction cleanout services are available when scheduling permits. This can be useful when a landlord or property manager needs a rental property cleared quickly for cleaning, repairs, showing, or a new tenant."
+         "{{fact:permits}} This can be useful when a landlord or property manager needs a rental property cleared quickly for cleaning, repairs, showing, or a new tenant."
         ]
        ]
       }

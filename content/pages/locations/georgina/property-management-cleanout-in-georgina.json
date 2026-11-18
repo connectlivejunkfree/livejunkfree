@@ -9,7 +9,7 @@
   "description": "Live Junk Free provides property management cleanout in Georgina for landlords and property owners across Keswick, Sutton, Jackson's Point and Pefferlaw.",
   "canonical": "https://livejunkfree.ca/locations/georgina/property-management-cleanout-in-georgina/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Property-Management-Cleanout-rotated.jpg"
+  "ogImage": "/images/uploads/2026/08/Retail-Cleanout-Services-rotated.jpg"
  },
  "title": "Property Management Cleanout in Georgina",
  "h1": "Property Management Cleanout in Georgina",
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Live Junk Free provides property management cleanout in Georgina for landlords and property owners across Keswick, Sutton, Jackson's Point and Pefferlaw. Much of the rental stock in this area began as seasonal cottage property and was converted for year-round tenancy, which means a turnover often involves far more than the unit itself. We assess the entire property at the walkthrough — interior, crawl space, sheds and shoreline structures — and give you one flat price before any work begins."
+     "text": "Live Junk Free provides property management cleanout in Georgina for landlords and property owners across Keswick, Sutton, Jackson's Point and Pefferlaw. Much of the rental stock in this area began as seasonal cottage property and was converted for year-round tenancy, which means a turnover often involves far more than the unit itself."
     },
     {
      "t": "ctas",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Property-Management-Cleanout-rotated-rsgmt9p6otpmll2kr8g1vez727otli1czd8xjyuj78.jpg",
+      "src": "/images/uploads/elementor/thumbs/Retail-Cleanout-Services-rotated-rsihk2kt4iyt4qv82uxcq2s5v4l03ezuo4ufls6th0.jpg",
       "alt": "Property Management Cleanout"
      }
     }
@@ -136,15 +136,6 @@
        "text": [
         [
          "Furniture stored through unheated winters, mildewed mattresses, rusted appliances and deteriorated cardboard require more time and labour to handle safely. We identify this during the walkthrough and build it into your price rather than raising it mid-job."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "We document every property management cleanout with dated photographs",
-       "text": [
-        [
-         ""
         ]
        ]
       },
@@ -309,7 +300,7 @@
     {
      "t": "p",
      "c": [
-      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -355,7 +346,7 @@
        "title": "Free on-site walkthrough and one flat property management cleanout price",
        "text": [
         [
-         "Our crew assesses the rental unit along with any crawl space, shed or shoreline structure included in the job. We provide one flat price per unit before any work begins, and we hold that price through to completion."
+         "Our crew assesses the rental unit along with any crawl space, shed or shoreline structure included in the job. {{fact:changedScope}}."
         ]
        ]
       },
@@ -370,10 +361,10 @@
       },
       {
        "n": "04",
-       "title": "Your vacant rental unit is ready for the next tenant",
+       "title": "Careful Removal",
        "text": [
         [
-         "The rental unit is left swept and empty."
+         "The rental unit is left and empty."
         ]
        ]
       }
@@ -546,7 +537,7 @@
      "t": "ul",
      "items": [
       [
-       "Tenant turnover property cleanouts can be scheduled backwards from the date the rental unit needs to be listed, helping keep the property ready for photographs and prospective tenants. Short-notice bookings can be accommodated when a tenant vacates earlier than expected, with pricing unaffected by a compressed timeline. Any visible damage can be identified and photographed during the cleanout for the property manager’s records. Same-day service is available where access permits, and the unit can be left swept and ready to show."
+       "Tenant turnover property cleanouts can be scheduled backwards from the date the rental unit needs to be listed, helping keep the property ready for photographs and prospective tenants. Short-notice bookings can be accommodated when a tenant vacates earlier than expected, with pricing unaffected by a compressed timeline. Any visible damage can be identified and photographed during the cleanout for the property manager’s records. Same-day service may be available where access permits, and the unit can be left and ready to show."
       ]
      ]
     },

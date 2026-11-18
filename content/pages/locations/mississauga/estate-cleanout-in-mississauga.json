@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Estate-Cleanout-in-Mississauga-from-Live-Junk-Free-rrqtyifa6yl3omlt309bk96t4xtvbg2ibo897g1rkk.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Estate-Cleanout-in-Pickering-from-Live-Junk-Free-rrqmq390pe371wvrrfsdqyzc7tewqc7pupfclm6fh0.jpeg",
       "alt": "Estate Cleanout in Mississauga from Live Junk Free"
      }
     }
@@ -132,24 +132,6 @@
        "text": [
         [
          "The walkthrough sets a real window, and the crew arrives inside it — one less unknown in a week already full of appointments with lawyers, banks and realtors."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Condo and tower-compliant estate cleanouts",
-       "text": [
-        [
-         "{{fact:insuranceDocs}}."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "One flat price, forecastable to the dollar",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -203,7 +185,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is the scope of the property — how many rooms are affected, and how much sorting and donation coordination the belongings genuinely need. A single condo suite or room is a modest job. A full house with years of accumulation takes considerably more time, and the price reflects that real difference rather than a flat guess made over the phone."
+      "The honest factor is the scope of the property — how many rooms are affected, and how much donation coordination the belongings genuinely need. A single condo suite or room is a modest job. A full house with years of accumulation takes considerably more time, and the price reflects that real difference rather than a flat guess made over the phone."
      ]
     },
     {
@@ -215,7 +197,6 @@
     {
      "t": "checks",
      "items": [
-      "One Flat Price, Forecastable to the Dollar",
       "A Committed Window, Not a Vague Day"
      ]
     },
@@ -232,12 +213,6 @@
      "t": "price",
      "label": "Mississauga Estate Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -288,16 +263,7 @@
        "title": "A Free Walkthrough — Window Committed",
        "text": [
         [
-         "A crew member sees the actual space and gives one flat price alongside a real arrival window for the work itself."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at the family’s pace, with anything meaningful set aside first, always."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -306,7 +272,7 @@
        "title": "A Home That's Clean and Ready, on Schedule",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable — exactly when promised, not sometime after."
+         "Whatever was worked on that visit is left and usable — exactly when promised, not sometime after."
         ]
        ]
       }
@@ -378,9 +344,6 @@
        "Same committed-window standard as any condo visit"
       ],
       [
-       "Donation-first sorting maintained throughout"
-      ],
-      [
        "Documentation available where needed"
       ]
      ]
@@ -433,9 +396,6 @@
       ],
       [
        "Committed windows that fit around a packed appointment schedule"
-      ],
-      [
-       "Same flat pricing whether or not a deadline is involved"
       ],
       [
        "Discreet, respectful communication with every party involved"
@@ -810,7 +770,7 @@
        "q": "How much does an estate cleanout cost in Mississauga?",
        "a": [
         [
-         "Pricing is based on how many rooms are affected and how much sorting the belongings need — confirmed free at the walkthrough, paired with a real arrival window rather than a vague promise."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -866,7 +826,7 @@
        "q": "Does the estate cleanout need to happen before a listing goes live?",
        "a": [
         [
-         "Often, and that timing gets planned for at the walkthrough. If there’s no deadline at all, that’s just as normal, and the same flat pricing applies either way."
+         "Often, and that timing gets planned for at the walkthrough. {{fact:changedScope}}."
         ]
        ]
       }

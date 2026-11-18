@@ -9,7 +9,7 @@
   "description": "Most property management cleanout in Toronto lives or dies on one thing: whether the crew can actually get into the building.",
   "canonical": "https://livejunkfree.ca/locations/toronto/property-management-cleanout-in-toronto/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Property-Management-Cleanout-in-Toronto-rotated.jpg"
+  "ogImage": "/images/uploads/2026/08/Retail-Cleanout-Services-rotated.jpg"
  },
  "title": "Property Management Cleanout in Toronto",
  "h1": "Property Management Cleanout in Toronto from Live Junk Free",
@@ -93,7 +93,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Property-Management-Cleanout-in-Toronto-rotated-rsf0co4afyo9cw4b50cuk05oqyzq2px9akfxjdcwxg.jpg",
+      "src": "/images/uploads/elementor/thumbs/Retail-Cleanout-Services-rotated-rsihk2kt4iyt4qv82uxcq2s5v4l03ezuo4ufls6th0.jpg",
       "alt": "Property Management Cleanout in Toronto"
      }
     }
@@ -127,7 +127,7 @@
        "title": "Property management cleanout scheduled around your elevator booking",
        "text": [
         [
-         "We work to the building’s window, not ours. Service elevator reservations, loading dock times, and quiet-hours rules are confirmed before the crew is dispatched, so a tenant turnover cleanout finishes in one visit."
+         "We work to the building’s window, not ours. Service elevator reservations, loading dock times, and quiet-hours rules are confirmed before the crew is dispatched, so a tenant turnover cleanout finishes."
         ]
        ]
       },
@@ -136,22 +136,13 @@
        "title": "{{fact:licensedInsured}}",
        "text": [
         [
-         "Toronto condo corporations and property management companies almost always require proof of coverage on file. Ours goes to the building office ahead of the job, so nobody is standing in a lobby sorting paperwork on the day."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "",
-       "text": [
-        [
-         ""
+         "Toronto condo corporations and property management companies almost always require proof of coverage on file. {{fact:cleanupScope}}."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Portfolio pricing for property managers with rental properties across Toronto",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Landlords and property managers running multiple doors get consolidated invoicing and priority booking. Property portfolio size changes your scheduling position, never your per-unit price."
@@ -163,7 +154,7 @@
        "title": "Property management cleanout for small landlords, not just large firms",
        "text": [
         [
-         "A homeowner renting a basement suite in East York gets the same crew, the same flat pricing, and the same documentation as a management company with four hundred units. Small-portfolio property cleanouts are a large share of our Toronto work."
+         "{{fact:changedScope}}. Small-portfolio property cleanouts are a large share of our Toronto work."
         ]
        ]
       },
@@ -199,7 +190,7 @@
     {
      "t": "p",
      "c": [
-      "Volume is the main driver — how much is actually left in the rental unit and how much sorting it genuinely needs. A tenant who left a mattress and six boxes is a small job. A unit left fully furnished, with appliances, electronics, and a locker downstairs still full of household items, is a real one, and the property management cleanout cost in Toronto reflects that difference plainly."
+      "{{fact:cleanupScope}}. A tenant who left a mattress and six boxes is a small job. A unit left fully furnished, with appliances, electronics, and a locker downstairs still full of household items, is a real one, and the property management cleanout cost in Toronto reflects that difference plainly."
      ]
     },
     {
@@ -211,8 +202,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -232,7 +222,7 @@
     {
      "t": "p",
      "c": [
-      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -278,7 +268,7 @@
        "title": "Free on-site walkthrough and one flat property management cleanout price",
        "text": [
         [
-         "The crew sees the actual unit — plus any locker or parking-level storage in scope — and gives one flat price per unit before anything moves. Your property management cleanout pricing is fixed before work begins."
+         "{{fact:changedScope}}. Your property management cleanout pricing is fixed before work begins."
         ]
        ]
       },
@@ -288,15 +278,6 @@
        "text": [
         [
          "Furniture removal, appliances, mattresses, electronics, and household items come out through the booked route, with corridors and elevator interiors protected. Everything is sorted for donation, recycling, or disposal, and the unit’s condition is photographed throughout — particularly useful for eviction cleanout situations and abandoned rental properties."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Your vacant rental unit is ready for the next tenant",
-       "text": [
-        [
-         ""
         ]
        ]
       }
@@ -362,13 +343,10 @@
        "Elevator and loading dock windows booked in advance"
       ],
       [
-       "Same flat pricing whether the timeline is three weeks or overnight"
-      ],
-      [
        "Tenant turnover cleanout requests accepted on short notice"
       ],
       [
-       "Same-day property management cleanout in Toronto where building access allows"
+       "Property management cleanout in Toronto where building access allows"
       ],
       [
        "Damage assessment noted and photographed during the visit"
@@ -391,9 +369,6 @@
       ],
       [
        "Consolidated quote structure and one invoice per portfolio"
-      ],
-      [
-       "Same flat per-unit price regardless of property portfolio size"
       ],
       [
        "Priority booking for property managers with recurring rental unit turnover"
@@ -422,9 +397,6 @@
        "Discreet, unmarked handling in occupied buildings"
       ],
       [
-       "Same flat pricing as any standard property management cleanout"
-      ],
-      [
        "Direct coordination with paralegals and property lawyers where required"
       ]
      ]
@@ -439,9 +411,6 @@
      "items": [
       [
        "Rental unit cleanout in high-rise, mid-rise, and walk-up buildings"
-      ],
-      [
-       "{{fact:licensedInsured}}"
       ],
       [
        "Storage lockers and parking-level units included in the same quote"
@@ -833,7 +802,7 @@
        "q": "How much does property management cleanout cost in Toronto?",
        "a": [
         [
-         "The property management cleanout cost in Toronto is confirmed free per unit at the walkthrough, based on volume, sorting required, and building access. The number of rental properties you manage never changes it. "
+         "{{fact:cleanupScope}}. The number of rental properties you manage never changes it. "
         ]
        ]
       },
@@ -865,7 +834,7 @@
        "q": "How fast can a vacant rental unit be turned over between tenants?",
        "a": [
         [
-         "Often the same day you call. "
+         "Often the same day when available you call. "
         ]
        ]
       },
@@ -881,7 +850,7 @@
        "q": "Do you charge extra for a high floor or a walk-up with no elevator?",
        "a": [
         [
-         "Access is factored into the original quote rather than added later as a stairs surcharge. Whatever the walkthrough finds is what the flat price covers. "
+         "Access is factored into the original quote rather than added later as a stairs surcharge. {{fact:changedScope}}. "
         ]
        ]
       },
@@ -932,7 +901,7 @@
          "3. How can landlords clear a rental property between occupants?"
         ],
         [
-         "Once the landlord has confirmed what can be removed, Live Junk Free can handle the physical clearing. Our crew takes care of lifting, carrying, loading, hauling, sorting, and leaving the agreed areas swept and ready for the next stage."
+         "Once the landlord has confirmed what can be removed, Live Junk Free can handle the physical clearing. Our crew takes care of lifting, carrying, loading, hauling, and leaving the agreed areas and ready for the next stage."
         ],
         [
          "4. Who handles belongings left behind after a tenant vacates?"
@@ -1076,7 +1045,7 @@
          "27. What options are available for urgent rental property cleanouts?"
         ],
         [
-         "Contact us as soon as the vacancy is confirmed and provide the property details, access requirements, and approximate amount of material. Live Junk Free offers same-day and next-day availability in Toronto when scheduling and building access allow."
+         "Contact us as soon as the vacancy is confirmed and provide the property details, access requirements, and approximate amount of material. Live Junk Free offers same-day and next-day availability when available in Toronto when scheduling and building access allow."
         ],
         [
          "28. Can property managers arrange cleanouts for several units at once?"
@@ -1112,13 +1081,13 @@
          "33. How long does it take to empty a rental property?"
         ],
         [
-         "The timeframe depends on the amount of material, size of the property, sorting required, and building access. A small ground-floor rental may be straightforward, while a high-rise unit with a limited service-elevator window can require more planning."
+         "{{fact:cleanupScope}}. A small ground-floor rental may be straightforward, while a high-rise unit with a limited service-elevator window can require more planning."
         ],
         [
          "34. Does everything need to be sorted before the cleanout crew arrives?"
         ],
         [
-         "No, not necessarily. The property manager should identify belongings that must remain and confirm what is approved for removal. Our crew can handle the agreed sorting and removal, including donation and recycling checks where practical."
+         "No, not necessarily. The property manager should identify belongings that must remain and confirm what is approved for removal. Our crew can handle the agreed removal, including donation and recycling checks where practical."
         ],
         [
          "35. Who handles heavy lifting and carrying during the cleanout?"
@@ -1127,7 +1096,7 @@
          "Our crew handles the lifting, carrying, loading, and hauling of eligible items. Property managers do not need to arrange separate labour for couches, appliances, mattresses, cabinets, or other bulky belongings."
         ],
         [
-         "36. Can oversized furniture be removed from high-rise or multi-floor properties?"
+         "36. {{fact:changedScope}}."
         ],
         [
          "Yes. Large furniture can be removed from upper-floor condos and apartments when the building’s access arrangements permit the work. Service elevators, loading areas, and other building requirements should be confirmed before the appointment."

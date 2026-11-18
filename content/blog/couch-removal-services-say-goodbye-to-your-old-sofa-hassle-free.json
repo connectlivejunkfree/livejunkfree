@@ -9,7 +9,7 @@
   "description": "Say goodbye to your old sofa with Live Junk Free. Get expert couch removal, eco-friendly disposal, and hassle-free same-day pickup when available. Book your service now.",
   "canonical": "https://livejunkfree.ca/blog/couch-removal-services-say-goodbye-to-your-old-sofa-hassle-free/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2025/11/Couch-Removal-ServicesSay-Goodbye-to-Your-Old-Sofa-Hassle-Free.jpeg"
+  "ogImage": "/images/uploads/2025/10/How-Do-I-Get-Rid-of-a-Large-Couch-If-No-One-Wants-It.jpeg"
  },
  "title": "Couch Removal Services: Say Goodbye to Your Old Sofa Hassle-Free",
  "h1": "Couch Removal Services: Say Goodbye to Your Old Sofa Hassle-Free",
@@ -20,7 +20,7 @@
   "Blog"
  ],
  "featuredImage": {
-  "src": "/images/uploads/2025/11/Couch-Removal-ServicesSay-Goodbye-to-Your-Old-Sofa-Hassle-Free.jpeg",
+  "src": "/images/uploads/2025/10/How-Do-I-Get-Rid-of-a-Large-Couch-If-No-One-Wants-It.jpeg",
   "alt": "Couch Removal Services: Say Goodbye to Your Old Sofa Hassle-Free"
  },
  "sections": [
@@ -159,7 +159,7 @@
      "t": "ul",
      "items": [
       [
-       "Donation Coordination: We work with local charities to find new homes for usable furniture"
+       "{{fact:recycling}}"
       ],
       [
        "Material Recycling: Wood frames, metal springs, and foam components are separated and recycled when possible"
@@ -244,7 +244,7 @@
        "Use proper lifting techniques and equipment"
       ],
       [
-       "Navigate through your home without damage to property"
+       "Careful Removal"
       ],
       [
        "Load securely into our specialized trucks"
@@ -348,7 +348,7 @@
        "Property preparation for sale"
       ],
       [
-       "Emergencies (flood damage)"
+       "{{fact:pickupTimes}}"
       ],
       [
        "Limited personal availability"

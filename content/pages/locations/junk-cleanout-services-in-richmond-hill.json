@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Richmond Hill is mid-renovation. The two-storeys of the nineties are getting new kitchens, the basements are being refinished, the main floors opened up — and every one of those projects begins the same way: the space has to be empty first. That’s us. One free walkthrough, one flat quote, and a fully insured crew that clears the room, the floor or the whole house — before the trades arrive, after the dust settles, or any time the accumulation simply wins."
+      "Richmond Hill is mid-renovation. The two-storeys of the nineties are getting new kitchens, the basements are being refinished, the main floors opened up — and every one of those projects begins the same way: the space has to be empty first. That’s us. {{fact:changedScope}}."
      ]
     },
     {
@@ -97,29 +97,9 @@
      "text": "The city's project list keeps our trucks moving: a Bayview Hill basement emptying before the refinish, a Mill Pond-area home clearing three decades ahead of a sale, a Jefferson garage that lost the war with storage, a Yonge-corridor rental between tenants. Live Junk Free handles the full spread — Google reviews earned one emptied space at a time."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Volume writes the price — the project doesn't inflate it",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Whether the clear is prepping a renovation or just reclaiming a garage, the measure is identical: truck space filled. Small clears cost small, whole homes scale flat and honestly, and no Richmond Hill street pays a premium for its address or its ambitions."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "We see the space before we speak a number",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -127,29 +107,9 @@
      "text": "Rooms slated for renovation always hold more than the plan admits — the closet that became storage, the furniture with nowhere to go, the boxes behind the furniture. One free in-person walkthrough produces one firm figure, and hearing it obligates you to nothing."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Approved means locked, whatever turns up",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} If the basement's built-ins hide a second wall of boxes or the crawlspace goes deeper than the flashlight, the surprise is absorbed on our side of the invoice."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "We work to contractor timelines — because we're usually on one",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -157,29 +117,9 @@
      "text": "Pre-reno clears are deadline jobs: the demo crew arrives Monday whether the room is empty or not. We book around trade schedules, clear to bare walls on the date promised, and take the displaced furniture and post-project leftovers in the same breath. Your contractor stays on schedule; so does your budget."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "No pressure, no expiry, no deposit",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "The quote is free and patient. Approve it and the crew starts immediately; wait for the permit, the quote comparison or the family decision, and the number holds. Renovations run on shifting timelines — our quotes don't punish that."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "{{fact:competitorComparison}}",
-       "text": []
-      }
-     ]
+     "text": "The quote is free and patient. Renovations run on shifting timelines — our quotes don't punish that."
     },
     {
      "t": "h",
@@ -198,12 +138,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "One Flat Figure, From Single Room to Whole House"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Basements and garages land mid-range. Whole homes and estates, even multi-load ones, still resolve to a single locked number at the free walkthrough. Project-driven or overdue, the price quoted is the price paid."
+     "text": "Basements and garages land mid-range. Project-driven or overdue, the price quoted is the price paid."
     },
     {
      "t": "cards",
@@ -260,7 +195,7 @@
       {
        "title": "2. Show the Space, Get the Number",
        "text": [
-        "The room, the basement, the garage, the whole property — we measure the real volume and hand you one flat, quote. Free, and easy to sit on."
+        "{{fact:changedScope}}. Free, and easy to sit on."
        ]
       },
       {
@@ -270,7 +205,7 @@
        ]
       },
       {
-       "title": "4. Swept and Handed Over",
+       "title": "4. and Handed Over",
        "text": [
         "The space finishes broom-clean — ready for the demo crew, the stagers, the new tenant or simply the car. The load sorts onward: donation first, recycling second, landfill only for the remainder."
        ]
@@ -330,7 +265,7 @@
          "Shed and backyard structure emptying"
         ],
         [
-         "Partial cleanouts — one space, one problem, one visit"
+         "{{fact:pickupTimes}}"
         ]
        ]
       },
@@ -364,7 +299,7 @@
          "Condo and apartment cleanouts along the Yonge corridor — elevator bookings respected"
         ],
         [
-         "Storage unit clear-outs — emptied, swept, account closed"
+         "Storage unit clear-outs — emptied, account closed"
         ],
         [
          "Office and storefront cleanouts"
@@ -533,7 +468,7 @@
        "q": "Q: We're selling a home the family has owned since it was built. How does that cleanout work?",
        "a": [
         [
-         "A: With patience and a sorting-first approach. Original-owner homes hold thirty years of layers, so we clear room by room, set aside documents, photos and valuables for the family, route the usable to donation, and leave every room swept for the listing photos. Most finish within a day."
+         "{{fact:cleanupScope}}. Original-owner homes hold thirty years of layers, so we clear room by room, set aside documents, photos and valuables for the family, route the usable to donation, and leave every room for the listing photos. Most finish within a day."
         ]
        ]
       }

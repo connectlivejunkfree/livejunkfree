@@ -54,13 +54,13 @@
        "Extreme Weight and Unwieldy Design: An upright piano can weigh between 300 and 900 pounds, while a grand piano can easily exceed 1,000 pounds. This weight is distributed unevenly, making them prone to tipping and incredibly difficult to balance on stairs or through narrow doorways."
       ],
       [
-       "Risk of Catastrophic Damage: A piano’s internal mechanism consists of thousands of delicate parts, including strings, pins, and hammers. A single bump, drop, or improper tilt can throw it irreparably out of tune or cause catastrophic internal damage that costs more to repair than the instrument is worth."
+       "A single bump, drop, or improper tilt can throw it irreparably out of tune or cause catastrophic internal damage that costs more to repair than the instrument is worth."
       ],
       [
        "High Potential for Personal Injury: The combination of extreme weight, awkward shape, and lack of proper handholds makes moving a piano the leading cause of serious back injuries, crushed fingers, and foot injuries for DIY movers. The risk to you and anyone helping you is simply too high."
       ],
       [
-       "Guaranteed Property Damage: Even if you manage to avoid dropping the piano, its sheer bulk will almost certainly gouge walls, damage doorframes, break stair treads, and scar flooring. The cost of repairing this damage can be substantial."
+       "{{fact:changedScope}}. The cost of repairing this damage can be substantial."
       ]
      ]
     }
@@ -106,7 +106,7 @@
        "Piano Boards: These are used to securely strap the piano for sliding up or down stairs with controlled precision."
       ],
       [
-       "Moving Blankets and Padding: Thick, non-slip blankets protect the piano’s finish from scratches and dings."
+       "{{fact:propertyProtection}}"
       ],
       [
        "Lifting Straps and Harnesses: These allow movers to distribute the weight ergonomically, protecting their bodies and ensuring better control."
@@ -130,7 +130,7 @@
        "Navigating Stairs: They use a careful, coordinated process of sliding and lifting, often employing a piano board to safely descend or ascend each step without jostling the instrument."
       ],
       [
-       "Tight Corners and Doorways: They know how to “walk” the piano on its corners and use leverage to pivot through the tightest of spaces without causing damage."
+       "Tight Corners and Doorways: They know how to “walk” the piano on its corners and use leverage to pivot through the tightest of spaces."
       ],
       [
        "Grand Piano Disassembly: For grand pianos, they carefully remove the legs, pedals, and lyre, and securely lid the keyboard before moving the main body (the harp and case) separately."
@@ -168,14 +168,14 @@
        "Complex Composition: Pianos contain wood, metal, ivory (in older models), and felt, making them difficult to recycle through standard channels."
       ],
       [
-       "Sheer Bulk: The logistics of transporting a 500-pound item to a specialized facility are overwhelming for an individual."
+       "{{fact:changedScope}}."
       ]
      ]
     },
     {
      "t": "p",
      "c": [
-      "A professional service provides safe piano disposal by handling the entire process. They will assess the piano, determine if any components can be recycled or repurposed, and ensure it is transported to the appropriate facility, providing an eco-friendlier alternative to the landfill."
+      "A professional service provides safe piano disposal by handling the entire process. They will assess the piano, determine if any components can be recycled where possible or repurposed, and ensure it is transported to the appropriate facility, providing an eco-friendlier alternative to the landfill."
      ]
     }
    ]

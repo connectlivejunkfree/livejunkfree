@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Estate-Cleanout-in-East-Gwillimbury-from-Live-Junk-Free-rrr0xtjvfcm5y2i2ckeg46iew4jesjjg8xju4w1hlw.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Estate-Cleanout-in-Schomberg-from-Live-Junk-Free-rrqjf5q5z1ac8qkmyyjq6bqqj8zobduu7g1sff4odg.jpeg",
       "alt": "Estate Cleanout in East Gwillimbury from Live Junk Free"
      }
     }
@@ -128,10 +128,10 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat price, identical in every part of the township",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "Holland Landing, Sharon, the 404 corridor, the concessions between — the number reflects the space and the sorting it needs, never the community the address happens to be in."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -159,15 +159,6 @@
        "text": [
         [
          "Where an estate extends into a barn or outbuilding on a working farm, the crew scopes and quotes the whole visit together, under one honest price."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "One flat price, confirmed before anything moves",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -203,7 +194,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is the scope of the space — how many rooms are affected, and how much sorting the belongings genuinely need. A single room is a modest job. A full hamlet home or farm property with years of accumulation across every level takes considerably more time, and the price reflects that real difference rather than a flat guess made over the phone."
+      "{{fact:cleanupScope}}. A single room is a modest job. A full hamlet home or farm property with years of accumulation across every level takes considerably more time, and the price reflects that real difference rather than a flat guess made over the phone."
      ]
     },
     {
@@ -215,7 +206,6 @@
     {
      "t": "checks",
      "items": [
-      "One Flat Price, Whichever Community the Property Is In",
       "Documentation Included as Standard for Executor Accountability"
      ]
     },
@@ -232,12 +222,6 @@
      "t": "price",
      "label": "East Gwillimbury Estate Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -284,29 +268,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual space, whatever community it’s in, and gives one flat number before anything moves."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at the family’s pace, with anything meaningful set aside first, always."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "A Home That's Clean and Ready",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable — ready for a sale, a new owner, or simply for the family, on the timeline that fits."
+         "Whatever was worked on that visit is left and usable — ready for a sale, a new owner, or simply for the family, on the timeline that fits."
         ]
        ]
       }
@@ -350,10 +316,7 @@
        "Multi-visit scheduling for homes with years of accumulation"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
-      ],
-      [
-       "Same flat pricing as anywhere else in the municipality"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -376,12 +339,6 @@
       ],
       [
        "Documentation available for the estate file"
-      ],
-      [
-       "Donation-first sorting throughout"
-      ],
-      [
-       "Same flat pricing as a hamlet or farm property"
       ]
      ]
     }
@@ -404,13 +361,7 @@
        "Whole-property coordination where a barn or outbuilding is involved"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Coordination with executors settling the estate"
-      ],
-      [
-       "Same flat pricing regardless of distance from either community"
       ],
       [
        "Biohazard, pest or structural concerns flagged for licensed specialists before continuing"
@@ -433,9 +384,6 @@
       ],
       [
        "Timing arranged around listing dates or closing schedules where relevant"
-      ],
-      [
-       "Same flat pricing whether or not a deadline is involved"
       ],
       [
        "Photo updates for family who live elsewhere"
@@ -813,7 +761,7 @@
        "q": "How much does an estate cleanout cost in East Gwillimbury?",
        "a": [
         [
-         "Pricing is based on how many rooms are affected and how much sorting the belongings need — never on which community the property is in. The figure is confirmed free at a private walkthrough."
+         "{{fact:cleanupScope}}. The figure is confirmed free at a private walkthrough."
         ]
        ]
       },
@@ -837,7 +785,7 @@
        "q": "Do you charge extra for farm properties on the concessions?",
        "a": [
         [
-         "Never. The identical flat pricing applies at a hamlet home, a corridor subdivision, and a farm property between them."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },
@@ -853,7 +801,7 @@
        "q": "Can the cleanout include a barn or outbuilding, not just the house?",
        "a": [
         [
-         "Yes — it’s regular work for us on the township’s farm properties, all under one flat price."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },

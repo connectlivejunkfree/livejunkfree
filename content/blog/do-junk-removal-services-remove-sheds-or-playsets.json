@@ -137,7 +137,7 @@
     {
      "t": "p",
      "c": [
-      "Large sheds, concrete foundations, electrical connections, and structures containing potentially hazardous materials may require specialized contractors."
+      "{{fact:structuralDemolition}}."
      ]
     }
    ]
@@ -285,9 +285,6 @@
        "Remove the roof and walls"
       ],
       [
-       "Remove the floor or foundation"
-      ],
-      [
        "Haul away the resulting materials"
       ],
       [
@@ -373,7 +370,7 @@
     {
      "t": "p",
      "c": [
-      "Some sheds have lighting, power outlets, or other electrical features. Have any necessary disconnection completed by a qualified professional before dismantling begins."
+      "Some sheds have lighting, power outlets, or other electrical features. {{fact:utilityDisconnection}}"
      ]
     },
     {
@@ -381,15 +378,9 @@
      "c": [
       {
        "b": [
-        "4. Check Anchors and Foundations"
+        "4. {{fact:structuralDemolition}}."
        ]
       }
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "Look for concrete footings, ground anchors, bolts, or attachments to fences and decks."
      ]
     },
     {
@@ -563,10 +554,10 @@
      "c": [
       {
        "b": [
-        "Foundation and anchors:"
+        ""
        ]
       },
-      " Concrete footings, heavy bases, and fixed attachments may require additional work."
+      " "
      ]
     },
     {
@@ -622,7 +613,7 @@
      "t": "ul",
      "items": [
       [
-       "Suitable metal components may be recycled."
+       "Suitable metal components may be recycled where possible."
       ],
       [
        "Usable materials may be reused."
@@ -641,7 +632,7 @@
     {
      "t": "p",
      "c": [
-      "Not every material can be recycled, and painted, treated, contaminated, or composite materials may have different requirements."
+      "Not every material can be recycled where possible, and painted, treated, contaminated, or composite materials may have different requirements."
      ]
     },
     {
@@ -771,7 +762,7 @@
       {
        "title": "Can junk removal services remove wooden sheds?",
        "text": [
-        "Many companies can handle wooden shed materials, but removing the entire structure may require dismantling or demolition. Large sheds and those with foundations may need a specialized contractor."
+        "Many companies can handle wooden shed materials, but removing the entire structure may require dismantling or demolition. {{fact:structuralDemolition}}."
        ]
       },
       {
@@ -795,25 +786,19 @@
       {
        "title": "Can a company remove a playset anchored in concrete?",
        "text": [
-        "It depends on the job and the company’s equipment and services. Concrete footings and embedded anchors may require additional work or a specialized contractor."
+        "It depends on the job and the company’s equipment and services. {{fact:structuralDemolition}}."
        ]
       },
       {
        "title": "How much does it cost to remove an old shed?",
        "text": [
-        "Pricing depends on the shed’s size, materials, accessibility, dismantling requirements, and foundation. Photos and measurements can help the company prepare an estimate."
+        "{{fact:structuralDemolition}}. Photos and measurements can help the company prepare an estimate."
        ]
       },
       {
        "title": "Can shed removal include everything inside the shed?",
        "text": [
         "Some companies offer combined shed cleanout and removal services. Ask whether the estimate includes tools, shelving, stored belongings, and the structure itself."
-       ]
-      },
-      {
-       "title": "Do I need a permit to remove a shed?",
-       "text": [
-        "Permit requirements depend on the municipality, structure, and circumstances. Check with your local municipality before beginning demolition, especially for larger structures or sheds with utilities or foundations."
        ]
       },
       {
@@ -854,7 +839,7 @@
     {
      "t": "p",
      "c": [
-      "Small structures and disassembled components may be relatively straightforward to remove. Larger sheds, multi-level playsets, concrete foundations, and structures with electrical connections can require additional planning or specialized contractors."
+      "Small structures and disassembled components may be relatively straightforward to remove. {{fact:structuralDemolition}}."
      ]
     },
     {

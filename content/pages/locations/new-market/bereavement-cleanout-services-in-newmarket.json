@@ -9,7 +9,7 @@
   "description": "Bereavement cleanout services in Newmarket from Live Junk Free happen on whatever day actually gets the whole family in the same place.",
   "canonical": "https://livejunkfree.ca/locations/new-market/bereavement-cleanout-services-in-newmarket/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Bereavement-Cleanout-Services-in-Newmarket.jpeg"
+  "ogImage": "/images/uploads/2026/07/Monitor-Removal-Services-1.jpeg"
  },
  "title": "Bereavement Cleanout Services in Newmarket",
  "h1": "Bereavement Cleanout Services in Newmarket from Live Junk Free",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because settling a loved one’s home rarely fits neatly into one person’s calendar — a sibling might only be free on weekends, another might need an evening after work, and being present together for at least part of the process matters to a lot of families. {{fact:scheduling}}"
+      "Because settling a loved one’s home rarely fits neatly into one person’s calendar — a sibling might only be free on weekends, another might need an evening after work, and being present together for at least part of the process matters to a lot of families. {{fact:scheduling}} (subject to scheduling)"
      ]
     },
     {
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Bereavement-Cleanout-Services-in-Newmarket-rs65vtxl7u69vffqqrqfkm6x3ppzqyb5cvw276e08k.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Bereavement-Cleanout-Services-in-Oshawa-rs64k2qrzusu0msylmlse60ulz3nojq34iozg372d0.jpeg",
       "alt": "Bereavement Cleanout Services in Newmarket"
      }
     }
@@ -112,7 +112,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "No. Saturday and Sunday bereavement cleanouts cost exactly what a weekday costs — the flat price given at the walkthrough doesn't change based on which day the actual work happens."
+     "text": "No."
     }
    ]
   },
@@ -123,7 +123,7 @@
      "items": [
       {
        "n": "01",
-       "title": "Weekend bereavement cleanout so the whole family can be there",
+       "title": "Weekend bereavement cleanout so the whole family can be there (subject to scheduling)",
        "text": [
         [
          "The price a crew gives at the walkthrough is the same whether the visit happens on a Tuesday or a Saturday, which matters when coordinating several family members’ schedules."
@@ -135,7 +135,7 @@
        "title": "{{fact:weekendPickup}}",
        "text": [
         [
-         "Family members who can only meet after work get the same crew and the same flat number as anyone available during a weekday."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -225,7 +225,7 @@
     {
      "t": "p",
      "c": [
-      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -289,7 +289,7 @@
        "title": "A Space That's Clean and Ready",
        "text": [
         [
-         "We complete a final walkthrough, sweep the area, and leave the space ready for whatever comes next."
+         "We complete a final walkthrough, and leave the space ready for whatever comes next."
         ]
        ]
       }
@@ -327,7 +327,7 @@
        "Original trim and features that stay protected throughout"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Documentation available for an executor or estate file"
@@ -344,9 +344,6 @@
      "items": [
       [
        "Bereavement cleanouts across every Newmarket neighbourhood"
-      ],
-      [
-       "{{fact:weekendPickup}}"
       ],
       [
        "Family updates available for anyone coordinating from off-island"
@@ -372,13 +369,7 @@
        "Bereavement cleanouts coordinated directly with executors or legal representatives"
       ],
       [
-       "{{fact:weekendPickup}}"
-      ],
-      [
        "Documentation provided for estate or legal requirements"
-      ],
-      [
-       "Same flat pricing whatever the timeline"
       ]
      ]
     },
@@ -397,10 +388,7 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ]
      ]
     }

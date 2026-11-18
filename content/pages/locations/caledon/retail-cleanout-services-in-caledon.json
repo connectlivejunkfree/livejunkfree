@@ -163,15 +163,6 @@
        ]
       },
       {
-       "n": "05",
-       "title": "",
-       "text": [
-        [
-         ""
-        ]
-       ]
-      },
-      {
        "n": "06",
        "title": "Independent retail cleanout pricing",
        "text": [
@@ -282,7 +273,7 @@
     {
      "t": "p",
      "c": [
-      "Three factors never enter the calculation. Urgency — a retail cleanout booked for tomorrow costs the same as one booked next month. Job size — a single small unit is priced on volume exactly as a multi-property clearance is, with no minimum applied. We confirm your figure in writing at the walkthrough and hold it through to completion."
+      "Three factors never enter the calculation. Urgency — a retail cleanout booked for tomorrow costs the same as one booked next month. {{fact:changedScope}}. We confirm your figure in writing at the walkthrough and hold it through to completion."
      ]
     },
     {
@@ -309,7 +300,7 @@
     {
      "t": "p",
      "c": [
-      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -351,29 +342,20 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Free walkthrough and one flat retail cleanout price",
-       "text": [
-        [
-         "Our crew assesses the retail floor, back rooms, cellar, barns, sheds and any yard storage in scope. We provide one flat price before any work begins and hold that figure through to completion."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Retail cleanout scheduled to your street's access rules",
        "text": [
         [
-         "We protect flooring, frontage and shared access first, then dismantle and remove shelving, racking, display units, counters, coolers, signage, remaining stock, office furniture, electronics and appliances. We photograph the premises throughout."
+         "{{fact:equipmentScope}}. We photograph the premises throughout."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Fixtures removed, unit swept",
+       "title": "Fixtures removed, unit",
        "text": [
         [
-         "The unit is left broom-swept and empty, outbuildings and yards included."
+         "The unit is left and empty, outbuildings and yards included."
         ]
        ]
       }
@@ -478,7 +460,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than retail cleanout services across Caledon. Our commercial junk removal handles Bolton plaza and street units, hamlet shops and cafés, offices, restaurants, workshops, garden centres, farm gate stores, equestrian facilities and the agricultural outbuildings throughout the countryside, alongside industrial space in the Bolton employment lands, with same-day attendance wherever access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from Bolton townhouses through to Escarpment estate properties. Our demolition services cover interior strip-outs, tenant improvement removal, partitions, dropped ceilings and built-in fixtures, along with sheds, drive sheds, barns, run-in shelters, garages, decks, fences, gazebos, above-ground pools and hot tubs. Where a property requires complete clearing, we provide same-day office cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than retail cleanout services across Caledon. Our commercial junk removal handles Bolton plaza and street units, hamlet shops and cafés, offices, restaurants, workshops, garden centres, farm gate stores, equestrian facilities and the agricultural outbuildings throughout the countryside, alongside industrial space in the Bolton employment lands, with same-day attendance wherever access allows, subject to availability. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from Bolton townhouses through to Escarpment estate properties. Our demolition services cover interior strip-outs, tenant improvement removal, partitions, dropped ceilings and built-in fixtures, along with sheds, drive sheds, barns, run-in shelters, garages, decks, fences, gazebos, above-ground pools and hot tubs. Where a property requires complete clearing, we provide same-day office cleanout when available, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -559,7 +541,7 @@
      "t": "ul",
      "items": [
       [
-       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, and signage are removed after a tenant vacates, while multiple plaza bays can be handled under one quote and consolidated invoice. Same-day retail cleanout services in Brampton are available where access permits."
+       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, and signage are removed after a tenant vacates, while multiple plaza bays can be handled under one quote and consolidated invoice. Same-day retail cleanout services when available in Brampton are available where access permits."
       ]
      ]
     }

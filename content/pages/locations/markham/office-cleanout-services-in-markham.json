@@ -141,7 +141,7 @@
        "title": "& Flexible Office Cleanout Services in Markham",
        "text": [
         [
-         "When an office needs to be cleared quickly, waiting several days may not be an option. Our office cleanout services can be scheduled around your business requirements, including same-day and flexible appointments when availability allows. We can also arrange evening and weekend service to help reduce disruption."
+         "When an office needs to be cleared quickly, waiting several days may not be an option. Our office cleanout services can be scheduled around your business requirements, including same-day and flexible appointments when available when availability allows. We can also arrange evening and weekend service to help reduce disruption, subject to scheduling."
         ]
        ]
       },
@@ -177,7 +177,7 @@
        "title": "Office Furniture Donation, Resale & Recycling",
        "text": [
         [
-         "Usable office furniture and equipment may have a second life. Where appropriate, desks, chairs, tables and other reusable items can be directed toward donation or resale, while electronics and recyclable materials are routed to appropriate recycling facilities. Only materials that cannot be reused or recycled are sent for disposal."
+         "Usable office furniture and equipment may have a second life. Where appropriate, desks, chairs, tables and other reusable items can be directed toward donation or resale, while electronics and recyclable materials are routed to appropriate recycling facilities. Only materials that cannot be reused or recycled where possible are sent for disposal."
         ]
        ]
       }
@@ -316,7 +316,7 @@
     {
      "t": "p",
      "c": [
-      "Every office cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every office cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -380,7 +380,7 @@
        "title": "Office Left Clear & Ready for Its Next Use",
        "text": [
         [
-         "After everything is removed, we complete a final check of the space and sweep the work area. Your office is left clear and ready for relocation, renovation, lease turnover, new occupants or your next business use."
+         "{{fact:cleanupScope}}. Your office is left clear and ready for relocation, renovation, lease turnover, new occupants or your next business use."
         ]
        ]
       }

@@ -9,7 +9,7 @@
   "description": "Bereavement cleanout services in Vaughan from Live Junk Free handle the building logistics quietly in the background.",
   "canonical": "https://livejunkfree.ca/locations/vaughan/bereavement-cleanout-services-in-vaughan/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Bereavement-Cleanout-Services-in-Vaughan.jpeg"
+  "ogImage": "/images/uploads/2026/07/Monitor-Removal-Services-1.jpeg"
  },
  "title": "Bereavement Cleanout Services in Vaughan",
  "h1": "Bereavement Cleanout Services in Vaughan from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Bereavement-Cleanout-Services-in-Vaughan-rs2x9r71ljborxdkk4n3fzi9jdi5sg8lic6wlux22c.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Bereavement-Cleanout-Services-in-Oshawa-rs64k2qrzusu0msylmlse60ulz3nojq34iozg372d0.jpeg",
       "alt": "Bereavement Cleanout Services in Vaughan"
      }
     }
@@ -121,15 +121,6 @@
     {
      "t": "steps",
      "items": [
-      {
-       "n": "01",
-       "title": "Building logistics handled quietly for every condo bereavement cleanout",
-       "text": [
-        [
-         "{{fact:insuranceDocs}}."
-        ]
-       ]
-      },
       {
        "n": "02",
        "title": "{{fact:competitorComparison}}",
@@ -204,8 +195,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -225,7 +215,7 @@
     {
      "t": "p",
      "c": [
-      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -289,7 +279,7 @@
        "title": "A Space That's Clean and Ready",
        "text": [
         [
-         "We complete a final walkthrough, sweep the area, and leave the space ready for whatever comes next."
+         "We complete a final walkthrough, and leave the space ready for whatever comes next."
         ]
        ]
       }
@@ -328,9 +318,6 @@
       ],
       [
        "Keepsakes and anything meaningful set aside for the family, always"
-      ],
-      [
-       "Same flat pricing as any other bereavement cleanout"
       ]
      ]
     },
@@ -349,10 +336,10 @@
        "Grounds and driveway protection throughout"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -376,9 +363,6 @@
       ],
       [
        "Coordination with family on pace and timing"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     },
@@ -397,10 +381,7 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ]
      ]
     }

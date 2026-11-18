@@ -6,7 +6,7 @@
  "template": "BlogPost",
  "seo": {
   "title": "What to Do with Old Broken Appliances Easily Remove and Recycle",
-  "description": "Learn how to get rid of old broken appliances with expert appliance removal and recycling services. Safe disposal, eco-friendly pickup, and same-day junk removal available.",
+  "description": "Learn how to get rid of old broken appliances with expert appliance removal and recycling services. Safe disposal, eco-friendly pickup, and same-day junk removal may be available.",
   "canonical": "https://livejunkfree.ca/blog/what-to-do-with-old-broken-appliances/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2025/10/What-Should-I-Do-with-My-Old-Broken-Appliances.jpeg"
@@ -76,7 +76,7 @@
       {
        "title": "1. Municipal Waste Collection",
        "text": [
-        "Many cities offer curbside pickup or designated drop-off locations for bulky waste items. Check with your local waste authority for schedules and rules. Some municipalities require booking or special permits."
+        "Many cities offer curbside pickup or designated drop-off locations for bulky waste items. Check with your local waste authority for schedules and rules. {{fact:permits}}"
        ]
       },
       {
@@ -221,7 +221,7 @@
       {
        "title": "Step 4: Donate if Possible",
        "text": [
-        "If your appliance is broken but repairable, consider donating it to charity organizations or thrift stores. They may refurbish and reuse the appliance, giving it a second life."
+        "They may refurbish and reuse the appliance, giving it a second life."
        ]
       },
       {

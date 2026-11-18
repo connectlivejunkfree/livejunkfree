@@ -1,0 +1,118 @@
+{
+ "batch": {
+  "fail": 94,
+  "pages": {
+   "B1-13": 1,
+   "B1-07": 1,
+   "B1-01": 2,
+   "B1-49": 1,
+   "B1-48": 2,
+   "B1-45": 3,
+   "B1-44": 8,
+   "B1-35": 8,
+   "B1-38": 7,
+   "B1-34": 6,
+   "B1-37": 5,
+   "B1-36": 5,
+   "B1-04": 7,
+   "B1-14": 1,
+   "B1-20": 1,
+   "B1-21": 3,
+   "B1-06": 3,
+   "B1-42": 5,
+   "B1-40": 2,
+   "B1-39": 2,
+   "B1-05": 2,
+   "B1-27": 1,
+   "B1-28": 1,
+   "B1-30": 4,
+   "B1-26": 3,
+   "B1-29": 4,
+   "B1-33": 2,
+   "B1-03": 3,
+   "B1-02": 1
+  }
+ },
+ "site": {
+  "fail": 1296,
+  "routes": 736
+ },
+ "byCheck": {
+  "text-broken": {
+   "batch": 2,
+   "site": 3
+  },
+  "text-run-together": {
+   "batch": 0,
+   "site": 3
+  },
+  "cta-quote-to-contact": {
+   "batch": 5,
+   "site": 105
+  },
+  "text-double-punctuation": {
+   "batch": 7,
+   "site": 30
+  },
+  "form-service-mismatch": {
+   "batch": 1,
+   "site": 29
+  },
+  "cta-call-not-tel": {
+   "batch": 0,
+   "site": 4
+  },
+  "heading-no-body": {
+   "batch": 30,
+   "site": 372
+  },
+  "card-empty": {
+   "batch": 13,
+   "site": 78
+  },
+  "text-dangling": {
+   "batch": 4,
+   "site": 151
+  },
+  "link-raw-slug": {
+   "batch": 23,
+   "site": 64
+  },
+  "image-alt-wrong-city": {
+   "batch": 0,
+   "site": 11
+  },
+  "heading-leading-hyphen": {
+   "batch": 0,
+   "site": 6
+  },
+  "faq-multiple-faqpage": {
+   "batch": 0,
+   "site": 1
+  },
+  "accordion-no-answer": {
+   "batch": 3,
+   "site": 4
+  },
+  "h1-empty": {
+   "batch": 1,
+   "site": 0
+  },
+  "text-raw-slug": {
+   "batch": 0,
+   "site": 432
+  },
+  "cta-residential-on-wrong-page": {
+   "batch": 2,
+   "site": 2
+  },
+  "image-wrong-service": {
+   "batch": 2,
+   "site": 1
+  },
+  "page-gutted": {
+   "batch": 1,
+   "site": 0
+  }
+ }
+}

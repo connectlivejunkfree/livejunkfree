@@ -24,11 +24,6 @@
      "text": "Locally Trusted – Top Fridge Removal Service!"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in the town."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -97,12 +92,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Fridge Removal – Best Value When You Book Now"
+     "text": "Fridge Removal – Best Value When You Book Now"
     },
     {
      "t": "p",
      "c": [
-      "Removing an old refrigerator doesn’t need to be difficult. We’ll safely disconnect your fridge, remove it carefully, and haul it away, leaving your space completely clean with no mess behind."
+      "Removing an old refrigerator doesn’t need to be difficult."
      ]
     },
     {
@@ -115,7 +110,7 @@
         "our experienced team"
        ]
       },
-      " taking care of the job, you can relax while we quickly clear out your appliance. In no time, you’ll have fresh, open space ready for your new fridge or other uses. Affordable, worry-free refrigerator removal."
+      " taking care of the job, you can relax while we quickly clear out your appliance. In no time, you’ll have fresh, open space ready for your new fridge or other uses."
      ]
     }
    ]
@@ -136,7 +131,7 @@
     {
      "t": "p",
      "c": [
-      "We recognize that fridge removal often can’t wait – whether you’re renovating your kitchen, moving to a new home, or simply tired of that non-working appliance taking up space. That’s why we offer same-day or next-day removal services whenever possible, ensuring you get your valuable space back quickly."
+      "We recognize that fridge removal often can’t wait – whether you’re renovating your kitchen, moving to a new home, or simply tired of that non-working appliance taking up space. That’s why we offer same-day or next-day removal services when available whenever possible, ensuring you get your valuable space back quickly."
      ]
     },
     {
@@ -160,13 +155,7 @@
       {
        "title": "Flexible Scheduling",
        "text": [
-        "We accommodate your schedule with same-day, next-day, and weekend service options available when you need them most."
-       ]
-      },
-      {
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        "{{fact:competitorComparison}}"
+        "We accommodate your schedule with same-day, next-day, and weekend service options available when you need them most, subject to scheduling."
        ]
       },
       {
@@ -176,19 +165,13 @@
        ]
       },
       {
-       "title": "Eco-Conscious Disposal",
-       "text": [
-        ""
-       ]
-      },
-      {
        "title": "Massive Time Savings",
        "text": [
         "Timing confirmed at your estimate"
        ]
       },
       {
-       "title": "Same-Day Service when available",
+       "title": "Service when available",
        "text": [
         "Urgent fridge removal available when you need it most"
        ]
@@ -217,7 +200,7 @@
        "We expertly remove refrigerators from any location, kitchens, narrow basement stairwells, tight apartment hallways, and even awkward garage setups. Our skilled team carefully extracts your fridge without damaging floors, walls, or doorways."
       ],
       [
-       "From massive commercial freezers to compact apartment refrigerators, we handle them all with precision. We take care of all the heavy lifting, safe disconnection, and eco-friendly disposal so you don’t need to risk injury. When we are finished, your space will be cleaner and more usable than before we arrived."
+       "From massive commercial freezers to compact apartment refrigerators, we handle them all with precision. {{fact:utilityDisconnection}} When we are finished, your space will be cleaner and more usable than before we arrived."
       ]
      ]
     },
@@ -240,9 +223,6 @@
      "items": [
       [
        "Smart breakdown to maximize recyclable materials"
-      ],
-      [
-       "Minimized landfill contribution through proper sorting"
       ],
       [
        "Environmentally safe disposal of all hazardous materials"
@@ -287,9 +267,6 @@
       ],
       [
        "{{fact:freeOnsiteEstimates}}"
-      ],
-      [
-       "Special discounts when removing multiple appliances"
       ]
      ]
     }
@@ -337,18 +314,6 @@
     {
      "t": "cards",
      "items": [
-      {
-       "title": "Send Us Details",
-       "text": [
-        "{{fact:freeOnsiteEstimates}}"
-       ]
-      },
-      {
-       "title": "Get Your Price",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
       {
        "title": "Choose Your Time",
        "text": [

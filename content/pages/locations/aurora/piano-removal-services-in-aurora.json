@@ -9,7 +9,7 @@
   "description": "Need piano removal in Aurora? Live Junk Free provides safe, reliable piano removal for homes and businesses. Book your service today.",
   "canonical": "https://livejunkfree.ca/locations/aurora/piano-removal-services-in-aurora/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/piano-removal-services-in-Woodbridge.jpg"
+  "ogImage": "/images/uploads/2026/08/Piano-Removal-in-Oshawa.jpg"
  },
  "title": "Piano Removal Services in Aurora",
  "h1": "Piano Removal Services in Aurora from Live Junk Free",
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Piano Removal Services in Aurora from Live Junk Free don't change depending on which street the piano's on — a century home near Aurora Village gets the same flat pricing and the same careful crew as a five-year-old build in Wellington East or a larger property out on the Aurora Estates. One standard, whatever the address."
+     "text": "One standard, whatever the address."
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Aurora doesn’t have one dominant kind of property the way some nearby towns do — it has genuine range, from Aurora Village’s older streets to newer builds in Bayview and Wellington East to the larger lots around Aurora Estates and the Hills of St Andrew. What changes between a piano removal in each of those isn’t the price. It’s the pace and the specific care the crew applies once the walkthrough is done. A piano in a century home gets handled with real attention to original trim and older doorframes. A piano in a newer build gets moved efficiently through a more modern, generous floor plan. A piano on a larger estate property gets the same care extended to the grounds and driveway along the route to the truck. The number stays the same across all three. What adjusts is everything else about how the job actually gets done."
+      "Aurora doesn’t have one dominant kind of property the way some nearby towns do — it has genuine range, from Aurora Village’s older streets to newer builds in Bayview and Wellington East to the larger lots around Aurora Estates and the Hills of St Andrew. What changes between a piano removal in each of those isn’t the price. It’s the pace and the specific care the crew applies once the walkthrough is done. A piano in a century home gets handled with real attention to original trim and older doorframes. A piano in a newer build gets moved efficiently through a more modern, generous floor plan. A piano on a larger estate property gets the same care extended to the grounds and driveway along the route to the truck. {{fact:scheduling}} What adjusts is everything else about how the job actually gets done."
      ]
     },
     {
@@ -122,7 +122,7 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat price for whatever's coming down",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The piano’s size and the route out of the house set the number — a portable upright is a modest figure, a full grand scales up from there, and neither changes based on the street."
@@ -330,10 +330,10 @@
        "Real patience for hardware that's aged along with the house"
       ],
       [
-       "Donation-first checks before any piano is recycled"
+       "Donation-first checks before any piano is recycled where possible"
       ],
       [
-       "Same-day service for straightforward downtown access"
+       "Service for straightforward downtown access"
       ],
       [
        "Full protection of finished floors throughout"
@@ -358,13 +358,10 @@
        "Coordination around new piano delivery dates"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Full protection of finished floors throughout"
-      ],
-      [
-       "Donation-first sorting before any recycling"
       ]
      ]
     }
@@ -844,7 +841,7 @@
        "q": "Do you charge extra for stairs?",
        "a": [
         [
-         "No. Narrow staircases and multi-floor moves are factored into one flat quote at the walkthrough."
+         "No. {{fact:changedScope}}."
         ]
        ]
       },

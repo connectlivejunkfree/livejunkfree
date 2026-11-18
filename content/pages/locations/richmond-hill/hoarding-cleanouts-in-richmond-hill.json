@@ -24,11 +24,6 @@
      "text": "Hoarding Cleanouts in Richmond Hill from Live Junk Free"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "Hoarding cleanouts in Richmond Hill from Live Junk Free are handled privately, without judgment, and with the discretion each property genuinely calls for — a free confidential quote, an experienced crew, and donation-first sorting throughout."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -86,7 +81,7 @@
     {
      "t": "p",
      "c": [
-      "Whatever the address, the same principle holds throughout: no commentary is made about how a space reached its current state, no assumptions are made about the person or family involved, and the pace stays entirely in the family’s hands. Some situations need one visit. Others unfold gradually, over weeks or months, and that’s treated as completely normal rather than something that needs explaining."
+      "Whatever the address, the same principle holds throughout: no commentary is made about how a space reached its current state, no assumptions are made about the person or family involved, and the pace stays entirely in the family’s hands. {{fact:scheduling}} Others unfold gradually, over weeks or months, and that’s treated as completely normal rather than something that needs explaining."
      ]
     },
     {
@@ -126,15 +121,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Condo and tower-compliant hoarding cleanout coordination",
-       "text": [
-        [
-         "{{fact:insuranceDocs}}."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Discreet hoarding cleanouts on Bayview Hill's larger properties",
        "text": [
@@ -148,7 +134,7 @@
        "title": "Heritage-careful hoarding cleanouts around Mill Pond",
        "text": [
         [
-         "Original trim, floors and features that stay get treated with the same patience the property itself has earned over the decades, while the sorting inside moves at the family’s own pace."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -166,7 +152,7 @@
        "title": "Free on-site quotes, with an honest cost to clean out a hoarder's house",
        "text": [
         [
-         "A crew member walks the property, sees the real scope, and gives one flat number before anything moves — no guessing from a phone description, and once the work is underway."
+         "{{fact:changedScope}}."
         ]
        ]
       }
@@ -193,13 +179,13 @@
     {
      "t": "p",
      "c": [
-      "Hoarder clean out cost comes down to two honest factors: how much space is affected, and how much sorting and donation coordination the belongings genuinely need. A single room is a modest job. A full property with years of accumulation across multiple floors takes considerably more time, and the price reflects that real difference rather than a flat estimate given over the phone."
+      "Hoarder clean out cost comes down to two honest factors: how much space is affected, and how much donation coordination the belongings genuinely need. A single room is a modest job. A full property with years of accumulation across multiple floors takes considerably more time, and the price reflects that real difference rather than a flat estimate given over the phone."
      ]
     },
     {
      "t": "p",
      "c": [
-      "What never factors in is the type of property itself. A condo suite along the Yonge corridor doesn’t cost more because of the building it’s in, and a larger Bayview Hill property doesn’t cost more simply because of its scale — building logistics and grounds discretion get planned for at the walkthrough, not billed as an extra. The figure is confirmed privately, with no pressure to decide anything on the spot."
+      "What never factors in is the type of property itself. A condo suite along the Yonge corridor doesn’t cost more because of the building it’s in, and a larger Bayview Hill property doesn’t cost more simply because of its scale — building logistics and grounds discretion get planned for at the walkthrough, not billed as an extra. The figure is confirmed privately, with no pressure to decide anything at the onsite estimate."
      ]
     },
     {
@@ -226,7 +212,7 @@
     {
      "t": "p",
      "c": [
-      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -268,15 +254,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Respectful Walkthrough and a Flat Quote",
-       "text": [
-        [
-         "A crew member visits — house, condo suite or estate property — sees the actual scope, and provides one flat price, with unmarked arrival if that’s preferred and no assumptions made about the household."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Hoarding Cleanout Runs Methodically, Room by Room",
        "text": [
@@ -287,10 +264,10 @@
       },
       {
        "n": "04",
-       "title": "Hoarding Cleanout Complete — the Space Left Clean and Livable",
+       "title": "Careful Removal",
        "text": [
         [
-         "Debris is hauled the same visit where possible, donations go to local partners, and the space is left swept and safe — with follow-up visits available if the job needs to happen in stages."
+         "Debris is hauled the same visit where possible, donations go to local partners, and the space is left and safe — with follow-up visits available if the job needs to happen in stages."
         ]
        ]
       }
@@ -362,7 +339,7 @@
        "Multi-visit scheduling for homes with years of accumulation"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
        "Full discretion maintained, on streets where people notice"
@@ -1058,7 +1035,7 @@
        "q": "How careful are you with heritage homes around Mill Pond?",
        "a": [
         [
-         "Genuinely careful. Original trim and features that stay get protected, while the sorting inside moves entirely at the family’s own pace."
+         "Genuinely careful. {{fact:cleanupScope}}."
         ]
        ]
       },

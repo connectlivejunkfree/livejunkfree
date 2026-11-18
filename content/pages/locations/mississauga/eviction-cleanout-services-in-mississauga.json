@@ -87,7 +87,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/elementor/thumbs/eviction-cleanout-services-rr0twsm2u8xtgkjom4gto2kqxytsdwvxwo5bvurnp0.jpeg",
-      "alt": "eviction-cleanout-services"
+      "alt": "Eviction Cleanout in Mississauga: Live Junk Free job photo"
      }
     }
    ]
@@ -297,7 +297,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -361,7 +361,7 @@
        "title": "We Remove It All",
        "text": [
         [
-         "Our crew arrives ready to handle the lifting, loading, hauling, sorting, and responsible disposal. After the unwanted items are removed, we complete a final sweep of the cleared areas."
+         "Our crew arrives ready to handle the lifting, loading, hauling, and responsible disposal. {{fact:cleanupScope}}."
         ]
        ]
       }
@@ -1152,7 +1152,7 @@
        "q": "Do you clean out condos, apartments, garages, and basements after an eviction?",
        "a": [
         [
-         "Yes. Our eviction cleanout service can include rooms, garages, and basements, and we provide apartment and condo eviction cleanouts as well. After removal, our crew completes a final sweep and tidy of the cleared areas. "
+         "Yes. Our eviction cleanout service can include rooms, garages, and basements, and we provide apartment and condo eviction cleanouts as well. {{fact:cleanupScope}}. "
         ]
        ]
       },
@@ -1160,7 +1160,7 @@
        "q": "Can I get same-day eviction cleanout service in Mississauga?",
        "a": [
         [
-         "Yes. Same-day and next-day eviction cleanout services are available when scheduling permits. Evening and weekend appointments may also be available. "
+         "Yes. {{fact:permits}} Evening and weekend appointments may also be available, subject to scheduling. (subject to scheduling) "
         ]
        ]
       },
@@ -1176,7 +1176,7 @@
        "q": "Can you handle multiple eviction units in Mississauga?",
        "a": [
         [
-         "Yes. We can handle larger and multi-unit eviction cleanouts in Mississauga. "
+         "Yes. {{fact:changedScope}}. "
         ]
        ]
       }

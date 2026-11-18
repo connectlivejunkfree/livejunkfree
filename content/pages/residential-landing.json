@@ -93,7 +93,7 @@
         " same day pickup when available."
        ]
       },
-      " LiveJunkFree is trusted by 100+ people having done 500+ jobs in the last 3months, our process for junk removal is simple"
+      " "
      ]
     },
     {
@@ -153,7 +153,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
+      "src": "/images/uploads/2026/08/wood-removal.webp",
       "alt": "Residential Landing: Live Junk Free job photo",
       "width": 800,
       "height": 534
@@ -237,7 +237,7 @@
        "q": "View All Items",
        "a": [
         [
-         " * { box-sizing: border-box; margin: 0; padding: 0; } body { font-family: Arial, sans-serif; } .container { display: flex; flex-wrap: wrap; justify-content: space-between; padding: 10px; } .item { color: #0e2d76; flex: 1 1 22%;font-weight:600;font-size:15px; margin: 5px; text-align: left; } @media (max-width: 1200px) { .item { flex: 1 1 48%; } } @media (max-width: 768px) { .item { flex: 1 1 48%; } } @media (max-width: 480px) { .item { flex: 1 1 40%;font-size:11px;margin:5px;margin-left:10px; } } "
+         " {{fact:propertyProtection}}. "
         ],
         [
          "Couch Removal"
@@ -477,9 +477,9 @@
        ]
       },
       {
-       "title": "Same-Day Service when available",
+       "title": "Service when available",
        "text": [
-        "Need it gone fast? Book a same or next-day appointment for quick, hassle-free removal"
+        "Need it gone fast? Book a same or next-day appointment when available for quick, hassle-free removal"
        ]
       },
       {

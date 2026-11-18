@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Basement Cleanout Services in Schomberg | Live Junk Free",
-  "description": "Live Junk Free provides basement cleanout services in Schomberg to carry it all out, sort what can be reused or recycled, haul it away and sweep the space.",
+  "description": "Live Junk Free provides basement cleanout services in Schomberg to carry it all out, sort what can be reused or recycled where possible, haul it away.",
   "canonical": "https://livejunkfree.ca/locations/schomberg/basement-cleanout-services-in-schomberg/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/basement-cleanout-services.jpeg"
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Live Junk Free provides basement cleanout services in Schomberg for homeowners, landlords and property managers dealing with packed, outdated or difficult-to-access basements. We handle the lifting, sorting and removal so you can reclaim the space without making countless trips upstairs."
+     "text": "Live Junk Free provides basement cleanout services in Schomberg for homeowners, landlords and property managers dealing with packed, outdated or difficult-to-access basements. We handle the lifting, removal so you can reclaim the space without making countless trips upstairs."
     },
     {
      "t": "ctas",
@@ -99,7 +99,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/elementor/thumbs/basement-cleanout-services-rr0twuhr7x0e3sgyb5a2t23o4qkitb3ekxgaueovck.jpeg",
-      "alt": "basement-cleanout-services"
+      "alt": "Basement Cleanout in Schomberg: Live Junk Free job photo"
      }
     }
    ]
@@ -118,7 +118,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "A basement cleanout does not have to mean sorting everything into piles and making dozens of trips to the curb. Our crew handles the difficult part — carrying, loading, sorting and hauling — while you simply identify what should stay."
+     "text": "Our crew handles the difficult part — carrying, loading, hauling — while you simply identify what should stay."
     }
    ]
   },
@@ -141,7 +141,7 @@
        "title": "Basement Clean Up Services That Go Beyond Carrying Junk",
        "text": [
         [
-         "A professional cleanout is about more than taking items away. We work through storage areas, corners, under-stair spaces and utility areas, then leave the cleared floor swept and ready for its next use."
+         "A professional cleanout is about more than taking items away. We work through storage areas, corners, under-stair spaces and utility areas, then leave the cleared floor and ready for its next use."
         ]
        ]
       },
@@ -169,15 +169,6 @@
        "text": [
         [
          "A basement cleanout can make sense before a renovation, home sale, downsizing project, flood recovery or property transition. Clearing unwanted contents first gives contractors, movers or future occupants a more workable space."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Basement Cleaning and Junk Removal With Responsible Sorting",
-       "text": [
-        [
-         "Usable furniture, sporting goods, tools, books and housewares may be directed toward donation, while materials such as metals, electronics, wood, cardboard and old appliances can be routed for recycling when appropriate."
         ]
        ]
       }
@@ -315,7 +306,7 @@
     {
      "t": "p",
      "c": [
-      "Every basement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every basement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -370,7 +361,7 @@
        "title": "Book Your Basement Cleanout Services Near Me",
        "text": [
         [
-         "Choose a convenient day for your basement cleanout. Same-day service may be available when scheduling permits."
+         "Choose a convenient day for your basement cleanout. {{fact:permits}}"
         ]
        ]
       },
@@ -379,7 +370,7 @@
        "title": "Let Our Basement Junk Removal Crew Handle the Rest",
        "text": [
         [
-         "Our crew carries the unwanted contents upstairs, loads the truck, separates materials where appropriate and sweeps the cleared area before leaving."
+         "{{fact:cleanupScope}}."
         ]
        ]
       }
@@ -484,7 +475,7 @@
     {
      "t": "p",
      "c": [
-      "Need basement cleanouts near me without waiting days for a crew? Live Junk Free offers same-day basement cleanouts when availability allows. If your project involves more than the basement, our wider services include house cleanouts, apartment cleanouts, garage cleanouts, estate cleanouts, eviction cleanouts, hoarding cleanouts, storage unit cleanouts and office cleanouts, along with demolition services for decks, fences, garages, sheds and hot tubs."
+      "Need basement cleanouts near me without waiting days for a crew? Live Junk Free offers same-day basement cleanouts when available when availability allows. If your project involves more than the basement, our wider services include house cleanouts, apartment cleanouts, garage cleanouts, estate cleanouts, eviction cleanouts, hoarding cleanouts, storage unit cleanouts and office cleanouts, along with demolition services for decks, fences, garages, sheds and hot tubs."
      ]
     },
     {
@@ -1168,7 +1159,7 @@
        "q": "1. What is the most efficient way to clear a packed basement in Schomberg?",
        "a": [
         [
-         "For a basement filled with years of stored belongings, furniture, boxes, and household junk, a professional cleanout can simplify the entire process. Instead of sorting, lifting, loading, and arranging separate disposal trips yourself, a cleanout crew can remove the unwanted items in one organized service."
+         "For a basement filled with years of stored belongings, furniture, boxes, and household junk, a professional cleanout can simplify the entire process. Instead of lifting, loading, and arranging separate disposal trips yourself, a cleanout crew can remove the unwanted items in one organized service."
         ]
        ]
       },

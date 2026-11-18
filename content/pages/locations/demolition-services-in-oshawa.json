@@ -124,7 +124,7 @@
        "title": "Free demolition quotes for homes, rentals and farm properties alike",
        "text": [
         [
-         "Whatever the property type — owner-occupied, rental, rural — the process is the same: a walkthrough, a flat price, and a straight answer about the timeline."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -262,15 +262,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get Your Free Demolition Quote",
-       "text": [
-        [
-         "The crew walks the structure, confirms the scope, and hands you one flat price before touching anything."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Demolition Executes Clean, First Pass",
        "text": [
@@ -325,9 +316,6 @@
        "Above Ground Pool Demolition — frame, liner and decking torn down and hauled, older bungalow-belt installations handled with extra care"
       ],
       [
-       "Hot Tub Demolition — drained, disconnected and cut apart before removal"
-      ],
-      [
        "Jacuzzi Demolition — same process, any age of structure"
       ]
      ]
@@ -370,9 +358,6 @@
        "Garage Demolition — detached units taken down section by section"
       ],
       [
-       "Deck Demolition — wood and composite, footings addressed for an addition or rebuild"
-      ],
-      [
        "Fence Demolition — full runs or single sections"
       ],
       [
@@ -391,9 +376,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Concrete Demolition — patios, walkways and pads broken up and hauled, grading-conscious near ravine edges"
-      ],
       [
        "Flooring Demolition — old outdoor surfaces and bases removed"
       ],
@@ -673,7 +655,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {
@@ -992,7 +974,7 @@
        "q": "Can a deck, shed or fence be cleared between tenants without delaying the next lease?",
        "a": [
         [
-         "Yes — it’s routine work for us near the colleges. Demolition books against the actual turnover date, and the property’s ready for the next tenant on schedule. "
+         "Yes — it’s routine work for us near the colleges. "
         ]
        ]
       },

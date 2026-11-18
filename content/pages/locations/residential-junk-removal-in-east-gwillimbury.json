@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "East Gwillimbury is a young town, and young households outgrow things at speed. The crib becomes a toddler bed becomes a bunk bed. The swing set gives way to bikes, the bikes to a basketball net. The starter sofa survives exactly one spill too many. All of it needs somewhere to go — and that’s us. One call brings a fully insured crew to your door with a free flat quote, and everything you’ve outgrown leaves the same day, carried from wherever it sits, subject to scheduling."
+      "East Gwillimbury is a young town, and young households outgrow things at speed. The crib becomes a toddler bed becomes a bunk bed. The swing set gives way to bikes, the bikes to a basketball net. The starter sofa survives exactly one spill too many. All of it needs somewhere to go — and that’s us. {{fact:changedScope}}."
      ]
     },
     {
@@ -97,29 +97,9 @@
      "text": "Half our East Gwillimbury bookings start with \"our neighbour used you.\" In a town of new streets and young families, word moves fast — and Google reviews say the same thing the fences do: on time, flat quotes, careful with the new floors, gone before nap time's over."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Truck space is the whole invoice",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "An outgrown crib is a sliver of the truck; a garage's worth of outgrown everything is more — and that's the entire calculation."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "The quote happens in front of the stuff",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -127,29 +107,9 @@
      "text": "Family homes always have one more thing once we're there — the high chair behind the door, the stroller in the trunk-that-never-leaves-the-garage. So we quote in person, at your home, after seeing it all. Free, flat and yours to decline."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One number, sealed before the lifting starts",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Whatever the job turns out to involve, the figure has already stopped moving."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "New homes stay new — that's the standard",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -157,29 +117,9 @@
      "text": "Most of this town's floors are barely broken in, and our crews work like it: runners down, corners padded, bulky pieces dismantled instead of squeezed. The junk leaves; the builder's finish doesn't notice."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "No pressure — parenting supplies enough of that",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "The quote is free, needs no deposit, and doesn't expire while you coordinate naps, shifts and hockey schedules. Approve it and the crew starts immediately; book for Saturday morning instead and we'll be there before the cartoons end."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "{{fact:competitorComparison}}",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -260,7 +200,7 @@
       {
        "title": "2. Point at the Pile",
        "text": [
-        "The nursery set, the garage corner, the sofa on its last legs — show us everything and get one flat, quote on the spot. No obligation attached."
+        "{{fact:changedScope}}. No obligation attached."
        ]
       },
       {
@@ -270,7 +210,7 @@
        ]
       },
       {
-       "title": "4. Swept, Loaded, Passed Forward",
+       "title": "4., Loaded, Passed Forward",
        "text": [
         "We tidy where the items sat, then sort the truck: kids' gear and furniture with life left go to donation partners first, metals and electronics to recyclers, landfill only for the genuinely done. Someone else's family gets the next chapter."
        ]
@@ -330,7 +270,7 @@
          "Stoves, ovens, dishwashers and microwaves"
         ],
         [
-         "Drained hot water tanks and water softeners"
+         ""
         ],
         [
          "Window ACs, dehumidifiers and space heaters"
@@ -364,7 +304,7 @@
        "q": "The Big, Odd and Overdue in East Gwillimbury",
        "a": [
         [
-         "Hot tubs — drained, dismantled, gone"
+         ""
         ],
         [
          "Treadmills, ellipticals and the home gym that became a closet"
@@ -382,7 +322,7 @@
          "BBQs, mowers, snowblowers and scrap metal"
         ],
         [
-         "Bed-bug-affected furniture — sealed on site, removed discreetly"
+         ""
         ]
        ]
       }
@@ -513,7 +453,7 @@
        "q": "Q: How much does junk removal cost for an East Gwillimbury home?",
        "a": [
         [
-         "A: Exactly as much truck space as your items fill — small loads from {{min_price:C}}, single items at the low end, bigger clears scaling honestly. The flat figure is quoted free at your door with stairs, weight and awkwardness already inside it, and it can’t grow after you approve."
+         "A: Exactly as much truck space as your items fill — small loads from {{min_price:C}}, single items at the low end, bigger clears scaling honestly. {{fact:changedScope}}."
         ]
        ]
       },
@@ -545,7 +485,7 @@
        "q": "Q: Can everything go at once — nursery set, old appliances, backyard stuff?",
        "a": [
         [
-         "A: That’s the best-value booking there is. Mixed loads ride together and price by combined volume, so the whole outgrown inventory leaves in one visit for less than piecemeal pickups ever would."
+         "A: That’s the best-value booking there is. Mixed loads ride together and price by combined volume, so the whole outgrown inventory leaves for less than piecemeal pickups ever would."
         ]
        ]
       }

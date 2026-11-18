@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/07/swing-set-demolition-services.jpeg"
  },
  "title": "Swing Set Demolition Services",
- "h1": "Most Trusted Swing Set Demolition Services in Your Area",
+ "h1": "Swing Set Demolition Services in Your Area",
  "published": "2026-07-11T00:42:07",
  "modified": "2026-07-23T08:15:38",
  "sections": [
@@ -21,12 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Most Trusted Swing Set Demolition Services in Your Area"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in town."
+     "text": "Swing Set Demolition Services in Your Area"
     },
     {
      "t": "ctas",
@@ -63,13 +58,13 @@
     {
      "t": "p",
      "c": [
-      "A single call to our expert team turns your outdated swing set into a clean slate, ready for new landscaping or outdoor activities. We carefully evaluate every swing set demolition project to determine the safest removal method, considering factors like structural integrity, hardware condition, and surrounding space. For metal swing sets, we use specialized tools to systematically dismantle the frame without damaging your property. Wooden structures are broken down with equal care, ensuring no splintered pieces or exposed nails remain."
+      "A single call to our expert team turns your outdated swing set into a clean slate, ready for new landscaping or outdoor activities. {{fact:structuralDemolition}}. For metal swing sets, we use specialized tools to systematically dismantle the frame without damaging your property. Wooden structures are broken down with equal care, ensuring no splintered pieces or exposed nails remain."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Our removal process follows strict safety protocols from start to finish. We properly detach swings, slides, and climbing features before breaking down the main structure. Every component is responsibly recycled or disposed of, leaving your yard completely clear and safe. Whether you’re making room for a new playset, expanding your garden, or simply reclaiming your outdoor space, our swing set demolition service handles everything with precision and care."
+      "Our removal process follows strict safety protocols from start to finish. We properly detach swings, slides, and climbing features before breaking down the main structure. Every component is responsibly recycled where possible or disposed of, leaving your yard completely clear and safe. Whether you’re making room for a new playset, expanding your garden, or simply reclaiming your outdoor space, our swing set demolition service handles everything with precision and care."
      ]
     },
     {
@@ -84,7 +79,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
+      "src": "/images/uploads/2026/08/wood-removal.webp",
       "alt": "Swing Set Demolition: Live Junk Free job photo",
       "width": 800,
       "height": 534
@@ -165,9 +160,6 @@
        "Heavy-duty cutting tools for safe frame dismantling"
       ],
       [
-       "Concrete removal equipment for stubborn footings"
-      ],
-      [
        "Protective gear to handle sharp edges and splintered wood"
       ],
       [
@@ -206,31 +198,13 @@
       {
        "title": "Budget-Friendly Options",
        "text": [
-        "– Discounted rates for multiple structure removal packages"
+        "{{fact:competitorComparison}}"
        ]
       },
       {
-       "title": "Flexible Scheduling",
-       "text": [
-        ""
-       ]
-      },
-      {
-       "title": "Lawn Protection Guarantee",
+       "title": "Lawn Protection",
        "text": [
         "– Specialized techniques preserve your landscaping"
-       ]
-      },
-      {
-       "title": "All-Weather Operation",
-       "text": [
-        "– Rain or shine, we complete outdoor removal projects"
-       ]
-      },
-      {
-       "title": "Complete Site Restoration",
-       "text": [
-        "– Includes footing removal, debris cleanup, and final property inspection"
        ]
       }
      ]
@@ -325,12 +299,6 @@
      "items": [
       [
        "Free estimates via phone, text, or online request"
-      ],
-      [
-       "Special rates for multiple structure removals"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -401,13 +369,7 @@
       {
        "title": "Send Us Photos",
        "text": [
-        "Text or email pictures of your swing set. We'll reply within 30 minutes with a free quote."
-       ]
-      },
-      {
-       "title": "Get a Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
+        "Text or email pictures of your swing set. We'll reply with a free quote."
        ]
       },
       {
@@ -444,11 +406,11 @@
      "images": [
       {
        "src": "/images/uploads/2026/07/swing-set-demolition-services-1024x765.jpeg",
-       "alt": "swing-set-demolition-services"
+       "alt": "Swing Set Demolition: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/swing-set-demolition-services-aafter-1024x765.jpeg",
-       "alt": "swing-set-demolition-services"
+       "alt": "Swing Set Demolition: Live Junk Free job photo"
       }
      ]
     }

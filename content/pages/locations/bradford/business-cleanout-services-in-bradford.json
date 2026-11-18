@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Business-Cleanout-Services-in-Bradford-rs1cqx6wlzsneaaduvsrr3neluh2yoomuw6nihxzog.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Business-Cleanout-Services-in-Caledon-rs1i0614l6uwvzecsooprcgc6lpgovz4vklxw1cixs.jpeg",
       "alt": "Business Cleanout Services in Bradford"
      }
     }
@@ -146,7 +146,7 @@
       },
       {
        "n": "03",
-       "title": "One flat business cleanout price, whatever the building's age",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Size and volume set the number, confirmed on site — it makes no difference whether the space is three years old or thirty."
@@ -159,15 +159,6 @@
        "text": [
         [
          "A business that’s operated from the same Holland Street space for decades gets sorted with the specific patience that history deserves."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first business cleanout sorting for fixtures and equipment",
-       "text": [
-        [
-         "Furniture, fixtures and equipment still in good condition go to donation partners or resale channels first, before anything reaches disposal."
         ]
        ]
       },
@@ -203,7 +194,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the space, and how much sorting it genuinely needs. A small commercial unit is a modest job. A Holland Marsh agricultural-trade business with genuine equipment, or a Holland Street business with decades of accumulation, takes considerably more time to sort properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small commercial unit is a modest job. A Holland Marsh agricultural-trade business with genuine equipment, or a Holland Street business with decades of accumulation, takes considerably more time to sort properly, and the price reflects that real difference."
      ]
     },
     {
@@ -215,8 +206,7 @@
     {
      "t": "checks",
      "items": [
-      "Hauling-Away",
-      "{{fact:competitorComparison}}"
+      "Hauling-Away"
      ]
     },
     {
@@ -232,12 +222,6 @@
      "t": "price",
      "label": "Bradford Business Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -288,7 +272,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual space and gives you one flat price before anything moves, with no obligation attached to hearing it."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -306,7 +290,7 @@
        "title": "Your Space Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left and ready for whatever comes next."
         ]
        ]
       }
@@ -353,13 +337,7 @@
        "Full sort of furniture, fixtures and equipment"
       ],
       [
-       "Same-day service for straightforward access"
-      ],
-      [
-       "Donation-first sorting before any recycling"
-      ],
-      [
-       "Same flat pricing as any other business cleanout"
+       "Service for straightforward access"
       ]
      ]
     },
@@ -379,12 +357,6 @@
       ],
       [
        "Multi-structure coordination under one single booking"
-      ],
-      [
-       "{{fact:competitorComparison}}"
-      ],
-      [
-       "Same flat pricing as anywhere else in the municipality"
       ],
       [
        "Coordination with executors settling an estate where relevant"
@@ -413,13 +385,10 @@
        "Multi-visit scheduling for larger or more complex situations"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
        "Documentation available for the property file"
-      ],
-      [
-       "Same flat pricing regardless of the business's history"
       ]
      ]
     },
@@ -438,16 +407,13 @@
        "Full sort of furniture, fixtures and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -851,7 +817,7 @@
        "q": "Do you charge extra for businesses tied to the agricultural trade?",
        "a": [
         [
-         "Never. The identical flat pricing applies whether the business is in Summerlyn, on Holland Street, or serving the Marsh."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },
@@ -914,7 +880,7 @@
          "1. What is a business cleanout service?"
         ],
         [
-         "A business cleanout service helps remove unwanted items from offices, warehouses, retail stores, commercial units, and other business properties. The service can include sorting, loading, hauling, recycling, donation, and responsible disposal."
+         "A business cleanout service helps remove unwanted items from offices, warehouses, retail stores, commercial units, and other business properties. The service can include loading, hauling, recycling, donation, and responsible disposal."
         ],
         [
          "2. What does a business cleanout include in Bradford?"
@@ -968,7 +934,7 @@
          "10. What is the difference between business cleanout and commercial junk removal?"
         ],
         [
-         "Commercial junk removal usually focuses on removing specific unwanted items, while a business cleanout may involve clearing a large part or the entire property. A cleanout can include sorting, loading, hauling, recycling, donation, and disposal."
+         "Commercial junk removal usually focuses on removing specific unwanted items, while a business cleanout may involve clearing a large part or the entire property. A cleanout can include loading, hauling, recycling, donation, and disposal."
         ],
         [
          "Office & Commercial Items"
@@ -1073,7 +1039,7 @@
          "26. How long does a business cleanout take in Bradford?"
         ],
         [
-         "The time required depends on the property’s size, the amount of material, item types, access, and loading requirements. A small office may take much less time than a large warehouse or multi-floor commercial property."
+         "The time required depends on the property’s size, the amount of material, item types, access, and loading requirements. {{fact:changedScope}}."
         ],
         [
          "27. How quickly can a commercial cleanout be scheduled?"
@@ -1091,25 +1057,25 @@
          "29. Can commercial junk removal be scheduled after business hours?"
         ],
         [
-         "After-hours commercial junk removal may be possible depending on scheduling and property requirements. This can help businesses reduce disruption during normal operating hours."
+         "{{fact:scheduling}} This can help businesses reduce disruption during normal operating hours."
         ],
         [
          "30. Do you provide weekend business cleanout services?"
         ],
         [
-         "Yes. Weekend scheduling can be an option for businesses that prefer cleanout work when normal operations are reduced or the property is less busy."
+         "Yes. Weekend scheduling can be an option for businesses that prefer cleanout work when normal operations are reduced or the property is less busy, subject to scheduling."
         ],
         [
          "31. Can you clean out a business without disrupting its operations?"
         ],
         [
-         "A cleanout can be planned around regular business operations to reduce disruption. Scheduling during quieter periods, after hours, or on weekends may help keep employees and customers away from the active work area."
+         "A cleanout can be planned around regular business operations to reduce disruption. {{fact:scheduling}}"
         ],
         [
-         "32. Can you handle a large or multi-floor commercial cleanout?"
+         "32. {{fact:changedScope}}."
         ],
         [
-         "Yes. Large and multi-floor cleanouts can be planned around the property’s size, number of items, access points, stairs, elevators, and loading requirements. Providing property details in advance helps determine the best approach."
+         "Yes. {{fact:changedScope}}. Providing property details in advance helps determine the best approach."
         ],
         [
          "Recycling & Disposal"

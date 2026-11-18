@@ -9,7 +9,7 @@
   "description": "Clear your space with Storage Unit Cleanout Services in Markham from Live Junk Free. Fast, reliable junk removal services.",
   "canonical": "https://livejunkfree.ca/locations/markham/storage-unit-cleanout-services-in-markham/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Storage-Unit-Cleanout-Services-in-Whitby.jpeg"
+  "ogImage": "/images/uploads/2026/08/Storage-Unit-Cleanout-Services-in-Oshawa.jpeg"
  },
  "title": "Storage Unit Cleanout Services in Markham",
  "h1": "Storage Unit Cleanout Services in Markham",
@@ -131,42 +131,24 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Documentation provided without having to ask for storage unit cleanout",
-       "text": [
-        [
-         ""
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "One flat storage unit cleanout price, confirmed before anything moves",
        "text": [
         [
-         "A crew member sees the actual unit and gives one flat number before anything moves, with e-waste recycling included in that price."
+         "{{fact:changedScope}}."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Same-day storage unit cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          {
           "b": [
-           "Same-day storage unit cleanout service, most of the time"
+           ""
           ]
          }
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first storage unit cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -202,7 +184,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how full the unit actually is, and how much sorting it genuinely needs. A small unit is a modest job. A unit holding a meaningful amount of electronics or years of accumulated belongings takes considerably more time to sort and route properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small unit is a modest job. A unit holding a meaningful amount of electronics or years of accumulated belongings takes considerably more time to sort and route properly, and the price reflects that real difference."
      ]
     },
     {
@@ -235,7 +217,7 @@
     {
      "t": "p",
      "c": [
-      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -272,16 +254,7 @@
        "title": "Book Your Storage Unit Cleanout Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual unit, notes any electronics that need recycling, and gives you one flat price before anything moves."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       },
@@ -337,16 +310,13 @@
        "Recycling for servers, monitors, computers and networking gear"
       ],
       [
-       "Documentation of what was recycled available as standard"
-      ],
-      [
-       "Same flat pricing as any other storage unit cleanout"
+       "Documentation of what was recycled where possible available as standard"
       ],
       [
        "Coordination around corporate refresh cycle schedules"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     },
@@ -369,9 +339,6 @@
       ],
       [
        "Discreet, unhurried scheduling that respects the family's pace"
-      ],
-      [
-       "Same flat pricing whatever the situation"
       ],
       [
        "Documentation available for the estate file"
@@ -397,13 +364,10 @@
        "Coordination directly with facility management on timing"
       ],
       [
-       "Same flat pricing regardless of how tight the timeline is"
-      ],
-      [
        "Priority booking for time-sensitive lease-end dates"
       ],
       [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Documentation available for the facility if required"
@@ -425,16 +389,13 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -831,14 +792,6 @@
        "a": [
         [
          "Yes — regular equipment turnover tied to an upgrade schedule is familiar, routine work for us."
-        ]
-       ]
-      },
-      {
-       "q": "Do you provide documentation for landlords, facility managers or estate records?",
-       "a": [
-        [
-         ""
         ]
        ]
       },

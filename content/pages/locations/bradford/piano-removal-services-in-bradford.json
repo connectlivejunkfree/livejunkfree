@@ -9,7 +9,7 @@
   "description": "Bradford grows fast enough that a piano bought for a kid's lessons three years ago can already be the thing standing in the way of a bigger renovation.",
   "canonical": "https://livejunkfree.ca/locations/bradford/piano-removal-services-in-bradford/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Piano-Removal-in-Bradford.jpg"
+  "ogImage": "/images/uploads/2026/08/Piano-Removal-in-Oshawa.jpg"
  },
  "title": "Piano Removal Services in Bradford",
  "h1": "Piano Removal Services in Bradford from Live Junk Free",
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Bradford grows fast enough that a piano bought for a kid's lessons three years ago can already be the thing standing in the way of a bigger renovation. Live Junk Free removes it the same careful way whether it arrived last year or came with the house decades ago — flat price, no questions about the timeline."
+     "text": "Bradford grows fast enough that a piano bought for a kid's lessons three years ago can already be the thing standing in the way of a bigger renovation."
     },
     {
      "t": "ctas",
@@ -86,13 +86,13 @@
     {
      "t": "p",
      "c": [
-      "The town’s older streets still produce the more familiar story — a piano that’s been part of a family home for a long time, finally cleared as an estate settles or a family downsizes. Both calls get the same crew, the same care, and the same flat price. Out toward Bond Head and the rural west, and on farm properties near the Marsh, it’s whichever version applies to that particular house, priced identically to anything closer to town."
+      "The town’s older streets still produce the more familiar story — a piano that’s been part of a family home for a long time, finally cleared as an estate settles or a family downsizes. {{fact:changedScope}}. Out toward Bond Head and the rural west, and on farm properties near the Marsh, it’s whichever version applies to that particular house, priced identically to anything closer to town."
      ]
     },
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/2026/08/Piano-Removal-in-Bradford.jpg",
+      "src": "/images/uploads/2026/08/Piano-Removal-in-Oshawa.jpg",
       "alt": "Piano Removal in Bradford",
       "width": 618,
       "height": 496
@@ -129,7 +129,7 @@
       },
       {
        "n": "02",
-       "title": "One flat price, whatever the piano's age",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Size and type set the number, confirmed on site — it makes no real difference whether the piano is five years old or fifty."
@@ -151,15 +151,6 @@
        "text": [
         [
          "New-build homes and older mid-town houses have genuinely different layouts, and the crew walks whichever one is actually in front of them rather than assuming a generic floor plan."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Marsh and Bond Head piano removal",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -201,8 +192,7 @@
     {
      "t": "checks",
      "items": [
-      "Move + Disassembly + Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Move + Disassembly + Haul-Away"
      ]
     },
     {
@@ -339,13 +329,10 @@
        "Wall, corner and staircase protection throughout"
       ],
       [
-       "Donation-first checks before any piano is recycled"
+       "Donation-first checks before any piano is recycled where possible"
       ],
       [
        "Careful handling around original hamlet-home layouts"
-      ],
-      [
-       "Same flat pricing as anywhere else in the municipality"
       ]
      ]
     },
@@ -367,10 +354,7 @@
        "Coordination around new piano delivery dates"
       ],
       [
-       "Same-day service for straightforward access"
-      ],
-      [
-       "Donation-first sorting before any recycling"
+       "Service for straightforward access"
       ],
       [
        "Full protection of finished floors throughout"
@@ -391,12 +375,6 @@
      "items": [
       [
        "Piano removal on properties across the rural west"
-      ],
-      [
-       "Same flat pricing regardless of distance from the lake"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ],
       [
        "Careful handling around working farm operations"
@@ -851,7 +829,7 @@
        "q": "Do you charge extra for farm properties near the Marsh?",
        "a": [
         [
-         "Never. The identical flat pricing applies whether the piano’s in Summerlyn or on a farm property well out toward the Marsh. "
+         "Never. {{fact:changedScope}}. "
         ]
        ]
       },

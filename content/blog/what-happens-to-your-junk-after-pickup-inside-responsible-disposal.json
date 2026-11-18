@@ -41,7 +41,7 @@
         "Live Junk Free"
        ]
       },
-      ", junk removal doesn’t simply mean loading unwanted items onto a truck and taking them away. We believe responsible junk removal means looking at what can be reused, donated, recycled, or properly disposed of before anything reaches a landfill."
+      ", junk removal doesn’t simply mean loading unwanted items onto a truck and taking them away. We believe responsible junk removal means looking at what can be reused, donated, recycled where possible, or properly disposed of before anything reaches a landfill."
      ]
     },
     {
@@ -67,7 +67,7 @@
     {
      "t": "p",
      "c": [
-      "Once our crew removes your unwanted items, they don’t all follow the same path. Different materials require different handling, so the next step is responsible sorting."
+      "Once our crew removes your unwanted items, they don’t all follow the same path. {{fact:cleanupScope}}."
      ]
     },
     {
@@ -96,7 +96,7 @@
     {
      "t": "p",
      "c": [
-      "Once the area has been cleared, we can also perform a final cleanup so you’re not left dealing with loose debris."
+      "{{fact:cleanupScope}}."
      ]
     },
     {
@@ -300,26 +300,14 @@
      ]
     },
     {
-     "t": "p",
-     "c": [
-      "This is another reason why sorting matters."
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "7. Only What Cannot Be Reused or Recycled Goes to Disposal"
+     "text": "7. Only What Cannot Be Reused or Recycled Where Possible Goes to Disposal"
     },
     {
      "t": "p",
      "c": [
-      "The final category is material that cannot reasonably be donated, reused, or recycled."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "These materials may need to be sent to an appropriate licensed disposal facility."
+      "The final category is material that cannot reasonably be donated, reused, or recycled where possible."
      ]
     },
     {
@@ -337,7 +325,7 @@
         "reuse and recycling first, disposal when necessary"
        ]
       },
-      ". Our service information states that only items that cannot be salvaged or recycled are directed toward landfill disposal."
+      ". Our service information states that only items that cannot be salvaged or recycled where possible are directed toward landfill disposal."
      ]
     }
    ]
@@ -444,7 +432,7 @@
     {
      "t": "p",
      "c": [
-      "A professional junk removal service can handle the lifting, hauling, sorting, and appropriate disposal process for you."
+      "A professional junk removal service can handle the lifting, hauling, and appropriate disposal process for you."
      ]
     }
    ]
@@ -454,7 +442,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Does Everything Get Recycled?"
+     "text": "Does Everything Get Recycled Where Possible?"
     },
     {
      "t": "p",
@@ -465,7 +453,7 @@
     {
      "t": "p",
      "c": [
-      "Not every item can be recycled or donated."
+      "Not every item can be recycled where possible or donated."
      ]
     },
     {
@@ -480,7 +468,7 @@
       "Responsible junk removal isn’t about claiming that ",
       {
        "b": [
-        "100% of everything is recycled"
+        "Careful Removal"
        ]
       },
       ". It’s about making a genuine effort to identify materials that can be reused or recovered and keeping unnecessary waste out of landfills."

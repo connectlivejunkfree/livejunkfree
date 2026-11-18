@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Demolition Services in Aurora from Live Junk Free take on whatever's finished its run in your yard — an old above ground pool, a tired deck, a shed that's outlived its usefulness — and clear it the same day, at one flat price agreed before anything comes apart, subject to scheduling."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Aurora properties don’t all need the same thing torn down, and Live Junk Free treats each one on its own terms. Around Aurora Village’s older streets, it’s a shed or a section of fence tucked behind a heritage home, cleared with real patience. Across Bayview and the newer Wellington East builds, it’s the standard job — an above ground pool or a deck coming down ahead of a renovation the family’s finally started. On the larger lots of Aurora Estates and around the Hills of St Andrew, it’s bigger structures on bigger properties, handled with the same attention paid to anything smaller. And wherever the address sits in town, the process stays consistent: one crew, one flat number, no guessing involved. The Google reviews behind Live Junk Free reflect that consistency more than anything — the same standard, whichever street the job’s on."
+      "Aurora properties don’t all need the same thing torn down, and Live Junk Free treats each one on its own terms. Around Aurora Village’s older streets, it’s a shed or a section of fence tucked behind a heritage home, cleared with real patience. Across Bayview and the newer Wellington East builds, it’s the standard job — an above ground pool or a deck coming down ahead of a renovation the family’s finally started. On the larger lots of Aurora Estates and around the Hills of St Andrew, it’s bigger structures on bigger properties, handled with the same attention paid to anything smaller. {{fact:changedScope}}. The Google reviews behind Live Junk Free reflect that consistency more than anything — the same standard, whichever street the job’s on."
      ]
     },
     {
@@ -113,20 +113,11 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "One flat demolition price for whatever's coming down",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
        "n": "02",
        "title": "Free demolition quotes, walked in person before anything's priced",
        "text": [
         [
-         "A crew member comes to the property, looks at the structure and what’s around it, and gives one flat number on the spot. No obligation attached to hearing it."
+         "{{fact:changedScope}}. No obligation attached to hearing it."
         ]
        ]
       },
@@ -175,11 +166,6 @@
     {
      "t": "eyebrow",
      "text": "DEMOLITION PRICING"
-    },
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Demolition Cost in Aurora — One Flat Number, Every Property Type"
     },
     {
      "t": "h",
@@ -264,15 +250,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Approve the Flat Demolition Quote",
-       "text": [
-        [
-         "The crew walks the structure and gives one flat price before touching anything."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Demolition Runs Clean and Controlled",
        "text": [
@@ -327,9 +304,6 @@
        "Above Ground Pool Demolition — frame, liner and decking torn down and hauled, older bungalow-belt installations handled with extra care"
       ],
       [
-       "Hot Tub Demolition — drained, disconnected and cut apart before removal"
-      ],
-      [
        "Jacuzzi Demolition — same process, any age of structure"
       ]
      ]
@@ -372,9 +346,6 @@
        "Garage Demolition — detached units taken down section by section"
       ],
       [
-       "Deck Demolition — wood and composite, footings addressed for an addition or rebuild"
-      ],
-      [
        "Fence Demolition — full runs or single sections"
       ],
       [
@@ -393,9 +364,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Concrete Demolition — patios, walkways and pads broken up and hauled, grading-conscious near ravine edges"
-      ],
       [
        "Flooring Demolition — old outdoor surfaces and bases removed"
       ],
@@ -675,7 +643,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {

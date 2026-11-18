@@ -97,29 +97,9 @@
      "text": "Port Perry is a town of long-held properties — heritage homes near the Queen Street downtown that stay in families for generations, cottages on Lake Scugog passed from parents to kids, farms and outbuildings that quietly gather half a century of stuff. Letting go of what's inside them is a big job, and Live Junk Free has become the crew Scugog trusts to do it — Google reviews earned one careful, honest cleanout at a time."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "The load sets the price — nothing else does",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Every cleanout is priced on truck volume alone. A garage that fills a quarter truck costs quarter-truck money; a full estate that takes two loads is quoted as exactly that, up front. There's no hourly meter running while we work and no premium for any Port Perry address, however far down the concession road."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "No cleanout gets priced sight unseen",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -127,29 +107,9 @@
      "text": "Anyone who quotes a full cleanout over the phone is guessing — and you'll pay for the guess later. We visit the property, open every door you want opened, look in the loft and behind the barn, and only then commit to a number. The walkthrough costs nothing."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "{{fact:competitorComparison}}",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "If the attic holds triple what we all expected, the price you approved is still the price you pay. Surprises inside the house never become surprises on the bill."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Estate and hoarding cleanouts get patience, not just muscle",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -157,29 +117,9 @@
      "text": "Some cleanouts follow a death, a move into care, or years of a struggle nobody planned. Our crew treats those jobs differently: slower, quieter, with photos, papers, jewelry and anything sentimental pulled aside for the family, and usable belongings routed to donation instead of the dump."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "You hold the yes — and the no",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "We quote; you decide. Approve it and the cleanout starts that minute. Decline and we leave without a fee, a deposit or a follow-up sales call. Nobody should feel pushed into emptying a property before they're ready."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent pricing beats the franchises by",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -266,13 +206,13 @@
       {
        "title": "3. The Crew Clears It All",
        "text": [
-        "On your go-ahead, we start emptying: sorting as we work, setting aside anything valuable or sentimental, staging donations separately from disposal, and carrying every last box out ourselves. Your job is to point; ours is everything after that."
+        "{{fact:cleanupScope}}. Your job is to point; ours is everything after that."
        ]
       },
       {
-       "title": "4. Swept Out and Sent to the Right Places",
+       "title": "4. Out and Sent to the Right Places",
        "text": [
-        "Every cleared room gets swept before we leave. Then the load splits by destination — donation partners take what still has life in it, recyclers take metal, wood and electronics, and landfill gets only the remainder."
+        "Every cleared room gets before we leave. Then the load splits by destination — donation partners take what still has life in it, recyclers take metal, wood and electronics, and landfill gets only the remainder."
        ]
       }
      ]
@@ -333,7 +273,7 @@
          "Shed and outbuilding emptying across Scugog’s hamlets and concession roads"
         ],
         [
-         "Farm property cleanouts — scrap metal and old machinery included"
+         ""
         ]
        ]
       },
@@ -536,7 +476,7 @@
        "q": "Q: Will you take on a barn or drive shed full of decades of stuff?",
        "a": [
         [
-         "A: Gladly — barn cleanouts are some of the most satisfying work we do around Scugog. Old equipment, scrap metal, lumber, tires and general accumulation all go, and the scrap and metal get recycled rather than dumped."
+         "A: Gladly — barn cleanouts are some of the most satisfying work we do around Scugog. Old equipment, scrap metal, lumber, tires and general accumulation all go, and the scrap and metal get recycled where possible rather than dumped."
         ]
        ]
       }

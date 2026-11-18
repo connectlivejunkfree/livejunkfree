@@ -24,11 +24,6 @@
      "text": "Your Trusted Local Wall Unit Removal Experts"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": ""
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -162,19 +157,13 @@
         "Live Junk Free"
        ]
       },
-      ", our specialized removal service takes all the stress away, delivering a smooth, worry-free experience from start to finish."
+      "Careful Removal"
      ]
     },
     {
      "t": "p",
      "c": [
       "We understand how urgent your renovation needs are, whether you’re creating an open-concept living space, remodeling your basement, or upgrading your kitchen. That’s why we offer flexible same-day and next-day appointments to meet your tight project timelines, subject to scheduling."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:structuralDemolition}}."
      ]
     },
     {
@@ -224,32 +213,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "{{fact:competitorComparison}}"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": ""
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Careful Removal"
-    },
-    {
-     "t": "h",
-     "l": 3,
      "text": "Floor/ceiling protection systems and insured workmanship"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": ""
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "{{fact:recycling}}"
     },
     {
      "t": "h",
@@ -259,18 +223,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": ""
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Same-Day Availability"
-    },
-    {
-     "t": "p",
-     "c": [
-      ""
-     ]
+     "text": "Same-Day Availability when available"
     }
    ]
   },
@@ -280,35 +233,6 @@
      "t": "h",
      "l": 2,
      "text": "Wall Unit Removal Made Easy – Just 4 Steps"
-    },
-    {
-     "t": "cards",
-     "items": [
-      {
-       "title": "Send Us Details",
-       "text": [
-        "Text or upload photos of your wall, and we will assess structural needs and respond with a free estimate in minutes."
-       ]
-      },
-      {
-       "title": "Get Your Quote",
-       "text": [
-        "{{fact:structuralDemolition}}."
-       ]
-      },
-      {
-       "title": "Choose Your Time",
-       "text": [
-        ""
-       ]
-      },
-      {
-       "title": "We Handle It All",
-       "text": [
-        "{{fact:structuralDemolition}}."
-       ]
-      }
-     ]
     },
     {
      "t": "h",
@@ -326,19 +250,19 @@
      "images": [
       {
        "src": "/images/uploads/2026/07/wall-unit-removal-services-before1-1024x765.jpeg",
-       "alt": "wall-unit-removal-services before1"
+       "alt": "Wall Unit Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/wall-unit-removal-services-after1-1024x765.jpeg",
-       "alt": "wall-unit-removal-services after1"
+       "alt": "Wall Unit Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/wall-unit-removal-services-before2-1024x765.jpeg",
-       "alt": "wall-unit-removal-services before2"
+       "alt": "Wall Unit Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/wall-unit-removal-services-after2-1024x765.jpeg",
-       "alt": "wall-unit-removal-services after2"
+       "alt": "Wall Unit Removal: Live Junk Free job photo"
       }
      ]
     }
@@ -406,7 +330,7 @@
        "q": "Can I schedule same-day pickup?",
        "a": [
         [
-         "Same-day pickups are available based on scheduling. Contact us for availability."
+         "Same-day pickups may be available based on scheduling. Contact us for availability."
         ]
        ]
       },

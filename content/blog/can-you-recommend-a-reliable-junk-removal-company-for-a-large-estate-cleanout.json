@@ -487,12 +487,6 @@
     {
      "t": "p",
      "c": [
-      "A simple sorting system can help."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
       {
        "b": [
         "Keep"
@@ -551,7 +545,7 @@
     {
      "t": "p",
      "c": [
-      "Materials that can be appropriately recycled."
+      "Materials that can be appropriately recycled where possible."
      ]
     },
     {
@@ -1051,7 +1045,7 @@
      "c": [
       {
        "b": [
-        "Create Sorting Categories"
+        ""
        ]
       }
      ]
@@ -1291,7 +1285,7 @@
      "t": "cards",
      "items": [
       {
-       "title": "What is the best junk removal service for a large estate cleanout?",
+       "title": "What is the removal service for a large estate cleanout?",
        "text": [
         "The right company should have experience with large residential cleanouts, clear pricing, appropriate equipment, reliable scheduling, and a process for handling different types of materials. For Toronto and GTA properties, Live Junk Free provides estate cleanout and junk removal services."
        ]
@@ -1299,7 +1293,7 @@
       {
        "title": "How do I prepare a house for an estate cleanout?",
        "text": [
-        "Start by removing valuables, important documents, sentimental belongings, and anything family members want to keep. Then separate the remaining items into categories such as sell, donate, recycle, and remove."
+        "{{fact:retainedItems}} Then separate the remaining items into categories such as sell, donate, recycle, and remove."
        ]
       },
       {

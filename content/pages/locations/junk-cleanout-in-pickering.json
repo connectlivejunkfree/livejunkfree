@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "We are Pickering’s trusted junk cleanout team — locally operated, fully insured and built to clear entire homes, garages, basements, estates and commercial spaces fast. We come to your Pickering property, walk through every room with you, hand you a completely free on-site estimate before touching a single item, and if you’re ready to go, your entire cleanout is completed the same day. No delays, no drawn-out booking process, no runaround."
+      "We are Pickering’s trusted junk cleanout team — locally operated, fully insured and built to clear entire homes, garages, basements, estates and commercial spaces fast. We come to your Pickering property, walk through every room with you, hand you a completely free on-site estimate before touching a single item, and if you’re ready to go, your entire cleanout is completed the same day, subject to availability. No delays, no drawn-out booking process, no runaround."
      ]
     },
     {
@@ -97,29 +97,9 @@
      "text": "Live Junk Free is a locally owned, fully insured Pickering cleanout team that has built its reputation across Durham Region one property at a time — with Google reviews from real customers, and a crew that treats every cleanout, from a single garage to an entire estate, with the same care and professionalism."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "You pay for the space your junk takes up",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Our cleanout pricing is calculated based on how much of our truck your items fill. Quarter load, half load, full load — each has a clear, fair price. A small garage cleanout is priced small. A full house cleanout is priced accurately. The clock never runs. Your Pickering neighbourhood never affects your rate."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "We walk the property and quote in person — every time",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -127,59 +107,19 @@
      "text": "No phone estimates based on your description. Cleanouts are impossible to price accurately over the phone — so we physically visit your Pickering property, walk through every room, basement, garage or unit with you, and calculate your quote based on what we actually see. That's the only honest way to price a cleanout — and it's the only way we do it."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One flat number — labour, truck, fuel, disposal",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Nothing is added afterward, no matter how long the cleanout takes."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Estates and sensitive cleanouts handled with genuine care",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Estate cleanouts, senior downsizing and hoarding situations aren't just hauling jobs — they're emotional ones. Our Pickering crew works patiently, discreetly and without judgment, setting aside valuables, documents and keepsakes as we go, and donating usable items whenever possible."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "You approve the price before we start — guaranteed",
-       "text": []
-      }
-     ]
+     "text": "Estate cleanouts, senior downsizing and hoarding situations aren't just hauling jobs — they're emotional ones."
     },
     {
      "t": "h",
      "l": 3,
      "text": "Once you've reviewed the quote, the decision is entirely yours. Zero pressure. If you approve it, we start immediately. If you don't, we leave with no charge. And once you've approved it, that number never changes — regardless of what we uncover during the cleanout."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -246,15 +186,15 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The reason most people in Pickering put off a cleanout isn't that they don't want the space back — it's that they expect the process to be overwhelming. Weeks of sorting. Vague pricing. Multiple trips. Our entire same-day junk cleanout when available process in Pickering, Ontario is built to prove that wrong. Here's how simple it actually is — 4 steps, start to finish:"
+     "text": "The reason most people in Pickering put off a cleanout isn't that they don't want the space back — it's that they expect the process to be overwhelming. Vague pricing. Multiple trips. Our entire same-day junk cleanout when available process in Pickering, Ontario is built to prove that wrong. Here's how simple it actually is — 4 steps, start to finish:"
     },
     {
      "t": "cards",
      "items": [
       {
-       "title": "1. Book Quickly, Get Confirmed Instantly",
+       "title": "1. Book Quickly, Get Confirmed",
        "text": [
-        "Call +1 647 922 5865 or use our online booking form to schedule your Pickering cleanout in minutes. We offer same-day and next-day appointments with a 30-minute arrival notice, so you're never left waiting around, subject to scheduling."
+        "Call +1 647 922 5865 or use our online booking form to schedule your Pickering cleanout in minutes. {{fact:scheduling}}"
        ]
       },
       {
@@ -264,7 +204,7 @@
        ]
       },
       {
-       "title": "3. We Handle All the Sorting and Heavy Lifting",
+       "title": "3. We Handle All the Heavy Lifting",
        "text": [
         "Once approved, we clear everything safely and efficiently — furniture, appliances, boxes, clutter, debris and more. You don't need to sort, lift, move or prepare anything beforehand. For estate and hoarding cleanouts, we set aside anything of value or sentiment as we work."
        ]
@@ -272,7 +212,7 @@
       {
        "title": "4. Clean-Up & Responsible Disposal",
        "text": [
-        "After the cleanout, we sweep up and leave every space broom-clean and ready to use, list, rent or sell. We prioritize donations and recycling whenever possible to keep unnecessary waste out of landfills."
+        "After the cleanout, we and leave every space broom-clean and ready to use, list, rent or sell. We prioritize donations and recycling whenever possible to keep unnecessary waste out of landfills."
        ]
       }
      ]
@@ -289,7 +229,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Pickering is one of Durham Region's most dynamic municipalities — established lakefront communities in Frenchman's Bay, mature family neighbourhoods in Dunbarton and Rougemount, thousands of new homes rising in Seaton, and a busy commercial corridor along Kingston Road and Brock Road. Every one of those properties eventually needs a cleanout — and Live Junk Free is built to handle every type, residential or commercial, with the same professional standard, transparent pricing and same-day speed every time, subject to scheduling."
+     "text": "Every one of those properties eventually needs a cleanout — and Live Junk Free is built to handle every type, residential or commercial, with the same professional standard, transparent pricing and same-day speed every time, subject to scheduling."
     },
     {
      "t": "faq",
@@ -525,7 +465,7 @@
        "q": "Q: How much does a junk cleanout cost in Pickering, Ontario?",
        "a": [
         [
-         "A: Our Pickering cleanout pricing is 100% volume-based — you pay based on how much space your items fill in our truck, not by the hour. We provide a free on-site estimate before any work begins.. — fair, flat and final."
+         "We provide a free on-site estimate before any work begins.. — fair, flat and final."
         ]
        ]
       },
@@ -533,7 +473,7 @@
        "q": "Q: Do you offer same-day cleanout services in Pickering?",
        "a": [
         [
-         "A: Yes — same-day cleanouts are available across all of Pickering including Frenchman’s Bay, Bay Ridges, Seaton, Dunbarton, Rougemount and all surrounding Durham Region communities. Call +1 647 922 5865 to confirm today’s availability."
+         "{{fact:scheduling}} Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },
@@ -541,7 +481,7 @@
        "q": "Q: Do I need to sort or pack anything before my cleanout?",
        "a": [
         [
-         "A: No — that’s the whole point of hiring us. Our crew handles all sorting, lifting, loading and disposal. For estate and hoarding cleanouts, we carefully set aside documents, valuables and keepsakes as we work, so nothing important is ever lost in the process."
+         "A: No — that’s the whole point of hiring us. Our crew handles all lifting, loading and disposal. For estate and hoarding cleanouts, we carefully set aside documents, valuables and keepsakes as we work, so nothing important is ever lost in the process."
         ]
        ]
       },

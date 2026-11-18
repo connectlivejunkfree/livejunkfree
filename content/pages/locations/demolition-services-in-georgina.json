@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Demolition Services in Georgina from Live Junk Free tear down pools, decks and sheds on the lake's own schedule — quiet-season timing where it matters, dock and shoreline surfaces protected throughout, and the exact same flat price whether the property sits on Lake Simcoe or a sideroad inland."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -111,29 +111,11 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        [
-         "A structure near the water and one on an inland sideroad cost the same to tear down and haul away. There’s no lakeside premium built into the number, ever."
-        ]
-       ]
-      },
-      {
        "n": "02",
        "title": "Free demolition quotes that account for shoreline conditions",
        "text": [
         [
-         "A crew member walks the property, notes anything near water or dockside that needs particular care, and gives one flat price before anything starts."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Seasonal scheduling when the property calls for it",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -143,15 +125,6 @@
        "text": [
         [
          "Ground near the water behaves differently than an inland lot, and demolition here accounts for that — protecting decking, shoreline surfaces and anything nearby before the first piece comes down."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "{{fact:nextAvailable}}",
-       "text": [
-        [
-         "{{fact:nextAvailable}}"
         ]
        ]
       },
@@ -262,15 +235,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get Your Free Demolition Quote",
-       "text": [
-        [
-         "The crew walks the structure and the ground around it, then gives one flat price before touching anything."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Demolition Runs Carefully Near the Water",
        "text": [
@@ -325,9 +289,6 @@
        "Above Ground Pool Demolition — frame, liner and decking torn down and hauled, older bungalow-belt installations handled with extra care"
       ],
       [
-       "Hot Tub Demolition — drained, disconnected and cut apart before removal"
-      ],
-      [
        "Jacuzzi Demolition — same process, any age of structure"
       ]
      ]
@@ -370,9 +331,6 @@
        "Garage Demolition — detached units taken down section by section"
       ],
       [
-       "Deck Demolition — wood and composite, footings addressed for an addition or rebuild"
-      ],
-      [
        "Fence Demolition — full runs or single sections"
       ],
       [
@@ -391,9 +349,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Concrete Demolition — patios, walkways and pads broken up and hauled, grading-conscious near ravine edges"
-      ],
       [
        "Flooring Demolition — old outdoor surfaces and bases removed"
       ],
@@ -673,7 +628,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {

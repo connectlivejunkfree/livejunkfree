@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Business cleanout services in Whitchurch-Stouffville from Live Junk Free are most often needed downtown near the GO station, where most of the township's genuine commercial stock actually is — with the same flat pricing extended to farm-adjacent operations tied to the agricultural trade out toward Vandorf and Gormley."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because the township’s real commercial stock is genuinely concentrated downtown near the GO station and along Main Street, while Ballantrae is almost entirely residential and the farm concessions toward Vandorf and Gormley hold houses and barns rather than standalone commercial buildings. Live Junk Free covers business cleanout wherever it’s genuinely needed, most commonly downtown, with the identical flat pricing extended to any farm-adjacent agricultural-trade operation."
+      "Because the township’s real commercial stock is genuinely concentrated downtown near the GO station and along Main Street, while Ballantrae is almost entirely residential and the farm concessions toward Vandorf and Gormley hold houses and barns rather than standalone commercial buildings. {{fact:changedScope}}."
      ]
     },
     {
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Business-Cleanout-Services-in-Whitchurch-Stouffville-from-Live-Junk-Free-rs1915rq1qoxelirnzs0u74zif5d3ng7u89ar4vur4.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Business-Cleanout-Services-in-Mississauga-rs2sk80yy99b3frrjll778pcq80udul9oo5ozaurn4.jpeg",
       "alt": "Business Cleanout Services in Whitchurch-Stouffville from Live Junk Free"
      }
     }
@@ -140,16 +140,7 @@
        "title": "Farm-adjacent business cleanout coordination for Vandorf and Gormley",
        "text": [
         [
-         "Operations tied to the agricultural trade get equipment and supplies sorted with a careful eye rather than swept into general disposal."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "One flat business cleanout price, wherever the business is",
-       "text": [
-        [
-         "The number reflects the space’s volume — never whether it’s downtown, in Ballantrae, or on a farm property."
+         "Operations tied to the agricultural trade get equipment and supplies sorted with a careful eye rather than into general disposal."
         ]
        ]
       },
@@ -159,15 +150,6 @@
        "text": [
         [
          "Retail and office turnover near the GO station gets cleared with enough lead time that the next tenant never waits."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first business cleanout sorting for fixtures and equipment",
-       "text": [
-        [
-         "Furniture, fixtures and equipment still in good condition go to donation partners or resale channels first, before anything reaches disposal."
         ]
        ]
       },
@@ -203,7 +185,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the space, and how much sorting it genuinely needs. A small downtown storefront is a modest job. A farm-adjacent operation with genuine equipment, or a larger office space, takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small downtown storefront is a modest job. A farm-adjacent operation with genuine equipment, or a larger office space, takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -215,8 +197,7 @@
     {
      "t": "checks",
      "items": [
-      "Hauling-Away",
-      "{{fact:competitorComparison}}"
+      "Hauling-Away"
      ]
     },
     {
@@ -232,12 +213,6 @@
      "t": "price",
      "label": "Whitchurch-Stouffville Business Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -284,15 +259,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual space and gives you one flat price before anything moves."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Space Gets Cleared, Efficiently",
        "text": [
@@ -306,7 +272,7 @@
        "title": "Your Space Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left and ready for whatever comes next."
         ]
        ]
       }
@@ -353,13 +319,10 @@
        "Coordination around commuter and retail traffic patterns"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Full protection of finished floors throughout"
-      ],
-      [
-       "Donation-first sorting before any recycling"
       ]
      ]
     },
@@ -378,13 +341,7 @@
        "Equipment and supplies sorted with real understanding"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Multi-structure coordination where a barn is involved"
-      ],
-      [
-       "Same flat pricing regardless of distance from downtown"
       ],
       [
        "Careful handling around active farm operations"
@@ -405,9 +362,6 @@
      "items": [
       [
        "Business cleanouts covering any commercial space outside the main corridor"
-      ],
-      [
-       "Same flat pricing as downtown or the farm-adjacent properties"
       ],
       [
        "Discreet, unhurried scheduling on request"
@@ -438,16 +392,13 @@
        "Full sort of furniture, fixtures and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -835,7 +786,7 @@
        "q": "Is business cleanout mostly a downtown service?",
        "a": [
         [
-         "Honestly, yes — most of the township’s commercial stock is concentrated near Main Street and the GO station, though any farm-adjacent business gets the same flat pricing."
+         "{{fact:changedScope}}."
         ]
        ]
       },

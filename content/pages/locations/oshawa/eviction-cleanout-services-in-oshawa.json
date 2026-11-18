@@ -80,14 +80,14 @@
     {
      "t": "p",
      "c": [
-      "Our eviction cleanout services in Oshawa cover properties throughout the city, including Downtown Oshawa, Central Oshawa, North Oshawa, Eastdale, Donevan, Lakeview, Farewell, Vanier, McLaughlin, Centennial, O’Neill, East Whitby, Taunton, Windfields, Samac, Kedron, Pinecrest, and surrounding residential areas. We also serve properties along Simcoe Street, Ritson Road, Harmony Road, Stevenson Road, Wilson Road, King Street, Adelaide Avenue, Taunton Road, and Rossland Road. Whether you’re clearing a student rental near Durham College, an apartment downtown, a family home in North Oshawa, or a larger rental property elsewhere in the city, our local team can handle the cleanout."
+      "Our eviction cleanout services in Oshawa cover properties throughout the city, including Downtown Oshawa, Central Oshawa, North Oshawa, Eastdale, Donevan, Lakeview, Farewell, Vanier, McLaughlin, Centennial, O’Neill, East Whitby, Taunton, Windfields, Samac, Kedron, Pinecrest, and surrounding residential areas. We also serve properties along Simcoe Street, Ritson Road, Harmony Road, Stevenson Road, Wilson Road, King Street, Adelaide Avenue, Taunton Road, and Rossland Road. Whether you’re clearing a student rental near Durham College, an apartment downtown, a family home in North Oshawa, or a larger rental property elsewhere in the city, our team can handle the cleanout."
      ]
     },
     {
      "t": "img",
      "image": {
       "src": "/images/uploads/elementor/thumbs/eviction-cleanout-services-rr0twsm2u8xtgkjom4gto2kqxytsdwvxwo5bvurnp0.jpeg",
-      "alt": "eviction-cleanout-services"
+      "alt": "Eviction Cleanout in Oshawa: Live Junk Free job photo"
      }
     }
    ]
@@ -148,24 +148,6 @@
        "text": [
         [
          "Unwanted items can be scattered across bedrooms, living spaces, kitchens, garages, and basements. Our Oshawa eviction cleanout services allow you to arrange one coordinated removal instead of handling multiple hauling trips yourself."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Responsible Sorting & Disposal",
-       "text": [
-        [
-         "We sort the materials we collect and look for responsible disposal options whenever possible. Furniture, metals, and electronics may be recycled, while usable goods can be donated to local organizations when appropriate."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Final Sweep After Eviction Cleanout",
-       "text": [
-        [
-         "Removing the belongings is only part of the job. After the property is cleared, our crew completes a final sweep and tidy of the areas we worked in, helping leave the space ready for inspection, repairs, renovation, listing, or its next occupant."
         ]
        ]
       }
@@ -297,7 +279,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -361,7 +343,7 @@
        "title": "We Remove It All",
        "text": [
         [
-         "Our crew arrives prepared to handle the lifting, loading, hauling, sorting, and responsible disposal. Once everything is removed, we complete a final sweep of the cleared areas."
+         "Our crew arrives prepared to handle the lifting, loading, hauling, and responsible disposal. {{fact:cleanupScope}}."
         ]
        ]
       }
@@ -1168,7 +1150,7 @@
        "q": "Can you clean out multiple rental units?",
        "a": [
         [
-         "Yes. We can handle multi-unit cleanouts and larger apartment properties."
+         "Yes. {{fact:changedScope}}."
         ]
        ]
       },

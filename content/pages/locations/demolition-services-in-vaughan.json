@@ -9,7 +9,7 @@
   "description": "Need professional demolition services in Vaughan? Live Junk Free provides safe, efficient residential and commercial demolition with fast, reliable service.",
   "canonical": "https://livejunkfree.ca/locations/demolition-services-in-vaughan/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/07/cleanout-services-in-bolton.jpeg"
+  "ogImage": "/images/uploads/2026/07/Cleanout-Services-in-Oshawa.jpeg"
  },
  "title": "Demolition Services in Vaughan",
  "h1": "Demolition Services in Vaughan from Live Junk Free",
@@ -112,7 +112,7 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat demolition price — quoted like a fixed-price contract",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Whether it’s a shed, a deck, a garage or a full above ground pool, Live Junk Free’s quote covers the entire job: breaking the structure down, hauling every piece off the property, and disposing of or recycling it responsibly. One number, confirmed on site, with no extras clause and no change orders once work starts."
@@ -124,7 +124,7 @@
        "title": "Free on-site demolition quotes for homeowners and contractors alike",
        "text": [
         [
-         "A crew member walks the property, looks at what’s coming down — size, material, access, how close it sits to anything staying — and gives you a flat price before any work starts. Structured for per-project pricing where a builder or contractor needs several structures cleared across a job."
+         "{{fact:changedScope}}. Structured for per-project pricing where a builder or contractor needs several structures cleared across a job."
         ]
        ]
       },
@@ -173,11 +173,6 @@
     {
      "t": "eyebrow",
      "text": "DEMOLITION PRICING"
-    },
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Demolition Cost in Vaughan — One Flat Price From Live Junk Free"
     },
     {
      "t": "h",
@@ -251,7 +246,7 @@
        "title": "Book Your Demolition Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available. Tell us what’s coming down and, if it’s part of a larger project, where it sits in the schedule."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available. Tell us what’s coming down and, if it’s part of a larger project, where it sits in the schedule."
         ]
        ]
       },
@@ -260,7 +255,7 @@
        "title": "Get a Free On-Site Demolition Quote",
        "text": [
         [
-         "The crew looks at the structure, checks what’s nearby and confirms the date your project needs, then gives you one flat price before touching anything. No pressure — decline and there’s no charge."
+         "{{fact:changedScope}}. No pressure — decline and there’s no charge."
         ]
        ]
       },
@@ -316,9 +311,6 @@
        "Hot Tub Demolition — shell cut apart and removed, drained and disconnected first"
       ],
       [
-       "Jacuzzi Demolition — same careful drain-disconnect-cut process, any size"
-      ],
-      [
        "Pool house and surrounding structure removal available on larger properties"
       ]
      ]
@@ -362,9 +354,6 @@
       ],
       [
        "Garage Demolition — detached garages and carports taken down and hauled"
-      ],
-      [
-       "Deck Demolition — wood and composite decks removed, footings addressed"
       ],
       [
        "Fence Demolition — full fence lines or single sections torn out and hauled"
@@ -667,7 +656,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {

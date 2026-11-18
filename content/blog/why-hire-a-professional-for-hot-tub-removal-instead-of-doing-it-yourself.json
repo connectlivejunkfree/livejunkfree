@@ -124,9 +124,6 @@
        "Plumbing connections"
       ],
       [
-       "Pumps and motors"
-      ],
-      [
        "Wooden or composite framing"
       ],
       [
@@ -135,12 +132,6 @@
       [
        "Metal components"
       ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "A hot tub may also be located in a backyard, on a deck, beside a pool, or inside a home."
      ]
     },
     {
@@ -158,12 +149,6 @@
      "t": "p",
      "c": [
       "One of the biggest challenges is the weight."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "Even after a hot tub has been drained, the shell and internal components can remain extremely heavy."
      ]
     },
     {
@@ -210,7 +195,7 @@
     {
      "t": "p",
      "c": [
-      "Without proper preparation, a DIY project can quickly turn into an injury or emergency room visit."
+      "{{fact:pickupTimes}}"
      ]
     },
     {
@@ -294,12 +279,6 @@
     {
      "t": "p",
      "c": [
-      "Dragging a heavy hot tub across these surfaces can cause scratches, dents, cracks, or structural damage."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
       "The removal route also matters."
      ]
     },
@@ -345,9 +324,6 @@
        "Cabinet panels"
       ],
       [
-       "Pumps"
-      ],
-      [
        "Motors"
       ],
       [
@@ -358,9 +334,6 @@
       ],
       [
        "Insulation"
-      ],
-      [
-       "Structural materials"
       ],
       [
        "The main shell"
@@ -585,12 +558,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Draining the tub"
-      ],
-      [
-       "Disconnecting components"
-      ],
       [
        "Finding tools"
       ],
@@ -1158,7 +1125,7 @@
       {
        "title": "Do I need to drain my hot tub before removal?",
        "text": [
-        "Not necessarily. Live Junk Free states that its team can handle draining as part of the demolition and removal process."
+        "Not necessarily. {{fact:utilityDisconnection}}"
        ]
       },
       {

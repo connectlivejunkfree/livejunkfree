@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "You know the alternative: borrow a truck, wrestle the couch down the stairs, wait in line at the transfer station, pay the tipping fee, drive home sore. Or — call us. Our fully insured Newmarket crew brings the truck, the muscle and the disposal plan to your door, quotes everything free and in person, and hauls it all away in one visit. Your Saturday stays yours, and the junk is gone by dinner."
+      "You know the alternative: borrow a truck, wrestle the couch down the stairs, wait in line at the transfer station, pay the tipping fee, drive home sore. Or — call us. Our fully insured Newmarket crew brings the truck, the muscle and the disposal plan to your door, quotes everything free and in person, and hauls it all away. Your Saturday stays yours, and the junk is gone by dinner."
      ]
     },
     {
@@ -97,29 +97,9 @@
      "text": "Six-hundred-sixty-plus five-star Google reviews don't come from one good day — they come from years of showing up on time in every corner of Newmarket, quoting numbers people can trust, and hauling everything from single mattresses in Huron Heights to triple-load garage clears in Summerhill. Locally owned, fully insured, and known around town for leaving homes tidier than we found them."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "The truck's tape measure sets your price",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "How much room your junk claims in the truck — that's the whole calculation. A loveseat is a sliver of a load and priced like one; a garage floor's worth costs more because it takes more. Nothing about time, weight, difficulty or your Newmarket street enters into it."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Real eyes on real junk before any number is spoken",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -127,59 +107,19 @@
      "text": "We've never met a phone description that matched reality — there's always one more chair, one more bin, one more \"oh, and this too.\" So the quote waits until we're standing in front of your stuff. When it comes, it's flat, free and completely optional."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Zero add-ons, zero asterisks",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "The quoted figure swallows everything: the lifting, the loading, the truck, the fuel, every disposal and recycling fee at the other end. Approve it once and it's immune to whatever the job turns out to be."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Careful in your home like guests, fast like professionals",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Sharp corners get padded, floors get runners, tight doorways get furniture dismantled instead of forced. Our movers work quickly because they've done thousands of these — never because they're cutting corners in your hallway."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "\"Let me think about it\" is a perfectly good answer",
-       "text": []
-      }
-     ]
+     "text": "Sharp corners get padded, floors get runners, tight doorways get furniture dismantled instead of forced."
     },
     {
      "t": "h",
      "l": 3,
      "text": "The quote costs nothing and expires never. Say yes and we start immediately; say no and we leave politely; say maybe and call us next month. There's no deposit at risk and no pushy follow-up coming."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Local pricing without the franchise markup",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -260,7 +200,7 @@
       {
        "title": "2. Show and Tell",
        "text": [
-        "Lead the crew around — basement, garage, backyard, wherever. Everything you point at goes into one flat, quote, handed over on the spot with no strings."
+        "Lead the crew around — basement, garage, backyard, wherever. {{fact:changedScope}}."
        ]
       },
       {
@@ -270,7 +210,7 @@
        ]
       },
       {
-       "title": "4. Swept Up, Hauled Off, Sorted Right",
+       "title": "4. Up, Hauled Off, Sorted Right",
        "text": [
         "We tidy the cleared space before leaving, then split the load at our end — donation centres get the usable, recyclers get the metals and electronics, and the landfill gets only the leftovers nothing else will take."
        ]
@@ -336,7 +276,7 @@
          "Dishwashers, microwaves and range hoods"
         ],
         [
-         "Drained water heaters and softeners"
+         ""
         ],
         [
          "Portable and window AC units, dehumidifiers"
@@ -362,7 +302,7 @@
          "Yards — play sets, trampolines, lumber, branches"
         ],
         [
-         "Post-move sweeps of everything left behind"
+         ""
         ]
        ]
       },
@@ -370,7 +310,7 @@
        "q": "Oversized & Awkward Items in Newmarket",
        "a": [
         [
-         "Hot tubs — drained, dismantled, gone"
+         ""
         ],
         [
          "Pianos, organs and pool tables"
@@ -388,7 +328,7 @@
          "BBQs, lawnmowers, snowblowers and scrap metal"
         ],
         [
-         "Bed-bug-affected pieces — sealed on site, removed without fuss"
+         ""
         ]
        ]
       }
@@ -527,7 +467,7 @@
        "q": "Q: Is same-day pickup actually realistic?",
        "a": [
         [
-         "A: Most days, yes. Ring +1 647 922 5865 and you’ll get a truthful answer about today, not a “we’ll see.”"
+         "{{fact:scheduling}} Ring +1 647 922 5865 and you’ll get a truthful answer about today, not a “we’ll see.”"
         ]
        ]
       },
@@ -551,7 +491,7 @@
        "q": "Q: Can you take a mixed pile — furniture, an old fridge, some scrap and yard stuff together?",
        "a": [
         [
-         "A: That’s the best-case booking. Mixed loads all travel together and get priced by combined volume, so clearing five categories of junk in one visit costs less than five separate pickups ever would."
+         "A: That’s the best-case booking. Mixed loads all travel together and get priced by combined volume, so clearing five categories of junk costs less than five separate pickups ever would."
         ]
        ]
       }

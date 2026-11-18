@@ -158,15 +158,6 @@
        ]
       },
       {
-       "n": "05",
-       "title": "",
-       "text": [
-        [
-         ""
-        ]
-       ]
-      },
-      {
        "n": "06",
        "title": "Independent retail cleanout pricing",
        "text": [
@@ -277,14 +268,13 @@
     {
      "t": "p",
      "c": [
-      "Three factors never enter the calculation. Urgency — a retail cleanout booked for tomorrow costs the same as one booked next month. Job size — a single small unit is priced on volume exactly as a multi-unit clearance is, with no minimum applied. We confirm your figure in writing at the walkthrough and hold it through to completion."
+      "Three factors never enter the calculation. Urgency — a retail cleanout booked for tomorrow costs the same as one booked next month. {{fact:changedScope}}. We confirm your figure in writing at the walkthrough and hold it through to completion."
      ]
     },
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -304,7 +294,7 @@
     {
      "t": "p",
      "c": [
-      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -346,15 +336,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Free walkthrough and one flat retail cleanout price",
-       "text": [
-        [
-         "Our crew assesses the shop floor, back rooms, cellar, upper storage and any rural outbuildings in scope. We provide one flat price before any work begins and hold that figure through to completion."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Retail cleanout scheduled to your street's access rules",
        "text": [
@@ -365,10 +346,10 @@
       },
       {
        "n": "04",
-       "title": "Fixtures removed, unit swept",
+       "title": "Fixtures removed, unit",
        "text": [
         [
-         "The space is left broom-swept and empty, with every original finish as we found it."
+         "The space is left and empty, with every original finish as we found it."
         ]
        ]
       }
@@ -473,7 +454,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than retail cleanout services across Port Perry. Our commercial junk removal handles Queen Street shops and 7A plaza units, offices, cafés and restaurants, marina and boatyard storage, workshops, garden centres, farm gate stores and the agricultural outbuildings throughout Scugog Township, with same-day attendance wherever access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from village homes, waterfront cottages and rural acreage alike. Our demolition services cover interior strip-outs, tenant improvement removal, partitions, dropped ceilings and built-in fixtures, along with sheds, drive sheds, barns, boathouses, docks, garages, decks, fences, gazebos, above-ground pools and hot tubs. Where a property requires complete clearing, we provide same-day office cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than retail cleanout services across Port Perry. Our commercial junk removal handles Queen Street shops and 7A plaza units, offices, cafés and restaurants, marina and boatyard storage, workshops, garden centres, farm gate stores and the agricultural outbuildings throughout Scugog Township, with same-day attendance wherever access allows, subject to availability. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from village homes, waterfront cottages and rural acreage alike. Our demolition services cover interior strip-outs, tenant improvement removal, partitions, dropped ceilings and built-in fixtures, along with sheds, drive sheds, barns, boathouses, docks, garages, decks, fences, gazebos, above-ground pools and hot tubs. Where a property requires complete clearing, we provide same-day office cleanout when available, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -554,7 +535,7 @@
      "t": "ul",
      "items": [
       [
-       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, and signage are removed after a tenant vacates, while multiple units can be handled under one quote and consolidated invoice. Documentation is prepared where a deposit or restoration claim is in dispute, and same-day retail cleanout services in Port Perry are available where access permits."
+       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, and signage are removed after a tenant vacates, while multiple units can be handled under one quote and consolidated invoice. Documentation is prepared where a deposit or restoration claim is in dispute, and same-day retail cleanout services when available in Port Perry are available where access permits."
       ]
      ]
     }

@@ -6,7 +6,7 @@
  "template": "BlogPost",
  "seo": {
   "title": "5 Simple Steps to a Clutter-Free Garage Cleanout",
-  "description": "Discover five simple and effective steps to achieve a clutter-free garage cleanout with organization tips, sorting advice, and removal strategies.",
+  "description": "{{fact:cleanupScope}}.",
   "canonical": "https://livejunkfree.ca/blog/steps-to-clutter-free-garage-cleanout/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2025/12/5-Simple-Steps-to-a-Clutter-Free-Garage-Cleanout.jpeg"
@@ -84,14 +84,8 @@
        "Supply Station: Garbage bags, boxes, markers, labels, work gloves, and a dust mask."
       ],
       [
-       "Sorting Zones in Your Driveway: Designate four clear areas with signs or even just spaces on the pavement for: KEEP, DONATE, RECYCLE, and DISCARD."
+       "{{fact:cleanupScope}}."
       ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "This preparation is the foundation of an efficient, controlled garage cleanout process."
      ]
     }
    ]
@@ -122,9 +116,6 @@
        "Work methodically from one side of the garage to the other."
       ],
       [
-       "Move every single item into your driveway, sorting zones."
-      ],
-      [
        "As you move items, do a preliminary sort. A broken tool? Discard pile. An old but working bike? Donate pile."
       ]
      ]
@@ -132,7 +123,7 @@
     {
      "t": "p",
      "c": [
-      "Apply the Sorting Rules",
+      "",
       {
        "br": 1
       },
@@ -156,7 +147,7 @@
     {
      "t": "p",
      "c": [
-      "If you answer “no” to the first and third questions, and it doesn’t hold significant value or fit your vision, it likely belongs in the Donate or Discard pile. This decisive sorting is the heart of successful garage cleanouts."
+      "If you answer “no” to the first and third questions, and it doesn’t hold significant value or fit your vision, it likely belongs in the Donate or Discard pile. {{fact:cleanupScope}}."
      ]
     }
    ]
@@ -175,17 +166,8 @@
      ]
     },
     {
-     "t": "p",
-     "c": [
-      "Thorough Cleaning Tasks"
-     ]
-    },
-    {
      "t": "ul",
      "items": [
-      [
-       "Sweep out all dust, cobwebs, and debris from corners and floors."
-      ],
       [
        "Use a shop vacuum for a deeper clean, especially in storage areas."
       ],
@@ -328,7 +310,7 @@
         "Live Junk Free"
        ]
       },
-      " provides the most value. We complete your garage cleanout project by handling the heavy lifting you’ve already done. We’ll efficiently haul away your entire Discard pile and even take your pre-sorted Donation items to our local charity partners. We recycle responsibly, ensuring as little as possible goes to landfill. This turns the hardest part of the project into the easiest, giving you a fully finished, clutter-free garage."
+      " provides the most value. We complete your garage cleanout project by handling the heavy lifting you’ve already done. We recycle responsibly, ensuring as little as possible goes to landfill. This turns the hardest part of the project into the easiest, giving you a fully finished, clutter-free garage."
      ]
     }
    ]
@@ -343,7 +325,7 @@
     {
      "t": "p",
      "c": [
-      "We specialize in being the solution for Step 5. Our service is designed for homeowners who have done the sorting and organizing and need a fast, reliable way to complete their garage cleanouts."
+      "We specialize in being the solution for Step 5. Our service is designed for homeowners who have done the organizing and need a fast, reliable way to complete their garage cleanouts."
      ]
     },
     {
@@ -359,7 +341,7 @@
        "Fast, upfront quotes based on the volume of your discard pile."
       ],
       [
-       "Quick scheduling across the GTA, including next-day service."
+       "Quick scheduling across the GTA, including next-day service when available."
       ],
       [
        "A professional, insured team that handles all loading and hauling."
@@ -490,7 +472,7 @@
     {
      "t": "p",
      "c": [
-      "A clutter-free garage is achieved not by a single heroic effort, but by following a proven, five-step process for garage cleanouts. By planning, sorting ruthlessly, cleaning deeply, organizing intentionally, and disposing of responsibly, you reclaim a vital part of your home. Remember, the final hurdle, removing the accumulated junk, doesn’t have to be your burden. {{fact:scheduling}} Ready to start? Follow the steps, and when you get to the final pile, contact Live Junk Free to finish the job."
+      "A clutter-free garage is achieved not by a single heroic effort, but by following a proven, five-step process for garage cleanouts. {{fact:cleanupScope}}. Remember, the final hurdle, removing the accumulated junk, doesn’t have to be your burden. {{fact:scheduling}} Ready to start? Follow the steps, and when you get to the final pile, contact Live Junk Free to finish the job."
      ]
     }
    ]

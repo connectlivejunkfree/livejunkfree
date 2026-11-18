@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Business-Cleanout-Services-in-Etobicoke-from-Live-Junk-Free-rs1jwkq9z4ie0yyv2oo8mxc0pnwte8ccnk1826j1ps.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Business-Cleanout-Services-in-Mississauga-rs2sk80yy99b3frrjll778pcq80udul9oo5ozaurn4.jpeg",
       "alt": "Business Cleanout Services in Etobicoke from Live Junk Free"
      }
     }
@@ -146,7 +146,7 @@
       },
       {
        "n": "03",
-       "title": "One flat business cleanout price, whatever the building's era",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Size and volume set the number, confirmed on site — it makes no difference whether the space is decades old or recently built."
@@ -159,15 +159,6 @@
        "text": [
         [
          "Client materials and documentation get the same discretion given to any confidential situation, handled carefully throughout."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first business cleanout sorting for fixtures and equipment",
-       "text": [
-        [
-         "Furniture, fixtures and equipment still in good condition go to donation partners or resale channels first, before anything reaches disposal."
         ]
        ]
       },
@@ -203,7 +194,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the space, and how much sorting it genuinely needs. A small storefront is a modest job. A larger established retail space with decades of accumulated fixtures takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small storefront is a modest job. A larger established retail space with decades of accumulated fixtures takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -215,8 +206,7 @@
     {
      "t": "checks",
      "items": [
-      "Hauling-Away",
-      "{{fact:competitorComparison}}"
+      "Hauling-Away"
      ]
     },
     {
@@ -232,12 +222,6 @@
      "t": "price",
      "label": "Etobicoke Business Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -288,7 +272,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual space and gives you one flat price before anything moves, whatever the building’s age or size."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -306,7 +290,7 @@
        "title": "Your Space Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left and ready for whatever comes next."
         ]
        ]
       }
@@ -353,13 +337,13 @@
        "Coordination with your landlord's timeline"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
        "Full room or property cleanouts alongside the storefront, on request"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     },
@@ -379,9 +363,6 @@
       ],
       [
        "Common-area and hallway protection throughout"
-      ],
-      [
-       "Same flat pricing as any other business cleanout"
       ],
       [
        "Move-out timing coordinated with concierge and management"
@@ -438,16 +419,13 @@
        "Full sort of furniture, fixtures and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -872,14 +850,6 @@
        ]
       },
       {
-       "q": "Do you charge extra for a space that's completely packed?",
-       "a": [
-        [
-         "The price reflects the actual volume and sorting required, not a flat surcharge."
-        ]
-       ]
-      },
-      {
        "q": "What happens if we find something valuable while sorting?",
        "a": [
         [
@@ -968,7 +938,7 @@
          "10. Does the crew sort, lift, and load the items for removal?"
         ],
         [
-         "We handle the physical lifting and loading of items included in the cleanout. You should separate anything that needs to stay before our crew begins, while sorting requirements can be discussed based on the project."
+         "We handle the physical lifting and loading of items included in the cleanout. {{fact:cleanupScope}}."
         ],
         [
          "11. Can you take away old office desks and work tables?"
@@ -1112,7 +1082,7 @@
          "34. Can you handle a commercial cleanout with a short deadline?"
         ],
         [
-         "We can accommodate urgent requests when scheduling permits. If you have a lease, move-out, possession, or renovation deadline, tell us when contacting us so we can discuss available options."
+         "{{fact:permits}} If you have a lease, move-out, possession, or renovation deadline, tell us when contacting us so we can discuss available options."
         ],
         [
          "35. What should I do before the cleanout crew arrives?"
@@ -1127,7 +1097,7 @@
          "No. Our crew handles the lifting and loading from the areas included in the service. Clear access paths can make the removal process easier and more efficient."
         ],
         [
-         "37. Can unwanted business items be donated or recycled?"
+         "37. Can unwanted business items be donated or recycled where possible?"
         ],
         [
          "Yes, when practical. Depending on the item’s condition and material, suitable items may have donation, reuse, or recycling options instead of being treated as regular waste."

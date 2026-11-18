@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/07/microwave-removal-services_before.jfif_202607141959.jpeg"
  },
  "title": "Microwave Removal Services",
- "h1": "Locally Trusted – 5-Star Rated Microwave Removal Service!",
+ "h1": "Microwave Removal Service!",
  "published": "2026-07-07T05:44:01",
  "modified": "2026-07-23T05:53:46",
  "sections": [
@@ -21,12 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Locally Trusted – 5-Star Rated Microwave Removal Service!"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in town."
+     "text": "Microwave Removal Service!"
     },
     {
      "t": "ctas",
@@ -150,13 +145,13 @@
     {
      "t": "p",
      "c": [
-      "Removing an old microwave may appear simple, but it often involves more challenges than most homeowners realize, which is why our professional removal team specializes in handling every aspect of the process. When you choose Live Junk Free for same day microwave removal, you’ll enjoy a completely hassle-free experience from start to finish, with our team managing all the details from disconnection to final cleanup."
+      "Removing an old microwave may appear simple, but it often involves more challenges than most homeowners realize, which is why our professional removal team specializes in handling every aspect of the process. {{fact:utilityDisconnection}}"
      ]
     },
     {
      "t": "p",
      "c": [
-      "We understand microwave removal frequently needs to happen quickly – whether you’re upgrading to a smart model, renovating your kitchen, or simply tired of that outdated unit taking up valuable counter or cabinet space. That’s why we offer same-day and next-day removal services whenever possible, helping you reclaim your kitchen space without unnecessary delays."
+      "We understand microwave removal frequently needs to happen quickly – whether you’re upgrading to a smart model, renovating your kitchen, or simply tired of that outdated unit taking up valuable counter or cabinet space. That’s why we offer same-day and next-day removal services when available whenever possible, helping you reclaim your kitchen space without unnecessary delays."
      ]
     },
     {
@@ -174,9 +169,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Safe disconnection and removal of all microwave types"
-      ],
       [
        "Professional handling of mounted or hard-to-reach units"
       ],
@@ -212,17 +204,12 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We offer same-day, next-day, and weekend appointments to fit your busy lifestyle when you need service most."
+     "text": "We offer same-day, next-day, and weekend appointments to fit your busy lifestyle when you need service most, subject to scheduling."
     },
     {
      "t": "h",
      "l": 3,
      "text": "Transparent Pricing"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Your quoted price includes everything: disconnection, removal, recycling fees, and full cleanup – no unexpected charges ever."
     },
     {
      "t": "h",
@@ -238,11 +225,6 @@
      "t": "h",
      "l": 3,
      "text": "Environmentally Responsible Processing"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "{{fact:recycling}}"
     },
     {
      "t": "h",
@@ -285,7 +267,7 @@
        "We professionally remove microwaves from any installation, apartment kitchens, tricky over-the-range setups, built-in cabinetry, and even awkward garage or basement locations. Our experienced team carefully extracts your microwave without scratching countertops, damaging cabinets, or marking walls."
       ],
       [
-       "From bulky commercial microwaves to compact countertop models, we handle them all with expert care. We manage all the challenging work, safe electrical disconnection, careful removal of mounting hardware, grease cleanup, and environmentally responsible disposal – so you avoid any risk of injury or property damage. When we’re done, your kitchen space will be cleaner and more functional than before we arrived."
+       "From bulky commercial microwaves to compact countertop models, we handle them all with expert care. {{fact:utilityDisconnection}} When we’re done, your kitchen space will be cleaner and more functional than before we arrived."
       ]
      ]
     },
@@ -305,9 +287,6 @@
      "items": [
       [
        "Complete e-waste recycling of all electronic components"
-      ],
-      [
-       "Proper sorting to minimize landfill contribution"
       ],
       [
        "Safe disposal of hazardous materials and grease"
@@ -349,7 +328,7 @@
        "{{fact:freeOnsiteEstimates}}"
       ],
       [
-       "Discounted rates for multiple appliance removals"
+       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -405,18 +384,6 @@
      "t": "cards",
      "items": [
       {
-       "title": "Send Us Details",
-       "text": [
-        "{{fact:freeOnsiteEstimates}}"
-       ]
-      },
-      {
-       "title": "Get Your Price",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
-      {
        "title": "Choose Your Time",
        "text": [
         "Select same-day or next-day service when available that works for you - we come directly to your home or office."
@@ -450,7 +417,7 @@
       },
       {
        "src": "/images/uploads/2026/07/microwave-removal-services_before.jfif_202607142000-1024x765.jpeg",
-       "alt": "microwave removal services after"
+       "alt": "microwave removal services before"
       }
      ]
     }
@@ -502,7 +469,7 @@
        "q": "Can I schedule a same-day pickup?",
        "a": [
         [
-         "Yes! Same-day service is available when booked by noon. Next-day appointments are also easy to schedule for your convenience throughout the week. "
+         "Yes! Same-day service may be available when booked by noon. Next-day appointments when available are also easy to schedule for your convenience throughout the week. "
         ]
        ]
       }

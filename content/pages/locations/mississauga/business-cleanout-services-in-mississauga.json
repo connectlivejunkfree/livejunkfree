@@ -9,7 +9,7 @@
   "description": "Simplify your workspace with Business Cleanout Services in Mississauga from Live Junk Free. Efficient removal for offices, stores, and more.",
   "canonical": "https://livejunkfree.ca/locations/mississauga/business-cleanout-services-in-mississauga/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Business-Cleanout-Services-in-Uxbridge.jpg"
+  "ogImage": "/images/uploads/2026/08/Business-Cleanout-Services-in-Toronto.jpg"
  },
  "title": "Business Cleanout Services in Mississauga",
  "h1": "Business Cleanout Services in Mississauga from Live Junk Free",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because a city with this much office tower and business park density means commercial property managers are often coordinating several units in the same week, sometimes the same day. A crew that gives a vague “sometime today” turns a tight schedule into a waiting game. Live Junk Free gives a real window at the walkthrough and holds it, the same way it does for every other service across the city."
+      "Because a city with this much office tower and business park density means commercial property managers are often coordinating several units in the same week, sometimes the same day, subject to availability. A crew that gives a vague “sometime today” turns a tight schedule into a waiting game. Live Junk Free gives a real window at the walkthrough and holds it, the same way it does for every other service across the city."
      ]
     },
     {
@@ -154,15 +154,6 @@
        ]
       },
       {
-       "n": "04",
-       "title": "One flat business cleanout price, forecastable to the dollar",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
        "n": "05",
        "title": "Business park and Airport Corporate Centre business cleanout coordination",
        "text": [
@@ -203,7 +194,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the space, and how much sorting it genuinely needs. A small office or retail unit is a modest job. A larger corporate suite or warehouse space packed with years of equipment takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small office or retail unit is a modest job. A larger corporate suite or warehouse space packed with years of equipment takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -215,8 +206,7 @@
     {
      "t": "checks",
      "items": [
-      "Hauling-Away",
-      "{{fact:competitorComparison}}"
+      "Hauling-Away"
      ]
     },
     {
@@ -236,7 +226,7 @@
     {
      "t": "p",
      "c": [
-      "Every business cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every business cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -278,15 +268,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote — Window Committed",
-       "text": [
-        [
-         "The crew looks at the actual space and gives you one flat price alongside a committed arrival window."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Space Gets Cleared, on Schedule",
        "text": [
@@ -300,7 +281,7 @@
        "title": "Your Space Is Ready, Exactly When Promised",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and ready — on schedule, not sometime after."
+         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left and ready — on schedule, not sometime after."
         ]
        ]
       }
@@ -345,9 +326,6 @@
       ],
       [
        "Move-out timing coordinated with concierge and management"
-      ],
-      [
-       "Same flat pricing as any other business cleanout"
       ]
      ]
     },
@@ -372,9 +350,6 @@
        "Scheduled around your move dates"
       ],
       [
-       "Same flat pricing regardless of who's on title"
-      ],
-      [
        "Damage or abandonment documentation available on request"
       ]
      ]
@@ -395,16 +370,10 @@
        "Business cleanouts for warehouse and light-industrial units across the business park corridor"
       ],
       [
-       "Larger-volume equipment and racking removal"
-      ],
-      [
        "Loading dock access and scheduling coordinated in advance"
       ],
       [
        "Committed arrival windows for every visit"
-      ],
-      [
-       "Same flat pricing regardless of square footage assumptions"
       ],
       [
        "Documentation available where needed"
@@ -426,16 +395,13 @@
        "Full sort of furniture, fixtures and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }

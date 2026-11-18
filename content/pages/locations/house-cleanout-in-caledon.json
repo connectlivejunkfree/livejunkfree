@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "House Cleanout Services in Caledon | Live Junk Free",
-  "description": "Caledon’s top choice for house cleanouts. Live Junk Free offers same-day estate cleanouts, garage and attic cleanouts, and appliance haul-away, subject to scheduling. Book now!",
+  "description": "Live Junk Free offers same-day estate cleanouts, garage and attic cleanouts, and appliance haul-away, subject to scheduling. Book now!",
   "canonical": "https://livejunkfree.ca/locations/house-cleanout-in-caledon/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "In Caledon, a house cleanout comes with company: the drive shed, the barn loft, the workshop, the garden shed, sometimes a bunkie by the pond — each holding its own decades of accumulation. City crews quote the house and act surprised by the rest. We quote the property. One free walkthrough covers every building on it, one flat figure covers the entire clear, and our fully insured crew works until the last structure is empty and swept — no matter how long the laneway or how full the loft."
+      "In Caledon, a house cleanout comes with company: the drive shed, the barn loft, the workshop, the garden shed, sometimes a bunkie by the pond — each holding its own decades of accumulation. City crews quote the house and act surprised by the rest. We quote the property. {{fact:changedScope}}."
      ]
     },
     {
@@ -97,44 +97,14 @@
      "text": "The properties out here tell long stories: century farmhouses held by the same family since the land was cleared, horse farms near Palgrave changing hands, estate homes in the Headwaters hills, and village houses in Caledon East, Inglewood and Cheltenham. Live Junk Free has emptied all of them — Google reviews earned on properties where the job was measured in buildings, not rooms."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "The whole property, one volume-based price",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Every building's contents count toward one measure — total truck volume — and that sets the entire bill. House plus barn plus shed rides as a single quoted job, always cheaper than clearing them piecemeal."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "We walk every structure before we speak a number",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Nobody — not even the owners — knows what forty years put in the barn loft. So the quote waits until we've toured the house, the outbuildings and everything between, together with you. That free walkthrough is what makes the flat figure trustworthy."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Approved means armoured",
-       "text": []
-      }
-     ]
+     "text": "Nobody — not even the owners — knows what forty years put in the barn loft. So the quote waits until we've toured the house, the outbuildings and everything between, together with you."
     },
     {
      "t": "h",
@@ -142,44 +112,14 @@
      "text": "Crew, trucks, fuel, tipping fees, donation runs — one number holds it all, and nothing found afterward can move it. When the drive shed turns out to be double-stacked or the cellar goes back further than expected, the surprise is ours to absorb."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Farm families' history gets farm-family respect",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Country properties hold things that matter: land papers and old deeds, wartime photographs, hand tools worn smooth by two generations, the good harness nobody could throw out. We sort as we clear — the significant set aside for the family, the usable routed to donation, and only the truly finished sent to disposal."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Your timeline, not ours",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Selling in spring? Settling an estate over months? The free quote holds while you decide, requires no deposit, and the work can run as one big clear or in stages — house first, outbuildings later. Country decisions take country time, and we're built for that."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent pricing beats the franchises by",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -198,12 +138,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "One Flat Figure — House, Barn, Shed and All"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Distance never enters the math, and neither does time: the figure agreed on the porch is the figure paid when the last loft is swept."
+     "text": "Distance never enters the math, and neither does time: the figure agreed on the porch is the figure paid when the last loft is."
     },
     {
      "t": "cards",
@@ -241,7 +176,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "From Full Property to Empty and Swept — the Caledon Way"
+     "text": "From Full Property to Empty — the Caledon Way"
     },
     {
      "t": "h",
@@ -260,17 +195,17 @@
       {
        "title": "2. Tour Everything With Us",
        "text": [
-        "House, cellar, barn, shed, workshop, bunkie — the full circuit produces one flat quote for the whole property. Free to hear, free to sleep on."
+        "{{fact:changedScope}}. Free to hear, free to sleep on."
        ]
       },
       {
        "title": "3. We Clear, Building by Building",
        "text": [
-        "On your approval the crew works structure by structure: sorting as we go, setting aside valuables and family pieces, staging donations apart from scrap and disposal, and hauling everything ourselves — lofts, ladders and back fields included."
+        "{{fact:cleanupScope}}."
        ]
       },
       {
-       "title": "4. Swept, Emptied, Sent to the Right Ends",
+       "title": "4., Emptied, Sent to the Right Ends",
        "text": [
         "Every cleared space gets a broom finish, leaving the property ready to list, lease or hand over. The loads split onward: donation partners first, recyclers for metal, wood and e-waste, landfill only for the remainder."
        ]
@@ -341,7 +276,7 @@
        "q": "Estate & Transition Cleanouts in Caledon",
        "a": [
         [
-         "Estate property cleanouts — patient, documented, valuables returned to family"
+         ""
         ],
         [
          "Farm succession and downsizing clears, staged to the family’s pace"
@@ -512,7 +447,7 @@
        "q": "Q: Can the house and the outbuildings really be cleared in one job?",
        "a": [
         [
-         "A: That’s exactly how we prefer it — one visit, one crew, one price, with trucks cycling until every structure is empty. Larger properties sometimes run a second day, and if yours will, you’ll hear it straight at the walkthrough rather than at dusk on day one."
+         "{{fact:scheduling}} Larger properties sometimes run a second day, and if yours will, you’ll hear it straight at the walkthrough rather than at dusk on day one."
         ]
        ]
       },
@@ -528,7 +463,7 @@
        "q": "Q: There's family history mixed into everything. How do you protect it?",
        "a": [
         [
-         "A: By sorting, never shovelling. Deeds, photographs, tools with initials carved in the handles, anything that looks like it mattered to someone — it’s set aside and reviewed with the family before a single decision is made. On century properties we assume every box might hold something, because they often do."
+         "A: By never shovelling. Deeds, photographs, tools with initials carved in the handles, anything that looks like it mattered to someone — it’s set aside and reviewed with the family before a single decision is made. On century properties we assume every box might hold something, because they often do."
         ]
        ]
       },
@@ -536,7 +471,7 @@
        "q": "Q: Can the cleanout happen in stages — house first, barn in the spring?",
        "a": [
         [
-         "A: Absolutely. Staged clears are normal out here, the volume pricing works identically split or whole, and the quote doesn’t expire between phases. Many Caledon families clear the house for sale first and circle back for the outbuildings after closing."
+         "A: Absolutely. {{fact:changedScope}}. Many Caledon families clear the house for sale first and circle back for the outbuildings after closing."
         ]
        ]
       }

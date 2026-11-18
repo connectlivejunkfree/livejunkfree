@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/07/Pallet-Removal-Service-after.jpeg"
  },
  "title": "Pallet Removal Services",
- "h1": "Most Trusted Pallet Removal Service in Your Area",
+ "h1": "Pallet Removal Service in Your Area",
  "published": "2026-07-10T08:23:18",
  "modified": "2026-07-23T08:06:56",
  "sections": [
@@ -21,12 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Most Trusted Pallet Removal Service in Your Area"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in town."
+     "text": "Pallet Removal Service in Your Area"
     },
     {
      "t": "ctas",
@@ -75,7 +70,7 @@
     {
      "t": "p",
      "c": [
-      "We prioritize environmentally responsible disposal, ensuring all wood pallets are properly recycled at recycling facilities. Our team takes care to protect your property during removal and leaves your space broom-clean when finished."
+      "We prioritize environmentally responsible disposal, ensuring all wood pallets are properly recycled where possible at recycling facilities. Our team takes care to protect your property during removal and leaves your space broom-clean when finished."
      ]
     },
     {
@@ -90,7 +85,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
+      "src": "/images/uploads/2026/08/wood-removal.webp",
       "alt": "Pallet Removal: Live Junk Free job photo",
       "width": 800,
       "height": 534
@@ -114,7 +109,7 @@
     {
      "t": "p",
      "c": [
-      "Let our professional team do the heavy lifting while you focus on your business. We provide same-day and next-day pallet removal to meet your schedule, with evening and weekend availability for commercial clients."
+      "Let our professional team do the heavy lifting while you focus on your business. We provide same-day and next-day pallet removal to meet your schedule, with evening and weekend availability for commercial clients, subject to scheduling."
      ]
     },
     {
@@ -144,7 +139,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Pallet Removal Available"
+     "text": "Same-Day Pallet Removal may be available"
     },
     {
      "t": "p",
@@ -206,18 +201,6 @@
        "title": "Complete Pallet Systems Removal",
        "text": [
         "We handle all components from standard pallets to specialty skids, including broken fragments and wrapping materials."
-       ]
-      },
-      {
-       "title": "{{fact:recycling}}",
-       "text": [
-        "{{fact:recycling}}"
-       ]
-      },
-      {
-       "title": "Transparent Volume Pricing",
-       "text": [
-        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -286,7 +269,7 @@
     {
      "t": "p",
      "c": [
-      "Instant Transparent Pricing:"
+      "Transparent Pricing:"
      ]
     },
     {
@@ -297,9 +280,6 @@
       ],
       [
        "Free estimates via phone/text/email"
-      ],
-      [
-       "Discounted rates for bulk removal"
       ]
      ]
     }
@@ -354,13 +334,7 @@
       {
        "title": "Send us Details",
        "text": [
-        "Text or email photos of your pallets along with your location. We'll respond within 30 minutes with a customized solution for your pallet removal needs."
-       ]
-      },
-      {
-       "title": "Get a Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
+        "Text or email photos of your pallets along with your location. We'll respond with a customized solution for your pallet removal needs."
        ]
       },
       {
@@ -372,7 +346,7 @@
       {
        "title": "We Remove It",
        "text": [
-        "Our professional team arrives on time, safely removes all pallets and related materials, and leaves your space completely clean."
+        "Careful Removal"
        ]
       }
      ]

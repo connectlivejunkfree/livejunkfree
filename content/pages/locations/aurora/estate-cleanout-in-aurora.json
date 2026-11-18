@@ -9,7 +9,7 @@
   "description": "Estate cleanout in Aurora from Live Junk Free treats a modest downsizing and a substantial inheritance exactly the same way.",
   "canonical": "https://livejunkfree.ca/locations/aurora/estate-cleanout-in-aurora/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Estate-Cleanout-in-Aurora.jpeg"
+  "ogImage": "/images/uploads/2026/08/Estate-Cleanout-in-Ajax.jpeg"
  },
  "title": "Estate Cleanout in Aurora",
  "h1": "Estate Cleanout in Aurora from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Estate-Cleanout-in-Aurora-rrqnadlm7nvi1v0r76apqqxi4o0w0gj7z99ob9z0bc.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Estate-Cleanout-in-Ajax-rrqo4ibdah4e7v959766o57fnbigr65gse404laouw.jpeg",
       "alt": "Estate Cleanout in Aurora"
      }
     }
@@ -127,7 +127,7 @@
       },
       {
        "n": "02",
-       "title": "One flat price, heritage home or larger estate",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number is set by the actual work involved — never by the size, age or apparent value of the property itself."
@@ -199,8 +199,7 @@
     {
      "t": "checks",
      "items": [
-      "Estate Cleanout + Haul-Away in One Number",
-      "{{fact:competitorComparison}}"
+      "Estate Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -216,12 +215,6 @@
      "t": "price",
      "label": "Aurora Estate Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -268,29 +261,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual space, whatever kind of property it is, and gives one flat number based purely on the scope of the job."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at the family’s pace, with anything meaningful set aside first, always."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "A Home That's Clean and Ready",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable, with follow-up visits scheduled whenever the family and executor are ready for the next one."
+         "Whatever was worked on that visit is left and usable, with follow-up visits scheduled whenever the family and executor are ready for the next one."
         ]
        ]
       }
@@ -357,9 +332,6 @@
       ],
       [
        "No requirement to explain how the situation developed"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
       ]
      ]
     }
@@ -405,9 +377,6 @@
       ],
       [
        "Timing arranged around listing dates or closing schedules where relevant"
-      ],
-      [
-       "Same flat pricing whether or not a deadline is involved"
       ]
      ]
     }

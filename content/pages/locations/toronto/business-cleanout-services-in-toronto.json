@@ -137,10 +137,10 @@
       },
       {
        "n": "02",
-       "title": "One flat business cleanout price, whatever the access point",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "The number is set by the volume in the space and the sorting it needs — never by whether the truck loads from a back alley, a loading dock, or street parking."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -159,15 +159,6 @@
        "text": [
         [
          "Where there’s no dedicated loading zone, the crew plans around street parking and timing restrictions rather than treating it as a surprise."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first business cleanout sorting for fixtures and equipment",
-       "text": [
-        [
-         "Furniture, fixtures and equipment still in good condition go to donation partners or resale channels first, before anything reaches disposal."
         ]
        ]
       },
@@ -209,7 +200,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -230,7 +220,7 @@
     {
      "t": "p",
      "c": [
-      "Every business cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every business cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -276,7 +266,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew walks the actual route — back alley, loading dock or street access — and gives you one flat price before anything moves."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -294,7 +284,7 @@
        "title": "Your Space Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left and ready for whatever comes next."
         ]
        ]
       }

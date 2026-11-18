@@ -9,7 +9,7 @@
   "description": "Learn why proper mattress disposal matters for your health and the planet. Live Junk Free provides eco-friendly removal and recycling. Schedule pickup today.",
   "canonical": "https://livejunkfree.ca/blog/mattress-disposal-why-proper-removal-matters-for-your-health-and-the-environment/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2025/11/Mattress-Disposal-Why-Proper-Removal-Matters-for-Your-Health-and-the-Environment.jpeg"
+  "ogImage": "/images/uploads/2025/10/How-Can-I-Tell-If-My-Old-Mattress-Needs-to-Be-Replaced.jpeg"
  },
  "title": "Mattress Disposal: Why Proper Removal Matters for Your Health and the Environment",
  "h1": "Mattress Disposal: Why Proper Removal Matters for Your Health and the Environment",
@@ -20,7 +20,7 @@
   "Blog"
  ],
  "featuredImage": {
-  "src": "/images/uploads/2025/11/Mattress-Disposal-Why-Proper-Removal-Matters-for-Your-Health-and-the-Environment.jpeg",
+  "src": "/images/uploads/2025/10/How-Can-I-Tell-If-My-Old-Mattress-Needs-to-Be-Replaced.jpeg",
   "alt": "Mattress Disposal: Why Proper Removal Matters for Your Health and the Environment"
  },
  "sections": [
@@ -78,12 +78,6 @@
      ]
     },
     {
-     "t": "p",
-     "c": [
-      "Structural Dangers:"
-     ]
-    },
-    {
      "t": "ul",
      "items": [
       [
@@ -91,9 +85,6 @@
       ],
       [
        "Sharp Edges: Worn wooden frames can splinter and cause injury"
-      ],
-      [
-       "Unstable Foundations: Weak frames can collapse during movement, creating crushing hazards"
       ]
      ]
     }
@@ -126,9 +117,6 @@
       ],
       [
        "Decomposition Time: They can take decades to break down due to their mixed material composition"
-      ],
-      [
-       "Spring Resistance: Metal springs can damage landfill equipment and compaction machinery"
       ],
       [
        "Chemical Leaching: Flame retardants and other treatments can potentially seep into soil and groundwater"
@@ -186,7 +174,7 @@
        "Assembly Methods: Most are held together with strong adhesives and complex stitching"
       ],
       [
-       "Size and Bulk: Even compressed, mattresses are awkward to transport in standard vehicles"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Weight Considerations: Queen and king mattresses can weigh over 100 pounds"
@@ -207,12 +195,6 @@
       ],
       [
        "Hazardous Components: Some older mattresses contain materials now classified as hazardous"
-      ],
-      [
-       "Transportation Rules: Commercial vehicles may require special permits for mattress transport"
-      ],
-      [
-       "Municipal Guidelines: Collection programs often have specific preparation requirements"
       ]
      ]
     }
@@ -244,7 +226,7 @@
        "Metal Recycling: Steel springs are highly recyclable and valuable to scrap metal processors"
       ],
       [
-       "Foam Repurposing: Clean foam can be shredded for carpet padding or industrial uses"
+       "{{fact:propertyProtection}}"
       ],
       [
        "Wood Reuse: Frame wood can be processed into mulch or biomass fuel"
@@ -379,7 +361,7 @@
        "Physical limitations prevent safe handling"
       ],
       [
-       "Time constraints requiring immediate removal"
+       "{{fact:pickupTimes}}"
       ],
       [
        "Building regulations restricting curbside placement"

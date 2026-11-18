@@ -19,7 +19,7 @@ export function localBusiness() {
     url: abs("/"),
     telephone: SITE.phoneE164,
     email: SITE.email,
-    logo: abs("/images/brand/logo.webp"),
+    logo: abs("/images/logo.webp"),
     // Region only: no street address is published (audit R9: "serving [city]", no local office claims).
     address: { "@type": "PostalAddress", addressRegion: "ON", addressCountry: "CA" },
     areaServed: AREAS.map((a) => ({ "@type": "City", name: a.name })),

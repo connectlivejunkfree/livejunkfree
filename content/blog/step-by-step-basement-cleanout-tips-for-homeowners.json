@@ -9,7 +9,7 @@
   "description": "Easy steps to clean your basement, sort clutter, and remove junk without stress. A simple guide for homeowners. Book a basement cleanout with Live Junk Free.",
   "canonical": "https://livejunkfree.ca/blog/step-by-step-basement-cleanout-tips-for-homeowners/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2025/12/Step-by-Step-Basement-Cleanout-Tips-for-Homeowners.jpeg"
+  "ogImage": "/images/uploads/2025/10/What-Should-I-Do-with-My-Old-Broken-Appliances.jpeg"
  },
  "title": "Step-by-Step Basement Cleanout Tips for Homeowners",
  "h1": "Step-by-Step Basement Cleanout Tips for Homeowners",
@@ -20,7 +20,7 @@
   "Blog"
  ],
  "featuredImage": {
-  "src": "/images/uploads/2025/12/Step-by-Step-Basement-Cleanout-Tips-for-Homeowners.jpeg",
+  "src": "/images/uploads/2025/10/What-Should-I-Do-with-My-Old-Broken-Appliances.jpeg",
   "alt": "Step-by-Step Basement Cleanout Tips for Homeowners"
  },
  "sections": [
@@ -37,11 +37,6 @@
   {
    "blocks": [
     {
-     "t": "h",
-     "l": 2,
-     "text": "Step 1: Preparation and Mindset – Your Project Foundation"
-    },
-    {
      "t": "p",
      "c": [
       "Success begins before you set foot in the basement. Rushing in without a plan is the fastest way to burn out."
@@ -54,7 +49,7 @@
       {
        "br": 1
       },
-      "Schedule Realistic Time: Block out at least one full weekend. If your basement is very large or packed, consider planning for two separate weekends, one for sorting and one for removal/cleaning.",
+      "Schedule Realistic Time: Block out at least one full weekend, subject to scheduling. If your basement is very large or packed, consider planning for two separate weekends, one for one for removal/cleaning, subject to scheduling.",
       {
        "br": 1
       },
@@ -94,11 +89,6 @@
   },
   {
    "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Step 3: The Sorting Process – One Zone at a Time"
-    },
     {
      "t": "p",
      "c": [
@@ -194,9 +184,6 @@
      "t": "ul",
      "items": [
       [
-       "Sweep and vacuum the floor thoroughly, removing dust, cobwebs, and debris."
-      ],
-      [
        "Wipe down shelves, walls, and baseboards."
       ],
       [
@@ -241,7 +228,7 @@
        "Municipal Limitations: Curbside pickup has strict limits and won’t handle large volumes or bulky items."
       ],
       [
-       "The Efficient Solution: This is the step where professional basement cleanout services prove their value. A company like Live Junk Free can be scheduled to handle all the heavy lifting and responsible disposal in one visit."
+       "The Efficient Solution: This is the step where professional basement cleanout services prove their value. A company like Live Junk Free can be scheduled to handle all the heavy lifting and responsible disposal."
       ]
      ]
     }
@@ -276,10 +263,10 @@
        "Our insured team does all the heavy lifting, safely navigating stairs and tight spaces."
       ],
       [
-       "We ensure eco-friendly disposal, maximizing donations to local GTA charities and proper recycling."
+       "{{fact:recycling}}"
       ],
       [
-       "We leave your basement empty and broom-swept, ready for its next purpose."
+       "We leave your basement empty, ready for its next purpose."
       ]
      ]
     },
@@ -353,7 +340,7 @@
     {
      "t": "p",
      "c": [
-      "A successful basement cleanout is achieved by following a deliberate, step-by-step plan. From setting your vision and sorting with purpose to the final, crucial step of responsible removal, each phase builds toward reclaiming your space. By understanding the process, you can approach the project with confidence. Remember, the most significant physical barrier to removing the sorted junk can be efficiently solved with professional help. Ready to take back your basement? Follow these steps, and when you reach the piles of junk, contact Live Junk Free. We’ll handle the heavy lifting, completing your transformation from cluttered chaos to a clean, potential-filled space."
+      "A successful basement cleanout is achieved by following a deliberate, step-by-step plan. {{fact:cleanupScope}}. By understanding the process, you can approach the project with confidence. Remember, the most significant physical barrier to removing the sorted junk can be efficiently solved with professional help. Ready to take back your basement? Follow these steps, and when you reach the piles of junk, contact Live Junk Free. We’ll handle the heavy lifting, completing your transformation from cluttered chaos to a clean, potential-filled space."
      ]
     }
    ]

@@ -9,7 +9,7 @@
   "description": "Hoarding cleanouts in Oshawa from Live Junk Free are scoped honestly at the start, priced once, and finished properly the first time.",
   "canonical": "https://livejunkfree.ca/locations/oshawa/hoarding-cleanouts-in-oshawa/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanout-in-Oshawa.jpeg"
+  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Ajax.jpeg"
  },
  "title": "Hoarding Cleanouts in Oshawa",
  "h1": "Hoarding Cleanouts in Oshawa from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanout-in-Oshawa-rrlphnq7hlrqmkyc17pl0ixhkgnuejq8rxzp8r2r2o.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Ajax-rrmzgn6andbie2zv3395ne9iklgc1ewincvh8j7pn4.jpeg",
       "alt": "Hoarding Cleanout in Oshawa"
      }
     }
@@ -126,15 +126,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "One flat price, confirmed before anything moves",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Lawful, respectful coordination for landlords",
        "text": [
@@ -157,7 +148,7 @@
        "title": "A pace that's the family's to set, revisited whenever they're ready",
        "text": [
         [
-         "Some jobs finish in one visit. Others need to be picked back up weeks or months later, exactly where the family left off, without anyone treating that as unusual."
+         "Some jobs finish. Others need to be picked back up weeks or months later, exactly where the family left off, without anyone treating that as unusual."
         ]
        ]
       },
@@ -193,13 +184,12 @@
     {
      "t": "p",
      "c": [
-      "The honest answer is the actual size of the job — how many rooms are involved, and how much sorting the belongings genuinely need before anything gets hauled. A single room is a modest job. A full wartime home with decades of accumulation across every level takes real time to do thoroughly, and the number reflects that rather than a rough estimate that might not hold once the work actually starts."
+      "{{fact:cleanupScope}}. A single room is a modest job. A full wartime home with decades of accumulation across every level takes real time to do thoroughly, and the number reflects that rather than a rough estimate that might not hold once the work actually starts."
      ]
     },
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -220,7 +210,7 @@
     {
      "t": "p",
      "c": [
-      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -262,29 +252,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual space, scopes what the job genuinely requires, and gives one flat price built to cover it properly rather than a rough guess."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room",
-       "text": [
-        [
-         "Sorting happens room by room, with anything meaningful set aside first, and the crew works to finish what’s been scheduled rather than leaving it half-done."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "The Space Is Left Clean and Usable",
        "text": [
         [
-         "By the end of the visit, the area worked on is swept, safe, and genuinely usable — not just superficially cleared with problems left underneath."
+         "By the end of the visit, the area worked on is, safe, and genuinely usable — not just superficially cleared with problems left underneath."
         ]
        ]
       }
@@ -347,9 +319,6 @@
        "Proper process followed throughout, with no judgment toward the tenant"
       ],
       [
-       "Same flat pricing regardless of the circumstances involved"
-      ],
-      [
        "Basement and garage cleanouts where accumulation has built up over years"
       ]
      ]
@@ -392,13 +361,7 @@
        "Hoarding cleanouts on rural properties toward Columbus and Raglan"
       ],
       [
-       "Same flat pricing regardless of distance from the city core"
-      ],
-      [
        "Outbuilding coordination where the situation extends beyond the house"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -1002,7 +965,7 @@
        "q": "How much does a hoarding cleanout cost in Oshawa?",
        "a": [
         [
-         "Pricing is based on how many rooms are involved and how much sorting the belongings need — never on the circumstances behind the call. The figure is confirmed free at a private, in-person walkthrough. "
+         "{{fact:cleanupScope}}. The figure is confirmed free at a private, in-person walkthrough. "
         ]
        ]
       },

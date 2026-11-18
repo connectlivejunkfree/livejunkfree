@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "Oshawa’s healthy retail runs on a different clock entirely. The Taunton and Harmony corridors and the Oshawa Centre carry national tenants with proper surrender dates, big-box fixture packages and full-height back-of-house racking. Downtown along King and Simcoe the stock is older and smaller, with narrow frontages and limited rear access. We confirm the format, the access and the removal scope at the walkthrough before quoting any retail cleanout."
+      "Oshawa’s healthy retail runs on a different clock entirely. {{fact:equipmentScope}}. Downtown along King and Simcoe the stock is older and smaller, with narrow frontages and limited rear access. We confirm the format, the access and the removal scope at the walkthrough before quoting any retail cleanout."
      ]
     },
     {
@@ -144,7 +144,7 @@
        "title": "Big-box and anchor unit retail strip-out services",
        "text": [
         [
-         "Full-height pallet racking, mezzanine shelving, back-of-house storage systems and anchor-unit fixture packages along Taunton and Harmony. Large-format retail cleanout services need a crew sized for the building, not a truck sized for a plaza bay."
+         "{{fact:equipmentScope}}. Large-format retail cleanout services need a crew sized for the building, not a truck sized for a plaza bay."
         ]
        ]
       },
@@ -271,7 +271,7 @@
     {
      "t": "p",
      "c": [
-      "Your retail cleanout cost in Oshawa is determined by the volume of material, the fixture removal involved, and the access the unit allows. A small downtown storefront with a counter, shelving and leftover stock is a short job. A closed anchor unit on Taunton with full-height racking, extensive back-of-house and residual inventory is a substantially larger one — and an abandoned unit sits somewhere unpredictable between the two until someone opens the door and looks."
+      "Your retail cleanout cost in Oshawa is determined by the volume of material, the fixture removal involved, and the access the unit allows. A small downtown storefront with a counter, shelving and leftover stock is a short job. {{fact:equipmentScope}}."
      ]
     },
     {
@@ -304,7 +304,7 @@
     {
      "t": "p",
      "c": [
-      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -346,29 +346,20 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Free walkthrough and one flat retail cleanout price",
-       "text": [
-        [
-         "Our crew assesses the sales floor, back-of-house, stockroom and any exterior storage in scope. On abandoned units we photograph the condition before anything is touched. We provide one flat price before work begins and hold that figure through to completion."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Retail cleanout scheduled to your street's access rules",
        "text": [
         [
-         "We protect flooring and shared corridors first, then dismantle and remove racking, shelving, display units, counters, signage, residual stock, office furniture, electronics and appliances. We photograph the unit throughout."
+         "{{fact:equipmentScope}}. We photograph the unit throughout."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Fixtures removed, unit swept",
+       "title": "Fixtures removed, unit",
        "text": [
         [
-         "The space is left broom-swept and empty, ready for inspection or for immediate marketing."
+         "The space is left and empty, ready for inspection or for immediate marketing."
         ]
        ]
       }
@@ -473,7 +464,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than retail cleanout services across Oshawa. Our commercial junk removal handles plaza and mall units, big-box stores, offices along King and Simcoe, restaurants and bars, medical and professional suites, warehouses and light-industrial space throughout the Farewell, Bloor and Stevenson employment lands, with same-day attendance wherever access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste across every Oshawa neighbourhood. Our demolition services cover interior strip-outs, tenant improvement removal, warehouse racking, partitions, dropped ceilings and built-in fixtures, along with sheds, garages, decks, fences, gazebos, above-ground pools and hot tubs on residential lots. Where a property requires complete clearing, we provide same-day office cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than retail cleanout services across Oshawa. Our commercial junk removal handles plaza and mall units, big-box stores, offices along King and Simcoe, restaurants and bars, medical and professional suites, warehouses and light-industrial space throughout the Farewell, Bloor and Stevenson employment lands, with same-day attendance wherever access allows, subject to availability. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste across every Oshawa neighbourhood. {{fact:equipmentScope}}. Where a property requires complete clearing, we provide same-day office cleanout when available, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -524,7 +515,7 @@
      "t": "ul",
      "items": [
       [
-       "We handle large-format retail strip-outs along Taunton, Harmony, and around Oshawa Centre. Full-height pallet racking and mezzanine shelving are dismantled and removed, along with back-of-house storage systems and stockrooms. Fitting rooms, checkout banks, and service counters are cleared as part of the same scope, with loading dock access used where available. Crew size is planned around the building and volume of work rather than simply the truck capacity."
+       "We handle large-format retail strip-outs along Taunton, Harmony, and around Oshawa Centre. {{fact:equipmentScope}}. Fitting rooms, checkout banks, and service counters are cleared as part of the same scope, with loading dock access used where available. Crew size is planned around the building and volume of work rather than simply the truck capacity."
       ]
      ]
     }

@@ -9,7 +9,7 @@
   "description": "Apartment cleanout services in Port Perry from Live Junk Free cost the same whether the unit sits above a Queen Street shop or a short walk from the lake.",
   "canonical": "https://livejunkfree.ca/locations/port-perry/apartment-cleanout-services-in-port-perry/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Apartment-Cleanout-Services-in-Port-Perry.jpeg"
+  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Ajax.jpeg"
  },
  "title": "Apartment Cleanout Services in Port Perry",
  "h1": "Apartment Cleanout Services in Port Perry from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Apartment-Cleanout-Services-in-Port-Perry-rrzu66zfcm90ckz3owoy7f670cibdj816kr5sqwccw.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Ajax-rrmzgn6andbie2zv3395ne9iklgc1ewincvh8j7pn4.jpeg",
       "alt": "Apartment Cleanout Services in Port Perry"
      }
     }
@@ -140,7 +140,7 @@
        "title": "Heritage-careful apartment cleanout for Queen Street units",
        "text": [
         [
-         "Original trim and features that stay get protected throughout, while the sorting inside moves at a respectful pace."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -159,15 +159,6 @@
        "text": [
         [
          "Move-out and move-in dates get factored into the plan from the first call, sized to the reality of managing a small number of units."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "One flat apartment cleanout price, confirmed before anything moves",
-       "text": [
-        [
-         "A crew member sees the actual unit and gives one flat number before anything moves."
         ]
        ]
       },
@@ -209,7 +200,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -230,7 +220,7 @@
     {
      "t": "p",
      "c": [
-      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -272,15 +262,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual unit and gives you one flat price before anything moves."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Apartment Gets Cleared, With Care",
        "text": [
@@ -294,7 +275,7 @@
        "title": "The Unit Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready for whatever comes next."
         ]
        ]
       }
@@ -335,7 +316,7 @@
        "Careful, unhurried handling around established properties"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -355,9 +336,6 @@
       ],
       [
        "Damage or abandonment documentation available on request"
-      ],
-      [
-       "Same flat pricing regardless of the building's age"
       ]
      ]
     }
@@ -377,13 +355,7 @@
        "Apartment cleanouts coordinated between tenancies for small local landlords"
       ],
       [
-       "Same flat pricing as Main Street, no hamlet premium"
-      ],
-      [
        "Same fair standard as anywhere in the region"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
       ]
      ]
     },
@@ -402,10 +374,10 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -793,7 +765,7 @@
        "q": "Can you time a cleanout around a seasonal rental booking calendar?",
        "a": [
         [
-         "Yes — tell the crew the rental schedule and the visit gets planned around it, at the same flat price as any other apartment cleanout. "
+         "{{fact:changedScope}}. "
         ]
        ]
       },

@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Hoarding cleanouts in Schomberg from Live Junk Free are handled privately, without judgment, and with the same flat price whether the property is on Main Street or well out on a concession — a free confidential quote, an experienced crew, and real discretion in a place where people tend to know each other."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "Around the preserved Main Street, that often means a heritage home where belongings have built up gradually over years, cleared with genuine patience for both the property and the family. In Lloydtown, Pottageville and Kettleby, it’s the same standard extended to a hamlet home, at the identical price as anywhere closer to the crossroads. On the working farms across the western concessions, a hoarding situation sometimes involves an outbuilding as much as the house, and none of that changes the flat price the family’s quoted. Wherever the address, the approach stays exactly the same — private, patient, and entirely without judgment."
+      "Around the preserved Main Street, that often means a heritage home where belongings have built up gradually over years, cleared with genuine patience for both the property and the family. In Lloydtown, Pottageville and Kettleby, it’s the same standard extended to a hamlet home, at the identical price as anywhere closer to the crossroads. {{fact:changedScope}}. Wherever the address, the approach stays exactly the same — private, patient, and entirely without judgment."
      ]
     },
     {
@@ -135,20 +135,11 @@
        ]
       },
       {
-       "n": "03",
-       "title": "One flat price — the crossroads makes it fair",
-       "text": [
-        [
-         "The number is identical whether the property is on Main Street or well out on a concession, because the trucks already pass through Schomberg daily. There’s no village premium built into the quote, and there never has been."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "Whole-property hoarding cleanouts, house to outbuilding",
        "text": [
         [
-         "On the township’s farm properties, a hoarding situation sometimes extends into a barn or shed as well as the house. One booking can scope and clear all of it, with the same flat, honest pricing throughout."
+         "On the township’s farm properties, a hoarding situation sometimes extends into a barn or shed as well as the house. {{fact:changedScope}}."
         ]
        ]
       },
@@ -166,7 +157,7 @@
        "title": "Free on-site quotes, with an honest cost to clean out a hoarder's house",
        "text": [
         [
-         "A crew member walks the property, sees the real scope, and gives one flat number before anything moves — no guessing from a phone description, and once the work is underway."
+         "{{fact:changedScope}}."
         ]
        ]
       }
@@ -193,19 +184,18 @@
     {
      "t": "p",
      "c": [
-      "Hoarder clean out cost comes down to two honest factors: how much space is affected, and how much sorting the belongings genuinely need. A single room is a modest job. A full property with years of accumulation across the house and an outbuilding takes considerably more time, and the price reflects that real difference rather than a flat guess."
+      "{{fact:cleanupScope}}. A single room is a modest job. A full property with years of accumulation across the house and an outbuilding takes considerably more time, and the price reflects that real difference rather than a flat guess."
      ]
     },
     {
      "t": "p",
      "c": [
-      "What never factors in is the village itself. Because the routes already run through Schomberg daily — the same trucks passing the 9 and 27 crossroads on their way elsewhere — a property here costs exactly what an identical job would cost in a larger city nearby. The figure is confirmed privately at a free walkthrough, with no pressure to decide anything on the spot."
+      "What never factors in is the village itself. Because the routes already run through Schomberg daily — the same trucks passing the 9 and 27 crossroads on their way elsewhere — a property here costs exactly what an identical job would cost in a larger city nearby. The figure is confirmed privately at a free walkthrough, with no pressure to decide anything at the onsite estimate."
      ]
     },
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Village Premium, No Judgment, No Rushed Timelines"
      ]
     },
@@ -226,7 +216,7 @@
     {
      "t": "p",
      "c": [
-      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -268,15 +258,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Respectful Walkthrough and a Flat Quote",
-       "text": [
-        [
-         "A crew member visits — house, and any outbuildings — sees the actual scope, and provides one flat price, with unmarked arrival as the default rather than something you have to specifically request."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Hoarding Cleanout Runs Methodically, Room by Room",
        "text": [
@@ -287,10 +268,10 @@
       },
       {
        "n": "04",
-       "title": "Hoarding Cleanout Complete — the Property Left Clean and Livable",
+       "title": "Careful Removal",
        "text": [
         [
-         "Debris is hauled the same visit where possible, donations go to local partners, and the property is left swept and safe — with follow-up visits available whenever your family is ready for the next one."
+         "Debris is hauled the same visit where possible, donations go to local partners, and the property is left and safe — with follow-up visits available whenever your family is ready for the next one."
         ]
        ]
       }
@@ -334,10 +315,7 @@
        "Family-initiated cleanouts handled with real patience"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
-      ],
-      [
-       "Same flat pricing as anywhere else in the township"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -357,15 +335,6 @@
       ],
       [
        "Crews accustomed to working calmly around rural and farm properties"
-      ],
-      [
-       "{{fact:competitorComparison}}"
-      ],
-      [
-       "Salvage and donation-first sorting maintained throughout"
-      ],
-      [
-       "Same flat pricing regardless of distance from the crossroads"
       ]
      ]
     }
@@ -383,9 +352,6 @@
      "items": [
       [
        "Hoarding cleanouts in Lloydtown, Pottageville and Kettleby"
-      ],
-      [
-       "Same flat pricing as Main Street, no hamlet premium of any kind"
       ],
       [
        "Discreet, unhurried scheduling as a matter of course"
@@ -1042,7 +1008,7 @@
        "q": "Do you charge extra for rural properties or hamlet homes?",
        "a": [
         [
-         "Never. The same flat pricing applies at Main Street, in Lloydtown, Pottageville or Kettleby, and on a farm well out on the concessions."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },
@@ -1058,7 +1024,7 @@
        "q": "Can the cleanout include a barn or outbuilding, not just the house?",
        "a": [
         [
-         "Yes — it’s regular work for us on the township’s farm properties, all under one flat, honest price."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },

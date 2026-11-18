@@ -9,7 +9,7 @@
   "description": "Live Junk Free provides property management cleanout in Bolton for landlords, homeowners and property managers across the whole community .",
   "canonical": "https://livejunkfree.ca/locations/bolton/property-management-cleanout-in-bolton/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Property-Management-Cleanout-rotated.jpg"
+  "ogImage": "/images/uploads/2026/08/Retail-Cleanout-Services-rotated.jpg"
  },
  "title": "Property Management Cleanout in Bolton",
  "h1": "Property Management Cleanout in Bolton",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Property-Management-Cleanout-rotated-rsgmt9p6otpmll2kr8g1vez727otli1czd8xjyuj78.jpg",
+      "src": "/images/uploads/elementor/thumbs/Retail-Cleanout-Services-rotated-rsihk2kt4iyt4qv82uxcq2s5v4l03ezuo4ufls6th0.jpg",
       "alt": "Property Management Cleanout"
      }
     }
@@ -140,15 +140,6 @@
        ]
       },
       {
-       "n": "03",
-       "title": "",
-       "text": [
-        [
-         ""
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "Property management cleanout guidance for first-time landlords",
        "text": [
@@ -159,10 +150,10 @@
       },
       {
        "n": "05",
-       "title": "Same-day property management cleanout available across Bolton",
+       "title": "Same-day property management cleanout may be available across Bolton",
        "text": [
         [
-         "When a tenant leaves unexpectedly or a showing is booked for tomorrow, we can usually attend the same day you call."
+         "When a tenant leaves unexpectedly or a showing is booked for tomorrow, we can usually attend the same day you call, subject to availability."
         ]
        ]
       },
@@ -273,7 +264,7 @@
      "c": [
       {
        "b": [
-        "Your property management cleanout cost in Bolton is determined by the volume of material and the sorting it requires."
+        "{{fact:cleanupScope}}."
        ]
       },
       " A basement suite returned in reasonable order after a short tenancy is a straightforward job. A unit left fully furnished — beds in every room, appliances still connected, electronics, exercise equipment, and a garage or shed holding household items accumulated across several years — is substantially larger, and we quote it for what is genuinely present."
@@ -309,7 +300,7 @@
     {
      "t": "p",
      "c": [
-      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -355,7 +346,7 @@
        "title": "Free on-site walkthrough and one flat property management cleanout price",
        "text": [
         [
-         "Our crew assesses the rental unit along with any garage, shed or storage area included in scope. We provide one flat price per unit before any work begins and hold that figure through to completion."
+         "Our crew assesses the rental unit along with any garage, shed or storage area included in scope. {{fact:changedScope}}."
         ]
        ]
       },
@@ -373,7 +364,7 @@
        "title": "Vacant rental unit returned ready to list",
        "text": [
         [
-         "The unit is left swept and empty, with the shared areas of your home exactly as we found them."
+         "The unit is left and empty, with the shared areas of your home exactly as we found them."
         ]
        ]
       }
@@ -478,7 +469,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than property management cleanout across Bolton. Our commercial junk removal service supports retail and office units through the Queen Street core and Highway 50 corridor, along with warehouse and light-industrial space in the Bolton employment lands, with same-day attendance wherever access allows. Our demolition services cover sheds, garages, decks, fences, gazebos, trampolines, above-ground pools and hot tubs across Bolton’s older lots, along with light interior demolition ahead of a suite renovation. Where a property requires complete clearing, we provide same-day apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, office cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than property management cleanout across Bolton. Our commercial junk removal service supports retail and office units through the Queen Street core and Highway 50 corridor, along with warehouse and light-industrial space in the Bolton employment lands, with same-day attendance wherever access allows, subject to availability. Our demolition services cover sheds, garages, decks, fences, gazebos, trampolines, above-ground pools and hot tubs across Bolton’s older lots, along with light interior demolition ahead of a suite renovation. Where a property requires complete clearing, we provide same-day apartment cleanout when available, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, office cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -516,7 +507,7 @@
      "t": "ul",
      "items": [
       [
-       "Purpose-built secondary suites across North Hill, Bolton East, and Coleraine can be cleared using separate-entrance routing that keeps the work away from the family’s main living space. Shared stairs, side doors, and driveways are protected throughout the cleanout. First-time landlords can receive guidance on what to keep, remove, and document before preparing the suite for the next tenant. Garage and shed storage can be included in the quoted price, with same-day property management cleanout in Bolton available where access permits."
+       "Purpose-built secondary suites across North Hill, Bolton East, and Coleraine can be cleared using separate-entrance routing that keeps the work away from the family’s main living space. Shared stairs, side doors, and driveways are protected throughout the cleanout. First-time landlords can receive guidance on what to keep, remove, and document before preparing the suite for the next tenant. Garage and shed storage can be included in the quoted price, with same-day property management cleanout when available in Bolton available where access permits."
       ]
      ]
     },
@@ -546,7 +537,7 @@
      "t": "ul",
      "items": [
       [
-       "Property management cleanouts between tenancies can be scheduled around your listing date so the vacant rental unit is ready for photographs and showings. Short-notice tenant turnover cleanout requests can be accommodated, with pricing unaffected by a compressed timeline. Same-day service is available when a tenant vacates without warning, with the vacant rental unit returned swept and ready to show."
+       "Property management cleanouts between tenancies can be scheduled around your listing date so the vacant rental unit is ready for photographs and showings. Short-notice tenant turnover cleanout requests can be accommodated, with pricing unaffected by a compressed timeline. Same-day service may be available when a tenant vacates without warning, with the vacant rental unit returned and ready to show."
       ]
      ]
     },
@@ -1071,7 +1062,7 @@
        "q": "How much does a property management cleanout cost in Bolton?",
        "a": [
         [
-         "Your price depends on the volume of material and the sorting required. We confirm the figure free of charge at the walkthrough and hold it through to completion. Your neighbourhood, your timeline and the number of rental properties you own do not affect the rate. "
+         "{{fact:cleanupScope}}. We confirm the figure free of charge at the walkthrough and hold it through to completion. Your neighbourhood, your timeline and the number of rental properties you own do not affect the rate. "
         ]
        ]
       },
@@ -1248,7 +1239,7 @@
          "20. Can property managers arrange cleanouts for damaged or neglected rentals?"
         ],
         [
-         "Yes. A cleanout can help remove unwanted contents from a rental that requires repairs or significant preparation before it can be occupied again. The service focuses on authorized removable items rather than structural or hazardous work."
+         "Yes. A cleanout can help remove unwanted contents from a rental that requires repairs or significant preparation before it can be occupied again. {{fact:structuralDemolition}}."
         ],
         [
          "21. Can you clean out a property after foreclosure?"

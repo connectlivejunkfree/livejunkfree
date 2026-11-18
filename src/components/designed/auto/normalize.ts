@@ -223,6 +223,15 @@ function cleanBlocks1(blocks: Block[]): Block[] {
       out.push({ t: "p", c: [b.text] });
       continue;
     }
+    // A sentence typed as an H3/H4 right under another heading is that heading's body text
+    // (QA 18 Nov: "heading with no body", e.g. "Ongoing Development" + "We are dedicated to …").
+    const prev = out[out.length - 1];
+    if (b.t === "h" && b.l >= 3 && ((prev?.t === "h" && /[.!:]\s*$/.test(b.text) && b.text.trim().split(/\s+/).length >= 5) || (/\.\s*$/.test(b.text) && b.text.trim().split(/\s+/).length >= 6))) {
+      out.push({ t: "p", c: [b.text] });
+      continue;
+    }
+    // Leftover review-widget labels ("Recent Reviews -", "— RECENT ESTATE CLEANOUT REVIEWS —"): the page has its own reviews block.
+    if (b.t === "h" && /^\s*[-–—]*\s*recent( [\w-]+){0,4} reviews\s*[-–—]*\s*$/i.test(b.text)) continue;
     if (b.t === "h" && !b.text.trim()) continue;
     if (b.t === "p" && !plainInline(b.c).trim()) continue;
     if (b.t === "form") continue; // one form per page: hero or closing band

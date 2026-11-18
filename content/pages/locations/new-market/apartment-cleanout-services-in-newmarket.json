@@ -9,7 +9,7 @@
   "description": "Apartment cleanout services in Newmarket from Live Junk Free happen on whatever day actually works — Saturday, Sunday, or a weeknight.",
   "canonical": "https://livejunkfree.ca/locations/new-market/apartment-cleanout-services-in-newmarket/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Apartment-Cleanout-Services-in-Newmarket.jpeg"
+  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Ajax.jpeg"
  },
  "title": "Apartment Cleanout Services in Newmarket",
  "h1": "Apartment Cleanout Services in Newmarket from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Apartment-Cleanout-Services-in-Newmarket-rrzx39dz9y2u3gcy6bnowwp1eunbrkbwylx0y744uo.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Ajax-rrmzgn6andbie2zv3395ne9iklgc1ewincvh8j7pn4.jpeg",
       "alt": "Apartment Cleanout Services in Newmarket"
      }
     }
@@ -116,7 +116,7 @@
     {
      "t": "p",
      "c": [
-      "No. Saturday and Sunday apartment cleanouts cost exactly what a Tuesday costs — the flat price given at the walkthrough doesn’t change based on which day the actual work happens."
+      "No. {{fact:changedScope}}."
      ]
     }
    ]
@@ -128,7 +128,7 @@
      "items": [
       {
        "n": "01",
-       "title": "Weekend apartment cleanout, no premium for the privilege",
+       "title": "Weekend apartment cleanout, no premium for the privilege (subject to scheduling)",
        "text": [
         [
          "The price a crew gives at the walkthrough is the same whether the job happens on a Tuesday or a Saturday."
@@ -140,7 +140,7 @@
        "title": "{{fact:weekendPickup}}",
        "text": [
         [
-         "Landlords and families who can only manage this after work get the same crew and the same flat number as anyone available during the day."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -150,15 +150,6 @@
        "text": [
         [
          "Most single-unit apartment cleanouts are sorted and hauled inside a couple of hours, so Monday starts with a ready unit, not a half-finished job."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "One flat apartment cleanout price, confirmed before anything moves",
-       "text": [
-        [
-         "A crew member sees the actual unit and gives one flat number before anything moves — no per-item guessing."
         ]
        ]
       },
@@ -176,7 +167,7 @@
        "title": "Independent apartment cleanout pricing",
        "text": [
         [
-         "National junk removal franchises build a royalty into every quote, and some charge extra for weekend work. Live Junk Free does neither."
+         "National junk removal franchises build a royalty into every quote, and some charge extra for weekend work, subject to scheduling. Live Junk Free does neither."
         ]
        ]
       }
@@ -209,7 +200,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -230,7 +220,7 @@
     {
      "t": "p",
      "c": [
-      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -267,16 +257,7 @@
        "title": "Book Your Apartment Cleanout Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online, at whatever hour actually works — same-day and weekend slots are usually available."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual unit and gives you one flat price before anything moves."
+         "Call +1 647 922 5865 or book online, at whatever hour actually works — same-day and weekend slots are usually available, subject to scheduling."
         ]
        ]
       },
@@ -294,7 +275,7 @@
        "title": "The Unit Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready — often on the same weekend you called."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready — often on the same weekend you called."
         ]
        ]
       }
@@ -320,7 +301,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Weekend Rental Turnover Apartment Cleanouts in Newmarket"
+     "text": "Weekend Rental Turnover Apartment Cleanouts in Newmarket (subject to scheduling)"
     },
     {
      "t": "ul",
@@ -329,13 +310,10 @@
        "Saturday and Sunday apartment cleanouts for landlords between tenants"
       ],
       [
-       "{{fact:weekendPickup}}"
-      ],
-      [
        "Careful, unhurried handling around established properties"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -355,9 +333,6 @@
       ],
       [
        "Damage or abandonment documentation available on request"
-      ],
-      [
-       "Same flat pricing regardless of the building's age"
       ]
      ]
     }
@@ -381,9 +356,6 @@
       ],
       [
        "Same fair standard as anywhere in the region"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
       ]
      ]
     },
@@ -402,10 +374,10 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }

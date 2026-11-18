@@ -564,7 +564,7 @@
     {
      "t": "p",
      "c": [
-      "If your yard needs mowing, pruning, planting, grading, or other landscaping work, you’ll likely need a landscaping or property-maintenance professional."
+      "{{fact:equipmentScope}}."
      ]
     },
     {
@@ -1056,7 +1056,7 @@
       {
        "title": "Is yard cleanup the same as landscaping?",
        "text": [
-        "No. Junk removal focuses on removing unwanted items and materials, while landscaping involves maintaining or changing the living and structural elements of a yard."
+        "No. {{fact:structuralDemolition}}."
        ]
       },
       {

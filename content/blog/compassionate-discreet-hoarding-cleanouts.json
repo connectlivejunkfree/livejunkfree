@@ -9,7 +9,7 @@
   "description": "Discover how Live Junk Free offers compassionate, discreet, respectful, and professional hoarding cleanout services designed to support families, protect privacy, and ensure safe clutter removal.",
   "canonical": "https://livejunkfree.ca/blog/compassionate-discreet-hoarding-cleanouts/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2025/12/Compassionate-and-Discreet-Hoarding-Cleanouts-by-Live-Junk-Free.jpeg"
+  "ogImage": "/images/uploads/2025/11/How-Professional-Hoarding-Cleanouts-Help-Restore-Your-Home.jpeg"
  },
  "title": "Compassionate and Discreet Hoarding Cleanouts by Live Junk Free",
  "h1": "Compassionate and Discreet Hoarding Cleanouts by Live Junk Free",
@@ -20,7 +20,7 @@
   "Blog"
  ],
  "featuredImage": {
-  "src": "/images/uploads/2025/12/Compassionate-and-Discreet-Hoarding-Cleanouts-by-Live-Junk-Free.jpeg",
+  "src": "/images/uploads/2025/11/How-Professional-Hoarding-Cleanouts-Help-Restore-Your-Home.jpeg",
   "alt": "Compassionate and Discreet Hoarding Cleanouts by Live Junk Free"
  },
  "sections": [
@@ -163,9 +163,6 @@
        "Using noise-reduction equipment when possible"
       ],
       [
-       "Keeping work areas contained and organized"
-      ],
-      [
        "Coordinating with building management when necessary"
       ]
      ]
@@ -230,9 +227,6 @@
       ],
       [
        "Flexible scheduling for breaks and decision-making"
-      ],
-      [
-       "Individualized sorting systems that work for the client"
       ],
       [
        "Ongoing adjustments based on client feedback"
@@ -364,7 +358,7 @@
        "Regular safety briefings and updates"
       ],
       [
-       "Emergency protocol planning"
+       "{{fact:pickupTimes}}"
       ],
       [
        "Health monitoring throughout the process"
@@ -431,9 +425,6 @@
       ],
       [
        "Community support group information"
-      ],
-      [
-       "Emergency contact resources"
       ],
       [
        "Regular check-in availability"
@@ -534,9 +525,6 @@
       ],
       [
        "Organizational system implementation"
-      ],
-      [
-       "Emergency contact availability"
       ]
      ]
     },

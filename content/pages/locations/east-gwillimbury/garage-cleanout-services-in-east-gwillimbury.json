@@ -9,7 +9,7 @@
   "description": "Garage cleanout services in East Gwillimbury from Live Junk Free cost exactly the same whether the garage is behind a century hamlet home.",
   "canonical": "https://livejunkfree.ca/locations/east-gwillimbury/garage-cleanout-services-in-east-gwillimbury/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Garage-Cleanout-Services-in-East-Gwillimbury-735x1024.jpg"
+  "ogImage": "/images/uploads/2026/08/Garage-Cleanout-Services-in-Ajax-735x1024.jpg"
  },
  "title": "Garage Cleanout Services in East Gwillimbury",
  "h1": "Garage Cleanout Services in East Gwillimbury from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Garage-Cleanout-Services-in-East-Gwillimbury-scaled-rru6ms06qnk2f6kz6qdk4s8ao9neaob2cg18lq3y40.jpg",
+      "src": "/images/uploads/elementor/thumbs/Garage-Cleanout-Services-in-Ajax-scaled-rru2wzn5zketx8x0ewh78jmetx2mpl6fy999jwh7qo.jpg",
       "alt": "Garage Cleanout Services in East Gwillimbury"
      }
     }
@@ -116,7 +116,7 @@
     {
      "t": "p",
      "c": [
-      "No, and that’s a deliberate policy. Live Junk Free prices every garage cleanout by the volume involved and the sorting it needs — never by which of East Gwillimbury’s two very different halves the address happens to be in."
+      "No, and that’s a deliberate policy. {{fact:cleanupScope}}."
      ]
     }
    ]
@@ -128,7 +128,7 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat garage cleanout price, identical in every part of the township",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Holland Landing, Sharon, the 404 corridor, the concessions between — the number reflects the garage’s volume, never the community it’s in."
@@ -155,19 +155,10 @@
       },
       {
        "n": "04",
-       "title": "Same-day garage cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first garage cleanout sorting for tools and equipment",
-       "text": [
-        [
-         "Working tools, equipment and household items with life left in them go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -209,7 +200,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Village, Distance or Rural Premium, Ever"
      ]
     },
@@ -226,12 +216,6 @@
      "t": "price",
      "label": "East Gwillimbury Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -282,7 +266,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual garage and gives you one flat price before anything moves, whatever community it’s in."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -300,7 +284,7 @@
        "title": "Your Garage Is Usable",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready to actually park in again."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready to actually park in again."
         ]
        ]
       }
@@ -344,10 +328,10 @@
        "Real patience for garages settled into place over decades"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     },
@@ -369,7 +353,7 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ]
      ]
     }
@@ -390,12 +374,6 @@
       ],
       [
        "Whole-property coordination where a barn is involved"
-      ],
-      [
-       "{{fact:competitorComparison}}"
-      ],
-      [
-       "Same flat pricing regardless of distance from either community"
       ]
      ]
     },
@@ -414,10 +392,7 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ]
      ]
     }
@@ -813,7 +788,7 @@
        "q": "Do you charge extra for farm properties on the concessions?",
        "a": [
         [
-         "Never. The identical flat pricing applies at a hamlet home, a corridor subdivision, and a farm property between them. "
+         "Never. {{fact:changedScope}}. "
         ]
        ]
       },

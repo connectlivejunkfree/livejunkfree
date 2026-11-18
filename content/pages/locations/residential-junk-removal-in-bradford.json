@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Every home in Bradford has one: the spare room nobody opens, the garage bay the car hasn’t seen in years, the old couch waiting for a truck that never comes. We’re that truck. Our fully insured local crew arrives at your door, prices everything you point at with a free on-the-spot quote, and — the moment you say go — carries it all out from wherever it sits. Most Bradford pickups are booked, quoted and finished on the same day."
+      "Every home in Bradford has one: the spare room nobody opens, the garage bay the car hasn’t seen in years, the old couch waiting for a truck that never comes. We’re that truck. Our fully insured crew arrives at your door, prices everything you point at with a free on-the-spot quote, and — the moment you say go — carries it all out from wherever it sits. Most Bradford pickups are booked, quoted and finished on the same day, subject to availability."
      ]
     },
     {
@@ -97,29 +97,9 @@
      "text": "Google reviews tell the same story: a crew that shows up when promised, quotes honestly, lifts carefully and leaves homes cleaner than they found them. From century houses along Holland Street to brand-new builds in the subdivisions off Yonge Street, Live Junk Free has become the name Bradford West Gwillimbury passes over the fence when someone asks, \"who hauled your stuff away?\""
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Truck space is the only thing on your bill",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Fill a quarter of the truck, pay a quarter-load price. Fill it all, pay for a full load. That's the entire pricing model — no hourly billing that rewards slow crews, no surcharges for heavy items, and no different rates for different Bradford postal codes."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Quotes happen at your doorstep, not over the phone",
-       "text": []
-      }
-     ]
+     "text": "Fill a quarter of the truck, pay a quarter-load price. Fill it all, pay for a full load."
     },
     {
      "t": "h",
@@ -127,29 +107,9 @@
      "text": "Photos lie and descriptions miss things, so we don't price blind. A crew member looks at your actual items, in your actual home, and writes an actual number — free, and yours to refuse."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Everything's baked into one figure",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Lifting, loading, driving, dumping, recycling fees, fuel — a single upfront price covers it. Whether your junk sits at the curb or three flights up in a Bradford townhouse, the number doesn't move after you've approved it."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Your floors, walls and doorframes stay flawless",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -157,29 +117,9 @@
      "text": "Hauling a sectional down a staircase is a learned skill. {{fact:propertyProtection}}."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Saying \"no thanks\" costs nothing",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "We quote, you decide. Take the price and the crew starts that minute; pass on it and we wish you a good day and drive off. No deposit, no cancellation fee, no salesperson calling you back on Tuesday."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent and local — priced",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -246,7 +186,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "That pile didn't build up overnight, but it can disappear in an afternoon. Here's the whole process, start to finish:"
+     "text": "Here's the whole process, start to finish:"
     },
     {
      "t": "cards",
@@ -260,7 +200,7 @@
       {
        "title": "2. Point at What's Going",
        "text": [
-        "Walk us through the house, the garage, the yard — point at anything and everything. We size it up on the spot and hand you one clear, price. No obligation attached."
+        "Walk us through the house, the garage, the yard — point at anything and everything. We size it up at the onsite estimate and hand you one clear, price. No obligation attached."
        ]
       },
       {
@@ -270,7 +210,7 @@
        ]
       },
       {
-       "title": "4. We Sweep, Sort and Send It On",
+       "title": "4. We, Sort and Send It On",
        "text": [
         "The space gets tidied before we leave, and your items get sorted after: donation centres take what still works, recyclers take the metals and electronics, and the landfill only sees what nothing else will."
        ]
@@ -336,7 +276,7 @@
          "Dishwashers and built-in microwaves"
         ],
         [
-         "Drained hot water tanks and water softeners"
+         ""
         ],
         [
          "Window air conditioners and dehumidifiers"
@@ -362,7 +302,7 @@
          "Backyard cleanups — old play sets, trampolines, branches, leftover lumber"
         ],
         [
-         "Moving-day junk sweeps — everything the movers won’t take"
+         ""
         ]
        ]
       },
@@ -388,7 +328,7 @@
          "Scrap metal, BBQs and lawn equipment"
         ],
         [
-         "Bed-bug-affected furniture — bagged, sealed and removed discreetly"
+         ""
         ]
        ]
       }

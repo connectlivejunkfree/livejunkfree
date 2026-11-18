@@ -149,15 +149,6 @@
        ]
       },
       {
-       "n": "04",
-       "title": "",
-       "text": [
-        [
-         ""
-        ]
-       ]
-      },
-      {
        "n": "05",
        "title": "Retail cleanout services for long-established independent businesses",
        "text": [
@@ -277,14 +268,13 @@
     {
      "t": "p",
      "c": [
-      "Three factors never affect your price. Urgency — a retail cleanout booked for tomorrow costs the same as one booked next month. Job size — a single small unit is priced per volume exactly as a multi-unit clearance is, with no minimum applied. We confirm your figure in writing at the walkthrough and hold it through to completion."
+      "Three factors never affect your price. Urgency — a retail cleanout booked for tomorrow costs the same as one booked next month. {{fact:changedScope}}. We confirm your figure in writing at the walkthrough and hold it through to completion."
      ]
     },
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -304,7 +294,7 @@
     {
      "t": "p",
      "c": [
-      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -346,15 +336,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Free walkthrough and one flat retail cleanout price",
-       "text": [
-        [
-         "Our crew assesses the sales floor, stockroom, cellar and any exterior or rural storage in scope. We provide one flat price before any work begins and hold that figure through to completion."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Fixtures removed, unit cleared and documented",
        "text": [
@@ -365,10 +346,10 @@
       },
       {
        "n": "04",
-       "title": "Unit returned swept",
+       "title": "Unit returned",
        "text": [
         [
-         "The space is left broom-swept and empty."
+         "The space is left and empty."
         ]
        ]
       }
@@ -473,7 +454,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than retail cleanout services across Uxbridge. Our commercial junk removal handles shops and plaza units, offices, restaurants and cafés, workshops, garden centres, farm gate stores and the agricultural outbuildings throughout the township, with same-day attendance wherever access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from town properties and rural acreage alike. Our demolition services cover interior strip-outs, tenant improvement removal, partitions, dropped ceilings and built-in fixtures, along with sheds, drive sheds, barns, garages, decks, fences, gazebos, above-ground pools and hot tubs. Where a property requires complete clearing, we provide same-day office cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than retail cleanout services across Uxbridge. Our commercial junk removal handles shops and plaza units, offices, restaurants and cafés, workshops, garden centres, farm gate stores and the agricultural outbuildings throughout the township, with same-day attendance wherever access allows, subject to availability. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from town properties and rural acreage alike. Our demolition services cover interior strip-outs, tenant improvement removal, partitions, dropped ceilings and built-in fixtures, along with sheds, drive sheds, barns, garages, decks, fences, gazebos, above-ground pools and hot tubs. Where a property requires complete clearing, we provide same-day office cleanout when available, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -541,7 +522,7 @@
      "t": "ul",
      "items": [
       [
-       "We handle commercial cleanouts for garden centres, farm gate stores, antique dealers, and rural workshops throughout Uxbridge. Outbuildings, drive sheds, and equipment storage can be included with the main unit, while seasonal display stock, signage, and scrap are cleared at volume. Long laneways and soft-ground access are planned for in advance to make the removal process more practical. Light demolition services are available where a structure has failed, with the same flat retail cleanout pricing as a town core unit."
+       "We handle commercial cleanouts for garden centres, farm gate stores, antique dealers, and rural workshops throughout Uxbridge. Outbuildings, drive sheds, and equipment storage can be included with the main unit, while seasonal display stock, signage, and scrap are cleared at volume. Long laneways and soft-ground access are planned for in advance to make the removal process more practical. {{fact:changedScope}}."
       ]
      ]
     },
@@ -554,7 +535,7 @@
      "t": "ul",
      "items": [
       [
-       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, and signage are removed after a tenant vacates, while multiple plaza bays can be handled under one quote and consolidated invoice. Documentation is also prepared where a deposit or restoration claim is in dispute. Same-day retail cleanout services in Uxbridge are available where access permits."
+       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, and signage are removed after a tenant vacates, while multiple plaza bays can be handled under one quote and consolidated invoice. Documentation is also prepared where a deposit or restoration claim is in dispute. Same-day retail cleanout services when available in Uxbridge are available where access permits."
       ]
      ]
     }

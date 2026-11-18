@@ -9,7 +9,7 @@
   "description": "Cleanout services in Whitby built around a family still living there — estate, downsizing, garage and hoarding cleanouts by an insured crew.",
   "canonical": "https://livejunkfree.ca/locations/cleanout-services-in-whitby/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/07/Cleanout-Services-in-Whitby.jpeg"
+  "ogImage": "/images/uploads/2026/07/Cleanout-Services-in-Oshawa.jpeg"
  },
  "title": "Cleanout Services in Whitby",
  "h1": "Professional Cleanout Services in Whitby",
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Whitby built around a family still living there — estate, downsizing, garage and hoarding cleanouts by an insured crew, quoted flat on site, kid- and pet-safe throughout, sorted donation-first, and finished swept without disrupting the household."
+     "text": "Cleanout services in Whitby built around a family still living there — estate, downsizing, garage and hoarding cleanouts by an insured crew, quoted flat on site, kid- and pet-safe throughout, sorted donation-first, and finished without disrupting the household."
     },
     {
      "t": "ctas",
@@ -126,7 +126,7 @@
        "title": "Free walkthrough cleanout quotes at your Whitby home",
        "text": [
         [
-         "A crew lead walks the space, hears what the cleanout is for, and writes one firm flat quote with a schedule that respects the household living around it — nap times, school runs and pets included in the plan from the start."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -135,7 +135,7 @@
        "title": "Kid- and pet-safe crews, every visit",
        "text": [
         [
-         "Cleanouts in occupied family homes need more than care with belongings — they need care with who’s underfoot. Our crews keep pathways clear, work zones contained, doors managed so pets stay put, and small items and tools out of little hands’ reach throughout. Families with young kids book us precisely because nothing about the day feels risky."
+         "Cleanouts in occupied family homes need more than care with belongings — they need care with who’s underfoot. Families with young kids book us precisely because nothing about the day feels risky."
         ]
        ]
       },
@@ -156,15 +156,6 @@
          "Overwhelmed homes clear with respect: unmarked scheduling on request, no commentary, a steady room-by-room pace, and coordination with family or support workers where it helps. On a street full of neighbours, ours learn nothing from us."
         ]
        ]
-      },
-      {
-       "n": "06",
-       "title": "Independent cleanout pricing",
-       "text": [
-        [
-         "No head-office royalties inside our quotes — local crews, our own trucks, honest volume pricing."
-        ]
-       ]
       }
      ]
     }
@@ -175,11 +166,6 @@
     {
      "t": "eyebrow",
      "text": "CLEANOUT PRICING"
-    },
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Whitby Cleanout Pricing — One Flat Number, Family-Safe Included"
     },
     {
      "t": "h",
@@ -195,8 +181,7 @@
     {
      "t": "checks",
      "items": [
-      "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -212,12 +197,6 @@
      "t": "price",
      "label": "Whitby Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -259,7 +238,7 @@
        "title": "Book Your Whitby Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit. The crew lead tours the space and the household’s realities both — nap schedules, pet routines, which rooms stay off-limits — and writes one flat quote with a plan built around your family, not just the furniture."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit. {{fact:changedScope}}."
         ]
        ]
       },
@@ -283,10 +262,10 @@
       },
       {
        "n": "04",
-       "title": "Swept, Empty and Handed Back Without a Hitch",
+       "title": ", Empty and Handed Back Without a Hitch",
        "text": [
         [
-         "The space hands back broom-swept — garage, basement or whole home — with debris gone on our own trucks and donation or disposal documentation available for the estate or your own file, and the household never once feeling like a job site."
+         "The space hands back — garage, basement or whole home — with debris gone on our own trucks and donation or disposal documentation available for the estate or your own file, and the household never once feeling like a job site."
         ]
        ]
       }
@@ -364,10 +343,7 @@
        "Executor and out-of-town family coordination with documentation"
       ],
       [
-       "Donation-first sorting recorded for the estate file"
-      ],
-      [
-       "Sale-ready, broom-swept handovers"
+       "Sale-ready handovers"
       ]
      ]
     }
@@ -425,9 +401,6 @@
       ],
       [
        "Recurring portfolio arrangements for landlords, one invoice"
-      ],
-      [
-       "Respectful crews, first knock to final sweep"
       ]
      ]
     }
@@ -694,7 +667,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Cleanout Services in Whitby — Family Questions, Livable Answers"
+     "text": "Careful Removal"
     },
     {
      "t": "faq",
@@ -727,7 +700,7 @@
        "q": "Can the garage really be cleared without disrupting the rest of the house?",
        "a": [
         [
-         "Every hamlet and every concession between, at the same flat pricing as Main Street. The routes pass daily; no address waits longer or pays more."
+         "{{fact:changedScope}}. The routes pass daily; no address waits longer or pays more."
         ]
        ]
       },

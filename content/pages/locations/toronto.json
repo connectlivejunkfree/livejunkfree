@@ -9,7 +9,7 @@
   "description": "Need junk removal Toronto same day, subject to scheduling? We show up on time, quote upfront & haul everything away responsibly. Book Live Junk Free.",
   "canonical": "https://livejunkfree.ca/locations/toronto/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Bolton-1.png"
+  "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Bolton.png"
  },
  "title": "Toronto",
  "h1": "Junk Removal in Toronto, Ontario — The City Never Stops, Neither Do We",
@@ -41,7 +41,7 @@
     {
      "t": "p",
      "c": [
-      "Live Junk Free is Toronto’s go-to junk removal team — locally operated, fully insured, and built to move as fast as this city does. We come to your Toronto property, assess everything in person, hand you a completely free on-site estimate before touching a single item, and if you’re ready to go, your junk is off your property the same day. No dumpsters sitting on your street for a week. No franchise call centres putting you on hold. No surprises on your invoice."
+      "Live Junk Free is Toronto’s go-to junk removal team — locally operated, fully insured, and built to move as fast as this city does. We come to your Toronto property, assess everything in person, hand you a completely free on-site estimate before touching a single item, and if you’re ready to go, your junk is off your property the same day, subject to availability. No dumpsters sitting on your street for a week. No franchise call centres putting you on hold. No surprises on your invoice."
      ]
     },
     {
@@ -112,44 +112,14 @@
      "text": "We are not a national franchise. We are not a call centre dispatching random contractors. We are a locally owned, fully insured Toronto junk removal company with a professional crew, verified reviews from real Toronto customers, and a commitment to this city that goes beyond the job."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Volume-based pricing — the only fair way to charge in a city this diverse.",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Whether you're in a 500 sq ft downtown condo or a 4,000 sq ft detached home in North York — you pay based on how much space your junk fills in our truck. Not by the hour. Not by the item. Not by your neighbourhood. By volume. Full stop."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Free on-site estimate — we come to you, we assess in person.",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "No phone estimates that triple when the truck shows up. No online calculators that miss half the items. We physically walk your Toronto property, assess the full scope, and give you an accurate quote on the spot."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One flat number — labour, truck, fuel, disposal, building access.",
-       "text": []
-      }
-     ]
+     "text": "No phone estimates that triple when the truck shows up. No online calculators that miss half the items. We physically walk your Toronto property, assess the full scope, and give you an accurate quote at the onsite estimate."
     },
     {
      "t": "h",
@@ -157,29 +127,9 @@
      "text": "For condo and high-rise buildings across downtown Toronto, Midtown, North York and beyond — elevator booking and building coordination is included in your quote. There is no line item for it. One number, everything covered."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "You see it. You approve it. We start. That's the entire process.",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "You are never pressured. You are never rushed. If the quote doesn't work for you, we leave with zero charge and zero attitude. If it does, we get to work immediately."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Zero Toronto premiums. Zero postal code surcharges. Zero exceptions.",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -187,19 +137,9 @@
      "text": "A job in the Financial District is priced the same way as a job in Scarborough — by volume. Your address in this city is never used to inflate your bill."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": ".",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Because we don't pay franchise royalties to a national head office, Toronto customers save significantly — for better service, with a local team that actually cares about this city."
+     "text": "Because we don't pay franchise royalties to a national head office, Toronto customers save significantly — for better service, with a team that actually cares about this city."
     }
    ]
   },
@@ -269,13 +209,13 @@
       {
        "title": "Book, Get a Slot",
        "text": [
-        "Call +1 647 922 5865 or book online. Tell us your Toronto neighbourhood and what you need removed. Whether you're in Leslieville, Leaside, Parkdale, Danforth, Forest Hill, Scarborough, North York, York, East York, Etobicoke, Midtown, Downtown or anywhere across the city — we confirm your same-day or next-day time window immediately, subject to scheduling. For condo buildings, we ask for your building management contact and handle all coordination ourselves. You get a 30-minute heads-up call before we arrive so your schedule stays on track."
+        "Call +1 647 922 5865 or book online. Tell us your Toronto neighbourhood and what you need removed. Whether you're in Leslieville, Leaside, Parkdale, Danforth, Forest Hill, Scarborough, North York, York, East York, Etobicoke, Midtown, Downtown or anywhere across the city — we confirm your same-day or next-day time window immediately, subject to scheduling. For condo buildings, we ask for your building management contact and handle all coordination ourselves. {{fact:scheduling}}"
        ]
       },
       {
        "title": "Free On-Site Estimate, No Pressure, No Obligation",
        "text": [
-        "Our uniformed, professional Toronto junk removal crew arrives precisely on time — every time. We walk your entire property with you. Every room. Every floor. The garage, basement, backyard, storage locker, restaurant back-of-house, office floor, warehouse — wherever your junk is, we see it all before we quote it. For high-rise condos and office buildings in downtown Toronto, Midtown, Yonge & Eglinton or the Financial District, we handle elevator booking and loading dock coordination as part of the assessment. We give you one clear, flat-rate quote on the spot. Zero obligation to proceed."
+        "Our uniformed, professional Toronto junk removal crew arrives precisely on time — every time. We walk your entire property with you. Every room. Every floor. The garage, basement, backyard, storage locker, restaurant back-of-house, office floor, warehouse — wherever your junk is, we see it all before we quote it. For high-rise condos and office buildings in downtown Toronto, Midtown, Yonge & Eglinton or the Financial District, we handle elevator booking and loading dock coordination as part of the assessment. {{fact:changedScope}}. Zero obligation to proceed."
        ]
       },
       {
@@ -285,9 +225,9 @@
        ]
       },
       {
-       "title": "Gone, Swept, Done. Toronto Moves On.",
+       "title": "Gone, Done. Toronto Moves On.",
        "text": [
-        "Final walkthrough, sweep up, nothing left behind. Your space is clean. Your junk is sorted responsibly — usable items go to Toronto community organisations and donation centres, recyclables go to recycling facilities, and only what genuinely can't be saved goes to landfill. We divert as much as possible from Toronto's waste stream because this is our city and we take that seriously."
+        "Final walkthrough, nothing left behind. Your space is clean. Your junk is sorted responsibly — usable items go to Toronto community organisations and donation centres, recyclables go to recycling facilities, and only what genuinely can't be saved goes to landfill. We divert as much as possible from Toronto's waste stream because this is our city and we take that seriously."
        ]
       }
      ]
@@ -313,7 +253,7 @@
        "q": "Condo & High-Rise Junk Removal in Toronto",
        "a": [
         [
-         "Toronto has more condo towers under construction and in operation than any other city in North America — and we are the GTA’s most experienced condo junk removal team. Condo junk removal Toronto — full unit cleanouts, move-ins, move-outs High-rise junk removal Toronto — complete elevator and loading dock management Downtown condo junk removal Toronto — King West, Bay Street, Liberty Village, CityPlace Midtown condo junk removal Toronto — Yonge & Eglinton, Forest Hill, Davisville North York condo junk removal — Willowdale, Yonge & Sheppard, Bayview Village Apartment junk removal Toronto — all building types, all neighbourhoods Condo renovation debris removal Toronto Storage locker cleanout Toronto E-waste and electronics removal Toronto condos"
+         "Condo junk removal Toronto — full unit cleanouts, move-ins, move-outs High-rise junk removal Toronto — complete elevator and loading dock management Downtown condo junk removal Toronto — King West, Bay Street, Liberty Village, CityPlace Midtown condo junk removal Toronto — Yonge & Eglinton, Forest Hill, Davisville North York condo junk removal — Willowdale, Yonge & Sheppard, Bayview Village Apartment junk removal Toronto — all building types, all neighbourhoods Condo renovation debris removal Toronto Storage locker cleanout Toronto E-waste and electronics removal Toronto condos"
         ]
        ]
       },
@@ -490,7 +430,7 @@
        "q": "Q: Do you offer same-day junk removal in Toronto?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of Toronto, including downtown, North York, Scarborough, East York, Etobicoke, Midtown and every neighbourhood in between. Call +1 647 922 5865 for same-day availability."
+         "{{fact:scheduling}} Call +1 647 922 5865 for same-day availability when available."
         ]
        ]
       },

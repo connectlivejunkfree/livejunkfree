@@ -9,7 +9,7 @@
   "description": "Fast and reliable commercial junk removal in Etobicoke for offices, retail stores, warehouses, and businesses. Book Live Junk Free today!",
   "canonical": "https://livejunkfree.ca/locations/commercial-junk-removal-in-etobicoke/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/07/Commercial-Junk-Removal-in-Ajax.jpeg"
+  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Ajax.jpeg"
  },
  "title": "Commercial Junk Removal in Etobicoke",
  "h1": "Commercial Junk Removal Services in Etobicoke",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Few places in the GTA cycle commercial space like Etobicoke — Queensway industrial units refitting into studios and gyms, Rexdale bays changing tenants, Islington City Centre offices reshaping floor by floor, and the Lake Shore strips through Mimico, New Toronto and Long Branch swapping storefronts season to season. Somebody has to clear each space between chapters, and the Google reviews behind Live Junk Free show who Etobicoke keeps choosing: crews that navigate loading docks and freight elevators without being babysat, junk removal quotes that hold to the signed number, and units handed back broom-swept."
+      "Few places in the GTA cycle commercial space like Etobicoke — Queensway industrial units refitting into studios and gyms, Rexdale bays changing tenants, Islington City Centre offices reshaping floor by floor, and the Lake Shore strips through Mimico, New Toronto and Long Branch swapping storefronts season to season. Somebody has to clear each space between chapters, and the Google reviews behind Live Junk Free show who Etobicoke keeps choosing: crews that navigate loading docks and freight elevators without being babysat, junk removal quotes that hold to the signed number, and units handed back."
      ]
     },
     {
@@ -115,7 +115,7 @@
        "title": "Truck-space junk removal pricing — Etobicoke pays for volume, nothing else",
        "text": [
         [
-         "Your junk removal cost equals your load’s share of the truck. Full stop. Not the weight of the machinery, not the floor it’s sitting on, not how long the freight elevator takes. From a Long Branch storefront to a Rexdale industrial bay, equal loads cost equal money."
+         "Your junk removal cost equals your load’s share of the truck. Full stop. {{fact:equipmentScope}}. From a Long Branch storefront to a Rexdale industrial bay, equal loads cost equal money."
         ]
        ]
       },
@@ -124,7 +124,7 @@
        "title": "Free on-site junk removal quotes anywhere in Etobicoke",
        "text": [
         [
-         "Phone estimates inflate and photo estimates miss the storage cage. Our crew lead comes to the unit, walks every square foot going into the truck, and writes one flat junk removal quote for the lot. The visit is free, the number is firm, and “no thanks” ends it with a handshake."
+         "Phone estimates inflate and photo estimates miss the storage cage. {{fact:changedScope}}. The visit is free, the number is firm, and “no thanks” ends it with a handshake."
         ]
        ]
       },
@@ -133,7 +133,7 @@
        "title": "Full-crew junk hauling — your people never lift a panel",
        "text": [
         [
-         "Whether you’re a property manager flipping a unit or an owner packing up a shop, your time is worth more than carrying cabinets. Our junk removal crew handles dismantling, carrying, loading and the final sweep — start to finish — while you get on with the next tenant, the next location, the next thing."
+         "Whether you’re a property manager flipping a unit or an owner packing up a shop, your time is worth more than carrying cabinets. {{fact:cleanupScope}}."
         ]
        ]
       },
@@ -148,7 +148,7 @@
       },
       {
        "n": "05",
-       "title": "Junk pickup on Etobicoke's clock — early, late, weekends, between shifts",
+       "title": "Junk pickup on Etobicoke's clock — early, late, weekends, between shifts (subject to scheduling)",
        "text": [
         [
          "Restaurants on the Queensway clear before service, retailers near Sherway clear after close, industrial tenants clear on Sundays when the dock is free. Your junk removal fits into the schedule’s blind spot — never into your revenue hours."
@@ -177,7 +177,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Etobicoke Junk Removal Pricing — Volume In, Flat Rate Out"
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "h",
@@ -193,7 +193,6 @@
     {
      "t": "checks",
      "items": [
-      "Written Flat-Rate Quotes On Site",
       "{{fact:licensedInsured}}"
      ]
     },
@@ -210,12 +209,6 @@
      "t": "price",
      "label": "Etobicoke Junk Removal Pricing",
      "value": "Junk Load from {{min_price:C}}"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -237,7 +230,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "The Etobicoke Junk Removal Sequence — Four Steps From Booked to Broom-Swept"
+     "text": "The Etobicoke Junk Removal Sequence — Four Steps From Booked to"
     },
     {
      "t": "p",
@@ -266,7 +259,7 @@
        "title": "Walk the Unit, Approve the Junk Removal Quote",
        "text": [
         [
-         "Show the crew the full scope — the racking, the retired office suite, whatever the last tenant abandoned in the cage. It’s measured against truck space and returned as one flat written figure. Approve it and work starts now; decline and it costs nothing."
+         "{{fact:equipmentScope}}. Approve it and work starts now; decline and it costs nothing."
         ]
        ]
       },
@@ -276,15 +269,6 @@
        "text": [
         [
          "Floors protected, frames padded, elevators booked, fixtures dismantled where they stand — then load after load out the service route and into the truck. Neighbouring tenants keep working; your space just gets emptier."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Sweep, Sort, Sign Off on the Junk Disposal",
-       "text": [
-        [
-         "Every Etobicoke job closes with a broom sweep and paperwork on request. The truckload then splits by destination: donation partners for the usable, licensed recyclers for metals and e-waste, and landfill strictly for the remainder no one else will take."
         ]
        ]
       }
@@ -325,19 +309,10 @@
        "Unit cleanouts across Rexdale, North Etobicoke and the Queensway industrial belt"
       ],
       [
-       "Pallet racking, shelving systems and mezzanine contents dismantled and hauled"
-      ],
-      [
-       "Machinery components, scrap metal and retired equipment disposal"
-      ],
-      [
        "Refused stock, packaging waste, skids and strapping removal"
       ],
       [
        "Refit clear-outs as older industrial stock converts to studios, gyms and breweries"
-      ],
-      [
-       "Multi-truck capacity for full-building clearances"
       ]
      ]
     },
@@ -414,9 +389,6 @@
       ],
       [
        "Condo and commercial common-area, locker and garage purges"
-      ],
-      [
-       "Move-out sweeps between tenants, timed to your leasing calendar"
       ],
       [
        "Fit-out and construction debris pickup between phases"
@@ -709,7 +681,7 @@
        "q": "Can you work in buildings with freight elevators and dock rules?",
        "a": [
         [
-         "Daily. {{fact:insuranceDocs}}. Tell us the building’s rules at booking and the crew arrives already compliant."
+         "Daily. {{fact:insuranceDocs}}."
         ]
        ]
       },
@@ -725,7 +697,7 @@
        "q": "Do you clear film and production studio spaces?",
        "a": [
         [
-         "Yes — Etobicoke’s studio conversion wave made set, prop and staging removal a regular line of work. Wrapped production, closing studio or refit in progress, everything hauls at the same flat volume rates with scheduling built around your production calendar."
+         "Yes — Etobicoke’s studio conversion wave made set, prop and staging removal a regular line of work. {{fact:changedScope}}."
         ]
        ]
       },
@@ -749,7 +721,7 @@
        "q": "Do you take recurring junk removal contracts from Etobicoke property managers?",
        "a": [
         [
-         "They’re our core repeat business. Weekly, monthly or per-turnover schedules across whole portfolios, priced at the same volume rates every visit, consolidated to a single invoice with one contact who already knows each building’s rules."
+         "They’re our core repeat business. {{fact:changedScope}}."
         ]
        ]
       },

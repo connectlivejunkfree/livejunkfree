@@ -9,7 +9,7 @@
   "description": "Storage Unit Cleanout Services in Bolton for clearing unwanted furniture, boxes, junk, and clutter quickly with Live Junk Free.",
   "canonical": "https://livejunkfree.ca/locations/bolton/storage-unit-cleanout-services-in-bolton/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Storage-Unit-Cleanout-Services-in-Whitby.jpeg"
+  "ogImage": "/images/uploads/2026/08/Storage-Unit-Cleanout-Services-in-Oshawa.jpeg"
  },
  "title": "Storage Unit Cleanout Services in Bolton",
  "h1": "Storage Unit Cleanout Services in Bolton from Live Junk Free",
@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "Whichever facility the unit’s at, town or rural concession, the same flat pricing applies regardless of distance from downtown. Call it storage unit junk removal, junk removal from storage unit, or a heavy-duty storage locker clean out — the same properly sized crew shows up either way."
+      "{{fact:changedScope}}. Call it storage unit junk removal, junk removal from storage unit, or a heavy-duty storage locker clean out — the same properly sized crew shows up either way."
      ]
     },
     {
@@ -150,19 +150,10 @@
       },
       {
        "n": "04",
-       "title": "Same-day storage unit cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first storage unit cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -231,7 +222,7 @@
     {
      "t": "p",
      "c": [
-      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -277,7 +268,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual contents, assesses the real weight involved, and gives you one flat price before anything moves."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -295,7 +286,7 @@
        "title": "Your Unit Is Empty and Ready to Return",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready to hand back to the facility."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready to hand back to the facility."
         ]
        ]
       }
@@ -336,13 +327,7 @@
        "No undersized team improvising with the wrong tools"
       ],
       [
-       "Same flat pricing as any lighter-contents unit"
-      ],
-      [
        "Coordination on scheduling where needed"
-      ],
-      [
-       "Donation-first sorting for items still in usable condition"
       ]
      ]
     },
@@ -358,9 +343,6 @@
        "Storage unit cleanouts at facilities on rural properties and concessions"
       ],
       [
-       "Same flat pricing regardless of distance from town"
-      ],
-      [
        "Long-distance facility coordination handled as part of the visit"
       ],
       [
@@ -368,9 +350,6 @@
       ],
       [
        "Documentation available if the situation requires it"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -393,13 +372,10 @@
        "Coordination directly with facility management on timing"
       ],
       [
-       "Same flat pricing regardless of how tight the timeline is"
-      ],
-      [
        "Priority booking for time-sensitive lease-end dates"
       ],
       [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Documentation available for the facility if required"
@@ -421,16 +397,13 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -826,7 +799,7 @@
        "q": "Do rural facilities cost extra?",
        "a": [
         [
-         "Never. The same flat pricing applies at a downtown facility and one out on the concessions."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },
@@ -866,7 +839,7 @@
        "q": "We need a storage clean out service for a unit full of old shop equipment — can your crew actually move that?",
        "a": [
         [
-         "Yes — that’s genuinely regular work for us here. A properly sized crew and the right technique handle it, whether it’s shop equipment, machinery parts, or heavy furniture."
+         "Yes — that’s genuinely regular work for us here. {{fact:equipmentScope}}."
         ]
        ]
       },
@@ -882,7 +855,7 @@
        "q": "Is a clean out storage unit service here different from what other companies offer for heavy loads?",
        "a": [
         [
-         "The service itself is the same industry — a clean out storage unit service, storage unit junk removal, they all mean sorting and hauling. What’s different here is the crew size actually matches genuinely heavy contents, not a standard team sent regardless of the job."
+         "The service itself is the same industry — a clean out storage unit service, storage unit junk removal, they all mean hauling. What’s different here is the crew size actually matches genuinely heavy contents, not a standard team sent regardless of the job."
         ]
        ]
       },

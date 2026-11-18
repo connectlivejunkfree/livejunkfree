@@ -46,7 +46,7 @@
         "Live Junk Free "
        ]
       },
-      "Uxbridge’s trusted local junk removal team — a locally operated, fully insured crew that serves every property type across Uxbridge Township: rural acreages and working farms, established residential homes in Uxbridge’s town core, heritage properties, lakefront and countryside retreats, and local businesses along Brock Street and Toronto Street. We come to you, assess everything in person, give you a free on-site estimate before touching a thing, and if you’re ready, it’s gone the same day."
+      "Uxbridge’s trusted local junk removal team — a locally operated, fully insured crew that serves every property type across Uxbridge Township: rural acreages and working farms, established residential homes in Uxbridge’s town core, heritage properties, lakefront and countryside retreats, and local businesses along Brock Street and Toronto Street. {{fact:scheduling}}"
      ]
     },
     {
@@ -111,29 +111,9 @@
      "text": "We've heard it from Uxbridge residents before: \"Most companies won't come this far out\" or \"They quoted double because of the distance.\" That's not how we operate. Every Uxbridge Township property is priced the same way — by the volume of junk we remove, not by how far we drive to get there. Goodwood gets the same fair price as the Uxbridge town core. A rural concession near Sandford gets the same professional service as a residential street near the library. We are locally owned, fully insured and genuinely committed to serving all of Uxbridge Township — not just the easy jobs close to the highway."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Volume-based pricing — simple, consistent and fair for every Uxbridge property",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "You pay based on how much space your items fill in our truck. Whether it's a single couch from a Uxbridge townhouse or a full barn and equipment shed on a Leaskdale farm — the calculation is the same. How much truck space. One fair price. The clock never runs."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "We come to your property and quote in person — always",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -141,29 +121,9 @@
      "text": "No phone guesses. No online forms that spit out an estimate that doubles when we arrive. We physically drive to your Uxbridge Township property, walk through every area with you, and calculate your price based on what we see with our own eyes. Simple honest pricing starts with honest assessment."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Fair — one flat-rate number",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} No rural travel surcharge for Goodwood or Sandford properties. No \"extended service area\" premium for properties on Uxbridge Township concession roads. One number. Everything covered."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Fair for small jobs and large ones",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -171,29 +131,9 @@
      "text": "A single appliance removal from a Uxbridge apartment is treated with the same care and fairness as a multi-outbuilding farm clearance near Leaskdale. Small loads are priced small. Large acreage jobs are priced accurately for the volume involved — not inflated because of property type."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "{{fact:competitorComparison}}",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "We hand you the quote on-site. If it works, we start immediately. If it doesn't, you owe nothing and we leave. Once you've approved it, that number is permanent — regardless of how the job unfolds, regardless of how long it takes, regardless of what we find."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -268,7 +208,7 @@
       {
        "title": "Book Your Pickup",
        "text": [
-        "Call +1 647 922 5865 or book online in minutes. We'll confirm your same-day or next-day appointment when available and provide a 30-minute arrival notice before we arrive."
+        "Call +1 647 922 5865 or book online in minutes. {{fact:scheduling}}"
        ]
       },
       {
@@ -286,7 +226,7 @@
       {
        "title": "Enjoy a Clean, Clutter-Free Property",
        "text": [
-        "We complete a final walkthrough, sweep the area clean, and sort items responsibly through donation, recycling, and proper disposal."
+        "We complete a final walkthrough, and sort items responsibly through donation, recycling, and proper disposal."
        ]
       }
      ]
@@ -324,7 +264,7 @@
          "Farm property cleanout Uxbridge Township"
         ],
         [
-         "Agricultural equipment removal Uxbridge — old machinery, implements, tools"
+         ""
         ],
         [
          "Outbuilding cleanout Uxbridge — sheds, workshops, coach houses"
@@ -667,7 +607,7 @@
        "q": "Q: Do you offer same-day junk removal in Uxbridge?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of Uxbridge Township including Goodwood, Claremont, Sandford, Leaskdale and surrounding Durham Region communities. Call +1 647 922 5865 to confirm today’s availability."
+         "{{fact:scheduling}} Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },
@@ -699,7 +639,7 @@
        "q": "Q: Are you a local Uxbridge company or a franchise?",
        "a": [
         [
-         "A: We are 100% locally owned and operated — not a national franchise."
+         "Careful Removal"
         ]
        ]
       },

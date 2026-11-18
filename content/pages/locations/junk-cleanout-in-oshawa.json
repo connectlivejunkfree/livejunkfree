@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "A city that’s spent a century building things knows how to accumulate them. Oshawa’s basements hold decades of family life, its garages double as workshops, and its houses often carry two or three generations’ worth of belongings. When the day comes to clear one of those spaces — for a sale, a move, an estate or just a fresh start — our fully insured local crew handles the whole job: one free walkthrough, one flat quote, and everything sorted, carried, hauled and swept away, usually in a single visit."
+      "A city that’s spent a century building things knows how to accumulate them. Oshawa’s basements hold decades of family life, its garages double as workshops, and its houses often carry two or three generations’ worth of belongings. {{fact:changedScope}}."
      ]
     },
     {
@@ -97,29 +97,9 @@
      "text": "From the wartime and postwar houses of central Oshawa, where families have often lived for fifty years, to the new subdivisions rising in Kedron and Windfields, every part of this city eventually needs a space emptied. Live Junk Free has become Durham Region's go-to crew for exactly that — Google reviews earned by clearing homes completely, quoting honestly, and treating what's inside them with respect."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Truckloads set the price — the calendar doesn't",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Cleanouts are quoted on one measure: how much volume leaves the property. A single-bay garage is a small job priced small; a packed three-bedroom with a workshop out back is quoted as exactly what it is — up front, before we start. No hourly billing, and no neighbourhood premium anywhere in Oshawa."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Nobody can quote a cleanout blind — so we don't try",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -127,59 +107,19 @@
      "text": "The whole reason a cleanout is daunting is that even you don't know everything that's in there. We walk the property with you — house, garage, shed, crawlspace — and only then commit to a figure. The walkthrough is free, and the number that comes out of it is firm."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One price, and it survives every surprise",
-       "text": []
-      }
-     ]
+     "t": "h",
+     "l": 3,
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} When the attic turns out to hold twice the boxes or the workshop bench is bolted down, that's ours to solve."
     },
     {
      "t": "h",
      "l": 3,
-     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} When the attic turns out to hold twice the boxes or the workshop bench is bolted down, that's ours to solve. Your approved price doesn't move."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Estates and hard goodbyes handled the right way",
-       "text": []
-      }
-     ]
+     "text": "Many Oshawa cleanouts follow a loss or a move into care, in houses where a family's whole history lives."
     },
     {
      "t": "h",
      "l": 3,
-     "text": "Many Oshawa cleanouts follow a loss or a move into care, in houses where a family's whole history lives. Our crew clears these differently — slower, sorting as we go, pulling aside photos, papers, medals, tools with names engraved on them — and routes usable belongings to donation instead of a bin."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "The decision stays yours the entire time",
-       "text": []
-      }
-     ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Free walkthrough, free quote, zero commitment until you say go. Approve it and we start on the spot; wave it off and we leave without charging a thing. There's no deposit, no expiry date on the quote, and no salesperson calling back."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Local, franchise-free",
-       "text": []
-      }
-     ]
+     "text": "Free walkthrough, free quote, zero commitment until you say go. Approve it and we start at the onsite estimate; wave it off and we leave without charging a thing. There's no deposit, no expiry date on the quote, and no salesperson calling back."
     },
     {
      "t": "h",
@@ -194,11 +134,6 @@
      "t": "h",
      "l": 2,
      "text": "What a Cleanout Costs in Oshawa"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "One Flat Figure, Fixed Before the First Box Moves"
     },
     {
      "t": "h",
@@ -241,7 +176,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "The Oshawa Cleanout Playbook — Four Steps, Start to Swept"
+     "text": "The Oshawa Cleanout Playbook — Four Steps, Start to"
     },
     {
      "t": "h",
@@ -266,13 +201,13 @@
       {
        "title": "3. We Sort, Lift and Load",
        "text": [
-        "On your approval the crew digs in: sorting as we clear, flagging valuables and sentimental finds, separating donations from disposal, and carrying every last item out ourselves. Tools down to the last socket, boxes down to the last flap."
+        "{{fact:cleanupScope}}. Tools down to the last socket, boxes down to the last flap."
        ]
       },
       {
-       "title": "4. Swept Clean, Split Three Ways",
+       "title": "4., Split Three Ways",
        "text": [
-        "Each cleared space gets swept before we leave. The truck's contents then split by destination — donation partners, then recyclers for metal, wood and e-waste, then landfill only for the true remainder."
+        "Each cleared space gets before we leave. The truck's contents then split by destination — donation partners, then recyclers for metal, wood and e-waste, then landfill only for the true remainder."
        ]
       }
      ]
@@ -307,7 +242,7 @@
          "Attic and crawlspace clearing"
         ],
         [
-         "Pre-sale cleanouts — swept and photo-ready for listing"
+         "Pre-sale cleanouts — and photo-ready for listing"
         ],
         [
          "Pre-renovation clears — empty rooms before the contractors start"
@@ -327,7 +262,7 @@
          "Workshop clear-outs — benches, tool overflow, hardware, offcuts"
         ],
         [
-         "Scrap metal and old machinery hauling"
+         ""
         ],
         [
          "Shed and outbuilding emptying"
@@ -336,7 +271,7 @@
          "Yard cleanups — lumber piles, old fencing, play structures, tires"
         ],
         [
-         "Automotive junk — parts, rims and shop leftovers (fluids drained)"
+         ""
         ]
        ]
       },
@@ -344,7 +279,7 @@
        "q": "Estate, Downsizing & Hoarding Cleanouts in Oshawa",
        "a": [
         [
-         "Estate cleanouts — patient, respectful, valuables handed to family"
+         ""
         ],
         [
          "Downsizing support for longtime Oshawa homeowners"
@@ -523,7 +458,7 @@
        "q": "Q: Can you clear a garage full of tools and shop equipment?",
        "a": [
         [
-         "A: Happily — Oshawa garages are some of the best-stocked in the country. We haul benches, tool chests, hardware bins, scrap metal, old machinery and automotive leftovers, and we’re careful to flag anything that looks valuable or sellable before it’s loaded rather than after."
+         "A: Happily — Oshawa garages are some of the best-stocked in the country. {{fact:equipmentScope}}."
         ]
        ]
       },

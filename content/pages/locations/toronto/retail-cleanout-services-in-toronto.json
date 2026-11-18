@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Live Junk Free clears retail units across Toronto — the Queen West and Danforth strips, Bloor and Yonge storefronts, condo podium units downtown, and the restaurant closures that turn over faster here than anywhere in the country. City retail brings problems suburban units never have: no rear laneway, no loading dock, a curb lane you may need a permit to occupy, and a landlord counting the days to your surrender date. We handle all of it under one flat price per unit."
+     "text": "Live Junk Free clears retail units across Toronto — the Queen West and Danforth strips, Bloor and Yonge storefronts, condo podium units downtown, and the restaurant closures that turn over faster here than anywhere in the country."
     },
     {
      "t": "ctas",
@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "We plan the parking before we plan the crew. That means checking the rush-hour restrictions on your block, confirming whether the removal falls inside permitted hours, and scheduling overnight where the street leaves no other option. It is unglamorous and it is the difference between a retail cleanout finishing in one visit and a half-emptied unit sitting past your surrender date while you pay holdover rent."
+      "We plan the parking before we plan the crew. {{fact:scheduling}} It is unglamorous and it is the difference between a retail cleanout finishing and a half-emptied unit sitting past your surrender date while you pay holdover rent."
      ]
     },
     {
@@ -112,7 +112,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "One flat price per unit, permit-aware scheduling, and crews that work when the street allows rather than when it suits us. For operators closing more than one location, every site runs under a single quote with consolidated invoicing."
+     "text": "For operators closing more than one location, every site runs under a single quote with consolidated invoicing."
     }
    ]
   },
@@ -126,7 +126,7 @@
        "title": "Retail cleanout services quoted with curb access confirmed first",
        "text": [
         [
-         "Rush-hour restrictions, bike lanes, streetcar right-of-way and permit requirements are confirmed at the walkthrough. You get a retail cleanout price that already accounts for how the unit can actually be emptied."
+         "{{fact:permits}} You get a retail cleanout price that already accounts for how the unit can actually be emptied."
         ]
        ]
       },
@@ -153,7 +153,7 @@
        "title": "Retail fixture removal, shopfittings and shelving dismantling",
        "text": [
         [
-         "Gondola runs, slatwall, wall standards, display cases, cash desks, fitting rooms, signage and back-of-house racking. Light interior demolition of tenant improvements where the lease requires the unit returned to base condition."
+         "{{fact:equipmentScope}}. Light interior demolition of tenant improvements where the lease requires the unit returned to base condition."
         ]
        ]
       },
@@ -163,15 +163,6 @@
        "text": [
         [
          "{{fact:insuranceDocs}}. We arrange it before dispatch."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "",
-       "text": [
-        [
-         "Tenants use it for deposit recovery; landlords use it when a restoration claim is contested."
         ]
        ]
       }
@@ -271,13 +262,13 @@
     {
      "t": "p",
      "c": [
-      "Volume and fixtures set the number; the street sets how long it takes to move them. A small Ossington or Roncesvalles unit with a counter, some shelving and leftover stock is a short job. A full restaurant build-out or a multi-floor Yonge Street unit with a basement stockroom, mezzanine and fitted kitchen is a different scale of work, and we quote it for what is genuinely there."
+      "Volume and fixtures set the number; the street sets how long it takes to move them. A small Ossington or Roncesvalles unit with a counter, some shelving and leftover stock is a short job. {{fact:changedScope}}."
      ]
     },
     {
      "t": "p",
      "c": [
-      "We are direct about access because in this city it is a real cost. A College Street unit where every item crosses a live sidewalk during permitted hours only is slower than a suburban bay with a dock, even with identical contents. What does not enter the calculation: which neighbourhood you are in, how soon your surrender date falls, or how many units you are closing. Each location is priced on its own volume, and the rate stays consistent across every site in a multi-unit closure. The figure is confirmed in writing at the walkthrough and it does not move afterwards."
+      "We are direct about access because in this city it is a real cost. A College Street unit where every item crosses a live sidewalk during permitted hours only is slower than a suburban bay with a dock, even with identical contents. What does not enter the calculation: which neighbourhood you are in, how soon your surrender date falls, or how many units you are closing. {{fact:changedScope}}. The figure is confirmed in writing at the walkthrough and it does not move afterwards."
      ]
     },
     {
@@ -304,7 +295,7 @@
     {
      "t": "p",
      "c": [
-      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -346,29 +337,20 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Free walkthrough and one flat retail cleanout price",
-       "text": [
-        [
-         "Sales floor, back-of-house, basement stockroom, mezzanine, exterior signage. One figure per location, confirmed before anything is touched, held to completion."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Retail cleanout scheduled to your street's access rules",
        "text": [
         [
-         "If your block permits daytime work, we come in daylight. If it does not, we come at 5AM or after close. Permits arranged where the removal requires occupying the curb lane."
+         "{{fact:permits}} If it does not, we come at 5AM or after close."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Fixtures removed, unit swept",
+       "title": "Fixtures removed, unit",
        "text": [
         [
-         "Shopfittings dismantled, stock and equipment removed, reusable items to donation partners and resale buyers, metal and electronics to recycling. Unit left broom-swept for inspection, with photos and invoice issued the same day, subject to scheduling."
+         "Shopfittings dismantled, stock and equipment removed, reusable items to donation partners and resale buyers, metal and electronics to recycling. Unit left for inspection, with photos and invoice issued the same day, subject to scheduling."
         ]
        ]
       }
@@ -473,7 +455,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available runs well beyond retail cleanout across Toronto. Our commercial junk removal covers restaurants and bars, offices from the Financial District to Liberty Village and Leslieville, medical and professional suites, salons and studios, warehouses and light-industrial space in the Junction and Port Lands, and condo podium commercial throughout the core — with same-day attendance wherever the street and the building allow. Our residential junk removal handles furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and yard waste from condos, semis and houses in every neighbourhood. Our demolition services cover interior strip-outs, tenant improvement removal, bar and kitchen builds, partitions, dropped ceilings and built-in fixtures, plus sheds, garages, decks, fences, gazebos and above-ground pools on residential lots. For full property clearing we provide same-day office cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services, subject to scheduling. One booking covers any combination of it, and our GTA junk removal rates hold consistent across the region."
+      "Same-day service when available runs well beyond retail cleanout across Toronto. Our commercial junk removal covers restaurants and bars, offices from the Financial District to Liberty Village and Leslieville, medical and professional suites, salons and studios, warehouses and light-industrial space in the Junction and Port Lands, and condo podium commercial throughout the core — with same-day attendance wherever the street and the building allow, subject to availability. Our residential junk removal handles furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and yard waste from condos, semis and houses in every neighbourhood. Our demolition services cover interior strip-outs, tenant improvement removal, bar and kitchen builds, partitions, dropped ceilings and built-in fixtures, plus sheds, garages, decks, fences, gazebos and above-ground pools on residential lots. For full property clearing we provide same-day office cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services, subject to scheduling. One booking covers any combination of it, and our GTA junk removal rates hold consistent across the region."
      ]
     },
     {
@@ -511,7 +493,7 @@
      "t": "ul",
      "items": [
       [
-       "We handle storefront cleanouts across Queen West, Ossington, Dundas West, Danforth, Bloor, College, and Roncesvalles. Curb access is assessed before the job, with street occupancy permits arranged where required. {{fact:scheduling}} Glazing, storefronts, and neighbouring shopfronts are protected throughout, and basement stockrooms and mezzanine storage are cleared alongside the sales floor."
+       "We handle storefront cleanouts across Queen West, Ossington, Dundas West, Danforth, Bloor, College, and Roncesvalles. {{fact:permits}}"
       ]
      ]
     },

@@ -1,4 +1,96 @@
-# Batch 1 report: first 50 pages, with the 18 Nov 2026 answers and Manisha's follow-up applied
+# Batch 1 report: first 50 pages, after the 18 Nov independent QA
+
+Branch `batch-1-fixes`, 19 Nov 2026.
+- **QA source:** `LJF_First50_Independent_QA_2026-11-18.xlsx`.
+- **Row-by-row result:** `LJF_QA_Reconciliation_2026-11-18_WORKING.xlsx`. Every Acceptance Register row, P0 action, new defect, P1 gate and all 156 original issues have a new status, the current text (or "removed"), screenshots, files changed and the linter result.
+
+**Status against the QA's "ready to share with Nav" bar** (zero P0, zero new defects, zero linter failures on the 50 pages):
+
+| | QA 18 Nov | Now |
+|---|---|---|
+| P0 pages | 35 open | **0 open**: 29 fixed; 6 safe-worded and held for Nav (B1-26, 33, 36, 39, 40, 41: preparation or scope wording) |
+| P1 gate pages | 12 | 7 fixed (B1-02, 07, 18, 21, 27, 37, 47). B1-31 safe-worded (carpet scope with Nav). B1-08 and B1-10 need a Nav fact (company history; served areas). B1-09 and B1-35: end-to-end delivery is checked in the controlled test |
+| Deferred page | B1-12 | The estate thank-you page is kept for the one authorised conversion test (E.6) and never opened |
+| New defects | 5 | **0**: all fixed, each now covered by an automated check |
+| Claims linter, 50 pages | not run | **0 failing hits** (561 before this round); every allowed hit has a written reason |
+| Page linter, 50 pages | not run | **0 failing checks** (94 before) |
+| QA end-state assertions | | **61 / 61 pass** |
+| Original issues | 41 fixed, 32 open, 48 partial, 35 unverified | 122 fixed, 33 safe-worded and waiting on Nav, 1 deferred (Markham URLs, after Search Console). None left open without a reason |
+
+Preview URL (Vercel builds it after the push): `livejunkfree-git-batch-1-fixes-…vercel.app` (needs Vercel sign-in), or `livejunkfree-phi.vercel.app` once merged to `main`. It's a review preview only: `noindex`, no live GTM, emails in test mode.
+
+## How it's checked (run on every change)
+
+```
+npm run build && npm run check:content
+```
+
+| Check (`scripts/checks/`) | What it proves |
+|---|---|
+| `claims-lint` | Scans visible text, `<title>`, meta description, alt text and every JSON-LD string on all 787 routes for the QA's claim patterns (`claims-patterns.json`: guarantees, price, timing, specialist scope, handling, recycling, superlatives, local presence). Fails on any un-allowed hit on the 50 pages. Report: `claims-report.csv` |
+| `page-lint` | Checks for: missing, empty or duplicate H1s; headings, cards or accordions with no body; gutted pages (under 150 words); broken or run-together text; raw slugs; residential CTAs on the wrong pages; quote CTAs to /contact/; call links that aren't `tel:`; form default service; FAQ vs FAQPage parity; wrong-service images, file-name alts and swapped before/after alts. Report: `page-lint-report.csv` |
+| `qa-acceptance` | The required end state of each QA P0 row: exact H1s, the meta, required wording, required links, hero image, FAQ count. Report: `qa-acceptance-report.csv` |
+| `pricing-check` | All 20 rates and both labour notes vs Nav's card, and the figures on Home, How It Works and Estate |
+| `tracking-test` | The conversion fires only after a successful submit, once per `lead_id`; nothing on the thank-you routes; GTM only on livejunkfree.ca. Proven without opening a thank-you page |
+| `email-check` | The acknowledgement never reads like a confirmed appointment; recipients come from the env settings; test mode is on by default |
+
+"Before" reports are kept for comparison: `claims-report.before.csv`, `page-lint-report.before.csv`.
+
+## Why the last round failed, and what changed
+
+The last round fixed phrases, so the same claims came back in other words. Some deletions also broke pages. This round:
+
+1. **Patterns, not phrases (template / data level).** `scripts/content-rules.mjs` gained rules for each QA category. They run over all 784 content files; outside the 50 pages, claim hits fell from 11,033 to 1,145. The same-day rule now uses the QA's qualifier list ("subject to availability", "may be available", "depending on…"), not looser words like "most" or "available".
+2. **Nothing is left empty.** A structure step after the rules removes only what a rule emptied: a card, an FAQ item, a list item, a heading made into a label, a counter block. It never removes a section or an H1. An empty H1 is filled with the page's name.
+3. **The cause of the gutted pages is fixed.** In `scripts/batch1-page-fixes.mjs`, `dropItem` also matched whole sections, which emptied Water Tank and thinned E-Waste, Concrete, Carpet, Garage Demolition, Storage and others. It now removes only list items, and the lost sections were restored (safe-worded) on 15 pages.
+4. **One label source for links.** Breadcrumbs, related-service lists and town service lists now use each page's own processed title, not the manifest's copy of the WordPress title. That removed every raw slug ("business-cleanout-services", 64 site-wide) and the old claims in link text.
+5. **Page-specific end states** are in `scripts/batch1-qa-fixes.mjs`, each tagged with its QA / OBS id and re-runnable. That includes the full Water Tank body, the piano advantages, the cleanout hub's service descriptions, and the mattress, retail and storage rewrites.
+
+### Template / shared changes
+
+| Area | Change | Files |
+|---|---|---|
+| Hero photos | Fallbacks are neutral crew photos; the backyard-deck photo no longer stands in for estate or office, and the deck photo not for concrete | `AutoPage.tsx`, `estate.ts`, `other.ts` |
+| Closing form | Titled by service: "Request a commercial / demolition / cleanout / junk removal quote"; "Request a callback" on the bed bug pages | `AutoPage.tsx` |
+| Truck "Get a quote" | Goes to the page's own `#quote-form` | `LoadMeter.tsx` |
+| Cleanout pages' form | Office Cleanouts defaults to Commercial, from the shared page mapping | `src/templates/Cleanout.tsx` |
+| Normaliser | A sentence typed as an H3 under a heading is shown as body text; "Recent Reviews -" widget labels are dropped | `normalize.ts` |
+| Prices | The "from C$125" and "C$655" facts read from `pricing.json` (`{{rate:…}}`); tokens resolve in blog excerpts and BlogPosting | `facts.ts`, `business-facts.json`, `schema.ts`, `Blog.tsx` |
+| Ratings | Aggregate stars show only with a verified rating (B8.1) | `Stars.tsx` (both) |
+| Text size | Card, step, area and tick text is 16px on desktop too | `globals.css` |
+| Tracking | De-duplication moved to a pure, tested module | `src/lib/tracking/dedupe.ts` |
+
+## Tests (19 Nov 2026)
+
+| Test | Result |
+|---|---|
+| Device QA: all 49 ordinary pages at 360×780, 390×844, 768×1024 and 1280×900 (real Playwright emulation; actual viewport widths logged and matching) | 196 runs. 0 HTTP or load errors, 0 horizontal overflow, 0 wrong `tel:`, 0 dead anchors, sticky call bar on phones, menu opens, FAQ opens by tap and keyboard, truck changes fill and price, 0 text under 16px, 0 tap targets under 44px, 1 FAQPage per page, 0 JSON-LD errors, 0 unresolved tokens, 0 JS errors. B1-09 has the booking form instead of `#quote-form`, by design |
+| Forms: local server with the database and email keys blanked (nothing saved or sent; Google tags blocked; thank-you pages never loaded) | Home, Estate, Business, Deck, Aurora apartment and /contact/ booking each send service, service_detail, city, page_id and callback_time. Estate redirects to its own thank-you URL (target checked, not loaded). Empty submits show validation errors and send nothing |
+| Link crawl | 789 internal links on 788 pages, 0 broken (`url-inventory.csv`) |
+| Schema, one page per template | All valid; one FAQPage; `minPrice` only on standard junk pages |
+| Pricing | 20 / 20 rates and both labour notes match (`pricing-verification.md`) |
+| Screenshots | Screen-size: `evidence/<page>-after-390.jpg`, `-after-1280.jpg` (before: `-before-390/-1440`). Full page: `~/Downloads/livejunkfree-extras/qa-2026-11-19-fullpage/` |
+
+Not run here, by design: a real submission into the live database and real email delivery. The admin confirm email is checked in Manisha's controlled test (E.6). Reschedule and cancel emails aren't part of phase 1 (Answers A3.4, A3.7).
+
+## P1 release gates: who owns what
+
+| Gate | State | Owner |
+|---|---|---|
+| Pricing source | **Done**: verified against Nav's card | — |
+| Lead delivery (stored lead, Nav + info@ + CC, acknowledgement) | Code checks pass. Needs the controlled test (E.6), the second migration and `LEAD_NOTIFY_EMAIL` / `LEAD_CC_EMAIL` set | Manisha (test), Akshat (env) |
+| Tracking | `tracking-test` passes; Ads de-duplication confirmed in the controlled test; GTM-container triggers checked (D.3) | Manisha |
+| SEO migration | `docs/LAUNCH-SEO-CHECKLIST.md`; run at cutover with E.7 approval; Search Console review first (D.2) | Akshat + Manisha |
+| Media proof | Wrong-context photos neutralised and logged in `MEDIA-NEEDED.md`; approved Drive photos needed | Nav / Manisha (Drive access) |
+| Coverage | `service-areas-for-nav.md`: 26 communities to confirm | Nav |
+| Handover | Editor (Keystatic) to build before launch (E.5); demo script in `docs/CMS-OPTIONS.md` | Akshat |
+
+Claims held for Nav, with their current wording and question numbers: `NAV-CONFIRMATIONS.md`, at the top.
+
+---
+
+# Earlier round: 18 Nov answers applied
+
 
 Branch `batch-1-fixes`. Sources:
 - `LJF_Akshat_Implementation_Register_v1_2026-11-12.xlsx`

@@ -80,14 +80,14 @@
     {
      "t": "p",
      "c": [
-      "Our Pickering eviction cleanout services cover properties throughout the city, including Bay Ridges, West Shore, Frenchman’s Bay, Liverpool, Village East, Dunbarton, Rougemount, Rosebank, Highbush, Town Centre, Amberlea, Brock Ridge, Blue Grass Meadows, Duffin Heights, Seaton, and nearby residential areas. We also serve properties along Kingston Road, Brock Road, Liverpool Road, Whites Road, Altona Road, Finch Avenue, Fairport Road, and other Pickering corridors. Whether you need an apartment eviction cleanout, house eviction cleanout, condo cleanout, or foreclosure cleanout, our local team can help clear the property efficiently."
+      "Our Pickering eviction cleanout services cover properties throughout the city, including Bay Ridges, West Shore, Frenchman’s Bay, Liverpool, Village East, Dunbarton, Rougemount, Rosebank, Highbush, Town Centre, Amberlea, Brock Ridge, Blue Grass Meadows, Duffin Heights, Seaton, and nearby residential areas. We also serve properties along Kingston Road, Brock Road, Liverpool Road, Whites Road, Altona Road, Finch Avenue, Fairport Road, and other Pickering corridors. Whether you need an apartment eviction cleanout, house eviction cleanout, condo cleanout, or foreclosure cleanout, our team can help clear the property efficiently."
      ]
     },
     {
      "t": "img",
      "image": {
       "src": "/images/uploads/elementor/thumbs/eviction-cleanout-services-rr0twsm2u8xtgkjom4gto2kqxytsdwvxwo5bvurnp0.jpeg",
-      "alt": "eviction-cleanout-services"
+      "alt": "Eviction Cleanout in Pickering: Live Junk Free job photo"
      }
     }
    ]
@@ -106,7 +106,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "An eviction cleanout often needs to happen quickly, but speed should not mean careless handling. Live Junk Free combines efficient removal with upfront pricing, respectful service, and responsible sorting."
+     "text": "An eviction cleanout often needs to happen quickly, but speed should not mean careless handling."
     }
    ]
   },
@@ -162,16 +162,7 @@
        "title": "Responsible Eviction Cleanout Disposal",
        "text": [
         [
-         "We sort materials during the removal process and prioritize responsible disposal whenever possible. Furniture, metals, and electronics may be recycled, while usable goods can be directed toward donation opportunities when appropriate."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Final Sweep After Pickering Eviction Cleanout",
-       "text": [
-        [
-         "Once the belongings are removed, our crew performs a final sweep and tidy of the cleared areas. This helps leave the property in a cleaner condition for inspection, repairs, listing, or the next occupant."
+         "We sort materials during the removal process and prioritize responsible disposal whenever possible. Furniture, metals, and electronics may be recycled where possible, while usable goods can be directed toward donation opportunities when appropriate."
         ]
        ]
       }
@@ -303,7 +294,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -367,7 +358,7 @@
        "title": "We Remove It All",
        "text": [
         [
-         "Our crew arrives at the property, handles the heavy lifting, removes the unwanted belongings, sorts materials responsibly, hauls everything away, and completes a final sweep."
+         "{{fact:cleanupScope}}."
         ]
        ]
       }
@@ -1150,7 +1141,7 @@
        "q": "Can you remove furniture and appliances left behind by tenants?",
        "a": [
         [
-         "An eviction cleanout can include the removal of unwanted furniture, appliances, electronics, mattresses, clothing, boxes, trash, and other belongings left behind after a tenant leaves. Our crew handles the lifting, loading, hauling, sorting, disposal, and final sweep."
+         "An eviction cleanout can include the removal of unwanted furniture, appliances, electronics, mattresses, clothing, boxes, trash, and other belongings left behind after a tenant leaves. {{fact:cleanupScope}}."
         ]
        ]
       },
@@ -1166,7 +1157,7 @@
        "q": "Can you clean out multiple rental units?",
        "a": [
         [
-         "Yes, same-day eviction cleanout service may be available in Whitby, depending on our schedule. Next-day, weekend, and evening appointments may also be available."
+         "Yes, same-day eviction cleanout service may be available in Whitby, depending on our schedule. Next-day, weekend, and evening appointments may also be available, subject to scheduling."
         ]
        ]
       },

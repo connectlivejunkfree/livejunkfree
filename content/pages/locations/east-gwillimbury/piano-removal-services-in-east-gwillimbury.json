@@ -9,7 +9,7 @@
   "description": "Ask what a typical piano removal looks like in East Gwillimbury and the honest answer depends entirely on which half of the municipality you're standing in.",
   "canonical": "https://livejunkfree.ca/locations/east-gwillimbury/piano-removal-services-in-east-gwillimbury/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Piano-Removal-in-East-Gwillimbury.jpg"
+  "ogImage": "/images/uploads/2026/08/Piano-Removal-in-Oshawa.jpg"
  },
  "title": "Piano Removal Services in East Gwillimbury",
  "h1": "Piano Removal Services in East Gwillimbury from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/2026/08/Piano-Removal-in-East-Gwillimbury.jpg",
+      "src": "/images/uploads/2026/08/Piano-Removal-in-Oshawa.jpg",
       "alt": "Piano Removal in East Gwillimbury",
       "width": 618,
       "height": 496
@@ -120,7 +120,7 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat price, identical in every hamlet and corridor street",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Holland Landing, Sharon, a Green Lane subdivision — the number reflects the piano, never the neighbourhood. A removal costs the same whether it’s a century-old hamlet home or a subdivision built five years ago."
@@ -151,15 +151,6 @@
        "text": [
         [
          "Century hamlet homes and modern subdivision builds have genuinely different layouts, and the crew walks the actual path a piano needs to travel in either case rather than assuming one generic floor plan."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Farm and concession piano removal",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -201,8 +192,7 @@
     {
      "t": "checks",
      "items": [
-      "Move + Disassembly + Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Move + Disassembly + Haul-Away"
      ]
     },
     {
@@ -339,13 +329,10 @@
        "Wall, corner and staircase protection throughout"
       ],
       [
-       "Donation-first checks before any piano is recycled"
+       "Donation-first checks before any piano is recycled where possible"
       ],
       [
        "Careful handling around original hamlet-home layouts"
-      ],
-      [
-       "Same flat pricing as anywhere else in the municipality"
       ]
      ]
     },
@@ -367,10 +354,7 @@
        "Coordination around new piano delivery dates"
       ],
       [
-       "Same-day service for straightforward access"
-      ],
-      [
-       "Donation-first sorting before any recycling"
+       "Service for straightforward access"
       ],
       [
        "Full protection of finished floors throughout"
@@ -391,12 +375,6 @@
      "items": [
       [
        "Piano removal on rural properties between the hamlets and the corridor"
-      ],
-      [
-       "Same flat pricing regardless of distance from the lake"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ],
       [
        "Careful handling around working farm operations"
@@ -851,7 +829,7 @@
        "q": "Do you charge extra for farm properties on the concessions?",
        "a": [
         [
-         "Never. The identical flat pricing applies at a hamlet home, a corridor subdivision, and a farm on the concessions between them. "
+         "Never. {{fact:changedScope}}. "
         ]
        ]
       },

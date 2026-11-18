@@ -6,7 +6,7 @@
  "template": "AdsLanding",
  "seo": {
   "title": "Piano Removal Near You | GTA | Live Junk Free",
-  "description": "Need piano removal in the GTA? Live Junk Free removes upright & grand pianos from any floor. Same-day available. Get a free quote!",
+  "description": "Need piano removal in the GTA? Live Junk Free removes upright & grand pianos from any floor. Same-day may be available. Get a free quote!",
   "canonical": "https://livejunkfree.ca/piano-removal-service/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/piano-removal-services_before.jpg_202607141952.jpeg"
@@ -107,7 +107,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Piano Removal in the GTA — Done in One Visit"
+     "text": "Piano Removal in the GTA — Done"
     },
     {
      "t": "p",
@@ -154,7 +154,7 @@
         "piano disposal near you"
        ]
       },
-      ", including donation to local schools and charities before any landfill option."
+      "{{fact:recycling}}"
      ]
     },
     {
@@ -324,13 +324,13 @@
        "Priced at your free onsite estimate"
       ],
       [
-       "Same-day service available across Toronto, Mississauga, Brampton, Vaughan, Markham and more"
+       "Same-day service may be available across Toronto, Mississauga, Brampton, Vaughan, Markham and more"
       ],
       [
        "Fully licensed and insured on every job"
       ],
       [
-       "Eco-friendly — we donate usable pianos to local schools and charities before any disposal"
+       "Eco-friendly — we donate suitable pianos where possible and charities before any disposal"
       ],
       [
        "Disassembly included for baby grands and large pianos"
@@ -390,7 +390,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Getting rid of a piano is not a one-person job. We bring the right crew, the right equipment, and the experience to remove any piano safely — through stairs, tight hallways, and narrow doorways — without damage to your home. Upfront pricing, fully insured."
+     "text": "Getting rid of a piano is not a one-person job. Upfront pricing, fully insured."
     },
     {
      "t": "cards",
@@ -460,7 +460,7 @@
       {
        "title": "Book",
        "text": [
-        "Call 647-922-5865 or fill out the form. Tell us the piano type and your address. We offer same day piano removal across the GTA when you book before noon."
+        "Call 647-922-5865 or fill out the form. Tell us the piano type and your address. We offer same day piano removal when available across the GTA when you book before noon."
        ]
       },
       {
@@ -478,7 +478,7 @@
       {
        "title": "Responsible Disposal",
        "text": [
-        "We do not just take your piano to the nearest landfill. We explore every option: donation to a music school or community centre, parts salvage, and responsible recycling for what cannot be reused. We will let you know what happens to your piano after we leave."
+        "We do not just take your piano to the nearest landfill. We will let you know what happens to your piano after we leave."
        ]
       }
      ]
@@ -527,7 +527,7 @@
        "q": "How fast can you remove my piano?",
        "a": [
         [
-         "We offer same day piano removal across most of the GTA when you book before 12pm. Call 647-922-5865 to check availability."
+         "We offer same day piano removal when available across most of the GTA when you book before 12pm. Call 647-922-5865 to check availability."
         ]
        ]
       },
@@ -535,7 +535,7 @@
        "q": "What happens to my piano after?",
        "a": [
         [
-         "We check donation options first — music schools, churches, community centres. If it cannot be donated, we recycle what we can. Responsible disposal only."
+         "If it cannot be donated, we recycle what we can. Responsible disposal only."
         ]
        ]
       },

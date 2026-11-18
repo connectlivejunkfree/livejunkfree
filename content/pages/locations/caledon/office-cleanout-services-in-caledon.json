@@ -87,7 +87,7 @@
     {
      "t": "p",
      "c": [
-      "An administrative office may sit beside a workshop. A family business may have records and furniture spread between an office, garage and storage building. A professional workspace may be located in a village property where access and parking require a little more planning."
+      "An administrative office may sit beside a workshop. A family business may have records and furniture spread between an office, garage and storage building."
      ]
     },
     {
@@ -145,7 +145,7 @@
        "title": "No Rural or Distance Surcharge",
        "text": [
         [
-         "Your office may be located in Caledon East, Bolton, Palgrave, Alton or farther along a rural concession. Our pricing is based on the actual volume of material being removed rather than how far the property sits from the village core."
+         "Our pricing is based on the actual volume of material being removed rather than how far the property sits from the village core."
         ]
        ]
       },
@@ -182,15 +182,6 @@
        "text": [
         [
          "Old computers, monitors, printers and other electronics can quickly turn into unwanted storage. We can include office electronics in your cleanout and direct reusable or recyclable materials toward appropriate channels wherever practical."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Careful Sorting Before Disposal",
-       "text": [
-        [
-         "Not every item in an established Caledon office should automatically be treated as garbage. If furniture, equipment or other belongings need to be kept aside for reuse, donation or recycling, we can organize the removal accordingly."
         ]
        ]
       }
@@ -370,7 +361,7 @@
     {
      "t": "p",
      "c": [
-      "Every office cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every office cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -412,20 +403,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Review the Workspace & Get One Flat Quote",
-       "text": [
-        [
-         "Our crew assesses the actual contents and removal requirements. If several structures are involved, we can include them in the same project assessment."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Clear the Office Structure by Structure",
        "text": [
         [
-         "We remove desks, furniture, filing cabinets, workstations, electronics and other unwanted items while sorting materials as the cleanout progresses."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },

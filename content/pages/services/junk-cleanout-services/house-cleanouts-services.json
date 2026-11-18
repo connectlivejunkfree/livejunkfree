@@ -24,11 +24,6 @@
      "text": "Our House Cleanouts Services Handled with Care, Not Just Speed"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in town."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -69,7 +64,7 @@
     {
      "t": "p",
      "c": [
-      "We understand that a whole-house cleanout can be emotionally and physically draining. That’s why our experienced crew takes charge of everything, from furniture and appliances to everyday clutter and unwanted junk."
+      "{{fact:utilityDisconnection}} That’s why our experienced crew takes charge of everything, from furniture and appliances to everyday clutter and unwanted junk."
      ]
     },
     {
@@ -85,7 +80,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/house-cleanouts-services-1024x765.jpeg",
-      "alt": "house-cleanouts-services",
+      "alt": "House Cleanouts: Live Junk Free job photo",
       "width": 800,
       "height": 598
      }
@@ -108,7 +103,7 @@
     {
      "t": "p",
      "c": [
-      "Our residential cleanouts are perfect for homeowners, landlords, or anyone needing efficient home junk removal. We handle furniture, appliances, electronics, and general household debris, making the process quick and stress-free. Need an urgent cleanout? We offer same-day or next-day services to help you reclaim your space as soon as possible."
+      "Our residential cleanouts are perfect for homeowners, landlords, or anyone needing efficient home junk removal. We handle furniture, appliances, electronics, and general household debris, making the process quick and stress-free. Need an urgent cleanout? We offer same-day or next-day services when available to help you reclaim your space as soon as possible."
      ]
     },
     {
@@ -176,7 +171,7 @@
        "Safe and careful handling of bulky or heavy items"
       ],
       [
-       "Same-day and next-day house cleanout services available"
+       "Same-day and next-day house cleanout services may be available"
       ]
      ]
     },
@@ -224,12 +219,6 @@
        "title": "Fast & Flexible Scheduling",
        "text": [
         "– Need your home cleared today? We offer same-day and next-day cleanouts to fit your schedule, subject to scheduling."
-       ]
-      },
-      {
-       "title": "",
-       "text": [
-        "– We’re committed to leaving your home clutter-free and tidy. If you’re not happy, we’ll make it right."
        ]
       },
       {
@@ -286,10 +275,10 @@
        "We recycle furniture, electronics, metals, and other materials whenever possible"
       ],
       [
-       "Usable goods are donated to local shelters and community organizations"
+       "Usable goods are donated where possible"
       ],
       [
-       "We reduce landfill waste through responsible sorting and disposal practice"
+       "We reduce landfill waste through disposal practice"
       ]
      ]
     },
@@ -371,15 +360,9 @@
        ]
       },
       {
-       "title": "Get a Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
-      {
        "title": "Schedule Your Slot",
        "text": [
-        "Pick a time that works for you, with same-day and next-day options available. We offer flexible scheduling for all residential cleanouts."
+        "Pick a time that works for you, with same-day and next-day options when available. We offer flexible scheduling for all residential cleanouts."
        ]
       },
       {
@@ -398,18 +381,18 @@
     {
      "t": "p",
      "c": [
-      "See how our professional house cleanout services transform cluttered spaces into clean, livable homes. From packed basements to full-home clearouts, we handle it all."
+      "From packed basements to full-home clearouts, we handle it all."
      ]
     },
     {
      "t": "gallery",
      "images": [
       {
-       "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
+       "src": "/images/job-1.webp",
        "alt": "House Cleanouts: Live Junk Free job photo"
       },
       {
-       "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
+       "src": "/images/job-2.webp",
        "alt": "House Cleanouts: Live Junk Free job photo"
       },
       {
@@ -421,7 +404,7 @@
        "alt": "House Cleanouts: Live Junk Free job photo"
       },
       {
-       "src": "/images/uploads/2025/07/20250611_115029-1024x577.webp",
+       "src": "/images/job-3.webp",
        "alt": "House Cleanouts: Live Junk Free job photo"
       },
       {
@@ -446,7 +429,7 @@
        "q": "What does your house cleanout service include?",
        "a": [
         [
-         "Our house cleanout service includes removing furniture, appliances, electronics, clothing, trash, and other unwanted items from all areas of your home, including basements, attics, and garages. We also handle sorting, hauling, and responsible disposal, leaving your home clean and ready to use."
+         "Our house cleanout service includes removing furniture, appliances, electronics, clothing, trash, and other unwanted items from all areas of your home, including basements, attics, and garages. We also handle hauling, and responsible disposal, leaving your home clean and ready to use."
         ]
        ]
       },

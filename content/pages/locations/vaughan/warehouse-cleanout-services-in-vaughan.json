@@ -141,7 +141,7 @@
        "title": "Shelving, Racks & Storage Units",
        "text": [
         [
-         "No-longer-needed shelving and storage systems can make a warehouse difficult to reorganize. We remove removable shelving, storage units and racking, with larger pieces dismantled where necessary for removal."
+         "No-longer-needed shelving and storage systems can make a warehouse difficult to reorganize. {{fact:equipmentScope}}."
         ]
        ]
       },
@@ -332,7 +332,7 @@
     {
      "t": "p",
      "c": [
-      "Every warehouse cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every warehouse cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -501,7 +501,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than warehouse cleanout services across Vaughan. Our commercial junk removal handles distribution and logistics facilities, manufacturing units, offices through the Vaughan Metropolitan Centre and Highway 7 corridor, retail and showroom space, restaurants and banquet halls, and building common areas for property managers throughout Concord, Keele Street, Creditstone and the Vaughan Enterprise Zone, with same-day attendance wherever access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and yard waste across Maple, Concord, Thornhill, Kleinburg and Woodbridge. Our demolition services cover pallet racking and mezzanine removal, conveyor and sortation strip-outs, cold storage removal, interior demolition, tenant improvement removal, partitions, dropped ceilings and built-in fixtures, along with sheds, garages, decks, fences, gazebos, above-ground pools and hot tubs on residential lots. Where a property requires complete clearing, we provide same-day office cleanout, retail cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than warehouse cleanout services across Vaughan. Our commercial junk removal handles distribution and logistics facilities, manufacturing units, offices through the Vaughan Metropolitan Centre and Highway 7 corridor, retail and showroom space, restaurants and banquet halls, and building common areas for property managers throughout Concord, Keele Street, Creditstone and the Vaughan Enterprise Zone, with same-day attendance wherever access allows, subject to availability. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and yard waste across Maple, Concord, Thornhill, Kleinburg and Woodbridge. {{fact:equipmentScope}}. Where a property requires complete clearing, we provide same-day office cleanout when available, retail cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -552,7 +552,7 @@
      "t": "ul",
      "items": [
       [
-       "Unused pallets and outdated storage systems can quickly take up valuable warehouse space. We remove unwanted wooden pallets, shelving, storage units and removable racking as part of your warehouse cleanout. Larger shelving or storage pieces can be dismantled into manageable sections where required before being loaded and hauled away."
+       "Unused pallets and outdated storage systems can quickly take up valuable warehouse space. {{fact:equipmentScope}}. Larger shelving or storage pieces can be dismantled into manageable sections where required before being loaded and hauled away."
       ]
      ]
     }
@@ -1094,7 +1094,7 @@
        "q": "Can you do the warehouse cleanout while we're still shipping out of the building?",
        "a": [
         [
-         "Yes, and most of our Vaughan work is like that. We phase it section by section so you keep the floor you need, or run evenings, weekends and overnight where the operation needs the space during the day."
+         "Yes, and most of our Vaughan work is like that. {{fact:scheduling}}"
         ]
        ]
       },
@@ -1118,7 +1118,7 @@
        "q": "Can you remove warehouse shelving?",
        "a": [
         [
-         "Yes. We can remove unwanted shelving, storage units and removable warehouse racking. Larger pieces may require dismantling before removal."
+         "Yes. {{fact:equipmentScope}}. Larger pieces may require dismantling before removal."
         ]
        ]
       },

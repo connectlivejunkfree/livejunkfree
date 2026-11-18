@@ -123,7 +123,7 @@
       },
       {
        "n": "02",
-       "title": "One flat demolition price, town or concession",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Structure size and material set the number, confirmed at the walkthrough — never distance from town, never how heavy the job turns out to be."
@@ -135,7 +135,7 @@
        "title": "Free demolition quotes that scope the real job first",
        "text": [
         [
-         "A crew member walks the structure, sizes up what it’ll actually take to bring down safely, and gives one flat price before anything starts."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -144,7 +144,7 @@
        "title": "Heritage-careful demolition around the Queen Street core",
        "text": [
         [
-         "Century buildings get the patience they’ve earned — nothing rushed or forced near original trim, floors or foundations that have been standing a long time."
+         "{{fact:structuralDemolition}}."
         ]
        ]
       },
@@ -264,15 +264,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Approve One Flat Demolition Quote and a Real Date",
-       "text": [
-        [
-         "The crew walks the job, sizes up the real scope, and gives one flat price before touching anything."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Demolition Runs to the Job's Actual Scale",
        "text": [
@@ -327,9 +318,6 @@
        "Above Ground Pool Demolition — frame, liner and decking torn down and hauled, older bungalow-belt installations handled with extra care"
       ],
       [
-       "Hot Tub Demolition — drained, disconnected and cut apart before removal"
-      ],
-      [
        "Jacuzzi Demolition — same process, any age of structure"
       ]
      ]
@@ -372,9 +360,6 @@
        "Garage Demolition — detached units taken down section by section"
       ],
       [
-       "Deck Demolition — wood and composite, footings addressed for an addition or rebuild"
-      ],
-      [
        "Fence Demolition — full runs or single sections"
       ],
       [
@@ -393,9 +378,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Concrete Demolition — patios, walkways and pads broken up and hauled, grading-conscious near ravine edges"
-      ],
       [
        "Flooring Demolition — old outdoor surfaces and bases removed"
       ],
@@ -675,7 +657,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {
@@ -994,7 +976,7 @@
        "q": "Can you handle a genuinely heavy or large structure?",
        "a": [
         [
-         "Yes — it’s signature Bolton work. Mezzanines unbolt and lower in sequence, warehouse offices come out to open bay, and racking grids drop run by run, usually across a weekend so your dock schedule never notices. Scopes needing structural engineering or specialty rigging get identified at assessment, honestly."
+         "Yes — it’s signature Bolton work. {{fact:equipmentScope}}."
         ]
        ]
       },
@@ -1018,7 +1000,7 @@
        "q": "Can one booking clear several structures on a rural property?",
        "a": [
         [
-         "Licensed trades — yours or ones you arrange — with our schedule built around their disconnects. Every live service we spot at assessment gets flagged, and nothing gets cut that a licence should cut."
+         "{{fact:utilityDisconnection}} Every live service we spot at assessment gets flagged, and nothing gets cut that a licence should cut."
         ]
        ]
       }

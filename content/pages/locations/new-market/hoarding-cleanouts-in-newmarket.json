@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Newmarket-from-Live-Junk-Free-rrlbsjma4iqw8b3oxx7grna2whx3blojq1ltbbfyk0.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Etobicoke-from-Live-Junk-Free-rrn2f2ggg30p9ya53yags84c67nskeze0wcuyqn0ds.jpeg",
       "alt": "Hoarding Cleanouts in Newmarket from Live Junk Free"
      }
     }
@@ -148,7 +148,7 @@
        "title": "Heritage-careful hoarding cleanouts around Main Street",
        "text": [
         [
-         "Century homes get the patience they’ve earned — nothing rushed near original features — while the sorting inside moves entirely at the family’s own pace, not the property’s."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -166,7 +166,7 @@
        "title": "Free on-site quotes, with an honest cost to clean out a hoarder's house",
        "text": [
         [
-         "A crew member walks the property, sees the real scope, and gives one flat number before anything moves — no guessing from a phone description, and once the work is underway."
+         "{{fact:changedScope}}."
         ]
        ]
       }
@@ -193,19 +193,18 @@
     {
      "t": "p",
      "c": [
-      "Hoarder clean out cost comes down to two honest factors: how much space is affected, and how much sorting and donation coordination the belongings genuinely need. A single room is a modest job. A full home with years of accumulation across multiple rooms takes considerably more time, and the price reflects that real difference rather than a flat guess."
+      "Hoarder clean out cost comes down to two honest factors: how much space is affected, and how much donation coordination the belongings genuinely need. A single room is a modest job. A full home with years of accumulation across multiple rooms takes considerably more time, and the price reflects that real difference rather than a flat guess."
      ]
     },
     {
      "t": "p",
      "c": [
-      "What never factors in is when the work actually happens. {{fact:scheduling}} The figure is confirmed privately at a free walkthrough, with no pressure to decide anything on the spot."
+      "What never factors in is when the work actually happens. {{fact:scheduling}} The figure is confirmed privately at a free walkthrough, with no pressure to decide anything at the onsite estimate."
      ]
     },
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Weekend, Evening, Judgment or Rushed-Timeline Premiums"
      ]
     },
@@ -226,7 +225,7 @@
     {
      "t": "p",
      "c": [
-      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -268,15 +267,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Respectful Walkthrough and a Flat Quote",
-       "text": [
-        [
-         "A crew member visits at a time that fits your family’s schedule, sees the actual scope, and provides one flat price — with unmarked arrival if that’s preferred and no assumptions made about the household."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Hoarding Cleanout Runs Methodically, Room by Room",
        "text": [
@@ -287,10 +277,10 @@
       },
       {
        "n": "04",
-       "title": "Hoarding Cleanout Complete — the Space Left Clean and Livable",
+       "title": "Careful Removal",
        "text": [
         [
-         "Debris is hauled the same visit where possible, donations go to local partners, and the space is left swept and safe — with follow-up visits available whenever your family is ready for the next one."
+         "Debris is hauled the same visit where possible, donations go to local partners, and the space is left and safe — with follow-up visits available whenever your family is ready for the next one."
         ]
        ]
       }
@@ -321,9 +311,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "{{fact:weekendPickup}}"
-      ],
       [
        "Designed around whatever timing lets the right family members be present"
       ],
@@ -362,7 +349,7 @@
        "Multi-visit scheduling for homes with years of accumulation"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
        "Full discretion maintained on streets where people notice"
@@ -389,12 +376,6 @@
       ],
       [
        "Sensitive scheduling that fits around a household's actual life"
-      ],
-      [
-       "Same flat pricing regardless of household size or timing"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
       ],
       [
        "Documentation available where a family needs it"
@@ -889,7 +870,7 @@
     {
      "t": "p",
      "c": [
-      "Google reviews — weekend, heritage and family-coordinated hoarding cleanouts across Newmarket, York Region and the GTA. The comment that comes up most: being able to have it happen on a Saturday, with everyone who needed to be there actually there, made a hard thing more manageable."
+      "Google reviews — weekend, heritage and family-coordinated hoarding cleanouts across Newmarket, York Region and the GTA, subject to scheduling. The comment that comes up most: being able to have it happen on a Saturday, with everyone who needed to be there actually there, made a hard thing more manageable."
      ]
     },
     {
@@ -1042,7 +1023,7 @@
        "q": "How careful are you with older homes near Main Street?",
        "a": [
         [
-         "Genuinely careful. Original features that stay get protected, while the sorting inside moves entirely at the family’s own pace."
+         "Genuinely careful. {{fact:cleanupScope}}."
         ]
        ]
       },

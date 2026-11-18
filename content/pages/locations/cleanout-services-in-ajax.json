@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Ajax that hit the dates that matter — closing-day, estate, hoarding and rental cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished empty and broom-swept on the day you were promised."
+     "text": "Cleanout services in Ajax that hit the dates that matter — closing-day, estate, hoarding and rental cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished empty on the day you were promised."
     },
     {
      "t": "ctas",
@@ -86,14 +86,14 @@
         "reliable"
        ]
       },
-      ": the flat quote held, the crew came when promised, and the property stood empty and swept on the exact day it had to."
+      "{{fact:changedScope}}."
      ]
     },
     {
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/cleanout-services-in-ajax-765x1024.jpeg",
-      "alt": "cleanout-services-in-ajax",
+      "alt": "Cleanout in Ajax: Live Junk Free job photo",
       "width": 765,
       "height": 1024
      }
@@ -128,20 +128,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Free walkthrough cleanout quotes with the date built in",
-       "text": [
-        [
-         "A crew lead walks the full property — every room, the garage, the crawlspace — and writes one firm flat quote alongside a completion date that respects your closing, possession or lease-end. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Empty by closing — the promise Ajax's moves run on",
        "text": [
         [
-         "Sold homes have a legal finish line, and we treat it that way. Whole-house cleanouts book backward from the closing, run room by room on schedule, and hand over broom-swept before the lawyers exchange keys. Realtors across Ajax keep our number for exactly this reason."
+         "Sold homes have a legal finish line, and we treat it that way. Whole-house cleanouts book backward from the closing, run room by room on schedule, and hand over before the lawyers exchange keys. Realtors across Ajax keep our number for exactly this reason."
         ]
        ]
       },
@@ -201,8 +192,7 @@
     {
      "t": "checks",
      "items": [
-      "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -218,12 +208,6 @@
      "t": "price",
      "label": "Ajax Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -265,7 +249,7 @@
        "title": "1. Book Your Ajax Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit. The crew lead tours the property, hears the deadline — closing, possession, lease-end, court date — and writes one flat quote with a completion plan that beats it comfortably."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit. {{fact:changedScope}}."
         ]
        ]
       },
@@ -289,10 +273,10 @@
       },
       {
        "n": "04",
-       "title": "4. Empty, Swept and Handed Over Before the Date",
+       "title": "4. Empty and Handed Over Before the Date",
        "text": [
         [
-         "The property finishes broom-swept — rooms, garage, shed — with debris gone on our own trucks and donation or disposal documentation ready for the estate, the landlord or the lawyer’s file. Single spaces usually finish same-day; whole homes finish on the promised date, ahead of the real one."
+         "The property finishes — rooms, garage, shed — with debris gone on our own trucks and donation or disposal documentation ready for the estate, the landlord or the lawyer’s file. Single spaces usually finish same-day; whole homes finish on the promised date, ahead of the real one, subject to availability."
         ]
        ]
       }
@@ -330,7 +314,7 @@
      "t": "ul",
      "items": [
       [
-       "Sold-home cleanouts completed before closing, broom-swept for the handover"
+       "Sold-home cleanouts completed before closing for the handover"
       ],
       [
        "Pre-listing clear-outs that get Ajax homes photo-ready"
@@ -370,10 +354,7 @@
        "Executor and out-of-town family coordination with documentation"
       ],
       [
-       "Donation-first sorting recorded for the estate file"
-      ],
-      [
-       "Sale-ready, swept handovers on the committed date"
+       "Sale-ready handovers on the committed date"
       ]
      ]
     }
@@ -403,9 +384,6 @@
       ],
       [
        "Deep-accumulation basements and storage spaces"
-      ],
-      [
-       "Respectful crews, first knock to final sweep"
       ]
      ]
     },
@@ -714,14 +692,6 @@
        ]
       },
       {
-       "q": "Can you guarantee the house is empty by our closing date?",
-       "a": [
-        [
-         "That’s the service Ajax knows us for. The cleanout books backward from closing with margin built in, progress tracks daily on bigger homes, and the property hands over broom-swept before the keys change hands. Tell us the date at the walkthrough and the plan is built to beat it."
-        ]
-       ]
-      },
-      {
        "q": "What if our closing moves up?",
        "a": [
         [
@@ -757,7 +727,7 @@
        "q": "Where do the belongings end up?",
        "a": [
         [
-         "Donation first: furniture, housewares and clothing to charity partners; metals, appliances and e-waste to licensed recyclers; landfill strictly last. The split can be documented for estate files, landlords or your own records."
+         "The split can be documented for estate files, landlords or your own records."
         ]
        ]
       }

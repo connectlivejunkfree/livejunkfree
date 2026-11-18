@@ -9,7 +9,7 @@
   "description": "Storage Unit Cleanout Services in Bradford for fast, hassle-free removal of unwanted items with Live Junk Free. Book your cleanout today.",
   "canonical": "https://livejunkfree.ca/locations/bradford/storage-unit-cleanout-services-in-bradford/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Storage-Unit-Cleanout-Services-in-Whitby.jpeg"
+  "ogImage": "/images/uploads/2026/08/Storage-Unit-Cleanout-Services-in-Oshawa.jpeg"
  },
  "title": "Storage Unit Cleanout Services in Bradford",
  "h1": "Storage Unit Cleanout Services in Bradford from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Storage-Unit-Cleanout-Services-in-Bradford-rs8dgjo05lri3qf1ut7d76uh9wtlqcevdciyq7f04w.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Storage-Unit-Cleanout-Services-in-Caledon-rs9or8f85om52t63ct2bvitnl0hp07yqsvauiitoxc.jpeg",
       "alt": "Storage Unit Cleanout Services in Bradford"
      }
     }
@@ -150,19 +150,10 @@
       },
       {
        "n": "04",
-       "title": "Same-day storage unit cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first storage unit cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -198,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how full the unit actually is, and how much sorting it genuinely needs. A small unit is a modest job. A unit holding genuine Holland Marsh agricultural equipment, or a unit with years of household accumulation, takes considerably more time to sort properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small unit is a modest job. A unit holding genuine Holland Marsh agricultural equipment, or a unit with years of household accumulation, takes considerably more time to sort properly, and the price reflects that real difference."
      ]
     },
     {
@@ -231,7 +222,7 @@
     {
      "t": "p",
      "c": [
-      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every storage unit cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -277,7 +268,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual unit and gives you one flat price before anything moves, with no obligation attached to hearing it."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -295,7 +286,7 @@
        "title": "Your Unit Is Empty and Ready to Return",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready to hand back to the facility."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready to hand back to the facility."
         ]
        ]
       }
@@ -336,13 +327,7 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Same-day service for straightforward access"
-      ],
-      [
-       "Donation-first sorting before any recycling"
-      ],
-      [
-       "Same flat pricing as any other storage unit cleanout"
+       "Service for straightforward access"
       ]
      ]
     },
@@ -361,13 +346,10 @@
        "Equipment sorted for real value, not treated as general clutter"
       ],
       [
-       "Same flat pricing regardless of the equipment's specialty"
-      ],
-      [
        "Coordination with executors settling an estate where relevant"
       ],
       [
-       "Same-day service where access allows"
+       "Service where access allows"
       ],
       [
        "Documentation available if needed"
@@ -393,13 +375,10 @@
        "Coordination directly with facility management on timing"
       ],
       [
-       "Same flat pricing regardless of how tight the timeline is"
-      ],
-      [
        "Priority booking for time-sensitive lease-end dates"
       ],
       [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Documentation available for the facility if required"
@@ -421,16 +400,13 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -834,7 +810,7 @@
        "q": "Do you charge extra for units holding agricultural equipment?",
        "a": [
         [
-         "Never. The identical flat pricing applies whether the unit’s at a Summerlyn facility, downtown, or serving the Marsh."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },
@@ -874,7 +850,7 @@
        "q": "Is there a storage clean out service for a unit that's held Marsh farm equipment for years?",
        "a": [
         [
-         "Yes — long-held units near the agricultural trade are common work for us, and the price still comes down to volume and sorting, not how long the equipment’s been sitting there."
+         "Yes — long-held units near the agricultural trade are common work for us, and the price still comes down to volume and not how long the equipment’s been sitting there."
         ]
        ]
       },
@@ -898,7 +874,7 @@
        "q": "If I just need to clear out storage unit space at an older facility, does that cost more than a newer one?",
        "a": [
         [
-         "No — the price is set by volume and sorting time, never by how old the building itself is. An older Holland Street facility and a newer Summerlyn one get quoted the exact same way."
+         "{{fact:cleanupScope}}. An older Holland Street facility and a newer Summerlyn one get quoted the exact same way."
         ]
        ]
       }

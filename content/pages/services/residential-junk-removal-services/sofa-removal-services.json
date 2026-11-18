@@ -24,11 +24,6 @@
      "text": "Your Trusted Local Sofa Removal Experts"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "The Most Reliable Sofa Removal Services"
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -84,8 +79,8 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/2026/07/e-waste-removal-services-before-5.jpg",
-      "alt": "sofa-removal-services",
+      "src": "/images/uploads/2026/07/e-waste-removal-services-before-2.jpg",
+      "alt": "Before: Sofa Removal: Live Junk Free job photo",
       "width": 800,
       "height": 534
      }
@@ -97,7 +92,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Say Goodbye to Your Old Sofa – Same-Day Pickup Available"
+     "text": "Say Goodbye to Your Old Sofa – Same-Day Pickup may be available"
     },
     {
      "t": "p",
@@ -150,7 +145,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Fast & Easy Sofa Removal – Same Day Service Available"
+     "text": "Fast & Easy Sofa Removal – Same Day Service may be available"
     },
     {
      "t": "p",
@@ -212,7 +207,7 @@
       {
        "title": "{{fact:competitorComparison}}",
        "text": [
-        "Get discounts when combining sofa removal with mattress removal, furniture removal, or full home cleanout services"
+        "{{fact:changedScope}}."
        ]
       },
       {
@@ -224,7 +219,7 @@
       {
        "title": "Flexible Scheduling",
        "text": [
-        "Available evenings and weekends with same-day couch pickup for urgent requests"
+        "Available evenings and weekends with same-day couch pickup for urgent requests (subject to scheduling)"
        ]
       },
       {
@@ -234,13 +229,7 @@
        ]
       },
       {
-       "title": "Pricing",
-       "text": [
-        "Your upfront quote covers lifting, removal, hauling, and complete cleanup"
-       ]
-      },
-      {
-       "title": "Same-Day Availability",
+       "title": "Availability when available",
        "text": [
         "Need it gone today? We offer urgent same-day couch pickup for quick cleanouts, subject to scheduling."
        ]
@@ -273,7 +262,7 @@
        "We specialize in safely removing all types of sofas – from oversized sectionals and heavy sleeper sofas to compact loveseats, and everything in between. Our professional team carefully handles each job, maneuvering furniture out without damaging your floors, walls, or doorways."
       ],
       [
-       "When we’re done, your space will be clean, safe, and ready for new furniture or a fresh start. No couch removal challenge is too big for our experienced team, we’ve successfully removed hundreds of sofas across the GTA."
+       "When we’re done, your space will be clean, safe, and ready for new furniture or a fresh start."
       ]
      ]
     },
@@ -291,20 +280,6 @@
      "t": "p",
      "c": [
       "At Live Junk Free, we believe upgrading your living room shouldn’t cost the earth:"
-     ]
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "{{fact:recycling}}"
-      ],
-      [
-       "Donation Program: Gently used sofas and couches find new life through local community centers, shelters, and charities"
-      ],
-      [
-       "Smart Waste Reduction: Our careful sorting system minimizes landfill contribution"
-      ]
      ]
     },
     {
@@ -342,12 +317,6 @@
      "items": [
       [
        "{{fact:freeOnsiteEstimates}}"
-      ],
-      [
-       "Flat-Rate Pricing – Know exactly what you’ll pay before we start"
-      ],
-      [
-       "Service Bundles – Special discounts when combining sofa removal with mattress, table, or full furniture removal"
       ]
      ]
     }
@@ -410,7 +379,7 @@
       {
        "title": "Choose Your Time",
        "text": [
-        "Book same-day or next-day couch pickup with our professional sofa removal team, available at a time that works for you."
+        "Book same-day or next-day couch pickup when available with our professional sofa removal team, available at a time that works for you."
        ]
       },
       {

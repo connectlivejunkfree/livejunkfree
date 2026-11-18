@@ -41,7 +41,7 @@
     {
      "t": "p",
      "c": [
-      "We are Vaughan’s go-to junk removal team — locally operated, fully insured, and built around one simple promise: we come to you, we assess everything in person, we give you a completely free on-site estimate before touching a single item, and if you’re happy with it, your junk is gone the same day. No waiting around. No vague phone quotes. No charges that appear out of nowhere on your invoice."
+      "{{fact:scheduling}} No waiting around. No vague phone quotes. No charges that appear out of nowhere on your invoice."
      ]
     },
     {
@@ -80,11 +80,6 @@
   {
    "blocks": [
     {
-     "t": "h",
-     "l": 2,
-     "text": ""
-    },
-    {
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/12/Container-e1735390657284.png",
@@ -118,29 +113,9 @@
      }
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "{{fact:competitorComparison}}",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Our crew shows up, walks through every area you need cleared, and assesses the full scope of the job in person. No phone estimates. No guessing. We see it with our own eyes before we price it."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Volume-based pricing — the fairest system possible.",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -148,29 +123,9 @@
      "text": "Your quote is based entirely on how much space your junk fills in our truck. One couch is one price. A full garage is a different price. It scales fairly with the job — and the clock never factors in."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "{{fact:competitorComparison}}",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} There are no line items hiding underneath. No disposal fee discovered at the end."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "You see it and approve it before a single item moves.",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -178,29 +133,9 @@
      "text": "Once you have the quote, you decide. Take your time. Ask questions. If it works for you, we start immediately. If it doesn't, you say so and we leave — no charge, no pressure, no awkward sales pitch."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "The quoted price is final — guaranteed.",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Once you approve it, that number is locked. Whether the job takes our crew 30 minutes or 3 hours, your bill doesn't change. You're never penalised for a bigger-than-expected load once you've approved the quote."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": ".",
-       "text": []
-      }
-     ]
+     "text": "Once you approve it, that number is locked. You're never penalised for a bigger-than-expected load once you've approved the quote."
     },
     {
      "t": "h",
@@ -273,15 +208,15 @@
      "t": "cards",
      "items": [
       {
-       "title": "Call or Book Online, Get Your Vaughan Slot Instantly",
+       "title": "Call or Book Online, Get Your Vaughan Slot",
        "text": [
-        "Call +1 647 922 5865 or use our online booking form. Tell us your Vaughan location and what needs to go. Whether you're in Woodbridge, Maple, Kleinburg, Concord, Vellore Village, Sonoma Heights, Islington Woods, Thornhill or any new subdivision across Vaughan — we'll lock in your same-day or next-day time slot immediately, subject to scheduling. We give you a 30-minute arrival heads-up call so your day stays on track."
+        "Call +1 647 922 5865 or use our online booking form. Tell us your Vaughan location and what needs to go. Whether you're in Woodbridge, Maple, Kleinburg, Concord, Vellore Village, Sonoma Heights, Islington Woods, Thornhill or any new subdivision across Vaughan — we'll lock in your same-day or next-day time slot immediately, subject to scheduling. {{fact:scheduling}}"
        ]
       },
       {
        "title": "We Arrive, Assess Everything, Quote You Upfront",
        "text": [
-        "Our uniformed, professional Vaughan junk removal crew arrives on time — every single time. We walk your entire property with you — the garage, basement, backyard, every room, every floor, any outdoor structures. For commercial Vaughan jobs, we assess office spaces, warehouse floors, storage areas and loading access before quoting. We hand you a clear, flat-rate quote on the spot. Zero obligation to proceed. Zero pressure whatsoever."
+        "Our uniformed, professional Vaughan junk removal crew arrives on time — every single time. We walk your entire property with you — the garage, basement, backyard, every room, every floor, any outdoor structures. For commercial Vaughan jobs, we assess office spaces, warehouse floors, storage areas and loading access before quoting. {{fact:changedScope}}. Zero obligation to proceed. Zero pressure whatsoever."
        ]
       },
       {
@@ -293,7 +228,7 @@
       {
        "title": "Space Cleared, Area Cleaned, Responsibly Disposed",
        "text": [
-        "Once the truck is loaded, we do a final walkthrough to confirm everything has been removed. We sweep up, tidy the area and leave your Vaughan property cleaner than we found it. Every load is then sorted responsibly — reusable items go to donation organisations serving the Vaughan and York Region community, recyclable materials are processed at recycling facilities, and only what truly cannot be saved goes to landfill. We keep Vaughan's waste stream as clean as the properties we leave behind."
+        "Once the truck is loaded, we do a final walkthrough to confirm everything has been removed. We, tidy the area and leave your Vaughan property cleaner than we found it. Every load is then sorted responsibly — reusable items go to donation organisations serving the Vaughan and York Region community, recyclable materials are processed at recycling facilities, and only what truly cannot be saved goes to landfill. We keep Vaughan's waste stream as clean as the properties we leave behind."
        ]
       }
      ]
@@ -437,7 +372,7 @@
        "q": "Q: How much does junk removal cost in Vaughan, Ontario?",
        "a": [
         [
-         "A: Our Vaughan junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour. Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). We provide a completely free on-site estimate before any work begins and the price you approve is the exact price you pay — no surprises, no surcharges, no exceptions."
+         "A: Our Vaughan junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour. Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). {{fact:changedScope}}."
         ]
        ]
       },
@@ -445,7 +380,7 @@
        "q": "Q: Do you offer same-day junk removal in Vaughan?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of Vaughan including Woodbridge, Maple, Kleinburg, Concord, Thornhill, Vellore Village and surrounding York Region communities. Call +1 647 922 5865 to confirm today’s availability."
+         "{{fact:scheduling}} Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },
@@ -477,7 +412,7 @@
        "q": "Q: Are you a local Vaughan company or a national franchise?",
        "a": [
         [
-         "A: We are 100% locally owned and operated — not a franchise."
+         "Careful Removal"
         ]
        ]
       }

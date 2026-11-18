@@ -9,7 +9,7 @@
   "description": "Piano Removal Services in Mississauga from Live Junk Free — an experienced crew moves upright, baby grand and grand pianos out of homes.",
   "canonical": "https://livejunkfree.ca/locations/mississauga/piano-removal-services-in-mississauga/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Piano-Removal-in-Mississauga.jpg"
+  "ogImage": "/images/uploads/2026/08/Piano-Removal-in-Oshawa.jpg"
  },
  "title": "Piano Removal Services in Mississauga",
  "h1": "Piano Removal Services in Mississauga from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/2026/08/Piano-Removal-in-Mississauga.jpg",
+      "src": "/images/uploads/2026/08/Piano-Removal-in-Oshawa.jpg",
       "alt": "Piano Removal in Mississauga",
       "width": 618,
       "height": 496
@@ -128,29 +128,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "One flat price, forecastable to the dollar",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Condo and tower-compliant piano removal",
-       "text": [
-        [
-         "{{fact:insuranceDocs}}."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "Free on-site quotes with a window committed, not just a price",
        "text": [
         [
-         "A crew member measures the route — yard, elevator, staircase — and gives you one flat price alongside a real arrival window."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -193,16 +175,9 @@
      "text": "What's Inside Every Mississauga Piano Removal and Disposal Quote"
     },
     {
-     "t": "p",
-     "c": [
-      "Every quote is one flat number covering the move, any needed disassembly, building compliance where relevant, and disposal, donation or recycling — paired with an arrival window built to hold."
-     ]
-    },
-    {
      "t": "checks",
      "items": [
-      "Move + Disassembly + Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Move + Disassembly + Haul-Away"
      ]
     },
     {
@@ -266,15 +241,6 @@
        "text": [
         [
          "Call +1 647 922 5865 or book online. Mention any building requirements if it’s a condo tower."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote — Route Measured First",
-       "text": [
-        [
-         "The crew measures the route and gives you one flat price with a committed arrival window."
         ]
        ]
       },
@@ -367,13 +333,10 @@
        "Coordination around new piano delivery dates"
       ],
       [
-       "Same-day piano pick up for straightforward access"
+       "Piano pick up for straightforward access"
       ],
       [
        "Full protection of finished floors throughout"
-      ],
-      [
-       "Donation-first sorting before any recycling"
       ]
      ]
     }
@@ -400,9 +363,6 @@
       ],
       [
        "Scheduled around your move dates"
-      ],
-      [
-       "Same flat pricing regardless of who's on title"
       ],
       [
        "Damage or abandonment documentation available on request"

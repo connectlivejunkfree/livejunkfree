@@ -9,7 +9,7 @@
   "description": "Live Junk Free provides property management cleanout in Whitchurch-Stouffville for landlords, property owners and farm operators across..",
   "canonical": "https://livejunkfree.ca/locations/whitchurch-stouffville/property-management-cleanout-in-whitchurch-stouffville/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Property-Management-Cleanout-rotated.jpg"
+  "ogImage": "/images/uploads/2026/08/Retail-Cleanout-Services-rotated.jpg"
  },
  "title": "Property Management Cleanout in Whitchurch-Stouffville",
  "h1": "Property Management Cleanout in Whitchurch-Stouffville",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Property-Management-Cleanout-rotated-rsgmt9p6otpmll2kr8g1vez727otli1czd8xjyuj78.jpg",
+      "src": "/images/uploads/elementor/thumbs/Retail-Cleanout-Services-rotated-rsihk2kt4iyt4qv82uxcq2s5v4l03ezuo4ufls6th0.jpg",
       "alt": "Property Management Cleanout"
      }
     }
@@ -135,16 +135,7 @@
        "title": "Farm and estate outbuilding cleanouts quoted with the rental unit",
        "text": [
         [
-         "Drive sheds, barn bays, coach houses, workshops and equipment storage go into the same walkthrough as the residence. On rural properties here these routinely hold more volume than the house, and excluding them is what turns one visit into two."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "",
-       "text": [
-        [
-         ""
+         "Drive sheds, barn bays, coach houses, workshops and equipment storage go into the same walkthrough as the residence. {{fact:scheduling}}"
         ]
        ]
       },
@@ -159,10 +150,10 @@
       },
       {
        "n": "05",
-       "title": "Same-day property management cleanout available across the municipality",
+       "title": "Same-day property management cleanout may be available across the municipality",
        "text": [
         [
-         "When a tenant leaves at short notice or a showing is already booked, we can usually attend the same day you call."
+         "When a tenant leaves at short notice or a showing is already booked, we can usually attend the same day you call, subject to availability."
         ]
        ]
       },
@@ -271,7 +262,7 @@
     {
      "t": "p",
      "c": [
-      "Your property management cleanout cost in Whitchurch-Stouffville is determined by the volume of material and the sorting it requires. A newer basement suite in the town core returned after a short tenancy is a straightforward job. A farm property occupied for a decade — furniture throughout the residence, appliances, electronics, exercise equipment, plus a drive shed and barn bay holding years of stored household items, scrap and yard waste — is substantially larger, and we quote it for what is genuinely present."
+      "{{fact:cleanupScope}}. A newer basement suite in the town core returned after a short tenancy is a straightforward job. A farm property occupied for a decade — furniture throughout the residence, appliances, electronics, exercise equipment, plus a drive shed and barn bay holding years of stored household items, scrap and yard waste — is substantially larger, and we quote it for what is genuinely present."
      ]
     },
     {
@@ -304,7 +295,7 @@
     {
      "t": "p",
      "c": [
-      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every property management cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -350,7 +341,7 @@
        "title": "Free on-site walkthrough and one flat property management cleanout price",
        "text": [
         [
-         "Our crew assesses the rental unit along with any drive shed, barn bay, coach house or garage included. We provide one flat price per unit before any work begins and hold that figure through to completion."
+         "Our crew assesses the rental unit along with any drive shed, barn bay, coach house or garage included. {{fact:changedScope}}."
         ]
        ]
       },
@@ -368,7 +359,7 @@
        "title": "Vacant rental unit returned ready to list",
        "text": [
         [
-         "The unit is left swept and empty, with shared areas exactly as we found them."
+         "The unit is left and empty, with shared areas exactly as we found them."
         ]
        ]
       }
@@ -473,7 +464,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than property management cleanout across Whitchurch-Stouffville. Our commercial junk removal service supports retail and office units along Main Street and Highway 48, workshops, equestrian facilities, greenhouse operations and the agricultural outbuildings throughout the township, with same-day attendance wherever access allows. Our demolition services cover sheds, drive sheds, barns, run-in shelters, garages, decks, fences, gazebos, trampolines, above-ground pools and hot tubs — structures that accumulate quickly on Moraine acreage. Where a property requires complete clearing, we provide same-day apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, office cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than property management cleanout across Whitchurch-Stouffville. Our commercial junk removal service supports retail and office units along Main Street and Highway 48, workshops, equestrian facilities, greenhouse operations and the agricultural outbuildings throughout the township, with same-day attendance wherever access allows, subject to availability. Our demolition services cover sheds, drive sheds, barns, run-in shelters, garages, decks, fences, gazebos, trampolines, above-ground pools and hot tubs — structures that accumulate quickly on Moraine acreage. Where a property requires complete clearing, we provide same-day apartment cleanout when available, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, office cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -511,7 +502,7 @@
      "t": "ul",
      "items": [
       [
-       "Purpose-built secondary suites in newer Stouffville subdivisions can be cleared using separate-entrance routing that keeps the work away from the family’s main living space. Shared stairs, side doors, and driveways are protected throughout the cleanout. First-time landlords can receive guidance on what to keep, remove, and document before preparing the suite for the next tenant. Garage and shed storage can be included in the quoted price, with same-day property management cleanout available where access permits."
+       "Purpose-built secondary suites in newer Stouffville subdivisions can be cleared using separate-entrance routing that keeps the work away from the family’s main living space. Shared stairs, side doors, and driveways are protected throughout the cleanout. First-time landlords can receive guidance on what to keep, remove, and document before preparing the suite for the next tenant. Garage and shed storage can be included in the quoted price, with same-day property management cleanout when available where access permits."
       ]
      ]
     },
@@ -541,7 +532,7 @@
      "t": "ul",
      "items": [
       [
-       "Property management cleanouts between tenancies can be scheduled around your listing date so the vacant rental unit is ready for photographs and showings. Short-notice tenant turnover cleanout requests can be accommodated, with pricing unaffected by a compressed timeline. Same-day service is available when a tenant vacates without warning, with the vacant rental unit returned swept and ready to show."
+       "Property management cleanouts between tenancies can be scheduled around your listing date so the vacant rental unit is ready for photographs and showings. Short-notice tenant turnover cleanout requests can be accommodated, with pricing unaffected by a compressed timeline. Same-day service may be available when a tenant vacates without warning, with the vacant rental unit returned and ready to show."
       ]
      ]
     },
@@ -1273,7 +1264,7 @@
          "25. Can a rental unit be emptied quickly when a new lease is about to begin?"
         ],
         [
-         "Yes. Short-notice turnover requests can be discussed with our team. Same-day service is available when scheduling, property access, and the size of the cleanout allow it."
+         "Yes. Short-notice turnover requests can be discussed with our team. Same-day service may be available when scheduling, property access, and the size of the cleanout allow it."
         ],
         [
          "26. What options are available for landlords managing several rental properties?"
@@ -1309,7 +1300,7 @@
          "31. How long does it usually take to clear a rental property?"
         ],
         [
-         "The time depends on the property’s size, the amount of material, access, and whether sorting is required. A small basement suite may be straightforward, while a furnished house with garage or outbuilding contents can require substantially more work."
+         "{{fact:cleanupScope}}. A small basement suite may be straightforward, while a furnished house with garage or outbuilding contents can require substantially more work."
         ],
         [
          "32. What should landlords do when a property needs an urgent cleanout?"
@@ -1321,7 +1312,7 @@
          "33. Does the landlord need to separate unwanted items before the crew arrives?"
         ],
         [
-         "The landlord or property manager should identify anything that must stay and confirm which belongings are approved for removal. Our team can then handle the physical sorting and removal of the agreed contents, including donation and recycling checks where practical."
+         "The landlord or property manager should identify anything that must stay and confirm which belongings are approved for removal. Our team can then handle the physical removal of the agreed contents, including donation and recycling checks where practical."
         ],
         [
          "34. Who takes care of lifting and carrying heavy belongings?"

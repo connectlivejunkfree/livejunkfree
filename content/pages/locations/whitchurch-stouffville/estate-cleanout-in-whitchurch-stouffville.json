@@ -9,7 +9,7 @@
   "description": "Estate cleanout in Whitchurch-Stouffville from Live Junk Free draws on real, regular experience with Ballantrae specifically.",
   "canonical": "https://livejunkfree.ca/locations/whitchurch-stouffville/estate-cleanout-in-whitchurch-stouffville/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Estate-Cleanout-in-Whitchurch-Stouffville.jpeg"
+  "ogImage": "/images/uploads/2026/08/Estate-Cleanout-in-Ajax.jpeg"
  },
  "title": "Estate Cleanout in Whitchurch-Stouffville",
  "h1": "Estate Cleanout in Whitchurch-Stouffville from Live Junk Free",
@@ -86,14 +86,14 @@
     {
      "t": "p",
      "c": [
-      "On the working farms toward Vandorf and Gormley, estate cleanout often means a property that’s been in a farming family for generations, sometimes extending into a barn as well as the house. Around Main Street Stouffville’s older homes, it’s the same careful standard applied to a heritage property. Whichever it is, the same flat pricing and the same respectful pace apply."
+      "On the working farms toward Vandorf and Gormley, estate cleanout often means a property that’s been in a farming family for generations, sometimes extending into a barn as well as the house. Around Main Street Stouffville’s older homes, it’s the same careful standard applied to a heritage property. {{fact:changedScope}}."
      ]
     },
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Estate-Cleanout-in-Whitchurch-Stouffville-rrqmikji13t4l5euknl1h9jlhb2zat535mhk7l7ae0.jpeg",
-      "alt": "Whitchurch-Stouffville"
+      "src": "/images/uploads/elementor/thumbs/Estate-Cleanout-in-Ajax-rrqo4ibdah4e7v959766o57fnbigr65gse404laouw.jpeg",
+      "alt": "Estate Cleanout in Whitchurch: Live Junk Free job photo"
      }
     }
    ]
@@ -117,20 +117,11 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "Real, regular experience with Ballantrae's specific needs",
-       "text": [
-        [
-         "Contained work zones, quiet scheduling and a genuinely unhurried pace come from having done this work in the community often enough to know what actually helps."
-        ]
-       ]
-      },
-      {
        "n": "02",
-       "title": "One flat price across every part of the township",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "The property’s size and the sorting it needs set the number — never which of the township’s communities it’s in."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -199,8 +190,7 @@
     {
      "t": "checks",
      "items": [
-      "Estate Cleanout + Haul-Away in One Number",
-      "{{fact:competitorComparison}}"
+      "Estate Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -216,12 +206,6 @@
      "t": "price",
      "label": "Whitchurch-Stouffville Estate Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -268,29 +252,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual space and gives one flat number, along with the pace that best fits the property and situation."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at the family’s pace, with anything meaningful set aside first, always."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "A Home That's Clean and Ready",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable — ready for a sale, a new owner, or simply for the family."
+         "Whatever was worked on that visit is left and usable — ready for a sale, a new owner, or simply for the family."
         ]
        ]
       }
@@ -331,13 +297,7 @@
        "Estate cleanouts informed by real, regular experience in the community"
       ],
       [
-       "Contained work zones and quiet scheduling as standard"
-      ],
-      [
        "Coordination with family and, where relevant, community management"
-      ],
-      [
-       "Same flat pricing as anywhere else in the township"
       ]
      ]
     },
@@ -354,9 +314,6 @@
       ],
       [
        "Whole-property coordination where a barn or outbuilding is involved"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ],
       [
        "Real patience for farmhouses held by a family for generations"
@@ -385,7 +342,7 @@
        "Careful, unhurried handling around established properties"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -405,9 +362,6 @@
       ],
       [
        "Timing arranged around listing dates or closing schedules where relevant"
-      ],
-      [
-       "Same flat pricing whether or not a deadline is involved"
       ]
      ]
     }

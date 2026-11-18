@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Mattress, box spring, and frame — carried out and recycled, often same-day."
+     "text": "Mattress, box spring, and frame — carried out and recycled where possible, often same-day when available."
     },
     {
      "t": "ctas",
@@ -69,7 +69,7 @@
     {
      "t": "p",
      "c": [
-      "Our mattress removal crews close the whole loop in one visit. We come to the bedroom — second floor, basement, or twentieth-floor condo — and carry out the mattress, box spring, and frame with the technique and straps the job actually requires. From there, everything is routed the right way: steel springs, foam, and fibres to mattress recycling, metal frames to scrap processing, and only the unrecyclable remainder to disposal."
+      "Our mattress removal crews close the whole loop. We come to the bedroom — second floor, basement, or twentieth-floor condo — and carry out the mattress, box spring, and frame with the technique and straps the job actually requires. From there, everything is routed the right way: steel springs, foam, and fibres to mattress recycling, metal frames to scrap processing, and only the unrecyclable remainder to disposal."
      ]
     },
     {
@@ -85,7 +85,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/mattress-removal-service.jpg",
-      "alt": "mattress-removal-services",
+      "alt": "Mattress Removal: Live Junk Free job photo",
       "width": 760,
       "height": 504
      }
@@ -97,24 +97,37 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Mattress Haul Away — Timed to Your New Bed's Delivery"
+     "text": "Mattress Haul Away Across the GTA"
     },
     {
      "t": "p",
      "c": [
-      "Mattress removals are the most deadline-shaped job we do, because almost every one is triggered by a delivery. The new bed arrives Thursday between noon and four — which means the old one must be gone Thursday morning, or two mattresses will be sharing a bedroom built for one. {{fact:scheduling}}"
+      "Mattress with bed bugs? See our ",
+      {
+       "a": "/bed-bug-furniture-removal/",
+       "c": [
+        "bed bug furniture removal"
+       ]
+      },
+      ": {{fact:bedBugScope}}"
      ]
     },
     {
      "t": "p",
      "c": [
-      "We take every piece of the sleep setup: mattresses in every size from twin to California king, box springs and foundations, metal and wooden bed frames, headboards and footboards, and adjustable bases with their motors and hardware. Condition is irrelevant — sagging, stained, torn, or waterlogged mattresses ride the same truck. If a mattress is coming out of a suspected bed bug situation, tell us when booking: we arrive with sealed mattress bags, encase it before it moves an inch, and keep the rest of your home protected on the way out."
+      "Tell us the mattress size, the floor and the access, and we'll give you a quote. {{fact:sameDay}}."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Pricing is flat and quoted in writing up front — a single mattress, a full bed set, or every bed in the house before a move."
+      "{{fact:structuralDemolition}}. Condition is irrelevant — sagging, stained, torn, or waterlogged mattresses ride the same truck."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "{{fact:changedScope}}."
      ]
     },
     {
@@ -161,13 +174,13 @@
     {
      "t": "p",
      "c": [
-      "Live Junk Free crews do this dozens of times a week across every GTA housing type: kids’ twins from upstairs bedrooms, guest-room doubles, primary-suite kings that barely made it in, bunk and trundle setups, and rental-property turnovers where every bedroom empties at once. Landlords, short-term-rental hosts, and hotels use us for multi-mattress swaps; families use us for the one stubborn queen."
+      "Landlords, short-term-rental hosts, and hotels use us for multi-mattress swaps; families use us for the one stubborn queen."
      ]
     },
     {
      "t": "p",
      "c": [
-      "The service is genuinely door-to-done. We bring the straps, protect railings and wall corners along the route, flex the mattress through the tight spots the way the pros do, disassemble frames and adjustable bases where needed, and load everything in one trip."
+      "The service is genuinely door-to-done. {{fact:scheduling}}"
      ]
     },
     {
@@ -192,7 +205,7 @@
      "c": [
       {
        "b": [
-        "Same-Day Mattress Removal Available Across the GTA!"
+        "Same-Day Mattress Removal may be available Across the GTA!"
        ]
       }
      ]
@@ -210,12 +223,6 @@
      "t": "cards",
      "items": [
       {
-       "title": "Delivery-Day Sync",
-       "text": [
-        "Morning removals timed ahead of afternoon new-bed deliveries — no mattress overlap"
-       ]
-      },
-      {
        "title": "From the Bedroom, Not the Curb",
        "text": [
         "We carry it from where it sits; you never wrestle it down a single stair"
@@ -224,7 +231,7 @@
       {
        "title": "Whole Set, One Price",
        "text": [
-        "Mattress, box spring, frame & headboard covered under a single flat quote"
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -238,13 +245,96 @@
        "text": [
         "Bed bug mattresses are wrapped before they leave the room"
        ]
-      },
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How Our Mattress Collection Works Door to Door"
+    },
+    {
+     "t": "p",
+     "c": [
       {
-       "title": "Multi-Bed & Landlord Rates",
-       "text": [
-        "Rental turnovers, staging swaps & whole-house moves priced to scale"
+       "b": [
+        "Twenty Minutes, Start to Gone"
        ]
       }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Booking takes a photo and an address; arrival takes a scheduled window, not a vague “sometime today.” The crew walks the route first — stairs, turns, doorways — pads the contact points, then flexes, straps, and carries the mattress and box spring out, disassembling the frame behind them if it’s going too."
+      ],
+      [
+       "Most single-set pickups are complete inside twenty minutes, ending with the bedroom of dust bunnies the bed was hiding and, if your new mattress is waiting boxed in the hall, moved into place before we go."
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Mattress Recycling & Responsible Disposal, Not Landfill by Default"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Steel Recovery: Innerspring coils and frame metals — the heaviest fraction — are extracted for scrap recycling"
+      ],
+      [
+       "{{fact:propertyProtection}}."
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        {
+         "i": [
+          "Mattresses are among the bulkiest landfill items there are — recycling one saves real space and real steel."
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        ""
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Simple pricing for a simple problem:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Photo Quotes – Text a picture of the bed and get a firm written number back fast"
+      ]
      ]
     }
    ]
@@ -267,9 +357,6 @@
      "items": [
       [
        "Twin, Double, Queen & King Mattresses"
-      ],
-      [
-       "Box Springs, Foundations & Slat Systems"
       ],
       [
        "Memory Foam, Hybrid & Pillow-Top Mattresses"
@@ -298,21 +385,21 @@
        ]
       },
       {
-       "title": "Get Your Flat Written Price",
+       "title": "Get Your",
        "text": [
         "Mattress alone or the whole set, one firm number with stairs and carrying already included."
        ]
       },
       {
-       "title": "Pick a Window That Beats Delivery",
+       "title": "Pick a Callback Time",
        "text": [
-        "{{fact:nextAvailable}}"
+        "{{fact:scheduling}}"
        ]
       },
       {
        "title": "Sleep on Something Better",
        "text": [
-        "The crew carries it out, recycles what can be recycled, and leaves the bedroom ready for the upgrade."
+        "The crew carries it out, recycles what can be recycled where possible, and leaves the bedroom ready for the upgrade."
        ]
       }
      ]
@@ -333,11 +420,11 @@
      "images": [
       {
        "src": "/images/uploads/2026/07/mattress-removal-service.jpg",
-       "alt": "mattress-removal-services"
+       "alt": "Mattress Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/mattress-removal-services-after.jpg",
-       "alt": "mattress-removal-services after"
+       "alt": "After: Mattress Removal: Live Junk Free job photo"
       }
      ]
     }
@@ -357,7 +444,7 @@
        "q": "1) Do you take the box spring and bed frame too, or just the mattress?",
        "a": [
         [
-         "Everything, under one flat quote — mattress, box spring or foundation, frame, headboard, footboard, and adjustable bases including their motors. Frames are disassembled by our crew as part of the job, so the bedroom is left completely clear."
+         "{{fact:changedScope}}. Frames are disassembled by our crew as part of the job, so the bedroom is left completely clear."
         ]
        ]
       },
@@ -373,7 +460,7 @@
        "q": "3) What happens to my old mattress after pickup?",
        "a": [
         [
-         "It’s recycled wherever the materials allow. Steel coils and frame metal go to scrap recovery, and foam and fibre layers are diverted for industrial reuse — keeping one of the bulkiest possible items out of landfill. Soiled or bed bug mattresses are sealed and disposed of through proper channels instead."
+         "It’s recycled where possible wherever the materials allow. Steel coils and frame metal go to scrap recovery, and foam and fibre layers are diverted for industrial reuse — keeping one of the bulkiest possible items out of landfill."
         ]
        ]
       },
@@ -386,10 +473,10 @@
        ]
       },
       {
-       "q": "5) How much does mattress removal cost, and is same-day really possible?",
+       "q": "How much does mattress removal cost?",
        "a": [
         [
-         "Pricing is flat and quoted in writing from a single photo — with set rates covering the full mattress-box-spring-frame combination and discounts as bed count grows. Same-day pickup is genuinely routine across the GTA; most customers book the morning slot ahead of an afternoon mattress delivery."
+         "{{fact:quoteText}} {{fact:taxNote}}. {{fact:sameDay}}."
         ]
        ]
       }

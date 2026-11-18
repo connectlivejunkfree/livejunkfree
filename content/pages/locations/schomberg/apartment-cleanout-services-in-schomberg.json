@@ -9,7 +9,7 @@
   "description": "Apartment cleanout services in Schomberg from Live Junk Free cost exactly what the same job costs anywhere else nearby..",
   "canonical": "https://livejunkfree.ca/locations/schomberg/apartment-cleanout-services-in-schomberg/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Apartment-Cleanout-Services-in-Schomberg.jpeg"
+  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Ajax.jpeg"
  },
  "title": "Apartment Cleanout Services in Schomberg",
  "h1": "Apartment Cleanout Services in Schomberg from Live Junk Free",
@@ -86,13 +86,13 @@
     {
      "t": "p",
      "c": [
-      "In Lloydtown, Pottageville and Kettleby, that same standard extends to any hamlet rental. On the western concessions, it’s the same flat pricing regardless of how far the property sits from the crossroads."
+      "In Lloydtown, Pottageville and Kettleby, that same standard extends to any hamlet rental. {{fact:changedScope}}."
      ]
     },
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Apartment-Cleanout-Services-in-Schomberg-rrzh1rbocbit077odp1dzmzuih2wm5osw8nkc3drps.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Ajax-rrmzgn6andbie2zv3395ne9iklgc1ewincvh8j7pn4.jpeg",
       "alt": "Apartment Cleanout Services in Schomberg"
      }
     }
@@ -128,7 +128,7 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat apartment cleanout price — the crossroads makes it fair",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number is identical whether the unit is above a Main Street shop or in a hamlet, because the trucks already pass through Schomberg daily."
@@ -140,7 +140,7 @@
        "title": "Heritage-careful apartment cleanout for Main Street units",
        "text": [
         [
-         "Original trim and features that stay get protected throughout, while the sorting inside moves at a practical, respectful pace."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -155,19 +155,10 @@
       },
       {
        "n": "04",
-       "title": "Same-day apartment cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first apartment cleanout sorting",
-       "text": [
-        [
-         "Furniture and household items still in good condition go to donation partners first, before anything reaches disposal."
         ]
        ]
       },
@@ -209,7 +200,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -230,7 +220,7 @@
     {
      "t": "p",
      "c": [
-      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -276,7 +266,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual unit and gives you one flat price before anything moves — village or hamlet, same process."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -294,7 +284,7 @@
        "title": "The Unit Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready for the next step."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready for the next step."
         ]
        ]
       }
@@ -335,7 +325,7 @@
        "Careful, unhurried handling around established properties"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -355,9 +345,6 @@
       ],
       [
        "Damage or abandonment documentation available on request"
-      ],
-      [
-       "Same flat pricing regardless of the building's age"
       ]
      ]
     }
@@ -377,13 +364,7 @@
        "Apartment cleanouts in Lloydtown, Pottageville and Kettleby"
       ],
       [
-       "Same flat pricing as Main Street, no hamlet premium"
-      ],
-      [
        "Same fair standard as anywhere in the region"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
       ]
      ]
     },
@@ -402,10 +383,10 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -809,7 +790,7 @@
        "q": "Do you cover Lloydtown, Pottageville and Kettleby?",
        "a": [
         [
-         "Every hamlet, at the same flat pricing as Main Street. "
+         "{{fact:competitorComparison}} "
         ]
        ]
       },

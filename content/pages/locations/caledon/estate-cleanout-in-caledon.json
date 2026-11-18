@@ -9,7 +9,7 @@
   "description": "Estate cleanout in Caledon from Live Junk Free often means settling more than one building's worth of belongings.",
   "canonical": "https://livejunkfree.ca/locations/caledon/estate-cleanout-in-caledon/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Estate-Cleanout-in-Caledon.jpeg"
+  "ogImage": "/images/uploads/2026/08/Estate-Cleanout-in-Ajax.jpeg"
  },
  "title": "Estate Cleanout in Caledon",
  "h1": "Estate Cleanout in Caledon from Live Junk Free",
@@ -80,19 +80,19 @@
     {
      "t": "p",
      "c": [
-      "Because a working farm rarely consists of just the house. There’s often a workshop with decades of tools, an equipment shed, sometimes a barn still holding implements or supplies — each one part of the same estate, each one needing to be assessed and cleared. Some of what’s inside those buildings genuinely has resale value; farm equipment, quality tools and machinery parts aren’t the same as household clutter, and sorting them the same way risks losing real value the estate could otherwise realize."
+      "Because a working farm rarely consists of just the house. There’s often a workshop with decades of tools, an equipment shed, sometimes a barn still holding implements or supplies — each one part of the same estate, each one needing to be assessed and cleared. {{fact:cleanupScope}}."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Around the village cores of Caledon East, Alton and Inglewood, an estate cleanout is usually more contained — a single house, priced and handled accordingly. On the western concessions, it’s frequently the multi-structure version, and Live Junk Free scopes the whole property honestly rather than pricing from an assumption about what a “typical” estate looks like."
+      "On the western concessions, it’s frequently the multi-structure version, and Live Junk Free scopes the whole property honestly rather than pricing from an assumption about what a “typical” estate looks like."
      ]
     },
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Estate-Cleanout-in-Caledon-rrqwf4niinwso3hois2bbae9n5nf5gnk6fc9u8j23c.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Estate-Cleanout-in-Ajax-rrqo4ibdah4e7v959766o57fnbigr65gse404laouw.jpeg",
       "alt": "Estate Cleanout in Caledon"
      }
     }
@@ -121,7 +121,7 @@
        "title": "Whole-property coordination, house to outbuilding",
        "text": [
         [
-         "Where an estate spans a farmhouse and additional structures, the crew scopes and quotes the whole property together, under one visit and one honest price."
+         "{{fact:scheduling}}"
         ]
        ]
       },
@@ -130,7 +130,7 @@
        "title": "Real recognition of equipment and tools with genuine value",
        "text": [
         [
-         "Farm equipment, quality tools and machinery parts get sorted with an eye for what might be worth selling or keeping, not swept into a general clear-out."
+         "{{fact:equipmentScope}}."
         ]
        ]
       },
@@ -199,8 +199,7 @@
     {
      "t": "checks",
      "items": [
-      "Estate Cleanout + Haul-Away in One Number",
-      "{{fact:competitorComparison}}"
+      "Estate Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -216,12 +215,6 @@
      "t": "price",
      "label": "Caledon Estate Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -268,29 +261,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual property — house, and any outbuildings — and gives one flat number before anything moves."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room, Structure by Structure",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at the family’s pace, with anything meaningful or potentially valuable set aside first, always."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "A Property That's Clean and Ready",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable — house or outbuilding — ready for a sale, a new owner, or simply for the family."
+         "Whatever was worked on that visit is left and usable — house or outbuilding — ready for a sale, a new owner, or simply for the family."
         ]
        ]
       }
@@ -329,9 +304,6 @@
      "items": [
       [
        "Estate cleanouts in Caledon East, Alton and Inglewood"
-      ],
-      [
-       "Straightforward scheduling for more contained properties"
       ],
       [
        "Family-initiated cleanouts handled with real patience"
@@ -377,9 +349,6 @@
      "items": [
       [
        "Estate cleanouts in Palgrave, Terra Cotta and Belfountain"
-      ],
-      [
-       "Same flat pricing as the village core or farm properties"
       ],
       [
        "Careful handling around established, older properties"
@@ -787,7 +756,7 @@
        "q": "Do rural addresses or long laneways cost extra?",
        "a": [
         [
-         "Never. The same flat pricing applies at Caledon East’s village core and eight concessions past it. "
+         "Never. {{fact:changedScope}}. "
         ]
        ]
       },

@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Brampton homes work their appliances hard. Many houses run two full kitchens, big households push washers through multiple loads a day, and when a machine finally quits, it tends to quit in the least convenient spot — wedged into a basement suite, boxed into a corner, or heavier than any two family members can safely move. One call solves it: our fully insured crew arrives, quotes free on the spot, disconnects the standard hookups, and carries the old unit out on your home. Same-day pickup, most days."
+      "Brampton homes work their appliances hard. Many houses run two full kitchens, big households push washers through multiple loads a day, and when a machine finally quits, it tends to quit in the least convenient spot — wedged into a basement suite, boxed into a corner, or heavier than any two family members can safely move. {{fact:utilityDisconnection}}"
      ]
     },
     {
@@ -97,29 +97,9 @@
      "text": "Live Junk Free has hauled appliances out of every kind of Brampton home: split-levels in Bramalea where the freezer's been running since the nineties, basement-suite kitchens in Springdale, brand-new builds in Mount Pleasant swapping builder units for upgrades, and everything across Castlemore, Heart Lake and downtown. The Google reviews behind our name were earned one careful staircase at a time."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Appliances are priced by truck space — not by weight",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "A dishwasher takes a small bite of the truck and costs accordingly; a kitchen's full set takes more. That's the entire formula. The fact that a fridge weighs as much as a piano changes nothing — weight, awkwardness and stairs are all absorbed into the flat volume rate."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "We quote after seeing the unit and its exit path",
-       "text": []
-      }
-     ]
+     "text": "A dishwasher takes a small bite of the truck and costs accordingly; a kitchen's full set takes more. That's the entire formula."
     },
     {
      "t": "h",
@@ -127,59 +107,14 @@
      "text": "The appliance is only half the job — the other half is the route: the basement turn, the narrow suite doorway, the backyard gate. Our quotes come after a free in-person look at both, which is why they hold. No phone guesses, no revised numbers later."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One figure covers pickup to processing",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "{{fact:propertyProtection}}. However stubborn the stairwell turns out to be, the number doesn't move."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Two-kitchen homes are our home turf",
-       "text": []
-      }
-     ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Thousands of Brampton houses run a second kitchen downstairs — which means twice the appliances reaching end-of-life. We clear basement-suite units through side entrances and narrow stairs routinely, single machines or full double-kitchen swap-outs, without disturbing tenants or family living below."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "The quote is free and the choice is yours",
-       "text": []
-      }
-     ]
+     "text": "We clear basement-suite units through side entrances and narrow stairs routinely, single machines or full double-kitchen swap-outs, without disturbing tenants or family living below."
     },
     {
      "t": "h",
      "l": 3,
      "text": "No deposit, no commitment, no expiry. Approve the number and the appliance is on our dolly within minutes; decline and we leave with a handshake. Either way, the visit costs you nothing."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Local and franchise-free",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -260,19 +195,13 @@
       {
        "title": "2. Get the At-the-Door Quote",
        "text": [
-        "We look at the appliance, check its path out — hallway, stairs, side entrance — and hand you one flat, figure. Free, and no hard feelings if you pass."
+        "{{fact:changedScope}}. Free, and no hard feelings if you pass."
        ]
       },
       {
-       "title": "3. Disconnect, Protect, Carry",
+       "title": "3., Protect, Carry",
        "text": [
-        "On approval: water lines and plugs disconnected (licensed technicians must handle gas and hardwired units first), floors covered, doorframes padded, and the machine dollied out by a crew that does this daily."
-       ]
-      },
-      {
-       "title": "4. Recycled the Way Appliances Should Be",
-       "text": [
-        ""
+        "{{fact:utilityDisconnection}}"
        ]
       }
      ]
@@ -304,7 +233,7 @@
          "Chest and upright freezers — including the basement veteran"
         ],
         [
-         "Stoves, ovens and cooktops (gas units disconnected by a licensed tech first)"
+         ""
         ],
         [
          "Dishwashers, built-in and portable"
@@ -324,7 +253,7 @@
          "Washers and dryers — front-load, top-load and stacked pairs in tight closets"
         ],
         [
-         "Drained hot water tanks from basements and utility rooms"
+         ""
         ],
         [
          "Water softeners and filtration tanks"
@@ -333,27 +262,7 @@
          "Portable and window AC units, fans and dehumidifiers"
         ],
         [
-         "Disconnected furnaces and old HVAC equipment"
-        ]
-       ]
-      },
-      {
-       "q": "Multi-Unit & Renovation Pickups in Brampton",
-       "a": [
-        [
-         "Whole-kitchen swap-outs on renovation day"
-        ],
-        [
-         "Both-kitchens clearing when a basement suite gets refreshed"
-        ],
-        [
-         "Old-unit haul-away after new appliance deliveries"
-        ],
-        [
-         "Landlord and rental turnover appliance removal"
-        ],
-        [
-         "Appliances-plus-junk combo loads — one truck, one price"
+         ""
         ]
        ]
       },
@@ -370,7 +279,7 @@
          "Office kitchen and breakroom unit removal"
         ],
         [
-         "Multi-unit pickups for Brampton property managers"
+         "{{fact:competitorComparison}}"
         ]
        ]
       }
@@ -509,7 +418,7 @@
        "q": "Q: Can you take an appliance out of a basement apartment?",
        "a": [
         [
-         "A: Every week — basement-suite kitchens are everywhere in Brampton and their appliances exit through the same narrow stairs and side doors they entered. Our crews handle the tight turns with dollies, straps and door-frame padding, and tenants barely notice we were there."
+         "A: Every week — basement-suite kitchens are everywhere in Brampton and their appliances exit through the same narrow stairs and side doors they entered. {{fact:propertyProtection}}."
         ]
        ]
       },
@@ -517,7 +426,7 @@
        "q": "Q: Do I need to unhook anything before you come?",
        "a": [
         [
-         "A: Leave plug-in units and standard water hookups to us — washers, dishwashers and fridge water lines get disconnected on the spot. The one rule: gas stoves and hardwired equipment must be disconnected by a licensed technician before removal. Mention the appliance type when booking and we’ll confirm what applies."
+         "{{fact:utilityDisconnection}} The one rule: gas stoves and hardwired equipment must be disconnected by a licensed technician before removal. Mention the appliance type when booking and we’ll confirm what applies."
         ]
        ]
       },

@@ -9,7 +9,7 @@
   "description": "Get compassionate Bereavement Cleanout Services in East Gwillimbury from Live Junk Free. We handle cleanouts with care, respect, and efficiency.",
   "canonical": "https://livejunkfree.ca/locations/east-gwillimbury/bereavement-cleanout-services-in-east-gwillimbury/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Bereavement-Cleanout-Services-in-Pickering.jpeg"
+  "ogImage": "/images/uploads/2026/07/Monitor-Removal-Services-1.jpeg"
  },
  "title": "Bereavement Cleanout Services in East Gwillimbury",
  "h1": "Bereavement Cleanout Services in East Gwillimbury from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Bereavement-Cleanout-Services-in-East-Gwillimbury-rs6a4ogsjzexw0vv31yxqgtao41jo9i28401zl2c8s.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Bereavement-Cleanout-Services-in-Ajax-rs4hqf6kttw7m8a82z3m5gyvcufvia6fhssrvqdabg.jpeg",
       "alt": "Bereavement Cleanout Services in East Gwillimbury"
      }
     }
@@ -126,7 +126,7 @@
        "title": "One flat bereavement cleanout price, identical in every community",
        "text": [
         [
-         "Holland Landing, Sharon, the 404 corridor, the concessions between — the number reflects the space and the sorting it needs, never the community the address happens to be in."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -231,7 +231,7 @@
     {
      "t": "p",
      "c": [
-      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -295,7 +295,7 @@
        "title": "A Space That's Clean and Ready",
        "text": [
         [
-         "We complete a final walkthrough, sweep the area, and leave the space ready for whatever comes next."
+         "We complete a final walkthrough, and leave the space ready for whatever comes next."
         ]
        ]
       }
@@ -336,10 +336,7 @@
        "Family-initiated cleanouts handled with real patience"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
-      ],
-      [
-       "Same flat pricing as anywhere else in the municipality"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
        "No hamlet premium, ever"
@@ -364,13 +361,7 @@
        "Full-home or single-room cleanouts, priced for the actual scope either way"
       ],
       [
-       "Donation-first sorting throughout"
-      ],
-      [
        "Documentation available for the estate file"
-      ],
-      [
-       "Same flat pricing as a hamlet or farm property"
       ]
      ]
     }
@@ -393,13 +384,7 @@
        "Whole-property coordination where a barn or outbuilding is involved"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Coordination with executors settling the estate"
-      ],
-      [
-       "Same flat pricing regardless of distance from either community"
       ],
       [
        "Biohazard, pest or structural concerns flagged for licensed specialists before continuing"
@@ -421,13 +406,10 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
-       "Same flat pricing regardless of the season"
-      ],
-      [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Recurring visit scheduling available on request"
@@ -842,7 +824,7 @@
        "q": "Do you charge extra for farm properties on the concessions?",
        "a": [
         [
-         "Never. The identical flat pricing applies at a hamlet home, a corridor subdivision, and a farm property between them."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },
@@ -858,7 +840,7 @@
        "q": "Can the cleanout include a barn or outbuilding, not just the house?",
        "a": [
         [
-         "Yes — it’s regular work for us on the township’s farm properties, all under one flat price."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },

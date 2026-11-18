@@ -9,7 +9,7 @@
   "description": "Get reliable Garage Cleanout Services in Woodbridge from Live Junk Free. Clear unwanted items quickly and enjoy a cleaner, more organized garage.",
   "canonical": "https://livejunkfree.ca/locations/woodbridge/garage-cleanout-services-in-woodbridge/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Estate-Cleanout-in-Aurora.jpeg"
+  "ogImage": "/images/uploads/2026/08/Estate-Cleanout-in-Ajax.jpeg"
  },
  "title": "Garage Cleanout Services in Woodbridge",
  "h1": "Garage Cleanout Services in Woodbridge from Live Junk Free",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because a lot of homes here have stayed in the same family for decades, and a garage tends to become the place where everyone’s things eventually end up — a grandparent’s old tools next to a parent’s holiday decorations next to whatever the current generation’s added on top. By the time someone’s ready to clear it out, it’s rarely just one person’s clutter. It’s layers of a family’s life, and Live Junk Free treats it accordingly, sorting with real patience rather than rushing through it as if it were a typical single-household garage."
+      "Because a lot of homes here have stayed in the same family for decades, and a garage tends to become the place where everyone’s things eventually end up — a grandparent’s old tools next to a parent’s holiday decorations next to whatever the current generation’s added on top. By the time someone’s ready to clear it out, it’s rarely just one person’s clutter. {{fact:cleanupScope}}."
      ]
     },
     {
@@ -131,16 +131,7 @@
        "title": "Generational garage cleanout, handled with real patience",
        "text": [
         [
-         "Where a garage holds belongings from more than one generation, sorting happens carefully rather than treating everything as simple clutter to be hauled away quickly."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Garage cleanout pricing kept like a promise, one flat number",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -154,15 +145,6 @@
        ]
       },
       {
-       "n": "04",
-       "title": "Donation-first garage cleanout sorting for tools still in good shape",
-       "text": [
-        [
-         "Working tools, equipment and household items with life left in them go to donation partners first, before anything reaches disposal."
-        ]
-       ]
-      },
-      {
        "n": "05",
        "title": "Renovation-prep garage cleanout, timed to your project",
        "text": [
@@ -170,11 +152,6 @@
          "Clearing a garage ahead of a conversion — a workshop, a gym, an entertaining space — gets scheduled around your contractor’s actual start date."
         ]
        ]
-      },
-      {
-       "n": "06",
-       "title": "Independent garage cleanout pricing",
-       "text": []
       }
      ]
     }
@@ -199,20 +176,13 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how full the garage actually is, and how much sorting it genuinely needs. A garage with a few years of accumulated boxes is a modest job. A garage that’s held decades of belongings from multiple generations, packed floor to ceiling, takes considerably more time to sort with the care it deserves, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A garage with a few years of accumulated boxes is a modest job. A garage that’s held decades of belongings from multiple generations, packed floor to ceiling, takes considerably more time to sort with the care it deserves, and the price reflects that real difference."
      ]
     },
     {
      "t": "p",
      "c": [
       "What never enters the calculation is who the garage’s contents actually belonged to, or how many family members contributed to it over the years. The figure is confirmed for free at an on-site walkthrough — kept like a promise."
-     ]
-    },
-    {
-     "t": "checks",
-     "items": [
-      "{{fact:competitorComparison}}",
-      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -228,12 +198,6 @@
      "t": "price",
      "label": "Woodbridge Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -275,7 +239,7 @@
        "title": "Book Your Garage Cleanout Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available."
+         "Call +1 647 922 5865 or book online — same-day slots when available are usually available."
         ]
        ]
       },
@@ -284,7 +248,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual garage, notes anything that calls for a more careful sort, and gives you one flat price before anything moves."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -302,7 +266,7 @@
        "title": "Your Garage Is Usable",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready to actually use again."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready to actually use again."
         ]
        ]
       }
@@ -349,13 +313,10 @@
        "Keepsakes and anything meaningful set aside for the family, always"
       ],
       [
-       "Donation-first sorting for tools and equipment still usable"
-      ],
-      [
        "Coordination with family on pace and timing"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     },
@@ -412,7 +373,7 @@
        "Coordination with your renovation project's broader schedule"
       ],
       [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Documentation available if the project requires it"
@@ -434,10 +395,7 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
@@ -815,7 +773,7 @@
        "q": "How much do garage cleanout services cost in Woodbridge?",
        "a": [
         [
-         "Pricing is confirmed free at an on-site walkthrough based on how full the garage is and how much sorting it needs — it’s the invoiced number, kept like a promise."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -831,7 +789,7 @@
        "q": "Do you charge extra for a garage that's completely packed?",
        "a": [
         [
-         "The price reflects the actual volume and sorting required, not a flat surcharge — a fuller garage costs more because it genuinely takes more time."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },

@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Here’s a home truth: junk removal works best as maintenance, not rescue. The households that never face a crisis-level garage are the ones that let go of things as they retire — the sofa when it’s replaced, the freezer when it quits, the mattress when the new one arrives. We make that easy in Whitchurch-Stouffville: one call, a free flat quote at your door, and a fully insured crew that takes one item or forty from wherever they sit. No job too small to book, no pile required to qualify."
+      "Here’s a home truth: junk removal works best as maintenance, not rescue. The households that never face a crisis-level garage are the ones that let go of things as they retire — the sofa when it’s replaced, the freezer when it quits, the mattress when the new one arrives. {{fact:changedScope}}."
      ]
     },
     {
@@ -97,44 +97,14 @@
      "text": "Plenty of our Whitchurch-Stouffville customers aren't one-time callers — they're households that ring us each time something retires: the appliance swap in spring, the furniture refresh in fall, the shed sort before winter. The Google reviews behind Live Junk Free read like a town ledger of small jobs done right: on time, flat-quoted, carried carefully, gone."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Small jobs get honest small prices",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Loads start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard) and scale only as the truck fills."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Quoted at your door, every time",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Even a one-item pickup gets the in-person look — because \"just a couch\" sometimes has a matching loveseat hiding behind the question. One free assessment, one flat figure, and the choice stays entirely yours."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "The number is finished before the lifting starts",
-       "text": []
-      }
-     ]
+     "text": "Even a one-item pickup gets the in-person look — because \"just a couch\" sometimes has a matching loveseat hiding behind the question."
     },
     {
      "t": "h",
@@ -142,44 +112,14 @@
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Whether the piece slides out easily or demands doors off hinges, the price was settled at hello."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Carried like it's our own hallway",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Runners on the floors, pads on the corners, bulky pieces dismantled rather than forced — in Stouffville's newer homes and the countryside's older ones alike. The item leaves; the paint, trim and railings never notice."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Easy enough to call before it becomes a project",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "No deposit, no expiry, no pressure — and booking takes two minutes. That low friction is the whole philosophy: when letting go is this simple, things leave on time instead of colonizing the basement."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent pricing",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -260,7 +200,7 @@
       {
        "title": "2. Point at What's Retiring",
        "text": [
-        "The sofa, the dead freezer, the mattress, the corner that got away — show us and get one flat, quote on the spot. Free either way."
+        "{{fact:changedScope}}. Free either way."
        ]
       },
       {
@@ -272,7 +212,7 @@
       {
        "title": "4. Tidied and Passed Forward",
        "text": [
-        "The spot gets swept, and the item gets sorted onward — donation partners first for anything with life left, recyclers for metals and electronics, landfill only as the last resort."
+        "The spot gets, and the item gets sorted onward — donation partners first for anything with life left, recyclers for metals and electronics, landfill only as the last resort."
        ]
       }
      ]
@@ -330,7 +270,7 @@
          "Stoves, ovens, dishwashers and microwaves"
         ],
         [
-         "Drained hot water tanks and water softeners"
+         ""
         ],
         [
          "Window ACs, dehumidifiers and space heaters"
@@ -347,7 +287,7 @@
          "Basement and cold-room upkeep clears"
         ],
         [
-         "Shed and outbuilding sorting, rural properties welcome"
+         "Shed and outbuilding rural properties welcome"
         ],
         [
          "Attic and closet decluttering"
@@ -364,7 +304,7 @@
        "q": "The Big, Odd and Occasional in Whitchurch-Stouffville",
        "a": [
         [
-         "Hot tubs — drained, dismantled, hauled"
+         ""
         ],
         [
          "Pianos, pool tables and inherited oversized pieces"
@@ -382,7 +322,7 @@
          "BBQs, mowers, snowblowers and scrap metal"
         ],
         [
-         "Bed-bug-affected furniture — sealed on site, removed discreetly"
+         ""
         ]
        ]
       }

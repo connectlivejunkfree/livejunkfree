@@ -97,44 +97,14 @@
      "text": "The homes here range from original village houses to estates with more outbuildings than some streets have houses — and what they part with reflects it. Live Junk Free handles those pickups the way this town expects: Google reviews built on punctual arrivals, locked quotes, floors and finishes treated like they cost what they cost, and good pieces sent onward rather than under."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Volume is the price — quality isn't a surcharge",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "A designer sofa and a worn-out futon occupy the same truck space and pay the same rate. Our pricing reads cubic feet, not labels: small loads cost small, larger clears scale flat, and no King City address pays a location premium."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Quoted at the door, after seeing everything",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Large properties scatter their items — the chairs in the pool house, the fridge in the coach house, the headboard in the third-bay loft. We quote after the full tour, in person, and the free flat figure that results doesn't move afterward."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One number, complete and final",
-       "text": []
-      }
-     ]
+     "text": "Large properties scatter their items — the chairs in the pool house, the fridge in the coach house, the headboard in the third-bay loft."
     },
     {
      "t": "h",
@@ -142,44 +112,14 @@
      "text": "Carrying, loading, long driveways, fuel, disposal and donation logistics — everything rides inside the quote you approve. Whether the piece exits easily or demands dismantling and patience, the price was finished the moment you said yes."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Handled like the home it's leaving",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Wide staircases, custom millwork, stone floors — our crews protect what stays as carefully as they carry what goes. Runners down, corners padded, doors off hinges before anything is forced, and long carries across the property done on either end."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Donation-first isn't a slogan here — it's the sorting order",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Furniture with life left, working appliances, quality housewares — these go to donation partners before recycling or disposal is even discussed. Most of what King City releases finds a grateful second household within days, and we're glad to be the bridge."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent pricing",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -203,7 +143,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small pickups start at {{min_price:C}}, single items sit at the low end, and multi-item clears — the redesign's full cast-off list, the outbuildings' accumulation — ride as one combined load priced by total truck space. The figure quoted free at your door is the figure on the receipt, however long the driveway between them."
+     "text": "The figure quoted free at your door is the figure on the receipt, however long the driveway between them."
     },
     {
      "t": "cards",
@@ -246,7 +186,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Unhurried, complete, and finished the same day more often than not:"
+     "text": "Unhurried, complete, and finished the same day when available more often than not:"
     },
     {
      "t": "cards",
@@ -260,7 +200,7 @@
       {
        "title": "2. Walk Us Through the Property",
        "text": [
-        "Every item, every building — the full picture produces one flat, quote. Free to hear and free to decline."
+        "{{fact:changedScope}}. Free to hear and free to decline."
        ]
       },
       {
@@ -272,7 +212,7 @@
       {
        "title": "4. Tidied, Sorted, Sent Onward",
        "text": [
-        "The cleared spaces get swept, and the truck gets sorted by priority: donation partners first — where most of it goes — recyclers for metals and electronics, landfill only for the genuinely finished."
+        "The cleared spaces get, and the truck gets sorted by priority: donation partners first — where most of it goes — recyclers for metals and electronics, landfill only for the genuinely finished."
        ]
       }
      ]
@@ -327,13 +267,13 @@
          "Washers and dryers, main floor or second-storey laundry"
         ],
         [
-         "Ranges, wall ovens and cooktops (gas disconnected by a licensed tech first)"
+         ""
         ],
         [
          "Dishwashers, microwaves and countertop retirees"
         ],
         [
-         "Drained hot water tanks, softeners and treatment units"
+         ""
         ]
        ]
       },
@@ -364,7 +304,7 @@
        "q": "The Oversized and Particular in King City",
        "a": [
         [
-         "Hot tubs and swim spas — drained, dismantled, hauled"
+         ""
         ],
         [
          "Pianos, billiard tables and gym equipment"
@@ -379,7 +319,7 @@
          "Rolled carpet, old flooring and renovation leftovers"
         ],
         [
-         "Bed-bug-affected furniture — sealed on site, removed discreetly"
+         ""
         ]
        ]
       }
@@ -526,7 +466,7 @@
        "q": "Q: Can you pick up from the pool house, coach house and garage in the same visit?",
        "a": [
         [
-         "A: One visit, one combined load, one flat price — always cheaper than separate bookings. Items scattered across the property are normal here; walking the whole place at the quote stage is exactly why our numbers hold."
+         "{{fact:changedScope}}. Items scattered across the property are normal here; walking the whole place at the quote stage is exactly why our numbers hold."
         ]
        ]
       },

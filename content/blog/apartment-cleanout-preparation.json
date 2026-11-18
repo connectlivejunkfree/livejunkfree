@@ -57,16 +57,10 @@
      "t": "ul",
      "items": [
       [
-       "4 weeks before: Begin decluttering and sorting belongings"
-      ],
-      [
        "2 weeks before: Schedule your professional apartment cleanout service"
       ],
       [
        "1 week before: Coordinate with building management"
-      ],
-      [
-       "2-3 days before: Complete personal item sorting"
       ],
       [
        "Day before: Finalize preparation tasks"
@@ -135,7 +129,7 @@
     {
      "t": "p",
      "c": [
-      "One of the most crucial steps in preparing for apartment cleanouts is coordinating with your building management team. This proactive communication prevents delays and ensures compliance with building regulations."
+      "One of the most crucial steps in preparing for apartment cleanouts is coordinating with your building management team."
      ]
     },
     {
@@ -175,14 +169,9 @@
   {
    "blocks": [
     {
-     "t": "h",
-     "l": 2,
-     "text": "Personal Item Preparation and Sorting"
-    },
-    {
      "t": "p",
      "c": [
-      "Before your apartment cleanout team arrives, careful sorting of your belongings streamlines the entire process and ensures your valuable items remain secure."
+      "{{fact:cleanupScope}}."
      ]
     },
     {
@@ -198,7 +187,7 @@
        "Keep Zone: Items you’re definitely keeping"
       ],
       [
-       "Donation Zone: Usable items for charity"
+       "{{fact:recycling}}"
       ],
       [
        "Decision Zone: Items you’re unsure about"
@@ -206,12 +195,6 @@
       [
        "Discard Zone: Definite trash and unwanted items"
       ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "Important Sorting Tips:"
      ]
     },
     {
@@ -229,12 +212,6 @@
       [
        "Take photos of items you want to remember, but don’t need to keep"
       ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "This systematic approach to sorting ensures your apartment cleanout team can work efficiently while respecting your decisions about what stays and what goes."
      ]
     }
    ]
@@ -341,7 +318,7 @@
        "Inventory of high-value items being removed"
       ],
       [
-       "Insurance information and emergency contacts"
+       "{{fact:pickupTimes}}"
       ]
      ]
     },
@@ -380,7 +357,7 @@
     {
      "t": "p",
      "c": [
-      "The final preparations before your apartment cleanout service ensure everything is ready for efficient work the next day."
+      "The final preparations before your apartment cleanout service ensure everything is ready for efficient work the next day, subject to availability."
      ]
     },
     {
@@ -403,9 +380,6 @@
       ],
       [
        "Remove all items from closets and cabinets"
-      ],
-      [
-       "Pack and secure personal valuables"
       ],
       [
        "Charge your phone for communication during the process"
@@ -434,7 +408,7 @@
         "Live Junk Free"
        ]
       },
-      ", we understand that proper preparation is the foundation of successful apartment cleanouts. Our team provides guidance and support throughout the preparation process to ensure your cleanout experience is stress-free and efficient."
+      "{{fact:structuralDemolition}}. Our team provides guidance and support throughout the preparation process to ensure your cleanout experience is stress-free and efficient."
      ]
     },
     {
@@ -494,16 +468,10 @@
      "t": "ul",
      "items": [
       [
-       "Underestimating the time needed for sorting"
-      ],
-      [
        "Forgetting to coordinate with building management"
       ],
       [
        "Leaving decision-making about sentimental items until the last minute"
-      ],
-      [
-       "Failing to secure important documents and valuables"
       ],
       [
        "Not measuring furniture and access points in advance"
@@ -522,7 +490,7 @@
     {
      "t": "p",
      "c": [
-      "Thorough preparation is the key to successful apartment cleanouts. By following these steps and working with an experienced service provider, you can transform what might seem like an overwhelming project into a well-organized, efficient process. Proper planning, clear communication with building management, systematic sorting, and space preparation all contribute to a smooth cleanout experience that saves you time, reduces stress, and delivers the results you want. Ready to begin preparing for your apartment cleanout? Contact Live Junk Free today for personalized guidance and professional apartment cleanout services that make the process simple and stress-free."
+      "Thorough preparation is the key to successful apartment cleanouts. By following these steps and working with an experienced service provider, you can transform what might seem like an overwhelming project into a well-organized, efficient process. Proper planning, clear communication with building management, systematic and space preparation all contribute to a smooth cleanout experience that saves you time, reduces stress, and delivers the results you want. Ready to begin preparing for your apartment cleanout? Contact Live Junk Free today for personalized guidance and professional apartment cleanout services that make the process simple and stress-free."
      ]
     }
    ]

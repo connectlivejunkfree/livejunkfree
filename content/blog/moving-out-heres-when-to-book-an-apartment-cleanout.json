@@ -406,7 +406,7 @@
       "For most moves, the ideal time is ",
       {
        "b": [
-        "after you’ve removed the belongings you’re keeping but before the final cleaning and inspection."
+        ""
        ]
       }
      ]
@@ -948,7 +948,7 @@
       "The best time to book an apartment cleanout is ",
       {
        "b": [
-        "before moving day becomes an emergency"
+        "{{fact:pickupTimes}}"
        ]
       },
       "."

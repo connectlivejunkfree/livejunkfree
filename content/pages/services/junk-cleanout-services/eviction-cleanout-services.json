@@ -85,7 +85,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/eviction-cleanout-services-1024x765.jpeg",
-      "alt": "eviction-cleanout-services",
+      "alt": "Eviction Cleanout: Live Junk Free job photo",
       "width": 800,
       "height": 598
      }
@@ -102,20 +102,13 @@
     {
      "t": "p",
      "c": [
-      "Our team handles all the heavy lifting, sweeping up afterward, and making sure everything is properly handled and disposed of. With Live Junk Free, you can move forward without the mess or the hassle."
+      "{{fact:cleanupScope}}. With Live Junk Free, you can move forward without the mess or the hassle."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Need an urgent cleanout? We’re here to help with ",
-      {
-       "a": "/services/services/",
-       "c": [
-        "Or next-day service"
-       ]
-      },
-      "s."
+      "Need an urgent cleanout? {{fact:sameDay}}. Call us to check the earliest available time."
      ]
     },
     {
@@ -171,10 +164,7 @@
        "Removal of furniture, electronics, appliances, mattresses, and trash"
       ],
       [
-       "Responsible sorting and disposal"
-      ],
-      [
-       "Final sweep and tidy of the area"
+       "Disposal"
       ]
      ]
     },
@@ -225,12 +215,6 @@
        ]
       },
       {
-       "title": "",
-       "text": [
-        "If you’re not happy, we’ll make it right. Your peace of mind is our promise."
-       ]
-      },
-      {
        "title": "Experience",
        "text": [
         "Our team knows eviction rules well. They work quickly and carefully every time."
@@ -259,7 +243,7 @@
        "We handle eviction cleanouts in any property, whether it’s a cluttered apartment, a packed-up house, or a commercial space. Our team efficiently clears out all unwanted items while respecting the property’s condition."
       ],
       [
-       "From old furniture and appliances to piles of debris and personal belongings, we take care of it all. We handle the sorting, hauling, and proper disposal, so you don’t have to worry about anything. When we’re done, the property will be tidy and ready for its next chapter."
+       "From old furniture and appliances to piles of debris and personal belongings, we take care of it all. We handle the hauling, and proper disposal, so you don’t have to worry about anything. When we’re done, the property will be tidy and ready for its next chapter."
       ]
      ]
     },
@@ -288,10 +272,7 @@
        "Recycle furniture, metals, and electronics whenever possible"
       ],
       [
-       "Donate usable goods to local shelters and community organizations"
-      ],
-      [
-       "Reduce landfill waste through responsible sorting"
+       "Donate suitable goods where possible and community organizations"
       ]
      ]
     },
@@ -408,12 +389,6 @@
        ]
       },
       {
-       "title": "Get a Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
-       ]
-      },
-      {
        "title": "Schedule Your Slot",
        "text": [
         "Choose a same-day or next-day cleanout when available. Flexible timing across the GTA."
@@ -442,11 +417,11 @@
      "t": "gallery",
      "images": [
       {
-       "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
+       "src": "/images/job-1.webp",
        "alt": "Eviction Cleanout: Live Junk Free job photo"
       },
       {
-       "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
+       "src": "/images/job-2.webp",
        "alt": "Eviction Cleanout: Live Junk Free job photo"
       },
       {
@@ -458,7 +433,7 @@
        "alt": "Eviction Cleanout: Live Junk Free job photo"
       },
       {
-       "src": "/images/uploads/2025/07/20250611_115029-1024x577.webp",
+       "src": "/images/job-3.webp",
        "alt": "Eviction Cleanout: Live Junk Free job photo"
       },
       {
@@ -483,15 +458,15 @@
        "q": "What’s included in an eviction cleanout?",
        "a": [
         [
-         "We remove all furniture, junk, appliances, and debris left behind and sweep the space clean."
+         "We remove all furniture, junk, appliances, and debris left behind."
         ]
        ]
       },
       {
-       "q": "Do you offer emergency same-day eviction cleanouts?",
+       "q": "How soon can you do an eviction cleanout?",
        "a": [
         [
-         "Yes! Same-day and next-day services are available across our service areas."
+         "{{fact:sameDay}}. {{fact:eviction}}"
         ]
        ]
       },

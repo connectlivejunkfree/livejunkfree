@@ -9,7 +9,7 @@
   "description": "Cleanout services in Scarborough from Live Junk Free — estate, downsizing, condo and household-merge cleanouts by an insured crew.",
   "canonical": "https://livejunkfree.ca/locations/cleanout-services-in-scarborough/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/07/Cleanout-Services-in-Scarborough.jpeg"
+  "ogImage": "/images/uploads/2026/07/cleanout-services-in-ajax.jpeg"
  },
  "title": "Cleanout Services in Scarborough",
  "h1": "Professional Cleanout Services in Scarborough",
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Scarborough from Live Junk Free — estate, downsizing, condo and household-merge cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished swept on schedule."
+     "text": "Cleanout services in Scarborough from Live Junk Free — estate, downsizing, condo and household-merge cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished on schedule."
     },
     {
      "t": "ctas",
@@ -126,7 +126,7 @@
        "title": "Free walkthrough cleanout quotes anywhere in Scarborough",
        "text": [
         [
-         "A Live Junk Free crew lead walks the space — a bungalow, a Golden Mile condo suite, a Bluffs-area heritage home — hears what the cleanout is for, and writes one firm flat quote on the spot. Free, unhurried, patient with however many family members the decision involves."
+         "{{fact:changedScope}}. Free, unhurried, patient with however many family members the decision involves."
         ]
        ]
       },
@@ -162,7 +162,7 @@
        "title": "Independent cleanout pricing",
        "text": [
         [
-         "No head-office royalties inside our quotes — Live Junk Free runs local crews and our own trucks, honest volume pricing."
+         "{{fact:changedScope}}."
         ]
        ]
       }
@@ -195,8 +195,7 @@
     {
      "t": "checks",
      "items": [
-      "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -212,12 +211,6 @@
      "t": "price",
      "label": "Scarborough Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -259,7 +252,7 @@
        "title": "Book Your Scarborough Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit. A Live Junk Free crew lead tours the space, hears the story — a bungalow estate, a merge, a condo move — and writes one flat quote with a schedule that respects the household living through it."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit. {{fact:changedScope}}."
         ]
        ]
       },
@@ -273,20 +266,11 @@
        ]
       },
       {
-       "n": "03",
-       "title": "The Cleanout Runs Contained, Sorted and Respectful",
-       "text": [
-        [
-         "Donations stream one way, recycling another, true waste last — work zones kept tidy in occupied homes, and anything meaningful that surfaces brought to the family, never binned by default."
-        ]
-       ]
-      },
-      {
        "n": "04",
-       "title": "Swept, Settled and Ready for the Next Arrangement",
+       "title": ", Settled and Ready for the Next Arrangement",
        "text": [
         [
-         "The space hands back broom-swept — bungalow, suite or merged household — with debris gone on our own trucks and donation or disposal documentation for the estate, the landlord or the family’s own file."
+         "The space hands back — bungalow, suite or merged household — with debris gone on our own trucks and donation or disposal documentation for the estate, the landlord or the family’s own file."
         ]
        ]
       }
@@ -336,10 +320,7 @@
        "Executor and out-of-town family coordination with documentation"
       ],
       [
-       "Donation-first sorting recorded for the estate file"
-      ],
-      [
-       "Sale-ready, broom-swept handovers"
+       "Sale-ready handovers"
       ]
      ]
     },
@@ -425,9 +406,6 @@
       ],
       [
        "Family and support-worker coordination where wanted"
-      ],
-      [
-       "Respectful crews, first knock to final sweep"
       ]
      ]
     }
@@ -727,7 +705,7 @@
        "q": "How quickly can you complete a cleanout in Scarborough?",
        "a": [
         [
-         "Most residential cleanouts are completed in a single visit. Smaller jobs often take just a few hours, while larger estate or commercial cleanouts may require more time. Same-day and next-day appointments are available when scheduling permits."
+         "Most residential cleanouts are completed in a single visit. Smaller jobs often take just a few hours, while larger estate or commercial cleanouts may require more time. {{fact:permits}}"
         ]
        ]
       },

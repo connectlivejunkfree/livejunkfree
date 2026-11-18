@@ -9,7 +9,7 @@
   "description": "Hoarding cleanouts in Nobleton from Live Junk Free are handled quietly, without judgment, and at whatever pace the person or family needs.",
   "canonical": "https://livejunkfree.ca/locations/nobleton/hoarding-cleanouts-in-nobleton-2/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Nobleton.jpeg"
+  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Ajax.jpeg"
  },
  "title": "Hoarding Cleanouts in Nobleton",
  "h1": "Hoarding Cleanouts in Nobleton from Live Junk Free",
@@ -22,11 +22,6 @@
      "t": "h",
      "l": 1,
      "text": "Hoarding Cleanouts in Nobleton from Live Junk Free"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Hoarding cleanouts in Nobleton from Live Junk Free are handled quietly, without judgment, and at whatever pace the person or family actually needs — a free private quote, an experienced crew, and donation-first sorting throughout."
     },
     {
      "t": "ctas",
@@ -80,13 +75,13 @@
     {
      "t": "p",
      "c": [
-      "In a place the size of Nobleton, everyone tends to notice a truck in a driveway, and that reality shapes how a hoarding cleanout gets handled here. Around the village core, it’s quiet scheduling and unmarked arrival on request — nothing that draws attention on a street where neighbours know each other. On the hobby farms and larger properties scattered through King Township, a hoarding situation sometimes extends beyond the house itself into a garage, a barn or an outbuilding, and Live Junk Free clears all of it with the same careful, unhurried approach. Whether the job is a single overwhelmed room or a full property with years of accumulation across several buildings, the standard doesn’t change: no commentary, no judgment, and complete discretion from the first phone call to the final sweep. The Google reviews behind Live Junk Free reflect exactly that — families, individuals and support workers across Nobleton and King Township who needed a hoarding cleanout done with genuine care, and got it."
+      "In a place the size of Nobleton, everyone tends to notice a truck in a driveway, and that reality shapes how a hoarding cleanout gets handled here. Around the village core, it’s quiet scheduling and unmarked arrival on request — nothing that draws attention on a street where neighbours know each other. On the hobby farms and larger properties scattered through King Township, a hoarding situation sometimes extends beyond the house itself into a garage, a barn or an outbuilding, and Live Junk Free clears all of it with the same careful, unhurried approach. {{fact:cleanupScope}}. The Google reviews behind Live Junk Free reflect exactly that — families, individuals and support workers across Nobleton and King Township who needed a hoarding cleanout done with genuine care, and got it."
      ]
     },
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Nobleton-rrlqdwkvxzwux044qnhu1vzr7bq5gqqqvjocxh9jm8.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Ajax-rrmzgn6andbie2zv3395ne9iklgc1ewincvh8j7pn4.jpeg",
       "alt": "Hoarding Cleanouts in Nobleton"
      }
     }
@@ -160,7 +155,7 @@
        "title": "Free on-site quotes, with an honest cost to clean out a hoarder's house",
        "text": [
         [
-         "A crew member walks the property, sees the real scope, and gives one flat number before anything moves — no guessing from a phone description once the work is underway."
+         "{{fact:changedScope}}."
         ]
        ]
       }
@@ -187,7 +182,7 @@
     {
      "t": "p",
      "c": [
-      "Hoarder clean out cost depends on the volume of belongings, how many rooms or buildings are affected, and how much sorting and donation coordination is involved — a single room is a modest job, a full property with an attached garage or outbuilding costs more given the crew time required. The figure is confirmed at a free, no-obligation walkthrough, and it’s the same flat structure regardless of the reason for the visit."
+      "{{fact:structuralDemolition}}. The figure is confirmed at a free, no-obligation walkthrough, and it’s the same flat structure regardless of the reason for the visit."
      ]
     },
     {
@@ -214,7 +209,7 @@
     {
      "t": "p",
      "c": [
-      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -256,15 +251,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Your Hoarding Cleanout Quote — A Respectful Walkthrough, One Flat Price",
-       "text": [
-        [
-         "A crew member visits — house, garage, barn or all of it — sees the actual scope, and provides one flat price, with unmarked arrival if that’s preferred."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Hoarding Cleanout Runs Methodically, Building by Building",
        "text": [
@@ -275,10 +261,10 @@
       },
       {
        "n": "04",
-       "title": "Hoarding Cleanout Complete — the Property Left Clean, Safe and Livable",
+       "title": "Careful Removal",
        "text": [
         [
-         "Debris is hauled the same visit where possible, donations go to local partners, and every space is left swept and safe — with follow-up visits available if the job needs to happen in stages."
+         "Debris is hauled the same visit where possible, donations go to local partners, and every space is left and safe — with follow-up visits available if the job needs to happen in stages."
         ]
        ]
       }
@@ -316,7 +302,7 @@
        "Cleaning out a hoarder's home while the resident continues living there, paced to their comfort"
       ],
       [
-       "Kitchen, bathroom and bedroom cleared to a livable, safe standard"
+       "Careful Removal"
       ],
       [
        "Basement and attic cleanouts where accumulation has built up over years"
@@ -339,9 +325,6 @@
       ],
       [
        "Crews accustomed to working calmly around rural properties and animals"
-      ],
-      [
-       "Salvage and donation-first sorting even in heavily accumulated spaces"
       ]
      ]
     }
@@ -381,9 +364,6 @@
       ],
       [
        "Biohazard, pest infestation or structural concerns flagged for licensed specialists before cleanout continues"
-      ],
-      [
-       "Donation-first sorting maintained throughout, even in the most overwhelmed spaces"
       ],
       [
        "Calm, unhurried crew presence regardless of how difficult the job looks at the outset"
@@ -990,7 +970,7 @@
        "q": "What's the cost to clean out a hoarder's house in Nobleton?",
        "a": [
         [
-         "Hoarder clean out cost depends on the volume of belongings, the number of rooms or buildings affected, and how much sorting is involved — a single room prices modestly, a full property with an attached garage or barn costs more given the time required. The exact figure is confirmed free at a private walkthrough, with no obligation to proceed. "
+         "{{fact:cleanupScope}}. The exact figure is confirmed free at a private walkthrough, with no obligation to proceed. "
         ]
        ]
       },
@@ -998,7 +978,7 @@
        "q": "What's the best way to clean out a hoarder's house?",
        "a": [
         [
-         "Professional help, a clear plan, and patience. Going in without a strategy usually causes more distress than progress. The most effective approach sorts systematically — keep, donate, recycle, dispose — respects the resident’s input wherever they’re able to give it, and moves at a pace the household can handle, sometimes across more than one visit. Safety concerns get identified and handled by the right specialists before the rest of the cleanout continues. "
+         "Professional help, a clear plan, and patience. Going in without a strategy usually causes more distress than progress. {{fact:scheduling}} Safety concerns get identified and handled by the right specialists before the rest of the cleanout continues. "
         ]
        ]
       },

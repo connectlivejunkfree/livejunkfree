@@ -116,9 +116,6 @@
      "t": "ul",
      "items": [
       [
-       "A temporary sorting station for items from the basement."
-      ],
-      [
        "A secure holding area for donation piles or items awaiting sale."
       ],
       [
@@ -145,7 +142,7 @@
        "Faster Visible Results: Garages often have more open space, so progress is immediately visible. This quick win builds momentum and confidence to tackle the more daunting basement."
       ],
       [
-       "Simpler Decision-Making: Garage items (tools, outdoor gear, automotive supplies) are often less emotionally charged than sentimental belongings stored in basements, making initial sorting decisions easier and faster."
+       "{{fact:cleanupScope}}."
       ]
      ]
     }
@@ -216,10 +213,10 @@
      "t": "ol",
      "items": [
       [
-       "Phase 1: Quick Garage Clear-Out. Conduct a rapid garage cleanout to reclaim parking and create your staging area. Hire a service like Live Junk Free to remove the bulk junk quickly."
+       "Phase 1: Quick Garage Clear-Out. Conduct a rapid garage cleanout to reclaim parking and create your staging area. {{fact:changedScope}}."
       ],
       [
-       "Phase 2: Systematic Basement Cleanout. Using the cleared garage as a sorting zone, methodically work through the basement. Sort items into keep, donate, recycle, and discard piles in the garage."
+       "Phase 2: Systematic Basement Cleanout. {{fact:cleanupScope}}. Sort items into keep, donate, recycle, and discard piles in the garage."
       ],
       [
        "Phase 3: Final Combined Removal. Once both spaces are sorted, schedule a final professional removal to haul away the combined discard and donation piles from your garage staging area. This single, large haul is often more cost-effective than two smaller ones."

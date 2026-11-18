@@ -5,14 +5,14 @@
  "type": "landing",
  "template": "AdsLanding",
  "seo": {
-  "title": "Bed Bug Furniture Removal Near You | GTA | Live Junk Free",
+  "title": "Bed Bug Furniture Removal Across the GTA | Live Junk Free",
   "description": "Need bed bug furniture removal in the GTA? Live Junk Free safely removes infested couches, mattresses & furniture same day, subject to scheduling. Fully insured. Get a free quote!",
   "canonical": "https://livejunkfree.ca/bed-bug-furniture-removal/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/bed_shot.jpg-1024x577.jpeg"
  },
  "title": "Bed Bug Furniture Removal",
- "h1": "Bed Bug Furniture Removal Near You — Safe, Removal Across the GTA",
+ "h1": "Bed Bug Furniture Removal Across the GTA",
  "published": "2026-05-30T09:02:19",
  "modified": "2026-11-05T08:11:05",
  "sections": [
@@ -21,12 +21,12 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Bed Bug Furniture Removal Near You — Safe, Removal Across the GTA"
+     "text": "Bed Bug Furniture Removal Across the GTA"
     },
     {
      "t": "p",
      "c": [
-      "Infested couch, mattress, or furniture? We remove it fast, safely, and responsibly. Same-day available."
+      "Infested couch, mattress, or furniture? We remove it fast, safely, and responsibly. Same-day may be available."
      ]
     },
     {
@@ -91,7 +91,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/05/bed_shot.jpg-1024x577.jpeg",
-      "alt": "Bed shot.jpg",
+      "alt": "Bed Bug Furniture Removal: Live Junk Free job photo",
       "width": 800,
       "height": 451
      }
@@ -108,13 +108,13 @@
     {
      "t": "p",
      "c": [
-      "Discovering bed bugs is stressful. Getting rid of the infested furniture should not be. You cannot put it on the curb. You cannot leave it in the hallway. You need it gone today. Live Junk Free specialises in bed bug furniture removal across the Greater Toronto Area — we arrive fast, remove everything safely, and dispose of it properly so it does not become someone else’s problem."
+      "Discovering bed bugs is stressful. Getting rid of the infested furniture should not be. You cannot put it on the curb. You cannot leave it in the hallway. {{fact:scheduling}} Live Junk Free specialises in bed bug furniture removal across the Greater Toronto Area — we arrive fast, remove everything safely, and dispose of it properly so it does not become someone else’s problem."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Whether you need a bed bug couch removal, a bed bug mattress removal, a full bedroom set, or any other bed bug infested furniture removed — we handle it all in one visit. No judgement, no fuss, just fast professional removal."
+      "Whether you need a bed bug couch removal, a bed bug mattress removal, a full bedroom set, or any other bed bug infested furniture removed — we handle it all. No judgement, no fuss, just fast professional removal."
      ]
     },
     {
@@ -143,12 +143,6 @@
      "t": "h",
      "l": 2,
      "text": "Bed Bug Couches & Sofas"
-    },
-    {
-     "t": "p",
-     "c": [
-      "All types of sofas, sectionals, and loveseats safely removed — bagged and contained before leaving your home."
-     ]
     }
    ]
   },
@@ -158,12 +152,6 @@
      "t": "h",
      "l": 2,
      "text": "Bed Bug Mattresses"
-    },
-    {
-     "t": "p",
-     "c": [
-      "Mattresses and box springs wrapped and removed in full compliance with Toronto waste disposal guidelines."
-     ]
     }
    ]
   },
@@ -177,7 +165,7 @@
     {
      "t": "p",
      "c": [
-      "Bed frames, headboards, nightstands, and dressers — full bedroom clearances handled in one visit."
+      "Bed frames, headboards, nightstands, and dressers — full bedroom clearances handled."
      ]
     }
    ]
@@ -245,7 +233,7 @@
          "bed bug couch removal"
         ]
        },
-       " and all furniture types handled in one visit"
+       " and all furniture types handled"
       ],
       [
        {
@@ -298,7 +286,7 @@
        "Careful Furniture Removal & Disposal."
       ],
       [
-       "All items bagged and wrapped before leaving your home"
+       "Furniture wrapped and smaller items bagged before we carry them out"
       ]
      ]
     }
@@ -396,7 +384,7 @@
      "t": "ctas",
      "items": [
       {
-       "label": "Book your Appointment",
+       "label": "Request a Callback",
        "href": "/contact/"
       }
      ]
@@ -428,7 +416,7 @@
       {
        "title": "Gone — All of It",
        "text": [
-        "We remove all infested items, bag and wrap everything before it leaves your home, and dispose of it through proper licensed channels. We clean up before we leave."
+        "We clean up before we leave."
        ]
       }
      ]

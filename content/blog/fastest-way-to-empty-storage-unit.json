@@ -73,7 +73,7 @@
        "No Learning Curve: Professionals know exactly how to approach different types of units and content, avoiding trial and error."
       ],
       [
-       "Decision Support: Experienced crews help expedite sorting decisions, preventing the paralysis that often slows DIY attempts."
+       "{{fact:cleanupScope}}."
       ]
      ]
     },
@@ -122,7 +122,7 @@
     {
      "t": "p",
      "c": [
-      "Phase 1: Immediate Assessment and Sorting (First Hour)",
+      "",
       {
        "br": 1
       },
@@ -136,7 +136,7 @@
        "Quick visual scan to identify obvious trash and recyclables"
       ],
       [
-       "Immediate removal of clearly unwanted items to the truck"
+       "{{fact:pickupTimes}}"
       ],
       [
        "Setting aside items marked for donation or special handling"
@@ -166,9 +166,6 @@
        "Strategic packing of the removal truck to maximize space"
       ],
       [
-       "Continuous sorting while loading to maintain momentum"
-      ],
-      [
        "Protection of floors and walls during the removal process"
       ]
      ]
@@ -176,7 +173,7 @@
     {
      "t": "p",
      "c": [
-      "Phase 3: Final Sweep and Unit Preparation (Third Hour)",
+      "",
       {
        "br": 1
       },
@@ -190,13 +187,10 @@
        "Comprehensive inspection of all shelves and corners"
       ],
       [
-       "Sweeping and cleaning of the empty unit"
-      ],
-      [
        "Final walkthrough with you to confirm satisfaction"
       ],
       [
-       "Secure transportation of all items for proper disposal or donation"
+       "{{fact:recycling}}"
       ]
      ]
     }
@@ -253,13 +247,13 @@
     {
      "t": "p",
      "c": [
-      "For the most urgent situations, same-day storage unit cleanouts provide immediate solutions when time is critically limited."
+      "For the most urgent situations, same-day storage unit cleanouts when available provide immediate solutions when time is critically limited."
      ]
     },
     {
      "t": "p",
      "c": [
-      "When Same-Day Service Is Essential"
+      "When Service Is Essential"
      ]
     },
     {
@@ -384,7 +378,7 @@
      "t": "ul",
      "items": [
       [
-       "Flexible scheduling, including same-day availability"
+       "Flexible scheduling, including same-day availability when available"
       ],
       [
        "Streamlined quoting process using your unit photos or videos"
@@ -434,9 +428,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Providing clear, objective categories for sorting"
-      ],
       [
        "Keeping the process moving with efficient triage systems"
       ],
@@ -527,9 +518,6 @@
      "t": "ul",
      "items": [
       [
-       "{{fact:sameDay.short}}"
-      ],
-      [
        "Elimination of ongoing storage fees"
       ],
       [
@@ -555,7 +543,7 @@
     {
      "t": "p",
      "c": [
-      "The fastest way to empty your storage unit combines professional expertise with streamlined systems designed specifically for efficient storage unit cleanouts. By leveraging experienced teams, proper equipment, and proven processes, you can transform what might be weeks of weekend work into a single, stress-free session. The immediate savings in time and ongoing savings from eliminated rental fees make professional storage unit cleanouts not just the fastest choice, but often the most economical one when all factors are considered. Ready to quickly reclaim your space and your peace of mind? Contact Live Junk Free today to schedule your efficient storage unit cleanouts and experience how simple and swift the process can be."
+      "The fastest way to empty your storage unit combines professional expertise with streamlined systems designed specifically for efficient storage unit cleanouts. By leveraging experienced teams, proper equipment, and proven processes, you can transform what might be weeks of weekend work into a single, stress-free session, subject to scheduling. The immediate savings in time and ongoing savings from eliminated rental fees make professional storage unit cleanouts not just the fastest choice, but often the most economical one when all factors are considered. Ready to quickly reclaim your space and your peace of mind? Contact Live Junk Free today to schedule your efficient storage unit cleanouts and experience how simple and swift the process can be."
      ]
     }
    ]

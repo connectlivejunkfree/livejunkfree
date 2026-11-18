@@ -6,7 +6,7 @@
  "template": "TownHub",
  "seo": {
   "title": "Junk Removal East Gwillimbury | Free Onsite Estimates | Live Junk Free",
-  "description": "East Gwillimbury's go-to junk removal team — homes, garages, offices & more. Upfront pricing, eco-friendly disposal, same-day available. Call +1 647 922 5865!",
+  "description": "East Gwillimbury's go-to junk removal team — homes, garages, offices & more. Upfront pricing, eco-friendly disposal, same-day may be available. Call +1 647 922 5865!",
   "canonical": "https://livejunkfree.ca/locations/east-gwillimbury/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-East-Gwillimbury.png"
@@ -118,29 +118,9 @@
      "text": "When your neighbours in East Gwillimbury, Sharon, Holland Landing and Mount Albert consistently choose the same junk removal company — and keep coming back — that says everything. Junk Professionals has become the go-to junk removal service across East Gwillimbury and York Region because we do what we say, charge what we quote, and treat every property like it's our own. We're not a national franchise pushing call volumes and upsells. We're a locally owned, fully insured junk removal company that has built its reputation one East Gwillimbury driveway at a time. No no-shows. No excuses."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "We assess your junk in person — for free",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Our crew arrives at your East Gwillimbury property and walks through everything you need removed. We look at quantity, size, and access — and calculate an accurate quote on the spot."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "You get a flat, quote upfront",
-       "text": []
-      }
-     ]
+     "text": "Our crew arrives at your East Gwillimbury property and walks through everything you need removed. We look at quantity, size, and access — and calculate an accurate quote at the onsite estimate."
     },
     {
      "t": "h",
@@ -148,29 +128,9 @@
      "text": "One number. {{fact:taxNote}}. {{fact:pricingIntro.extra}} No line items added on afterward."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "You approve the price before a single item moves",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "We never start until you've seen and agreed to the quote. Zero pressure — if it's not right for you, we leave with no hard feelings and no charge."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Pay only for what you have — not by the hour",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -178,29 +138,9 @@
      "text": "You're not penalized if we take longer. You're not rushed if you want to double-check rooms."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "We beat franchise pricing — consistently",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "No franchise fees means no inflated rates passed onto East Gwillimbury customers."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Prices start as low as {{min_price:C}} for a 1/16 Junk Load (1 cubic yard)",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -219,7 +159,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We know your time matters. That's why our entire same-day junk removal process in East Gwillimbury, ON is designed to be completely straightforward — from your first call to a clean, clutter-free space. No confusion, no back-and-forth, no unpleasant surprises. Here's exactly what happens from start to finish"
+     "text": "We know your time matters. That's why our entire same-day junk removal when available process in East Gwillimbury, ON is designed to be completely straightforward — from your first call to a clean, clutter-free space. No confusion, no back-and-forth, no unpleasant surprises. Here's exactly what happens from start to finish"
     },
     {
      "t": "cards",
@@ -227,13 +167,13 @@
       {
        "title": "Book Your East Gwillimbury Junk Removal",
        "text": [
-        "Call us at +1 647 922 5865 or fill out our quick online booking form. Tell us what you need removed and your location in East Gwillimbury — whether you're in Sharon, Holland Landing, Mount Albert, Queensville, or anywhere across the municipality. We'll confirm your same-day or next-day time window immediately, subject to scheduling. You'll get a 30-minute heads-up call before our crew arrives, so there's no waiting around wondering when we'll show up."
+        "Call us at +1 647 922 5865 or fill out our quick online booking form. Tell us what you need removed and your location in East Gwillimbury — whether you're in Sharon, Holland Landing, Mount Albert, Queensville, or anywhere across the municipality. We'll confirm your same-day or next-day time window immediately, subject to scheduling. {{fact:scheduling}}"
        ]
       },
       {
        "title": "Free On-Site Estimate With Zero Obligation",
        "text": [
-        "Our professional, uniformed East Gwillimbury junk removal team arrives on time and walks your property with you. We look at everything — one room or every room, a single item or an entire household. We size up the load accurately so the quote we give you reflects exactly what the job involves. No phone guesstimates that double when we arrive. Just a clear, accurate number, handed to you on the spot, with zero obligation to proceed."
+        "Our professional, uniformed East Gwillimbury junk removal team arrives on time and walks your property with you. We look at everything — one room or every room, a single item or an entire household. We size up the load accurately so the quote we give you reflects exactly what the job involves. No phone guesstimates that double when we arrive. Just a clear, accurate number, handed to you at the onsite estimate, with zero obligation to proceed."
        ]
       },
       {
@@ -245,7 +185,7 @@
       {
        "title": "Clean Load, Clean Space, Done",
        "text": [
-        "Once your junk is loaded, we do a final check to make sure every item on your list is accounted for. Then we sweep up, tidy the area, and leave your space cleaner than we found it — no debris left behind, no mess from the haul. After that, your items are sorted responsibly: usable goods go to donation centres serving East Gwillimbury and York Region communities, recyclables are properly processed, and only what truly can't be salvaged goes to the landfill. Better service. Better for the environment."
+        "Once your junk is loaded, we do a final check to make sure every item on your list is accounted for. Then we, tidy the area, and leave your space cleaner than we found it — no debris left behind, no mess from the haul. After that, your items are sorted responsibly: usable goods go to donation centres serving East Gwillimbury and York Region communities, recyclables are properly processed, and only what truly can't be salvaged goes to the landfill. Better service. Better for the environment."
        ]
       }
      ]
@@ -257,12 +197,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "No Hourly Rates. Just Clear Junk Removal Pricing Built for East Gwillimbury Residents"
+     "text": "Just Clear Junk Removal Pricing Built for East Gwillimbury Residents"
     },
     {
      "t": "h",
      "l": 3,
-     "text": "One of the biggest frustrations East Gwillimbury homeowners have with junk removal companies? Being charged by the hour — so the clock is ticking whether the crew is working efficiently or not, and you have zero idea what the final bill will be until it's too late. We think that's completely unfair. So we don't do it. Our East Gwillimbury junk removal pricing is 100% volume-based — meaning you pay based on how much space your items take up in our truck. That's it. The clock never starts. The price never changes after you've approved it."
+     "text": "One of the biggest frustrations East Gwillimbury homeowners have with junk removal companies? Being charged by the hour — so the clock is ticking whether the crew is working efficiently or not, and you have zero idea what the final bill will be until it's too late. We think that's completely unfair. So we don't do it. That's it. The clock never starts. The price never changes after you've approved it."
     },
     {
      "t": "cards",
@@ -297,11 +237,6 @@
   },
   {
    "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Every Room, Every Property Type, Every Load Size — East Gwillimbury's Most Trusted Junk Removal"
-    },
     {
      "t": "h",
      "l": 3,
@@ -546,7 +481,7 @@
        "q": "Q: Do you offer same-day junk removal in East Gwillimbury?",
        "a": [
         [
-         "A: Yes — we offer same-day junk removal when available across all of East Gwillimbury including Sharon, Holland Landing, Mount Albert and Queensville. Call ",
+         "{{fact:scheduling}} Call ",
          {
           "a": "tel:+16479225865",
           "c": [
@@ -569,7 +504,7 @@
        "q": "Q: Are you a local East Gwillimbury company or a national franchise?",
        "a": [
         [
-         "A: We are 100% locally owned and operated."
+         "Careful Removal"
         ]
        ]
       },

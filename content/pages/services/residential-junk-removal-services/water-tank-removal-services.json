@@ -9,10 +9,10 @@
   "description": "Live Junk Free offers safe water tank removal services across the Greater Toronto Area. Book today to reclaim your space.",
   "canonical": "https://livejunkfree.ca/services/residential-junk-removal-services/water-tank-removal-services/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/07/water-tank-removal-services-before2-1.jpeg"
+  "ogImage": "/images/uploads/2026/07/eviction-cleanout-services.jpeg"
  },
  "title": "Water Tank Removal Services",
- "h1": "Locally Trusted – A 5-Star Rated Water Tank Removal Service in Your Area",
+ "h1": "Water Tank Removal Services in Toronto & the GTA",
  "published": "2026-07-06T08:59:02",
  "modified": "2026-07-23T05:55:14",
  "sections": [
@@ -21,19 +21,20 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Locally Trusted – A 5-Star Rated Water Tank Removal Service in Your Area"
+     "text": "Water Tank Removal Services in Toronto & the GTA"
     },
     {
-     "t": "h",
-     "l": 4,
-     "text": "We’re {{fact:reviews}}."
+     "t": "p",
+     "c": [
+      "Residential water heater and hot water tank removal, quoted before we book."
+     ]
     },
     {
      "t": "ctas",
      "items": [
       {
-       "label": "Get a Free Quote",
-       "href": "/contact/"
+       "label": "Request a water tank removal quote",
+       "href": "#quote-form"
       }
      ]
     },
@@ -41,13 +42,266 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Greater Toronto Area"
+       "title": "{{fact:freeOnsiteEstimates}}"
       },
       {
-       "title": "Insured, uniformed, and respectful crew"
+       "title": "{{fact:sameDay.short}}"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Old water tank removal"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Live Junk Free removes old residential water heaters and hot water tanks from homes across Toronto and the GTA. Tell us the tank type and size, where it is (basement, garage or utility room) and the way out, and we'll give you a quote."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "{{fact:waterTankPrep}}. We confirm the preparation and access with you before the pickup is booked."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Request a water tank removal quote",
+       "href": "#quote-form"
       },
       {
-       "title": "{{fact:reviews}}"
+       "label": "Call +1 647 922 5865",
+       "href": "tel:+16479225865"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/water-tank-removal-services-before2-1-1024x765.jpeg",
+      "alt": "Old water tank before removal",
+      "width": 800,
+      "height": 598
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "What we remove"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Residential hot water tanks and water heaters, drained and disconnected"
+      ],
+      [
+       "Small storage and pressure tanks from homes"
+      ],
+      [
+       "Tanks in basements, garages and utility rooms"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "We don't remove industrial or commercial tanks, or tanks that still hold fuel or chemicals. {{fact:hazardous}}"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Before we arrive"
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "{{fact:waterTankPrep}}."
+      ],
+      [
+       "Tell us about stairs, narrow doorways or tight corners on the way out."
+      ],
+      [
+       "Clear a path to the tank so the crew can carry it out."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Pricing"
+    },
+    {
+     "t": "p",
+     "c": [
+      "{{fact:quoteText}} {{fact:taxNote}}."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "{{fact:freeOnsiteEstimates.long}}"
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "How it works"
+    },
+    {
+     "t": "steps",
+     "items": [
+      {
+       "n": "01",
+       "title": "Send the details",
+       "text": [
+        [
+         "Tell us the tank type, size and location. Photos help us understand the job."
+        ]
+       ]
+      },
+      {
+       "n": "02",
+       "title": "Get your quote",
+       "text": [
+        [
+         "{{fact:changedScope}}."
+        ]
+       ]
+      },
+      {
+       "n": "03",
+       "title": "Agree a pickup time",
+       "text": [
+        [
+         "{{fact:scheduling}}"
+        ]
+       ]
+      },
+      {
+       "n": "04",
+       "title": "We carry it out",
+       "text": [
+        [
+         "We remove the tank and haul it away. {{fact:recycling}}."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Water tank removal FAQs"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Do I need to drain the tank first?",
+       "a": [
+        [
+         "{{fact:utilityDisconnection}}"
+        ]
+       ]
+      },
+      {
+       "q": "How much does water tank removal cost?",
+       "a": [
+        [
+         "{{fact:quoteText}} {{fact:taxNote}}."
+        ]
+       ]
+      },
+      {
+       "q": "Can you pick it up the same day?",
+       "a": [
+        [
+         "{{fact:sameDay}}."
+        ]
+       ]
+      },
+      {
+       "q": "What happens to the old tank?",
+       "a": [
+        [
+         "{{fact:recycling}}."
+        ]
+       ]
+      },
+      {
+       "q": "Which areas do you serve?",
+       "a": [
+        [
+         "Toronto and the GTA. See the list of areas below, or call us to check your address."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Water tank removal photos"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Photos from water tank removals by Live Junk Free."
+     ]
+    },
+    {
+     "t": "gallery",
+     "images": [
+      {
+       "src": "/images/uploads/2026/07/water-tank-removal-services-before1-1024x765.jpeg",
+       "alt": "Water tank before removal"
+      },
+      {
+       "src": "/images/uploads/2026/07/water-tank-removal-services-after1-1024x765.jpeg",
+       "alt": "After a water tank removal"
+      },
+      {
+       "src": "/images/uploads/2026/07/water-tank-removal-services-before2-1024x765.jpeg",
+       "alt": "Water tank before removal"
+      },
+      {
+       "src": "/images/uploads/2026/07/water-tank-removal-services-after2-1024x765.jpeg",
+       "alt": "After a water tank removal"
       }
      ]
     }

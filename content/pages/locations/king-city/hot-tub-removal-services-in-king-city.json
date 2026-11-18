@@ -6,10 +6,10 @@
  "template": "LocationService",
  "seo": {
   "title": "Hot Tub Removal Services in King City - Live JunkFree",
-  "description": "Hot Tub Removal Services in King City from Live Junk Free — done safely and in one discreet visit, draining, disconnecting, cutting apart.",
+  "description": "{{fact:utilityDisconnection}}",
   "canonical": "https://livejunkfree.ca/locations/king-city/hot-tub-removal-services-in-king-city/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Hot-Tub-Removal-Services-in-King-City.jpeg"
+  "ogImage": "/images/uploads/2026/07/Demolition-Services-in-Aurora.jpeg"
  },
  "title": "Hot Tub Removal Services in King City",
  "h1": "Hot Tub Removal Services in King City from Live Junk Free",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "A hot tub on a King City estate sits alongside things that must not be disturbed on the way out — the stone patio, the pool house, the landscaping either side of the route to the truck — and Live Junk Free clears it the same careful way every time. On the estate concessions, it’s a tub near a pool house or spa structure removed with discretion, grounds and driveways protected under load. Around the King Road village core, it’s a straightforward backyard tub cleared ahead of a renovation, handled with the same care as anything larger. And on equestrian and hobby-farm properties, it’s a tub tucked near the stables, cleared alongside whatever else the grounds are holding onto. The Google reviews behind Live Junk Free come from every one of those properties — a hot tub removal crew that drained it properly, cut it down safely without wrecking the patio or landscaping underneath, and hauled every piece away the same visit, quietly."
+      "A hot tub on a King City estate sits alongside things that must not be disturbed on the way out — the stone patio, the pool house, the landscaping either side of the route to the truck — and Live Junk Free clears it the same careful way every time. On the estate concessions, it’s a tub near a pool house or spa structure removed with discretion, grounds and driveways protected under load. Around the King Road village core, it’s a straightforward backyard tub cleared ahead of a renovation, handled with the same care as anything larger. And on equestrian and hobby-farm properties, it’s a tub tucked near the stables, cleared alongside whatever else the grounds are holding onto. {{fact:utilityDisconnection}}"
      ]
     },
     {
@@ -114,10 +114,10 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat hot tub removal price — the address never inflates it",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "A hot tub isn’t a normal junk item, and Live Junk Free’s quote reflects the real work: draining the water, disconnecting whatever needs disconnecting, cutting the shell into manageable sections, and hauling every piece away. The number is identical for the identical job regardless of postal code — no prestige-area premium, no discovery clauses."
+         "{{fact:utilityDisconnection}} The number is identical for the identical job regardless of postal code — no prestige-area premium, no discovery clauses."
         ]
        ]
       },
@@ -126,7 +126,7 @@
        "title": "Free on-site hot tub removal quotes, arranged around your schedule",
        "text": [
         [
-         "A Live Junk Free crew member comes to your property at a time that suits you, looks at the tub’s size, condition and access, and gives you one flat number before anything happens. Free visit, no obligation, and no guessing over the phone."
+         "{{fact:changedScope}}. Free visit, no obligation, and no guessing over the phone."
         ]
        ]
       },
@@ -136,15 +136,6 @@
        "text": [
         [
          "Arrival times arranged to suit the household, nothing staged where the road can see it, and no client’s property discussed with anyone outside the job. A hot tub removal on a King City estate looks, from the street, like nothing happened at all."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Draining and disconnection handled the safe way",
-       "text": [
-        [
-         "Water gets drained responsibly before anything else happens, and any electrical hookup — a hardwired 240V line is common on larger installations — gets confirmed dead before we touch it, with a licensed electrician’s prior disconnection required if the tub was still wired live. We don’t cut into anything until it’s genuinely safe to."
         ]
        ]
       },
@@ -195,7 +186,6 @@
     {
      "t": "checks",
      "items": [
-      "Drain + Disconnect + Cut-Out + Haul-Away",
       "No Rooftop Surcharges"
      ]
     },
@@ -259,7 +249,7 @@
        "title": "Book Your Hot Tub Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online with Live Junk Free at whatever time suits you — same-day slots are usually available. Tell us the tub’s rough size and location on the property."
+         "Call +1 647 922 5865 or book online with Live Junk Free at whatever time suits you — same-day slots when available are usually available. Tell us the tub’s rough size and location on the property."
         ]
        ]
       },
@@ -268,16 +258,7 @@
        "title": "Get a Free On-Site Quote — Window Committed",
        "text": [
         [
-         "The crew looks at the tub, confirms any electrical is safely disconnected, checks the path out across the grounds, and gives you one flat price before touching anything. No pressure — decline and there’s no charge."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "The Tub Gets Drained, Cut and Removed",
-       "text": [
-        [
-         "Water drains responsibly, the shell gets cut into sections that clear the gate or fence line, and every piece — acrylic, foam, wood, metal — carries out without dragging across stone patios, driveways or landscaping."
+         "{{fact:changedScope}}. No pressure — decline and there’s no charge."
         ]
        ]
       },
@@ -286,7 +267,7 @@
        "title": "Your Space Is Clear",
        "text": [
         [
-         "The space where the tub sat gets left clean and composed, with metal components, motors and pumps routed to recycling and the rest disposed of responsibly."
+         "{{fact:utilityDisconnection}}"
         ]
        ]
       }
@@ -791,7 +772,7 @@
        "q": "Do I need to drain the hot tub myself before you arrive?",
        "a": [
         [
-         "No — draining is part of the service. The Live Junk Free crew handles it safely on arrival, and you don’t need a hose, a pump, or any prep beyond making sure the area around the tub is reasonably accessible. "
+         "{{fact:utilityDisconnection}} "
         ]
        ]
       },

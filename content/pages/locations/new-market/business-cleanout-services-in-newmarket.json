@@ -9,7 +9,7 @@
   "description": "Simplify your property cleanup with Business Cleanout Services in Newmarket from Live Junk Free. Efficient removal for offices and businesses.",
   "canonical": "https://livejunkfree.ca/locations/new-market/business-cleanout-services-in-newmarket/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Business-Cleanout-Services-in-Uxbridge.jpg"
+  "ogImage": "/images/uploads/2026/08/Business-Cleanout-Services-in-Toronto.jpg"
  },
  "title": "Business Cleanout Services in Newmarket",
  "h1": "Business Cleanout Services in Newmarket from Live Junk Free",
@@ -128,7 +128,7 @@
      "items": [
       {
        "n": "01",
-       "title": "Zero-downtime business cleanout scheduling",
+       "title": "Careful Removal",
        "text": [
         [
          "{{fact:scheduling}}"
@@ -145,38 +145,11 @@
        ]
       },
       {
-       "n": "03",
-       "title": "Davis Drive medical corridor business cleanout coordination",
-       "text": [
-        [
-         ""
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "One flat business cleanout price, confirmed before anything moves",
-       "text": [
-        [
-         "A crew member sees the actual space and gives one flat number before anything moves — no per-item guessing."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first business cleanout sorting for fixtures and equipment",
-       "text": [
-        [
-         "Furniture, fixtures and equipment still in good condition go to donation partners or resale channels first, before anything reaches disposal."
-        ]
-       ]
-      },
-      {
        "n": "06",
        "title": "Independent business cleanout pricing",
        "text": [
         [
-         "National junk removal franchises build a royalty into every quote, and some charge extra for weekend work. Live Junk Free does neither."
+         "National junk removal franchises build a royalty into every quote, and some charge extra for weekend work, subject to scheduling. Live Junk Free does neither."
         ]
        ]
       }
@@ -203,7 +176,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the space, and how much sorting it genuinely needs. A small office or retail unit is a modest job. A larger space packed with years of fixtures and equipment takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small office or retail unit is a modest job. A larger space packed with years of fixtures and equipment takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -215,8 +188,7 @@
     {
      "t": "checks",
      "items": [
-      "Hauling-Away",
-      "{{fact:competitorComparison}}"
+      "Hauling-Away"
      ]
     },
     {
@@ -236,7 +208,7 @@
     {
      "t": "p",
      "c": [
-      "Every business cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every business cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -278,15 +250,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual space and gives you one flat price before anything moves."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Space Gets Cleared, Fast",
        "text": [
@@ -300,7 +263,7 @@
        "title": "Your Business Is Back Open",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and ready — often the same weekend you called."
+         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left and ready — often the same weekend you called."
         ]
        ]
       }
@@ -335,16 +298,10 @@
        "Scheduling sensitive to patient impact and appointment continuity"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
-       "Same flat pricing as any other business cleanout"
-      ],
-      [
        "Medical equipment and fixtures handled with proper care"
       ],
       [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ]
      ]
     },
@@ -363,16 +320,10 @@
        "Careful, unhurried handling around established properties and features"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
-       "Same-day service for straightforward downtown access"
-      ],
-      [
-       "{{fact:competitorComparison}}"
-      ],
-      [
-       "Same flat pricing as any other district"
+       "Service for straightforward downtown access"
       ]
      ]
     }
@@ -392,19 +343,13 @@
        "Business cleanouts for offices and units across Newmarket's business parks"
       ],
       [
-       "{{fact:weekendPickup}}"
-      ],
-      [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Full protection of finished floors throughout"
       ],
       [
        "Coordination around lease-end timelines"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
       ]
      ]
     },
@@ -423,16 +368,13 @@
        "Full sort of furniture, fixtures and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -833,14 +775,6 @@
        ]
       },
       {
-       "q": "Do you charge extra for a space that's completely packed?",
-       "a": [
-        [
-         "The price reflects the actual volume and sorting required, not a flat surcharge."
-        ]
-       ]
-      },
-      {
        "q": "What happens to fixtures and equipment still in good condition?",
        "a": [
         [
@@ -891,7 +825,7 @@
          "1. When should a Newmarket business consider hiring a cleanout company?"
         ],
         [
-         "A business may benefit from a cleanout company when it is closing, relocating, renovating, downsizing, or preparing to hand over a commercial property. Professional removal can save employees from spending hours sorting, lifting, and hauling unwanted items."
+         "A business may benefit from a cleanout company when it is closing, relocating, renovating, downsizing, or preparing to hand over a commercial property. Professional removal can save employees from spending hours lifting, and hauling unwanted items."
         ],
         [
          "2. What is included when you hire a company to clean out a business in Newmarket?"
@@ -1089,7 +1023,7 @@
          "32. Can I schedule a business cleanout around my company’s operating hours?"
         ],
         [
-         "Yes. Cleanouts can be planned around the business’s operating schedule when availability allows. After-hours or weekend appointments may help reduce disruption to employees and customers."
+         "Yes. Cleanouts can be planned around the business’s operating schedule when availability allows. {{fact:scheduling}}"
         ],
         [
          "33. How far in advance should I book a commercial cleanout in Newmarket?"
@@ -1125,7 +1059,7 @@
          "Removed materials are taken through appropriate disposal, recycling, donation, or other processing channels when possible. The destination depends on the type and condition of the materials."
         ],
         [
-         "38. Can usable items from a business cleanout be donated or recycled?"
+         "38. Can usable items from a business cleanout be donated or recycled where possible?"
         ],
         [
          "Yes, suitable items may be donated or recycled when practical. Furniture, electronics, metal, cardboard, and other materials may have different recycling or reuse options depending on their condition and type."

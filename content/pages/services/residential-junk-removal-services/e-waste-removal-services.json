@@ -6,13 +6,13 @@
  "template": "ItemRemoval",
  "seo": {
   "title": "E-Waste Removal Services - Live JunkFree",
-  "description": "Old TVs, computers & electronics taking up space? Live Junk Free safely removes and recycles old TVs, computers and electronics across the GTA. Same-day available. Call +1 647 922 5865!",
+  "description": "Old TVs, computers & electronics taking up space? Live Junk Free safely removes and recycles old TVs, computers and electronics across the GTA. Same-day may be available. Call +1 647 922 5865!",
   "canonical": "https://livejunkfree.ca/services/residential-junk-removal-services/e-waste-removal-services/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/E-Waste-Removal-Service.jpeg"
  },
  "title": " E-Waste Removal Services",
- "h1": "Locally Trusted – 5-Star Rated E-Waste Removal Service!",
+ "h1": "E-Waste Removal Service!",
  "published": "2026-07-19T09:31:45",
  "modified": "2026-07-23T06:17:36",
  "sections": [
@@ -21,12 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Locally Trusted – 5-Star Rated E-Waste Removal Service!"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "We’re the Top Choice for Electronics Recycling."
+     "text": "E-Waste Removal Service!"
     },
     {
      "t": "ctas",
@@ -58,7 +53,46 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Say Goodbye to Your E-Waste – Same-Day Removal Available"
+     "text": "E-Waste Removal Services"
+    },
+    {
+     "t": "p",
+     "c": [
+      "Removing outdated electronics is easier than you imagine. At Live Junk Free, we provide fast and reliable e-waste removal for all types of electronic equipment, from home computers and TVs to office servers and commercial equipment. We understand how quickly obsolete electronics can pile up, creating clutter and potential security risks when they’re no longer in use. Our professional service helps you clear out this e-waste safely without any hassle on your part."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "The process couldn’t be more straightforward. We begin with a free, no-obligation quote so you know exactly what to expect."
+     ]
+    },
+    {
+     "t": "ctas",
+     "items": [
+      {
+       "label": "Book Your Service Now",
+       "href": "/contact/"
+      }
+     ]
+    },
+    {
+     "t": "img",
+     "image": {
+      "src": "/images/uploads/2026/07/E-Waste-Removal-Service-1024x572.jpeg",
+      "alt": "E-Waste Removal Service",
+      "width": 800,
+      "height": 447
+     }
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Say Goodbye to Your E-Waste – Same-Day Removal may be available"
     },
     {
      "t": "p",
@@ -105,6 +139,57 @@
     {
      "t": "h",
      "l": 2,
+     "text": "Fast E-Waste Removal Services in Your Area"
+    },
+    {
+     "t": "p",
+     "c": [
+      "We understand that e-waste removal often can’t wait, whether you’re upgrading office equipment, clearing space for renovations, or protecting sensitive data. That’s why we offer same-day and next-day service when available, removing your outdated tech faster than you’d imagine possible."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Attempting e-waste yourself risks data breaches, hazardous material exposure, and environmental violations."
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      "Our Complete E-Waste Removal Service Includes:"
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "{{fact:recycling}}"
+      ],
+      [
+       "Safe handling of hazardous components"
+      ],
+      [
+       "Environmentally responsible recycling through recycling facilities"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "We Offer Same-Day when available e-waste removal."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
      "text": "Old Electronics Cluttering Your Space? One Call to Live Junk Free Solves It All"
     },
     {
@@ -117,18 +202,6 @@
        ]
       },
       {
-       "title": "Upfront Pricing",
-       "text": [
-        ""
-       ]
-      },
-      {
-       "title": "Secure Handling",
-       "text": [
-        ""
-       ]
-      },
-      {
        "title": "Rapid, Efficient Service",
        "text": [
         "Timing confirmed at your estimate"
@@ -137,13 +210,13 @@
       {
        "title": "{{fact:competitorComparison}}",
        "text": [
-        "Clearing out multiple devices? Enjoy special savings when removing computers, monitors, TVs, and other electronics together."
+        "Clearing out multiple devices? {{fact:changedScope}}."
        ]
       },
       {
-       "title": "Bulk Removal Savings",
+       "title": "Removal Savings",
        "text": [
-        "Special discounts available when clearing multiple electronics like computers, TVs, and office equipment together."
+        "{{fact:changedScope}}."
        ]
       }
      ]
@@ -221,6 +294,101 @@
     },
     {
      "t": "reviews"
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "Types of E-Waste We Remove"
+    },
+    {
+     "t": "p",
+     "c": [
+      "At Live Junk Free, we professionally remove all types of electronic waste:"
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Home Electronics"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Televisions (LCD, LED, Plasma, CRT)"
+      ],
+      [
+       "Desktop & laptop computers"
+      ],
+      [
+       "Printers & scanners"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "c": [
+      {
+       "b": [
+        "Office Equipment"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "ul",
+     "items": [
+      [
+       "Networking devices"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
+     "text": "FAQs About E-Waste Removal Service"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "How much does e-waste removal cost?",
+       "a": [
+        [
+         "Get a free exact quote by sending photos of your items ever."
+        ]
+       ]
+      },
+      {
+       "q": "What areas do you serve for e-waste removal?",
+       "a": [
+        [
+         "We service the entire GTA, including Toronto, Mississauga, Vaughan, and surrounding areas. Call to confirm your location."
+        ]
+       ]
+      },
+      {
+       "q": "Can I schedule a same-day e-waste pickup?",
+       "a": [
+        [
+         "Yes! We offer same-day/next-day service when available. Call early for fastest scheduling."
+        ]
+       ]
+      }
+     ]
     }
    ]
   },

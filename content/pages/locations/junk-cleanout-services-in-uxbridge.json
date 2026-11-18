@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Uxbridge creates — and creating accumulates. The studio with a decade of canvases and half-finished projects. The workshop where the wood stock outgrew the wood. The craft room, the quilting stash, the barn that became overflow for all of it. When possibility finally needs clearing, we bring the right crew: one free walkthrough, one flat quote, and a fully insured team that sorts with a maker’s respect — flagging the good materials, the finished work and the tools before anything loads — then hauls, sweeps and hands back the space."
+      "Uxbridge creates — and creating accumulates. The studio with a decade of canvases and half-finished projects. The workshop where the wood stock outgrew the wood. The craft room, the quilting stash, the barn that became overflow for all of it. {{fact:changedScope}}."
      ]
     },
     {
@@ -94,17 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The township's cleanout calls have real character: century homes near the heritage core, studios and workshops behind houses across town, rural properties in Goodwood, Zephyr and Sandford with barns doing triple duty, and estates settling after long, well-lived tenures. Live Junk Free handles the whole range — Google reviews earned on careful sorting and finish dates that held."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Volume sets the price — the medium doesn't",
-       "text": []
-      }
-     ]
+     "text": "The township's cleanout calls have real character: century homes near the heritage core, studios and workshops behind houses across town, rural properties in Goodwood, Zephyr and Sandford with barns doing triple duty, and estates settling after long, well-lived tenures. Live Junk Free handles the whole range — Google reviews earned on finish dates that held."
     },
     {
      "t": "h",
@@ -112,29 +102,9 @@
      "text": "Canvases, lumber, fabric bolts or ordinary furniture: it all measures the same way — truck space filled, priced flat and up front."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "We see the whole space before we speak a number",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Creative spaces and long-held homes both hide their true volume — the flat files under the table, the loft above the bench, the stash behind the stash. The free walkthrough covers every corner with you; the firm flat figure follows only after."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Approved means locked, whatever the layers hold",
-       "text": []
-      }
-     ]
+     "text": "Creative spaces and long-held homes both hide their true volume — the flat files under the table, the loft above the bench, the stash behind the stash."
     },
     {
      "t": "h",
@@ -142,44 +112,9 @@
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} When the storage room reveals a second inventory nobody counted, the discovery lands on our ledger, not your invoice."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Makers' spaces get makers' respect",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Good tools, usable materials, finished and half-finished work — we sort like it took years to gather, because it did. Anything with craft, value or a signature gets set aside for your call; usable supplies and materials are staged for donation, where local makers and programs put them straight back to work."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Your pace, whole or in chapters",
-       "text": []
-      }
-     ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "The quote is free, holds without deposit or expiry, and the clear can run as one sweep or several visits — the studio this month, the house before the listing, the barn after the show season. Volume pricing treats every version the same."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent pricing",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -198,12 +133,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "One Flat Figure — House, Studio and Barn Alike"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Garages, studios and basements land mid-range. Whole homes and full properties resolve to one locked, number at the free walkthrough — however many truckloads and however long the sorting deserves. The figure agreed at the door is the figure paid at the end."
+     "text": "Garages, studios and basements land mid-range. The figure agreed at the door is the figure paid at the end."
     },
     {
      "t": "cards",
@@ -270,7 +200,7 @@
        ]
       },
       {
-       "title": "4. Swept and Sent to the Right Places",
+       "title": "4. and Sent to the Right Places",
        "text": [
         "Every cleared space gets a broom finish — ready to work in, list, renovate or simply enjoy empty. The loads move with priorities: donation first, recycling and scrap second, landfill last and least."
        ]
@@ -327,7 +257,7 @@
          "Garage, shed and basement clear-outs"
         ],
         [
-         "Pre-sale cleanouts, swept for listing photos"
+         "Pre-sale cleanouts for listing photos"
         ],
         [
          "New-owner clears — everything the sellers left behind"
@@ -347,7 +277,7 @@
          "Drive shed and equipment-corner emptying"
         ],
         [
-         "Scrap metal and old-machinery loads priced into the same job"
+         ""
         ],
         [
          "Coop, lean-to and small-structure clears"
@@ -361,7 +291,7 @@
        "q": "Estate & Transition Cleanouts in Uxbridge",
        "a": [
         [
-         "Estate cleanouts — patient, documented, valuables returned to family"
+         ""
         ],
         [
          "Downsizing clears for long-rooted township households"
@@ -512,7 +442,7 @@
        "q": "Q: Can you clear an art studio or workshop without treating everything as garbage?",
        "a": [
         [
-         "A: That’s the standing promise. Tools, good materials, finished pieces and anything signed get flagged and set aside before loading — you decide their fate, not the truck. Usable supplies go to donation, where local makers and programs snap them up. Sorting carelessly in a town like this would be missing the point."
+         "A: That’s the standing promise. Tools, good materials, finished pieces and anything signed get flagged and set aside before loading — you decide their fate, not the truck. Usable supplies go to donation, where local makers and programs snap them up. {{fact:cleanupScope}}."
         ]
        ]
       },
@@ -528,7 +458,7 @@
        "q": "Q: Do you handle regular house cleanouts too — estates, downsizing, pre-sale?",
        "a": [
         [
-         "A: Absolutely — they’re the bulk of the calendar. Whole homes cleared and swept for listing, estates settled with documentation and care, downsizing staged over visits when that’s kinder. The studio expertise is a bonus, not the boundary."
+         "{{fact:changedScope}}. Whole homes cleared for listing, estates settled with documentation and care, downsizing staged over visits when that’s kinder. The studio expertise is a bonus, not the boundary."
         ]
        ]
       },

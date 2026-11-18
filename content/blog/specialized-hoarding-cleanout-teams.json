@@ -163,10 +163,7 @@
      "t": "ul",
      "items": [
       [
-       "Overloaded floors risk structural collapse"
-      ],
-      [
-       "Blocked emergency exits and ventilation systems"
+       "{{fact:pickupTimes}}"
       ],
       [
        "Fire hazards from piled materials near heat sources"
@@ -234,9 +231,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Multiple sorting stations for different waste streams"
-      ],
       [
        "High-volume removal capacity for large-scale projects"
       ],
@@ -539,9 +533,6 @@
       ],
       [
        "Connection to ongoing support resources"
-      ],
-      [
-       "Emergency contact availability"
       ]
      ]
     },
@@ -584,7 +575,7 @@
     {
      "t": "p",
      "c": [
-      "Hoarding cleanouts represent a specialized field that requires far more than standard junk removal expertise. From understanding complex psychological factors to implementing rigorous safety protocols, professional hoarding cleanout teams bring essential skills and approaches that ensure both immediate cleaning success and long-term positive outcomes. The investment in specialized hoarding cleanout services provides not just a cleaned space but a foundation for sustainable change and improved quality of life. When facing a hoarding situation, choosing a team with specific expertise in hoarding cleanouts ensures the process is handled with the care, safety, and compassion the situation demands. Contact Live Junk Free to learn how our specialized hoarding cleanout services can provide the comprehensive solution your situation requires."
+      "Hoarding cleanouts represent a specialized field that requires far more than standard junk removal expertise. From understanding complex psychological factors to implementing rigorous safety protocols, professional hoarding cleanout teams bring essential skills and approaches that ensure both immediate cleaning success and long-term positive outcomes. {{fact:structuralDemolition}}. When facing a hoarding situation, choosing a team with specific expertise in hoarding cleanouts ensures the process is handled with the care, safety, and compassion the situation demands. Contact Live Junk Free to learn how our specialized hoarding cleanout services can provide the comprehensive solution your situation requires."
      ]
     }
    ]

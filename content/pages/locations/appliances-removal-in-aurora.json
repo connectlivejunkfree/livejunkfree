@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "In Aurora, appliances rarely die of old age — they get replaced. Kitchens are renovated, builder units give way to built-ins, and perfectly heavy machines suddenly need to leave through hallways that were never consulted. Whether it’s a wall oven coming out mid-renovation, a fridge making way for a panel-ready upgrade, or the chest freezer that’s finally hummed its last, our fully insured crew removes it cleanly: free quote at your door, careful hands on your floors, and the old unit gone — often the same day."
+      "In Aurora, appliances rarely die of old age — they get replaced. Kitchens are renovated, builder units give way to built-ins, and perfectly heavy machines suddenly need to leave through hallways that were never consulted. Whether it’s a wall oven coming out mid-renovation, a fridge making way for a panel-ready upgrade, or the chest freezer that’s finally hummed its last, our fully insured crew removes it cleanly: free quote at your door, careful hands on your floors, and the old unit gone — often the same day, subject to availability."
      ]
     },
     {
@@ -97,59 +97,19 @@
      "text": "Aurora spans a century of kitchens: character homes near Yonge and Wellington with doorways built for a slimmer era, family houses in Aurora Highlands mid-upgrade, and newer streets off Bayview and St. John's where builder appliances are already being traded up. Live Junk Free has carried machines out of all of them — Google reviews earned on punctual arrivals, honest flat quotes and floors left exactly as we found them."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Truck space prices the job — the appliance's weight doesn't",
-       "text": []
-      }
-     ]
+     "t": "h",
+     "l": 3,
+     "text": "A lone dishwasher barely dents the truck and is priced like it; a full renovation's worth of units takes more room and costs accordingly. That's the entire model."
     },
     {
      "t": "h",
      "l": 3,
-     "text": "A lone dishwasher barely dents the truck and is priced like it; a full renovation's worth of units takes more room and costs accordingly. That's the entire model. Weight, bulk, stairs and awkward exits are our burden, included free in the volume rate."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "We quote the appliance and the escape route",
-       "text": []
-      }
-     ]
+     "text": "Aurora's older homes in particular have opinions about what fits through their doorways. Free, firm, and no obligation."
     },
     {
      "t": "h",
      "l": 3,
-     "text": "Aurora's older homes in particular have opinions about what fits through their doorways. So we quote in person — looking at the unit, the hallway, the stairs, the turns — and hand you one flat figure that already accounts for all of it. Free, firm, and no obligation."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One approved number, immune to the job",
-       "text": []
-      }
-     ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Disconnection of standard hookups, floor and trim protection, the carrying, the hauling, every recycling and disposal fee — a single price covers it. If the fridge needs its doors off or the stairwell demands extra patience, your figure doesn't flinch."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Built-ins and renovation timing — handled like we've done it before",
-       "text": []
-      }
-     ]
+     "text": "If the fridge needs its doors off or the stairwell demands extra patience, your figure doesn't flinch."
     },
     {
      "t": "h",
@@ -157,29 +117,9 @@
      "text": "Wall ovens, built-in dishwashers, panel-ready fridges and under-counter units come out differently than freestanding machines, and renovation schedules don't wait. We coordinate with your contractor's timeline, remove units without collateral damage to surrounding cabinetry, and clear the site so the installers walk into a ready kitchen."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "{{fact:competitorComparison}}",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "The visit costs nothing and pressures you toward nothing. Take the number and the dolly rolls immediately; pass and we leave politely; think it over and the quote keeps. Approved prices are final — full stop."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent pricing",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -266,7 +206,7 @@
       {
        "title": "3. Careful Extraction",
        "text": [
-        "On your approval: standard water and power connections disconnected (gas and hardwired units need a licensed technician first), floors runnered, trim padded, doors removed from hinges or fridges when the fit demands it — and out it goes."
+        "{{fact:utilityDisconnection}}"
        ]
       },
       {
@@ -304,7 +244,7 @@
          "Wall ovens and built-in ovens, extracted without cabinetry casualties"
         ],
         [
-         "Ranges, cooktops and slide-ins (gas disconnected by a licensed tech first)"
+         ""
         ],
         [
          "Built-in and portable dishwashers"
@@ -324,36 +264,16 @@
          "Washers and dryers — including stacked pairs in second-floor laundry closets"
         ],
         [
-         "Drained hot water tanks and water softeners"
+         ""
         ],
         [
          "Dehumidifiers, portable ACs and window units"
         ],
         [
-         "Disconnected furnaces and retired HVAC equipment"
+         ""
         ],
         [
          "Basement freezers — chest or upright, however long they’ve served"
-        ]
-       ]
-      },
-      {
-       "q": "Renovation & Multi-Unit Pickups in Aurora",
-       "a": [
-        [
-         "Full-kitchen clear-outs timed to demolition day"
-        ],
-        [
-         "Coordinated pickups around contractor and installer schedules"
-        ],
-        [
-         "Old-unit haul-away following new appliance deliveries"
-        ],
-        [
-         "Appliance-plus-debris combo loads — one truck, one flat price"
-        ],
-        [
-         "Estate and downsizing appliance clearing"
         ]
        ]
       },
@@ -370,7 +290,7 @@
          "Retail and plaza appliance clear-outs along the Yonge corridor"
         ],
         [
-         "Multi-unit pickups for property managers"
+         "{{fact:competitorComparison}}"
         ]
        ]
       }
@@ -525,7 +445,7 @@
        "q": "Q: Do older Aurora homes with narrow doorways cost more?",
        "a": [
         [
-         "A: No. Tight halls and heritage-width doorways just mean more careful manoeuvring — doors off hinges, fridge doors off the unit, extra padding on the trim. It’s all standard technique, all included in the volume-based price."
+         "A: No. {{fact:propertyProtection}}. It’s all standard technique, all included in the volume-based price."
         ]
        ]
       },
@@ -533,7 +453,7 @@
        "q": "Q: What has to be disconnected before you arrive?",
        "a": [
         [
-         "A: Only gas appliances and hardwired units — those need a licensed technician first, for safety and code. Everything with a standard plug or water line (washers, dishwashers, fridges with ice makers) we disconnect ourselves on arrival."
+         "A: Only gas appliances and hardwired units — those need a licensed technician first, for safety and code. {{fact:utilityDisconnection}}"
         ]
        ]
       }

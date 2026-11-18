@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2024/11/DSC08977-1024x683.webp"
  },
  "title": "Cleanout Services Toronto",
- "h1": "Toronto’s 5-Star Rated Choice for Fast, Affordable & Professional Cleanout Services Near You",
+ "h1": "Toronto’s Choice for Fast, Affordable & Professional Cleanout Services Near You",
  "published": "2025-06-04T07:44:38",
  "modified": "2026-08-01T12:26:31",
  "sections": [
@@ -21,12 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Toronto’s 5-Star Rated Choice for Fast, Affordable & Professional Cleanout Services Near You"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "From hoarding cleanups to estate cleanout services near you — Live Junk Free is Toronto’s most trusted team for household cleanouts, apartment cleanouts, basement cleanouts, and moving cleanouts. We offer same-day service when available with full care, eco-conscious disposal, and zero stress."
+     "text": "Toronto’s Choice for Fast, Affordable & Professional Cleanout Services Near You"
     },
     {
      "t": "ctas",
@@ -42,10 +37,6 @@
      ]
     },
     {
-     "t": "stats",
-     "items": []
-    },
-    {
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/11/DSC08977-1024x683.webp",
@@ -57,7 +48,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
+      "src": "/images/uploads/2026/08/wood-removal.webp",
       "alt": "Cleanout Toronto: Live Junk Free job photo",
       "width": 800,
       "height": 534
@@ -112,7 +103,7 @@
       {
        "title": "3. Ecological & Responsible Disposal",
        "text": [
-        "After thorough cleaning, we haul the trash and dispose of it in an environmentally responsible manner by recycling and reusing it."
+        "{{fact:cleanupScope}}."
        ]
       }
      ]
@@ -356,7 +347,7 @@
          ", we’ve got you covered. Our ",
          {
           "b": [
-           "pallet racking removal"
+           ""
           ]
          },
          " and ",
@@ -516,7 +507,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Instant Service Quote"
+     "text": "Service Quote"
     },
     {
      "t": "h",
@@ -737,7 +728,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Instant Service Quote"
+     "text": "Service Quote"
     },
     {
      "t": "h",
@@ -898,7 +889,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Instant Service Quote"
+     "text": "Service Quote"
     },
     {
      "t": "h",
@@ -931,11 +922,6 @@
      "t": "h",
      "l": 4,
      "text": "Why Live Junk Free?"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Most Trusted Cleanout Services Across the GTA — Fast, Affordable & Trusted"
     },
     {
      "t": "p",
@@ -980,7 +966,7 @@
         "Live Junk Free"
        ]
       },
-      " shows up fast and gets it done right. We’re trusted by thousands of homeowners across the ",
+      " shows up fast and gets it done right. ",
       {
        "b": [
         "GTA"
@@ -1207,7 +1193,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Instant Service Quote"
+     "text": "Service Quote"
     },
     {
      "t": "h",
@@ -1281,7 +1267,7 @@
        "q": "How far in advance do I need to schedule a pickup?",
        "a": [
         [
-         "We strive to accommodate our customers’ schedules as much as possible. However, we understand that emergencies happen, so feel free to reach out to us, and we’ll do our best to accommodate your needs.",
+         "We strive to accommodate our customers’ schedules as much as possible. {{fact:scheduling}}",
          {
           "br": 1
          },

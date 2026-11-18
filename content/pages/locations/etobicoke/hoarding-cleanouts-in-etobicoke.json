@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because few places in the region genuinely span as many different kinds of homes as this one does, and each version presents differently before a crew even opens the front door. A postwar bungalow in Alderwood, Mimico or Long Branch that’s held the same family for decades tends to have accumulation built up slowly across a compact original footprint — narrower hallways, a smaller basement, sometimes a garage that’s been unused for years. A condo suite along the lakeshore is a completely different physical problem, with building rules and shared hallways layered on top of the sorting itself. A larger property near the Kingsway sometimes means more square footage holding more of everything, with grounds and privacy to consider as well as the rooms inside."
+      "Because few places in the region genuinely span as many different kinds of homes as this one does, and each version presents differently before a crew even opens the front door. A postwar bungalow in Alderwood, Mimico or Long Branch that’s held the same family for decades tends to have accumulation built up slowly across a compact original footprint — narrower hallways, a smaller basement, sometimes a garage that’s been unused for years. {{fact:cleanupScope}}. A larger property near the Kingsway sometimes means more square footage holding more of everything, with grounds and privacy to consider as well as the rooms inside."
      ]
     },
     {
@@ -132,15 +132,6 @@
        "text": [
         [
          "Decades of accumulation in a smaller, original-footprint home gets handled with an understanding of that specific layout and history, rather than an approach built for a different kind of property entirely."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Condo and building-compliant hoarding cleanouts, handled quietly",
-       "text": [
-        [
-         "{{fact:insuranceDocs}}."
         ]
        ]
       },
@@ -203,7 +194,7 @@
     {
      "t": "p",
      "c": [
-      "The honest answer is the scope of the space — how many rooms are affected, and how much sorting the belongings genuinely need. A single room is a modest job. A full bungalow or a larger property with years of accumulation across multiple levels takes considerably more time, and the price reflects that real difference rather than a flat guess made over the phone."
+      "{{fact:cleanupScope}}. A single room is a modest job. A full bungalow or a larger property with years of accumulation across multiple levels takes considerably more time, and the price reflects that real difference rather than a flat guess made over the phone."
      ]
     },
     {
@@ -215,7 +206,7 @@
     {
      "t": "checks",
      "items": [
-      "One Flat Price, Whatever the Property Type",
+      "{{fact:competitorComparison}}",
       "No Building, Size or Situation-Based Surcharge"
      ]
     },
@@ -236,7 +227,7 @@
     {
      "t": "p",
      "c": [
-      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -278,29 +269,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual space, recognizes what that specific property type typically involves, and gives one flat number before anything moves."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at the family’s pace, with anything meaningful set aside first, always, regardless of the property type."
-        ]
-       ]
-      },
-      {
        "n": "04",
-       "title": "A Space That's Clean and Livable",
+       "title": "Careful Removal",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable — house or condo suite — with follow-up visits scheduled whenever the family is ready for the next one."
+         "Whatever was worked on that visit is left and usable — house or condo suite — with follow-up visits scheduled whenever the family is ready for the next one."
         ]
        ]
       }
@@ -344,7 +317,7 @@
        "Multi-visit scheduling for homes with years of accumulation"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
        "No requirement to explain how the situation developed"
@@ -1036,7 +1009,7 @@
        "q": "How much does a hoarding cleanout cost in Etobicoke?",
        "a": [
         [
-         "Pricing is based on how many rooms are affected and how much sorting the belongings need — never on whether the property is a house or a condo. The figure is confirmed free at a private walkthrough."
+         "{{fact:cleanupScope}}. The figure is confirmed free at a private walkthrough."
         ]
        ]
       },

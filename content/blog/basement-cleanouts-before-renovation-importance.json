@@ -104,13 +104,10 @@
      "t": "ul",
      "items": [
       [
-       "Moisture and Mold Inspection: Clearing the space allows you and your contractor to thoroughly inspect the foundation walls and floor for cracks, water stains, or signs of mold, issues that must be remedied before any finishing work can start."
+       "{{fact:structuralDemolition}}."
       ],
       [
        "Pest Inspection: Evidence of insects or rodents can be spotted and treated."
-      ],
-      [
-       "Structural and Utility Review: Access to electrical panels, HVAC systems, plumbing lines, and support posts is essential for planning mechanicals and ensuring code compliance."
       ]
      ]
     },
@@ -132,7 +129,7 @@
     {
      "t": "p",
      "c": [
-      "Renovation generates an immense amount of dust and debris. Even with containment measures, fine particles infiltrate everything. Storing your belongings in the basement during a renovation guarantees they will be coated in dust and at risk of damage from accidental impacts or moisture."
+      "Renovation generates an immense amount of dust and debris."
      ]
     },
     {
@@ -145,7 +142,7 @@
      "t": "ul",
      "items": [
       [
-       "Complete Removal: A full basement cleanout means removing everything not just moving boxes to a corner. This ensures all valuables, keepsakes, and stored items are safely relocated to another part of the home, a temporary storage unit, or responsibly disposed of if no longer needed."
+       "Complete Removal: A full basement cleanout means removing everything not just moving boxes to a corner. {{fact:retainedItems}}"
       ],
       [
        "Simplified Logistics: Contractors don’t have to work around tarps-covered piles, and you won’t face the daunting task of cleaning every stored item after the project is complete."
@@ -218,7 +215,7 @@
        "Thorough Clear-Out: We remove everything you designate, from old sofas and boxes to exercise equipment and leftover building materials from past projects."
       ],
       [
-       "Space for Inspection: We leave the basement empty and broom-swept, allowing for critical pre-renovation inspections."
+       "Space for Inspection: We leave the basement empty, allowing for critical pre-renovation inspections."
       ],
       [
        "Responsible Disposal: We ensure your unwanted items are handled sustainably, donating usable goods to charities in the GTA and recycling wherever possible."
@@ -310,7 +307,7 @@
     {
      "t": "p",
      "c": [
-      "A comprehensive basement cleanout is the non-negotiable first step in any successful renovation project. It transforms a cluttered, inaccessible storage area into a clean, inspectable, and work-ready canvas. This proactive measure saves time, reduces stress, prevents costly mid-project issues, and ensures your renovation investment is built on a solid foundation, literally and figuratively. Before you finalize plans with your contractor, make your first call to Live Junk Free. Let us handle the essential cleanup, so your renovation begins on time, on budget, and on the right foot."
+      "A comprehensive basement cleanout is the non-negotiable first step in any successful renovation project. It transforms a cluttered, inaccessible storage area into a clean, inspectable, and work-ready canvas. {{fact:structuralDemolition}}. Before you finalize plans with your contractor, make your first call to Live Junk Free. Let us handle the essential cleanup, so your renovation begins on time, on budget, and on the right foot."
      ]
     }
    ]

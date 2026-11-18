@@ -153,7 +153,7 @@
        "title": "Filing cabinet, shelving and storage removal",
        "text": [
         [
-         "Lateral and vertical filing cabinets, plan and drawing cabinets, bookcases, storage cupboards, mobile shelving, safes and back-room racking removed — including the sample rooms and storage areas that never appear on the floor plan somebody sends us."
+         "{{fact:equipmentScope}}."
         ]
        ]
       },
@@ -304,7 +304,7 @@
     {
      "t": "p",
      "c": [
-      "Every office cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every office cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -346,15 +346,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Free walkthrough and one flat office cleanout price",
-       "text": [
-        [
-         "Our crew walks the reception and private offices, the workstation runs, the boardroom, the file and storage rooms, the server room and any shop or back-of-unit area in scope. We provide one flat price before any work begins and hold that figure through to completion."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Workstations dismantled, offices cleared and documented",
        "text": [
@@ -365,10 +356,10 @@
       },
       {
        "n": "04",
-       "title": "Suites returned swept",
+       "title": "Suites returned",
        "text": [
         [
-         "The office is left broom-swept and empty, storage and shop floor included — to base condition where the lease requires it —."
+         "The office is left and empty, storage and shop floor included — to base condition where the lease requires it —."
         ]
        ]
       }
@@ -473,7 +464,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than office cleanout services across Woodbridge. Our commercial junk removal handles Highway 7 corridor offices, Highway 27, Martin Grove, Rowntree Dairy Road and Pine Valley Drive business condos, construction and trade contractor units, food distribution and logistics warehouses, medical and dental practices, Woodbridge Avenue and Market Lane shops, cafés and restaurants, with same-day attendance wherever access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from West Woodbridge, Vellore Village, Sonoma Heights, Islington Woods and Kleinburg homes alike. Our demolition services cover office partition and cubicle removal, and interior strip-outs, tenant improvement removal and built-in fixtures, along with sheds, garages, decks, fences, gazebos, above-ground pools and hot tubs. Where a property requires complete clearing, we provide same-day office cleanout, retail cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than office cleanout services across Woodbridge. Our commercial junk removal handles Highway 7 corridor offices, Highway 27, Martin Grove, Rowntree Dairy Road and Pine Valley Drive business condos, construction and trade contractor units, food distribution and logistics warehouses, medical and dental practices, Woodbridge Avenue and Market Lane shops, cafés and restaurants, with same-day attendance wherever access allows, subject to availability. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from West Woodbridge, Vellore Village, Sonoma Heights, Islington Woods and Kleinburg homes alike. Our demolition services cover office partition and cubicle removal, and interior strip-outs, tenant improvement removal and built-in fixtures, along with sheds, garages, decks, fences, gazebos, above-ground pools and hot tubs. Where a property requires complete clearing, we provide same-day office cleanout when available, retail cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -511,7 +502,7 @@
      "t": "ul",
      "items": [
       [
-       "On an open-plan floor along the Highway 7 corridor, the workstations are the job. Panels, benching systems, dividers, work surfaces, pedestals, task chairs, monitor arms and cable trays come apart in sequence and go out in planned loads rather than being dragged whole through a corridor other tenants are still using. Where the system is a recognised make in reasonable condition there is often a resale or donation buyer, and routing it there instead of scrapping comes off what you pay. We price by the workstation count and the exit route, not by a flat commercial rate."
+       "On an open-plan floor along the Highway 7 corridor, the workstations are the job. Panels, benching systems, dividers, work surfaces, pedestals, task chairs, monitor arms and cable trays come apart in sequence and go out in planned loads rather than being dragged whole through a corridor other tenants are still using. Where the system is a recognised make in reasonable condition there is often a resale or donation buyer, and routing it there instead of scrapping comes off what you pay. {{fact:changedScope}}."
       ]
      ]
     },
@@ -524,7 +515,7 @@
      "t": "ul",
      "items": [
       [
-       "Desks, boardroom tables, reception counters, lateral and vertical filing cabinets, plan and drawing cabinets, bookcases, storage cupboards, mobile shelving and safes. Contractor and professional offices here carry far more paper storage than the working area suggests — permits, drawings, closed job files and client records. Safes and fireproof cabinets get planned for at booking, because they decide the equipment and the crew size rather than being handled on the day."
+       "Desks, boardroom tables, reception counters, lateral and vertical filing cabinets, plan and drawing cabinets, bookcases, storage cupboards, mobile shelving and safes. {{fact:permits}} Safes and fireproof cabinets get planned for at booking, because they decide the equipment and the crew size rather than being handled on the day."
       ]
      ]
     }

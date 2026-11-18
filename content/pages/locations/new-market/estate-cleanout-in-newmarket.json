@@ -116,7 +116,7 @@
     {
      "t": "p",
      "c": [
-      "No. Saturday and Sunday work costs exactly what a weekday costs — the flat price given at the walkthrough doesn’t change based on which day the actual work happens."
+      "No. {{fact:changedScope}}."
      ]
     }
    ]
@@ -128,7 +128,7 @@
      "items": [
       {
        "n": "01",
-       "title": "Weekend scheduling, no premium attached",
+       "title": "Weekend scheduling, no premium attached (subject to scheduling)",
        "text": [
         [
          "The price a crew gives at the walkthrough is the same whether the job happens on a Tuesday or a Saturday, which matters when coordinating several family members’ availability."
@@ -140,16 +140,16 @@
        "title": "{{fact:weekendPickup}}",
        "text": [
         [
-         "Family members who can only meet after work get the same crew and the same flat number as anyone available during a weekday."
+         "{{fact:changedScope}}."
         ]
        ]
       },
       {
        "n": "03",
-       "title": "One flat price, confirmed before anything moves",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "The number reflects what a crew member actually sees at the walkthrough, and it holds regardless of how the sorting turns out."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -203,7 +203,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is the scope of the property — how many rooms are affected, and how much sorting and donation coordination the belongings genuinely need. A single room is a modest job. A full home with years of accumulation across multiple levels takes considerably more time, and the price reflects that real difference rather than a flat guess made over the phone."
+      "The honest factor is the scope of the property — how many rooms are affected, and how much donation coordination the belongings genuinely need. A single room is a modest job. A full home with years of accumulation across multiple levels takes considerably more time, and the price reflects that real difference rather than a flat guess made over the phone."
      ]
     },
     {
@@ -215,7 +215,6 @@
     {
      "t": "checks",
      "items": [
-      "One Flat Price, Whatever Day the Work Happens",
       "No Weekend or Evening Premium, Ever"
      ]
     },
@@ -232,12 +231,6 @@
      "t": "price",
      "label": "Newmarket Estate Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -284,29 +277,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual space, at a time that fits your family’s schedule, and gives one flat number before anything moves."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at the family’s pace, with anything meaningful set aside first, always."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "A Home That's Clean and Ready",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable — ready for a sale, a new owner, or simply for the family to take the next step."
+         "Whatever was worked on that visit is left and usable — ready for a sale, a new owner, or simply for the family to take the next step."
         ]
        ]
       }
@@ -350,10 +325,10 @@
        "Multi-visit scheduling for homes with years of accumulation"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
-       "Same-day and weekend service for straightforward access"
+       "Same-day and weekend service for straightforward access (subject to scheduling)"
       ]
      ]
     },
@@ -369,16 +344,10 @@
        "Estate cleanouts across Stonehaven, Summerhill Estates and every other neighbourhood"
       ],
       [
-       "{{fact:weekendPickup}}"
-      ],
-      [
        "Full-home or single-room cleanouts, priced for the actual scope either way"
       ],
       [
        "Coordination around new piano delivery dates or renovation timelines if relevant"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
       ],
       [
        "Documentation available where needed"
@@ -430,12 +399,6 @@
       ],
       [
        "Documentation provided for estate, legal or sale-related requirements"
-      ],
-      [
-       "Same flat pricing whether or not a deadline is involved"
-      ],
-      [
-       "{{fact:weekendPickup}}"
       ],
       [
        "Discreet, respectful communication with every party involved"
@@ -866,7 +829,7 @@
        "q": "Does the estate cleanout need to happen before a listing goes live?",
        "a": [
         [
-         "Often, and that timing gets planned for at the walkthrough. If there’s no deadline at all, that’s just as normal, and the same flat pricing applies either way."
+         "Often, and that timing gets planned for at the walkthrough. {{fact:changedScope}}."
         ]
        ]
       }

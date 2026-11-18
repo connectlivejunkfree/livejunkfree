@@ -5,6 +5,20 @@
  * Safe on both server and client (plain JSON import, no fs).
  */
 import factsJson from "@content/business-facts.json";
+import pricingJson from "@content/pricing.json";
+
+type Tier = { label: string; price: number | null };
+const PRODUCTS = pricingJson as unknown as Record<string, { sizes?: Tier[] }>;
+/**
+ * {{rate:junkLoad.1/16}} → "C$125", {{rate:junkLoad.Full.n}} → "655": prices in facts come from content/pricing.json,
+ * the only place a rate is set (QA 18 Nov §4).
+ */
+export function resolveRates(text: string): string {
+  return text.replace(/\{\{rate:(\w+)\.([^}.]+)(\.n)?\}\}/g, (_m, product: string, label: string, n?: string) => {
+    const p = PRODUCTS[product]?.sizes?.find((t) => t.label === label)?.price;
+    return p == null ? "" : n ? String(p) : `C$${p}`;
+  });
+}
 
 type Fact = { status?: string; [field: string]: unknown };
 export const facts = factsJson as unknown as Record<string, Fact | string>;
@@ -14,7 +28,7 @@ export function fact(key: string, field = "text"): string {
   const f = facts[key];
   if (!f || typeof f !== "object" || f.status === "removed") return "";
   const v = f[field];
-  return v === null || v === undefined ? "" : String(v);
+  return v === null || v === undefined ? "" : resolveRates(String(v));
 }
 
 /** True when a fact can be shown (not removed, and its field has a value). */
@@ -41,5 +55,8 @@ export function resolveFacts(text: string): string {
     .replace(TOKEN, (_m, key: string, field?: string) => fact(key, field ?? "text"))
     .replace(/\s{2,}/g, " ")
     .replace(/\s+([.,;:!?])/g, "$1")
+    // a fact that ends a sentence and is followed by the sentence's own stop: "…scheduling.." → "…scheduling."
+    .replace(/(?<!\.)\.\.(?!\.)/g, ".")
+    .replace(/([!?])\./g, "$1")
     .trim();
 }

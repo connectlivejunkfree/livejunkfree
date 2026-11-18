@@ -9,7 +9,7 @@
   "description": "Business cleanout services in Uxbridge from Live Junk Free come from a crew that actually knows the difference between scrap and salvage.",
   "canonical": "https://livejunkfree.ca/locations/uxbridge/business-cleanout-services-in-uxbridge/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Business-Cleanout-Services-in-Uxbridge.jpg"
+  "ogImage": "/images/uploads/2026/08/Business-Cleanout-Services-in-Toronto.jpg"
  },
  "title": "Business Cleanout Services in Uxbridge",
  "h1": "Business Cleanout Services in Uxbridge from Live Junk Free",
@@ -86,13 +86,13 @@
     {
      "t": "p",
      "c": [
-      "Around Brock Street and the town’s heritage storefronts, that’s often a small retail or studio space. Across the township, the same standard applies at the identical flat price."
+      "Around Brock Street and the town’s heritage storefronts, that’s often a small retail or studio space. {{fact:changedScope}}."
      ]
     },
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Business-Cleanout-Services-in-Uxbridge-rs1a60t55gn4hm1fj0l4k2ldhii5qo9379mgfjiphs.jpg",
+      "src": "/images/uploads/elementor/thumbs/Business-Cleanout-Services-in-Toronto-rs1amu57erns6hm5ca8v5tu81nmjfr086hr5hql66o.jpg",
       "alt": "Business Cleanout Services in Uxbridge"
      }
     }
@@ -116,7 +116,7 @@
     {
      "t": "p",
      "c": [
-      "Never. The price reflects the size of the space and the sorting it needs — never how far the property sits from town. A business cleanout eight kilometres down a rural road costs exactly what the identical job costs downtown."
+      "Never. {{fact:cleanupScope}}. A business cleanout eight kilometres down a rural road costs exactly what the identical job costs downtown."
      ]
     }
    ]
@@ -127,17 +127,8 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "Salvage-conscious business cleanout sorting",
-       "text": [
-        [
-         "Tools, equipment and materials that still have real use or resale value get set aside on request rather than swept into a general disposal load by default."
-        ]
-       ]
-      },
-      {
        "n": "02",
-       "title": "One flat business cleanout price — the crossroads makes it fair",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Distance never enters the calculation. A business cleanout on Brock Street or well out on a rural road costs the identical number."
@@ -155,19 +146,10 @@
       },
       {
        "n": "04",
-       "title": "Same-day business cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first business cleanout sorting for fixtures and equipment",
-       "text": [
-        [
-         "Furniture, fixtures and equipment still in good condition go to donation partners or resale channels first, before anything reaches disposal."
         ]
        ]
       },
@@ -209,7 +191,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -230,7 +211,7 @@
     {
      "t": "p",
      "c": [
-      "Every business cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every business cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -276,7 +257,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual space, notes anything worth salvaging, and gives you one flat price before anything moves."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -294,7 +275,7 @@
        "title": "Your Space Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left and ready for whatever comes next."
         ]
        ]
       }
@@ -329,9 +310,6 @@
        "Business cleanouts for storefronts through the town's heritage streets"
       ],
       [
-       "Salvage-conscious sorting for tools and materials still worth keeping"
-      ],
-      [
        "Careful, unhurried handling around established buildings"
       ]
      ]
@@ -346,9 +324,6 @@
      "items": [
       [
        "Business cleanouts for makers, craftspeople and small manufacturing spaces"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ],
       [
        "Fixture and shelving removal handled carefully around neighbouring tenants"
@@ -369,12 +344,6 @@
      "items": [
       [
        "Business cleanouts on rural properties across the township"
-      ],
-      [
-       "Same flat pricing regardless of distance from the crossroads"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     },
@@ -393,7 +362,7 @@
        "Full sort of furniture, fixtures and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ]
      ]
     }
@@ -781,7 +750,7 @@
        "q": "Do you charge extra for rural properties or long laneways?",
        "a": [
         [
-         "Never. The same flat pricing applies at a Brock Street storefront and at the end of a rural laneway. "
+         "Never. {{fact:changedScope}}. "
         ]
        ]
       },
@@ -789,7 +758,7 @@
        "q": "Can tools, equipment or materials be saved rather than thrown out?",
        "a": [
         [
-         "Often, yes — say so at the walkthrough. Anything still worth keeping gets set aside intact rather than swept into general disposal. "
+         "Often, yes — say so at the walkthrough. Anything still worth keeping gets set aside intact rather than into general disposal. "
         ]
        ]
       },
@@ -938,7 +907,7 @@
          "18. What can businesses do with obsolete equipment they no longer use?"
         ],
         [
-         "Businesses can identify equipment that should be retained, donated, recycled, or removed. Items that are no longer useful can be included in the cleanout if they meet the service requirements."
+         "Businesses can identify equipment that should be retained, donated, recycled where possible, or removed. Items that are no longer useful can be included in the cleanout if they meet the service requirements."
         ],
         [
          "19. Can you clear a retail store after it stops trading?"
@@ -1028,7 +997,7 @@
          "33. How quickly can an empty commercial property be cleared?"
         ],
         [
-         "The timeframe depends on the amount of material, size of the property, number of rooms, access conditions, and types of items being removed. A smaller space may require much less time than a large warehouse or multi-room commercial property."
+         "The timeframe depends on the amount of material, size of the property, number of rooms, access conditions, and types of items being removed. {{fact:changedScope}}."
         ],
         [
          "34. Can you help when a business has a tight move-out deadline?"

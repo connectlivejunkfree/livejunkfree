@@ -112,7 +112,7 @@
      "items": [
       {
        "n": "01",
-       "title": "One flat demolition price — the same number on Highway 10 or a concession",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Distance never enters the calculation. A structure eight kilometres down a gravel sideroad costs exactly what the identical structure costs in a village core."
@@ -124,7 +124,7 @@
        "title": "Free demolition quotes anywhere in the township",
        "text": [
         [
-         "A crew member walks the property, whole or in part, and gives one flat price before anything starts. No obligation attached to hearing the number."
+         "{{fact:changedScope}}. No obligation attached to hearing the number."
         ]
        ]
       },
@@ -266,7 +266,7 @@
        "title": "Get Your Free Demolition Quote",
        "text": [
         [
-         "The crew walks the property, prices multiple structures as one job where that applies, and gives a flat number before touching anything."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -325,9 +325,6 @@
        "Above Ground Pool Demolition — frame, liner and decking torn down and hauled, older bungalow-belt installations handled with extra care"
       ],
       [
-       "Hot Tub Demolition — drained, disconnected and cut apart before removal"
-      ],
-      [
        "Jacuzzi Demolition — same process, any age of structure"
       ]
      ]
@@ -370,9 +367,6 @@
        "Garage Demolition — detached units taken down section by section"
       ],
       [
-       "Deck Demolition — wood and composite, footings addressed for an addition or rebuild"
-      ],
-      [
        "Fence Demolition — full runs or single sections"
       ],
       [
@@ -391,9 +385,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Concrete Demolition — patios, walkways and pads broken up and hauled, grading-conscious near ravine edges"
-      ],
       [
        "Flooring Demolition — old outdoor surfaces and bases removed"
       ],
@@ -673,7 +664,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {
@@ -1008,7 +999,7 @@
        "q": "Do rural addresses or long laneways cost extra?",
        "a": [
         [
-         "Never. The same flat pricing applies at Caledon East’s village core and eight concessions past it. "
+         "Never. {{fact:changedScope}}. "
         ]
        ]
       },

@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Business-Cleanout-Services-in-Pickering-from-Live-Junk-Free-rs3890bvfkep4ldyl8c6w7x2by9ienr3o3povnfuy8.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Business-Cleanout-Services-in-Mississauga-rs2sk80yy99b3frrjll778pcq80udul9oo5ozaurn4.jpeg",
       "alt": "Business Cleanout Services in Pickering from Live Junk Free"
      }
     }
@@ -146,10 +146,10 @@
       },
       {
        "n": "03",
-       "title": "One flat business cleanout price, confirmed before anything moves",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
-         "A crew member sees the actual space and gives one flat number before anything moves, whatever the building’s era."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -159,15 +159,6 @@
        "text": [
         [
          "Where a business is tied to Frenchman’s Bay or the waterfront, seasonal timing and access get planned around at the walkthrough."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first business cleanout sorting for fixtures and equipment",
-       "text": [
-        [
-         "Furniture, fixtures and equipment still in good condition go to donation partners or resale channels first, before anything reaches disposal."
         ]
        ]
       },
@@ -203,7 +194,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the space, and how much sorting it genuinely needs. A small retail unit is a modest job. A larger commercial space with years of accumulated fixtures and equipment takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small retail unit is a modest job. A larger commercial space with years of accumulated fixtures and equipment takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -215,8 +206,7 @@
     {
      "t": "checks",
      "items": [
-      "Hauling-Away",
-      "{{fact:competitorComparison}}"
+      "Hauling-Away"
      ]
     },
     {
@@ -232,12 +222,6 @@
      "t": "price",
      "label": "Pickering Business Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -284,15 +268,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual space and gives you one flat price before anything moves — same process whether the building is older or newer."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Space Gets Cleared, Whatever Its Era",
        "text": [
@@ -306,7 +281,7 @@
        "title": "Your Space Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left and ready for whatever comes next."
         ]
        ]
       }
@@ -353,13 +328,10 @@
        "Coordination with landlords or property managers on lease-end timing"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
-       "Same-day service for straightforward access"
-      ],
-      [
-       "Same flat pricing as any newer commercial property"
+       "Service for straightforward access"
       ]
      ]
     },
@@ -375,16 +347,10 @@
        "Business cleanouts in newer commercial developments around Seaton"
       ],
       [
-       "Same flat pricing structure as any established plaza"
-      ],
-      [
        "Straightforward scheduling for newer building access"
       ],
       [
-       "Donation-first sorting throughout"
-      ],
-      [
-       "Same-day completion for most straightforward jobs"
+       "Completion for most straightforward jobs"
       ],
       [
        "Documentation available for the property file"
@@ -410,16 +376,13 @@
        "Seasonal timing and access planned at the walkthrough"
       ],
       [
-       "Same flat pricing as anywhere else in the city"
-      ],
-      [
        "Marina-adjacent equipment sorted with real understanding"
       ],
       [
        "No waterfront premium anywhere in the quote"
       ],
       [
-       "Same-day service where access allows"
+       "Service where access allows"
       ]
      ]
     },
@@ -438,16 +401,13 @@
        "Full sort of furniture, fixtures and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -843,7 +803,7 @@
        "q": "Can you handle a business near Frenchman's Bay or the waterfront?",
        "a": [
         [
-         "Yes — seasonal timing and access get planned around at the walkthrough, at the same flat pricing as anywhere else in the city."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -875,7 +835,7 @@
        "q": "Do you cover newer commercial space around Seaton?",
        "a": [
         [
-         "Yes, at the same flat pricing as any established plaza."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -1106,7 +1066,7 @@
          "33. Can you work after a Pickering business has closed for the day?"
         ],
         [
-         "Yes. After-hours scheduling can be discussed when the property can be safely accessed by our crew."
+         "Yes. {{fact:scheduling}}"
         ],
         [
          "34. How long does a Pickering commercial cleanout take?"

@@ -9,7 +9,7 @@
   "description": "Compassionate Bereavement Cleanout Services in Bolton for handling unwanted belongings and property cleanouts with care, respect, and ease.",
   "canonical": "https://livejunkfree.ca/locations/bolton/bereavement-cleanout-services-in-bolton/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Bereavement-Cleanout-Services-in-Pickering.jpeg"
+  "ogImage": "/images/uploads/2026/07/Monitor-Removal-Services-1.jpeg"
  },
  "title": "Bereavement Cleanout Services in Bolton",
  "h1": "Bereavement Cleanout Services in Bolton from Live Junk Free",
@@ -131,15 +131,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        [
-         "The same flat pricing applies whether the property is on Queen Street or eight concessions out on a rural road."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "No charge for the time a bereavement cleanout takes to approve",
        "text": [
@@ -210,8 +201,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -231,7 +221,7 @@
     {
      "t": "p",
      "c": [
-      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every bereavement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -295,7 +285,7 @@
        "title": "A Space That's Clean and Ready",
        "text": [
         [
-         "We complete a final walkthrough, sweep the area, and leave the space ready for whatever comes next."
+         "We complete a final walkthrough, and leave the space ready for whatever comes next."
         ]
        ]
       }
@@ -339,9 +329,6 @@
        "No undersized team improvising with the wrong tools"
       ],
       [
-       "Same flat pricing as any lighter-furniture job"
-      ],
-      [
        "Documentation available for pieces of potential value"
       ]
      ]
@@ -364,13 +351,7 @@
        "Family-initiated cleanouts handled with real patience"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
-       "Donation-first checks before any belongings are recycled"
-      ],
-      [
-       "Same flat pricing as a rural or larger job"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     }
@@ -388,12 +369,6 @@
      "items": [
       [
        "Bereavement cleanouts on farm and rural properties across the concessions"
-      ],
-      [
-       "Same flat pricing regardless of distance from town"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ],
       [
        "Coordination with executors settling the estate"
@@ -421,13 +396,10 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
-       "Same flat pricing regardless of the season"
-      ],
-      [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Recurring visit scheduling available on request"
@@ -826,7 +798,7 @@
        "q": "Do rural addresses or long laneways cost extra?",
        "a": [
         [
-         "Never. The same flat pricing applies at Queen Street and eight concessions past it."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },

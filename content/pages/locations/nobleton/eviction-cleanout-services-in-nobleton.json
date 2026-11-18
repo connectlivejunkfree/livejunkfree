@@ -87,7 +87,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/elementor/thumbs/eviction-cleanout-services-rr0twsm2u8xtgkjom4gto2kqxytsdwvxwo5bvurnp0.jpeg",
-      "alt": "eviction-cleanout-services"
+      "alt": "Eviction Cleanout in Nobleton: Live Junk Free job photo"
      }
     }
    ]
@@ -154,24 +154,6 @@
        "text": [
         [
          "Unwanted belongings may be spread throughout bedrooms, living spaces, kitchens, garages, and basements. Our Nobleton eviction cleanout services allow you to arrange one coordinated removal instead of dealing with several separate hauling trips."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Responsible Eviction Junk Sorting & Disposal",
-       "text": [
-        [
-         "We sort materials during the removal process and look for appropriate recycling or donation opportunities whenever possible. Furniture, metals, and electronics may be recycled, while usable goods can be directed toward local shelters or community organizations when appropriate."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Final Sweep After Nobleton Eviction Cleanout",
-       "text": [
-        [
-         "After the unwanted contents have been removed, our crew completes a final sweep and tidy of the cleared areas. This helps leave the property in a cleaner condition for inspection, repairs, renovation, listing, or the next occupant."
         ]
        ]
       }
@@ -303,7 +285,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -367,7 +349,7 @@
        "title": "We Remove It All",
        "text": [
         [
-         "Our crew arrives prepared to handle the lifting, loading, hauling, sorting, and responsible disposal. Once the unwanted items are gone, we complete a final sweep of the cleared areas."
+         "Our crew arrives prepared to handle the lifting, loading, hauling, and responsible disposal. {{fact:cleanupScope}}."
         ]
        ]
       }
@@ -1166,7 +1148,7 @@
        "q": "Do you sweep the property after the cleanout?",
        "a": [
         [
-         "Yes. After the unwanted items are removed, the crew sweeps and tidies the area so the property is left in a cleaner condition and ready for the next stage of turnover."
+         "Yes. {{fact:cleanupScope}}."
         ]
        ]
       },

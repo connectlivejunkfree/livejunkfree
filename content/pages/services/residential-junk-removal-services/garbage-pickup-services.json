@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/07/garbage-pickup-services.jpeg"
  },
  "title": "Garbage Pickup Services",
- "h1": "Most Reliable Residential Garbage Pickup in Your Area",
+ "h1": "Residential Garbage Pickup in Your Area",
  "published": "2026-08-04T07:37:06",
  "modified": "2026-08-04T07:37:06",
  "sections": [
@@ -21,12 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Most Reliable Residential Garbage Pickup in Your Area"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in the town"
+     "text": "Residential Garbage Pickup in Your Area"
     },
     {
      "t": "ctas",
@@ -75,7 +70,7 @@
     {
      "t": "p",
      "c": [
-      "We don’t just remove your junk, we dispose of it responsibly. Our team sorts through items to donate, recycle, or properly discard everything we collect, reducing waste and supporting sustainability. Plus, we take extra care to protect your property during removal, ensuring a smooth and worry-free experience."
+      "We don’t just remove your junk, we dispose of it responsibly. Our team sorts through items to donate, recycle, or properly discard everything we collect, reducing waste and supporting sustainability."
      ]
     },
     {
@@ -91,7 +86,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/garbage-pickup-services-1024x572.jpeg",
-      "alt": "garbage-pickup-services",
+      "alt": "Garbage Pickup: Live Junk Free job photo",
       "width": 800,
       "height": 447
      }
@@ -189,7 +184,7 @@
      "c": [
       {
        "b": [
-        "Need Your Junk Gone Fast? Same-Day Removal Available!"
+        "Need Your Junk Gone Fast? Same-Day Removal may be available!"
        ]
       }
      ]
@@ -215,25 +210,19 @@
       {
        "title": "Eco-Conscious Disposal",
        "text": [
-        "– We carefully sort and recycle materials, and donate usable items to local charities. It’s better for our environment and community."
+        "– We carefully sort and recycle materials, and donate suitable items where possible. It’s better for our environment and community."
        ]
       },
       {
        "title": "Save on Big Cleanouts",
        "text": [
-        "– Clearing out your entire home or office? We offer special discounts for large-volume garbage removal jobs."
+        "– Clearing out your entire home or office? {{fact:changedScope}}."
        ]
       },
       {
        "title": "Book Flat",
        "text": [
-        "– Get on our schedule instantly online or by phone – no waiting for callbacks or dealing with complicated forms."
-       ]
-      },
-      {
-       "title": "Lightning-Quick Service",
-       "text": [
-        "– What would take you all day, we handle in about an hour, including complete removal and thorough cleanup."
+        "– Get on our schedule online or by phone – no waiting for callbacks or dealing with complicated forms."
        ]
       },
       {
@@ -293,7 +282,7 @@
      "t": "ul",
      "items": [
       [
-       "Donate usable furniture and household items to local charities"
+       "{{fact:recycling}}"
       ],
       [
        "Recycle metal, wood, electronics, and other recyclable materials"
@@ -313,13 +302,7 @@
      "t": "ul",
      "items": [
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Free immediate estimates via phone, text, or online"
-      ],
-      [
-       "Special discounts for large-volume removals and commercial clients"
       ]
      ]
     }
@@ -425,13 +408,7 @@
       {
        "title": "Send Us Details",
        "text": [
-        "Simply text or upload pictures of your unwanted items, and we'll respond immediately with a solution."
-       ]
-      },
-      {
-       "title": "Get a Transparent Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
+        "{{fact:pickupTimes}}"
        ]
       },
       {
@@ -504,7 +481,7 @@
        "q": "How much does garbage pickup cost?",
        "a": [
         [
-         "Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard) based on volume. Discounts are available for recurring services."
+         "Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard) based on volume. {{fact:changedScope}}."
         ]
        ]
       },

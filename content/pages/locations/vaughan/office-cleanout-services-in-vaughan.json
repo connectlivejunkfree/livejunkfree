@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Live Junk Free provides office cleanout services in Vaughan for corporate head offices, construction and logistics companies, franchise and multi-site operators, commercial landlords and property managers across the Vaughan Metropolitan Centre towers, the Highway 7 and Jane Street office corridor, the Keele Street and Creditstone business parks in Concord, the Major Mackenzie and Rutherford plazas in Maple, the Woodbridge employment lands and the Thornhill and Kleinburg professional suites."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -158,15 +158,6 @@
        ]
       },
       {
-       "n": "05",
-       "title": "Multi-site office cleanouts across Vaughan under one quote",
-       "text": [
-        [
-         "VMC, Concord, Maple, Woodbridge, Thornhill and Kleinburg locations can be surveyed together and organized into one cleanout programme. Where required, documentation can be separated by address so your team can keep records for each individual property."
-        ]
-       ]
-      },
-      {
        "n": "06",
        "title": "Furniture donation, resale and electronics recycling on every office cleanout",
        "text": [
@@ -277,7 +268,7 @@
     {
      "t": "p",
      "c": [
-      "A private office with desks, chairs and filing cabinets requires a different amount of work from a larger commercial space containing workstations, storage areas, electronics and furniture throughout several rooms. A multi-location cleanout may require additional scheduling and coordination between properties."
+      "A private office with desks, chairs and filing cabinets requires a different amount of work from a larger commercial space containing workstations, storage areas, electronics and furniture throughout several rooms. {{fact:changedScope}}."
      ]
     },
     {
@@ -289,8 +280,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -310,7 +300,7 @@
     {
      "t": "p",
      "c": [
-      "Every office cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every office cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -352,15 +342,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Free walkthrough and one flat office cleanout price",
-       "text": [
-        [
-         "Our crew reviews the reception area, private offices, workstation areas, boardrooms, file and storage rooms, server areas and other spaces included in the project. We provide a clear price before work begins."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Workstations dismantled, offices cleared and documented",
        "text": [
@@ -371,10 +352,10 @@
       },
       {
        "n": "04",
-       "title": "Suites returned swept",
+       "title": "Suites returned",
        "text": [
         [
-         "Once the agreed contents have been removed, the office is left empty and broom-swept. Storage areas and other included spaces are cleared as part of the project, helping prepare the property for its next stage."
+         "Once the agreed contents have been removed, the office is left empty. Storage areas and other included spaces are cleared as part of the project, helping prepare the property for its next stage."
         ]
        ]
       }
@@ -479,7 +460,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than office cleanout services across Vaughan. Our commercial junk removal handles Vaughan Metropolitan Centre and Highway 7 corridor towers, Concord and Keele Street business parks, Woodbridge employment lands, Maple and Rutherford plazas, Thornhill and Kleinburg professional suites, medical and dental practices, warehouse and light industrial units, shops, cafés and restaurants, with same-day attendance wherever access allows."
+      "Same-day service when available covers far more than office cleanout services across Vaughan. Our commercial junk removal handles Vaughan Metropolitan Centre and Highway 7 corridor towers, Concord and Keele Street business parks, Woodbridge employment lands, Maple and Rutherford plazas, Thornhill and Kleinburg professional suites, medical and dental practices, warehouse and light industrial units, shops, cafés and restaurants, with same-day attendance wherever access allows, subject to availability."
      ]
     },
     {
@@ -497,7 +478,7 @@
     {
      "t": "p",
      "c": [
-      "Where a property requires complete clearing, we provide same-day office cleanout, retail cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking."
+      "Where a property requires complete clearing, we provide same-day office cleanout when available, retail cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking."
      ]
     },
     {

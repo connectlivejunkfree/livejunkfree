@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "An eviction can leave a property owner with an unexpected job after the tenant is gone: furniture to move, appliances to remove, mattresses to haul away and rooms that need to be cleared before the property can move forward. Live Junk Free provides eviction cleanout services in King City for landlords, property managers and homeowners who need unwanted tenant belongings removed efficiently. Our crew handles the lifting, loading, hauling and final sweep so you can focus on getting the property ready for its next stage."
+     "text": "An eviction can leave a property owner with an unexpected job after the tenant is gone: furniture to move, appliances to remove, mattresses to haul away and rooms that need to be cleared before the property can move forward. Live Junk Free provides eviction cleanout services in King City for landlords, property managers and homeowners who need unwanted tenant belongings removed efficiently."
     },
     {
      "t": "ctas",
@@ -87,7 +87,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/elementor/thumbs/eviction-cleanout-services-rr0twsm2u8xtgkjom4gto2kqxytsdwvxwo5bvurnp0.jpeg",
-      "alt": "eviction-cleanout-services"
+      "alt": "Eviction Cleanout in King City: Live Junk Free job photo"
      }
     }
    ]
@@ -148,15 +148,6 @@
        "text": [
         [
          "When a rental property needs to be prepared quickly, timing matters. Same-day or next-day eviction cleanout service may be available depending on our schedule, helping you reduce the delay between vacancy and the property’s next step."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Responsible Sorting & Disposal",
-       "text": [
-        [
-         "Items removed from an eviction property are handled responsibly wherever possible. Furniture, metals and electronics may be recycled, while usable goods may be directed toward donation opportunities instead of automatically going to landfill."
         ]
        ]
       },
@@ -309,7 +300,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -373,7 +364,7 @@
        "title": "We Remove Everything Agreed Upon",
        "text": [
         [
-         "Our crew arrives, handles the lifting and loading, hauls the unwanted contents away and completes a final sweep of the cleared areas."
+         "{{fact:cleanupScope}}."
         ]
        ]
       }
@@ -570,7 +561,7 @@
      "t": "ul",
      "items": [
       [
-       "Eviction properties can also contain mattresses, clothing, trash, recyclables, yard waste or debris. These accepted materials can be removed as part of the overall cleanout, with the area swept after the job."
+       "Eviction properties can also contain mattresses, clothing, trash, recyclables, yard waste or debris. These accepted materials can be removed as part of the overall cleanout, with the area after the job."
       ]
      ]
     }
@@ -1186,7 +1177,7 @@
        "q": "How much does eviction cleanout service cost in King City?",
        "a": [
         [
-         "The final price depends on the quantity and type of items, labour and overall scope. Larger or multi-unit cleanouts may receive bulk or custom pricing. "
+         "The final price depends on the quantity and type of items, labour and overall scope. {{fact:changedScope}}. "
         ]
        ]
       },

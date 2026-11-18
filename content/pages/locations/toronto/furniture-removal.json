@@ -93,7 +93,7 @@
         "Live Junk Free"
        ]
       },
-      ", we’ve helped thousands of Toronto residents clear out everything from single pieces to entire room overhauls. Whether you’re downsizing a condo in Liberty Village, clearing out a house in Scarborough after an estate, or simply refreshing a spare bedroom in North York — we handle the heavy lifting so you don’t have to."
+      "Whether you’re downsizing a condo in Liberty Village, clearing out a house in Scarborough after an estate, or simply refreshing a spare bedroom in North York — we handle the heavy lifting so you don’t have to."
      ]
     },
     {
@@ -120,7 +120,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
+      "src": "/images/uploads/2026/08/wood-removal.webp",
       "alt": "Furniture Removal: Live Junk Free job photo",
       "width": 800,
       "height": 534
@@ -204,7 +204,7 @@
         "We’re genuinely local."
        ]
       },
-      " We operate in Toronto and surrounding areas — we’re not a franchise dispatched from a call centre. When you call us, you get a local team that’s accountable to this community."
+      " We operate in Toronto and surrounding areas — we’re not a franchise dispatched from a call centre. When you call us, you get a team that’s accountable to this community."
      ]
     }
    ]
@@ -351,19 +351,13 @@
       {
        "title": "Eco-Friendly Disposal",
        "text": [
-        "We recycle materials and donate usable furniture to local charities"
+        "We recycle materials and donate suitable furniture where possible"
        ]
       },
       {
        "title": "Careful Removal",
        "text": [
-        "We protect your home during removal with padding and careful handling"
-       ]
-      },
-      {
-       "title": "Bulk Removal Options",
-       "text": [
-        "Special rates when clearing multiple pieces of furniture"
+        "{{fact:propertyProtection}}"
        ]
       },
       {
@@ -430,13 +424,7 @@
      "t": "ul",
      "items": [
       [
-       "A single sofa or mattress removal is usually among the most affordable options"
-      ],
-      [
        "A bedroom set or living room clearout falls into a mid-range load"
-      ],
-      [
-       "Full apartment or estate cleanouts are larger loads with volume pricing"
       ]
      ]
     },
@@ -533,9 +521,7 @@
       ],
       [
        {
-        "b": [
-         "Bulk Furniture Cleanouts"
-        ]
+        "b": []
        },
        " (full rooms, estate clearances, rental property turnover)"
       ]
@@ -562,7 +548,7 @@
       {
        "title": "Our Team Arrives On Time",
        "text": [
-        "We call 30 minutes before showing up so you're never left waiting. Our crew arrives on schedule, confirms your quote on the spot, and gets straight to work."
+        "We call 30 minutes before showing up so you're never left waiting. Our crew arrives on schedule, confirms your quote at the onsite estimate, and gets straight to work."
        ]
       },
       {
@@ -574,7 +560,7 @@
       {
        "title": "Responsible Disposal, Every Time",
        "text": [
-        "Usable pieces get donated to local Toronto charities. Everything else goes to recycling facilities. We keep as much out of landfill as possible."
+        "Everything else goes to recycling facilities. We keep as much out of landfill as possible."
        ]
       }
      ]
@@ -601,11 +587,11 @@
      "t": "gallery",
      "images": [
       {
-       "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
+       "src": "/images/job-1.webp",
        "alt": "Furniture Removal: Live Junk Free job photo"
       },
       {
-       "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
+       "src": "/images/job-2.webp",
        "alt": "Furniture Removal: Live Junk Free job photo"
       },
       {
@@ -617,7 +603,7 @@
        "alt": "Furniture Removal: Live Junk Free job photo"
       },
       {
-       "src": "/images/uploads/2025/07/20250611_115029-1024x577.webp",
+       "src": "/images/job-3.webp",
        "alt": "Furniture Removal: Live Junk Free job photo"
       },
       {
@@ -658,7 +644,7 @@
        "q": "Q: Do you offer same-day furniture removal in Toronto?",
        "a": [
         [
-         "A: Yes, in many cases we can accommodate same-day or next-day pickups depending on our schedule and your location in the city. It’s worth calling us directly if you need a quick turnaround — we’ll let you know what’s available."
+         "A: Yes, in many cases we can accommodate same-day or next-day pickups when available depending on our schedule and your location in the city. It’s worth calling us directly if you need a quick turnaround — we’ll let you know what’s available."
         ]
        ]
       },
@@ -666,7 +652,7 @@
        "q": "Q: What happens to my old furniture after you pick it up?",
        "a": [
         [
-         "A: We don’t send everything straight to a landfill. Furniture in good condition is donated to local organizations or families in need. Anything that can be recycled is processed responsibly. We only dispose of items that genuinely can’t be reused."
+         "A: We don’t send everything straight to a landfill. Furniture in good condition is donated to local organizations or families in need. Anything that can be recycled where possible is processed responsibly. We only dispose of items that genuinely can’t be reused."
         ]
        ]
       },

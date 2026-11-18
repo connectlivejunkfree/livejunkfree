@@ -9,7 +9,7 @@
   "description": "Apartment cleanout services in Vaughan from Live Junk Free are built for a city where condo towers genuinely dominate the skyline.",
   "canonical": "https://livejunkfree.ca/locations/vaughan/apartment-cleanout-services-in-vaughan/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Apartment-Cleanout-Services-in-Vaughan.jpeg"
+  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Ajax.jpeg"
  },
  "title": "Apartment Cleanout Services in Vaughan",
  "h1": "Apartment Cleanout Services in Vaughan from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Apartment-Cleanout-Services-in-Vaughan-rrxrem4t99oiy6n6mghvbmr65uyk37u94hvfylq9ow.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Ajax-rrmzgn6andbie2zv3395ne9iklgc1ewincvh8j7pn4.jpeg",
       "alt": "Apartment Cleanout Services in Vaughan"
      }
     }
@@ -127,17 +127,8 @@
      "t": "steps",
      "items": [
       {
-       "n": "01",
-       "title": "Real tower experience for apartment cleanout in VMC and Thornhill",
-       "text": [
-        [
-         "{{fact:insuranceDocs}}."
-        ]
-       ]
-      },
-      {
        "n": "02",
-       "title": "One flat apartment cleanout price, whatever the building",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number reflects the unit’s actual volume — never the building type or how many floors the freight elevator needs to travel."
@@ -209,7 +200,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -230,7 +220,7 @@
     {
      "t": "p",
      "c": [
-      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -276,7 +266,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual unit, maps the exit route — elevator, hallway, loading dock — and gives you one flat price before anything moves."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -294,7 +284,7 @@
        "title": "The Unit Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready — inside the window the building granted."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready — inside the window the building granted."
         ]
        ]
       }
@@ -355,9 +345,6 @@
       ],
       [
        "No client's situation discussed with anyone outside the job"
-      ],
-      [
-       "Same flat pricing as any standard apartment cleanout"
       ]
      ]
     }
@@ -383,7 +370,7 @@
        "Documentation available for landlords or property files"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     },
@@ -402,10 +389,7 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ]
      ]
     }

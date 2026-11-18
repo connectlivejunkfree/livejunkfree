@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Basement Cleanout Services in Aurora | Live Junk Free",
-  "description": "Live Junk Free provides basement cleanout services in Aurora to carry it all out, sort what can be reused or recycled, haul it away.",
+  "description": "Live Junk Free provides basement cleanout services in Aurora to carry it all out, sort what can be reused or recycled where possible, haul it away.",
   "canonical": "https://livejunkfree.ca/locations/aurora/basement-cleanout-services-in-aurora/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/basement-cleanout-services.jpeg"
@@ -93,7 +93,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/elementor/thumbs/basement-cleanout-services-rr0twuhr7x0e3sgyb5a2t23o4qkitb3ekxgaueovck.jpeg",
-      "alt": "basement-cleanout-services"
+      "alt": "Basement Cleanout in Aurora: Live Junk Free job photo"
      }
     }
    ]
@@ -310,7 +310,7 @@
     {
      "t": "p",
      "c": [
-      "Every basement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every basement cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -365,7 +365,7 @@
        "title": "Choose Your Appointment",
        "text": [
         [
-         "Pick a convenient day and time. Same-day service can be requested when scheduling and access allow."
+         "Pick a convenient day and time. Same-day service when available can be requested when scheduling and access allow."
         ]
        ]
       },
@@ -374,7 +374,7 @@
        "title": "We Clean Out Basement Junk",
        "text": [
         [
-         "Our crew carries the unwanted contents out, loads the truck, separates materials where appropriate and leaves the cleared area swept."
+         "Our crew carries the unwanted contents out, loads the truck, separates materials where appropriate and leaves the cleared area."
         ]
        ]
       }
@@ -479,7 +479,7 @@
     {
      "t": "p",
      "c": [
-      "Sometimes a basement cleanout cannot wait for another weekend. You may have a tenant moving in, a renovation starting, a property listing approaching or a move that needs to happen quickly. Live Junk Free offers basement cleanouts near me with same-day availability when scheduling permits. Along with basement cleaning and junk removal, Live Junk Free also provides other eligible cleanout and demolition services, including garage, estate, eviction, hoarding, apartment, storage unit and office cleanouts, as well as selected demolition projects."
+      "Sometimes a basement cleanout cannot wait for another weekend. You may have a tenant moving in, a renovation starting, a property listing approaching or a move that needs to happen quickly. {{fact:permits}} Along with basement cleaning and junk removal, Live Junk Free also provides other eligible cleanout and demolition services, including garage, estate, eviction, hoarding, apartment, storage unit and office cleanouts, as well as selected demolition projects."
      ]
     },
     {

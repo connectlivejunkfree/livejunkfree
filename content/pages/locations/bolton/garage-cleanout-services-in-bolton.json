@@ -9,7 +9,7 @@
   "description": "Garage cleanout services in Bolton from Live Junk Free are built for what actually ends up in a garage here — engine parts, heavy workshop.",
   "canonical": "https://livejunkfree.ca/locations/bolton/garage-cleanout-services-in-bolton/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Garage-Cleanout-Services-in-Bolton-735x1024.jpg"
+  "ogImage": "/images/uploads/2026/08/Garage-Cleanout-Services-in-Ajax-735x1024.jpg"
  },
  "title": "Garage Cleanout Services in Bolton",
  "h1": "Garage Cleanout Services in Bolton from Live Junk Free",
@@ -80,19 +80,19 @@
     {
      "t": "p",
      "c": [
-      "Because a garage here often isn’t just boxes and bikes — it’s engine blocks, tool chests, workshop equipment and machinery parts that weigh far more than typical household clutter. A crew that shows up expecting a standard load of cardboard and old furniture is going to struggle the moment something genuinely heavy needs lifting. Bolton’s industrial side means the crews here handle real weight regularly, and that experience carries straight into garage cleanout work."
+      "{{fact:equipmentScope}}. A crew that shows up expecting a standard load of cardboard and old furniture is going to struggle the moment something genuinely heavy needs lifting. Bolton’s industrial side means the crews here handle real weight regularly, and that experience carries straight into garage cleanout work."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Around Queen Street’s older homes, garages tend to be smaller and hold less weight, so that job leans toward patience over muscle. In North Hill and South Hill, it’s the more typical job. On the rural concessions, it’s the same flat pricing regardless of how far the property sits from downtown."
+      "Around Queen Street’s older homes, garages tend to be smaller and hold less weight, so that job leans toward patience over muscle. In North Hill and South Hill, it’s the more typical job. {{fact:changedScope}}."
      ]
     },
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Garage-Cleanout-Services-in-Bolton-scaled-rru3godh4nd138bjgetwgkryqg1dxdc1zp5dejadf4.jpg",
+      "src": "/images/uploads/elementor/thumbs/Garage-Cleanout-Services-in-Ajax-scaled-rru2wzn5zketx8x0ewh78jmetx2mpl6fy999jwh7qo.jpg",
       "alt": "Garage Cleanout Services in Bolton"
      }
     }
@@ -137,7 +137,7 @@
       },
       {
        "n": "02",
-       "title": "One flat garage cleanout price, town or concession",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Size and access set the number — never how far the property sits from downtown, and never how heavy the contents turn out to be once the crew’s actually lifting them."
@@ -159,15 +159,6 @@
        "text": [
         [
          "A crew member sees the actual contents and assesses what it’ll genuinely take to move safely before naming a number."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -209,7 +200,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Village, Distance or Rural Premium, Ever"
      ]
     },
@@ -226,12 +216,6 @@
      "t": "price",
      "label": "Bolton Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -273,7 +257,7 @@
        "title": "Book Your Garage Cleanout Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online. Mention if the garage holds genuinely heavy items — engine parts, machinery — so the crew arrives with the right equipment."
+         "Call +1 647 922 5865 or book online. {{fact:equipmentScope}}."
         ]
        ]
       },
@@ -282,7 +266,7 @@
        "title": "Get a Free On-Site Quote — Date Confirmed",
        "text": [
         [
-         "The crew looks at the actual contents, assesses the real weight involved, and gives you one flat price before anything moves."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -300,7 +284,7 @@
        "title": "Your Garage Is Usable",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready to actually park in again."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready to actually park in again."
         ]
        ]
       }
@@ -341,13 +325,7 @@
        "Garage cleanouts for genuinely heavy workshop and mechanical contents"
       ],
       [
-       "Proper multi-person crews and equipment for engine parts and machinery"
-      ],
-      [
        "No undersized team improvising with the wrong tools"
-      ],
-      [
-       "Same flat pricing as any lighter-contents garage cleanout"
       ]
      ]
     },
@@ -366,10 +344,10 @@
        "Careful, unhurried handling around established properties"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
-       "Same-day service for straightforward village access"
+       "Service for straightforward village access"
       ]
      ]
     }
@@ -387,12 +365,6 @@
      "items": [
       [
        "Garage and outbuilding cleanouts on farm and rural properties"
-      ],
-      [
-       "Same flat pricing regardless of distance from town"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ],
       [
        "Multi-structure property visits scoped and priced as one job"
@@ -414,10 +386,10 @@
        "Full sort of accumulated boxes, furniture and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -805,7 +777,7 @@
        "q": "Do rural addresses or long laneways cost extra?",
        "a": [
         [
-         "Never. The same flat pricing applies at Queen Street and eight concessions past it. "
+         "Never. {{fact:changedScope}}. "
         ]
        ]
       },

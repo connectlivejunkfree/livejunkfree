@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Not every cleanout is a whole house. Sometimes it’s just the garage that finally has to function again. The basement storage room. The shed, the office, the storage unit across town that’s been billing you monthly for boxes nobody misses. Whatever the space and whatever’s in it, the service works the same way: our fully insured Aurora crew walks it with you, quotes one free flat price, and empties it — sorted, hauled and swept — usually the same day."
+      "Not every cleanout is a whole house. Sometimes it’s just the garage that finally has to function again. The basement storage room. The shed, the office, the storage unit across town that’s been billing you monthly for boxes nobody misses. {{fact:changedScope}}."
      ]
     },
     {
@@ -97,29 +97,9 @@
      "text": "Aurora keeps us moving between very different doors: a two-car garage in Aurora Highlands that hasn't parked a car in years, a downtown office off Yonge Street changing hands, a storage locker a family inherited along with everything in it, and yes — full houses too. Live Junk Free handles the entire range with the same approach, and the Google reviews behind our name come from every one of those job types."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Small space, small price — big space, still one flat price",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Volume is the only input. A shed's worth of clutter is a modest load and billed like one; a packed double garage costs more because it fills more truck. No hourly rates, no minimum-job penalties on the small end, no scale surcharges on the large — and no Aurora address pays differently than another."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Every quote comes from standing inside the space",
-       "text": []
-      }
-     ]
+     "text": "Volume is the only input. A shed's worth of clutter is a modest load and billed like one; a packed double garage costs more because it fills more truck."
     },
     {
      "t": "h",
@@ -127,59 +107,19 @@
      "text": "Full spaces are always fuller than described — the shelf above the workbench, the crawl behind the furnace, the second layer under the tarp. So we look before we number. One free walkthrough of the actual space produces one firm figure, and you're never obliged to take it."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Approved price, closed subject",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "The quote already contains everything: crew, truck, fuel, tipping fees, the donation drop-offs. Whatever the space reveals once we're elbow-deep — heavier, dustier, more of it than anyone thought — the figure you approved is the figure on the receipt."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "We sort like the contents belonged to someone — because they did",
-       "text": []
-      }
-     ]
+     "t": "h",
+     "l": 3,
+     "text": "Even a \"junk\" space usually holds a few things that aren't: tools worth keeping, paperwork that matters, the box of photos everyone forgot. Our crews clear by setting aside anything significant and routing the usable to donation, so nothing important rides out with the genuinely done."
     },
     {
      "t": "h",
      "l": 3,
-     "text": "Even a \"junk\" space usually holds a few things that aren't: tools worth keeping, paperwork that matters, the box of photos everyone forgot. Our crews clear by sorting, setting aside anything significant and routing the usable to donation, so nothing important rides out with the genuinely done."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "The walkthrough is free and the pressure is zero",
-       "text": []
-      }
-     ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Hear the number, take your time, decide whenever. Approve it and the crew starts on the spot; decline and we leave without a fee; wait a month and the quote's still good. No deposits, no expiry dates, no follow-up campaigns."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Independent and local",
-       "text": []
-      }
-     ]
+     "text": "Hear the number, take your time, decide whenever. Approve it and the crew starts at the onsite estimate; decline and we leave without a fee; wait a month and the quote's still good. No deposits, no expiry dates, no follow-up campaigns."
     },
     {
      "t": "h",
@@ -198,12 +138,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "One Scale, One Flat Number, No Games"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Mid-size spaces like basements and full garages land in the middle. Whole homes and estates, even multi-load ones, are still quoted as a single locked figure at the free walkthrough. The scale slides with volume; the certainty never does."
+     "text": "Mid-size spaces like basements and full garages land in the middle. The scale slides with volume; the certainty never does."
     },
     {
      "t": "cards",
@@ -260,7 +195,7 @@
       {
        "title": "2. Open the Space, Hear the Number",
        "text": [
-        "Show us the garage, the basement, the unit, the office — all of it. We assess the true volume and hand over one flat, quote. Free, and \"let me think\" is always fine."
+        "Show us the garage, the basement, the unit, the office — all of it. {{fact:changedScope}}. Free, and \"let me think\" is always fine."
        ]
       },
       {
@@ -270,7 +205,7 @@
        ]
       },
       {
-       "title": "4. Swept and Sent On",
+       "title": "4. and Sent On",
        "text": [
         "The empty space gets a broom finish. The load gets a conscience: donation partners first, recyclers for metal, wood and e-waste second, and landfill only for what's left after both."
        ]
@@ -338,7 +273,7 @@
        "q": "Storage, Rental & Transition Cleanouts in Aurora",
        "a": [
         [
-         "Storage unit clear-outs — empty, swept, account closed"
+         "Storage unit clear-outs — empty, account closed"
         ],
         [
          "Tenant turnover and abandoned-belonging cleanouts"
@@ -504,7 +439,7 @@
        "q": "Q: What do cleanout services cost in Aurora?",
        "a": [
         [
-         "A: The space’s volume sets it. Every price is confirmed free and in person before work starts, and approved numbers never move."
+         "A: The space’s volume sets it. {{fact:changedScope}}."
         ]
        ]
       },
@@ -512,7 +447,7 @@
        "q": "Q: Is a single garage or basement too small a job to book?",
        "a": [
         [
-         "A: Not remotely — single-space cleanouts are the bread and butter of our Aurora schedule. A one-space job books, quotes and finishes the same day more often than not, and the volume pricing keeps it proportionally cheap."
+         "A: Not remotely — single-space cleanouts are the bread and butter of our Aurora schedule. {{fact:changedScope}}."
         ]
        ]
       },
@@ -528,7 +463,7 @@
        "q": "Q: Do you handle offices and commercial spaces, or just homes?",
        "a": [
         [
-         "A: Both, equally. Office suites, storefronts and back rooms across Aurora get the same treatment as residential jobs — a walkthrough, a flat quote, and a full clear including furniture, filing and e-waste — scheduled around business hours when needed."
+         "A: Both, equally. {{fact:changedScope}}."
         ]
        ]
       },

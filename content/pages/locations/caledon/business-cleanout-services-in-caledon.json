@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because the township’s genuine commercial stock is concentrated in Caledon East, Alton and Inglewood, while the surrounding farms and rural concessions are almost entirely houses, barns and equipment sheds, not standalone commercial buildings. Live Junk Free covers business cleanout wherever it’s genuinely needed, most commonly in one of the village cores, with the identical flat pricing extended to any rural or farm-adjacent exception."
+      "Because the township’s genuine commercial stock is concentrated in Caledon East, Alton and Inglewood, while the surrounding farms and rural concessions are almost entirely houses, barns and equipment sheds, not standalone commercial buildings. {{fact:changedScope}}."
      ]
     },
     {
@@ -136,42 +136,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "{{fact:competitorComparison}}",
-       "text": [
-        [
-         "A rural or farm-adjacent business cleanout costs exactly what the identical job costs in a village core."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Salvage-conscious business cleanout sorting for farm-adjacent operations",
-       "text": [
-        [
-         "Equipment, tools and materials tied to the agricultural trade get set aside on request rather than swept into general disposal by default."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "One flat business cleanout price, confirmed before anything moves",
-       "text": [
-        [
-         "A crew member sees the actual space and gives one flat number before anything moves."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first business cleanout sorting for fixtures and equipment",
-       "text": [
-        [
-         "Furniture, fixtures and equipment still in good condition go to donation partners or resale channels first, before anything reaches disposal."
-        ]
-       ]
-      },
-      {
        "n": "06",
        "title": "Independent business cleanout pricing",
        "text": [
@@ -203,7 +167,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the space, and how much sorting it genuinely needs. A small village-core shop is a modest job. A farm-adjacent operation with genuine equipment takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A small village-core shop is a modest job. A farm-adjacent operation with genuine equipment takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -215,8 +179,7 @@
     {
      "t": "checks",
      "items": [
-      "Hauling-Away",
-      "{{fact:competitorComparison}}"
+      "Hauling-Away"
      ]
     },
     {
@@ -232,12 +195,6 @@
      "t": "price",
      "label": "Caledon Business Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -284,15 +241,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the actual space and gives you one flat price before anything moves."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Space Gets Cleared, With a Careful Eye",
        "text": [
@@ -306,7 +254,7 @@
        "title": "Your Space Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and ready for whatever comes next."
+         "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left and ready for whatever comes next."
         ]
        ]
       }
@@ -347,19 +295,10 @@
        "Business cleanouts in Caledon East, Alton and Inglewood"
       ],
       [
-       "Straightforward scheduling for more contained properties"
+       "Donation-first checks before any belongings are recycled where possible"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
-      ],
-      [
-       "Same-day service for straightforward access"
-      ],
-      [
-       "Same flat pricing as any farm-adjacent business"
-      ],
-      [
-       "{{fact:competitorComparison}}"
+       "Service for straightforward access"
       ]
      ]
     },
@@ -373,15 +312,6 @@
      "items": [
       [
        "Business cleanouts for agricultural-trade operations tied to farm properties"
-      ],
-      [
-       "Salvage-conscious sorting for equipment and materials worth keeping"
-      ],
-      [
-       "{{fact:competitorComparison}}"
-      ],
-      [
-       "Same flat pricing regardless of distance from town"
       ],
       [
        "Careful handling around active farm operations"
@@ -407,13 +337,10 @@
        "Business cleanouts in Palgrave, Terra Cotta and Belfountain"
       ],
       [
-       "Same flat pricing as the village core or farm-adjacent properties"
-      ],
-      [
        "Discreet scheduling on request"
       ],
       [
-       "Same-day completion for most straightforward removals"
+       "Completion for most straightforward removals"
       ],
       [
        "Documentation available if the situation requires it"
@@ -438,16 +365,13 @@
        "Full sort of furniture, fixtures and equipment"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -835,7 +759,7 @@
        "q": "Is business cleanout mostly a village-core service?",
        "a": [
         [
-         "Honestly, yes — most of the township’s commercial stock is in Caledon East, Alton and Inglewood, though any rural or farm-adjacent exception gets the same flat pricing and standard of care."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -843,7 +767,7 @@
        "q": "Do rural addresses or long laneways cost extra?",
        "a": [
         [
-         "Never. The same flat pricing applies at a village-core shop and eight concessions past it."
+         "Never. {{fact:changedScope}}."
         ]
        ]
       },
@@ -851,7 +775,7 @@
        "q": "Can equipment or materials from a farm-adjacent business be saved rather than thrown out?",
        "a": [
         [
-         "Often, yes — say so at the walkthrough. Anything still worth keeping gets set aside rather than swept into general disposal."
+         "Often, yes — say so at the walkthrough. Anything still worth keeping gets set aside rather than into general disposal."
         ]
        ]
       },
@@ -1139,10 +1063,10 @@
          "Not necessarily. A full-service commercial cleanout can include the loading and hauling of unwanted materials, so businesses may not need to arrange a separate dumpster. The best option depends on the size and nature of the project."
         ],
         [
-         "39. Can one company handle sorting, loading, hauling, and disposal?"
+         "39. Can one company handle loading, hauling, and disposal?"
         ],
         [
-         "Yes. A full-service cleanout can coordinate multiple parts of the removal process, including sorting approved items, loading, hauling, and directing materials toward recycling, donation, or appropriate disposal when possible."
+         "Yes. {{fact:cleanupScope}}."
         ],
         [
          "40. How do I arrange a commercial cleanout for my Caledon business?"

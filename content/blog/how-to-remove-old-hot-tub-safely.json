@@ -88,9 +88,7 @@
       ],
       [
        {
-        "b": [
-         "Structural Risks:"
-        ]
+        "b": []
        },
        " Hot tubs are heavy and bulky. Improper removal can damage decking, landscaping, or flooring."
       ],
@@ -136,9 +134,6 @@
       ],
       [
        "Work in teams for lifting to prevent injuries."
-      ],
-      [
-       "Drain and disconnect completely before removal."
       ],
       [
        "Use protective gear at all times."
@@ -241,9 +236,6 @@
      "t": "ul",
      "items": [
       [
-       "Safety: Professionals handle heavy lifting and electrical disconnections."
-      ],
-      [
        "Efficiency: Removal is quick and hassle-free."
       ],
       [
@@ -311,9 +303,6 @@
      "items": [
       [
        "Remove cabinet panels and components to reduce weight."
-      ],
-      [
-       "Use proper tools to separate structural parts."
       ]
      ]
     },
@@ -383,7 +372,7 @@
     {
      "t": "p",
      "c": [
-      "We handle every step, from draining and dismantling to hauling away and disposing of materials responsibly. Our methods ensure hot tub removal safety and prevent property damage. With the right tools and expertise, we make even the most challenging hot tub removals stress-free."
+      "{{fact:utilityDisconnection}} Our methods ensure hot tub removal safety and prevent property damage. With the right tools and expertise, we make even the most challenging hot tub removals stress-free."
      ]
     },
     {

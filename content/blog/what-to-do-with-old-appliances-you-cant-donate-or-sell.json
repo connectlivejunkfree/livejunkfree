@@ -124,12 +124,6 @@
     {
      "t": "p",
      "c": [
-      ""
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
       "That’s why proper appliance disposal is important."
      ]
     }
@@ -294,7 +288,7 @@
        "Certain plastics can be processed"
       ],
       [
-       "Electronic components can be recycled"
+       "Electronic components can be recycled where possible"
       ],
       [
        "Other materials can be separated for appropriate processing"
@@ -342,9 +336,6 @@
       ],
       [
        "Transporting it"
-      ],
-      [
-       "Sorting materials"
       ],
       [
        "Recycling or disposing of it responsibly"
@@ -483,12 +474,6 @@
     {
      "t": "p",
      "c": [
-      ""
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
       "If your refrigerator is broken and you want it gone, don’t attempt to dismantle its cooling system yourself."
      ]
     },
@@ -496,12 +481,6 @@
      "t": "p",
      "c": [
       "Instead, use an appropriate municipal program, retailer haul-away service, or professional removal company that knows how to handle the appliance properly."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      ""
      ]
     }
    ]
@@ -583,7 +562,7 @@
     {
      "t": "p",
      "c": [
-      "For gas or electrical appliances, have the appropriate qualified professional safely disconnect utilities when required."
+      "{{fact:utilityDisconnection}}"
      ]
     },
     {
@@ -736,7 +715,7 @@
     {
      "t": "p",
      "c": [
-      "Live Junk Free offers multi-appliance removal and notes that removing multiple appliances in one visit can help customers save money."
+      "Live Junk Free offers multi-appliance removal and notes that removing multiple appliances can help customers save money."
      ]
     }
    ]
@@ -986,12 +965,6 @@
      "t": "p",
      "c": [
       "For refrigerators, Live Junk Free recommends proper preparation before removal, including dealing with food, water, and other contents."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      ""
      ]
     }
    ]
@@ -1272,12 +1245,6 @@
      "c": [
       "Working appliances may be directed toward donation or reuse, while other appliances are processed through recycling and appropriate disposal channels."
      ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "Live Junk Free also offers same-day service when availability permits."
-     ]
     }
    ]
   },
@@ -1298,7 +1265,7 @@
        ]
       },
       {
-       "title": "Can old appliances be recycled?",
+       "title": "Can old appliances be recycled where possible?",
        "text": [
         "Yes. Many appliances contain recyclable metals, plastics, electronics, and other recoverable materials. Professional recycling facilities can process these materials appropriately."
        ]
@@ -1322,7 +1289,7 @@
        ]
       },
       {
-       "title": "Can old washers and dryers be recycled?",
+       "title": "Can old washers and dryers be recycled where possible?",
        "text": [
         "Yes. Washers and dryers contain substantial amounts of metal and other materials that can be recovered through appropriate recycling processes. Live Junk Free provides washer and dryer removal with environmentally responsible recycling."
        ]

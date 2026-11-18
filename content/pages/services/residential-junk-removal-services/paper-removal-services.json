@@ -12,7 +12,7 @@
   "ogImage": "/images/uploads/2026/07/paper-removal-services-before.jpeg"
  },
  "title": "Paper Removal Services",
- "h1": "Most Trusted Paper Removal Service in Your Area",
+ "h1": "Paper Removal Service in Your Area",
  "published": "2026-07-07T05:50:00",
  "modified": "2026-07-23T06:27:02",
  "sections": [
@@ -21,7 +21,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Most Trusted Paper Removal Service in Your Area"
+     "text": "Paper Removal Service in Your Area"
     },
     {
      "t": "h",
@@ -63,7 +63,7 @@
     {
      "t": "p",
      "c": [
-      "Live Junk Free makes paper removal simple and fast. We offer a no-hassle solution to get rid of unwanted documents, stacks of files, shredded paper, or bulk office paperwork, without you having to lift a finger."
+      "Live Junk Free makes paper removal simple and fast. {{fact:changedScope}}."
      ]
     },
     {
@@ -91,7 +91,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/paper-removal-services_after.jpeg_202607142017-1024x765.jpeg",
-      "alt": "paper-removal-services",
+      "alt": "Paper Removal: Live Junk Free job photo",
       "width": 800,
       "height": 598
      }
@@ -183,7 +183,7 @@
      "c": [
       {
        "b": [
-        "Need Your Paper Removal Soon? Same-Day Removal Available"
+        "Need Your Paper Removal Soon? Same-Day Removal may be available"
        ]
       }
      ]
@@ -231,12 +231,12 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Get on our schedule instantly through our secure online portal or by phone, no lengthy forms or security questionnaires required."
+     "text": "Get on our schedule through our secure online portal or by phone, no lengthy forms or security questionnaires required."
     },
     {
      "t": "h",
      "l": 3,
-     "text": "Transparent Pricing Guaranteed"
+     "text": "Transparent Pricing"
     },
     {
      "t": "h",
@@ -277,7 +277,7 @@
        "It doesn’t matter what kind of paper materials you need removed, sensitive financial records, old personal documents, or general office files. We handle them all with the same high level of security and professionalism. Our team carefully sorts, transports, and processes all materials."
       ],
       [
-       "The best part is you don’t need to lift a finger. We handle all the sorting, packing, and removal while you supervise. When we’re finished, your space will be completely cleared and organized, ready for whatever new purpose you have in mind."
+       "The best part is you don’t need to lift a finger. We handle all the packing, and removal while you supervise. When we’re finished, your space will be completely cleared and organized, ready for whatever new purpose you have in mind."
       ]
      ]
     },
@@ -316,9 +316,6 @@
       ],
       [
        "Free estimates via phone/text/email"
-      ],
-      [
-       "Special corporate rates for bulk document removal"
       ]
      ]
     }
@@ -375,13 +372,7 @@
       {
        "title": "Send a Photo",
        "text": [
-        "Text or upload a picture of your paper clutter. We respond instantly."
-       ]
-      },
-      {
-       "title": "Get a Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
+        "Text or upload a picture of your paper clutter. {{fact:scheduling}}"
        ]
       },
       {
@@ -414,11 +405,11 @@
      "images": [
       {
        "src": "/images/uploads/2026/07/paper-removal-services-before-1024x765.jpeg",
-       "alt": "paper-removal-services before"
+       "alt": "Before: Paper Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/paper-removal-services-after-1024x765.jpeg",
-       "alt": "paper-removal-services after"
+       "alt": "After: Paper Removal: Live Junk Free job photo"
       }
      ]
     }
@@ -463,22 +454,6 @@
        "a": [
         [
          "Ask about available pickup times"
-        ]
-       ]
-      },
-      {
-       "q": "Do you recycle all collected paper waste?",
-       "a": [
-        [
-         ""
-        ]
-       ]
-      },
-      {
-       "q": "Do I need to bundle or bag my paper waste?",
-       "a": [
-        [
-         "Pre-sorting is appreciated but not required. Our team brings secure containers and handles all preparation work during the removal process."
         ]
        ]
       },

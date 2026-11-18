@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Live Junk Free provides hot tub removal services in Oshawa — a wartime-home backyard, a rental unit between tenants, or a rural Columbus property — for one flat price covering draining, disconnecting, cutting the shell into sections, and same-day haul-away when available."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Hot tub removal is a full-service process that takes an unwanted hot tub from installed to gone in a single visit: the water is drained, any electrical connection is safely disconnected, the shell is cut into sections small enough to carry out, and every piece is hauled away for recycling or disposal. It covers every hot tub type and every property type across Oshawa, from a decades-old wartime home to a rental unit near the colleges to a rural property in Columbus or Raglan. Live Junk Free provides this as one flat-rate service, scoped and priced like a proper work order at a free in-person walkthrough. The price is confirmed before any work starts and doesn’t change once the crew is on site."
+      "{{fact:utilityDisconnection}} It covers every hot tub type and every property type across Oshawa, from a decades-old wartime home to a rental unit near the colleges to a rural property in Columbus or Raglan. {{fact:changedScope}}. The price is confirmed before any work starts and doesn’t change once the crew is on site."
      ]
     },
     {
@@ -127,15 +127,6 @@
        "text": [
         [
          "Removal books between move-out and move-in, documented for the landlord’s file, so the unit turns over on the date the next lease needs."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Free on-site quotes for homes, rentals and rural properties alike",
-       "text": [
-        [
-         "A crew member walks the tub and gives one flat number before anything happens, whatever the property type."
         ]
        ]
       },
@@ -189,7 +180,7 @@
     {
      "t": "p",
      "c": [
-      "Hot tub removal in Oshawa typically runs from a modest fee for a small portable spa up to a higher flat price for a full six-or-seven-seat unit, confirmed for free at an on-site walkthrough."
+      "{{fact:changedScope}}."
      ]
     },
     {
@@ -201,7 +192,6 @@
     {
      "t": "checks",
      "items": [
-      "Drain + Disconnect + Cut-Out + Haul-Away",
       "No Rooftop Surcharges"
      ]
     },
@@ -250,7 +240,7 @@
     {
      "t": "p",
      "c": [
-      "A hot tub removal appointment follows four steps: booking, a free on-site quote, the drain-and-cut-out process, and same-day haul-away when available."
+      "{{fact:utilityDisconnection}}"
      ]
     }
    ]
@@ -266,33 +256,6 @@
        "text": [
         [
          "Call +1 647 922 5865 or book online. Mention if it’s tied to a rental turnover date."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew looks at the tub, confirms any electrical is safely disconnected, checks the path out, and gives you one flat price before touching anything."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "The Tub Gets Drained, Cut and Removed",
-       "text": [
-        [
-         "Water drains responsibly, the shell gets cut into sections that clear your gate or fence line."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "Your Yard Is Clear",
-       "text": [
-        [
-         "Metal components, motors and pumps are routed to recycling and the rest is disposed of responsibly."
         ]
        ]
       }
@@ -367,12 +330,6 @@
        "Scheduled around your move dates"
       ],
       [
-       "Multi-unit and portfolio arrangements for landlords with several properties"
-      ],
-      [
-       "Same flat pricing regardless of who's on title"
-      ],
-      [
        "Damage or abandonment documentation available on request"
       ]
      ]
@@ -402,10 +359,7 @@
        "Newer-home removal through Windfields and Kedron"
       ],
       [
-       "Electrical disconnect coordination with your licensed electrician"
-      ],
-      [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     },
@@ -433,7 +387,7 @@
        "Discreet, unhurried scheduling that respects the family's pace"
       ],
       [
-       "Same-day completion for most straightforward removals"
+       "Completion for most straightforward removals"
       ]
      ]
     }
@@ -841,7 +795,7 @@
        "q": "Do I need to drain the hot tub myself before you arrive?",
        "a": [
         [
-         "No — draining is part of the service. No hose, pump, or prep needed beyond reasonably clear access. "
+         "{{fact:utilityDisconnection}} "
         ]
        ]
       },
@@ -849,7 +803,7 @@
        "q": "Is it safe to remove a hot tub that's still wired to electrical?",
        "a": [
         [
-         "Only once the power is confirmed off. A hardwired 240V connection needs prior disconnection by a licensed electrician. "
+         "Only once the power is confirmed off. {{fact:utilityDisconnection}} "
         ]
        ]
       }

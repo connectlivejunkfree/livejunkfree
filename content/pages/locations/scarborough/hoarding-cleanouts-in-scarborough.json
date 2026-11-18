@@ -9,7 +9,7 @@
   "description": "Hoarding cleanouts in Scarborough from Live Junk Free are handled privately, without judgment, and at a pace that respects the person and family involved.",
   "canonical": "https://livejunkfree.ca/locations/scarborough/hoarding-cleanouts-in-scarborough/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Scarborough.jpeg"
+  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Ajax.jpeg"
  },
  "title": "Hoarding Cleanouts in Scarborough",
  "h1": "Hoarding Cleanouts in Scarborough from Live Junk Free",
@@ -22,11 +22,6 @@
      "t": "h",
      "l": 1,
      "text": "Hoarding Cleanouts in Scarborough from Live Junk Free"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Hoarding cleanouts in Scarborough from Live Junk Free are handled privately, without judgment, and at a pace that respects the person and family involved — a free confidential quote, an experienced crew, and donation-first sorting throughout."
     },
     {
      "t": "ctas",
@@ -80,7 +75,7 @@
     {
      "t": "p",
      "c": [
-      "Scarborough’s original bungalow owners are aging in the same homes they moved into decades ago, and a hoarding cleanout here is often a family noticing years of accumulation building up gradually in a parent’s or relative’s house — not something that happened overnight, and not something anyone needs to explain or justify before calling. Live Junk Free handles that the way it deserves to be handled: gently, privately, and at whatever pace the household actually needs, whether that’s a single visit or several sessions spread over weeks."
+      "{{fact:scheduling}} Live Junk Free handles that the way it deserves to be handled: gently, privately, and at whatever pace the household actually needs, whether that’s a single visit or several sessions spread over weeks."
      ]
     },
     {
@@ -92,7 +87,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Scarborough-rrlomele8wzilccnj7d5lwuqi8phgunjh93hsjezyo.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Ajax-rrmzgn6andbie2zv3395ne9iklgc1ewincvh8j7pn4.jpeg",
       "alt": "Hoarding Cleanouts in Scarborough"
      }
     }
@@ -121,7 +116,7 @@
        "title": "Judgment-free hoarding cleanouts, without exception",
        "text": [
         [
-         "No commentary is made about how a home reached its current state, and no assumptions are made about the person or family involved. The crew’s focus stays entirely on clearing the space with care, from the first phone call through to the final sweep."
+         "No commentary is made about how a home reached its current state, and no assumptions are made about the person or family involved. {{fact:cleanupScope}}."
         ]
        ]
       },
@@ -130,7 +125,7 @@
        "title": "Gentle hoarding cleanout pacing for long-time bungalow-belt residents",
        "text": [
         [
-         "Where a resident has lived in their home for decades, the cleanout moves at a genuinely unhurried pace, with the resident’s own comfort and involvement respected wherever they’re able to participate — some families need one visit, others need several sessions over weeks or months, and both are treated as completely normal."
+         "{{fact:scheduling}}"
         ]
        ]
       },
@@ -153,20 +148,11 @@
        ]
       },
       {
-       "n": "05",
-       "title": "Donation-first sorting through Scarborough's community network",
-       "text": [
-        [
-         "Furniture, clothing and household goods with life left in them go to donation partners across the city’s diverse network of community organizations first, ahead of anything reaching disposal — so a family’s belongings can still help someone else even after the cleanout is done."
-        ]
-       ]
-      },
-      {
        "n": "06",
        "title": "Free on-site quotes, with an honest cost to clean out a hoarder's house",
        "text": [
         [
-         "A crew member walks the property, sees the real scope, and gives one flat number before anything moves — no guessing from a phone description, and once the work is underway."
+         "{{fact:changedScope}}."
         ]
        ]
       }
@@ -193,7 +179,7 @@
     {
      "t": "p",
      "c": [
-      "Hoarder clean out cost comes down to two honest factors: how much space is affected, and how much sorting and donation coordination the belongings actually need. A single overloaded room is a modest job on its own. A full bungalow with years of accumulation across every level — basement, main floor, sometimes an attic or garage as well — takes considerably more crew time, and the price reflects that real difference rather than a flat guess."
+      "Hoarder clean out cost comes down to two honest factors: how much space is affected, and how much donation coordination the belongings actually need. A single overloaded room is a modest job on its own. A full bungalow with years of accumulation across every level — basement, main floor, sometimes an attic or garage as well — takes considerably more crew time, and the price reflects that real difference rather than a flat guess."
      ]
     },
     {
@@ -220,7 +206,7 @@
     {
      "t": "p",
      "c": [
-      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -262,15 +248,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Respectful Walkthrough and a Flat Quote",
-       "text": [
-        [
-         "A crew member visits, sees the actual scope, and provides one flat price — with unmarked arrival if that’s preferred, and no assumptions made about the household or how it got to where it is."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Hoarding Cleanout Runs Methodically, Room by Room",
        "text": [
@@ -281,10 +258,10 @@
       },
       {
        "n": "04",
-       "title": "Hoarding Cleanout Complete — the Space Left Clean and Livable",
+       "title": "Careful Removal",
        "text": [
         [
-         "Debris is hauled the same visit where possible, donations go to local partners, and the space is left swept and safe — with follow-up visits available if the job needs to happen in stages rather than all at once."
+         "Debris is hauled the same visit where possible, donations go to local partners, and the space is left and safe — with follow-up visits available if the job needs to happen in stages rather than all at once."
         ]
        ]
       }
@@ -393,9 +370,6 @@
       ],
       [
        "Calm, unhurried crew presence regardless of how difficult the job looks at the outset"
-      ],
-      [
-       "Donation-first sorting maintained throughout, even in the most overwhelmed spaces"
       ]
      ]
     }
@@ -999,7 +973,7 @@
        "q": "What's the cost to clean out a hoarder's house in Scarborough?",
        "a": [
         [
-         "Hoarder clean out cost depends on the volume of belongings, the number of rooms affected, and how much sorting is involved — clearing one room prices modestly, a full bungalow with decades of accumulation costs more given the time required. The exact figure is confirmed free at a private walkthrough, with no obligation to proceed. "
+         "{{fact:cleanupScope}}. The exact figure is confirmed free at a private walkthrough, with no obligation to proceed. "
         ]
        ]
       },
@@ -1007,7 +981,7 @@
        "q": "What's the best way to clean out a hoarder's house?",
        "a": [
         [
-         "Professional help, a clear plan, and patience. Going in without a strategy usually causes more distress than progress. The most effective approach sorts systematically — keep, donate, recycle, dispose — respects the resident’s input wherever they’re able to give it, and moves at a pace the household can handle, sometimes across more than one visit. "
+         "Professional help, a clear plan, and patience. Going in without a strategy usually causes more distress than progress. {{fact:scheduling}} "
         ]
        ]
       },

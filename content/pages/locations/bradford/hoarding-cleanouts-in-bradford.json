@@ -9,7 +9,7 @@
   "description": "Hoarding cleanouts in Bradford from Live Junk Free happen in a town that's changed enormously in a short time — new subdivisions, new roads.",
   "canonical": "https://livejunkfree.ca/locations/bradford/hoarding-cleanouts-in-bradford/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Bradford.jpeg"
+  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Ajax.jpeg"
  },
  "title": "Hoarding Cleanouts in Bradford",
  "h1": "Hoarding Cleanouts in Bradford from Live Junk Free",
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Bradford-rrn9o9tvmokr7ozse008umjmltgejqd6iyc2ci4k28.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Hoarding-Cleanouts-in-Ajax-rrmzgn6andbie2zv3395ne9iklgc1ewincvh8j7pn4.jpeg",
       "alt": "Hoarding Cleanouts in Bradford"
      }
     }
@@ -127,7 +127,7 @@
       },
       {
        "n": "02",
-       "title": "One flat price, whatever the property or its history",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Size and scope set the number, confirmed at the walkthrough — never how long the situation took to develop or how the family finally decided to call."
@@ -148,7 +148,7 @@
        "title": "Marsh and rural property coordination, same standard",
        "text": [
         [
-         "Farm properties near the Marsh and homes in Bond Head and the rural west get the identical care and flat pricing as anything on Holland Street or downtown."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -199,7 +199,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -220,7 +219,7 @@
     {
      "t": "p",
      "c": [
-      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every hoarding cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -262,29 +261,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual space and gives one flat number before anything moves, with no obligation attached to hearing it."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room, at the Right Pace for Each Part",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at the family’s pace, with anything meaningful set aside first, always."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "A Space That's Genuinely Clean, Not Just Superficially Cleared",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable, with follow-up visits scheduled whenever the family is ready for the next one."
+         "Whatever was worked on that visit is left and usable, with follow-up visits scheduled whenever the family is ready for the next one."
         ]
        ]
       }
@@ -341,12 +322,6 @@
        "Hoarding cleanouts on properties across the rural west"
       ],
       [
-       "Same flat pricing regardless of distance from town"
-      ],
-      [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Coordination with executors or family members settling an estate"
       ]
      ]
@@ -368,12 +343,6 @@
       ],
       [
        "Multi-structure coordination where a barn or outbuilding is involved"
-      ],
-      [
-       "Same flat pricing as anywhere else in the municipality"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     },
@@ -996,7 +965,7 @@
        "q": "How much does a hoarding cleanout cost in Bradford?",
        "a": [
         [
-         "Pricing is based on how many rooms are affected and how much sorting the belongings need — never on how long the situation existed. The figure is confirmed free at a private walkthrough. "
+         "{{fact:cleanupScope}}. The figure is confirmed free at a private walkthrough. "
         ]
        ]
       },
@@ -1012,7 +981,7 @@
        "q": "Do you charge extra for farm properties near the Marsh?",
        "a": [
         [
-         "Never. The identical flat pricing applies whether the property is in Summerlyn, on Holland Street, or on a farm well out toward the Marsh. "
+         "Never. {{fact:changedScope}}. "
         ]
        ]
       },

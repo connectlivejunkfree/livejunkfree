@@ -9,7 +9,7 @@
   "description": "Cleanout services in Brampton built for full households and busy landlords — household-merge, estate, basement-apartment and hoarding cleanouts.",
   "canonical": "https://livejunkfree.ca/locations/cleanout-services-in-brampton/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/07/cleanout-services-in-brampton.jpeg"
+  "ogImage": "/images/uploads/2026/07/Cleanout-Services-in-Vaughan.jpeg"
  },
  "title": "Cleanout Services in Brampton",
  "h1": "Professional Cleanout Services in Brampton",
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Brampton built for full households and busy landlords — household-merge, estate, basement-apartment and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished swept on schedule."
+     "text": "Cleanout services in Brampton built for full households and busy landlords — household-merge, estate, basement-apartment and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished on schedule."
     },
     {
      "t": "ctas",
@@ -80,14 +80,14 @@
     {
      "t": "p",
      "c": [
-      "No city lives more life per square foot than Brampton, and its cleanouts show it — which is why our crews run every district daily. In Peel Village, the downtown core and Bramalea’s original lettered sections, it’s estate season: the city’s first family homes, held for fifty years, cleared with patience and every keepsake protected. Across Springdale, Gore and the east, it’s the Brampton signature — households merging as parents move in, the second home cleared respectfully; and basement apartments turning over between tenants at a landlord’s pace. Through Mount Pleasant and Fletcher’s in the west, young families book garage and moving cleanouts to keep growing homes livable. In Castlemore’s estate properties, full houses and grounds clear together. And along the Queen, Steeles and Torbram corridors, offices, units and storage spaces empty between chapters. The Google reviews behind Live Junk Free come from all of those addresses — flat written quotes, careful hands across generations of belongings, and spaces handed back ready for whoever’s living there next."
+      "No city lives more life per square foot than Brampton, and its cleanouts show it — which is why our crews run every district daily. In Peel Village, the downtown core and Bramalea’s original lettered sections, it’s estate season: the city’s first family homes, held for fifty years, cleared with patience and every keepsake protected. Across Springdale, Gore and the east, it’s the Brampton signature — households merging as parents move in, the second home cleared respectfully; and basement apartments turning over between tenants at a landlord’s pace. In Castlemore’s estate properties, full houses and grounds clear together. And along the Queen, Steeles and Torbram corridors, offices, units and storage spaces empty between chapters. The Google reviews behind Live Junk Free come from all of those addresses — flat written quotes, careful hands across generations of belongings, and spaces handed back ready for whoever’s living there next."
      ]
     },
     {
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/cleanout-services-in-brampton-765x1024.jpeg",
-      "alt": "cleanout-services-in-brampton",
+      "alt": "Cleanout in Brampton: Live Junk Free job photo",
       "width": 765,
       "height": 1024
      }
@@ -126,7 +126,7 @@
        "title": "Free walkthrough cleanout quotes anywhere in Brampton",
        "text": [
         [
-         "A crew lead walks the space — a basement suite, a whole Bramalea original, a Castlemore property — hears what the clearing is for, and writes one firm flat quote on the spot. Free, unhurried, no expiry — and in whatever mix of family members the decision involves, we’re patient with the conversation."
+         "{{fact:changedScope}}. Free, unhurried, no expiry — and in whatever mix of family members the decision involves, we’re patient with the conversation."
         ]
        ]
       },
@@ -144,7 +144,7 @@
        "title": "Basement-apartment turnovers at landlord speed, documented",
        "text": [
         [
-         "Second units turn over constantly in this city, and ours turn over clean: contents photographed where required, the suite cleared completely, swept and re-rentable on the turnover date — with lawful handling throughout and paperwork ready for the file. One unit or a portfolio, same standard."
+         "Second units turn over constantly in this city, and ours turn over clean: contents photographed where required, the suite cleared completely and re-rentable on the turnover date — with lawful handling throughout and paperwork ready for the file. One unit or a portfolio, same standard."
         ]
        ]
       },
@@ -153,16 +153,7 @@
        "title": "Estate cleanouts inside living homes — one floor cleared, the family undisturbed",
        "text": [
         [
-         "In multigenerational houses, an estate is often a floor, not an address. We clear a parent’s level or suite while the family keeps living around it: work zones contained, shared spaces respected, keepsakes surfacing to the family daily, and the household’s rhythm — meals, school runs, prayers — never interrupted by the work."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Independent cleanout pricing",
-       "text": [
-        [
-         "No head-office royalties inside our quotes — local crews, our own trucks, honest volume pricing."
+         "In multigenerational houses, an estate is often a floor, not an address."
         ]
        ]
       }
@@ -195,8 +186,7 @@
     {
      "t": "checks",
      "items": [
-      "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -212,12 +202,6 @@
      "t": "price",
      "label": "Brampton Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -259,7 +243,7 @@
        "title": "1. Book Your Brampton Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit. The crew lead tours the space, hears the story — a merge, an estate, a turnover, a fresh start — and writes one flat quote with a schedule that respects the household living through it."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit. {{fact:changedScope}}."
         ]
        ]
       },
@@ -274,7 +258,7 @@
       },
       {
        "n": "03",
-       "title": "3. The Cleanout Runs Contained, Sorted and Respectful",
+       "title": "3.",
        "text": [
         [
          "Donations stream one way, recycling another, true waste last — with work zones kept tidy in occupied homes, shared spaces protected, and anything meaningful that surfaces brought to the family, never binned by default."
@@ -283,10 +267,10 @@
       },
       {
        "n": "04",
-       "title": "4. Swept, Settled and Ready for the Next Arrangement",
+       "title": "4., Settled and Ready for the Next Arrangement",
        "text": [
         [
-         "The space hands back broom-swept — the suite re-rentable, the second home sale-ready, the parent’s floor at peace — with debris gone on our own trucks and donation or disposal documentation for the estate, the landlord or the family’s own file."
+         "The space hands back — the suite re-rentable, the second home sale-ready, the parent’s floor at peace — with debris gone on our own trucks and donation or disposal documentation for the estate, the landlord or the family’s own file."
         ]
        ]
       }
@@ -352,7 +336,7 @@
      "t": "ul",
      "items": [
       [
-       "Second-unit turnovers cleared, swept and re-rentable on the date"
+       "Second-unit turnovers cleared and re-rentable on the date"
       ],
       [
        "Tenant abandonment cleanouts, photographed and documented"
@@ -361,13 +345,7 @@
        "Post-eviction clearing handled lawfully and discreetly"
       ],
       [
-       "Multi-unit and portfolio arrangements on one invoice"
-      ],
-      [
        "Unit, office and storage clear-outs along the Queen and Steeles corridors"
-      ],
-      [
-       "Recurring turnover service at unchanged volume rates"
       ]
      ]
     }
@@ -397,9 +375,6 @@
       ],
       [
        "Executor and overseas-family coordination with documentation"
-      ],
-      [
-       "Donation-first sorting recorded for the estate file"
       ]
      ]
     },
@@ -425,9 +400,6 @@
       ],
       [
        "Deep-accumulation basements, cold rooms and storage spaces"
-      ],
-      [
-       "Respectful crews, first knock to final sweep"
       ]
      ]
     }
@@ -751,7 +723,7 @@
        "q": "Where do the belongings go?",
        "a": [
         [
-         "Donation first: furniture, housewares and clothing to charity partners; metals, appliances and e-waste to licensed recyclers; landfill strictly last. The split can be documented for estate files, landlords or your own records."
+         "The split can be documented for estate files, landlords or your own records."
         ]
        ]
       }

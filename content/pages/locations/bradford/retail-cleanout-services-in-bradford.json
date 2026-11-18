@@ -158,15 +158,6 @@
        ]
       },
       {
-       "n": "05",
-       "title": "",
-       "text": [
-        [
-         ""
-        ]
-       ]
-      },
-      {
        "n": "06",
        "title": "Independent retail cleanout pricing",
        "text": [
@@ -283,8 +274,7 @@
     {
      "t": "checks",
      "items": [
-      "Haul-Away",
-      "{{fact:competitorComparison}}"
+      "Haul-Away"
      ]
     },
     {
@@ -304,7 +294,7 @@
     {
      "t": "p",
      "c": [
-      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -346,29 +336,20 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Free walkthrough and one flat retail cleanout price",
-       "text": [
-        [
-         "Our crew assesses the retail floor, back rooms, packing sheds, barns and any yard storage in scope. We provide one flat price before any work begins and hold that figure through to completion."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Retail fixtures removed, premises cleared and documented",
        "text": [
         [
-         "We protect flooring, frontage and shared access first, then dismantle and remove shelving, racking, display units, crates, coolers, counters, scales, signage, remaining stock, office furniture, electronics and appliances. We photograph the premises throughout."
+         "{{fact:equipmentScope}}. We photograph the premises throughout."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Premises returned swept",
+       "title": "Premises returned",
        "text": [
         [
-         "The unit is left broom-swept and empty, outbuildings and yards included."
+         "The unit is left and empty, outbuildings and yards included."
         ]
        ]
       }
@@ -473,7 +454,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than retail cleanout services across Bradford West Gwillimbury. Our commercial junk removal handles Holland Street shops and plaza units, produce markets and farm stands, greenhouse and packing operations, offices, cafés and restaurants, workshops and the agricultural outbuildings throughout the Holland Marsh, with same-day attendance wherever access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from subdivision homes and rural properties alike. Our demolition services cover interior strip-outs, tenant improvement removal, partitions, dropped ceilings and built-in fixtures, along with sheds, drive sheds, barns, packing sheds, greenhouses, garages, decks, fences, gazebos, above-ground pools and hot tubs. Where a property requires complete clearing, we provide same-day office cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than retail cleanout services across Bradford West Gwillimbury. Our commercial junk removal handles Holland Street shops and plaza units, produce markets and farm stands, greenhouse and packing operations, offices, cafés and restaurants, workshops and the agricultural outbuildings throughout the Holland Marsh, with same-day attendance wherever access allows, subject to availability. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from subdivision homes and rural properties alike. Our demolition services cover interior strip-outs, tenant improvement removal, partitions, dropped ceilings and built-in fixtures, along with sheds, drive sheds, barns, packing sheds, greenhouses, garages, decks, fences, gazebos, above-ground pools and hot tubs. Where a property requires complete clearing, we provide same-day office cleanout when available, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -554,7 +535,7 @@
      "t": "ul",
      "items": [
       [
-       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, yard materials, and signage are removed after a tenant vacates, while multiple properties can be handled under one quote and consolidated invoice. Same-day retail cleanout services in Bradford are available where access permits."
+       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, yard materials, and signage are removed after a tenant vacates, while multiple properties can be handled under one quote and consolidated invoice. Same-day retail cleanout services when available in Bradford are available where access permits."
       ]
      ]
     }

@@ -159,7 +159,7 @@
        "Schedule adequate time for the entire process"
       ],
       [
-       "Plan for sorting, decision-making, and physical labor"
+       "Plan for decision-making, and physical labor"
       ],
       [
        "Arrange for donation pickups or disposal services in advance"
@@ -174,14 +174,9 @@
   {
    "blocks": [
     {
-     "t": "h",
-     "l": 2,
-     "text": "The Sorting Process: Making Smart Decisions"
-    },
-    {
      "t": "p",
      "c": [
-      "The core of successful storage unit cleanouts lies in effective sorting and decision-making. This process helps you identify what’s truly worth keeping."
+      "The core of successful storage unit cleanouts lies in effective decision-making. This process helps you identify what’s truly worth keeping."
      ]
     },
     {
@@ -191,7 +186,7 @@
       {
        "br": 1
       },
-      "Implement a clear sorting method during your storage unit cleanouts:"
+      ""
      ]
     },
     {
@@ -262,7 +257,7 @@
     {
      "t": "p",
      "c": [
-      "Identification of Valuables",
+      "",
       {
        "br": 1
       },
@@ -429,7 +424,7 @@
        "Comprehensive assessment of the unit’s contents"
       ],
       [
-       "Systematic sorting and categorization"
+       "Systematic categorization"
       ],
       [
        "Identification of valuable or special-handling items"
@@ -439,9 +434,6 @@
       ],
       [
        "Responsible disposal and recycling"
-      ],
-      [
-       "Final cleanup and unit preparation"
       ]
      ]
     },
@@ -542,7 +534,7 @@
      "t": "ul",
      "items": [
       [
-       "Donating usable items to local charities"
+       "{{fact:recycling}}"
       ],
       [
        "Separating materials for proper recycling"

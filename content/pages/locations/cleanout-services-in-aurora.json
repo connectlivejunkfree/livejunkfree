@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Full-property cleanout services in Aurora — estate, hoarding, whole-house and commercial cleanouts handled with care by an insured crew, quoted flat on site, sorted donation-first, and finished broom-swept the same day whenever the size allows."
+     "text": "Full-property cleanout services in Aurora — estate, hoarding, whole-house and commercial cleanouts handled with care by an insured crew, quoted flat on site, sorted donation-first, and finished the same day whenever the size allows, subject to availability."
     },
     {
      "t": "ctas",
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Cleanouts in Aurora follow life’s transitions, and our crews meet them wherever they happen. In the established streets of Aurora Heights, Regency Acres and Town Park, it’s estate and downsizing cleanouts — decades of a family’s life sorted with patience, keepsakes set aside, the home readied for its sale. Around the Yonge Street core and Aurora Village, it’s apartment, storefront and office cleanouts between chapters. Through the newer Bayview and Wellington East neighbourhoods, it’s garages, basements and moving cleanouts for busy households. And in Aurora Estates and the Hills of St Andrew, larger properties clear fully — house, outbuildings and all. The Google reviews behind Live Junk Free come from every one of those addresses, and they repeat the same praise: a flat written cleanout quote that held, crews who treated belongings like they’d belonged to their own family, and a property handed back empty, swept and ready for whatever comes next."
+      "Cleanouts in Aurora follow life’s transitions, and our crews meet them wherever they happen. In the established streets of Aurora Heights, Regency Acres and Town Park, it’s estate and downsizing cleanouts — decades of a family’s life sorted with patience, keepsakes set aside, the home readied for its sale. Around the Yonge Street core and Aurora Village, it’s apartment, storefront and office cleanouts between chapters. Through the newer Bayview and Wellington East neighbourhoods, it’s garages, basements and moving cleanouts for busy households. And in Aurora Estates and the Hills of St Andrew, larger properties clear fully — house, outbuildings and all. {{fact:changedScope}}."
      ]
     },
     {
@@ -126,7 +126,7 @@
        "title": "Free walkthrough cleanout quotes at your Aurora property",
        "text": [
         [
-         "A crew at Live Junk Free lead walks the whole space — every room, the garage, the attic nobody’s opened — and writes one firm flat quote for clearing it all. The visit is free, the number binds only us, and there’s no pressure attached; cleanouts often follow hard seasons, and the decision timeline is yours."
+         "{{fact:changedScope}}. The visit is free, the number binds only us, and there’s no pressure attached; cleanouts often follow hard seasons, and the decision timeline is yours."
         ]
        ]
       },
@@ -135,7 +135,7 @@
        "title": "Estate cleanouts handled the way family would",
        "text": [
         [
-         "When a cleanout follows a loss, the contents aren’t junk — they’re a life. Our crews work slowly where it matters: photographs, documents, jewellery and anything that looks like it means something gets set aside for the family, not swept into a bin. You can be there for all of it, some of it, or none of it — whichever helps."
+         "When a cleanout follows a loss, the contents aren’t junk — they’re a life. Our crews work slowly where it matters: photographs, documents, jewellery and anything that looks like it means something gets set aside for the family, not into a bin. You can be there for all of it, some of it, or none of it — whichever helps."
         ]
        ]
       },
@@ -145,15 +145,6 @@
        "text": [
         [
          "Overwhelmed spaces get cleared with respect: no commentary, no spectacle, unmarked scheduling on request, and a steady room-by-room method that turns the impossible back into a home. We work with families, support workers and property managers alike — and the neighbours learn nothing from us."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Donation-first sorting — a full house shouldn't mean a full landfill",
-       "text": [
-        [
-         "Cleanouts produce good things by the truckload, and ours go where they’re useful: furniture, housewares and clothing to donation partners, metals, appliances and e-waste to licensed recyclers, landfill strictly last. Documentation of the sorting is available whenever an estate or landlord file needs it."
         ]
        ]
       },
@@ -195,8 +186,7 @@
     {
      "t": "checks",
      "items": [
-      "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -212,12 +202,6 @@
      "t": "price",
      "label": "Aurora Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -259,7 +243,7 @@
        "title": "1. Book Your Aurora Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit. The crew lead tours the full property, listens to what the cleanout is for — an estate, a sale, a move, a fresh start — and writes one flat quote with the timeline that fits it."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit. {{fact:changedScope}}."
         ]
        ]
       },
@@ -283,10 +267,10 @@
       },
       {
        "n": "04",
-       "title": "4. Swept, Empty and Ready for the Next Chapter",
+       "title": "4., Empty and Ready for the Next Chapter",
        "text": [
         [
-         "The property hands back broom-swept — every room, the garage, the shed — with debris gone on our own trucks and donation or disposal documentation available for the estate, the landlord or the listing. Most single-space cleanouts finish same-day; whole homes finish on the promised date."
+         "The property hands back — every room, the garage, the shed — with debris gone on our own trucks and donation or disposal documentation available for the estate, the landlord or the listing. Most single-space cleanouts finish same-day; whole homes finish on the promised date, subject to availability."
         ]
        ]
       }
@@ -333,13 +317,10 @@
        "Downsizing clear-outs ahead of moves to smaller homes or retirement living"
       ],
       [
-       "Donation-first sorting with documentation for the estate file"
-      ],
-      [
        "Coordination with executors, realtors and out-of-town family"
       ],
       [
-       "Broom-swept, listing-ready handovers"
+       ", listing-ready handovers"
       ]
      ]
     },
@@ -365,9 +346,6 @@
       ],
       [
        "Deep-accumulation basements, garages and storage spaces"
-      ],
-      [
-       "Safe, respectful crews from first knock to final sweep"
       ]
      ]
     }
@@ -399,7 +377,7 @@
        "Storage locker and unit cleanouts, big or small"
       ],
       [
-       "Same-day completion for most single-space jobs"
+       "Completion for most single-space jobs"
       ]
      ]
     },
@@ -743,7 +721,7 @@
        "q": "How long does a whole-house cleanout take?",
        "a": [
         [
-         "Most single spaces — a garage, a basement, a locker — finish same-day. Full homes typically run one to three days depending on contents, with the schedule and the flat price both set at the walkthrough so the closing date or listing date never wobbles."
+         "Most single spaces — a garage, a basement, a locker — finish same-day. {{fact:changedScope}}, subject to availability."
         ]
        ]
       },
@@ -751,7 +729,7 @@
        "q": "Can landlords book post-tenant and eviction cleanouts?",
        "a": [
         [
-         "Yes — documented start to finish. Abandoned contents get photographed, the unit clears completely, and the space hands back swept and re-rentable, with lawful handling throughout and one invoice for the file. Portfolio arrangements welcome."
+         "Yes — documented start to finish. Abandoned contents get photographed, the unit clears completely, and the space hands back and re-rentable, with lawful handling throughout and one invoice for the file. Portfolio arrangements welcome."
         ]
        ]
       }

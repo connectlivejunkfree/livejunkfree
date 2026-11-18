@@ -6,7 +6,7 @@
  "template": "Demolition",
  "seo": {
   "title": "Flooring Demolition Services - Live JunkFree",
-  "description": "Ripping out old flooring in Toronto or GTA? Live Junk Free provides flooring demolition services & hauls away tiles, hardwood, carpet & more, same day available. Call +1 647 922 5865!",
+  "description": "Ripping out old flooring in Toronto or GTA? Live Junk Free provides flooring demolition services & hauls away tiles, hardwood, carpet & more, same day may be available. Call +1 647 922 5865!",
   "canonical": "https://livejunkfree.ca/services/junk-demolition-services/flooring-demolition-services/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/garbage-pickup-services.jpeg"
@@ -22,11 +22,6 @@
      "t": "h",
      "l": 1,
      "text": "Your Trusted Local Experts for Floor Demolition Services"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in the town"
     },
     {
      "t": "ctas",
@@ -69,7 +64,7 @@
     {
      "t": "p",
      "c": [
-      "One call to our team transforms your problematic floors into a clean, level base ready for new installations. {{fact:propertyProtection}}. For concrete floor demolition projects, we use concrete breakers and dust control systems. Flooring removals involve specialized scrapers and containment methods, while wood floor demolition requires careful de-nailing and surface preparation."
+      "One call to our team transforms your problematic floors into a clean, level base ready for new installations. {{fact:propertyProtection}}. {{fact:equipmentScope}}."
      ]
     },
     {
@@ -85,7 +80,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/concrete-demolition-services-1024x765.jpeg",
-      "alt": "concrete-demolition-services",
+      "alt": "Flooring Demolition: Live Junk Free job photo",
       "width": 800,
       "height": 598
      }
@@ -114,7 +109,7 @@
     {
      "t": "p",
      "c": [
-      "We take care of all the tough work: carefully removing demolition tile floor layers, extracting stubborn adhesives, eliminating every last nail and staple, and hauling away all debris. For concrete floor demolition, we use specialized equipment to break up and remove slabs efficiently."
+      "We take care of all the tough work: carefully removing demolition tile floor layers, extracting stubborn adhesives, eliminating every last nail and staple, and hauling away all debris. {{fact:equipmentScope}}."
      ]
     },
     {
@@ -171,12 +166,6 @@
        "Specialized scrapers and floor strippers for efficient material removal"
       ],
       [
-       "Concrete breakers and grinding equipment for slab demolition"
-      ],
-      [
-       "Dust containment systems for indoor projects"
-      ],
-      [
        "Protective gear to handle sharp debris and adhesives"
       ]
      ]
@@ -202,13 +191,7 @@
       {
        "title": "Cost Savings",
        "text": [
-        "Special pricing for whole-house or multi-room floor demolition"
-       ]
-      },
-      {
-       "title": "Flexible Scheduling",
-       "text": [
-        ""
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -221,12 +204,6 @@
        "title": "Climate-Controlled Operation",
        "text": [
         "Interior projects unaffected by outdoor weather conditions"
-       ]
-      },
-      {
-       "title": "Complete Site Prep",
-       "text": [
-        "Includes adhesive removal, leveling, and final cleaning"
        ]
       }
      ]
@@ -250,7 +227,7 @@
      "t": "ul",
      "items": [
       [
-       "Our professional team specializes in floor demolition for all property types, from small bathroom tile removal to large commercial concrete slab demolition. Our experienced crew carefully executes each project using specialized tools and techniques to protect your subfloor while efficiently demolishing all flooring materials."
+       "{{fact:equipmentScope}}. Our experienced crew carefully executes each project using specialized tools and techniques to protect your subfloor while efficiently demolishing all flooring materials."
       ],
       [
        "From single-room wood floor demolition to entire-home tile floor demolition, we handle every aspect with expert precision."
@@ -324,13 +301,7 @@
      "t": "ul",
      "items": [
       [
-       "Free same-day estimates available by phone, text, or online form"
-      ],
-      [
-       "Special discounted rates for whole-house or multiple room demolitions"
-      ],
-      [
-       "{{fact:competitorComparison}}"
+       "Free estimates available by phone, text, or online form"
       ]
      ]
     }
@@ -409,13 +380,7 @@
       {
        "title": "Send us Photos",
        "text": [
-        "Email or text pictures of your floors, and we will reply within 30 minutes with a free quote."
-       ]
-      },
-      {
-       "title": "Get Your Quote",
-       "text": [
-        "{{fact:competitorComparison}}"
+        "Email or text pictures of your floors, and we will reply with a free quote."
        ]
       },
       {
@@ -448,11 +413,11 @@
      "images": [
       {
        "src": "/images/uploads/2026/07/concrete-demolition-services-before-1024x765.jpeg",
-       "alt": "concrete-demolition-services"
+       "alt": "Before: Flooring Demolition: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/concrete-demolition-services-after-1024x765.jpeg",
-       "alt": "concrete-demolition-services after"
+       "alt": "After: Flooring Demolition: Live Junk Free job photo"
       }
      ]
     }
@@ -496,7 +461,7 @@
        "q": "Do I need to prepare the area before demolition?",
        "a": [
         [
-         "No preparation is needed – our crew handles everything from furniture moving to final cleanup. We recommend removing small valuables and fragile items as a precaution."
+         "{{fact:cleanupScope}}."
         ]
        ]
       }

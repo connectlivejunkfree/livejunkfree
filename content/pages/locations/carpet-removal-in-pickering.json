@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "We are Pickering’s trusted carpet removal team — locally operated, fully insured and built to tear out, haul away and dispose of old carpet fast. Whether it’s one bedroom, a full basement or an entire home, we come to your Pickering property, assess the job in person, hand you a completely free on-site estimate before touching a single fibre, and if you’re ready to go, your carpet is gone the same day. No delays, no drawn-out booking process, no runaround."
+      "We are Pickering’s trusted carpet removal team — locally operated, fully insured and built to tear out, haul away and dispose of old carpet fast. {{fact:scheduling}} No delays, no drawn-out booking process, no runaround."
      ]
     },
     {
@@ -94,17 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Live Junk Free is a locally owned, fully insured Pickering junk removal team that has built its reputation across Durham Region one job at a time — with Google reviews from real customers, and a crew that leaves your subfloor swept, cleared and ready for your new flooring, not buried under debris."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "You pay for the space your carpet takes up",
-       "text": []
-      }
-     ]
+     "text": "Live Junk Free is a locally owned, fully insured Pickering junk removal team that has built its reputation across Durham Region one job at a time — with Google reviews from real customers, and a crew that leaves your subfloor, cleared and ready for your new flooring, not buried under debris."
     },
     {
      "t": "h",
@@ -112,29 +102,9 @@
      "text": "Our pricing is calculated based on how much of our truck your carpet, underpad and debris fill. One room is priced small. A whole-home tear-out is priced accurately. The clock never runs. Your Pickering neighbourhood never affects your rate."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "We come to you and quote in person — every time",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "No phone estimates based on square footage guesses. We physically visit your Pickering property, look at the rooms, stairs and carpet condition, and calculate your quote based on what we actually see. That's the only accurate way to price a carpet removal job — and it's the only way we do it."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "One flat number — labour, truck, fuel, disposal",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -142,44 +112,14 @@
      "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Nothing is added afterward."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Full tear-out, not just haul-away — underpad and tack strips included",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "We don't just carry out rolls you've already cut. Our crew handles the complete job: cutting and rolling the carpet, pulling up the underpad, removing tack strips and staples on request, and sweeping the subfloor — so your space is genuinely ready for new flooring."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "You approve the price before we start — guaranteed",
-       "text": []
-      }
-     ]
+     "text": "We don't just carry out rolls you've already cut."
     },
     {
      "t": "h",
      "l": 3,
      "text": "Once you've reviewed the quote, the decision is entirely yours. Zero pressure. If you approve it, we start immediately. If you don't, we leave with no charge. And once you've approved it, that number never changes — regardless of how the job unfolds."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -252,9 +192,9 @@
      "t": "cards",
      "items": [
       {
-       "title": "1. Book Quickly, Get Confirmed Instantly",
+       "title": "1. Book Quickly, Get Confirmed",
        "text": [
-        "Call +1 647 922 5865 or use our online booking form to schedule your Pickering carpet removal in minutes. We offer same-day and next-day appointments with a 30-minute arrival notice, so you're never left waiting around, subject to scheduling."
+        "Call +1 647 922 5865 or use our online booking form to schedule your Pickering carpet removal in minutes. {{fact:scheduling}}"
        ]
       },
       {
@@ -272,7 +212,7 @@
       {
        "title": "4. Clean-Up & Responsible Disposal",
        "text": [
-        "After loading everything, we sweep the subfloor and leave the space clean and ready for your new flooring. We recycle carpet materials whenever facilities allow, keeping unnecessary waste out of landfills."
+        "{{fact:cleanupScope}}. We recycle carpet materials whenever facilities allow, keeping unnecessary waste out of landfills."
        ]
       }
      ]
@@ -289,7 +229,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Pickering is one of Durham Region's most dynamic municipalities — established lakefront homes in Frenchman's Bay, mature family neighbourhoods in Dunbarton and Rougemount with decades-old broadloom, condos and townhomes in Bay Ridges, and thousands of new homes in Seaton where builders' carpet is already being swapped for hardwood. Whatever stage your floors are at, Live Junk Free handles the tear-out and disposal with the same professional standard, transparent pricing and same-day speed every time, subject to scheduling."
+     "text": "Whatever stage your floors are at, Live Junk Free handles the tear-out and disposal with the same professional standard, transparent pricing and same-day speed every time, subject to scheduling."
     },
     {
      "t": "faq",
@@ -327,7 +267,7 @@
          "Tack strip removal Pickering"
         ],
         [
-         "Staple removal and subfloor sweep Pickering"
+         ""
         ],
         [
          "Carpet glue and adhesive debris removal Pickering"
@@ -350,7 +290,7 @@
          "Pet-damaged and odour-soaked carpet removal Pickering"
         ],
         [
-         "Bed bug and pest-affected carpet removal Pickering — sealed and discreet"
+         ""
         ],
         [
          "Commercial carpet and carpet tile removal Pickering — offices, retail units"
@@ -504,7 +444,7 @@
        "q": "Q: How much does carpet removal cost in Pickering, Ontario?",
        "a": [
         [
-         "A: Our Pickering carpet removal pricing is 100% volume-based — you pay based on how much space your carpet, underpad and debris fill in our truck, not by the hour or square foot. We provide a free on-site estimate before any work begins.. — fair, flat and final."
+         "We provide a free on-site estimate before any work begins.. — fair, flat and final."
         ]
        ]
       },
@@ -512,7 +452,7 @@
        "q": "Q: Do you offer same-day carpet removal in Pickering?",
        "a": [
         [
-         "A: Yes — same-day carpet removal is available across all of Pickering including Frenchman’s Bay, Bay Ridges, Seaton, Dunbarton, Rougemount and all surrounding Durham Region communities. Call +1 647 922 5865 to confirm today’s availability."
+         "{{fact:scheduling}} Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },
@@ -520,7 +460,7 @@
        "q": "Q: Do you tear out the carpet, or does it need to be cut and rolled already?",
        "a": [
         [
-         "A: We handle the complete tear-out. Our crew cuts, rolls and removes the carpet, pulls up the underpad, and removes tack strips and staples on request — then sweeps the subfloor so it’s ready for your new flooring. If you’ve already pulled it up yourself, we’re happy to just haul it away too."
+         "A: We handle the complete tear-out. {{fact:cleanupScope}}. If you’ve already pulled it up yourself, we’re happy to just haul it away too."
         ]
        ]
       },
@@ -536,7 +476,7 @@
        "q": "Q: Can you remove water-damaged or flooded carpet in Pickering?",
        "a": [
         [
-         "A: Yes — we remove water-damaged, flood-soaked and mould-affected carpet and underpad quickly, which is critical for preventing further damage to your subfloor. Fast, same-day removal is available for these urgent situations."
+         "A: Yes — we remove water-damaged, flood-soaked and mould-affected carpet and underpad quickly, which is critical for preventing further damage to your subfloor. Fast, same-day removal may be available for these urgent situations."
         ]
        ]
       }

@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Somewhere in your house is the thing you’ve been meaning to deal with. The recliner nobody sits in. The freezer that quit two winters ago. The rec room that slowly became a storage room. Dealing with it takes one phone call: our fully insured local crew comes to your Port Perry home, prices whatever you point at — free, on the spot — and carries it out from wherever it sits, stairs and all. Most jobs are quoted and cleared the same day you book."
+      "Somewhere in your house is the thing you’ve been meaning to deal with. The recliner nobody sits in. The freezer that quit two winters ago. The rec room that slowly became a storage room. Dealing with it takes one phone call: our fully insured crew comes to your Port Perry home, prices whatever you point at — free, at the onsite estimate — and carries it out from wherever it sits, stairs and all. Most jobs are quoted and cleared the same day you book, subject to availability."
      ]
     },
     {
@@ -94,17 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Port Perry doesn't run on advertising — it runs on recommendations traded at the marina, the arena and the Saturday market. That's exactly how Live Junk Free grew here: Google reviews from homeowners who watched our crew show up on time, quote a fair number, carry heavy things through narrow century-home hallways, and sweep up on the way out."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "Space in the truck is the whole bill",
-       "text": []
-      }
-     ]
+     "text": "Port Perry doesn't run on advertising — it runs on recommendations traded at the marina, the arena and the Saturday market. That's exactly how Live Junk Free grew here: Google reviews from homeowners who watched our crew show up on time, quote a fair number, carry heavy things through narrow century-home hallways on the way out."
     },
     {
      "t": "h",
@@ -112,29 +102,9 @@
      "text": "Quarter load, half load, full load — that's the entire menu. Your recliner pays recliner prices; your packed garage pays garage prices. We never charge by the hour, never add heavy-item fees, and never price a lakefront address differently than one in town."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "The quote happens where the junk lives",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "Descriptions over the phone always miss something — the second couch, the awkward staircase, the pile behind the pile. So our quotes happen in person, at your home, looking at the real items. The number we give at the door is free, optional, and final."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "All-in means all-in",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -142,44 +112,14 @@
      "text": "Once you've approved it, nothing that happens during the job can raise it."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Century homes need careful hands — ours are",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "A lot of Port Perry furniture has to come down staircases older than the province's highway system. {{fact:propertyProtection}}."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "No is a complete answer",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "If the quote doesn't work for you, that's the end of it — no charge for the visit, no deposit lost, no salesperson circling back next week. And if it does work, the crew starts carrying before you've finished your coffee."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "Local ownership, franchise-free prices",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -272,7 +212,7 @@
       {
        "title": "4. Tidy Finish, Thoughtful Disposal",
        "text": [
-        "We sweep where the junk sat, load up, and sort the truck's contents afterward — donations to local partners, metals and electronics to recyclers, and landfill only for what nothing else will take."
+        "{{fact:cleanupScope}}."
        ]
       }
      ]
@@ -333,7 +273,7 @@
          "Dishwashers and microwaves"
         ],
         [
-         "Drained hot water tanks, water softeners and dehumidifiers"
+         ""
         ],
         [
          "Window AC units and space heaters"
@@ -385,7 +325,7 @@
          "Scrap metal, BBQs, lawn tractors and snowblowers past saving"
         ],
         [
-         "Bed-bug-affected furniture — sealed on site, removed discreetly"
+         ""
         ]
        ]
       }
@@ -548,7 +488,7 @@
        "q": "Q: We're closing up the cottage — can you take a mixed pile of furniture, appliances and outdoor stuff in one go?",
        "a": [
         [
-         "A: That’s the ideal booking for volume pricing. Mixed loads all ride together and get priced by total truck space, so a cottage clear-out with a couch, a fridge, six patio chairs and a broken kayak is still just one simple quote."
+         "{{fact:changedScope}}. Mixed loads all ride together and get priced by total truck space, so a cottage clear-out with a couch, a fridge, six patio chairs and a broken kayak is still just one simple quote."
         ]
        ]
       }

@@ -46,3 +46,24 @@ All three options below are **git-based**: they edit those same files and commit
 - **Every change is a git commit,** so the full history is on GitHub and any file can be restored (`git revert <commit>`).
 - **Every deploy is kept on Vercel.** In Vercel → Deployments, open a previous deploy → ⋯ → **Promote to Production** (Instant Rollback). This takes seconds and needs no rebuild.
 - **Leads and email history are in Supabase** (`leads`, `lead_photos`, `email_log`), with daily backups on paid Supabase plans. On the free plan, export regularly (Table editor → Export to CSV).
+
+## Handover demo script for Manisha (QA 18 Nov, P1 release gate "Handover")
+
+Run this once the editor is built, as a 30-minute screen share, recorded for the handover pack. Each step lists what Manisha does and what should happen. Use a test page (for example a copy of `/services/residential-junk-removal-services/couch-removal-services/`) so nothing live changes during the demo.
+
+| # | Manisha does | What she should see |
+|---|---|---|
+| 1 | Sign in at `/keystatic` with her GitHub account | The list of page collections: services, locations, blog, landing pages, business facts |
+| 2 | **Edit a page:** open the test page and change one paragraph | The form shows the page's sections; the paragraph is a plain text field |
+| 3 | **Edit an FAQ:** change an answer, and add a new question and answer | The FAQ block lists each question as a pair of fields |
+| 4 | **Change an image:** upload a new photo and write its alt text | The image is stored with the page; the alt field is required |
+| 5 | **Change SEO fields:** edit the SEO title and meta description | Character guidance shows (about 60 for the title, about 155 for the description) |
+| 6 | **Preview:** save the change as a branch | A Vercel preview link appears in a couple of minutes; the change shows on the preview only |
+| 7 | **Check before publishing:** on the preview, `npm run check:content` runs automatically (GitHub check) | A claim the 18 Nov answers rule out (for example "guaranteed same-day") fails the check and blocks publishing |
+| 8 | **Publish:** merge the change | The live site updates in about 2–3 minutes |
+| 9 | **Roll back:** Vercel → Deployments → the previous deployment → Instant Rollback | The live site goes back to the previous version within seconds |
+| 10 | **Add a landing page:** create a page from the landing-page template (H1, intro, CTA, FAQ, SEO) | A new URL on the preview, with the quote form and the phone button already in place |
+| 11 | **Change a business fact:** edit the phone hours in business facts | Every page that shows the phone hours updates on the next deploy |
+| 12 | **Change a price:** edit one rate in pricing | The truck, "Junk Load from C$…" and the schema all update. `pricing-check` then flags the difference from Nav's approved card until the card record is updated too |
+
+Done when Manisha has done steps 2–9 herself, without help.

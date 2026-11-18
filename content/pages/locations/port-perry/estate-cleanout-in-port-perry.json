@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because old Port Perry’s Victorian streets and the farmhouses on the surrounding concessions genuinely hold pieces worth a proper look — furniture, china, tools, collected items that a family or an estate might want appraised before anything’s sold, donated or recycled. A crew that treats every estate cleanout as a generic clear-out risks moving through a house too quickly to notice what’s actually there. Live Junk Free sorts with that difference in mind, setting aside anything that looks like it might carry real value so a family or executor can make an informed decision rather than losing that option by accident."
+      "Because old Port Perry’s Victorian streets and the farmhouses on the surrounding concessions genuinely hold pieces worth a proper look — furniture, china, tools, collected items that a family or an estate might want appraised before anything’s sold, donated or recycled where possible. A crew that treats every estate cleanout as a generic clear-out risks moving through a house too quickly to notice what’s actually there. Live Junk Free sorts with that difference in mind, setting aside anything that looks like it might carry real value so a family or executor can make an informed decision rather than losing that option by accident."
      ]
     },
     {
@@ -92,7 +92,7 @@
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Estate-Cleanout-in-Port-Perry-from-Live-Junk-Free-rrqnhwb4vy5mka83tkdav5y8wk78kksyxor8wllnaw.jpeg",
+      "src": "/images/uploads/elementor/thumbs/Estate-Cleanout-in-Newmarket-from-Live-Junk-Free-rrqqir0ac9612m3z748y472xfxogypxxkgiin67cqg.jpeg",
       "alt": "Estate Cleanout in Port Perry from Live Junk Free"
      }
     }
@@ -131,7 +131,7 @@
        "title": "A trained eye for what might be worth keeping or appraising",
        "text": [
         [
-         "Furniture, china and collected pieces that look like they could carry real value get separated out during sorting, set aside for the family or executor rather than assumed disposable."
+         "Furniture, china and collected pieces that look like they could carry real value get separated out during set aside for the family or executor rather than assumed disposable."
         ]
        ]
       },
@@ -140,7 +140,7 @@
        "title": "No waterfront or scenic-town premium, ever",
        "text": [
         [
-         "The price reflects the size of the job and the sorting it needs — never whether the address happens to be on the water, in the antiques district, or eight concessions out on a farm."
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -167,7 +167,7 @@
        "title": "Whole-property coordination on working farms",
        "text": [
         [
-         "Where a farmhouse estate extends into a barn or outbuilding, the whole property gets scoped and quoted together, under one visit and one honest price."
+         "{{fact:scheduling}}"
         ]
        ]
       },
@@ -203,7 +203,7 @@
     {
      "t": "p",
      "c": [
-      "The starting point is always the space itself — how many rooms are affected, and how much sorting the belongings genuinely need. A single room prices modestly. A full Victorian home with generations of accumulated items, or a farmhouse with an attached barn, takes considerably more time to sort properly, and the price reflects that real scope rather than a flat guess made over the phone."
+      "{{fact:cleanupScope}}. A single room prices modestly. A full Victorian home with generations of accumulated items, or a farmhouse with an attached barn, takes considerably more time to sort properly, and the price reflects that real scope rather than a flat guess made over the phone."
      ]
     },
     {
@@ -215,7 +215,7 @@
     {
      "t": "checks",
      "items": [
-      "One Flat Price for the Whole Job",
+      "{{fact:competitorComparison}}",
       "No Waterfront, Scenic-Town or Distance Premium, Ever"
      ]
     },
@@ -232,12 +232,6 @@
      "t": "price",
      "label": "Port Perry Estate Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -284,29 +278,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual space, notes anything that calls for a careful, appraisal-minded sort, and gives one flat number before anything moves."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at the family’s pace, with anything meaningful or potentially valuable set aside first, always."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "A Property That's Clean and Ready",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable — ready for a sale, a new owner, or simply for the family to take the next step."
+         "Whatever was worked on that visit is left and usable — ready for a sale, a new owner, or simply for the family to take the next step."
         ]
        ]
       }
@@ -341,16 +317,13 @@
        "Estate cleanouts through old Port Perry's Victorian streets"
       ],
       [
-       "Careful, appraisal-minded sorting for homes with genuine antiques and collectibles"
-      ],
-      [
        "Family-initiated cleanouts handled with real patience"
       ],
       [
        "Multi-visit scheduling for homes with years of accumulation"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Documentation available for an executor or estate file"
@@ -370,9 +343,6 @@
       ],
       [
        "Seasonal access and timing planned around the property's own rhythm"
-      ],
-      [
-       "Same flat pricing as anywhere else in the township"
       ],
       [
        "Cottage and seasonal-property coordination"
@@ -404,16 +374,10 @@
        "Whole-property coordination where a barn or outbuilding is involved"
       ],
       [
-       "{{fact:competitorComparison}}"
-      ],
-      [
        "Real patience for belongings held by a farming family for generations"
       ],
       [
        "Coordination with executors settling the estate"
-      ],
-      [
-       "Same flat pricing regardless of distance from town"
       ]
      ]
     },
@@ -433,9 +397,6 @@
       ],
       [
        "Documentation provided for estate, legal or sale-related requirements"
-      ],
-      [
-       "Same flat pricing whether or not a deadline is involved"
       ],
       [
        "Discreet, respectful communication with every party involved"
@@ -810,7 +771,7 @@
        "q": "How much does an estate cleanout cost in Port Perry?",
        "a": [
         [
-         "Pricing is based on how many rooms are affected and how much sorting the belongings need — never on the property’s location. A single room prices modestly, a full home with generations of accumulation costs more given the time required."
+         "{{fact:cleanupScope}}. A single room prices modestly, a full home with generations of accumulation costs more given the time required."
         ]
        ]
       },
@@ -818,7 +779,7 @@
        "q": "The home has real antiques mixed in with everything else — how do you handle that?",
        "a": [
         [
-         "With real care. Pieces that look like they carry genuine value get set aside for a proper look rather than swept into a general donation pile, so the family or executor can decide what happens to them."
+         "With real care. Pieces that look like they carry genuine value get set aside for a proper look rather than into a general donation pile, so the family or executor can decide what happens to them."
         ]
        ]
       },
@@ -834,7 +795,7 @@
        "q": "Can you work around seasonal access to an island or waterfront property?",
        "a": [
         [
-         "Yes — tell the crew your property’s rhythm at the walkthrough and the visit gets planned around it, at the same flat price as anywhere else."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -842,7 +803,7 @@
        "q": "Can the cleanout include a barn or outbuilding, not just the farmhouse?",
        "a": [
         [
-         "Yes — it’s regular work for us on Scugog’s farm properties. The whole property gets scoped and quoted together, under one visit."
+         "Yes — it’s regular work for us on Scugog’s farm properties. {{fact:scheduling}}"
         ]
        ]
       },

@@ -83,7 +83,7 @@
     {
      "t": "p",
      "c": [
-      "Transforming your garage doesn’t happen overnight. Follow this systematic approach for the best results:"
+      "{{fact:scheduling}} Follow this systematic approach for the best results:"
      ]
     },
     {
@@ -149,9 +149,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Sweep and wash the floors"
-      ],
       [
        "Wipe down shelves and surfaces"
       ],
@@ -257,7 +254,7 @@
     {
      "t": "p",
      "c": [
-      "While the sorting and organizing aspects of a garage cleanout are manageable for most homeowners, the junk removal phase often presents significant challenges. This is where ",
+      "While the organizing aspects of a garage cleanout are manageable for most homeowners, the junk removal phase often presents significant challenges. This is where ",
       {
        "a": "/services/",
        "c": [
@@ -283,7 +280,7 @@
        "Proper Disposal: They know how to dispose of hazardous materials correctly"
       ],
       [
-       "Time Efficiency: What might take you multiple trips can be handled in one visit"
+       "Time Efficiency: What might take you multiple trips can be handled"
       ],
       [
        "Eco-Friendly Options: Many services prioritize recycling and donation over landfilling"
@@ -352,9 +349,6 @@
       ],
       [
        "Responsible Disposal: We prioritize recycling and donation"
-      ],
-      [
-       "Final Cleanup: We leave your garage ready for organization"
       ]
      ]
     }

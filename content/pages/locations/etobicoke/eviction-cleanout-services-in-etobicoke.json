@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Eviction Cleanout Services in Etobicoke | Live Junk Free",
-  "description": "Live Junk Free provides eviction cleanout services in Etobicoke to handle that work from lifting and loading through hauling and the final sweep.",
+  "description": "{{fact:cleanupScope}}.",
   "canonical": "https://livejunkfree.ca/locations/etobicoke/eviction-cleanout-services-in-etobicoke/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/09/OFFICE-CLEANOUT-SERVICES.jpeg"
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "When a tenant leaves behind a property full of unwanted belongings, the cleanout can quickly become the next challenge for a landlord or property manager. Furniture needs to be moved, appliances may need to be removed, mattresses and electronics can be left behind, and the property may need to be cleared before it can be shown or occupied again. Live Junk Free provides eviction cleanout services in Etobicoke to handle that work from lifting and loading through hauling and the final sweep."
+     "text": "When a tenant leaves behind a property full of unwanted belongings, the cleanout can quickly become the next challenge for a landlord or property manager. Furniture needs to be moved, appliances may need to be removed, mattresses and electronics can be left behind, and the property may need to be cleared before it can be shown or occupied again."
     },
     {
      "t": "ctas",
@@ -87,7 +87,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/elementor/thumbs/eviction-cleanout-services-rr0twsm2u8xtgkjom4gto2kqxytsdwvxwo5bvurnp0.jpeg",
-      "alt": "eviction-cleanout-services"
+      "alt": "Eviction Cleanout in Etobicoke: Live Junk Free job photo"
      }
     }
    ]
@@ -152,20 +152,11 @@
        ]
       },
       {
-       "n": "05",
-       "title": "Responsible Sorting of Eviction Contents",
-       "text": [
-        [
-         "Not every unwanted item needs to become landfill waste. Where possible, we sort furniture, metals and electronics for recycling, while usable goods may be directed toward donation opportunities."
-        ]
-       ]
-      },
-      {
        "n": "06",
        "title": "Insured Crew for Heavy Eviction Cleanouts",
        "text": [
         [
-         "You shouldn’t have to find extra labour to move mattresses, furniture or appliances out of a vacant property. Our trained and insured crew handles the lifting, loading, hauling and final sweep."
+         "You shouldn’t have to find extra labour to move mattresses, furniture or appliances out of a vacant property. {{fact:cleanupScope}}."
         ]
        ]
       }
@@ -309,7 +300,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -365,15 +356,6 @@
        "text": [
         [
          "Choose an appointment that fits your property schedule. Same-day or next-day service may be available depending on our schedule."
-        ]
-       ]
-      },
-      {
-       "n": "04",
-       "title": "We Clear & Sweep",
-       "text": [
-        [
-         "Our crew arrives, removes the agreed items, loads them for hauling and completes a final sweep of the cleared areas."
         ]
        ]
       }
@@ -570,7 +552,7 @@
      "t": "ul",
      "items": [
       [
-       "Smaller leftovers can be just as time-consuming as bulky furniture. We can remove accepted mattresses, clothing, trash, recyclables, yard waste and debris, followed by a final sweep of the cleared space."
+       "Smaller leftovers can be just as time-consuming as bulky furniture. {{fact:cleanupScope}}."
       ]
      ]
     }
@@ -1178,7 +1160,7 @@
        "q": "Do you offer same-day eviction cleanout services in Etobicoke?",
        "a": [
         [
-         "Same-day and next-day services may be available depending on scheduling. Weekend and evening cleanouts may also be available when appointments permit. "
+         "Same-day and next-day services may be available depending on scheduling. Weekend and evening cleanouts may also be available when appointments permit, subject to scheduling. (subject to scheduling) "
         ]
        ]
       },
@@ -1194,7 +1176,7 @@
        "q": "Can you clean out multiple apartment units?",
        "a": [
         [
-         "Yes. Live Junk Free can handle larger eviction cleanouts involving multiple units or apartment properties. Custom pricing can be provided for larger multi-unit projects. "
+         "Yes. Live Junk Free can handle larger eviction cleanouts involving multiple units or apartment properties. {{fact:changedScope}}. "
         ]
        ]
       }

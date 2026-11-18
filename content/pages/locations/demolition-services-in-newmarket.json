@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Newmarket families book everything around a calendar, and demolition is no exception here. Around historic Main Street and the older downtown streets, it’s a small structure — a fence, a shed, a bit of deck — tucked behind a heritage home and torn down with the same patience given to anything else on the property. Through Stonehaven and Summerhill Estates, it’s the most common job of all: a dead above ground pool or a rotted deck cleared over a Saturday morning, gone by the time the family sits down for dinner. Near the Davis Drive corridor, it’s the occasional business property clearing an old structure between tenants. And whatever the property type, the same rule applies everywhere in town: evenings and weekends aren’t a special favour, they’re just when the work happens to fit. The Google reviews behind Live Junk Free consistently describe the same thing — a structure gone before the weekend was over, and a workweek that never had to bend around it."
+      "Newmarket families book everything around a calendar, and demolition is no exception here. Around historic Main Street and the older downtown streets, it’s a small structure — a fence, a shed, a bit of deck — tucked behind a heritage home and torn down with the same patience given to anything else on the property. Through Stonehaven and Summerhill Estates, it’s the most common job of all: a dead above ground pool or a rotted deck cleared over a Saturday morning, gone by the time the family sits down for dinner. Near the Davis Drive corridor, it’s the occasional business property clearing an old structure between tenants. And whatever the property type, the same rule applies everywhere in town: evenings and weekends aren’t a special favour, they’re just when the work happens to fit, subject to scheduling. The Google reviews behind Live Junk Free consistently describe the same thing — a structure gone before the weekend was over, and a workweek that never had to bend around it, subject to scheduling."
      ]
     },
     {
@@ -115,7 +115,7 @@
        "title": "Weekend demolition, no premium for the privilege",
        "text": [
         [
-         "Saturday and Sunday work costs exactly what a Tuesday costs. The flat price a crew gives at the walkthrough doesn’t change based on which day the demolition actually happens."
+         "Saturday and Sunday work costs exactly what a Tuesday costs. {{fact:changedScope}}."
         ]
        ]
       },
@@ -124,7 +124,7 @@
        "title": "Free demolition quotes booked around your actual availability",
        "text": [
         [
-         "A crew member comes when you’re free — not just when it’s easy for us — walks the structure, and gives one flat price on the spot."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -133,7 +133,7 @@
        "title": "A pool or deck can genuinely disappear in one weekend",
        "text": [
         [
-         "Most single-structure demolition jobs are drained, torn down, and hauled inside a Saturday. The crew, the equipment and the schedule are all built for that kind of turnaround."
+         "{{fact:utilityDisconnection}} The crew, the equipment and the schedule are all built for that kind of turnaround."
         ]
        ]
       },
@@ -142,16 +142,7 @@
        "title": "Heritage-conscious demolition around Main Street",
        "text": [
         [
-         "Century homes downtown get the patience they’ve earned — nothing forced near original woodwork or a foundation that’s been standing since before the street had cars on it."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "{{fact:weekendPickup}}",
-       "text": [
-        [
-         "Households who can only be home after work get the same crew, the same equipment and the same flat number as anyone available at 10am on a Tuesday."
+         "{{fact:structuralDemolition}}."
         ]
        ]
       },
@@ -177,7 +168,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Demolition Cost in Newmarket — One Flat Price, Weekend Included"
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "h",
@@ -185,16 +176,10 @@
      "text": "What Every Newmarket Demolition Quote Locks Down in Advance"
     },
     {
-     "t": "p",
-     "c": [
-      "{{fact:scheduling}}"
-     ]
-    },
-    {
      "t": "checks",
      "items": [
       "Tear-Out + Haul-Away in One Quote",
-      "No Weekend or After-Hours Premiums"
+      "{{fact:pickupTimes}}"
      ]
     },
     {
@@ -262,15 +247,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get Your Free Demolition Quote",
-       "text": [
-        [
-         "The crew walks the structure and gives one flat price before touching anything, booked into whatever window your calendar has."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Demolition Runs the Weekend Away",
        "text": [
@@ -325,9 +301,6 @@
        "Above Ground Pool Demolition — frame, liner and decking torn down and hauled, older bungalow-belt installations handled with extra care"
       ],
       [
-       "Hot Tub Demolition — drained, disconnected and cut apart before removal"
-      ],
-      [
        "Jacuzzi Demolition — same process, any age of structure"
       ]
      ]
@@ -370,9 +343,6 @@
        "Garage Demolition — detached units taken down section by section"
       ],
       [
-       "Deck Demolition — wood and composite, footings addressed for an addition or rebuild"
-      ],
-      [
        "Fence Demolition — full runs or single sections"
       ],
       [
@@ -391,9 +361,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Concrete Demolition — patios, walkways and pads broken up and hauled, grading-conscious near ravine edges"
-      ],
       [
        "Flooring Demolition — old outdoor surfaces and bases removed"
       ],
@@ -673,7 +640,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {
@@ -992,7 +959,7 @@
        "q": "Can a pool or deck really be gone in one weekend?",
        "a": [
         [
-         "For most single-structure jobs, yes. The walkthrough happens whenever suits you, the quote locks in, and the crew drains, tears down and hauls away inside a Saturday so Monday starts like any other Monday. "
+         "For most single-structure jobs, yes. {{fact:utilityDisconnection}} "
         ]
        ]
       },
@@ -1008,7 +975,7 @@
        "q": "How careful are you with older buildings near Main Street?",
        "a": [
         [
-         "As careful as they deserve. Original trim, foundations and features that stay get protected before anything comes down, and the pace matches the age of the property. "
+         "As careful as they deserve. {{fact:structuralDemolition}}. "
         ]
        ]
       },

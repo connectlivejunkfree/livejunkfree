@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Demolition Services in Scarborough from Live Junk Free tear down the pools, decks and sheds that came with a postwar bungalow just as readily as anything newer, with extra attention paid wherever a property backs onto the Bluffs or a ravine system, and the same flat price everywhere in between."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "ctas",
@@ -115,16 +115,7 @@
        "title": "Demolition that reads a bungalow-belt structure's actual age",
        "text": [
         [
-         "An above ground pool or deck original to a sixties or seventies bungalow gets priced and planned around what that age typically means — corroded fasteners, buried footings, materials worth a second look — rather than treated like a five-year-old structure."
-        ]
-       ]
-      },
-      {
-       "n": "02",
-       "title": "One flat demolition price, wherever in the city the job is",
-       "text": [
-        [
-         "Structure size and material set the number — never the neighbourhood, never how close the property sits to a ravine or the Bluffs."
+         "{{fact:structuralDemolition}}."
         ]
        ]
       },
@@ -151,7 +142,7 @@
        "title": "Slope-conscious demolition near the Bluffs and ravine systems",
        "text": [
         [
-         "Work stays inside the approved footprint, grading and erosion get respected, and anything that could touch a protected slope gets flagged for the right approvals before ground is disturbed."
+         "{{fact:equipmentScope}}."
         ]
        ]
       },
@@ -173,11 +164,6 @@
     {
      "t": "eyebrow",
      "text": "DEMOLITION PRICING"
-    },
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Demolition Cost in Scarborough — One Flat Number, Bungalow to Ravine"
     },
     {
      "t": "h",
@@ -262,15 +248,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Approve One Flat Demolition Quote and a Real Date",
-       "text": [
-        [
-         "The crew walks the structure, checks for anything age- or slope-related, and gives one flat price before work starts."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Demolition Runs to the Structure's Condition and the Ground It Sits On",
        "text": [
@@ -325,9 +302,6 @@
        "Above Ground Pool Demolition — frame, liner and decking torn down and hauled, older bungalow-belt installations handled with extra care"
       ],
       [
-       "Hot Tub Demolition — drained, disconnected and cut apart before removal"
-      ],
-      [
        "Jacuzzi Demolition — same process, any age of structure"
       ]
      ]
@@ -370,9 +344,6 @@
        "Garage Demolition — detached units taken down section by section"
       ],
       [
-       "Deck Demolition — wood and composite, footings addressed for an addition or rebuild"
-      ],
-      [
        "Fence Demolition — full runs or single sections"
       ],
       [
@@ -391,9 +362,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Concrete Demolition — patios, walkways and pads broken up and hauled, grading-conscious near ravine edges"
-      ],
       [
        "Flooring Demolition — old outdoor surfaces and bases removed"
       ],
@@ -673,7 +641,7 @@
     {
      "t": "p",
      "c": [
-      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable in one visit."
+      "Need more than one structure gone? Live Junk Free handles every kind of backyard and property demolition, all bookable."
      ]
     },
     {
@@ -1000,7 +968,7 @@
        "q": "Is our home too close to the Bluffs or a ravine for demolition work?",
        "a": [
         [
-         "Not necessarily — but it does call for extra care, which is exactly how Live Junk Free treats it. Work stays inside the approved footprint, grading and erosion get respected, and anything that could touch a protected slope gets flagged for the right approvals first."
+         "Not necessarily — but it does call for extra care, which is exactly how Live Junk Free treats it. {{fact:equipmentScope}}."
         ]
        ]
       },
@@ -1008,7 +976,7 @@
        "q": "We want to add a second kitchen or an addition — can demolition clear exactly to the drawings?",
        "a": [
         [
-         "Yes, that’s how addition-prep demolition works here. The deck, shed or structure clears to the line your plans specify, so the foundation crew starts on a site that matches what they expected."
+         "Yes, that’s how addition-prep demolition works here. {{fact:structuralDemolition}}."
         ]
        ]
       },
@@ -1016,7 +984,7 @@
        "q": "What's involved in concrete or flooring demolition?",
        "a": [
         [
-         "The patio, walkway or pad gets broken up with equipment matched to its thickness, then hauled off in manageable pieces — with grading given extra thought near a ravine edge."
+         "{{fact:equipmentScope}}."
         ]
        ]
       }

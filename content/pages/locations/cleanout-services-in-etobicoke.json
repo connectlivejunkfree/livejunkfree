@@ -9,7 +9,7 @@
   "description": "Cleanout services in Etobicoke that handle stairs, condos and tight access without a surcharge — estate, downsizing.",
   "canonical": "https://livejunkfree.ca/locations/cleanout-services-in-etobicoke/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/07/cleanout-services-in-etobicoke.jpeg"
+  "ogImage": "/images/uploads/2026/07/cleanout-services-in-Newmarket.jpeg"
  },
  "title": "Cleanout Services in Etobicoke",
  "h1": "Professional Cleanout Services in Etobicoke",
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Etobicoke that handle stairs, condos and tight access without a surcharge — estate, downsizing, hoarding and rental cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished swept on schedule."
+     "text": "Cleanout services in Etobicoke that handle stairs, condos and tight access without a surcharge — estate, downsizing, hoarding and rental cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished on schedule."
     },
     {
      "t": "ctas",
@@ -87,7 +87,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/cleanout-services-in-etobicoke-765x1024.jpeg",
-      "alt": "cleanout-services-in-etobicoke",
+      "alt": "Cleanout in Etobicoke: Live Junk Free job photo",
       "width": 765,
       "height": 1024
      }
@@ -126,7 +126,7 @@
        "title": "Free walkthrough cleanout quotes that solve the access plan too",
        "text": [
         [
-         "The crew lead walks the space — bungalow, condo suite, rental unit — and plans the route while they’re at it: which door, which elevator window, where the truck can legally wait. One firm flat quote covers the clearing and the logistics both. Free, no-obligation, no expiry."
+         "The crew lead walks the space — bungalow, condo suite, rental unit — and plans the route while they’re at it: which door, which elevator window, where the truck can legally wait. {{fact:changedScope}}. Free, no-obligation, no expiry."
         ]
        ]
       },
@@ -196,7 +196,7 @@
      "t": "checks",
      "items": [
       "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -212,12 +212,6 @@
      "t": "price",
      "label": "Etobicoke Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -259,7 +253,7 @@
        "title": "Book Your Etobicoke Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit. The crew lead tours the space, plans the exit route if access is tight, hears what the cleanout is for, and writes one flat quote with a timeline that fits it."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit. {{fact:changedScope}}."
         ]
        ]
       },
@@ -283,10 +277,10 @@
       },
       {
        "n": "04",
-       "title": "Swept, Empty and Ready for What's Next",
+       "title": ", Empty and Ready for What's Next",
        "text": [
         [
-         "The space hands back broom-swept — house, suite or rental unit — with debris gone on our own trucks and donation or disposal documentation available for the estate, the landlord or your own file."
+         "The space hands back — house, suite or rental unit — with debris gone on our own trucks and donation or disposal documentation available for the estate, the landlord or your own file."
         ]
        ]
       }
@@ -336,10 +330,7 @@
        "Executor and out-of-town family coordination with documentation"
       ],
       [
-       "Donation-first sorting recorded for the estate file"
-      ],
-      [
-       "Sale-ready, broom-swept handovers"
+       "Sale-ready handovers"
       ]
      ]
     },
@@ -399,7 +390,7 @@
        "Storage unit cleanouts, any size"
       ],
       [
-       "Same-day completion for most single-space jobs"
+       "Completion for most single-space jobs"
       ]
      ]
     },

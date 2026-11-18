@@ -87,7 +87,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/elementor/thumbs/eviction-cleanout-services-rr0twsm2u8xtgkjom4gto2kqxytsdwvxwo5bvurnp0.jpeg",
-      "alt": "eviction-cleanout-services"
+      "alt": "Eviction Cleanout in Newmarket: Live Junk Free job photo"
      }
     }
    ]
@@ -148,24 +148,6 @@
        "text": [
         [
          "The final price depends on the amount of material and complexity of the job."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "Responsible Eviction Junk Sorting & Disposal",
-       "text": [
-        [
-         "We sort collected materials and prioritize responsible handling whenever possible. Furniture, metals, and electronics may be recycled, while usable goods can be directed toward donation opportunities when appropriate."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Final Sweep After Eviction Cleanout",
-       "text": [
-        [
-         "Once the unwanted belongings have been removed, our crew completes a final sweep and tidy of the cleared areas. This helps leave the property ready for inspection, repairs, renovation, listing, or its next occupant."
         ]
        ]
       }
@@ -297,7 +279,7 @@
     {
      "t": "p",
      "c": [
-      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every eviction cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -361,7 +343,7 @@
        "title": "We Remove It All",
        "text": [
         [
-         "Our crew arrives ready to handle the lifting, loading, hauling, sorting, and responsible disposal. After the unwanted items are removed, we complete a final sweep of the cleared areas."
+         "Our crew arrives ready to handle the lifting, loading, hauling, and responsible disposal. {{fact:cleanupScope}}."
         ]
        ]
       }
@@ -1152,7 +1134,7 @@
        "q": "Can I book a same-day eviction cleanout in Newmarket?",
        "a": [
         [
-         "Yes. Same-day and next-day eviction cleanout services are available when scheduling permits. Evening and weekend appointments may also be available. "
+         "Yes. {{fact:permits}} Evening and weekend appointments may also be available, subject to scheduling. (subject to scheduling) "
         ]
        ]
       },
@@ -1168,7 +1150,7 @@
        "q": "Do you clean garages and basements after an eviction?",
        "a": [
         [
-         "Yes. Our eviction cleanout service can include rooms, garages, and basements. After removing the unwanted belongings, our crew completes a final sweep and tidy of the cleared areas. "
+         "Yes. Our eviction cleanout service can include rooms, garages, and basements. {{fact:cleanupScope}}. "
         ]
        ]
       },
@@ -1176,7 +1158,7 @@
        "q": "Can you handle multiple eviction units in Newmarket?",
        "a": [
         [
-         "Yes. We can handle larger and multi-unit eviction cleanouts. "
+         "Yes. {{fact:changedScope}}. "
         ]
        ]
       }

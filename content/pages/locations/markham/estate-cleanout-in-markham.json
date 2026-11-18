@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "In Unionville and Markham Village’s heritage streets, that record sometimes matters for a family archive as much as an accountant. Near Commerce Valley and Markham Centre’s condo towers, it’s paired with the building compliance documentation those properties already require. And in the city’s many multigenerational homes, it’s often useful for showing exactly what happened to one person’s portion of a larger household’s belongings."
+      "In Unionville and Markham Village’s heritage streets, that record sometimes matters for a family archive as much as an accountant. And in the city’s many multigenerational homes, it’s often useful for showing exactly what happened to one person’s portion of a larger household’s belongings."
      ]
     },
     {
@@ -158,16 +158,7 @@
        "title": "Heritage-careful handling around Unionville",
        "text": [
         [
-         "Original trim and features that stay get protected throughout, while the sorting inside moves at whatever pace the family actually needs."
-        ]
-       ]
-      },
-      {
-       "n": "05",
-       "title": "One flat price, confirmed before anything moves",
-       "text": [
-        [
-         "{{fact:competitorComparison}}"
+         "{{fact:cleanupScope}}."
         ]
        ]
       },
@@ -203,7 +194,7 @@
     {
      "t": "p",
      "c": [
-      "The real answer is the scope of the space — how many rooms are involved, and how much sorting and donation coordination the belongings genuinely need. A single room within a larger household is a modest job. A full home with years of accumulation across multiple floors takes considerably more time, and the price reflects that honest difference rather than a flat guess made over the phone."
+      "The real answer is the scope of the space — how many rooms are involved, and how much donation coordination the belongings genuinely need. A single room within a larger household is a modest job. A full home with years of accumulation across multiple floors takes considerably more time, and the price reflects that honest difference rather than a flat guess made over the phone."
      ]
     },
     {
@@ -215,7 +206,6 @@
     {
      "t": "checks",
      "items": [
-      "One Flat Price, Documentation Included as Standard",
       "No Building or Household-Size Adjustment, Ever"
      ]
     },
@@ -232,12 +222,6 @@
      "t": "price",
      "label": "Markham Estate Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -284,29 +268,11 @@
        ]
       },
       {
-       "n": "02",
-       "title": "A Free Walkthrough and One Flat Quote",
-       "text": [
-        [
-         "A crew member sees the actual space — house, suite, or one section of a larger home — and gives one flat number before anything moves."
-        ]
-       ]
-      },
-      {
-       "n": "03",
-       "title": "Sorting Happens Room by Room, Documented as It Goes",
-       "text": [
-        [
-         "Items get separated into keep, donate, recycle and dispose categories at the family’s pace, with a record kept of where everything ends up."
-        ]
-       ]
-      },
-      {
        "n": "04",
        "title": "A Documented, Ready Space at the End",
        "text": [
         [
-         "Whatever was worked on that visit is left swept and usable, with a written or photo record available for the accountant, executor or family — no follow-up request required."
+         "Whatever was worked on that visit is left and usable, with a written or photo record available for the accountant, executor or family — no follow-up request required."
         ]
        ]
       }
@@ -410,9 +376,6 @@
        "Household routine and privacy protected around the work"
       ],
       [
-       "Same flat pricing whatever the household size"
-      ],
-      [
        "Sensitive scheduling that fits around a full home's daily life"
       ]
      ]
@@ -433,9 +396,6 @@
       ],
       [
        "Timing arranged around listing dates or closing schedules where relevant"
-      ],
-      [
-       "Same flat pricing whether or not a deadline is involved"
       ],
       [
        "Photo updates for family who live elsewhere"
@@ -813,7 +773,7 @@
        "q": "How much does an estate cleanout cost in Markham?",
        "a": [
         [
-         "Pricing is based on how many rooms are involved and how much sorting the belongings need — never on the building type or household makeup. The figure is confirmed free at a private walkthrough. "
+         "{{fact:cleanupScope}}. The figure is confirmed free at a private walkthrough. "
         ]
        ]
       },
@@ -821,7 +781,7 @@
        "q": "Do you provide documentation useful for estate accounting or tax purposes?",
        "a": [
         [
-         "Yes, as standard — a written or photo record of what was donated, recycled or disposed of is available for every estate cleanout without needing to be specifically requested."
+         "Yes, as standard — a written or photo record of what was donated, recycled where possible or disposed of is available for every estate cleanout without needing to be specifically requested."
         ]
        ]
       },

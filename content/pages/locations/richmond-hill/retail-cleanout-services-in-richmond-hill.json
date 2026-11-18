@@ -86,7 +86,7 @@
     {
      "t": "p",
      "c": [
-      "The rest of Richmond Hill’s retail runs conventionally. Hillcrest Mall units operate under centre management rules with insurance on file and booked loading. Big-box and anchor stores through the Highway 7 and Times Square district carry full-height racking and deep back-of-house. New condo podium units at the base of the Yonge towers come with a condo corporation attached — quiet hours, service corridor routes and reserved loading bays. Oak Ridges and the Bayview plazas hold independent retail with straightforward rear access. We confirm which of those you are in at the walkthrough before quoting."
+      "The rest of Richmond Hill’s retail runs conventionally. Hillcrest Mall units operate under centre management rules with insurance on file and booked loading. {{fact:equipmentScope}}. New condo podium units at the base of the Yonge towers come with a condo corporation attached — quiet hours, service corridor routes and reserved loading bays. Oak Ridges and the Bayview plazas hold independent retail with straightforward rear access. We confirm which of those you are in at the walkthrough before quoting."
      ]
     },
     {
@@ -153,7 +153,7 @@
        "title": "Big-box and anchor unit retail strip-out services",
        "text": [
         [
-         "Full-height pallet racking, mezzanine shelving, back-of-house storage systems and anchor-unit fixture packages through the Highway 7 and Times Square district. Dock access used where available, with a crew sized for the building."
+         "{{fact:equipmentScope}}. Dock access used where available, with a crew sized for the building."
         ]
        ]
       },
@@ -271,13 +271,13 @@
     {
      "t": "p",
      "c": [
-      "Your retail cleanout cost in Richmond Hill is determined by the volume of material, the fixture removal involved, and the access the unit allows. A Bayview plaza bay with a counter, shelving and remaining stock is a short job. A closed anchor unit off Highway 7 with full-height racking and deep back-of-house, or a full run of Yonge Street units cleared ahead of demolition, is a substantially larger one — and each unit is priced for what is genuinely present."
+      "Your retail cleanout cost in Richmond Hill is determined by the volume of material, the fixture removal involved, and the access the unit allows. A Bayview plaza bay with a counter, shelving and remaining stock is a short job. {{fact:equipmentScope}}."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Access is a legitimate factor and we are direct about it: a big-box unit with a dedicated dock and a condo podium unit reached through a shared service corridor inside permitted quiet hours are not equivalent jobs with identical contents. What never affects your price is which corridor you are in, how urgent the demolition or surrender date is, or how many units are involved. Each is priced on its own volume, with the rate held consistent across every unit on a multi-unit site. We confirm your figures in writing at the walkthrough and hold them through to completion."
+      "Access is a legitimate factor and we are direct about it: a big-box unit with a dedicated dock and a condo podium unit reached through a shared service corridor inside permitted quiet hours are not equivalent jobs with identical contents. What never affects your price is which corridor you are in, how urgent the demolition or surrender date is, or how many units are involved. {{fact:changedScope}}. We confirm your figures in writing at the walkthrough and hold them through to completion."
      ]
     },
     {
@@ -304,7 +304,7 @@
     {
      "t": "p",
      "c": [
-      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every retail cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -346,29 +346,20 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Free walkthrough and one flat retail cleanout price",
-       "text": [
-        [
-         "Our crew assesses the sales floor, back-of-house, stockroom, basement and any additional storage in scope. We provide one flat price per unit before any work begins, held consistent across every unit on a multi-unit site."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "Retail cleanout scheduled to your street's access rules",
        "text": [
         [
-         "We protect flooring, shared corridors and service lifts first, then dismantle and remove racking, shelving, display units, counters, coolers, signage, residual stock, office furniture, electronics and appliances. We photograph each unit throughout."
+         "{{fact:equipmentScope}}. We photograph each unit throughout."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Fixtures removed, unit swept",
+       "title": "Fixtures removed, unit",
        "text": [
         [
-         "Each space is left broom-swept and empty or for your demolition contractor to mobilise."
+         "Each space is left and empty or for your demolition contractor to mobilise."
         ]
        ]
       }
@@ -473,7 +464,7 @@
     {
      "t": "p",
      "c": [
-      "Same-day service when available covers far more than retail cleanout services across Richmond Hill. Our commercial junk removal handles mall and plaza units, condo podium commercial, big-box and anchor stores, restaurants and banquet halls, offices through the Highway 7 and Beaver Creek business district, medical and professional suites, warehouses and light-industrial space across the Newkirk and West Beaver Creek employment lands, with same-day attendance wherever access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and yard waste from condos, townhouses and detached homes in every neighbourhood. Our demolition services cover interior strip-outs, tenant improvement removal, kitchen and bar builds, warehouse racking, partitions, dropped ceilings and built-in fixtures, along with sheds, garages, decks, fences, gazebos, above-ground pools and hot tubs on residential lots. Where a property requires complete clearing, we provide same-day office cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than retail cleanout services across Richmond Hill. Our commercial junk removal handles mall and plaza units, condo podium commercial, big-box and anchor stores, restaurants and banquet halls, offices through the Highway 7 and Beaver Creek business district, medical and professional suites, warehouses and light-industrial space across the Newkirk and West Beaver Creek employment lands, with same-day attendance wherever access allows, subject to availability. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and yard waste from condos, townhouses and detached homes in every neighbourhood. {{fact:equipmentScope}}. Where a property requires complete clearing, we provide same-day office cleanout when available, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -541,7 +532,7 @@
      "t": "ul",
      "items": [
       [
-       "We handle large-format retail strip-outs throughout Highway 7, Times Square, Bayview, and Major Mackenzie. Full-height pallet racking and mezzanine shelving are dismantled, along with back-of-house storage systems and stockrooms. Fitting rooms, checkout banks, and service counters are removed as part of the same scope. Dock access is used where available, with the crew sized around the building and workload. Independent plaza units and Oak Ridges village properties can also be cleared to shell condition."
+       "We handle large-format retail strip-outs throughout Highway 7, Times Square, Bayview, and Major Mackenzie. {{fact:equipmentScope}}. Fitting rooms, checkout banks, and service counters are removed as part of the same scope. Dock access is used where available, with the crew sized around the building and workload. Independent plaza units and Oak Ridges village properties can also be cleared to shell condition."
       ]
      ]
     },
@@ -554,7 +545,7 @@
      "t": "ul",
      "items": [
       [
-       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, and signage are removed after a tenant vacates, with multiple units handled under one quote and consolidated invoice. Same-day retail cleanout services in Richmond Hill are available where access permits."
+       "We clear commercial retail units and return them to a showable shell condition for re-leasing. Abandoned fixtures, remaining stock, and signage are removed after a tenant vacates, with multiple units handled under one quote and consolidated invoice. Same-day retail cleanout services when available in Richmond Hill are available where access permits."
       ]
      ]
     }

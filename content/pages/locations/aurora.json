@@ -6,7 +6,7 @@
  "template": "TownHub",
  "seo": {
   "title": "Junk Removal Services in Aurora | Free Onsite Estimates | Live Junk Free",
-  "description": "Need junk removal in Aurora? Live Junk Free offers fast, eco-friendly & affordable junk removal services across Aurora, ON. Same-day available. Call +1 647 922 5865!",
+  "description": "Need junk removal in Aurora? Live Junk Free offers fast, eco-friendly & affordable junk removal services across Aurora, ON. Same-day may be available. Call +1 647 922 5865!",
   "canonical": "https://livejunkfree.ca/locations/aurora/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
@@ -111,47 +111,17 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We don't simply haul away junk — we deliver a seamless, affordable, and responsible experience every time. Here's why thousands of Aurora residents trust us for the best junk removal in Aurora, Ontario:"
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "01",
-       "title": "No Load Too Large",
-       "text": []
-      }
-     ]
+     "text": "We don't simply haul away junk — we deliver a seamless, affordable, and responsible experience every time."
     },
     {
      "t": "h",
      "l": 3,
-     "text": "Whether you're clearing out an entire office or disposing of bulky home appliances, junk pickup in Aurora is effortless with our trained crew. No job is too big or too complex for our experienced team."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "02",
-       "title": "Affordable, Competitive Pricing",
-       "text": []
-      }
-     ]
+     "text": "Whether you're clearing out an entire office or disposing of bulky home appliances, junk pickup in Aurora is effortless with our trained crew. or too complex for our experienced team."
     },
     {
      "t": "h",
      "l": 3,
-     "text": "We believe junk removal shouldn't drain your wallet. Our cheap junk removal Aurora Ontario rates are designed to be fair and competitive, regardless of the volume or type of waste you need removed."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "03",
-       "title": "Fully Transparent Quotes",
-       "text": []
-      }
-     ]
+     "text": "Our cheap junk removal Aurora Ontario rates are designed to be fair and competitive, regardless of the volume or type of waste you need removed."
     },
     {
      "t": "h",
@@ -159,29 +129,9 @@
      "text": "Our upfront, transparent pricing policy ensures you know exactly what you're paying before our team lifts a single item."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "04",
-       "title": "Complete End-to-End Service",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
      "text": "From demolition and debris hauling to full property cleanouts, we handle everything under one roof. Our comprehensive junk removal & disposal in Aurora covers every step so you can sit back and relax."
-    },
-    {
-     "t": "steps",
-     "items": [
-      {
-       "n": "05",
-       "title": "Responsible, Eco-Friendly Disposal",
-       "text": []
-      }
-     ]
     },
     {
      "t": "h",
@@ -189,19 +139,9 @@
      "text": "We're committed to protecting the environment we all share. Wherever possible, we divert waste from landfills by partnering with local recycling centres and ensuring responsible, eco-conscious disposal practices."
     },
     {
-     "t": "steps",
-     "items": [
-      {
-       "n": "06",
-       "title": "100% Customer Satisfaction",
-       "text": []
-      }
-     ]
-    },
-    {
      "t": "h",
      "l": 3,
-     "text": "Your peace of mind drives everything we do. From the moment you contact us to the final cleanup, our professional team works tirelessly to exceed your expectations — every single time."
+     "text": "Your peace of mind drives everything we do."
     }
    ]
   },
@@ -296,7 +236,7 @@
       {
        "title": "Eco-Responsible Disposal",
        "text": [
-        "After clearing your space, we handle all hauling and disposal responsibly. Items that can be recycled or donated are sorted accordingly, keeping as much waste as possible out of Aurora's landfills."
+        "After clearing your space, we handle all hauling and disposal responsibly. Items that can be recycled where possible or donated are sorted accordingly, keeping as much waste as possible out of Aurora's landfills."
        ]
       }
      ]
@@ -313,7 +253,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Live Junk Free offers comprehensive and cheapest junk removal services in Aurora to keep every type of property tidy and clutter-free."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "faq",
@@ -525,7 +465,7 @@
        "q": "Q5. What happens to the junk after your Aurora team removes it?",
        "a": [
         [
-         "Once we haul everything away, we carefully sort through all collected items. Anything that can be recycled is sent to recycling centres, usable items in good condition may be redirected to local donation facilities, and only what truly cannot be salvaged ends up at a licensed disposal facility. Our goal is always to minimize landfill contribution and maximize responsible reuse."
+         "Once we haul everything away, we carefully sort through all collected items. Our goal is always to minimize landfill contribution and maximize responsible reuse."
         ]
        ]
       }

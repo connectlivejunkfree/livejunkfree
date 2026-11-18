@@ -97,7 +97,7 @@
         "whole-home cleanouts"
        ]
       },
-      ". No job is too small or too big. Our team arrives on time, carefully removes items without damaging your space, and makes sure everything is taken away efficiently. If you’ve been putting off clearing out old furniture, now’s the time to get it done without the stress."
+      ". Our team arrives on time, carefully removes items without damaging your space, and makes sure everything is taken away efficiently. If you’ve been putting off clearing out old furniture, now’s the time to get it done without the stress."
      ]
     },
     {
@@ -119,7 +119,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/furniture-removal-services_before.jpg_202607142148-1024x765.jpeg",
-      "alt": "furniture-removal-services",
+      "alt": "Furniture Removal: Live Junk Free job photo",
       "width": 800,
       "height": 598
      }
@@ -136,7 +136,7 @@
     {
      "t": "p",
      "c": [
-      "Getting rid of old furniture doesn’t have to be a hassle. Whether it’s a bulky sofa, a worn-out mattress, or a heavy dresser, our team takes care of everything—from lifting and loading to leaving your space clean when we’re done. Our pricing starts at just {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), with no hidden surprises. You’ll know exactly what to expect, and we’ll handle the rest quickly and safely."
+      "Getting rid of old furniture doesn’t have to be a hassle. Whether it’s a bulky sofa, a worn-out mattress, or a heavy dresser, our team takes care of everything—from lifting and loading to leaving your space clean when we’re done. {{fact:changedScope}}. You’ll know exactly what to expect, and we’ll handle the rest quickly and safely."
      ]
     },
     {
@@ -169,12 +169,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Furniture Removal — Fast When You Need It"
+     "text": "Furniture Removal — Fast When You Need It"
     },
     {
      "t": "p",
      "c": [
-      "Need that old furniture gone today? We’ve got you covered. Our team offers quick, ",
+      "Need old furniture removed? Our team offers quick, ",
       "same-day removal when available",
       " so you don’t have to wait around or deal with the hassle."
      ]
@@ -186,7 +186,7 @@
       {
        "a": "/contact/",
        "c": [
-        "same-day when available schedule"
+        "flexible pickup schedule"
        ]
       },
       ". Once booked, our team arrives on time, ready to handle everything—from careful lifting and loading to making sure your space is left clean."
@@ -225,31 +225,25 @@
       {
        "title": "Eco-friendly disposal",
        "text": [
-        "We sort every item before it leaves your property. Wood gets recycled, metal gets processed, and anything still in good shape gets donated to local shelters and charities. Less guilt for you, less waste for the planet."
-       ]
-      },
-      {
-       "title": "Bulk removal discounts",
-       "text": [
-        "The more you need gone, the more you save. One call and everything goes — no second trips, no extra bookings."
+        "We sort every item before it leaves your property. Wood gets recycled where possible, metal gets processed, and anything still in good shape gets donated where possible. Less guilt for you, less waste for the planet."
        ]
       },
       {
        "title": "Easy booking",
        "text": [
-        "No waiting on hold, no chasing callbacks, no lengthy back-and-forth. Book your slot online or call us directly and we will lock in your appointment on the spot. Simple, fast, done."
+        "No waiting on hold, no chasing callbacks, no lengthy back-and-forth. Book your slot online or call us directly and we will lock in your appointment at the onsite estimate. Simple, fast, done."
        ]
       },
       {
        "title": "Timing confirmed at your estimate",
        "text": [
-        "Our trained crew arrives fully equipped and ready to move. What would take you an entire weekend of stress and heavy lifting, we handle swiftly and efficiently — leaving your space tidy before you have finished your morning coffee."
+        "Our crew arrives equipped to lift and carry, and we take care moving items through your home."
        ]
       },
       {
        "title": "{{fact:competitorComparison}}",
        "text": [
-        "We give you a clear, honest price based on truck volume before a single item is touched. No hidden labour fees, no disposal surcharges, no last-minute additions. The number you see upfront is the exact number on your final invoice."
+        "We give you a clear, honest price based on truck volume before a single item is touched. {{fact:changedScope}}. The number you see upfront is the exact number on your final invoice."
        ]
       }
      ]
@@ -441,11 +435,11 @@
      "images": [
       {
        "src": "/images/uploads/2026/07/furniture-removal-services_before.jpg_202607142144-1024x765.jpeg",
-       "alt": "furniture-removal-services_before"
+       "alt": "Furniture Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2026/07/furniture-removal-services_before.jpg_202607142145-1024x765.jpeg",
-       "alt": "furniture-removal-services_after"
+       "alt": "Furniture Removal: Live Junk Free job photo"
       }
      ]
     }
@@ -489,7 +483,7 @@
        "q": "What happens to my old furniture after removal?",
        "a": [
         [
-         "We prioritize eco-friendly disposal. Usable items are donated to local charities, while recyclable materials are processed responsibly. Only non-recyclable items go to the landfill, minimizing environmental impact and supporting our community."
+         "We prioritize eco-friendly disposal. Usable items are donated where possible. Only non-recyclable items go to the landfill, minimizing environmental impact and supporting our community."
         ]
        ]
       },
@@ -497,7 +491,7 @@
        "q": "How do I book your services?",
        "a": [
         [
-         "Booking is easy! Call, text, or book. Send us photos for a fast quote, then choose your preferred removal time. We respond quickly and can often schedule your pickup the same day."
+         "Booking is easy! Call, text, or book. Send us photos for a fast quote, then choose your preferred removal time. We respond quickly and can often schedule your pickup the same day, subject to availability."
         ]
        ]
       }

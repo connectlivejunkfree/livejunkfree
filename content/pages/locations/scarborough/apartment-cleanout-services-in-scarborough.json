@@ -9,7 +9,7 @@
   "description": "Apartment Cleanout Services in Scarborough for unwanted furniture, appliances, clutter, and debris. Live Junk Free makes property cleanouts simple.",
   "canonical": "https://livejunkfree.ca/locations/scarborough/apartment-cleanout-services-in-scarborough/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Apartment-Cleanout-Services-in-Schomberg.jpeg"
+  "ogImage": "/images/uploads/2026/08/Hoarding-Cleanouts-in-Ajax.jpeg"
  },
  "title": "Apartment Cleanout Services in Scarborough",
  "h1": "Apartment Cleanout Services in Scarborough from Live Junk Free",
@@ -136,17 +136,8 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Golden Mile and STC condo apartment cleanout coordination",
-       "text": [
-        [
-         "{{fact:insuranceDocs}}."
-        ]
-       ]
-      },
-      {
        "n": "03",
-       "title": "One flat apartment cleanout price, whatever the building",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "The number reflects the unit’s actual volume — never the building’s age or type."
@@ -155,7 +146,7 @@
       },
       {
        "n": "04",
-       "title": "Same-day apartment cleanout service, most of the time",
+       "title": "{{fact:pickupTimes}}",
        "text": [
         [
          "{{fact:nextAvailable}}"
@@ -203,7 +194,7 @@
     {
      "t": "p",
      "c": [
-      "The honest factor is volume — how much is actually in the unit, and how much sorting it genuinely needs. A lightly furnished unit is a modest job. A unit left full after a tenancy takes considerably more time to clear properly, and the price reflects that real difference."
+      "{{fact:cleanupScope}}. A lightly furnished unit is a modest job. A unit left full after a tenancy takes considerably more time to clear properly, and the price reflects that real difference."
      ]
     },
     {
@@ -215,7 +206,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Building-Type or Age Surcharges"
      ]
     },
@@ -236,7 +226,7 @@
     {
      "t": "p",
      "c": [
-      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide on the spot."
+      "Every apartment cleanout priced in person, by Live Junk Free — privately, respectfully, with no pressure to decide at the onsite estimate."
      ]
     },
     {
@@ -278,15 +268,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote",
-       "text": [
-        [
-         "The crew sees the actual unit and building type, and gives you one flat price before anything moves."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Apartment Gets Cleared, by the Building's Process",
        "text": [
@@ -300,7 +281,7 @@
        "title": "The Unit Is Ready",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left swept and ready for the next step."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the unit is left and ready for the next step."
         ]
        ]
       }
@@ -341,13 +322,7 @@
        "Documentation available for landlords or property managers"
       ],
       [
-       "Same flat pricing regardless of the building's age"
-      ],
-      [
-       "Same-day service where access allows"
-      ],
-      [
-       "Donation-first sorting maintained throughout"
+       "Service where access allows"
       ]
      ]
     },
@@ -370,9 +345,6 @@
       ],
       [
        "Common-area and hallway protection throughout"
-      ],
-      [
-       "Same flat pricing as any other apartment cleanout"
       ],
       [
        "One of the few crews genuinely equipped for this job"
@@ -401,13 +373,10 @@
        "Keepsakes and anything meaningful set aside first"
       ],
       [
-       "Same flat pricing as any rental turnover"
-      ],
-      [
        "Discreet, unhurried scheduling on request"
       ],
       [
-       "Same-day completion for most straightforward removals"
+       "Completion for most straightforward removals"
       ]
      ]
     },
@@ -426,16 +395,13 @@
        "Full sort of furniture, boxes and household items"
       ],
       [
-       "Donation-first checks before anything is recycled or disposed of"
-      ],
-      [
-       "Same flat pricing regardless of the season"
+       "Donation-first checks before anything is recycled where possible or disposed of"
       ],
       [
        "Quick turnaround for straightforward jobs"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }

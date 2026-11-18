@@ -13,6 +13,7 @@ import { usePathname, useRouter } from "next/navigation";
 import { useCallback, useState } from "react";
 import { submitLead } from "@/app/actions/leads";
 import { getAttribution, track } from "@/lib/tracking";
+import { firstTimeFor } from "@/lib/tracking/dedupe";
 
 export type Status = { state: "idle" | "sending" | "error"; message?: string; fields?: Record<string, string>; callUs?: boolean };
 
@@ -25,17 +26,7 @@ async function uploadPhotos(files: File[], uploads: { path: string; token: strin
   await Promise.allSettled(uploads.map((u, i) => (files[i] ? sb.storage.from("lead-photos").uploadToSignedUrl(u.path, u.token, files[i]) : null)));
 }
 
-const TRACKED = "ljf_tracked_leads";
-/** True the first time a lead id is seen in this browser session (no id: honeypot / unsaved lead → still once per submit). */
-function firstTimeFor(id: string | null): boolean {
-  if (!id) return true;
-  try {
-    const seen: string[] = JSON.parse(sessionStorage.getItem(TRACKED) ?? "[]");
-    if (seen.includes(id)) return false;
-    sessionStorage.setItem(TRACKED, JSON.stringify([...seen, id].slice(-20)));
-  } catch {}
-  return true;
-}
+const seenStore = () => { try { return sessionStorage; } catch { return null; } };
 
 export function useLeadSubmit() {
   const router = useRouter();
@@ -56,7 +47,7 @@ export function useLeadSubmit() {
           return;
         }
         if (opts.files?.length) await uploadPhotos(opts.files, res.uploads);
-        if (firstTimeFor(res.leadId)) track("generate_lead", { form_type: data.form_type, page_path: pathname, service: data.service ?? "", lead_id: res.leadId ?? "" });
+        if (firstTimeFor(res.leadId, seenStore())) track("generate_lead", { form_type: data.form_type, page_path: pathname, service: data.service ?? "", lead_id: res.leadId ?? "" });
         router.push(res.redirectTo);
       } catch {
         // Network failure: one retry happens inside the action; here we ask them to call.

@@ -24,11 +24,6 @@
      "text": "Your Trusted Local Piano Removal Experts"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "We are the best in town."
-    },
-    {
      "t": "ctas",
      "items": [
       {
@@ -169,7 +164,7 @@
     {
      "t": "p",
      "c": [
-      "We understand that timing matters – whether you’re renovating, moving, or simply tired of that unused piano taking up valuable space. That’s why we offer same-day or next-day removal services whenever possible. Our rapid response means you won’t have to wait long to enjoy your newly opened space."
+      "We understand that timing matters – whether you’re renovating, moving, or simply tired of that unused piano taking up valuable space. That’s why we offer same-day or next-day removal services when available whenever possible. Our rapid response means you won’t have to wait long to enjoy your newly opened space."
      ]
     },
     {
@@ -200,7 +195,7 @@
        "{{fact:propertyProtection}}"
       ],
       [
-       "Proper disposal, including recycling metal components or donating to schools/community centers"
+       "{{fact:recycling}}"
       ]
      ]
     },
@@ -224,64 +219,39 @@
      "text": "The Live Junk Free Advantage – Piano Removal Done Right"
     },
     {
-     "t": "h",
-     "l": 3,
-     "text": "Flexible Scheduling"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Same-day service available for urgent requests."
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Pricing"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "{{fact:competitorComparison}}"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Eco-Conscious Disposal"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "– We responsibly recycle materials and donate playable instruments to schools and community centers."
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Careful Removal"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "– We protect your home with specialized padding, floor coverings, and careful handling techniques."
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Complete Piano Removal Packages"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "– Special rates when removing multiple instruments or clearing entire music rooms."
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Licensed & Fully Insured Team"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Our trained piano removal specialists are fully insured and equipped to handle upright, baby grand, and antique pianos safely and professionally."
+     "t": "cards",
+     "items": [
+      {
+       "title": "Flexible Scheduling",
+       "text": [
+        "{{fact:sameDay}}."
+       ]
+      },
+      {
+       "title": "Clear Quotes",
+       "text": [
+        "{{fact:quoteText}} {{fact:taxNote}}."
+       ]
+      },
+      {
+       "title": "Reuse or Recycle",
+       "text": [
+        "We reuse or recycle where possible; disposal depends on the piano's condition and local facilities."
+       ]
+      },
+      {
+       "title": "Careful Handling",
+       "text": [
+        "{{fact:propertyProtection}}."
+       ]
+      },
+      {
+       "title": "Licensed & Insured",
+       "text": [
+        "{{fact:licensedInsured}}. Tell us the piano type, the floors and stairs, and the access, and we'll confirm what's involved before booking."
+       ]
+      }
+     ]
     }
    ]
   },
@@ -290,19 +260,19 @@
     {
      "t": "h",
      "l": 2,
-     "text": "We Remove ALL Types of Pianos & Keyboards!"
+     "text": "Piano & Keyboard Removal"
     },
     {
      "t": "p",
      "c": [
-      "At Live Junk Free, we specialize in removing all types of pianos:"
+      "We remove upright pianos and keyboards. For other piano types, tell us the model, the floors and stairs, and the access, and we'll confirm what's involved:"
      ]
     },
     {
      "t": "ul",
      "items": [
       [
-       "Upright Pianos Grand Piano"
+       "Upright pianos"
       ],
       [
        "Player Pianos"
@@ -373,7 +343,7 @@
       },
       {
        "src": "/images/uploads/2026/07/piano-removal-services_before.jpg_202607141949-1024x765.jpeg",
-       "alt": "piano removal services after"
+       "alt": "piano removal services before"
       }
      ]
     }
@@ -417,7 +387,7 @@
        "q": "4) What happens to the piano after it's removed?",
        "a": [
         [
-         "Others are responsibly recycled, with metal, wood, and parts separated for eco-friendly disposal. We minimize landfill waste. "
+         "Others are responsibly recycled where possible, with metal, wood, and parts separated for eco-friendly disposal. We minimize landfill waste. "
         ]
        ]
       },

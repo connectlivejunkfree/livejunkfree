@@ -9,7 +9,7 @@
   "description": "Cleanout services in Mississauga that arrive on the window you were given — condo, estate, downsizing and landlord cleanouts by an insured crew.",
   "canonical": "https://livejunkfree.ca/locations/cleanout-services-in-mississauga/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/07/cleanout-services-in-Mississauga.jpeg"
+  "ogImage": "/images/uploads/2026/07/cleanout-services-in-caledon.jpeg"
  },
  "title": "Cleanout Services in Mississauga",
  "h1": "Professional Cleanout Services in Mississauga",
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Mississauga that arrive on the window you were given — condo, estate, downsizing and landlord cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished swept on the date committed."
+     "text": "Cleanout services in Mississauga that arrive on the window you were given — condo, estate, downsizing and landlord cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished on the date committed."
     },
     {
      "t": "ctas",
@@ -87,7 +87,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2026/07/cleanout-services-in-Mississauga-765x1024.jpeg",
-      "alt": "cleanout-services-in-Mississauga",
+      "alt": "Cleanout in Mississauga: Live Junk Free job photo",
       "width": 765,
       "height": 1024
      }
@@ -126,7 +126,7 @@
        "title": "Free walkthrough cleanout quotes with a real arrival window attached",
        "text": [
         [
-         "A crew lead walks the space — condo suite, family home, rental unit — and writes one firm flat quote alongside a committed window, not a vague day. In a city built on dock slots and appointment times, we schedule cleanouts the same disciplined way."
+         "{{fact:changedScope}}. In a city built on dock slots and appointment times, we schedule cleanouts the same disciplined way."
         ]
        ]
       },
@@ -153,16 +153,7 @@
        "title": "Landlord and portfolio cleanouts that hit possession dates",
        "text": [
         [
-         "Turnover cleanouts across Mississauga’s rental towers and multi-unit buildings run on the same appointment discipline as everything else here: contents photographed, units cleared completely, and the space handed back swept and re-rentable on the exact date the next lease requires."
-        ]
-       ]
-      },
-      {
-       "n": "06",
-       "title": "Independent cleanout pricing",
-       "text": [
-        [
-         "No head-office royalties inside our quotes — local crews, our own trucks, honest volume pricing."
+         "Turnover cleanouts across Mississauga’s rental towers and multi-unit buildings run on the same appointment discipline as everything else here: contents photographed, units cleared completely, and the space handed back and re-rentable on the exact date the next lease requires."
         ]
        ]
       }
@@ -195,8 +186,7 @@
     {
      "t": "checks",
      "items": [
-      "Cleanout + Haul-Away in One Number",
-      "No Hourly Rates"
+      "Cleanout + Haul-Away in One Number"
      ]
     },
     {
@@ -212,12 +202,6 @@
      "t": "price",
      "label": "Mississauga Cleanouts Pricing",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -259,7 +243,7 @@
        "title": "Book Your Mississauga Cleanout Walkthrough",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — sets the visit. The crew lead tours the space, confirms any building requirements, hears what the cleanout is for, and writes one flat quote with a committed window."
+         "Two minutes at +1 647 922 5865 — or online — sets the visit. {{fact:changedScope}}."
         ]
        ]
       },
@@ -283,10 +267,10 @@
       },
       {
        "n": "04",
-       "title": "Swept, Empty and Ready — Exactly When Promised",
+       "title": ", Empty and Ready — Exactly When Promised",
        "text": [
         [
-         "The space hands back broom-swept — house, suite or rental unit — with debris gone on our own trucks and donation or disposal documentation available for the estate, the landlord or your own file, delivered on the date that was committed."
+         "The space hands back — house, suite or rental unit — with debris gone on our own trucks and donation or disposal documentation available for the estate, the landlord or your own file, delivered on the date that was committed."
         ]
        ]
       }
@@ -425,9 +409,6 @@
       ],
       [
        "Deep-accumulation basements and storage spaces"
-      ],
-      [
-       "Respectful crews, first knock to final sweep"
       ]
      ]
     }

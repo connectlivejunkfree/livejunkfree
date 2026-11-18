@@ -9,7 +9,7 @@
   "description": "Garage cleanout services in Bradford from Live Junk Free treat a five-year-old Summerlyn garage and a Holland Marsh farm garage.",
   "canonical": "https://livejunkfree.ca/locations/bradford/garage-cleanout-services-in-bradford/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-  "ogImage": "/images/uploads/2026/08/Garage-Cleanout-Services-in-Bradford-735x1024.jpg"
+  "ogImage": "/images/uploads/2026/08/Garage-Cleanout-Services-in-Ajax-735x1024.jpg"
  },
  "title": "Garage Cleanout Services in Bradford",
  "h1": "Garage Cleanout Services in Bradford from Live Junk Free",
@@ -86,13 +86,13 @@
     {
      "t": "p",
      "c": [
-      "Along Holland Street, it’s often a garage that’s held a family’s belongings for decades. Out toward the Marsh, a garage cleanout sometimes involves genuine agricultural equipment worth sorting with a careful eye rather than junking outright."
+      "Along Holland Street, it’s often a garage that’s held a family’s belongings for decades. {{fact:cleanupScope}}."
      ]
     },
     {
      "t": "img",
      "image": {
-      "src": "/images/uploads/elementor/thumbs/Garage-Cleanout-Services-in-Bradford-scaled-rru46ywyatcruk4mx9z7pfx4xgg08kpr9u3bo6axdc.jpg",
+      "src": "/images/uploads/elementor/thumbs/Garage-Cleanout-Services-in-Ajax-scaled-rru2wzn5zketx8x0ewh78jmetx2mpl6fy999jwh7qo.jpg",
       "alt": "Garage Cleanout Services in Bradford"
      }
     }
@@ -140,13 +140,13 @@
        "title": "Garage cleanout with real recognition of Holland Marsh agricultural equipment",
        "text": [
         [
-         "Irrigation equipment, farm tools and machinery parts found in a garage or attached structure get sorted with an eye for real value, not treated as general clutter."
+         "{{fact:equipmentScope}}."
         ]
        ]
       },
       {
        "n": "03",
-       "title": "One flat garage cleanout price, whatever the garage's age",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "Size and volume set the number, confirmed on site — it makes no difference whether the garage is three years old or thirty."
@@ -167,7 +167,7 @@
        "title": "Bond Head and rural west garage cleanout coordination",
        "text": [
         [
-         "Properties in the rural west get the identical flat pricing and careful sorting as anywhere in Summerlyn or downtown."
+         "{{fact:changedScope}}."
         ]
        ]
       },
@@ -209,7 +209,6 @@
     {
      "t": "checks",
      "items": [
-      "{{fact:competitorComparison}}",
       "No Village, Distance or Rural Premium, Ever"
      ]
     },
@@ -226,12 +225,6 @@
      "t": "price",
      "label": "Bradford Garage Cleanout",
      "value": "Contact us for a quote"
-    },
-    {
-     "t": "p",
-     "c": [
-      "{{fact:competitorComparison}}"
-     ]
     },
     {
      "t": "ctas",
@@ -278,15 +271,6 @@
        ]
       },
       {
-       "n": "02",
-       "title": "Get a Free On-Site Quote — Date Confirmed",
-       "text": [
-        [
-         "The crew looks at the actual garage and gives you one flat price before anything moves, with no obligation attached to hearing it."
-        ]
-       ]
-      },
-      {
        "n": "03",
        "title": "The Garage Gets Cleared, Sized to the Job",
        "text": [
@@ -300,7 +284,7 @@
        "title": "Your Garage Is Usable",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left swept and ready to actually park in again."
+         "Whatever’s leaving gets hauled out, donations go to local partners, and the space is left and ready to actually park in again."
         ]
        ]
       }
@@ -344,7 +328,7 @@
        "No judgment or assumption attached to the garage's age"
       ],
       [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ],
       [
        "Full sort of accumulated boxes, furniture and equipment"
@@ -363,13 +347,7 @@
        "Garage and outbuilding cleanouts on working agricultural properties near the Marsh"
       ],
       [
-       "Irrigation equipment, farm tools and machinery sorted for real value"
-      ],
-      [
        "Multi-structure coordination under one single booking"
-      ],
-      [
-       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -395,7 +373,7 @@
        "Basement and garage cleanouts where a lifetime of items has built up"
       ],
       [
-       "Donation-first checks before any belongings are recycled"
+       "Donation-first checks before any belongings are recycled where possible"
       ]
      ]
     },
@@ -411,13 +389,7 @@
        "Garage cleanouts on properties across the rural west"
       ],
       [
-       "Same flat pricing regardless of distance from town"
-      ],
-      [
-       "{{fact:competitorComparison}}"
-      ],
-      [
-       "Same-day service for straightforward access"
+       "Service for straightforward access"
       ]
      ]
     }
@@ -805,7 +777,7 @@
        "q": "Does farm equipment in a Marsh property garage get treated as junk?",
        "a": [
         [
-         "No. Irrigation equipment, tools and machinery get sorted with an eye for real value, and the family or executor decides what happens to them. "
+         "No. {{fact:equipmentScope}}. "
         ]
        ]
       },
@@ -813,7 +785,7 @@
        "q": "Do you charge extra for farm properties or long laneways?",
        "a": [
         [
-         "Never. The identical flat pricing applies whether the garage is in Summerlyn, on Holland Street, or out toward the Marsh. "
+         "Never. {{fact:changedScope}}. "
         ]
        ]
       },

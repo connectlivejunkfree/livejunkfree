@@ -233,7 +233,7 @@
     {
      "t": "p",
      "c": [
-      "This step is particularly important when a property contains belongings that should be kept, sold, donated, or recycled."
+      "This step is particularly important when a property contains belongings that should be kept, sold, donated, or recycled where possible."
      ]
     },
     {
@@ -246,12 +246,6 @@
      "t": "p",
      "c": [
       "For a commercial cleanout, the list may include desks, filing cabinets, shelving, chairs, unwanted stock, and other business equipment."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      "A useful sorting system is:"
      ]
     },
     {
@@ -302,7 +296,7 @@
     {
      "t": "p",
      "c": [
-      "Customers should identify important documents, confidential business records, valuables, and sentimental belongings before the removal team begins."
+      "{{fact:retainedItems}}"
      ]
     }
    ]
@@ -546,7 +540,7 @@
         "General waste:"
        ]
       },
-      " Items that cannot be reused or recycled may require disposal through an appropriate facility."
+      " Items that cannot be reused or recycled where possible may require disposal through an appropriate facility."
      ]
     },
     {
@@ -968,12 +962,6 @@
     {
      "t": "p",
      "c": [
-      "Tell the company about heavy furniture, appliances, machinery, and oversized objects."
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
       {
        "b": [
         "Arrange Access"
@@ -1161,7 +1149,7 @@
       {
        "title": "What happens to items after a cleanout?",
        "text": [
-        "Depending on their condition and material, items may be reused, donated, recycled, or appropriately disposed of. Some materials require specialized handling."
+        "Depending on their condition and material, items may be reused, donated, recycled where possible, or appropriately disposed of. Some materials require specialized handling."
        ]
       },
       {
