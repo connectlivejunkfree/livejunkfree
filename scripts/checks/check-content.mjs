@@ -5,7 +5,7 @@
 import { spawnSync } from "node:child_process";
 
 let code = 0;
-for (const script of ["scripts/checks/claims-lint.mjs", "scripts/checks/page-lint.mjs", "scripts/checks/qa-acceptance.mjs"]) {
+for (const script of ["scripts/checks/claims-lint.mjs", "scripts/checks/page-lint.mjs", "scripts/checks/qa-acceptance.mjs", "scripts/checks/pricing-check.mjs"]) {
   const r = spawnSync(process.execPath, [script, ...process.argv.slice(2)], { stdio: "inherit" });
   code ||= r.status ?? 1;
 }

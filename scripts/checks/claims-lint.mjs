@@ -21,7 +21,9 @@ const GLOBAL = (cfg.globalAllow ?? []).map((a) => ({ re: rx(a.re), reason: a.rea
 
 // Approved sentences from business-facts.json (status confirmed): a page sentence containing one is allowed.
 const norm = (s) => s.toLowerCase().replace(/[’‘]/g, "'").replace(/[“”]/g, '"').replace(/\s+/g, " ").replace(/[.\s]+$/, "").trim();
-const facts = JSON.parse(readFileSync(join(ROOT, "content/business-facts.json"), "utf8"));
+const pricing = JSON.parse(readFileSync(join(ROOT, "content/pricing.json"), "utf8"));
+const rate = (t) => t.replace(/\{\{rate:(\w+)\.([^}.]+)(\.n)?\}\}/g, (_m, pr, label, n) => { const v = pricing[pr]?.sizes?.find((x) => x.label === label)?.price; return v == null ? "" : n ? String(v) : `C$${v}`; });
+const facts = JSON.parse(rate(readFileSync(join(ROOT, "content/business-facts.json"), "utf8")));
 const APPROVED = [];
 for (const [k, f] of Object.entries(facts)) {
   if (!f || typeof f !== "object" || f.status !== "confirmed") continue;

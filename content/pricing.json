@@ -1,6 +1,6 @@
 {
  "_readme": "Every price shown on the site. Page text refers to these by key, e.g. {{cad_125}}. Change `value` here to update it everywhere. Formats: {{cad_125}} → $125, {{cad_125:C}} → C$125, {{cad_125:suffix}} → 125$. The two truck products (junkLoad, bedLoad) drive the interactive truck, pricing sections and the JSON-LD Offer; see docs/PRICING.md.",
- "_status": "CONFIRMED – Nav rate card (image 15 Nov 2026), approved in LJF_Akshat_Point_by_Point_Answers_18_Nov_2026.pdf",
+ "_status": "CONFIRMED – all 13 Junk Load + 7 Bed Load rates and both labour notes match Nav’s rate card as listed in LJF_Akshat_Point_by_Point_Answers_18_Nov_2026.pdf (A1). Verified 19 Nov 2026 by scripts/checks/pricing-check.mjs; see docs/client/batch-1/pricing-verification.md",
  "_note": "Exact figures from Nav’s rate card, CAD. Junk Load and Bed Load are separate schedules (not the same truck capacity; Bed Load is not bed-bug pricing). Do not add item examples or inclusions that are not on the card.",
  "junkLoad": {
   "label": "Junk Load",

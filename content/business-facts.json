@@ -38,10 +38,10 @@
   "minimumPrice": {
     "status": "confirmed",
     "question": "Answers A1.3",
-    "value": 125,
-    "display": "C$125",
-    "text": "Junk Load from C$125 (1/16 load, 1 cubic yard). The final quote depends on the items, access and work required and will be confirmed before removal begins",
-    "short": "Junk Load from C$125"
+    "value": "{{rate:junkLoad.1/16.n}}",
+    "display": "{{rate:junkLoad.1/16}}",
+    "text": "Junk Load from {{rate:junkLoad.1/16}} (1/16 load, 1 cubic yard). The final quote depends on the items, access and work required and will be confirmed before removal begins",
+    "short": "Junk Load from {{rate:junkLoad.1/16}}"
   },
   "quoteText": {
     "status": "confirmed",
@@ -152,9 +152,9 @@
   "fullLoadPrice": {
     "status": "confirmed",
     "question": "Answers A1.4",
-    "value": 655,
-    "display": "C$655",
-    "text": "A full Junk Load (16 cubic yards) is C$655"
+    "value": "{{rate:junkLoad.Full.n}}",
+    "display": "{{rate:junkLoad.Full}}",
+    "text": "A full Junk Load (16 cubic yards) is {{rate:junkLoad.Full}}"
   },
   "pricingIntro": {
     "status": "confirmed",
