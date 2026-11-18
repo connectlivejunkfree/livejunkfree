@@ -1,0 +1,308 @@
+{
+ "_readme": [
+  "Claims the 18 Nov independent QA (and the 18 Nov answers) rule out. Each category lists case-insensitive regexes ('patterns') and an allow-list ('allow') of approved phrasings.",
+  "A pattern can be a string or {\"re\": \"…\", \"flags\": \"\"} for a case-sensitive one.",
+  "The check works sentence by sentence. A hit is ALLOWED only if the same sentence matches an allow entry (each has a reason) or contains an approved sentence from content/business-facts.json (status confirmed). Allowed hits are still written to the report with their reason: nothing is silently ignored.",
+  "Locations checked: visible text, <title>, meta description, image alt text and every JSON-LD string."
+ ],
+ "globalAllow": [
+  {
+   "re": "\\b(we|live junk free)\\s+(don['’]t|do not|can['’]t|cannot|won['’]t|never)\\s+(offer|provide|promise|guarantee|take|accept|handle|do|perform|remove|disconnect|obtain|arrange)\\b",
+   "reason": "explicit disclaimer of a service we don't offer"
+  },
+  {
+   "re": "\\b(isn['’]t|is not|aren['’]t|are not|not)\\s+(guaranteed|included|promised|offered|available)\\b",
+   "reason": "explicit non-promise"
+  }
+ ],
+ "categories": {
+  "guarantees": {
+   "patterns": [
+    "\\bguarantee(d|s|ing)?\\b",
+    "\\bwe['’]ll make it right\\b",
+    "\\b100\\s?%",
+    "\\bzero[- ](damage|downtime|risk|landfill|stress|hassle)\\b",
+    "\\bno damage\\b",
+    "\\bdamage[- ]free\\b",
+    "\\beliminat(e|es|ing) the risk\\b",
+    "\\bprevent(s|ing)? (any|the) spread\\b",
+    "\\bcompletely (clean|protected|safe|empty)\\b",
+    "\\bspotless\\b",
+    "\\blivable\\b",
+    "\\binspection[- ]ready\\b",
+    "\\blease[- ]ready\\b",
+    "\\bmove[- ]in[- ]ready\\b",
+    "\\bready for (occupants|an installer|the next tenant|new tenants|the next owner)\\b",
+    "\\bleft ready\\b",
+    "\\bworry[- ]free\\b",
+    "\\brisk[- ]free\\b",
+    "\\bwithout (causing |any )*(damage|harm|a scratch)\\b",
+    "\\bno job (is )?too (big|small|tricky|large|hard)\\b",
+    "\\bnever (damage|scratch)\\b"
+   ],
+   "allow": [
+    {
+     "re": "\\b(no|can['’]t|cannot|don['’]t|doesn['’]t|never)\\b[^.]{0,30}\\bguarantee",
+     "reason": "negated guarantee (approved conditional wording)"
+    }
+   ]
+  },
+  "price": {
+   "patterns": [
+    "\\bprice is final\\b",
+    "\\bfinal price\\b[^.]{0,30}\\b(guarantee|lock|never|won['’]t)",
+    "\\b(bill|invoice|price|quote|number|figure)s? (does not|doesn['’]t|won['’]t|will not|never) (change|move|go up|increase)\\b",
+    "\\bno hidden (fees|labou?r|charges|costs|surprises)\\b",
+    "\\bno (disposal |fuel |stair |hourly )?surcharges?\\b",
+    "\\bno last[- ]minute (additions|charges|fees|surprises|add-ons)\\b",
+    "\\bno (premium|extra|emergency|weekend|after[- ]hours|hourly|travel|area) (fees?|charges?|rates?|premiums?)\\b",
+    "\\brather than a premium\\b",
+    "\\bflat[- ]pric(e|ed|ing)\\b",
+    "\\bregardless of (the )?(season|time of year|weather)\\b",
+    "\\bbest pric(e|es|ing)\\b",
+    "\\bcheapest\\b",
+    "\\bsignificantly cheaper\\b",
+    "\\b\\d+\\s?[–-]\\s?\\d+\\s?% (less|cheaper|lower|under|below|savings?)\\b",
+    "\\bspecial (project )?rates?\\b",
+    "\\bbulk\\b",
+    "\\bvolume discounts?\\b",
+    "\\bmulti-?(item|unit|device|location|shed|garage|piano)s?\\b",
+    "\\bbundl(e|es|ed|ing)\\b",
+    "\\bpair[- ]and[- ]save\\b",
+    "\\bprice[- ]match",
+    "\\bpreferred rates?\\b",
+    "\\b(all[- ]inclusive|all-in price)\\b",
+    "\\b(price|quote|rate) (is |stays )?locked\\b"
+   ],
+   "allow": [
+    {
+     "re": "\\bbulk(y)? (items?|waste|garbage|trash) (pickup|collection|day)",
+     "reason": "municipal bulk-item collection, not a discount"
+    },
+    {
+     "re": "\\bmulti-?unit (building|residential|propert|complex|dwelling)",
+     "reason": "building type, not a discount"
+    }
+   ]
+  },
+  "timing": {
+   "patterns": [
+    "\\bsame[- ]day\\b",
+    "\\bnext[- ]day\\b",
+    "\\bmost (days|of the time)\\b",
+    "\\bin most (GTA )?areas\\b",
+    "\\bacross all\\b",
+    "\\bbooked in minutes\\b",
+    "\\bgone in one visit\\b",
+    "\\bone visit\\b",
+    "\\bin one trip\\b",
+    "\\bimmediate(ly)? confirm",
+    "\\binstant(ly)?\\b",
+    "\\bwithin (a few|\\d+|one|two|an?) (minutes?|hours?)\\b",
+    "\\bunder (an|one|\\d+) hours?\\b",
+    "\\b\\d+\\s?[–-]\\s?\\d+[- ]?(hours?|hrs?|minutes?)\\b",
+    "\\b\\d+-minute\\b",
+    "\\bone minute\\b",
+    "\\b60[- ]second",
+    "24/7",
+    "\\bemergenc(y|ies)\\b",
+    "\\ball[- ]weather\\b",
+    "\\bovernight\\b",
+    "\\bafter[- ]hours\\b",
+    "\\bweekends?\\b",
+    "\\bholidays?\\b",
+    "\\bgone (today|before dinner|the same)\\b",
+    "\\bon the spot\\b"
+   ],
+   "allow": [
+    {
+     "re": "\\b(subject to (availability|scheduling)|may be available|depending on (the job|scheduling|availability|location|crew)|when available|where available|if available|crew availability|ask (our team|us) about|can['’]t (promise|guarantee)|not guaranteed)\\b",
+     "reason": "availability-qualified (Answers B2.1, Manisha follow-up)"
+    },
+    {
+     "re": "\\bholiday (season|decorations?|lights|trees?|clutter|gifts?)\\b",
+     "reason": "seasonal context, not a service-hours promise"
+    },
+    {
+     "re": "\\b(the city|city of|municipal|curbside|garbage day|bulk item)\\b[^.]{0,60}\\b(weekend|holiday)",
+     "reason": "municipal schedule, not ours"
+    }
+   ]
+  },
+  "specialist": {
+   "patterns": [
+    "\\bdisconnect(s|ed|ion|ions|ing)?\\b",
+    "\\bdrain(s|ed|ing)?\\b",
+    "\\bpump(s|ed|ing)?\\b",
+    "\\brefrigerants?\\b",
+    "\\bfreon\\b",
+    "\\bdata (wiping|wipe|destruction|erasure|sanitiz|sanitis|security)",
+    "\\bshred(s|ded|ding|der|ders)?\\b",
+    {
+     "re": "\\bR2\\b",
+     "flags": ""
+    },
+    "\\bcertif(ied|icate|icates|ication|ications)\\b",
+    "\\bWSIB\\b",
+    {
+     "re": "\\bCOIs?\\b",
+     "flags": ""
+    },
+    "\\bdiversion (report|rate|data)",
+    "\\basset inventor",
+    "\\bmachinery\\b",
+    "\\bracking\\b",
+    "\\bfoundations?\\b",
+    "\\bfootings?\\b",
+    "\\bslabs?\\b",
+    "\\bblock walls?\\b",
+    "\\bconcrete pool decks?\\b",
+    "\\b(industrial )?breakers?\\b",
+    "\\b(concrete |circular |reciprocating |cut-off )?saws\\b",
+    "\\bjackhammers?\\b",
+    "\\bexcavat",
+    "\\bdust suppression\\b",
+    "\\bsite restoration\\b",
+    "\\bgrading\\b",
+    "\\bstructural\\b",
+    "\\bload-bearing\\b",
+    "\\battached garages?\\b",
+    "\\bpermits?\\b",
+    "\\bhazmat\\b",
+    "\\bcode[- ]compliant\\b"
+   ],
+   "allow": [
+    {
+     "re": "\\b(must|should|needs? to|has to|have to|please)\\b[^.]{0,60}\\b(disconnect|drain|switch(ed)? off|isolat)[^.]{0,80}\\b(qualified|licensed|electrician|plumber|tradesperson|you|before (pickup|we arrive|removal))",
+     "reason": "customer/qualified-person preparation (Answers B5.5–B5.7)"
+    },
+    {
+     "re": "\\b(unplugged|disconnected|drained|empty)\\b[^.]{0,20}\\b(and|or)\\b[^.]{0,20}\\b(unplugged|disconnected|drained|empty)\\b",
+     "reason": "eligible-item condition (customer prepares)"
+    },
+    {
+     "re": "\\bdrainage\\b",
+     "reason": "drainage (site context), not a draining service"
+    },
+    {
+     "re": "\\b(breakers?)\\b[^.]{0,30}\\b(panel|switch|off)\\b",
+     "reason": "electrical breaker in a preparation instruction"
+    },
+    {
+     "re": "\\bpermit requirements?, where applicable, must be confirmed\\b",
+     "reason": "approved permits wording (B5.9)"
+    },
+    {
+     "re": "\\b(subject to assessment|assessed based on site conditions|can be assessed)\\b",
+     "reason": "assessment-dependent scope (B5.10–B5.12, follow-up)"
+    }
+   ]
+  },
+  "handling": {
+   "patterns": [
+    "\\bbagged and contained\\b",
+    "\\bsealed\\b",
+    "\\bencase(d|ment|ments)?\\b",
+    "\\bcontain(ed|ment)\\b",
+    "\\bpest[- ]free\\b",
+    "\\bsanitis|sanitiz",
+    "\\bsteriliz|sterilis",
+    "\\bdisinfect",
+    "\\b(toronto|municipal|health|city) (guidelines?|regulations?|bylaws?|by-laws?)\\b",
+    "\\bcomplian(t|ce)\\b",
+    "\\blicensed (disposal )?(channels|facilit|partners)",
+    "\\bdeep[- ]clean",
+    "\\bsweep(s|ing)?\\b",
+    "\\bswept\\b",
+    "\\bsorting\\b",
+    "\\bvaluables\\b",
+    "\\bphotograph(s|ed|ing)?\\b",
+    "\\bloaded for delivery\\b",
+    "\\bdeliver(y|ed|ies)\\b",
+    "\\bbiohazard"
+   ],
+   "allow": [
+    {
+     "re": "\\b(send|text|upload|email|share|attach)\\w*\\b[^.]{0,40}\\bphotograph",
+     "reason": "customer sends photos for a quote"
+    },
+    {
+     "re": "\\b(we|our team|our crew|live junk free) (don['’]t|do not|can['’]t|cannot|won['’]t|never)\\b",
+     "reason": "disclaimer"
+    },
+    {
+     "re": "\\b(only if|unless)\\b[^.]{0,40}\\b(agreed|arranged|quote)",
+     "reason": "conditional on the quote (B6.2)"
+    },
+    {
+     "re": "\\b(you|your family|the family|the owner|the executor|customers?)\\b[^.]{0,40}\\b(sort|sorting)\\b",
+     "reason": "sorting is the customer's decision (B6.1)"
+    },
+    {
+     "re": "\\b(delivery|delivered)\\b[^.]{0,40}\\b(of your new|new (appliance|mattress|furniture)|arrives?|store|retailer)",
+     "reason": "customer's own new-item delivery, not our service"
+    },
+    {
+     "re": "\\b(licensed pest[- ]control|pest[- ]control professional)",
+     "reason": "referral to a pest-control professional (B7.1)"
+    }
+   ]
+  },
+  "recycling": {
+   "patterns": [
+    "\\brecycled\\b",
+    "\\b\\d+\\s?%\\+?\\s*(of\\s+)?(\\w+\\s+){0,3}(recycled|diverted|donated|reused|kept out of landfill)\\b",
+    "\\bzero[- ]landfill\\b",
+    "\\bdonat(e|ed|es|ion|ions|ing)\\b[^.]{0,80}\\b(schools?|community cent(re|er)s?|charit(y|ies)|shelters?|churches|habitat)\\b",
+    "\\b(schools?|community cent(re|er)s?|charit(y|ies)|shelters?)\\b[^.]{0,60}\\bdonat",
+    "\\bdonation receipts?\\b",
+    "\\bcharity before landfill\\b",
+    "\\b(always|every (item|job|load)|all items?)\\b[^.]{0,30}\\b(recycl|donat)"
+   ],
+   "allow": [
+    {
+     "re": "\\b(where|when|whenever|if|wherever) (possible|practical|feasible|suitable)\\b|\\bsuitable items\\b",
+     "reason": "recycling/donation qualified (B4.1)"
+    }
+   ]
+  },
+  "superlatives": {
+   "patterns": [
+    "\\bbest (team|crew|service|junk|company|in (town|the gta|toronto))\\b",
+    "\\bbiggest city\\b",
+    "\\bmost (recommended|trusted|reliable|affordable)\\b",
+    "\\brecommend\\b[^.]{0,40}\\bmore than any other\\b",
+    "#1\\b",
+    "\\bnumber one\\b",
+    "\\bhundreds of\\b",
+    "\\bthousands of\\b",
+    "\\b\\d{3,}\\+?\\s?(jobs|clients|projects|customers|homes|removals|pickups)\\b",
+    "\\b\\d{2,}[,\\d]*\\+?\\s*(five-star |5-star |google )?(reviews|ratings)\\b",
+    "\\b\\d+\\+?\\s*years (of )?(experience|in business)\\b",
+    "\\b(5|five)[- ]star (rated|service|junk|crew|company|reviews?)\\b",
+    "\\btop[- ](choice|rated)\\b",
+    "\\bhighest[- ]rated\\b",
+    "\\bmost (experienced|professional)\\b"
+   ],
+   "allow": []
+  },
+  "local": {
+   "patterns": [
+    "\\bbased (in|right here in)\\b",
+    "\\blocal (office|crew|team|representatives?|branch|depot|yard)\\b",
+    {
+     "re": "\\b[Oo]ur [A-Z][a-z]+ (office|branch|team|crew|depot)\\b",
+     "flags": ""
+    },
+    "\\bacross canada\\b",
+    "\\b(head ?quartered|located) in\\b"
+   ],
+   "allow": [
+    {
+     "re": "\\bprice[sd]? based\\b|\\bbased on\\b",
+     "reason": "'based on' (pricing), not a location claim"
+    }
+   ]
+  }
+ }
+}

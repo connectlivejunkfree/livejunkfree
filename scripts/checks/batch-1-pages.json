@@ -1,0 +1,252 @@
+[
+ {
+  "id": "B1-01",
+  "name": "Homepage",
+  "path": "/"
+ },
+ {
+  "id": "B1-02",
+  "name": "Services index",
+  "path": "/services/"
+ },
+ {
+  "id": "B1-03",
+  "name": "Residential services hub",
+  "path": "/services/residential-junk-removal-services/"
+ },
+ {
+  "id": "B1-04",
+  "name": "Commercial services hub",
+  "path": "/services/commercial-junk-removal-services/"
+ },
+ {
+  "id": "B1-05",
+  "name": "Demolition services hub",
+  "path": "/services/junk-demolition-services/"
+ },
+ {
+  "id": "B1-06",
+  "name": "Cleanout services hub",
+  "path": "/services/junk-cleanout-services/"
+ },
+ {
+  "id": "B1-07",
+  "name": "How It Works",
+  "path": "/how-it-works/"
+ },
+ {
+  "id": "B1-08",
+  "name": "About",
+  "path": "/about/"
+ },
+ {
+  "id": "B1-09",
+  "name": "Contact",
+  "path": "/contact/"
+ },
+ {
+  "id": "B1-10",
+  "name": "Locations index",
+  "path": "/locations/"
+ },
+ {
+  "id": "B1-11",
+  "name": "Blog index",
+  "path": "/blog/"
+ },
+ {
+  "id": "B1-12",
+  "name": "Estate quote thank-you",
+  "path": null
+ },
+ {
+  "id": "B1-13",
+  "name": "Bed Bug advertising landing",
+  "path": "/bed-bug-furniture-removal/"
+ },
+ {
+  "id": "B1-14",
+  "name": "Estate Cleanouts",
+  "path": "/services/junk-cleanout-services/estate-cleanout-services/"
+ },
+ {
+  "id": "B1-15",
+  "name": "Hoarding Cleanouts",
+  "path": "/services/junk-cleanout-services/hoarding-cleanouts-services/"
+ },
+ {
+  "id": "B1-16",
+  "name": "House Cleanouts",
+  "path": "/services/junk-cleanout-services/house-cleanouts-services/"
+ },
+ {
+  "id": "B1-17",
+  "name": "Apartment Cleanouts",
+  "path": "/services/junk-cleanout-services/apartment-cleanouts-services/"
+ },
+ {
+  "id": "B1-18",
+  "name": "Basement Cleanouts",
+  "path": "/services/junk-cleanout-services/basement-cleanout-services/"
+ },
+ {
+  "id": "B1-19",
+  "name": "Eviction Cleanouts",
+  "path": "/services/junk-cleanout-services/eviction-cleanout-services/"
+ },
+ {
+  "id": "B1-20",
+  "name": "Garage Cleanouts",
+  "path": "/services/junk-cleanout-services/garage-cleanout-services/"
+ },
+ {
+  "id": "B1-21",
+  "name": "Office Cleanouts",
+  "path": "/services/junk-cleanout-services/office-cleanout-services/"
+ },
+ {
+  "id": "B1-22",
+  "name": "Storage Unit Cleanouts",
+  "path": "/services/junk-cleanout-services/storage-unit-cleanouts-services/"
+ },
+ {
+  "id": "B1-23",
+  "name": "Couch Removal",
+  "path": "/services/residential-junk-removal-services/couch-removal-services/"
+ },
+ {
+  "id": "B1-24",
+  "name": "Mattress Removal",
+  "path": "/services/residential-junk-removal-services/mattress-removal-services/"
+ },
+ {
+  "id": "B1-25",
+  "name": "Furniture Removal",
+  "path": "/services/residential-junk-removal-services/furniture-removal-services/"
+ },
+ {
+  "id": "B1-26",
+  "name": "Hot Tub Removal",
+  "path": "/services/residential-junk-removal-services/hot-tub-removal-services/"
+ },
+ {
+  "id": "B1-27",
+  "name": "Appliances Removal",
+  "path": "/services/residential-junk-removal-services/appliances-removal-services/"
+ },
+ {
+  "id": "B1-28",
+  "name": "Bed Bug Furniture Removal",
+  "path": "/services/residential-junk-removal-services/bed-bug-furniture-removal-services/"
+ },
+ {
+  "id": "B1-29",
+  "name": "Piano Removal",
+  "path": "/services/residential-junk-removal-services/piano-removal-services/"
+ },
+ {
+  "id": "B1-30",
+  "name": "E-Waste Removal",
+  "path": "/services/residential-junk-removal-services/e-waste-removal-services/"
+ },
+ {
+  "id": "B1-31",
+  "name": "Carpet Removal",
+  "path": "/services/residential-junk-removal-services/carpet-removal-services/"
+ },
+ {
+  "id": "B1-32",
+  "name": "Garage Junk Removal",
+  "path": "/services/residential-junk-removal-services/garage-junk-removal-services/"
+ },
+ {
+  "id": "B1-33",
+  "name": "Water Tank Removal",
+  "path": "/services/residential-junk-removal-services/water-tank-removal-services/"
+ },
+ {
+  "id": "B1-34",
+  "name": "Office Furniture Removal",
+  "path": "/services/commercial-junk-removal-services/office-furniture-removal-services/"
+ },
+ {
+  "id": "B1-35",
+  "name": "Business Cleanout",
+  "path": "/services/commercial-junk-removal-services/business-cleanout-services/"
+ },
+ {
+  "id": "B1-36",
+  "name": "Warehouse Cleanout",
+  "path": "/services/commercial-junk-removal-services/warehouse-cleanout-services/"
+ },
+ {
+  "id": "B1-37",
+  "name": "Retail Cleanout",
+  "path": "/services/commercial-junk-removal-services/retail-cleanout-services/"
+ },
+ {
+  "id": "B1-38",
+  "name": "Computer Removal",
+  "path": "/services/commercial-junk-removal-services/computer-removal-services/"
+ },
+ {
+  "id": "B1-39",
+  "name": "Shed Demolition",
+  "path": "/services/junk-demolition-services/shed-demolition-services/"
+ },
+ {
+  "id": "B1-40",
+  "name": "Garage Demolition",
+  "path": "/services/junk-demolition-services/garage-demolition-services/"
+ },
+ {
+  "id": "B1-41",
+  "name": "Deck Demolition",
+  "path": "/services/junk-demolition-services/deck-demolition-services/"
+ },
+ {
+  "id": "B1-42",
+  "name": "Concrete Demolition",
+  "path": "/services/junk-demolition-services/concrete-demolition-services/"
+ },
+ {
+  "id": "B1-43",
+  "name": "Toronto location hub",
+  "path": "/locations/toronto/"
+ },
+ {
+  "id": "B1-44",
+  "name": "Mississauga location hub",
+  "path": "/locations/mississauga/"
+ },
+ {
+  "id": "B1-45",
+  "name": "Markham location hub",
+  "path": "/locations/markham/"
+ },
+ {
+  "id": "B1-46",
+  "name": "Vaughan location hub",
+  "path": "/locations/vaughan/"
+ },
+ {
+  "id": "B1-47",
+  "name": "Ajax location hub",
+  "path": "/locations/ajax/"
+ },
+ {
+  "id": "B1-48",
+  "name": "Brampton location hub",
+  "path": "/locations/brampton/"
+ },
+ {
+  "id": "B1-49",
+  "name": "Aurora Apartment Cleanouts",
+  "path": "/locations/aurora/apartment-cleanout-services-in-aurora/"
+ },
+ {
+  "id": "B1-50",
+  "name": "Toronto Office Cleanouts",
+  "path": "/locations/toronto/office-cleanout-services-in-toronto/"
+ }
+]

@@ -8,7 +8,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "check:content": "node scripts/checks/check-content.mjs"
   },
   "dependencies": {
     "@next/third-parties": "^16.4.6",
