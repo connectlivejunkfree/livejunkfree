@@ -48,7 +48,9 @@
     "\\ball (types of )?pianos\\b",
     "\\bprotective pads?\\b",
     "\\b(look|looks|stay|stays) (exactly )?(as|like) (they|it) (did|was|were) before\\b",
-    "\\bstays? intact\\b"
+    "\\bstays? intact\\b",
+    "\\bnothing is impossible\\b",
+    "\\bno (project|job|task) is (excessively |too )(large|small|big)\\b"
    ],
    "allow": [
     {

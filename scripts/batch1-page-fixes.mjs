@@ -191,8 +191,8 @@ const PAGES = [
     ["OBS-54", rep(/,? or heavily infested items\./g, ". For bed bug–infested furniture, see our bed bug furniture removal service.")],
   ]],
   ["B1-26", `${S}/residential-junk-removal-services/hot-tub-removal-services`, [
-    ["OBS-60", h1("Hot Tub Removal in Toronto and the GTA")],
-    ["OBS-60", rep("Locally Trusted – The Best Hot Tub Removal in Town is Here!", "Hot Tub Removal in Toronto and the GTA")],
+    ["OBS-60", h1("Hot Tub Removal in Toronto & the GTA")], // QA 18 Nov wording
+    ["OBS-60", rep("Locally Trusted – The Best Hot Tub Removal in Town is Here!", "Hot Tub Removal in Toronto & the GTA")],
     ["OBS-58", rep("At Live Junk Free, we specialize in removing all types of appliances:", "We remove most kinds of hot tubs and spas, including:")],
     ["OBS-58", rep("Hot Tubs (All types, sizes & conditions)", "Hot tubs of most sizes and conditions")],
     ["OBS-59", dropItem(/Hot Tub Patios & Deck Installations/)],

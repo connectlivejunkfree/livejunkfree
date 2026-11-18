@@ -42,9 +42,6 @@
      "t": "cards",
      "items": [
       {
-       "title": "{{fact:licensedInsured}}"
-      },
-      {
        "title": "{{fact:freeOnsiteEstimates}}"
       },
       {
@@ -234,7 +231,7 @@
        "q": "Do I need to drain the tank first?",
        "a": [
         [
-         "{{fact:waterTankPrep}}. We confirm the preparation with you when we book."
+         "{{fact:utilityDisconnection}}"
         ]
        ]
       },
@@ -279,11 +276,6 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Water tank removal photos"
-    },
-    {
-     "t": "h",
-     "l": 3,
      "text": "Water tank removal photos"
     },
     {

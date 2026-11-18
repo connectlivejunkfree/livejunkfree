@@ -496,25 +496,7 @@
    ]
   },
   {
-   "blocks": [
-    {
-     "t": "stats",
-     "items": [
-      {
-       "label": "Locations Covered",
-       "value": "30+"
-      },
-      {
-       "label": "Services",
-       "value": "60+"
-      },
-      {
-       "label": "Recurring Clients",
-       "value": "100+"
-      }
-     ]
-    }
-   ]
+   "blocks": []
   },
   {
    "blocks": [

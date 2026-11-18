@@ -447,6 +447,52 @@
     {
      "t": "h",
      "l": 2,
+     "text": "Storage unit cleanout FAQs"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Do I need to be there?",
+       "a": [
+        [
+         "Please arrange access with the storage facility and mark or remove anything you’re keeping before we start. {{fact:retainedItems}}"
+        ]
+       ]
+      },
+      {
+       "q": "How much does a storage unit cleanout cost?",
+       "a": [
+        [
+         "{{fact:quoteText}} {{fact:taxNote}}."
+        ]
+       ]
+      },
+      {
+       "q": "Can you do it the same day?",
+       "a": [
+        [
+         "{{fact:sameDay}}."
+        ]
+       ]
+      },
+      {
+       "q": "What happens to the items?",
+       "a": [
+        [
+         "{{fact:recycling}}."
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "blocks": [
+    {
+     "t": "h",
+     "l": 2,
      "text": "What People Say About Us"
     },
     {

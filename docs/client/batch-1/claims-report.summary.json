@@ -1,7 +1,7 @@
 {
  "batch": {
   "fail": 0,
-  "allowed": 479,
+  "allowed": 486,
   "pages": {}
  },
  "site": {
@@ -13,22 +13,22 @@
   "timing": {
    "batchFail": 0,
    "site": 190,
-   "allowed": 4139
+   "allowed": 4141
   },
   "specialist": {
    "batchFail": 0,
    "site": 177,
-   "allowed": 831
+   "allowed": 835
   },
   "handling": {
    "batchFail": 0,
    "site": 552,
-   "allowed": 869
+   "allowed": 868
   },
   "guarantees": {
    "batchFail": 0,
    "site": 183,
-   "allowed": 78
+   "allowed": 80
   },
   "recycling": {
    "batchFail": 0,

@@ -293,7 +293,7 @@ const RULES = [
     // Guarantees and absolutes. Title adjectives are cut ("Fair Pricing Guaranteed" → "Fair Pricing"); any
     // other sentence carrying one is removed.
     id: "qa-guarantees", ref: "QA 18 Nov §2A guarantees; Answers B3.2",
-    find: /\bguarantee(d|s|ing)?\b|\bwe['’]ll make it right\b|\b100\s?%|\bzero[- ](damage|downtime|risk|stress|hassle)\b|\bno damage\b|\bdamage[- ]free\b|\bwithout (causing |any )*(damage|harm|a scratch)\b|\bno job (is )?too (big|small|tricky|large|hard)\b|\beliminat(e|es|ing) the risk\b|\bprevent(s|ing)? (any|the) spread\b|\bcompletely (clean|protected|safe|empty)\b|\bspotless\b|\blivable\b|\bready for (occupants|an installer|the next tenant|new tenants|the next owner)\b|\bleft ready\b|\bworry[- ]free\b|\brisk[- ]free\b|\bnever (damage|scratch)\b/i,
+    find: /\bguarantee(d|s|ing)?\b|\bnothing is impossible\b|\bno (project|job|task) is (excessively |too )(large|small|big)\b|\bwe['’]ll make it right\b|\b100\s?%|\bzero[- ](damage|downtime|risk|stress|hassle)\b|\bno damage\b|\bdamage[- ]free\b|\bwithout (causing |any )*(damage|harm|a scratch)\b|\bno job (is )?too (big|small|tricky|large|hard)\b|\beliminat(e|es|ing) the risk\b|\bprevent(s|ing)? (any|the) spread\b|\bcompletely (clean|protected|safe|empty)\b|\bspotless\b|\blivable\b|\bready for (occupants|an installer|the next tenant|new tenants|the next owner)\b|\bleft ready\b|\bworry[- ]free\b|\brisk[- ]free\b|\bnever (damage|scratch)\b/i,
     unless: /\b(no|can['’]t|cannot|don['’]t|doesn['’]t|never|isn['’]t|not|aren['’]t)\b[^.]{0,30}\bguarantee|\bsubject to assessment\b/i,
     clause: [
       [/\bProperty Protection Guarantee\b/g, "Careful Removal"],
@@ -791,10 +791,11 @@ function walk(node, kind, file, parentT) {
     node = { ...node, items: node.items.filter((it) => !(numericCard(it) && COUNTER.test(JSON.stringify(it)))) };
     if (node.items.length !== before) counts.exact.before++;
   }
-  if (node && typeof node === "object" && !Array.isArray(node) && node.t === "stats" && Array.isArray(node.items)) {
-    const before = node.items.length;
-    node = { ...node, items: node.items.filter((it) => !COUNTER.test(JSON.stringify(it))) };
-    if (node.items.length !== before) counts.exact.before++;
+  // Answers B8.2: numeric counters ("30+ Locations Covered", "100+ Recurring Clients") go until the owner
+  // provides a source; cleanStructure drops the emptied block.
+  if (node && typeof node === "object" && !Array.isArray(node) && node.t === "stats" && Array.isArray(node.items) && node.items.length) {
+    node = { ...node, items: [] };
+    counts.exact.before++;
   }
   if (Array.isArray(node)) {
     const out = [];
@@ -871,7 +872,7 @@ function cleanStructure(doc) {
       if (isEmpty(doc.h1)) doc.h1 = b.text;
       removed++;
     }
-    s.blocks = s.blocks.filter((b) => keep(!((b.t === "p" && isEmpty(b.c)) || (["cards", "steps", "faq", "ul", "ol", "checks"].includes(b.t) && Array.isArray(b.items) && !b.items.length) || (b.t === "h" && isEmpty(b.text)))));
+    s.blocks = s.blocks.filter((b) => keep(!((b.t === "p" && isEmpty(b.c)) || (["cards", "steps", "faq", "ul", "ol", "checks", "stats"].includes(b.t) && Array.isArray(b.items) && !b.items.length) || (b.t === "h" && isEmpty(b.text)))));
     s.blocks = s.blocks.filter((b, i, arr) => b.t !== "h" || !RULE_LABEL.test(b.text) || !(i === arr.length - 1 || (arr[i + 1]?.t === "h" && arr[i + 1].l <= b.l) || ["cards", "steps"].includes(arr[i + 1]?.t)) || keep(false));
   }
   // The same approved sentence on its own (a whole paragraph / card text that is just one fact token) only once

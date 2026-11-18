@@ -11,13 +11,14 @@ import { readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const ROOT = process.cwd();
-const SKIP = new Set(["src", "href", "path", "canonical", "ogImage", "id", "t", "kind", "type", "template", "a"]);
+// "a" is skipped only when it's a link target (a string); in FAQ items "a" is the answer and is edited.
+const SKIP = new Set(["src", "href", "path", "canonical", "ogImage", "id", "t", "kind", "type", "template"]);
 const log = [];
 
 const mapStrings = (node, fn, key = "") => {
   if (typeof node === "string") return SKIP.has(key) ? node : fn(node, key);
   if (Array.isArray(node)) return node.map((x) => mapStrings(x, fn, key));
-  if (node && typeof node === "object") { const o = {}; for (const [k, v] of Object.entries(node)) o[k] = mapStrings(v, fn, k); return o; }
+  if (node && typeof node === "object") { const o = {}; for (const [k, v] of Object.entries(node)) o[k] = k === "a" && typeof v === "string" ? v : mapStrings(v, fn, k); return o; }
   return node;
 };
 const blocks = (doc) => doc.sections.flatMap((s) => s.blocks ?? []);
@@ -90,8 +91,16 @@ const alt = (srcRe, text) => (doc) => {
 };
 
 // ---------------------------------------------------------------- B1-33 Water Tank: full, safe service body (new defect)
+const galleryHeadings = (doc) => {
+  // the photo section keeps one heading (the old page had a section heading and a gallery heading)
+  for (const sec of doc.sections) if ((sec.blocks ?? []).some((b) => b.t === "gallery")) {
+    let seen = false;
+    sec.blocks = sec.blocks.filter((b) => b.t !== "h" || (!seen && (seen = true)));
+  }
+  return doc;
+};
 const WATER_TANK = (doc) => {
-  if (JSON.stringify(doc).includes("{{fact:waterTankPrep}}")) return doc; // already rewritten
+  if (JSON.stringify(doc).includes("{{fact:waterTankPrep}}")) return galleryHeadings(doc); // already rewritten
   const hero = doc.sections[0];
   hero.blocks = [
     { t: "h", l: 1, text: "Water Tank Removal Services in Toronto & the GTA" },
@@ -154,7 +163,7 @@ const WATER_TANK = (doc) => {
   }
   if (gallery) gallery.blocks = gallery.blocks.filter((b) => b.t !== "cards");
   doc.sections = [hero, ...body, ...[gallery, reviews, areas].filter(Boolean)];
-  return doc;
+  return galleryHeadings(doc);
 };
 
 // ---------------------------------------------------------------- page list
@@ -180,6 +189,33 @@ const PAGES = [
     ["B1-06", rep(RESIDENTIAL_CTA, "Request a Cleanout Quote")],
     ["B1-06", (doc) => { for (const b of blocks(doc)) if (b.t === "ul") b.items = b.items.map((it) => (JSON.stringify(it).includes("If you’re looking for a ") ? ["Estate cleanouts: ", { a: "/services/junk-cleanout-services/estate-cleanout-services/", c: ["clearing a loved one’s home"] }, " once the family has set aside what they’re keeping."] : it)); return doc; }],
   ]],
+  ["B1-06 rewrite", `${S}/junk-cleanout-services`, [["B1-06 distinct cleanout services", (doc) => {
+    if (JSON.stringify(doc).includes("Which cleanout do you need?")) return doc;
+    const C = "/services/junk-cleanout-services/";
+    const drop = /^(Our Commitment to Efficient Stress-Free Cleanouts|Vision|Mission|Stress-Free Cleanouts Within No Time|Why Live Junk-Free|All the Services You Need for a Clutter-Free Life|Transform Your Space with Our Comprehensive Services)$/;
+    const i = doc.sections.findIndex((x) => (x.blocks ?? []).some((b) => b.t === "h" && drop.test(b.text)));
+    doc.sections = doc.sections.filter((x) => !(x.blocks ?? []).some((b) => (b.t === "h" && drop.test(b.text)) || b.t === "stats" || b.t === "marquee"));
+    doc.sections.splice(Math.max(1, i), 0,
+      { blocks: [
+        { t: "h", l: 2, text: "Cleanouts across Toronto and the GTA" },
+        { t: "p", c: ["{{fact:retainedItems}} {{fact:freeOnsiteEstimates.long}}"] },
+      ] },
+      { blocks: [
+        { t: "h", l: 2, text: "Which cleanout do you need?" },
+        { t: "cards", items: [
+          { title: "Estate cleanouts", text: ["Clearing a loved one’s home with care, once the family has set aside what they’re keeping."], href: `${C}estate-cleanout-services/` },
+          { title: "House cleanouts", text: ["Whole homes or single rooms. The price and timing depend on the volume and access."], href: `${C}house-cleanouts-services/` },
+          { title: "Apartment cleanouts", text: ["Condos and apartments. Please arrange elevator or loading-dock approval with your building."], href: `${C}apartment-cleanouts-services/` },
+          { title: "Hoarding cleanouts", text: ["Discreet, respectful removal of the items you agree to, at a pace that suits you."], href: `${C}hoarding-cleanouts-services/` },
+          { title: "Storage unit cleanouts", text: ["You arrange access with the facility and mark anything you’re keeping; we remove the rest."], href: `${C}storage-unit-cleanouts-services/` },
+          { title: "Garage cleanouts", text: ["A whole-garage clear-out. For just a few items, see garage junk removal."], href: `${C}garage-cleanout-services/` },
+          { title: "Eviction cleanouts", text: ["For landlords and property managers who have confirmed their legal right to remove the contents."], href: `${C}eviction-cleanout-services/` },
+          { title: "Basement cleanouts", text: ["Stored boxes, old furniture and clutter carried up and hauled away. Tell us about any damp items."], href: `${C}basement-cleanout-services/` },
+          { title: "Office cleanouts", text: ["Desks, chairs and equipment from offices. Tell us about building rules and timing."], href: `${C}office-cleanout-services/` },
+        ] },
+      ] });
+    return doc;
+  }]]],
   ["B1-13", "bed-bug-furniture-removal", [
     ["New defect B1-13 (H1)", setH1("Bed Bug Furniture Removal Across the GTA", "Bed Bug Furniture Removal Across the GTA | Live Junk Free")],
     ["OBS-14 / R3", rep("All items bagged and wrapped before leaving your home", "Furniture wrapped and smaller items bagged before we carry them out")],
@@ -258,6 +294,24 @@ const PAGES = [
   ]],
   ["B1-33", `${S}/residential-junk-removal-services/water-tank-removal-services`, [["New defect B1-33 / OBS-86–89", WATER_TANK]]],
   ["B1-36", `${S}/commercial-junk-removal-services/warehouse-cleanout-services`, [["OBS-101 timing", rep(/warehouse cleanout services, subject to scheduling\.(\s*)$/, "warehouse cleanout services (subject to availability)$1")]]],
+  ["B1-22", `${S}/junk-cleanout-services/storage-unit-cleanouts-services`, [["OBS-44 one short FAQ", (doc) => {
+    if (blocks(doc).some((b) => b.t === "faq" && b.items.length)) return doc;
+    const at = doc.sections.findIndex((x) => (x.blocks ?? []).some((b) => b.t === "reviews"));
+    doc.sections.splice(at < 0 ? doc.sections.length : at, 0, { blocks: [
+      { t: "h", l: 2, text: "Storage unit cleanout FAQs" },
+      { t: "faq", items: [
+        { q: "Do I need to be there?", a: [["Please arrange access with the storage facility and mark or remove anything you’re keeping before we start. {{fact:retainedItems}}"]] },
+        { q: "How much does a storage unit cleanout cost?", a: [["{{fact:quoteText}} {{fact:taxNote}}."]] },
+        { q: "Can you do it the same day?", a: [["{{fact:sameDay}}."]] },
+        { q: "What happens to the items?", a: [["{{fact:recycling}}."]] },
+      ] },
+    ] });
+    return doc;
+  }]]],
+  ["B1-47", "locations/ajax", [
+    ["OBS-145", rep("We provide professional demolition services for both residential and commercial properties, ensuring safe and controlled demolition.", "Demolition we can quote in Ajax: decks, sheds, fences, hot tubs and playsets. {{fact:structuralDemolition}}.")],
+    ["OBS-145", rep(/,? and old office equipment to large-scale demolition j[^.]*\./, " and old office equipment, we can help.")],
+  ]],
   ["B1-39", `${S}/junk-demolition-services/shed-demolition-services`, [["OBS-115", dropItem(/Multi-Shed/i)]]],
   ["B1-40", `${S}/junk-demolition-services/garage-demolition-services`, [
     ["OBS-119", dropItem(/Multi-Garage|Concrete Block Garages/i)],

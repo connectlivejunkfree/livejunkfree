@@ -58,18 +58,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Our Commitment to Efficient Stress-Free Cleanouts"
+     "text": "Cleanouts across Toronto and the GTA"
     },
     {
      "t": "p",
      "c": [
-      "At Live Junk Free, we believe that no project is excessively large or too small and nothing is impossible, especially when it comes to making office and ",
-      {
-       "b": [
-        "estate cleaning services"
-       ]
-      },
-      " stress-free for you. With us, you don’t need to schedule the slots way before you wish to avail of any services because our compassionate team is totally flexible in even showing up for same-day cleanout services when available as well. {{fact:cleanupScope}}. Not only do we lift everything heavy in your space, but we also take the burden off your shoulders."
+      "{{fact:retainedItems}} {{fact:freeOnsiteEstimates.long}}"
      ]
     }
    ]
@@ -79,197 +73,80 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Vision"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "To be the go-to partner for easy commercial and residential clean out, known for simplifying life with efficient and trusted services. We want to create an environment where decluttering is no longer a hardship but a seamless process."
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Mission"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "To make cleanout services convenient and stress-free for everyone. We strive to deliver quick, easily accessible and cost-effective solutions that allow individuals to retrieve their premises without worrying about it."
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "stats",
-     "items": [
-      {
-       "label": "Locations Covered",
-       "value": "30+"
-      },
-      {
-       "label": "Services",
-       "value": "60+"
-      },
-      {
-       "label": "Recurring Clients",
-       "value": "100+"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "marquee",
-     "items": [
-      "House Cleanouts",
-      "Fence Removal",
-      "Shed Demolition",
-      "Yard Waste",
-      "Retail Cleanout",
-      "Wall Demolition",
-      "Deck Demolition"
-     ]
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Stress-Free Cleanouts Within No Time"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Though we are quite popular for our cleanout services for habitations, our specialization goes way beyond the house cleanout. We are also one of those reliable entities that stand by their clients during difficult scenarios and at times of urgent requirements."
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "Estate cleanouts: ",
-       {
-        "a": "/services/junk-cleanout-services/estate-cleanout-services/",
-        "c": [
-         "clearing a loved one’s home"
-        ]
-       },
-       " once the family has set aside what they’re keeping."
-      ],
-      [
-       "When facing foreclosure, eviction or the need to rapidly vacate the premises, our eviction clean out services come to the rescue."
-      ],
-      [
-       "In cases of unhealthy living situations due to hoarding, avail of our hoarders clean-up services and make your space safe again."
-      ]
-     ]
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Why Live Junk-Free"
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "All the Services You Need for a Clutter-Free Life"
+     "text": "Which cleanout do you need?"
     },
     {
      "t": "cards",
      "items": [
       {
-       "title": "Safe and Efficient",
+       "title": "Estate cleanouts",
        "text": [
-        "{{fact:sameDay.short}}"
-       ]
+        "Clearing a loved one’s home with care, once the family has set aside what they’re keeping."
+       ],
+       "href": "/services/junk-cleanout-services/estate-cleanout-services/"
       },
       {
-       "title": "Tailored Solutions",
+       "title": "House cleanouts",
        "text": [
-        "We precisely and flexibly customise our office cleanout services to satisfy your demands."
-       ]
+        "Whole homes or single rooms. The price and timing depend on the volume and access."
+       ],
+       "href": "/services/junk-cleanout-services/house-cleanouts-services/"
       },
       {
-       "title": "On-Time Service",
+       "title": "Apartment cleanouts",
        "text": [
-        "We value your time by providing timely, reliable support that doesn't interrupt with your daily routine."
-       ]
+        "Condos and apartments. Please arrange elevator or loading-dock approval with your building."
+       ],
+       "href": "/services/junk-cleanout-services/apartment-cleanouts-services/"
       },
       {
-       "title": "Responsible Disposal",
+       "title": "Hoarding cleanouts",
        "text": [
-        "We recycle and dispose of your abandoned stuff ethically, creating a more ecologically sound future."
-       ]
+        "Discreet, respectful removal of the items you agree to, at a pace that suits you."
+       ],
+       "href": "/services/junk-cleanout-services/hoarding-cleanouts-services/"
+      },
+      {
+       "title": "Storage unit cleanouts",
+       "text": [
+        "You arrange access with the facility and mark anything you’re keeping; we remove the rest."
+       ],
+       "href": "/services/junk-cleanout-services/storage-unit-cleanouts-services/"
+      },
+      {
+       "title": "Garage cleanouts",
+       "text": [
+        "A whole-garage clear-out. For just a few items, see garage junk removal."
+       ],
+       "href": "/services/junk-cleanout-services/garage-cleanout-services/"
+      },
+      {
+       "title": "Eviction cleanouts",
+       "text": [
+        "For landlords and property managers who have confirmed their legal right to remove the contents."
+       ],
+       "href": "/services/junk-cleanout-services/eviction-cleanout-services/"
+      },
+      {
+       "title": "Basement cleanouts",
+       "text": [
+        "Stored boxes, old furniture and clutter carried up and hauled away. Tell us about any damp items."
+       ],
+       "href": "/services/junk-cleanout-services/basement-cleanout-services/"
+      },
+      {
+       "title": "Office cleanouts",
+       "text": [
+        "Desks, chairs and equipment from offices. Tell us about building rules and timing."
+       ],
+       "href": "/services/junk-cleanout-services/office-cleanout-services/"
       }
      ]
     }
    ]
   },
   {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Transform Your Space with Our Comprehensive Services"
-    },
-    {
-     "t": "p",
-     "c": [
-      "At ",
-      {
-       "a": "/",
-       "c": [
-        "Live Junk Free"
-       ]
-      },
-      ", we are in the process of building a culture where cleanliness is not neglected just because of the amount of time and energy that goes behind it. We can do this by offering unique experiences to our clients and making clutter-free spaces, a basic necessity for them. We make cleanouts and junk removal services seem quite effortless to them by completing the most challenging projects to their satisfaction. Hence, it is observed that their mental health and general quality of life are greatly influenced just through organized spaces. After all, the amount of productivity, relaxation and positivity observed after such cleanliness is just unmatched which fosters a delightful environment. If you wish to ace both mentally and physically, avail our wide range of services including ",
-      {
-       "a": "/services/residential-junk-removal-services/",
-       "c": [
-        "residential junk removal"
-       ]
-      },
-      ", ",
-      {
-       "a": "/services/commercial-junk-removal-services/",
-       "c": [
-        "commercial junk removal"
-       ]
-      },
-      ", ",
-      {
-       "a": "/services/junk-demolition-services/",
-       "c": [
-        "demolition"
-       ]
-      },
-      " and ",
-      {
-       "a": "/services/junk-cleanout-services/",
-       "c": [
-        "cleanouts"
-       ]
-      },
-      " and invest in a fresh start."
-     ]
-    }
-   ]
+   "blocks": []
   },
   {
    "blocks": [
