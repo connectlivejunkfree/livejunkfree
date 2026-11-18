@@ -11,7 +11,7 @@
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "residential-junk-removal-in-nobleton",
+ "title": "Residential Junk Removal in Nobleton",
  "h1": "Residential Junk Removal in Nobleton, Ontario — Fast, Reliable & Hassle-Free",
  "published": "2026-09-15T05:18:13",
  "modified": "2026-09-15T05:18:13",
@@ -169,7 +169,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The old appliance often needs to leave before the new one arrives. The same applies to mattresses, furniture, exercise equipment, and other replacements. Tell us your timing and we'll work to clear the outgoing items before the delivery window, with service available seven days a week from 6AM to 11PM."
+     "text": "The old appliance often needs to leave before the new one arrives. The same applies to mattresses, furniture, exercise equipment, and other replacements."
     },
     {
      "t": "steps",
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small pickups start at {{cad_125}}, while larger residential jobs are priced according to the amount of truck space your items occupy. Combining furniture, appliances, basement clutter, garage items, and other household junk into one pickup can make more sense than booking several separate removals. Your free quote at the property tells you exactly what the removal will cost before we begin."
+     "text": "Small pickups start at {{min_price:C}}, while larger residential jobs are priced according to the amount of truck space your items occupy. Combining furniture, appliances, basement clutter, garage items, and other household junk into one pickup can make more sense than booking several separate removals. Your free quote at the property tells you exactly what the removal will cost before we begin."
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Book the Truck",
        "text": [
-        "Call +1 647 922 5865 or book online. Our crews serve Nobleton seven days a week, from 6AM to 11PM, with same-day service available when scheduling allows."
+        "Call +1 647 922 5865 or book online."
        ]
       },
       {
        "title": "2. Show Us the Outgoing",
        "text": [
-        "Point out the mattress, appliance, sectional, garage clutter, basement items, or anything else that needs to go. We'll assess everything and provide one clear, all-inclusive quote before starting."
+        "Point out the mattress, appliance, sectional, garage clutter, basement items, or anything else that needs to go. We'll assess everything and provide one clear, quote before starting."
        ]
       },
       {
@@ -423,7 +423,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -453,7 +453,7 @@
        "q": "Q: What does junk removal cost in Nobleton?",
        "a": [
         [
-         "Junk removal pricing in Nobleton depends on the amount and type of junk, how difficult it is to remove, and the truck space required. Small pickups and single-item removals can start around $125, while larger furniture, appliance, garage, or full-property cleanouts are priced based on the total volume. Live Junk Free provides a free, upfront quote before the work begins, with no hidden fees."
+         "Junk removal pricing in Nobleton depends on the amount and type of junk, how difficult it is to remove, and the truck space required. Small pickups and single-item removals can start around {{min_price:C}}, while larger furniture, appliance, garage, or full-property cleanouts are priced based on the total volume."
         ]
        ]
       },
@@ -469,7 +469,7 @@
        "q": "Q: The new appliance arrives Saturday morning — can the old one be gone first?",
        "a": [
         [
-         "Yes. If you are replacing a refrigerator, washer, dryer, stove, dishwasher, or another large appliance, we can arrange removal before the replacement arrives. Live Junk Free operates 7 days a week from 6 AM to 11 PM, making it easier to coordinate junk removal around delivery windows. Same-day service may also be available depending on the schedule."
+         "Yes. If you are replacing a refrigerator, washer, dryer, stove, dishwasher, or another large appliance, we can arrange removal before the replacement arrives. Same-day service may also be available depending on the schedule."
         ]
        ]
       },

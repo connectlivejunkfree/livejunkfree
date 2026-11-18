@@ -6,7 +6,7 @@
  "template": "AdsLanding",
  "seo": {
   "title": "Apartment Cleanout Service in the GTA | Live Junk Free",
-  "description": "Need an apartment cleanout in the GTA? Live Junk Free clears furniture, appliances & clutter fast. Same-day available. Starting from $125. Landlords & tenants welcome. Book now!",
+  "description": "Need an apartment cleanout in the GTA? Live Junk Free clears furniture, appliances & clutter fast. Same-day available. Landlords & tenants welcome. Book now!",
   "canonical": "https://livejunkfree.ca/apartment-cleanout-service/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/apartment_cleanout_service.jpg-1024x577.jpeg"
@@ -26,7 +26,7 @@
     {
      "t": "p",
      "c": [
-      "Landlords and tenants welcome. We clear everything in one visit. Starting from {{cad_125}}. Same-day available."
+      "Landlords and tenants welcome. We clear everything in one visit. Same-day available."
      ]
     },
     {
@@ -50,7 +50,7 @@
     {
      "t": "p",
      "c": [
-      "Starting from {{cad_125}}. Price confirmed before we start. No hidden fees."
+      "Price confirmed before we start."
      ]
     }
    ]
@@ -60,12 +60,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Service"
+     "text": "Same-Day Service when available"
     },
     {
      "t": "p",
      "c": [
-      "Book before noon and we are there the same day across the GTA."
+      "Across the GTA."
      ]
     }
    ]
@@ -236,13 +236,13 @@
      "t": "ul",
      "items": [
       [
-       "Upfront pricing from {{cad_125}} — price locked in before we start, no hidden charges"
+       "Contact us for a quote"
       ],
       [
        "Furniture, appliances, boxes, clothing, renovation debris — we take everything in one trip"
       ],
       [
-       "Same day service across ",
+       "Service across ",
        {
         "b": [
          "Toronto"
@@ -409,7 +409,7 @@
      "t": "cards",
      "items": [
       {
-       "title": "Book in 60 Seconds",
+       "title": "Book",
        "text": [
         "Call 647-922-5865 or fill out the form. Tell us the unit size and your address. We offer same day apartment cleanout across the GTA when you book before noon."
        ]
@@ -417,7 +417,7 @@
       {
        "title": "We Arrive On Time",
        "text": [
-        "Our crew shows up on schedule. We give you a firm upfront price before touching anything. No surprises, no extra charges."
+        "Our crew shows up on schedule. We give you a firm upfront price before touching anything."
        ]
       },
       {
@@ -435,7 +435,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Real Stories from Satisfied Custom"
+     "text": "Real Stories from Satisfied Customers"
     },
     {
      "t": "reviews"
@@ -456,7 +456,7 @@
        "q": "How much does an apartment cleanout cost?",
        "a": [
         [
-         "Our service starts from $125. The final price depends on the size of the unit and the volume of items. All prices are confirmed upfront before any work begins. No hidden fees."
+         "The final price depends on the size of the unit and the volume of items. All prices are confirmed upfront before any work begins."
         ]
        ]
       },

@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -168,7 +168,7 @@
       },
       {
        "n": "06",
-       "title": "Independent bereavement cleanout pricing, 30–50% under the bigger outfits",
+       "title": "Independent bereavement cleanout pricing",
        "text": [
         [
          "National franchise cleanout companies build significant overhead into every quote. Live Junk Free carries none of that, without compromising on the patience this work requires."
@@ -204,21 +204,21 @@
     {
      "t": "p",
      "c": [
-      "What never enters the calculation is an assumption about the home’s age. A newer Summerlyn-area home and a Holland Street home get quoted by the identical formula. The figure is confirmed for free at an in-person walkthrough, and once locked in, it holds."
+      "What never enters the calculation is an assumption about the home’s age. A newer Summerlyn-area home and a Holland Street home get quoted by the identical formula. The figure is confirmed for free at an in-person walkthrough."
      ]
     },
     {
      "t": "checks",
      "items": [
       "Haul-Away",
-      "No Stairs Surcharges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
@@ -226,7 +226,7 @@
     {
      "t": "price",
      "label": "Bradford Bereavement Cleanout",
-     "value": "{{cad_125:suffix}}"
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
@@ -277,7 +277,7 @@
        "title": "Property Walkthrough & Quote",
        "text": [
         [
-         "We walk through the property with you in person and provide one clear, all-inclusive quote, with no obligation attached to hearing it."
+         "We walk through the property with you in person and provide one clear, quote, with no obligation attached to hearing it."
         ]
        ]
       },
@@ -336,7 +336,7 @@
        "Multi-structure coordination under one single booking"
       ],
       [
-       "Long laneway access included at no extra charge"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Coordination with executors settling the estate"
@@ -364,7 +364,7 @@
        "Basement and garage cleanouts where a lifetime of items has built up"
       ],
       [
-       "Multi-visit scheduling available at no extra cost"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Donation-first checks before any belongings are recycled"
@@ -673,7 +673,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — Holland Marsh, Holland Street and new-growth bereavement cleanouts across Bradford, Simcoe County and the GTA. The comment that comes up most from Marsh farm families specifically: the crew understood what dad’s equipment meant, not just what it was worth."
+      "Google reviews — Holland Marsh, Holland Street and new-growth bereavement cleanouts across Bradford, Simcoe County and the GTA. The comment that comes up most from Marsh farm families specifically: the crew understood what dad’s equipment meant, not just what it was worth."
      ]
     },
     {
@@ -853,7 +853,7 @@
        "q": "How much does a bereavement cleanout cost in Bradford?",
        "a": [
         [
-         "Pricing is volume-based and starts from $125 for smaller spaces, with no charge based on the home’s age."
+         "{{fact:quoteText}}"
         ]
        ]
       },

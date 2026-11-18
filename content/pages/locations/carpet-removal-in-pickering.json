@@ -6,12 +6,12 @@
  "template": "LocationService",
  "seo": {
   "title": "Carpet Removal in Pickering for Offices Homes and Rentals",
-  "description": "Trusted carpet removal in Pickering with same-day junk hauling, carpet tear-outs, and flooring cleanup. Book your appointment today.",
+  "description": "Trusted carpet removal in Pickering with same-day junk hauling, carpet tear-outs, and flooring cleanup, subject to scheduling. Book your appointment today.",
   "canonical": "https://livejunkfree.ca/locations/carpet-removal-in-pickering/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "carpet-removal-in-pickering",
+ "title": "Carpet Removal in Pickering",
  "h1": "Carpet Removal Services in Pickering, Ontario — Old Carpet Out, Floors Ready for What's Next",
  "published": "2026-07-12T11:09:44",
  "modified": "2026-07-12T11:09:44",
@@ -94,14 +94,14 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Live Junk Free is a locally owned, fully insured Pickering junk removal team that has built its reputation across Durham Region one job at a time — with over 660 five-star Google reviews from real customers, and a crew that leaves your subfloor swept, cleared and ready for your new flooring, not buried under debris."
+     "text": "Live Junk Free is a locally owned, fully insured Pickering junk removal team that has built its reputation across Durham Region one job at a time — with Google reviews from real customers, and a crew that leaves your subfloor swept, cleared and ready for your new flooring, not buried under debris."
     },
     {
      "t": "steps",
      "items": [
       {
        "n": "01",
-       "title": "You pay for the space your carpet takes up — nothing more",
+       "title": "You pay for the space your carpet takes up",
        "text": []
       }
      ]
@@ -131,7 +131,7 @@
      "items": [
       {
        "n": "03",
-       "title": "One flat all-inclusive number — labour, truck, fuel, disposal",
+       "title": "One flat number — labour, truck, fuel, disposal",
        "text": []
       }
      ]
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Whether it's a single bedroom in a Bay Ridges condo or every floor of a Dunbarton family home — your quote covers tear-out labour, hauling, truck, fuel and disposal in one number. Nothing is added afterward."
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Nothing is added afterward."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "30–50% less than national franchise competitors",
+       "title": "",
        "text": []
       }
      ]
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Our pricing model at Live Junk Free has been the same since day one: fair, volume-based and completely transparent. Prices start as low as {{cad_125}} for small loads — a single room of carpet costs a fraction of a whole-home tear-out, exactly as it should. Book your free Pickering carpet removal estimate today — fair, volume-based pricing every time."
+     "text": "Our pricing model at Live Junk Free has been the same since day one: fair, volume-based and completely transparent. Book your free Pickering carpet removal estimate today — fair, volume-based pricing every time."
     },
     {
      "t": "cards",
@@ -246,7 +246,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The reason most homeowners in Pickering put off replacing their carpet isn't the new flooring — it's the tear-out. Heavy rolls, sharp tack strips, dusty underpad, and nowhere to dispose of any of it. Our entire same-day carpet removal process in Pickering, Ontario is built to take all of that off your hands. Here's how simple it actually is — 4 steps, start to finish:"
+     "text": "The reason most homeowners in Pickering put off replacing their carpet isn't the new flooring — it's the tear-out. Heavy rolls, sharp tack strips, dusty underpad, and nowhere to dispose of any of it. Our entire same-day carpet removal process in Pickering, Ontario is built to take all of that off your hands, subject to scheduling. Here's how simple it actually is — 4 steps, start to finish:"
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Book Quickly, Get Confirmed Instantly",
        "text": [
-        "Call +1 647 922 5865 or use our online booking form to schedule your Pickering carpet removal in minutes. We offer same-day and next-day appointments with a 30-minute arrival notice, so you're never left waiting around."
+        "Call +1 647 922 5865 or use our online booking form to schedule your Pickering carpet removal in minutes. We offer same-day and next-day appointments with a 30-minute arrival notice, so you're never left waiting around, subject to scheduling."
        ]
       },
       {
        "title": "2. We Arrive, Assess, and Quote",
        "text": [
-        "Our professional crew arrives on time, reviews every room, staircase or basement you want cleared, and provides a clear, all-inclusive quote before any work begins. There is no obligation to proceed and no hidden fees."
+        "Our professional crew arrives on time, reviews every room, staircase or basement you want cleared, and provides a clear, quote before any work begins."
        ]
       },
       {
@@ -289,7 +289,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Pickering is one of Durham Region's most dynamic municipalities — established lakefront homes in Frenchman's Bay, mature family neighbourhoods in Dunbarton and Rougemount with decades-old broadloom, condos and townhomes in Bay Ridges, and thousands of new homes in Seaton where builders' carpet is already being swapped for hardwood. Whatever stage your floors are at, Live Junk Free handles the tear-out and disposal with the same professional standard, transparent pricing and same-day speed every time."
+     "text": "Pickering is one of Durham Region's most dynamic municipalities — established lakefront homes in Frenchman's Bay, mature family neighbourhoods in Dunbarton and Rougemount with decades-old broadloom, condos and townhomes in Bay Ridges, and thousands of new homes in Seaton where builders' carpet is already being swapped for hardwood. Whatever stage your floors are at, Live Junk Free handles the tear-out and disposal with the same professional standard, transparent pricing and same-day speed every time, subject to scheduling."
     },
     {
      "t": "faq",
@@ -474,7 +474,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -504,7 +504,7 @@
        "q": "Q: How much does carpet removal cost in Pickering, Ontario?",
        "a": [
         [
-         "A: Our Pickering carpet removal pricing is 100% volume-based — you pay based on how much space your carpet, underpad and debris fill in our truck, not by the hour or square foot. Prices start at $125 for small loads. We provide a free on-site estimate before any work begins. The price you approve is the price you pay — fair, flat and final."
+         "A: Our Pickering carpet removal pricing is 100% volume-based — you pay based on how much space your carpet, underpad and debris fill in our truck, not by the hour or square foot. We provide a free on-site estimate before any work begins.. — fair, flat and final."
         ]
        ]
       },
@@ -512,7 +512,7 @@
        "q": "Q: Do you offer same-day carpet removal in Pickering?",
        "a": [
         [
-         "A: Yes — same-day carpet removal is available across all of Pickering including Frenchman’s Bay, Bay Ridges, Seaton, Dunbarton, Rougemount and all surrounding Durham Region communities. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+         "A: Yes — same-day carpet removal is available across all of Pickering including Frenchman’s Bay, Bay Ridges, Seaton, Dunbarton, Rougemount and all surrounding Durham Region communities. Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },

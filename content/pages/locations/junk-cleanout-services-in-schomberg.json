@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-day Junk Cleanout Services in Schomberg | Live Junk Free",
-  "description": "Schomberg junk cleanout specialists offer same-day service. Live Junk Free clears garages, estates, attic waste, and appliances. Schedule your removal now!",
+  "title": "Junk Cleanout Services in Schomberg | Live Junk Free",
+  "description": "Schomberg junk cleanout specialists offer same-day service when available. Live Junk Free clears garages, estates, attic waste, and appliances. Schedule your removal now!",
   "canonical": "https://livejunkfree.ca/locations/junk-cleanout-services-in-schomberg/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "junk-cleanout-services-in-schomberg",
+ "title": "Junk Cleanout Services in Schomberg",
  "h1": "Junk Cleanout Services in Schomberg, Ontario — In a Village, One Property Does Many Jobs. So Does Its Cleanout.",
  "published": "2026-07-16T03:51:01",
  "modified": "2026-07-16T03:51:01",
@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Village properties rarely have just one role. The Main Street building with the shop below and the apartment above. The house whose barn moonlights as workshop, warehouse and museum. The farm where three generations of usefulness never quite left. Clearing places like these takes a crew that can read a mixed space — and that’s us. One free walkthrough covering every room and role, one flat all-inclusive quote, and a fully insured team that sorts, hauls and sweeps until the whole property is ready for its next chapter."
+      "Village properties rarely have just one role. The Main Street building with the shop below and the apartment above. The house whose barn moonlights as workshop, warehouse and museum. The farm where three generations of usefulness never quite left. Clearing places like these takes a crew that can read a mixed space — and that’s us. One free walkthrough covering every room and role, one flat quote, and a fully insured team that sorts, hauls and sweeps until the whole property is ready for its next chapter."
      ]
     },
     {
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "This village keeps its history close: heritage buildings along Main Street that have been shop, storeroom and home in a single lifetime, family houses on the streets behind, and farm properties rolling out toward the King countryside. Live Junk Free clears them all at full-service strength — 660+ five-star Google reviews earned across the region, with small communities like this one served weekly, not reluctantly."
+     "text": "This village keeps its history close: heritage buildings along Main Street that have been shop, storeroom and home in a single lifetime, family houses on the streets behind, and farm properties rolling out toward the King countryside. Live Junk Free clears them all at full-service strength — Google reviews earned across the region, with small communities like this one served weekly, not reluctantly."
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Crew, trucks, fuel, disposal fees, scrap runs, donation drop-offs — one number, sealed before we start. When the barn's second level turns out to be as full as its first, that discovery is ours to absorb."
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} When the barn's second level turns out to be as full as its first, that discovery is ours to absorb."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent pricing — 30–50% under the franchise names",
+       "title": "Independent pricing",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national chains price royalties into every quote and rarely route through villages at all. We do neither: locally owned, volume-priced, Schomberg on the schedule every week, and 30–50% cheaper on identical work."
+     "text": "The national chains price royalties into every quote and rarely route through villages at all."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small cleanouts start at {{cad_125}} — a storeroom, a shed, one overloaded cellar. Single buildings land mid-range. Whole properties — every structure and storey — resolve to one locked, all-inclusive number at the free walkthrough. However many roles the property has played, the price plays just one: the figure you approved."
+     "text": "Single buildings land mid-range. Whole properties — every structure and storey — resolve to one locked, number at the free walkthrough. However many roles the property has played, the price plays just one: the figure you approved."
     },
     {
      "t": "cards",
@@ -254,7 +254,7 @@
       {
        "title": "1. Book the Walkthrough",
        "text": [
-        "Call +1 647 922 5865 or book online in minutes. Schomberg sits on our regular routes seven days a week, 6AM to 11PM, with same-day slots and a 30-minute text before we arrive."
+        "Call +1 647 922 5865 or book online in minutes."
        ]
       },
       {
@@ -471,7 +471,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -501,7 +501,7 @@
        "q": "Q: What does a cleanout cost in Schomberg?",
        "a": [
         [
-         "A: Volume sets it — small jobs from $125, single buildings mid-range, whole properties as one flat multi-load figure at the free walkthrough. No travel fees for the village or the concessions, and approved prices are final whatever the layers reveal."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },

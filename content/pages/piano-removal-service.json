@@ -6,7 +6,7 @@
  "template": "AdsLanding",
  "seo": {
   "title": "Piano Removal Near You | GTA | Live Junk Free",
-  "description": "Need piano removal in the GTA? Live Junk Free removes upright & grand pianos from any floor. Same-day available. Starting from $99. Get a free quote!",
+  "description": "Need piano removal in the GTA? Live Junk Free removes upright & grand pianos from any floor. Same-day available. Get a free quote!",
   "canonical": "https://livejunkfree.ca/piano-removal-service/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/piano-removal-services_before.jpg_202607141952.jpeg"
@@ -28,7 +28,7 @@
      "c": [
       {
        "b": [
-        "Any size. Any floor. Any condition. We lift, haul and dispose of it responsibly — same day."
+        "Any size. Any floor. Any condition. We lift, haul and dispose of it responsibly — same day, subject to scheduling."
        ]
       }
      ]
@@ -54,7 +54,7 @@
     {
      "t": "p",
      "c": [
-      "Starting from {{cad_249}}. Covers piano disposal, hauling, and cleanup. No hidden fees."
+      "Covers piano disposal, hauling, and cleanup."
      ]
     }
    ]
@@ -64,12 +64,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Service"
+     "text": "Same-Day Service when available"
     },
     {
      "t": "p",
      "c": [
-      "Book before noon and we are there the same day across the GTA."
+      "Across the GTA."
      ]
     }
    ]
@@ -321,7 +321,7 @@
      "t": "ul",
      "items": [
       [
-       "Upfront pricing from {{cad_249}} — price locked in before we start"
+       "Priced at your free onsite estimate"
       ],
       [
        "Same-day service available across Toronto, Mississauga, Brampton, Vaughan, Markham and more"
@@ -385,12 +385,12 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Upright, Grand & Digital Pianos Removed Any Floor, Any Room, Same Day"
+     "text": "Upright, Grand & Digital Pianos Removed Any Floor, Any Room"
     },
     {
      "t": "h",
      "l": 3,
-     "text": "Getting rid of a piano is not a one-person job. We bring the right crew, the right equipment, and the experience to remove any piano safely — through stairs, tight hallways, and narrow doorways — without damage to your home. Upfront pricing, no hidden fees, fully insured."
+     "text": "Getting rid of a piano is not a one-person job. We bring the right crew, the right equipment, and the experience to remove any piano safely — through stairs, tight hallways, and narrow doorways — without damage to your home. Upfront pricing, fully insured."
     },
     {
      "t": "cards",
@@ -458,7 +458,7 @@
      "t": "cards",
      "items": [
       {
-       "title": "Book in 60 Seconds",
+       "title": "Book",
        "text": [
         "Call 647-922-5865 or fill out the form. Tell us the piano type and your address. We offer same day piano removal across the GTA when you book before noon."
        ]
@@ -490,7 +490,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Real Stories from Satisfied Custom"
+     "text": "Real Stories from Satisfied Customers"
     },
     {
      "t": "reviews"
@@ -511,7 +511,7 @@
        "q": "How much does piano removal cost?",
        "a": [
         [
-         "Piano removal starts from $99 near you. Final price depends on the piano type — upright, baby grand, or grand piano — number of floors, and whether disassembly is needed. All prices confirmed upfront before any work begins."
+         "Final price depends on the piano type — upright, baby grand, or grand piano — number of floors, and whether disassembly is needed. All prices confirmed upfront before any work begins."
         ]
        ]
       },

@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Live Junk Free provides property management cleanout in East Gwillimbury for landlords and property owners across Sharon, Queensville, Holland Landing and Mount Albert. This is the fastest-growing municipality in York Region, and its rental market reflects that — new subdivision homes with legal secondary suites on one side, and farm properties held for generations on the other. We clear both, at one flat price per rental unit with photo documentation included on every job."
+     "text": "Live Junk Free provides property management cleanout in East Gwillimbury for landlords and property owners across Sharon, Queensville, Holland Landing and Mount Albert. This is the fastest-growing municipality in York Region, and its rental market reflects that — new subdivision homes with legal secondary suites on one side, and farm properties held for generations on the other."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -155,10 +155,10 @@
       },
       {
        "n": "04",
-       "title": "Photo documentation with every property management cleanout",
+       "title": "",
        "text": [
         [
-         "You receive a timestamped photo set and a written record of everything removed. Landlords use this damage documentation to support deposit disputes and damage claims at the Landlord and Tenant Board, and it is included at no additional cost."
+         ""
         ]
        ]
       },
@@ -173,7 +173,7 @@
       },
       {
        "n": "06",
-       "title": "Independent property management cleanout pricing, 30–50% below the franchises",
+       "title": "Independent property management cleanout pricing",
        "text": [
         [
          "National junk removal brands build royalty fees into every quote and often add distance charges for properties north of Newmarket. As an independent operator we do neither, which keeps our property management cleanout pricing in East Gwillimbury genuinely competitive."
@@ -287,21 +287,21 @@
     {
      "t": "p",
      "c": [
-      "Three factors never affect your price. Distance — a rental property on the 2nd Concession is priced identically to one in central Sharon, as travel is our cost to absorb. Urgency — a rental unit turnover booked for tomorrow costs the same as one booked next month. Portfolio size — a homeowner with a single suite pays the same per-unit rate as a landlord holding several rental properties across the municipality. We confirm your figure in writing at the walkthrough, and that is what appears on your invoice."
+      "Three factors never affect your price. Urgency — a rental unit turnover booked for tomorrow costs the same as one booked next month. Portfolio size — a homeowner with a single suite pays the same per-unit rate as a landlord holding several rental properties across the municipality. We confirm your figure in writing at the walkthrough, and that is what appears on your invoice."
      ]
     },
     {
      "t": "checks",
      "items": [
       "Haul-Away",
-      "No Stairs Surcharges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
@@ -309,7 +309,7 @@
     {
      "t": "price",
      "label": "East Gwillimbury Property Management Cleanout",
-     "value": "{{cad_125:suffix}}"
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
@@ -378,7 +378,7 @@
        "title": "Your vacant rental unit is ready for the next tenant",
        "text": [
         [
-         "The unit is left swept and empty. Your photo documentation and invoice are issued the same day, so everything is in hand before listing photos are taken."
+         "The unit is left swept and empty."
         ]
        ]
       }
@@ -551,7 +551,7 @@
      "t": "ul",
      "items": [
       [
-       "Property management cleanouts between tenancies can be timed around your listing date so the vacant rental unit is ready for photographs and showings. Short-notice tenant turnover cleanout requests can be accommodated, with pricing unaffected by a compressed timeline. Damage documentation can be captured and photographed as the work progresses, giving property managers a clear record of the unit’s condition. Same-day property management cleanout in East Gwillimbury is available where access permits, with the vacant rental unit returned swept and ready to show."
+       "Property management cleanouts between tenancies can be timed around your listing date so the vacant rental unit is ready for photographs and showings. Short-notice tenant turnover cleanout requests can be accommodated, with pricing unaffected by a compressed timeline. Same-day property management cleanout in East Gwillimbury is available where access permits, with the vacant rental unit returned swept and ready to show."
       ]
      ]
     },
@@ -564,7 +564,7 @@
      "t": "ul",
      "items": [
       [
-       "Rental units left following abandonment or a Landlord and Tenant Board order can be cleared through a structured property cleanout. Inherited farm properties can also be cleared and prepared for a first tenancy, with photo documentation captured on arrival before anything is moved. Discreet, unmarked handling is available in smaller communities where privacy matters. Damage documentation can be prepared for legal representatives, insurers, and the Board, with direct coordination available with executors, paralegals, and property lawyers where required."
+       "Discreet, unmarked handling is available in smaller communities where privacy matters."
       ]
      ]
     }
@@ -807,7 +807,7 @@
     {
      "t": "p",
      "c": [
-      "More than 700 five-star Google reviews across cottage conversions, shoreline clearouts, tenant turnovers and eviction cleanouts — from Keswick and Pefferlaw through to the southern GTA."
+      "Google reviews across cottage conversions, shoreline clearouts, tenant turnovers and eviction cleanouts — from Keswick and Pefferlaw through to the southern GTA."
      ]
     },
     {
@@ -1367,7 +1367,7 @@
          "39. Can property managers receive completion photos for their records?"
         ],
         [
-         "Yes. Photo documentation is available as part of the property management cleanout process. This can help landlords document the property’s condition, confirm that the agreed contents were removed, and maintain records when they are managing the property remotely."
+         "Yes. This can help landlords document the property’s condition, confirm that the agreed contents were removed, and maintain records when they are managing the property remotely."
         ],
         [
          "40. How can I get a property management cleanout quote in East Gwillimbury?"

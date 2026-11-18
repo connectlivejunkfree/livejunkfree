@@ -1,6 +1,4 @@
-import Link from "next/link";
 import type { Crumb, HeroContent } from "@content/designed/types";
-import { HREF } from "@content/designed/routes";
 import { SITE } from "@content/designed/site";
 import { Icon } from "@/components/icons";
 import { Breadcrumbs } from "../ui/Breadcrumbs";
@@ -26,9 +24,10 @@ export function ServiceHero({ hero, crumbs, path }: { hero: HeroContent; crumbs:
           </p>
           <Ticks items={ticks} />
           <div className="btn-row">
-            <Link className="btn btn-primary" href={HREF.contact}>
+            {/* Every page using this hero has its own quote form (CtaBand → #quote-form), audit OBS-18/47/95/121/132. */}
+            <a className="btn btn-primary" href="#quote-form">
               {primary}
-            </Link>
+            </a>
             {secondary ? (
               <a className="btn btn-ghost" href={SITE.tel}>
                 <Icon name="phone" /> {SITE.phone}

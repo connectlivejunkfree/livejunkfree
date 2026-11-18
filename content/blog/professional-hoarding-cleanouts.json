@@ -158,7 +158,7 @@
     {
      "t": "p",
      "c": [
-      "Biohazard Management",
+      "",
       {
        "br": 1
       },
@@ -173,9 +173,6 @@
       ],
       [
        "Animal waste and associated contaminants"
-      ],
-      [
-       "Medical waste and sharp objects"
       ],
       [
        "Chemical cleaners and other dangerous substances"
@@ -299,19 +296,16 @@
     {
      "t": "p",
      "c": [
-      "Deep Cleaning and Sanitization",
+      "",
       {
        "br": 1
       },
-      "Following the removal process, our teams perform comprehensive cleaning that includes:"
+      ""
      ]
     },
     {
      "t": "ul",
      "items": [
-      [
-       "Professional-grade sanitization of all surfaces"
-      ],
       [
        "Air quality improvement through ventilation and filtration"
       ],
@@ -517,9 +511,6 @@
       ],
       [
        "Maintaining property values in the community"
-      ],
-      [
-       "Reducing demands on emergency services"
       ]
      ]
     }

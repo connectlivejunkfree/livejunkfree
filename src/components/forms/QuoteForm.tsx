@@ -5,17 +5,22 @@
  * postal code (Canadian format), service type, preferred day, details, photos
  * (up to 5 × 10 MB). Inline errors, honeypot, Turnstile, then redirect to the
  * thank-you page (Google Ads conversion page).
+ * The service defaults to the page's own category, and the enquiry carries the
+ * exact service, town, page and pricing-truck choice (src/lib/leads/context.ts).
  * UI text only; page copy never lives here.
  */
-import { useCallback, useId, useRef, useState } from "react";
+import { usePathname } from "next/navigation";
+import { useCallback, useEffect, useId, useRef, useState } from "react";
 import { site } from "@/lib/content/client";
-import { HAS_LETTERS, MAX_PHOTOS, MAX_PHOTO_BYTES, NAME_VALID, POSTAL_CODE, phoneDigits } from "@/lib/leads/constants";
-import { DatePicker, NameInput, PhoneInput, PostalInput, SelectMenu } from "./fields";
+import { PRICING_SELECTION_KEY, SERVICE_CATEGORIES, leadContext } from "@/lib/leads/context";
+import { CALLBACK_TIMES, HAS_LETTERS, MAX_PHOTOS, MAX_PHOTO_BYTES, NAME_VALID, POSTAL_CODE, phoneDigits } from "@/lib/leads/constants";
+import { NameInput, PhoneInput, PostalInput, SelectMenu } from "./fields";
+import { fact } from "@/lib/content/facts";
 import { Icon } from "../icons";
 import { Turnstile } from "./Turnstile";
 import { useLeadSubmit } from "./useLeadSubmit";
 
-const SERVICES: readonly string[] = ["Residential junk removal", "Commercial junk removal", "Cleanouts", "Demolition", "Not sure"];
+const SERVICES: readonly string[] = SERVICE_CATEGORIES;
 
 type Props = {
   title?: string;
@@ -26,10 +31,25 @@ type Props = {
   cta?: string;
   formType?: "quote" | "landing";
   id?: string;
+  /** Content page id (content/pages/…/*.json `id`), sent as page_id. */
+  pageId?: string;
 };
 
-export function QuoteForm({ title = "Get a Free Quote", compact = false, service = "", cta = "Get my free quote", formType = "quote", id = "quote-form" }: Props) {
+export function QuoteForm({ title = "Get a Free Quote", compact = false, service = "", cta = "Get my free quote", formType = "quote", id = "quote-form", pageId }: Props) {
   const uid = useId();
+  const pathname = usePathname() ?? "/";
+  const lc = leadContext(pathname);
+  const svc = service && SERVICES.includes(service) ? service : lc.service;
+  // The pricing-truck choice is only sent, never shown, so a ref is enough.
+  const pricing = useRef("");
+  useEffect(() => {
+    try {
+      pricing.current = sessionStorage.getItem(PRICING_SELECTION_KEY) ?? "";
+    } catch {}
+    const on = (e: Event) => (pricing.current = String((e as CustomEvent).detail ?? ""));
+    window.addEventListener("ljf:pricing", on);
+    return () => window.removeEventListener("ljf:pricing", on);
+  }, []);
   const f = (k: string) => `${uid}-${k}`;
   const { status, submit } = useLeadSubmit();
   const [files, setFiles] = useState<File[]>([]);
@@ -76,8 +96,12 @@ export function QuoteForm({ title = "Get a Free Quote", compact = false, service
         email: get("email"),
         postal_code: get("postal_code").toUpperCase(),
         service: get("service"),
-        preferred_date: get("preferred_date"),
+        callback_time: get("callback_time"),
         details: get("details"),
+        service_detail: lc.serviceDetail,
+        city: lc.city,
+        page_id: pageId ?? pathname,
+        pricing_selection: pricing.current,
       },
       { files, turnstileToken: token.current, honeypot: get("company_website") },
     );
@@ -116,10 +140,11 @@ export function QuoteForm({ title = "Get a Free Quote", compact = false, service
         </div>
         {compact ? (
           <div className="field">
-            <label htmlFor={f("preferred_date")}>
-              Preferred day <i>(optional)</i>
+            <label htmlFor={f("callback_time")}>
+              {fact("callbackNote", "label")}
             </label>
-            <DatePicker id={f("preferred_date")} name="preferred_date" />
+            <SelectMenu id={f("callback_time")} name="callback_time" options={CALLBACK_TIMES} placeholder="Choose a time" />
+            <span className="form-note">{fact("callbackNote")}</span>
           </div>
         ) : null}
       </div>
@@ -127,23 +152,24 @@ export function QuoteForm({ title = "Get a Free Quote", compact = false, service
         <div className="row">
           <div className="field">
             <label htmlFor={f("service")}>Service type</label>
-            <SelectMenu id={f("service")} name="service" options={SERVICES} defaultValue={service && SERVICES.includes(service) ? service : SERVICES[0]} placeholder="Choose a service" />
+            <SelectMenu id={f("service")} name="service" options={SERVICES} defaultValue={svc} placeholder="Choose a service" />
           </div>
           <div className="field">
-            <label htmlFor={f("preferred_date")}>
-              Preferred day <i>(optional)</i>
+            <label htmlFor={f("callback_time")}>
+              {fact("callbackNote", "label")}
             </label>
-            <DatePicker id={f("preferred_date")} name="preferred_date" />
+            <SelectMenu id={f("callback_time")} name="callback_time" options={CALLBACK_TIMES} placeholder="Choose a time" />
+            <span className="form-note">{fact("callbackNote")}</span>
           </div>
         </div>
       ) : (
-        <input type="hidden" name="service" value={service} />
+        <input type="hidden" name="service" value={svc} />
       )}
       <div className="field">
         <label htmlFor={f("details")}>
           What needs to go? <i>(optional)</i>
         </label>
-        <textarea id={f("details")} name="details" rows={compact ? 2 : 3} placeholder="e.g. couch and mattress, 3rd floor, elevator available" {...aria("details")} />
+        <textarea id={f("details")} name="details" rows={compact ? 2 : 3} placeholder={lc.prompt} {...aria("details")} />
         {err("details")}
       </div>
       <label className="upload" htmlFor={f("photos")}>

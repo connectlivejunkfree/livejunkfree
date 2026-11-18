@@ -145,7 +145,7 @@
      "items": [
       {
        "n": "03",
-       "title": "One all-inclusive flat-rate number — honest to the last dollar.",
+       "title": "One flat-rate number — honest to the last dollar.",
        "text": []
       }
      ]
@@ -153,7 +153,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Labour, truck, fuel, disposal — everything inside one number. No rural travel surcharge for Ballantrae or Vandorf properties. No \"extended area\" premium for properties on Whitchurch-Stouffville concession roads. No disposal fee discovered at the end. The number we hand you is the complete cost."
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} No rural travel surcharge for Ballantrae or Vandorf properties. No \"extended area\" premium for properties on Whitchurch-Stouffville concession roads. No disposal fee discovered at the end. The number we hand you is the complete cost."
     },
     {
      "t": "steps",
@@ -175,7 +175,7 @@
      "items": [
       {
        "n": "05",
-       "title": "The approved price is locked — permanently.",
+       "title": "{{fact:competitorComparison}}",
        "text": []
       }
      ]
@@ -183,14 +183,14 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Once you've said yes, the number on your invoice will match the number you approved exactly. No additions because an estate job took longer than a townhouse. No adjustments because we encountered more than we expected. You approved it. It's locked. Done."
+     "text": "No additions because an estate job took longer than a townhouse. No adjustments because we encountered more than we expected. You approved it. Done."
     },
     {
      "t": "steps",
      "items": [
       {
        "n": "06",
-       "title": "30–50% less than franchise competitors",
+       "title": "",
        "text": []
       }
      ]
@@ -217,7 +217,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "\"Honest from the start\" isn't just a phrase — it's the design principle behind our entire pricing model. In Whitchurch-Stouffville, where properties range from compact townhouses in Stouffville's newest developments to multi-acre estate properties in Ballantrae and beyond, pricing honesty means one thing above everything else: you know the complete cost before we start, and that cost never changes once you've agreed to it. Prices start as low as {{cad_125}} for small loads. Book your free Whitchurch-Stouffville junk removal estimate — honest pricing, from the very first call."
+     "text": "\"Honest from the start\" isn't just a phrase — it's the design principle behind our entire pricing model. In Whitchurch-Stouffville, where properties range from compact townhouses in Stouffville's newest developments to multi-acre estate properties in Ballantrae and beyond, pricing honesty means one thing above everything else: you know the complete cost before we start, and that cost never changes once you've agreed to it. Prices start as low as {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). Book your free Whitchurch-Stouffville junk removal estimate — honest pricing, from the very first call."
     },
     {
      "t": "cards",
@@ -260,7 +260,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Simple commitment. Consistent delivery. Book today and wake up tomorrow to a clutter-free space — whether it's a Stouffville townhouse garage, a Ballantrae estate outbuilding, or a commercial unit on Main Street. Here's our complete 4-step same-day junk removal process in Whitchurch-Stouffville, Ontario — from your first call to a completely cleared, swept-clean space:"
+     "text": "Simple commitment. Consistent delivery. Book today and wake up tomorrow to a clutter-free space — whether it's a Stouffville townhouse garage, a Ballantrae estate outbuilding, or a commercial unit on Main Street. Here's our complete 4-step same-day junk removal when available process in Whitchurch-Stouffville, Ontario — from your first call to a completely cleared, swept-clean space:"
     },
     {
      "t": "cards",
@@ -268,13 +268,13 @@
       {
        "title": "Book Your Pickup",
        "text": [
-        "Call +1 647 922 5865 or book online in minutes. We'll confirm your same-day or next-day appointment and provide a 30-minute arrival notice before we arrive."
+        "Call +1 647 922 5865 or book online in minutes. We'll confirm your same-day or next-day appointment when available and provide a 30-minute arrival notice before we arrive."
        ]
       },
       {
        "title": "Get an Honest, Upfront Quote",
        "text": [
-        "Our team arrives on time, reviews everything that needs removal, and provides one all-inclusive quote. No hidden fees and no obligation to proceed."
+        "Our team arrives on time, reviews everything that needs removal, and provides one quote. and no obligation to proceed."
        ]
       },
       {
@@ -303,7 +303,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Whitchurch-Stouffville's property landscape is one of the most varied in all of York Region — new townhouse developments and detached homes in Stouffville's growing urban core, large estate and acreage properties in Ballantrae and Vandorf, heritage rural properties across the township, an active commercial corridor on Main Street and Highway 48, and some of the fastest-growing residential construction in the GTA. Live Junk Free is Whitchurch-Stouffville's go-to junk removal company because we handle every single property type — residential, commercial and property cleanouts — with the same local expertise, honest pricing and same-day results."
+     "text": "Whitchurch-Stouffville's property landscape is one of the most varied in all of York Region — new townhouse developments and detached homes in Stouffville's growing urban core, large estate and acreage properties in Ballantrae and Vandorf, heritage rural properties across the township, an active commercial corridor on Main Street and Highway 48, and some of the fastest-growing residential construction in the GTA. Live Junk Free is Whitchurch-Stouffville's go-to junk removal company because we handle every single property type — residential, commercial and property cleanouts — with the same local expertise, honest pricing and same-day results, subject to scheduling."
     },
     {
      "t": "faq",
@@ -594,7 +594,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -624,7 +624,7 @@
        "q": "Q: How much does junk removal cost in Whitchurch-Stouffville, Ontario?",
        "a": [
         [
-         "A: Our Whitchurch-Stouffville junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour. There are no rural surcharges for Ballantrae or Vandorf properties and no travel premiums for properties on township concession roads. Prices start at $125 for small loads. We provide a completely free on-site estimate before any work begins — the price you approve is the price you pay."
+         "A: Our Whitchurch-Stouffville junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour. Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). We provide a completely free on-site estimate before any work begins."
         ]
        ]
       },
@@ -632,7 +632,7 @@
        "q": "Q: Do you offer same-day junk removal in Stouffville?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of Whitchurch-Stouffville including Stouffville, Ballantrae, Vandorf, Lemonville, Gormley and surrounding York Region communities. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+         "A: Yes — same-day junk removal is available across all of Whitchurch-Stouffville including Stouffville, Ballantrae, Vandorf, Lemonville, Gormley and surrounding York Region communities. Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },
@@ -640,7 +640,7 @@
        "q": "Q: Do you handle estate and multi-acre property cleanouts in Ballantrae?",
        "a": [
         [
-         "A: Absolutely — estate and multi-acre property cleanouts in Ballantrae and across Whitchurch-Stouffville Township are one of our most specialised services. We handle full barn clearing, outbuilding cleanouts, agricultural equipment removal, scrap metal removal and complete estate property clearing — at the same fair volume-based pricing as any other job, with no rural surcharges."
+         "A: Absolutely — estate and multi-acre property cleanouts in Ballantrae and across Whitchurch-Stouffville Township are one of our most specialised services."
         ]
        ]
       },
@@ -664,7 +664,7 @@
        "q": "Q: Are you a local company or a national franchise?",
        "a": [
         [
-         "A: We are 100% locally owned and operated — not a franchise. No franchise royalties means our Whitchurch-Stouffville pricing is consistently 30–50% lower than national junk removal chains for the exact same quality of work."
+         "A: We are 100% locally owned and operated — not a franchise."
         ]
        ]
       },

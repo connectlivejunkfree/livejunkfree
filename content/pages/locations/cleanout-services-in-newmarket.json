@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Newmarket that fit around a full calendar — estate, downsizing, moving and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished swept without asking a busy household to rearrange its week, seven days a week."
+     "text": "Cleanout services in Newmarket that fit around a full calendar — estate, downsizing, moving and hoarding cleanouts by an insured crew, quoted flat on site, sorted donation-first, and finished swept without asking a busy household to rearrange its week."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Google Reviews"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Newmarket runs on appointment books and school calendars, and our cleanout crews work around both. Along historic Main Street and the older downtown streets, it’s estate and downsizing cleanouts in homes held for generations, cleared with patience and the character kept. Through Stonehaven, Summerhill Estates and the family subdivisions, it’s the town’s steadiest job: garage, basement and moving cleanouts squeezed into a weekend so Monday starts normally. Near the Davis Drive corridor, it’s office and clinic-adjacent cleanouts for practices and small businesses closing a chapter. And across the Leslie Street and Harry Walker Parkway business parks, it’s landlord and tenant-turnover cleanouts run on lease dates that don’t move. The 660+ five-star Google reviews behind Live Junk Free come from every one of those addresses — flat written quotes, a crew that worked around the family’s actual schedule, and a property handed back cleared without costing anyone their week."
+      "Newmarket runs on appointment books and school calendars, and our cleanout crews work around both. Along historic Main Street and the older downtown streets, it’s estate and downsizing cleanouts in homes held for generations, cleared with patience and the character kept. Through Stonehaven, Summerhill Estates and the family subdivisions, it’s the town’s steadiest job: garage, basement and moving cleanouts squeezed into a weekend so Monday starts normally. Near the Davis Drive corridor, it’s office and clinic-adjacent cleanouts for practices and small businesses closing a chapter. And across the Leslie Street and Harry Walker Parkway business parks, it’s landlord and tenant-turnover cleanouts run on lease dates that don’t move. The Google reviews behind Live Junk Free come from every one of those addresses — flat written quotes, a crew that worked around the family’s actual schedule, and a property handed back cleared without costing anyone their week."
      ]
     },
     {
@@ -114,10 +114,10 @@
      "items": [
       {
        "n": "01",
-       "title": "Flat truck-volume cleanout pricing — from {{cad_125}}, no rush fees for a tight week",
+       "title": "Contact us for a quote",
        "text": [
         [
-         "Newmarket cleanouts price one way: your contents’ share of the truck, from {{cad_125}} for a single space and scaling openly for whole homes. Sorting, every carry, hauling and all disposal fees sit inside one written figure — no hourly clocks, no weight charges, and no premium for booking around a packed calendar."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -132,7 +132,7 @@
       },
       {
        "n": "03",
-       "title": "Weekend and evening cleanouts that don't touch a workweek",
+       "title": "{{fact:weekendPickup}}",
        "text": [
         [
          "Most Newmarket cleanouts book for Saturday, Sunday or after 5PM precisely because that’s when families have the bandwidth to make decisions — and our crews run those hours as standard, not as a special favour. Monday starts the same as any other Monday."
@@ -159,10 +159,10 @@
       },
       {
        "n": "06",
-       "title": "Independent cleanout pricing — 30–50% under the franchise chains",
+       "title": "Independent cleanout pricing",
        "text": [
         [
-         "No head-office royalties inside our quotes and no rush-fee culture on top — local crews, our own trucks, honest volume pricing. Identical Newmarket cleanouts invoice 30–50% below the national brands, whatever the timeline."
+         "No head-office royalties inside our quotes and no rush-fee culture on top — local crews, our own trucks, honest volume pricing."
         ]
        ]
       }
@@ -189,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "Small cleanouts start at {{cad_125}} and scale purely with truck volume — a closet’s worth is a sliver, a garage a few more, a full home fills trucks and prices in plain sight at the walkthrough. The written figure covers sorting, carrying, hauling and every disposal fee; it freezes on approval and holds whatever the basement or the crawlspace remembers. Weekend and evening execution is included in the number, never surcharged."
+      "{{fact:scheduling}}"
      ]
     },
     {
@@ -210,13 +210,13 @@
     },
     {
      "t": "price",
-     "label": "Newmarket Cleanouts From",
-     "value": "{{cad_125}}"
+     "label": "Newmarket Cleanouts Pricing",
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
      "c": [
-      "Volume-priced and all-inclusive — sorting, carrying, hauling and disposal in one figure."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -367,7 +367,7 @@
        "Pre-move and post-move cleanouts so the truck carries only keepers"
       ],
       [
-       "Same-day completion standard for single-space jobs"
+       "Completion standard for single-space jobs"
       ]
      ]
     }
@@ -677,7 +677,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — estate, garage, office and hoarding cleanouts across Newmarket, York Region and the GTA."
+      "Google reviews — estate, garage, office and hoarding cleanouts across Newmarket, York Region and the GTA."
      ]
     },
     {
@@ -719,7 +719,7 @@
        "q": "How long will my cleanout take?",
        "a": [
         [
-         "The duration depends on the size of the property and the volume of items to be removed. Most residential cleanouts are completed within a few hours, while larger estate or commercial cleanouts may require a full day."
+         "The duration depends on the size of the property and the volume of items to be removed."
         ]
        ]
       },

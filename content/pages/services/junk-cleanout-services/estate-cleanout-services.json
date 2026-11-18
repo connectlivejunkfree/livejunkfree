@@ -6,7 +6,7 @@
  "template": "Cleanout",
  "seo": {
   "title": "Estate Cleanout Services - Live JunkFree",
-  "description": "Live Junk Free handles estate cleanout services with care and respect across the Greater Toronto Area. Book today for professional junk removal and responsible sorting.",
+  "description": "Estate cleanouts across the Greater Toronto Area, handled with care and respect. Set aside anything the family wants to keep and we remove the rest. Free onsite estimates.",
   "canonical": "https://livejunkfree.ca/services/junk-cleanout-services/estate-cleanout-services/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/estate-cleanout-services.jpeg"
@@ -200,10 +200,10 @@
      "c": [
       {
        "b": [
-        "A full truckload is {{cad_655:C}}."
+        "Priced at your free onsite estimate"
        ]
       },
-      " Small or single-item removals start at {{cad_125:C}}; that is not the price of a whole-home estate cleanout."
+      " {{fact:quoteText}}"
      ]
     },
     {
@@ -320,7 +320,7 @@
        "q": "How much does an estate cleanout cost?",
        "a": [
         [
-         "The price depends on the items, number of loads, access and work required. A full truckload is C$655, while small removals start at C$125. Larger properties may take several loads. Call to discuss the scope and applicable charges."
+         "The price depends on the items, number of loads, access and work required. Larger properties may take several loads. Call to discuss the scope and applicable charges."
         ]
        ]
       },

@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "King City holds its businesses to a high standard — junk removal should meet it. We clear boutiques, offices, club facilities and estate-based businesses in one discreet visit: an insured junk removal crew, a free flat-rate quote written on site, every carry handled by us, and same-day junk pickup available across King City seven days a week."
+     "text": "King City holds its businesses to a high standard — junk removal should meet it."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Junk Removal Reviews on Google"
+     "text": "★★★★★ Junk Removal Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "King City properties aren’t casual about who comes up the driveway — and neither are we about who we send. The 660+ five-star Google reviews behind Live Junk Free include King Road boutique owners, club managers and estate-business operators who all noticed the same things: a junk removal crew that showed up polished and on the minute, a flat quote that stayed exactly where it was written, floors and finishes treated like they were under warranty, and a clear-out conducted quietly enough that the neighbours never had a reason to ask. High standards, honest volume pricing — that’s the whole formula."
+      "King City properties aren’t casual about who comes up the driveway — and neither are we about who we send. The Google reviews behind Live Junk Free include King Road boutique owners, club managers and estate-business operators who all noticed the same things: a junk removal crew that showed up polished and on the minute, a flat quote that stayed exactly where it was written, floors and finishes treated like they were under warranty, and a clear-out conducted quietly enough that the neighbours never had a reason to ask. High standards, honest volume pricing — that’s the whole formula."
      ]
     },
     {
@@ -115,7 +115,7 @@
        "title": "Volume-priced junk removal — estate addresses pay estate-free rates",
        "text": [
         [
-         "Prestige postal codes attract padded quotes from some haulers. Not ours. Junk removal in King City prices exactly like everywhere else we work: your load’s share of the truck, and nothing more. No area premium, no weight charges, no long-driveway line item. The number reflects the junk, never the address."
+         "Prestige postal codes attract padded quotes from some haulers. Not ours. Junk removal in King City prices exactly like everywhere else we work: your load’s share of the truck, and nothing more. The number reflects the junk, never the address."
         ]
        ]
       },
@@ -151,16 +151,16 @@
        "title": "Discreet junk pickup, timed and conducted quietly",
        "text": [
         [
-         "Some clear-outs are nobody’s business — a boutique rebranding, a club refreshing mid-membership-year, an estate operation in transition. We schedule for your quietest hours anywhere in the 6AM–11PM, seven-day window, work through service entrances, and keep the operation low-profile from arrival to departure."
+         "Some clear-outs are nobody’s business — a boutique rebranding, a club refreshing mid-membership-year, an estate operation in transition."
         ]
        ]
       },
       {
        "n": "06",
-       "title": "Independent junk removal — 30–50% below the franchise brands",
+       "title": "Independent junk removal",
        "text": [
         [
-         "The national junk removal names carry franchise royalties in every quote, and in King City they’re rarely shy about the markup. We’re locally owned with no head-office cut — which is why the identical load, handled with more care, still invoices 30–50% lower."
+         "The national junk removal names carry franchise royalties in every quote, and in King City they’re rarely shy about the markup."
         ]
        ]
       }
@@ -187,7 +187,7 @@
     {
      "t": "p",
      "c": [
-      "Every quote is truck volume, made visible: small commercial junk pickups from {{cad_125}}, single items priced as the sliver of space they occupy, full clear-outs scaling openly from there. The figure is written at your property before anything moves and freezes on approval — no discovery clauses, no access charges, no adjustment for how heavy, awkward or far from the truck the load turns out to be."
+      "Every quote is truck volume, made visible: small commercial junk pickups from {{min_price:C}}, single items priced as the sliver of space they occupy, full clear-outs scaling openly from there. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
      ]
     },
     {
@@ -208,13 +208,13 @@
     },
     {
      "t": "price",
-     "label": "King City Junk Removal From",
-     "value": "{{cad_125}}"
+     "label": "King City Junk Removal Pricing",
+     "value": "Junk Load from {{min_price:C}}"
     },
     {
      "t": "p",
      "c": [
-      "One all-in volume rate — dismantling, every carry, hauling and disposal included."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -257,7 +257,7 @@
        "title": "Arrange Your King City Junk Pickup",
        "text": [
         [
-         "A two-minute call to +1 647 922 5865 — or an online booking — sets the window. King City sits on our daily York Region routes, 6AM to 11PM, seven days, so same-day junk removal is frequently available, and the crew’s 30-minute courtesy call comes as standard."
+         "A two-minute call to +1 647 922 5865 — or an online booking — sets the window."
         ]
        ]
       },
@@ -416,7 +416,7 @@
        "Filing rooms, safes and records storage cleared and hauled"
       ],
       [
-       "Certified e-waste recycling for IT equipment"
+       "E-waste recycling for IT equipment"
       ],
       [
        "Tenant turnover clear-outs for King City landlords, documented"
@@ -675,7 +675,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — boutiques, stables, clubs, offices and landlords across King City, York Region and the GTA."
+      "Google reviews — boutiques, stables, clubs, offices and landlords across King City, York Region and the GTA."
      ]
     },
     {
@@ -701,7 +701,7 @@
        "q": "What does commercial junk removal cost in King City?",
        "a": [
         [
-         "Truck volume alone sets it: small pickups from $125, everything else scaling with the space your load fills. The exact figure is written free during a walkthrough at your King City property before work begins — carries, dismantling, distance and disposal fees all inside, and no prestige-area markup anywhere in it."
+         "Truck volume alone sets it: small pickups from {{min_price:C}}, everything else scaling with the space your load fills. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
         ]
        ]
       },
@@ -733,7 +733,7 @@
        "q": "How quickly can a crew reach my King City business?",
        "a": [
         [
-         "Often the same day. Trucks run King Township daily, 6AM–11PM, seven days a week, and a morning call to +1 647 922 5865 regularly becomes an afternoon junk pickup. You’ll get today’s real availability, stated plainly."
+         "Often the same day. You’ll get today’s real availability, stated plainly."
         ]
        ]
       },
@@ -754,7 +754,7 @@
        ]
       },
       {
-       "q": "Why are your rates 30–50% below the national junk removal brands?",
+       "q": "Why are your rates",
        "a": [
         [
          "Structure. Franchise quotes carry royalties to head office and often an extra measure for the postal code; ours carry neither. Locally owned, independently run — same insurance, better care, and a materially smaller number at the bottom of the page."

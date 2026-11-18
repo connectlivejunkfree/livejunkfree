@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "Tired of that unused hot tub taking up space? Our professional hot tub demolition and removal service starts at just {{cad_225}}, and we handle the entire process for you. We’ll safely dismantle your old Jacuzzi, spa, or above-ground tub, haul away all the debris, and leave your backyard spotless, no heavy lifting or mess left behind."
+      "Tired of that unused hot tub taking up space? We’ll safely dismantle your old Jacuzzi, spa, or above-ground tub, haul away all the debris, and leave your backyard tidy, no heavy lifting or mess left behind."
      ]
     },
     {
@@ -130,7 +130,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -144,18 +144,18 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Hot Tub Removal Service Near You"
+     "text": "Hot Tub Removal Service Near You"
     },
     {
      "t": "p",
      "c": [
-      "Removing an old hot tub is harder than it appears, and that’s why our professional demolition team handles everything for you. When you choose us, you get a guaranteed hassle-free experience from start to finish."
+      "Removing an old hot tub is harder than it appears, and that’s why our professional demolition team handles everything for you. {{fact:scheduling}}"
      ]
     },
     {
      "t": "p",
      "c": [
-      "We understand some projects need immediate attention, whether you are preparing for landscaping, creating an outdoor living space, or simply reclaiming your backyard. That’s why we offer same-day or next-day hot tub demolition and removal in your area. Our quick response means you could have your space cleared in just hours."
+      "We understand some projects need immediate attention, whether you are preparing for landscaping, creating an outdoor living space, or simply reclaiming your backyard. That’s why we offer same-day or next-day hot tub demolition and removal in your area, subject to scheduling. Our quick response means you could have your space cleared in just hours."
      ]
     },
     {
@@ -196,11 +196,11 @@
       {
        "title": "Fast & Efficient",
        "text": [
-        "We remove hot tubs in 2-3 hours (no weekend DIY struggles)"
+        "Timing confirmed at your estimate"
        ]
       },
       {
-       "title": "Multi-Unit Discounts",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         "Special rates when removing multiple spas or tubs"
        ]
@@ -208,7 +208,7 @@
       {
        "title": "Flexible Scheduling",
        "text": [
-        "Available 7 days/week with same-day emergency service"
+        ""
        ]
       },
       {
@@ -249,10 +249,10 @@
      "t": "ul",
      "items": [
       [
-       "We specialize in hot tub demolition and removal in any location, whether your spa is wedged in a tight backyard space, positioned on a delicate deck, or surrounded by intricate landscaping. Our expert technicians use specialized techniques to carefully disconnect and dismantle your hot tub while protecting your property, leaving absolutely no damage behind. From compact inflatable models to massive luxury spas, we handle every removal with meticulous attention to detail."
+       "We specialize in hot tub demolition and removal in any location, whether your spa is wedged in a tight backyard space, positioned on a delicate deck, or surrounded by intricate landscaping. Our expert technicians use specialized techniques to carefully disconnect and dismantle your hot tub while protecting your property, leaving absolutely behind. From compact inflatable models to massive luxury spas, we handle every removal with meticulous attention to detail."
       ],
       [
-       "We manage the complete process, from safe disconnection and demolition to debris removal and final cleanup, so you don’t need to worry about anything. Our team arrives fully prepared with all necessary equipment to tackle even the most challenging hot tub removals, ensuring every component is disposed of properly. When we finish, your space won’t just be empty – it will be spotless and ready for your next backyard project."
+       "We manage the complete process, from safe disconnection and demolition to debris removal and final cleanup, so you don’t need to worry about anything. Our team arrives fully prepared with all necessary equipment to tackle even the most challenging hot tub removals, ensuring every component is disposed of properly. When we finish, your space won’t just be empty – it will be tidy and ready for your next backyard project."
       ]
      ]
     },
@@ -320,13 +320,13 @@
      "t": "ul",
      "items": [
       [
-       "Free same-day estimates by phone, text, or online"
+       "Free estimates by phone, text, or online"
       ],
       [
        "Special pricing for multiple hot tub removals"
       ],
       [
-       "No hidden fees – our quotes are 100% locked in"
+       "– our quotes are confirmed before work starts"
       ]
      ]
     }
@@ -392,19 +392,19 @@
       {
        "title": "Get Your Quote",
        "text": [
-        "Receive transparent, upfront pricing with no hidden fees. We'll provide a fair quote based on your hot tub's size, type, and accessibility."
+        "We'll provide a fair quote based on your hot tub's size, type, and accessibility."
        ]
       },
       {
        "title": "Pick Your Time",
        "text": [
-        "Choose same-day, next-day, or schedule a time that works best for you. We accommodate urgent and planned removals."
+        "Choose same-day, next-day, or schedule a time that works best for you, subject to scheduling. We accommodate urgent and planned removals."
        ]
       },
       {
        "title": "We Remove It",
        "text": [
-        "Our professional crew arrives on time, safely dismantles your hot tub, hauls away all debris, and leaves your space spotless, usually in 2-3 hours."
+        "Our professional crew arrives on time, safely dismantles your hot tub, hauls away all debris, and leaves your space tidy."
        ]
       }
      ]
@@ -485,7 +485,7 @@
        "q": "How long does hot tub demolition take?",
        "a": [
         [
-         "Most hot tub removals are completed in 2-3 hours, from start to cleanup."
+         "Timing confirmed at your estimate"
         ]
        ]
       }
@@ -632,10 +632,10 @@
          "For an old hot tub that needs to be dismantled before removal, a junk removal company that also provides demolition can be a convenient option. Live Junk Free handles both hot tub demolition and junk removal, allowing the same crew to dismantle, load, haul, and dispose of the tub."
         ],
         [
-         "3. Does the removal quote include hauling and disposal fees for the fiberglass shell?"
+         "3. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
         ],
         [
-         "The scope of the quote should clearly explain what is included in demolition, loading, hauling, and disposal. Live Junk Free provides full-service hot tub removal, so you do not need to arrange a separate hauling company for the demolished tub."
+         "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Live Junk Free provides full-service hot tub removal, so you do not need to arrange a separate hauling company for the demolished tub."
         ],
         [
          "4. How much extra do contractors charge to remove a hot tub that is built into a deck or gazebo?"

@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Table Removal Services from Live Junk Free — an insured crew disassembles, carries out and hauls away any table, from a dining set to a full slate pool table, quoted flat on site, seven days a week, across the whole GTA."
+     "text": "{{fact:nextAvailable}}"
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Google Reviews"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -165,7 +165,7 @@
       },
       {
        "n": "06",
-       "title": "Independent pricing, 30–50% under the bigger outfits",
+       "title": "Independent pricing",
        "text": [
         [
          "National junk removal franchises build a royalty into every quote. Live Junk Free carries none of that overhead."
@@ -201,7 +201,7 @@
     {
      "t": "p",
      "c": [
-      "Every quote is one flat number covering carrying, any disassembly needed, and haul-away for disposal, donation or recycling."
+      "{{fact:taxNote}}. {{fact:pricingIntro.extra}}"
      ]
     },
     {
@@ -222,8 +222,8 @@
     },
     {
      "t": "price",
-     "label": "Small Pickups Start At",
-     "value": "{{cad_125}}"
+     "label": "Small Pickups Pricing",
+     "value": "Junk Load from {{min_price:C}}"
     },
     {
      "t": "p",
@@ -256,7 +256,7 @@
     {
      "t": "p",
      "c": [
-      "A table removal appointment follows four steps: booking, a free on-site quote, disassembly and carrying, and same-day haul-away."
+      "A table removal appointment follows four steps: booking, a free on-site quote, disassembly and carrying, and same-day haul-away when available."
      ]
     }
    ]
@@ -271,7 +271,7 @@
        "title": "Book Your Table Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available, seven days a week, 6AM to 11PM."
+         "Call +1 647 922 5865 or book online — same-day slots are usually available."
         ]
        ]
       },
@@ -295,7 +295,7 @@
       },
       {
        "n": "04",
-       "title": "Your Space Is Clear the Same Day",
+       "title": "Your Space Is Clear",
        "text": [
         [
          "The table routes to donation where it’s still usable, or to recycling and responsible disposal where it isn’t."
@@ -484,7 +484,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews from businesses and property managers across Aurora and the GTA."
+      "Google reviews from businesses and property managers across Aurora and the GTA."
      ]
     },
     {

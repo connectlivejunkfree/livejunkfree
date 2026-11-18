@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -115,7 +115,7 @@
     {
      "t": "p",
      "c": [
-      "Tired of that unused above ground pool taking up space? Our professional above ground demolition and removal service starts at just {{cad_125}}, and we handle the entire process for you. We’ll safely dismantle your old Jacuzzi, spa, or above-ground tub, haul away all the debris, and leave your backyard spotless, no heavy lifting or mess left behind."
+      "Tired of that unused above ground pool taking up space? We’ll safely dismantle your old Jacuzzi, spa, or above-ground tub, haul away all the debris, and leave your backyard tidy, no heavy lifting or mess left behind."
      ]
     },
     {
@@ -137,7 +137,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -151,18 +151,18 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Above Ground Pool Removal Service Near You"
+     "text": "Above Ground Pool Removal Service Near You"
     },
     {
      "t": "p",
      "c": [
-      "Removing an old above ground pool is harder than it appears, and that’s why our professional demolition team handles everything for you. When you choose us, you get a guaranteed hassle-free experience from start to finish."
+      "Removing an old above ground pool is harder than it appears, and that’s why our professional demolition team handles everything for you. {{fact:scheduling}}"
      ]
     },
     {
      "t": "p",
      "c": [
-      "We understand some projects need immediate attention, whether you are preparing for landscaping, creating an outdoor living space, or simply reclaiming your backyard. That’s why we offer same-day or next-day above ground demolition and removal in your area. Our quick response means you could have your space cleared in just hours."
+      "We understand some projects need immediate attention, whether you are preparing for landscaping, creating an outdoor living space, or simply reclaiming your backyard. That’s why we offer same-day or next-day above ground demolition and removal in your area, subject to scheduling. Our quick response means you could have your space cleared in just hours."
      ]
     },
     {
@@ -193,7 +193,7 @@
      "c": [
       {
        "b": [
-        "We Offer Same-Day above ground Demolition Service"
+        "We Offer Same-Day when available above ground Demolition Service"
        ]
       }
      ]
@@ -213,11 +213,11 @@
       {
        "title": "Fast & Efficient",
        "text": [
-        "– We remove Above Ground Pool in 2-3 hours (no weekend DIY struggles)"
+        "Timing confirmed at your estimate"
        ]
       },
       {
-       "title": "Multi-Unit Discounts",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         "– Special rates when removing multiple spas or tubs"
        ]
@@ -225,7 +225,7 @@
       {
        "title": "Flexible Scheduling",
        "text": [
-        "Available 7 days a week with 24/7 emergency service"
+        ""
        ]
       },
       {
@@ -243,7 +243,7 @@
       {
        "title": "Safety First",
        "text": [
-        "– Certified pros handle electrical/disconnections safely"
+        "{{fact:recycling}}"
        ]
       }
      ]
@@ -267,10 +267,10 @@
      "t": "ul",
      "items": [
       [
-       "We specialize in above ground pool demolition and removal in any location, whether your spa is wedged in a tight backyard space, positioned on a delicate deck, or surrounded by intricate landscaping. Our expert technicians use specialized techniques to carefully disconnect and dismantle your above ground while protecting your property, leaving absolutely no damage behind. From compact inflatable models to massive luxury spas, we handle every removal with meticulous attention to detail."
+       "We specialize in above ground pool demolition and removal in any location, whether your spa is wedged in a tight backyard space, positioned on a delicate deck, or surrounded by intricate landscaping. Our expert technicians use specialized techniques to carefully disconnect and dismantle your above ground while protecting your property, leaving absolutely behind. From compact inflatable models to massive luxury spas, we handle every removal with meticulous attention to detail."
       ],
       [
-       "We manage the complete process, from safe disconnection and demolition to debris removal and final cleanup, so you don’t need to worry about anything. Our team arrives fully prepared with all necessary equipment to tackle even the most challenging above ground removals, ensuring every component is disposed of properly. When we finish, your space won’t just be empty – it will be spotless and ready for your next backyard project."
+       "We manage the complete process, from safe disconnection and demolition to debris removal and final cleanup, so you don’t need to worry about anything. Our team arrives fully prepared with all necessary equipment to tackle even the most challenging above ground removals, ensuring every component is disposed of properly. When we finish, your space won’t just be empty – it will be tidy and ready for your next backyard project."
       ]
      ]
     },
@@ -341,13 +341,13 @@
      "t": "ul",
      "items": [
       [
-       "Free same-day estimates by phone, text, or online"
+       "Free estimates by phone, text, or online"
       ],
       [
        "Special pricing for multiple above ground removals"
       ],
       [
-       "No hidden fees – our quotes are 100% locked in"
+       "– our quotes are confirmed before work starts"
       ]
      ]
     }
@@ -413,19 +413,19 @@
       {
        "title": "Get Your Quote",
        "text": [
-        "Receive transparent, upfront pricing with no hidden fees. We'll provide a fair quote based on your above ground's pool size, type, and accessibility."
+        "We'll provide a fair quote based on your above ground's pool size, type, and accessibility."
        ]
       },
       {
        "title": "Pick Your Time",
        "text": [
-        "Choose same-day, next-day, or schedule a time that works best for you. We accommodate urgent and planned removals."
+        "Choose same-day, next-day, or schedule a time that works best for you, subject to scheduling. We accommodate urgent and planned removals."
        ]
       },
       {
        "title": "We Remove It",
        "text": [
-        "Our professional crew arrives on time, safely dismantles your above ground, hauls away all debris, and leaves your space spotless, usually in 2-3 hours."
+        "Our professional crew arrives on time, safely dismantles your above ground, hauls away all debris, and leaves your space tidy."
        ]
       }
      ]
@@ -482,7 +482,7 @@
        "q": "How much does above ground demolition and removal cost?",
        "a": [
         [
-         "Our above ground demolition and removal service starts at $125, with the final price depending on the size and type of your above ground."
+         "{{fact:quoteText}}"
         ]
        ]
       },
@@ -636,13 +636,13 @@
          "1. How much does it cost to demolish and remove an above-ground pool?"
         ],
         [
-         "Live Junk Free’s above-ground pool demolition and removal service starts at $125. The final price depends on factors such as the pool’s size, type, condition, accessibility, and the amount of dismantling and hauling required."
+         "The final price depends on factors such as the pool’s size, type, condition, accessibility, and the amount of dismantling and hauling required."
         ],
         [
          "2. What is the average price to tear down a wooden deck or patio?"
         ],
         [
-         "The cost depends on the deck or patio’s size, material, construction, condition, and accessibility. Live Junk Free’s deck demolition service starts at $125, with a free quote provided based on the actual structure and work involved."
+         "The cost depends on the deck or patio’s size, material, construction, condition, and accessibility."
         ],
         [
          "3. How much do contractors charge to demolish an old shed or detached garage?"
@@ -651,7 +651,7 @@
          "Shed and garage demolition pricing varies according to the structure’s size, materials, complexity, and access. Live Junk Free provides a project-specific quote after assessing what needs to be dismantled, removed, loaded, and hauled away."
         ],
         [
-         "4. Are dumpster rental and disposal fees included in the demolition quote?"
+         "4. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
         ],
         [
          "Live Junk Free handles the loading, hauling, and disposal or recycling of demolition debris as part of the service. The exact scope and pricing are confirmed in the quote before work begins, so you know what is included."
@@ -684,7 +684,7 @@
          "9. How long does it take to complete a standard above-ground demolition?"
         ],
         [
-         "The timeline depends on the type and size of the structure. Live Junk Free states that above-ground pool removals can often be completed in about 2–3 hours, while most standard deck demolition projects take around 3–5 hours. Larger or more complex structures may take longer."
+         "The timeline depends on the type and size of the structure. Larger or more complex structures may take longer."
         ],
         [
          "10. What specialized equipment will be used?"
@@ -768,7 +768,7 @@
          "23. How far in advance do I need to schedule a demolition service?"
         ],
         [
-         "It depends on the project and crew availability. Live Junk Free offers flexible scheduling, including same-day and next-day options for certain demolition services, as well as appointments scheduled in advance."
+         "It depends on the project and crew availability. Live Junk Free offers flexible scheduling, including same-day and next-day options for certain demolition services, as well as appointments scheduled in advance, subject to scheduling."
         ],
         [
          "24. Where does the demolition debris go after it leaves my property?"
@@ -825,7 +825,7 @@
          "32. How much money can I save by doing the teardown myself versus hiring a service?"
         ],
         [
-         "The potential savings depend on the size and complexity of the demolition. DIY costs can include equipment rentals, transportation, disposal fees, protective equipment, and your own time. A professional quote lets you compare the complete cost against the time and effort required for DIY removal."
+         "The potential savings depend on the size and complexity of the demolition. {{fact:taxNote}}. {{fact:pricingIntro.extra}} A professional quote lets you compare the complete cost against the time and effort required for DIY removal."
         ],
         [
          "33. What are the biggest risks of DIY demolition for residential structures?"
@@ -843,13 +843,13 @@
          "35. What questions should I ask a contractor during the initial estimate or consultation?"
         ],
         [
-         "Ask what is included in the price, whether debris hauling and disposal are included, how long the project should take, whether permits are required, how the property will be protected, and what happens if unexpected conditions are discovered. Also ask whether the quote is fixed or subject to additional charges."
+         "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Also ask whether the quote is fixed or subject to additional charges."
         ],
         [
          "36. Should I get multiple quotes, and how do I compare them accurately?"
         ],
         [
-         "Getting multiple quotes can help you compare pricing and services. Don’t compare only the total price; check whether each quote includes demolition, labour, loading, hauling, disposal, cleanup, permits, and any concrete or foundation removal that may be required."
+         "Getting multiple quotes can help you compare pricing and services."
         ],
         [
          "37. What should be included in a written demolition contract?"

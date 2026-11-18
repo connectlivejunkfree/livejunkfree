@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -115,7 +115,7 @@
         "Live Junk Free"
        ]
       },
-      ", we specialize in making old decks disappear quickly, safely, and affordably. Our professional deck demolition service starts at just {{cad_125}}, and we handle every step from the first loose board to the final sweep of your clean, open yard."
+      ", we specialize in making old decks disappear quickly, safely, and affordably."
      ]
     },
     {
@@ -131,7 +131,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -145,7 +145,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Deck Demolition Service in Your Neighborhood"
+     "text": "Deck Demolition Service in Your Neighborhood"
     },
     {
      "t": "p",
@@ -156,7 +156,7 @@
     {
      "t": "p",
      "c": [
-      "That’s where our professional deck demolition team comes in. We handle every aspect of the job so you don’t have to risk injury or frustration. Whether you’re making space for a new outdoor living area, eliminating a safety hazard, or just tired of looking at that deteriorating structure, we offer same-day and next-day deck removal throughout the area."
+      "That’s where our professional deck demolition team comes in. We handle every aspect of the job so you don’t have to risk injury or frustration. Whether you’re making space for a new outdoor living area, eliminating a safety hazard, or just tired of looking at that deteriorating structure, we offer same-day and next-day deck removal throughout the area, subject to scheduling."
      ]
     },
     {
@@ -187,7 +187,7 @@
      "c": [
       {
        "b": [
-        "We Offer Same-Day Deck Demolition Service"
+        "We Offer Deck Demolition Service"
        ]
       }
      ]
@@ -207,11 +207,11 @@
       {
        "title": "Quick Turnaround",
        "text": [
-        "– Most deck demolition projects are completed in just 3-5 hours"
+        "Timing confirmed at your estimate"
        ]
       },
       {
-       "title": "Volume Discounts",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         "– Special pricing when removing multiple decks or large structures"
        ]
@@ -219,7 +219,7 @@
       {
        "title": "Convenient Scheduling",
        "text": [
-        "– Available weekdays, weekends, and holidays with same-day emergency service"
+        ""
        ]
       },
       {
@@ -237,7 +237,7 @@
       {
        "title": "Eco-Conscious Approach",
        "text": [
-        "– Over 85% of materials recycled or repurposed"
+        "{{fact:recycling}}"
        ]
       }
      ]
@@ -288,7 +288,7 @@
        "Concrete footings and supports are crushed for reuse in construction projects"
       ],
       [
-       "Railings and hardware are properly processed at certified recycling facilities"
+       "Railings and hardware are properly processed at recycling facilities"
       ]
      ]
     },
@@ -321,13 +321,13 @@
      "t": "ul",
      "items": [
       [
-       "Free same-day estimates by phone, text, or online form"
+       "Free estimates by phone, text, or online form"
       ],
       [
        "Special reduced rates for multiple deck removals"
       ],
       [
-       "Price-match guarantee on all written quotes"
+       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -381,19 +381,19 @@
       {
        "title": "Get Your Quote",
        "text": [
-        "Receive straightforward pricing with no hidden fees, and we will explain costs based on your deck's size, materials, and condition."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Pick Your Time",
        "text": [
-        "Select same-day emergency service, next-day availability, or schedule a future date that works for you."
+        ""
        ]
       },
       {
        "title": "We Remove It",
        "text": [
-        "Our crew arrives on time, safely demolishes your deck, removes all debris, and leaves your yard clean, typically in just 2-4 hours."
+        "Our crew arrives on time, safely demolishes your deck, removes all debris, and leaves your yard clean."
        ]
       }
      ]
@@ -450,7 +450,7 @@
        "q": "How much does deck demolition cost?",
        "a": [
         [
-         "Our services start at $125, with final pricing based on size, materials, and complexity. We provide free, no-obligation estimates."
+         "We provide free, no-obligation estimates."
         ]
        ]
       },
@@ -466,7 +466,7 @@
        "q": "Do I need a permit for deck removal?",
        "a": [
         [
-         "Most municipalities don’t require permits for demolition, but we’ll advise on local regulations and can handle permits if needed."
+         ""
         ]
        ]
       },
@@ -474,7 +474,7 @@
        "q": "How long does deck demolition take?",
        "a": [
         [
-         "Most standard decks take 3-5 hours. Multi-level or complex designs may take longer."
+         "Most standard decks. Multi-level or complex designs may take longer."
         ]
        ]
       }

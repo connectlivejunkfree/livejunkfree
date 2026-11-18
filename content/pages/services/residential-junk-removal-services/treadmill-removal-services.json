@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -69,7 +69,7 @@
     {
      "t": "p",
      "c": [
-      "We start with a free, transparent quote, so you know exactly what to expect, with no hidden fees. Serving your area, we prioritize fast, affordable, and sustainable removal, helping you reclaim your space without the hassle."
+      "Serving your area, we prioritize fast, affordable, and sustainable removal, helping you reclaim your space without the hassle."
      ]
     },
     {
@@ -143,7 +143,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -175,7 +175,7 @@
     {
      "t": "p",
      "c": [
-      "We understand how quickly you want to free up space, whether you’re upgrading your gym equipment, moving, or just decluttering. That’s why we offer same-day and next-day pickup to fit your schedule."
+      "We understand how quickly you want to free up space, whether you’re upgrading your gym equipment, moving, or just decluttering. That’s why we offer same-day and next-day pickup to fit your schedule, subject to scheduling."
      ]
     },
     {
@@ -206,7 +206,7 @@
      "c": [
       {
        "b": [
-        "We Offer Same-Day Treadmill Removal!"
+        "We Offer Treadmill Removal!"
        ]
       }
      ]
@@ -224,13 +224,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Multi-Service Savings",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         "Get discounts when combining treadmill removal with other junk removal or home gym cleanout services"
        ]
       },
       {
-       "title": "Damage-Free Guarantee",
+       "title": "Careful Removal",
        "text": [
         "We use protective equipment and insured techniques to safeguard your floors, walls, and doorways during removal"
        ]
@@ -244,19 +244,19 @@
       {
        "title": "Eco-Conscious Disposal",
        "text": [
-        "90%+ of materials properly recycled or donated through certified programs to reduce environmental impact"
+        "{{fact:recycling}}"
        ]
       },
       {
-       "title": "All-Inclusive Pricing",
+       "title": "Pricing",
        "text": [
-        "Your upfront quote covers disassembly, removal, hauling, and complete cleanup, no surprise charges"
+        "Your upfront quote covers disassembly, removal, hauling, and complete cleanup"
        ]
       },
       {
        "title": "Same-Day Availability",
        "text": [
-        "Need it gone today? We offer urgent same-day pickup for quick cleanouts"
+        "Need it gone today? We offer urgent same-day pickup when available for quick cleanouts"
        ]
       }
      ]
@@ -301,7 +301,7 @@
      "t": "ul",
      "items": [
       [
-       "Responsible Recycling: We properly recycle up to 90% of materials, including metals, electronics, and rubber components, through certified facilities"
+       "{{fact:recycling}}"
       ],
       [
        "Donation Program: Functional equipment finds new life through local community centers and charities"
@@ -328,7 +328,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Fair, Upfront Pricing – No Hidden Fees"
+     "text": "Fair, Upfront Pricing"
     },
     {
      "t": "p",
@@ -340,7 +340,7 @@
      "t": "ul",
      "items": [
       [
-       "Free Instant Estimates – Get accurate quotes by phone, text, or online in minutes"
+       "{{fact:freeOnsiteEstimates}}"
       ],
       [
        "Flat-Rate Pricing – Know exactly what you’ll pay before we start"
@@ -403,7 +403,7 @@
       {
        "title": "Get Your Quote",
        "text": [
-        "Receive fair, upfront pricing for your treadmill removal, including disassembly, hauling, and eco-friendly disposal or recycling options."
+        "{{fact:taxNote}}. {{fact:pricingIntro.extra}}"
        ]
       },
       {
@@ -500,7 +500,7 @@
        "q": "5) Is treadmill removal eco-friendly?",
        "a": [
         [
-         "Yes. We recycle up to 90% of materials, including metals, electronics, and rubber components, through certified facilities. Working parts are donated when possible. We minimize landfill waste through responsible disposal practices. "
+         "Yes. Working parts are donated when possible. We minimize landfill waste through responsible disposal practices. "
         ]
        ]
       },
@@ -516,7 +516,7 @@
        "q": "7) How much notice is needed to schedule a treadmill pickup?",
        "a": [
         [
-         "Same-day service is often available. For best scheduling, a 24-hour notice is ideal. We offer flexible appointments, including evenings and weekends to accommodate your schedule. Emergency removals can frequently be accommodated. "
+         "Same-day service is often available. For best scheduling, a 24-hour notice is ideal. We offer flexible appointments, including evenings and weekends to accommodate your schedule. "
         ]
        ]
       }

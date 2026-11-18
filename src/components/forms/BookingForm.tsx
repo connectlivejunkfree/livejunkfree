@@ -3,15 +3,17 @@
 /**
  * Booking form on /contact/: same fields, options and order as the live site's
  * form (address, name, phone, email, items, Single / Multiple Items /
- * Curbside (10% Discount), date, 2-hour arrival window).
+ * Curbside (10% Discount, items already at the curb or driveway), preferred callback time (optional; not a booking).
  * Only change: the label typo "Describe Items To Be Remove" → "Removed"
  */
 import { useCallback, useEffect, useId, useRef, useState } from "react";
 import { site } from "@/lib/content/client";
-import { ARRIVAL_WINDOWS, BOOKING_SERVICE_OPTIONS, NAME_VALID, POSTAL_CODE, phoneDigits } from "@/lib/leads/constants";
-import { CityInput, DatePicker, NameInput, PhoneInput, PostalInput, SelectMenu } from "./fields";
+import { BOOKING_SERVICE_OPTIONS, CALLBACK_TIMES, NAME_VALID, POSTAL_CODE, phoneDigits } from "@/lib/leads/constants";
+import { CityInput, NameInput, PhoneInput, PostalInput, SelectMenu } from "./fields";
 import { Turnstile } from "./Turnstile";
 import { useLeadSubmit } from "./useLeadSubmit";
+import { PRICING_SELECTION_KEY } from "@/lib/leads/context";
+import { fact } from "@/lib/content/facts";
 
 export function BookingForm() {
   const uid = useId();
@@ -56,8 +58,6 @@ export function BookingForm() {
     if (!NAME_VALID.test(get("name"))) next.name = "Please enter your name (letters only).";
     if (!NAME_VALID.test(get("city"))) next.city = "Please enter the city (letters only).";
     if (phoneDigits(get("phone")).length !== 10) next.phone = "Please enter a 10-digit phone number.";
-    if (!get("preferred_date")) next.preferred_date = "Please choose a date.";
-    if (!get("arrival_window")) next.arrival_window = "Please choose a time.";
     setLocal(next);
     if (Object.keys(next).length) return;
     await submit(
@@ -72,8 +72,15 @@ export function BookingForm() {
         email: get("email"),
         details: get("details"),
         service: get("service") || undefined,
-        preferred_date: get("preferred_date"),
-        arrival_window: get("arrival_window"),
+        callback_time: get("callback_time"),
+        page_id: "/contact/",
+        pricing_selection: (() => {
+          try {
+            return sessionStorage.getItem(PRICING_SELECTION_KEY) ?? "";
+          } catch {
+            return "";
+          }
+        })(),
       },
       { turnstileToken: token.current, honeypot: get("company_website") },
     );
@@ -139,19 +146,14 @@ export function BookingForm() {
             </span>
           ))}
         </div>
+        {/* Rule R6: the discount applies only to items already at the curb / in the driveway. */}
+        <p className="form-note">Curbside: {fact("curbsideDiscount")}.</p>
       </fieldset>
-      <p className="form-note">Our team will arrive in the 2-hour arrival window of your choice.</p>
-      <div className="row">
-        <div className="field">
-          <label htmlFor={f("preferred_date")}>Select Date</label>
-          <DatePicker id={f("preferred_date")} name="preferred_date" placeholder="Choose a day" required {...aria("preferred_date")} />
-          {err("preferred_date")}
-        </div>
-        <div className="field">
-          <label htmlFor={f("arrival_window")}>Select Time</label>
-          <SelectMenu id={f("arrival_window")} name="arrival_window" options={ARRIVAL_WINDOWS} placeholder="Choose a 2-hour window" required {...aria("arrival_window")} />
-          {err("arrival_window")}
-        </div>
+      {/* Answers A3.4/A3.6: no pickup date/time booking; the team agrees the pickup by phone. */}
+      <div className="field">
+        <label htmlFor={f("callback_time")}>{fact("callbackNote", "label")}</label>
+        <SelectMenu id={f("callback_time")} name="callback_time" options={CALLBACK_TIMES} placeholder="Choose a time" />
+        <span className="form-note">{fact("callbackNote")}</span>
       </div>
       <input type="text" name="company_website" tabIndex={-1} autoComplete="off" aria-hidden="true" className="hp" />
       <Turnstile onToken={onToken} />

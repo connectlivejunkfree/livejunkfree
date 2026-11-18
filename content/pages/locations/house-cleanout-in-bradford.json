@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-day House Cleanout Services in Bradford | Live Junk Free",
-  "description": "Live Junk Free delivers reliable house cleanouts in Bradford. We offer same-day garage junk removal, estate cleanouts, attic cleanouts, and appliance disposal. Book today!",
+  "title": "House Cleanout Services in Bradford | Live Junk Free",
+  "description": "Live Junk Free delivers reliable house cleanouts in Bradford. We offer same-day garage junk removal, estate cleanouts, attic cleanouts, and appliance disposal, subject to scheduling. Book today!",
   "canonical": "https://livejunkfree.ca/locations/house-cleanout-in-bradford/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "house-cleanout-in-bradford",
+ "title": "House Cleanout in Bradford",
  "h1": "House Cleanout Services in Bradford, Ontario — From Packed to Empty in One Visit",
  "published": "2026-07-13T03:32:18",
  "modified": "2026-07-13T03:32:18",
@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Clearing out an entire home is one of those jobs that grows the longer you stare at it. Our Bradford cleanout crew shrinks it back down to a single phone call. We show up at your property, walk every floor with you, and put a firm, all-inclusive price in your hands before a single box is lifted. Say yes, and our team sorts, carries, loads and hauls until the house is empty — usually the very same day. Fully insured, locally operated, and zero pressure at every step."
+      "Clearing out an entire home is one of those jobs that grows the longer you stare at it. Our Bradford cleanout crew shrinks it back down to a single phone call. We show up at your property, walk every floor with you, and put a firm, price in your hands before a single box is lifted. Say yes, and our team sorts, carries, loads and hauls until the house is empty — usually the very same day. Fully insured, locally operated, and zero pressure at every step."
      ]
     },
     {
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Bradford West Gwillimbury has grown faster than almost any town north of Toronto, and Live Junk Free has grown with it — earning over 660 five-star Google reviews by emptying homes the right way: carefully, completely, and at a price agreed on before the work starts. Century homes downtown, new builds off Yonge Street, farm properties out by the Holland Marsh — our crew has cleared them all."
+     "text": "Bradford West Gwillimbury has grown faster than almost any town north of Toronto, and Live Junk Free has grown with it — earning Google reviews by emptying homes the right way: carefully, completely, and at a price agreed on before the work starts. Century homes downtown, new builds off Yonge Street, farm properties out by the Holland Marsh — our crew has cleared them all."
     },
     {
      "t": "steps",
@@ -131,7 +131,7 @@
      "items": [
       {
        "n": "03",
-       "title": "The quote is the bill — labour, hauling, fuel and disposal included",
+       "title": "{{fact:competitorComparison}}",
        "text": []
       }
      ]
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Once you approve your price, it's locked. If the job runs long, if the basement holds twice what anyone expected, if the stairs are a nightmare — none of that changes what you pay. One number covers the crew, the truck, the fuel and every disposal fee."
+     "text": "If the job runs long, if the basement holds twice what anyone expected, if the stairs are a nightmare — none of that changes what you pay. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Franchise-free means 30–50% cheaper",
+       "title": "Franchise-free means",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The big national brands charge royalties on every job, and their customers pay for it. We're independent and local, so the same cleanout in Bradford routinely comes in 30–50% below franchise pricing."
+     "text": "The big national brands charge royalties on every job, and their customers pay for it."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small loads begin at just {{cad_125}}, and even a complete top-to-bottom home clearing gets quoted as a single flat figure during your free walkthrough. No hourly meters, no disposal surcharges appearing on the invoice, no \"the job was bigger than we thought\" phone calls. The number you approve at the front door is the number you pay when the house is empty."
+     "text": "No hourly meters, no disposal surcharges appearing on the invoice, no \"the job was bigger than we thought\" phone calls. The number you approve at the front door is the number you pay when the house is empty."
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Pick a Time That Works",
        "text": [
-        "Call +1 647 922 5865 or book online in under two minutes. Same-day and next-day slots are open across Bradford seven days a week, 6AM to 11PM, and we text you 30 minutes before arrival so you're never stuck waiting at an empty house."
+        "Call +1 647 922 5865 or book."
        ]
       },
       {
        "title": "2. Walk the Property With Us",
        "text": [
-        "Show us everything — every floor, the basement, the garage, the shed out back. We tally it up on the spot and hand you one all-inclusive price. Take it or leave it; either way, the walkthrough is free."
+        "Show us everything — every floor, the basement, the garage, the shed out back. We tally it up on the spot and hand you one price. Take it or leave it; either way, the walkthrough is free."
        ]
       },
       {
@@ -480,7 +480,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -510,7 +510,7 @@
        "q": "Q: What does a full house cleanout cost in Bradford?",
        "a": [
         [
-         "A: It depends entirely on volume — how much truck space the contents fill. Small loads start at $125, and even complete multi-floor cleanouts are quoted as one flat, locked-in figure during a free on-site walkthrough. Hours worked, difficulty and location never change the price you approved."
+         "A: It depends entirely on volume — how much truck space the contents fill. Hours worked, difficulty and location never change the price you approved."
         ]
        ]
       },
@@ -518,7 +518,7 @@
        "q": "Q: How fast can you empty a house in Bradford?",
        "a": [
         [
-         "A: In most cases, one visit. A basement or garage typically takes a couple of hours; a full family home is usually cleared within a single day. Same-day and next-day bookings are available across Bradford, seven days a week from 6AM to 11PM."
+         "A: In most cases, one visit. A basement or garage typically takes a couple of hours; a full family home is usually cleared within a single day. Same-day and next-day bookings are available across Bradford."
         ]
        ]
       },

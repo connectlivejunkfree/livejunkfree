@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-Day Residential Junk Removal in Woodbridge | Live Junk Free",
-  "description": "Same-day residential junk removal in Woodbridge for homes and apartments. We haul junk, yard debris, furniture, and old appliances reliably. Call us now.",
+  "title": "Residential Junk Removal in Woodbridge | Live Junk Free",
+  "description": "Same-day residential junk removal in Woodbridge for homes and apartments, subject to scheduling. We haul junk, yard debris, furniture, and old appliances reliably. Call us now.",
   "canonical": "https://livejunkfree.ca/locations/residential-junk-removal-in-woodbridge/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "residential-junk-removal-in-woodbridge",
+ "title": "Residential Junk Removal in Woodbridge",
  "h1": "Residential Junk Removal in Woodbridge, Ontario — For a Town Where Throwing Things Out Feels Wrong",
  "published": "2026-07-16T03:18:16",
  "modified": "2026-07-16T03:18:16",
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The houses here famously run doubles: the upstairs kitchen and the real one downstairs, the formal living room preserved under decades of care and the family room where life actually happened. When the doubles finally become too many, Live Junk Free is the call — 660+ five-star Google reviews earned across Woodbridge by quoting flat, carrying carefully, and making sure the good stuff lands somewhere it's appreciated."
+     "text": "The houses here famously run doubles: the upstairs kitchen and the real one downstairs, the formal living room preserved under decades of care and the family room where life actually happened. When the doubles finally become too many, Live Junk Free is the call — Google reviews earned across Woodbridge by quoting flat, carrying carefully, and making sure the good stuff lands somewhere it's appreciated."
     },
     {
      "t": "steps",
@@ -109,7 +109,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "A single sofa is a small slice of the truck and billed like one; the duplicate dining set plus the spare fridge is more — always flat, always up front. No heavy-item fees, no per-piece menus, no premium for any Woodbridge street."
+     "text": "A single sofa is a small slice of the truck and billed like one; the duplicate dining set plus the spare fridge is more — always flat, always up front."
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Carrying, taking apart what won't fit the doorway, floor protection, hauling, donation and disposal logistics — every cost rides inside the quote before you say yes. The wall unit that was assembled in the room comes apart in the room, included."
+     "text": "{{fact:propertyProtection}}. The wall unit that was assembled in the room comes apart in the room, included."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent pricing, 30–50% under the franchise trucks",
+       "title": "Independent pricing",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national haulers price royalties into every pickup. We're locally owned with none — and Woodbridge households, who know the value of a dollar as well as anyone, keep the 30–50% difference."
+     "text": "The national haulers price royalties into every pickup."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small pickups start at {{cad_125}}, single items sit at the low end, and the doubles-finally-leaving load — the second sofa set, the spare kitchen table, the third fridge — rides as one combined volume-priced pickup that always beats separate trips. The figure quoted free at your door is the figure on the receipt."
+     "text": "Small pickups start at {{min_price:C}}, single items sit at the low end, and the doubles-finally-leaving load — the second sofa set, the spare kitchen table, the third fridge — rides as one combined volume-priced pickup that always beats separate trips. The figure quoted free at your door is the figure on the receipt."
     },
     {
      "t": "cards",
@@ -254,19 +254,19 @@
       {
        "title": "1. Book the Pickup",
        "text": [
-        "Call +1 647 922 5865 or book online in two minutes. Crews cover all of Woodbridge seven days a week, 6AM to 11PM, with same-day slots and a 30-minute text before we arrive."
+        "Call +1 647 922 5865 or book."
        ]
       },
       {
        "title": "2. Show Us What's Finally Going",
        "text": [
-        "The formal set, the downstairs spares, the garage's patient pile — point at it all and get one flat, all-inclusive quote. Free either way."
+        "The formal set, the downstairs spares, the garage's patient pile — point at it all and get one flat, quote. Free either way."
        ]
       },
       {
        "title": "3. We Carry It Out Properly",
        "text": [
-        "On your yes: protection down, pieces dismantled where needed, stairs taken slow, and everything walked out without a mark on the house it's leaving."
+        "On your yes: protection down, pieces dismantled where needed, stairs taken slow, and everything walked out on the house it's leaving."
        ]
       },
       {
@@ -486,7 +486,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -516,7 +516,7 @@
        "q": "Q: How is junk removal priced in Woodbridge?",
        "a": [
         [
-         "A: By truck volume alone — small loads from $125, single items at the low end, multi-piece clears scaling flat with combined space. The free at-the-door quote already includes stairs, dismantling and careful handling, and it can’t grow after approval."
+         "A: By truck volume alone — small loads from {{min_price:C}}, single items at the low end, multi-piece clears scaling flat with combined space. The free at-the-door quote already includes stairs, dismantling and careful handling, and it can’t grow after approval."
         ]
        ]
       },

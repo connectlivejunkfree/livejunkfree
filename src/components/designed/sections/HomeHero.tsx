@@ -22,7 +22,7 @@ export function HomeHero() {
         <div className="stack-lg">
           <div className="pill-row intro" style={{ "--d": "0ms" } as React.CSSProperties}>
             <span className="gpill">
-              <Stars /> {RATING.score} {H.pills.rating} · {RATING.count} reviews
+              <Stars /> {RATING.count ? `${RATING.score} ${H.pills.rating} · ${RATING.count} reviews` : RATING.fallback}
             </span>
             <span className="gpill">
               <Icon name="clock" /> {H.pills.sameDay}

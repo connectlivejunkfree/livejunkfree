@@ -49,7 +49,7 @@
      "c": [
       {
        "b": [
-        "Need it gone today? We offer same-day service!"
+        "Need it gone today? We offer same-day service when available!"
        ]
       }
      ]
@@ -77,7 +77,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
-      "alt": "DSC08963",
+      "alt": "Hutch Removal: Live Junk Free job photo",
       "width": 800,
       "height": 534
      }
@@ -89,7 +89,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "From Cluttered to Clear – Satisfaction Guaranteed!"
+     "text": "{{fact:licensedInsured}}"
     },
     {
      "t": "p",
@@ -173,27 +173,27 @@
     {
      "t": "p",
      "c": [
-      "Simple, flat-rate quotes, no hidden charges"
+      "Simple, flat-rate quotes"
      ]
     },
     {
      "t": "ul",
      "items": [
       [
-       "Free, instant quote via call/text or online"
+       "{{fact:freeOnsiteEstimates}}"
       ],
       [
-       "No hidden fees, no last-minute add-ons"
+       "{{fact:competitorComparison}}"
       ],
       [
-       "Discounts when you book with other furniture or junk removal services"
+       "{{fact:competitorComparison}}"
       ]
      ]
     },
     {
      "t": "h",
      "l": 4,
-     "text": "Join 200+ Satisfied Customers – Your Junk, Our Expertise!"
+     "text": "{{fact:reviews}}"
     },
     {
      "t": "h",
@@ -244,9 +244,9 @@
        ]
       },
       {
-       "title": "100% satisfaction guarantee",
+       "title": "",
        "text": [
-        "We handle your junk responsibly with a 100% satisfaction promise and sustainable disposal."
+        "We handle your junk responsibly with sustainable disposal."
        ]
       }
      ]
@@ -405,7 +405,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/11/DSC08977-scaled.webp",
-      "alt": "DSC08977 scaled",
+      "alt": "Hutch Removal: Live Junk Free job photo",
       "width": 2560,
       "height": 1707
      }
@@ -417,7 +417,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Same-Day Removal Services: Furniture, Appliances, E-Waste & Clutter"
+     "text": "Removal Services: Furniture, Appliances, E-Waste & Clutter"
     },
     {
      "t": "cards",
@@ -496,9 +496,6 @@
        "Pool table removal (disassembly & setup)"
       ],
       [
-       "Load-bearing wall removal (basements included)"
-      ],
-      [
        "Cabinet removal (filing cabinets, kitchen cabinets)"
       ]
      ]
@@ -544,9 +541,9 @@
        ]
       },
       {
-       "title": "2. Get an Instant Quote",
+       "title": "2.",
        "text": [
-        "We give you a flat price with no hidden charges"
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -848,7 +845,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -862,7 +859,7 @@
        "b": [
         {
          "i": [
-          "Same day Junk Removal."
+          "Junk Removal."
          ]
         }
        ]
@@ -1033,7 +1030,7 @@
        "q": "How much does a hutch removal cost?",
        "a": [
         [
-         "Pricing depends on size and complexity, but we offer free, transparent quotes with no hidden fees. Contact us for an instant estimate tailored to your specific hutch removal needs."
+         "{{fact:freeOnsiteEstimates}}"
         ]
        ]
       },

@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The best structural removal service in town."
+     "text": ""
     },
     {
      "t": "ctas",
@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -69,7 +69,7 @@
     {
      "t": "p",
      "c": [
-      "We start with a free, transparent quote, so you know exactly what to expect, with no hidden fees. Serving your area, we prioritize fast, affordable, and sustainable removal, helping you refresh your outdoor space without the hassle."
+      "Serving your area, we prioritize fast, affordable, and sustainable removal, helping you refresh your outdoor space without the hassle."
      ]
     },
     {
@@ -142,7 +142,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -156,7 +156,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Patio Furniture Removal Near You"
+     "text": "Patio Furniture Removal Near You"
     },
     {
      "t": "p",
@@ -167,7 +167,7 @@
     {
      "t": "p",
      "c": [
-      "We know how quickly you want to refresh your outdoor space, whether you are prepping for new furniture, hosting an event, or simply reclaiming your backyard. That’s why we provide same-day and next-day pickup to fit your schedule."
+      "We know how quickly you want to refresh your outdoor space, whether you are prepping for new furniture, hosting an event, or simply reclaiming your backyard. That’s why we provide same-day and next-day pickup to fit your schedule, subject to scheduling."
      ]
     },
     {
@@ -193,9 +193,6 @@
       ],
       [
        "Eco-friendly disposal, recycling metal/plastic, and donating usable items"
-      ],
-      [
-       "Air Dust and leaving your space spotless"
       ]
      ]
     },
@@ -204,7 +201,7 @@
      "c": [
       {
        "b": [
-        "We offer same-day Patio Furniture Removal."
+        "We offer same-day when available Patio Furniture Removal."
        ]
       }
      ]
@@ -222,33 +219,33 @@
      "t": "cards",
      "items": [
       {
-       "title": "Multi-Service Discounts",
+       "title": "{{fact:competitorComparison}}",
        "text": [
-        "Save when bundling patio furniture removal with other junk removal or property cleanout services."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
-       "title": "Damage-Free Guarantee",
+       "title": "Careful Removal",
        "text": [
-        "Protective padding and insured workmanship to safeguard your deck, patio, and landscaping during removal."
+        "{{fact:propertyProtection}}"
        ]
       },
       {
        "title": "Flexible Scheduling",
        "text": [
-        "We work around your availability with evening and weekend slots. Same-day pickup for urgent requests."
+        "{{fact:scheduling}} Same-day pickup when available for urgent requests."
        ]
       },
       {
        "title": "Eco-Friendly Processing",
        "text": [
-        "90%+ of materials recycled or donated through certified programs to minimize landfill waste."
+        "{{fact:recycling}}"
        ]
       },
       {
-       "title": "All-Inclusive Quotes",
+       "title": "Quotes",
        "text": [
-        "Your upfront price covers disassembly, removal, hauling, and complete cleanup with no hidden fees."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -319,7 +316,7 @@
      "t": "ul",
      "items": [
       [
-       "Concrete & Material Recycling: We separate and recycle up to 85% of demolition debris through certified facilities"
+       "{{fact:recycling}}"
       ],
       [
        "Furniture Donation Program: Gently used items find new homes through local shelters and community organizations"
@@ -363,10 +360,10 @@
      "t": "ul",
      "items": [
       [
-       "Material Recycling: We dismantle and recycle up to 90% of metal, plastic, and wood components through certified facilities"
+       "{{fact:recycling}}"
       ],
       [
-       "Free Instant Estimates – Get accurate quotes by phone, text, or online in minutes"
+       "{{fact:freeOnsiteEstimates}}"
       ],
       [
        "Project Discounts – Special pricing when combining multiple renovation services"
@@ -414,7 +411,7 @@
       {
        "title": "Send Us Details",
        "text": [
-        "Snap a few photos of your old patio furniture and send them to us via text or our website. We will quickly assess the items and provide a free, no-obligation estimate within minutes."
+        "Snap a few photos of your old patio furniture and send them to us via text or our website. {{fact:freeOnsiteEstimates.long}}"
        ]
       },
       {
@@ -493,7 +490,7 @@
        "q": "3. Can you disassemble my patio furniture before removal?",
        "a": [
         [
-         "Absolutely. Our team will safely disassemble large or complex pieces like sectional sofas, pergolas, or swing sets at no extra cost."
+         "Absolutely. {{fact:pricingIntro.extra}}"
         ]
        ]
       },

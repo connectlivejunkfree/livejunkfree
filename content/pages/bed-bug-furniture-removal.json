@@ -6,13 +6,13 @@
  "template": "AdsLanding",
  "seo": {
   "title": "Bed Bug Furniture Removal Near You | GTA | Live Junk Free",
-  "description": "Need bed bug furniture removal in the GTA? Live Junk Free safely removes infested couches, mattresses & furniture same day. Starting from $99. Fully insured. Get a free quote!",
+  "description": "Need bed bug furniture removal in the GTA? Live Junk Free safely removes infested couches, mattresses & furniture same day, subject to scheduling. Fully insured. Get a free quote!",
   "canonical": "https://livejunkfree.ca/bed-bug-furniture-removal/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/bed_shot.jpg-1024x577.jpeg"
  },
  "title": "Bed Bug Furniture Removal",
- "h1": "Bed Bug Furniture Removal Near You — Safe, Same-Day Removal Across the GTA",
+ "h1": "Bed Bug Furniture Removal Near You — Safe, Removal Across the GTA",
  "published": "2026-05-30T09:02:19",
  "modified": "2026-11-05T08:11:05",
  "sections": [
@@ -21,12 +21,12 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Bed Bug Furniture Removal Near You — Safe, Same-Day Removal Across the GTA"
+     "text": "Bed Bug Furniture Removal Near You — Safe, Removal Across the GTA"
     },
     {
      "t": "p",
      "c": [
-      "Infested couch, mattress, or furniture? We remove it fast, safely, and responsibly. Starting from {{cad_125}}. Same-day available."
+      "Infested couch, mattress, or furniture? We remove it fast, safely, and responsibly. Same-day available."
      ]
     },
     {
@@ -50,7 +50,7 @@
     {
      "t": "p",
      "c": [
-      "All infested furniture removal handled safely and discreetly. From {{cad_125}}. No hidden fees."
+      "All infested furniture removal handled safely and discreetly."
      ]
     }
    ]
@@ -60,12 +60,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Service"
+     "text": "Same-Day Service when available"
     },
     {
      "t": "p",
      "c": [
-      "Book before noon and we are there the same day across the GTA"
+      "Across the GTA"
      ]
     }
    ]
@@ -236,7 +236,7 @@
          "bed bug furniture removal"
         ]
        },
-       " — upfront pricing from {{cad_125}}, locked in before we start, no hidden charges"
+       " Contact us for a quote"
       ],
       [
        "Sofa, couch, mattress, bed frame, or full set — ",
@@ -250,7 +250,7 @@
       [
        {
         "b": [
-         "Same day bed bug furniture removal"
+         "Bed bug furniture removal"
         ]
        },
        " across ",
@@ -346,7 +346,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We specialise in the safe removal of bed bug-infested furniture across the Greater Toronto Area. Every item is bagged and contained before it leaves your home. Couches, mattresses, bed frames, and full bedroom sets — our trained crew handles it all quickly and discreetly. No judgement, no mess."
+     "text": "We specialise in the safe removal of bed bug-infested furniture across the Greater Toronto Area. Couches, mattresses, bed frames, and full bedroom sets — our trained crew handles it all quickly and discreetly. No judgement, no mess."
     },
     {
      "t": "cards",
@@ -414,9 +414,9 @@
      "t": "cards",
      "items": [
       {
-       "title": "Book in 60 Seconds",
+       "title": "Book",
        "text": [
-        "Call 647-922-5865 or fill out the form. Tell us what needs to go and your address. We offer same day bed bug furniture removal across the GTA when you book before noon. No waiting, no delays."
+        "Call 647-922-5865 or fill out the form. Tell us what needs to go and your address."
        ]
       },
       {
@@ -440,7 +440,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Real Stories from Satisfied Custom"
+     "text": "Real Stories from Satisfied Customers"
     },
     {
      "t": "reviews"
@@ -461,7 +461,7 @@
        "q": "How much does bed bug furniture removal cost?",
        "a": [
         [
-         "Bed bug furniture removal starts at $125. The final price depends on the furniture being removed, the pickup location and the work required. Call Live Junk Free at 647-922-5865 to discuss your pickup and get a price."
+         "The final price depends on the furniture being removed, the pickup location and the work required. Call Live Junk Free at 647-922-5865 to discuss your pickup and get a price."
         ]
        ]
       },

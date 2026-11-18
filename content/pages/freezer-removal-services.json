@@ -60,9 +60,6 @@
        "Careful transport from your home, basement, or residential space"
       ],
       [
-       "Proper disposal, including recycling of metals and responsible handling of refrigerants"
-      ],
-      [
        "Cleaning up the area to leave it tidy and organized"
       ]
      ]
@@ -74,7 +71,7 @@
        "b": [
         {
          "i": [
-          "Need it gone today? We offer same-day service!"
+          "Need it gone today? We offer same-day service when available!"
          ]
         }
        ]
@@ -104,7 +101,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
-      "alt": "DSC08963",
+      "alt": "Freezer Removal: Live Junk Free job photo",
       "width": 800,
       "height": 534
      }
@@ -147,7 +144,7 @@
        "We handle tight staircases, basements, and high-rise buildings in residential spaces"
       ],
       [
-       "We disconnect and safely remove your freezer, and no mess, no damage"
+       "We disconnect and safely remove your freezer"
       ],
       [
        "Our appliance removal covers everything from upright freezers to chest freezers and residential units"
@@ -178,9 +175,6 @@
        "We donate working appliances to shelters and charities"
       ],
       [
-       "We recycle metals, wiring, and refrigerants responsibly"
-      ],
-      [
        "We reduce landfill waste with our eco-first approach"
       ]
      ]
@@ -188,7 +182,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Get Instant Pricing – No Surprises, Just Fast & Fair Quotes!"
+     "text": "{{fact:freeOnsiteEstimates}}"
     },
     {
      "t": "p",
@@ -200,13 +194,13 @@
      "t": "ul",
      "items": [
       [
-       "Free, instant quote via call/text or online form"
+       "{{fact:freeOnsiteEstimates}}"
       ],
       [
-       "No hidden fees, no last-minute add-ons"
+       "{{fact:competitorComparison}}"
       ],
       [
-       "Bundle discounts if you’re removing other appliances too"
+       "{{fact:competitorComparison}}"
       ]
      ]
     },
@@ -240,7 +234,7 @@
        "Insured, uniformed, and respectful crew"
       ],
       [
-       "Rated 5.0 on Google by 780+ customers"
+       "{{fact:reviews}}"
       ]
      ]
     }
@@ -269,9 +263,9 @@
        ]
       },
       {
-       "title": "100% satisfaction guarantee",
+       "title": "",
        "text": [
-        "We handle your junk responsibly with a 100% satisfaction promise and sustainable disposal."
+        "We handle your junk responsibly with sustainable disposal."
        ]
       }
      ]
@@ -337,7 +331,7 @@
          "Safety"
         ]
        },
-       " – Old freezers can leak refrigerants and pose a hazard."
+       " "
       ],
       [
        {
@@ -473,7 +467,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/11/DSC08977-scaled.webp",
-      "alt": "DSC08977 scaled",
+      "alt": "Freezer Removal: Live Junk Free job photo",
       "width": 2560,
       "height": 1707
      }
@@ -485,7 +479,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Same-Day Removal Services: Furniture, Appliances, E-Waste & Clutter"
+     "text": "Removal Services: Furniture, Appliances, E-Waste & Clutter"
     },
     {
      "t": "cards",
@@ -564,9 +558,6 @@
        "Pool table removal (disassembly & setup)"
       ],
       [
-       "Load-bearing wall removal (basements included)"
-      ],
-      [
        "Cabinet removal (filing cabinets, kitchen cabinets)"
       ]
      ]
@@ -612,9 +603,9 @@
        ]
       },
       {
-       "title": "2. Get an Instant Quote",
+       "title": "2.",
        "text": [
-        "We give you a flat price with no hidden charges"
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -635,14 +626,14 @@
         },
         {
          "b": [
-          "Call answered in 1 minute",
+          "",
           {
            "br": 1
           },
           {
            "br": 1
           },
-          " Same day Junk Removal"
+          " Junk Removal"
          ]
         }
        ]
@@ -851,7 +842,7 @@
          "Environmental responsibility:"
         ]
        },
-       " We recycle metals and properly dispose of refrigerants to reduce environmental harm."
+       " "
       ],
       [
        {
@@ -964,7 +955,7 @@
        "q": "Will you disconnect my freezer before taking it?",
        "a": [
         [
-         "Absolutely. Our team will safely disconnect and prepare your freezer for removal at no extra charge. Just ensure it’s emptied beforehand."
+         "Absolutely. {{fact:pricingIntro.extra}} Just ensure it’s emptied beforehand."
         ]
        ]
       },
@@ -972,7 +963,7 @@
        "q": "How much does freezer removal cost?",
        "a": [
         [
-         "Prices depend on size and location, but we provide free upfront quotes with no hidden fees. Contact us for an instant estimate."
+         "{{fact:freeOnsiteEstimates}}"
         ]
        ]
       },

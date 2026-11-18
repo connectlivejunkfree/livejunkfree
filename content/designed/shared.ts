@@ -2,18 +2,19 @@
  * Copy reused across several pages. Every claim here appears on livejunkfree.ca.
  */
 import type { IconName } from "@/components/icons";
+import { fact } from "@/lib/content/facts";
 import type { Step } from "./types";
 
 export const STEPS_STD: Step[] = [
   { title: "Tell us what needs to go", text: "Call, text or send photos. We give you a free, no-obligation quote." },
   { title: "We confirm the price on site", text: "The crew sees the load, gives you a firm price, and only starts when you say yes." },
-  { title: "We load, sweep and leave", text: "Everything comes out of the house, garage or yard. We recycle or donate whenever possible." },
+  { title: "We load and haul it away", text: "We remove the agreed items from the house, garage or yard, and recycle or donate suitable items where practical." },
 ];
 
 export const TRUST: { icon: IconName; title: string; text: string }[] = [
-  { icon: "clock", title: "Same-day when available", text: "7 days a week, 6AM–11PM" },
-  { icon: "tag", title: "Price before we lift", text: "Free on-site estimate, no hidden fees" },
-  { icon: "leaf", title: "Donate and recycle first", text: "We recycle or donate whenever possible" },
+  { icon: "clock", title: fact("sameDay", "short"), text: `${fact("weekendPickup")}. ${fact("businessHours")}.` },
+  { icon: "tag", title: "Price before we lift", text: "Free onsite estimate; your quote is confirmed before work begins" },
+  { icon: "leaf", title: "Donate and recycle first", text: fact("recycling") },
   { icon: "shield", title: "Fully licensed and insured", text: "Insured, uniformed, and respectful crew" },
 ];
 

@@ -1,0 +1,216 @@
+{
+ "generated": "2026-11-18T14:33:23.901Z",
+ "dryRun": false,
+ "filesScanned": 784,
+ "filesChanged": 739,
+ "rules": {
+  "demo-slots": {
+   "ref": "R7, OBS-02, OBS-149, OBS-153",
+   "before": 350,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "competitor-30-50": {
+   "ref": "R1, G01, OBS-01, OBS-134, OBS-138, OBS-141",
+   "before": 552,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "response-time": {
+   "ref": "OBS-28, OBS-32, OBS-37, OBS-57, OBS-87, OBS-110, OBS-131",
+   "before": 124,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "fixed-duration": {
+   "ref": "G02, OBS-22, OBS-25, OBS-35, OBS-37, OBS-53, OBS-57, OBS-79, OBS-87, OBS-91, OBS-101, OBS-105, OBS-109, OBS-115, OBS-119, OBS-124, OBS-128",
+   "before": 189,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "damage-guarantee": {
+   "ref": "G02, OBS-27, OBS-46, OBS-70, OBS-87, OBS-119",
+   "before": 67,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "satisfaction-guarantee": {
+   "ref": "G02, OBS-22, OBS-25, OBS-35, OBS-101, OBS-105",
+   "before": 30,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "lease-ready": {
+   "ref": "G02, OBS-05, OBS-28, OBS-148, OBS-150, OBS-155",
+   "before": 123,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "certified-recycling": {
+   "ref": "A2, G09, OBS-36, OBS-49, OBS-62, OBS-71, OBS-78, OBS-108, OBS-116, OBS-120, OBS-148",
+   "before": 351,
+   "after": 4,
+   "changedStrings": 0
+  },
+  "specialist-claims": {
+   "ref": "G09, OBS-61, OBS-73, OBS-86, OBS-96, OBS-108, OBS-117, OBS-118, OBS-122, OBS-125, OBS-126, OBS-128",
+   "before": 138,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "no-hidden-fees": {
+   "ref": "Answers B1.4",
+   "before": 691,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "all-in-equivalents": {
+   "ref": "Answers A1.4, A1.7, B1.4",
+   "before": 918,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "no-extra-charge": {
+   "ref": "Answers A1.4, A1.7",
+   "before": 147,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "insurance-docs": {
+   "ref": "Answers B3.1",
+   "before": 305,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "protection-procedure": {
+   "ref": "Answers B3.3",
+   "before": 81,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "records-reports": {
+   "ref": "Answers B5.18, B6.2",
+   "before": 331,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "donation-receipts": {
+   "ref": "Answers B4.4",
+   "before": 13,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "cleaning-claims": {
+   "ref": "Answers B6.2, B6.7",
+   "before": 20,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "timeline-guarantee": {
+   "ref": "Answers B2.1, B3.2, OBS-05",
+   "before": 37,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "site-work": {
+   "ref": "Answers B5.10, B5.11",
+   "before": 10,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "inclusions": {
+   "ref": "Manisha 18 Nov follow-up; A1.4, A1.7",
+   "before": 377,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "structural-assessment": {
+   "ref": "Manisha 18 Nov follow-up; B5.10",
+   "before": 43,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "evening-standard": {
+   "ref": "Answers B2.2; Manisha 18 Nov follow-up",
+   "before": 143,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "hours": {
+   "ref": "Answers B2.3",
+   "before": 561,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "promotions": {
+   "ref": "Answers B1.2",
+   "before": 109,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "after-hours": {
+   "ref": "Answers B2.2",
+   "before": 5,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "instant-quote": {
+   "ref": "Answers B1.3",
+   "before": 131,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "canada": {
+   "ref": "Answers B8.4",
+   "before": 493,
+   "after": 8,
+   "changedStrings": 0
+  },
+  "same-day": {
+   "ref": "R2, G02, OBS-13, OBS-26, OBS-45, OBS-53, OBS-131, OBS-135, OBS-138",
+   "before": 2622,
+   "after": 23,
+   "changedStrings": 0
+  },
+  "review-counts": {
+   "ref": "OBS-64, OBS-133, Part 2 B-8 #1",
+   "before": 1652,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "superlatives": {
+   "ref": "OBS-136, OBS-142, OBS-60",
+   "before": 20,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "lone-prices": {
+   "ref": "G01, OBS-12, OBS-17, OBS-57, OBS-62, OBS-115, OBS-137, OBS-140",
+   "before": 63,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "exact": {
+   "before": 307,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "min-price-token": {
+   "before": 717,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "price-scope": {
+   "ref": "Answers A1.3, A1.5, A1.6",
+   "before": 868,
+   "after": 0,
+   "changedStrings": 0
+  },
+  "links": {
+   "before": 8,
+   "after": 0,
+   "changedStrings": 0
+  }
+ },
+ "note": "before = the committed content at HEAD (the copy imported from WordPress, before Batch 1). after = the current working tree, after the 18 Nov 2026 answers and Manisha's follow-up. The remaining after-counts are permitted uses: same-day sentences already qualified, \"certificates\" in the data-security disclaimer (B5.1), and \"Canada\" in legal / privacy text. The rendered-page scan of all 787 pages plus llms.txt / llms-full.txt finds none of the banned wording."
+}

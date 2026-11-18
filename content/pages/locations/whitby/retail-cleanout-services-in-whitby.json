@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -126,7 +126,7 @@
        "title": "Retail cleanout services scheduled to your lease surrender date",
        "text": [
         [
-         "Your deadline sets ours. We book the retail store cleanout so the unit is empty, swept and photographed ahead of the surrender date rather than on it, which leaves room if the landlord’s inspection raises anything."
+         "Your deadline sets ours."
         ]
        ]
       },
@@ -141,19 +141,19 @@
       },
       {
        "n": "03",
-       "title": "Retail cleanout services with after-hours and overnight scheduling",
+       "title": "{{fact:weekendPickup}}",
        "text": [
         [
-         "Occupied plazas and enclosed centres rarely permit a full-scale removal during trading hours. Our trucks run seven days a week from 6AM to 11PM, so we can work evenings or overnight where the centre’s rules require it."
+         "Occupied plazas and enclosed centres rarely permit a full-scale removal during trading hours."
         ]
        ]
       },
       {
        "n": "04",
-       "title": "Photo documentation with every retail cleanout",
+       "title": "",
        "text": [
         [
-         "You receive a timestamped photo set and a written record of everything removed. Commercial tenants use this documentation to support deposit recovery and to evidence lease compliance if the landlord disputes the condition of the unit."
+         ""
         ]
        ]
       },
@@ -168,7 +168,7 @@
       },
       {
        "n": "06",
-       "title": "Independent retail cleanout pricing, 30–50% below the franchises",
+       "title": "Independent retail cleanout pricing",
        "text": [
         [
          "National junk removal brands build royalty fees into every commercial quote before a truck is dispatched. As an independent operator we carry none of that cost, which is why our retail cleanout pricing in Whitby sits well below the franchise alternatives."
@@ -284,14 +284,14 @@
      "t": "checks",
      "items": [
       "Haul-Away",
-      "No Stairs Surcharges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
@@ -299,7 +299,7 @@
     {
      "t": "price",
      "label": "Whitby Retail Cleanout Services",
-     "value": "{{cad_125:suffix}}"
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
@@ -365,10 +365,10 @@
       },
       {
        "n": "04",
-       "title": "Unit returned swept and lease-ready",
+       "title": "Unit returned swept",
        "text": [
         [
-         "The space is left broom-swept and empty, ready for the landlord’s inspection. Your photo documentation and invoice are issued the same day, ahead of your surrender date."
+         "The space is left broom-swept and empty."
         ]
        ]
       }
@@ -468,12 +468,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Junk Removal, Demolition & Cleanout Services in Whitby"
+     "text": "Junk Removal, Demolition & Cleanout Services in Whitby"
     },
     {
      "t": "p",
      "c": [
-      "Same-day service covers far more than retail cleanout services across Whitby. Our commercial junk removal handles offices, medical and professional suites, restaurants, warehouses and light-industrial space throughout the Thickson, Consumers Drive and Whitby Industrial Park areas, alongside plaza units and downtown storefronts, with same-day attendance wherever access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and yard waste across every Whitby neighbourhood. Our demolition services cover interior strip-outs, tenant improvement removal, partitions, dropped ceilings, counters and built-in fixtures, along with sheds, garages, decks, fences, gazebos, above-ground pools and hot tubs on residential lots. Where a property requires complete clearing, we provide same-day office cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
+      "Same-day service when available covers far more than retail cleanout services across Whitby. Our commercial junk removal handles offices, medical and professional suites, restaurants, warehouses and light-industrial space throughout the Thickson, Consumers Drive and Whitby Industrial Park areas, alongside plaza units and downtown storefronts, with same-day attendance wherever access allows. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and yard waste across every Whitby neighbourhood. Our demolition services cover interior strip-outs, tenant improvement removal, partitions, dropped ceilings, counters and built-in fixtures, along with sheds, garages, decks, fences, gazebos, above-ground pools and hot tubs on residential lots. Where a property requires complete clearing, we provide same-day office cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, and our GTA junk removal rates remain consistent across the region."
      ]
     },
     {
@@ -511,7 +511,7 @@
      "t": "ul",
      "items": [
       [
-       "We handle full retail store cleanouts in Whitby ahead of lease surrender dates, helping businesses clear the space and prepare it for the landlord’s inspection. Fixtures, shelving, display units, and signage come out together, along with remaining stock, packaging, and back-of-house materials. The unit is returned broom-swept for inspection, with photo documentation issued to evidence lease compliance. After-hours and overnight scheduling is available where the shopping centre or property requires it."
+       "Fixtures, shelving, display units, and signage come out together, along with remaining stock, packaging, and back-of-house materials. {{fact:scheduling}}"
       ]
      ]
     },
@@ -797,7 +797,7 @@
     {
      "t": "p",
      "c": [
-      "More than 700 five-star Google reviews across retail store closures, fixture removals, landlord re-lease clearances and commercial strip-outs — from the Thickson corridor to downtown Brock Street and across the GTA."
+      "Google reviews across retail store closures, fixture removals, landlord re-lease clearances and commercial strip-outs — from the Thickson corridor to downtown Brock Street and across the GTA."
      ]
     },
     {
@@ -1090,7 +1090,7 @@
        "q": "Can you work after hours or overnight?",
        "a": [
         [
-         "Yes. Our trucks run seven days a week from 6AM to 11PM, and we can schedule evenings or overnight where an occupied plaza or enclosed centre restricts daytime removal. "
+         "Yes. "
         ]
        ]
       },

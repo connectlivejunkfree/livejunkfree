@@ -5,12 +5,12 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Furniture Removal Toronto | Same-Day Pickup | Live Junk Free",
-  "description": "Need furniture removal in Toronto? Live Junk Free picks up sofas, mattresses, bed frames & more — same day, no hidden fees. Get your free quote today.",
+  "title": "Furniture Removal Toronto | Free Onsite Estimates | Live Junk Free",
+  "description": "Need furniture removal in Toronto? Live Junk Free picks up sofas, mattresses, bed frames & more — same day, subject to scheduling. Get your free quote today.",
   "canonical": "https://livejunkfree.ca/locations/toronto/furniture-removal/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
  },
- "title": "furniture-removal",
+ "title": "Furniture Removal",
  "h1": "Furniture Removal in Toronto — Fast, Friendly & Stress-Free",
  "published": "2026-07-12T03:47:04",
  "modified": "2026-07-12T03:47:04",
@@ -46,7 +46,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -121,7 +121,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
-      "alt": "DSC08963",
+      "alt": "Furniture Removal: Live Junk Free job photo",
       "width": 800,
       "height": 534
      }
@@ -168,10 +168,10 @@
      "c": [
       {
        "b": [
-        "No hidden fees, ever."
+        ", ever."
        ]
       },
-      " Before we move a single item, you’ll know exactly what it costs. Our quotes are based on truck space used, given upfront, and locked in. What we quote is what you pay."
+      " Before we move a single item, you’ll know exactly what it costs. Our quotes are based on truck space used, given upfront, and locked in."
      ]
     },
     {
@@ -343,9 +343,9 @@
        ]
       },
       {
-       "title": "All-Inclusive Pricing",
+       "title": "Pricing",
        "text": [
-        "Your upfront quote covers everything: labor, hauling, and disposal with no surprise fees"
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -355,7 +355,7 @@
        ]
       },
       {
-       "title": "Damage-Free Guarantee",
+       "title": "Careful Removal",
        "text": [
         "We protect your home during removal with padding and careful handling"
        ]
@@ -443,7 +443,7 @@
     {
      "t": "p",
      "c": [
-      "We provide your quote upfront, on-site, before we begin — so you always know what you’re paying. No surprise charges once the truck is loaded.",
+      "We provide your quote upfront, on-site, before we begin — so you always know what you’re paying. once the truck is loaded.",
       {
        "br": 1
       },
@@ -556,7 +556,7 @@
       {
        "title": "Book Your Appointment",
        "text": [
-        "Call us or use our quick online form. Tell us what needs to go and where you're in Toronto — we'll give you an upfront price right away. No commitment needed."
+        "Call us or use our quick online form. Tell us what needs to go and where you're in Toronto — we'll review your items and pickup details. No commitment needed."
        ]
       },
       {
@@ -574,7 +574,7 @@
       {
        "title": "Responsible Disposal, Every Time",
        "text": [
-        "Usable pieces get donated to local Toronto charities. Everything else goes to certified recycling facilities. We keep as much out of landfill as possible."
+        "Usable pieces get donated to local Toronto charities. Everything else goes to recycling facilities. We keep as much out of landfill as possible."
        ]
       }
      ]
@@ -602,35 +602,35 @@
      "images": [
       {
        "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
-       "alt": "20250405_140825"
+       "alt": "Furniture Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
-       "alt": "20250405_142357"
+       "alt": "Furniture Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142736-1024x577.webp",
-       "alt": "20250405_142736"
+       "alt": "Furniture Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_144606-1024x577.webp",
-       "alt": "20250405_144606"
+       "alt": "Furniture Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250611_115029-1024x577.webp",
-       "alt": "20250611_115029"
+       "alt": "Furniture Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250611_201732-1024x577.webp",
-       "alt": "20250611_201732"
+       "alt": "Furniture Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250530_110858-1024x577.webp",
-       "alt": "20250530_110858"
+       "alt": "Furniture Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250526_193102-1024x577.webp",
-       "alt": "20250526_193102"
+       "alt": "Furniture Removal: Live Junk Free job photo"
       }
      ]
     }

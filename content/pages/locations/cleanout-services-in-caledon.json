@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Cleanout services in Caledon for full acreages, not just houses — estate, farmhouse, barn and hoarding cleanouts by an insured crew, quoted flat on site with zero distance surcharge, sorted donation-first, and finished swept from the house to the far fence line, seven days a week."
+     "text": "Cleanout services in Caledon for full acreages, not just houses — estate, farmhouse, barn and hoarding cleanouts by an insured crew, quoted flat on site with zero distance surcharge, sorted donation-first, and finished swept from the house to the far fence line."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Google Reviews"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Caledon cleanouts rarely stop at the back door, and our crews are built for that from the start. Around Caledon East, Alton and Inglewood’s village cores, it’s downsizing and estate cleanouts in homes held for generations, cleared with patience and the character kept. In Bolton-adjacent Caledon and the growing south, it’s garage, basement and moving cleanouts for busier, newer households. Through Palgrave, Terra Cotta and Belfountain, it’s full country properties — house, drive shed and barn cleared together in one coordinated visit. On working farms across the western concessions, it’s generations of a family’s accumulation: farmhouse, workshop and outbuildings emptied respectfully, with equipment and scrap sorted properly. And near the estate pockets close to the Brampton and Vaughan borders, it’s larger homes and grounds cleared discreetly. The 660+ five-star Google reviews behind Live Junk Free come from every one of those addresses — flat quotes that never grew with the driveway length, careful hands on a lifetime’s belongings, and land handed back with nothing left uncleared."
+      "Caledon cleanouts rarely stop at the back door, and our crews are built for that from the start. Around Caledon East, Alton and Inglewood’s village cores, it’s downsizing and estate cleanouts in homes held for generations, cleared with patience and the character kept. In Bolton-adjacent Caledon and the growing south, it’s garage, basement and moving cleanouts for busier, newer households. Through Palgrave, Terra Cotta and Belfountain, it’s full country properties — house, drive shed and barn cleared together in one coordinated visit. On working farms across the western concessions, it’s generations of a family’s accumulation: farmhouse, workshop and outbuildings emptied respectfully, with equipment and scrap sorted properly. And near the estate pockets close to the Brampton and Vaughan borders, it’s larger homes and grounds cleared discreetly. The Google reviews behind Live Junk Free come from every one of those addresses — flat quotes that never grew with the driveway length, careful hands on a lifetime’s belongings, and land handed back with nothing left uncleared."
      ]
     },
     {
@@ -114,10 +114,10 @@
      "items": [
       {
        "n": "01",
-       "title": "Flat truck-volume cleanout pricing — from {{cad_125}}, distance never bills",
+       "title": "Contact us for a quote",
        "text": [
         [
-         "Caledon cleanouts price by one measure only: your contents’ share of the truck, starting at {{cad_125}} and scaling openly to full properties. Whether the address sits on Highway 10 or eight kilometres down a gravel sideroad, the number is identical for the identical load — no travel fee, no rural premium, ever."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -159,10 +159,10 @@
       },
       {
        "n": "06",
-       "title": "Independent cleanout pricing — 30–50% under the franchise chains",
+       "title": "Independent cleanout pricing",
        "text": [
         [
-         "No head-office royalties inside our quotes and no rural or multi-building padding either — local crews, our own trucks, one honest number. Identical Caledon cleanouts, outbuildings and all, invoice 30–50% below the national brands."
+         "No head-office royalties inside our quotes and no rural or multi-building padding either — local crews, our own trucks, one honest number."
         ]
        ]
       }
@@ -189,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "Small cleanouts start at {{cad_125}} and scale purely with truck volume — a closet’s worth is a sliver, a garage a few more, a full farm property fills trucks and prices in plain sight at the walkthrough. The written figure covers sorting, carrying from every structure, hauling and all disposal fees; it freezes on approval and holds whatever the barn loft or the cold cellar was keeping. Multi-day, multi-building clears get the complete plan and price up front."
+      "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Multi-day, multi-building clears get the complete plan and price up front."
      ]
     },
     {
@@ -210,13 +210,13 @@
     },
     {
      "t": "price",
-     "label": "Caledon Cleanouts From",
-     "value": "{{cad_125}}"
+     "label": "Caledon Cleanouts Pricing",
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
      "c": [
-      "Volume-priced and all-inclusive — sorting, every carry, hauling and disposal in one figure."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -677,7 +677,7 @@
     {
      "t": "p",
      "c": [
-      "660+ five-star Google reviews — estate, farmhouse, barn and hoarding cleanouts across Caledon, Peel Region and the GTA."
+      "Google reviews — estate, farmhouse, barn and hoarding cleanouts across Caledon, Peel Region and the GTA."
      ]
     },
     {
@@ -703,7 +703,7 @@
        "q": "How much do cleanout services cost in Caledon?",
        "a": [
         [
-         "Truck volume decides, and only truck volume: small cleanouts from $125, full properties scaling openly with what their contents fill — with zero distance or access premium anywhere in the township. The exact figure is written free at the walkthrough and holds to the invoice."
+         "The exact figure is written free at the walkthrough."
         ]
        ]
       },
@@ -743,7 +743,7 @@
        "q": "Do rural addresses or long laneways cost extra?",
        "a": [
         [
-         "Never. The same flat volume pricing applies at Caledon East’s village core and eight concessions past it — no distance fee, no per-building fee, no access charge."
+         "Never."
         ]
        ]
       },

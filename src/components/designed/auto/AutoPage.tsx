@@ -13,6 +13,7 @@
  *       FAQs → split FAQ                    town lists → area chips + map
  *   → related links (chips) → closing orange quote band with the form.
  */
+import { fact, reviewLine } from "@/lib/content/facts";
 import Image from "next/image";
 import Link from "next/link";
 import type { ReactNode } from "react";
@@ -51,6 +52,7 @@ import {
   isIcon,
   isStepCards,
   listFaq,
+  mergeFaqs,
   normalize,
   widthOf,
   stripNum,
@@ -69,7 +71,8 @@ export type Variant =
   | "location"
   | "ads"
   | "hub";
-type Ctx = { variant: Variant; formAnchor: string };
+/** callFirst: the phone call is the primary action (bed bug pages, Nav prefers calls: audit OBS-15, OBS-68). */
+type Ctx = { variant: Variant; formAnchor: string; callFirst?: boolean };
 
 /** Fallback hero photos (real Live Junk Free crew photos) when a page has none of its own. */
 const FALLBACK: Record<Variant, ImageKey> = {
@@ -318,6 +321,8 @@ function Prose({
               <div key={key} className="callout small">
                 {b.label ? <b>{b.label} </b> : null}
                 {renderInline([b.value], key)}
+                {/* a shown rate always carries the tax note (Manisha, 18 Nov 2026) */}
+                {/\$\s?\d|\{\{min_price/.test(String(b.value)) ? <span className="muted"> {fact("taxNote")}.</span> : null}
               </div>
             );
           default:
@@ -1303,11 +1308,10 @@ function Hero({
                 style={{ "--d": "0ms" } as React.CSSProperties}
               >
                 <span className="gpill">
-                  <Icon name="star" /> {site.rating.display} rating ·{" "}
-                  {site.rating.countDisplay}+ Google reviews
+                  <Icon name="star" /> {reviewLine()}
                 </span>
                 <span className="gpill">
-                  <Icon name="clock" /> Same-day pickup
+                  <Icon name="clock" /> {fact("sameDay", "short")}
                 </span>
               </div>
             )}
@@ -1337,16 +1341,25 @@ function Hero({
               className="btn-row intro"
               style={{ "--d": "600ms" } as React.CSSProperties}
             >
-              <Link className="btn btn-primary" href={ctx.formAnchor}>
-                {primary.label}
-              </Link>
-              <a
-                className="btn btn-ghost btn-glass"
-                href={`tel:${site.phone.tel}`}
-                data-track="phone"
-              >
-                <Icon name="phone" /> {site.phone.display}
-              </a>
+              {ctx.callFirst ? (
+                <>
+                  <a className="btn btn-primary" href={`tel:${site.phone.tel}`} data-track="phone">
+                    <Icon name="phone" /> Call {site.phone.display}
+                  </a>
+                  <Link className="btn btn-ghost btn-glass" href={ctx.formAnchor}>
+                    {primary.label}
+                  </Link>
+                </>
+              ) : (
+                <>
+                  <Link className="btn btn-primary" href={ctx.formAnchor}>
+                    {primary.label}
+                  </Link>
+                  <a className="btn btn-ghost btn-glass" href={`tel:${site.phone.tel}`} data-track="phone">
+                    <Icon name="phone" /> {site.phone.display}
+                  </a>
+                </>
+              )}
             </div>
           </div>
           <div
@@ -1385,16 +1398,25 @@ function Hero({
             </ul>
           ) : null}
           <div className="btn-row">
-            <Link className="btn btn-primary" href={ctx.formAnchor}>
-              {primary.label}
-            </Link>
-            <a
-              className="btn btn-ghost"
-              href={`tel:${site.phone.tel}`}
-              data-track="phone"
-            >
-              <Icon name="phone" /> {site.phone.display}
-            </a>
+            {ctx.callFirst ? (
+              <>
+                <a className="btn btn-primary" href={`tel:${site.phone.tel}`} data-track="phone">
+                  <Icon name="phone" /> Call {site.phone.display}
+                </a>
+                <Link className="btn btn-ghost" href={ctx.formAnchor}>
+                  {primary.label}
+                </Link>
+              </>
+            ) : (
+              <>
+                <Link className="btn btn-primary" href={ctx.formAnchor}>
+                  {primary.label}
+                </Link>
+                <a className="btn btn-ghost" href={`tel:${site.phone.tel}`} data-track="phone">
+                  <Icon name="phone" /> {site.phone.display}
+                </a>
+              </>
+            )}
           </div>
           {extra.length ? <Buttons items={extra} ctx={ctx} /> : null}
           <Rating />
@@ -1448,8 +1470,8 @@ export function AutoPage({
   formHero = variant === "ads",
 }: AutoPageProps) {
   const n = normalize(doc);
-  n.parts = dropRepeatedLists(mergeStepRuns(n.parts), listed);
-  const ctx: Ctx = { variant, formAnchor: "#quote-form" };
+  n.parts = mergeFaqs(dropRepeatedLists(mergeStepRuns(n.parts), listed));
+  const ctx: Ctx = { variant, formAnchor: "#quote-form", callFirst: /bed-bug/.test(doc.path) };
   const crumbs = breadcrumbs(doc);
   const heroImage = n.heroImage ?? {
     src: IMG[FALLBACK[variant]],

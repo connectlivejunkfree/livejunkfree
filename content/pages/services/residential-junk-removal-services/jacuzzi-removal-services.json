@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We’re rated 5.0 on Google by 780+ customers."
+     "text": "We’re {{fact:reviews}}."
     },
     {
      "t": "ctas",
@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -69,7 +69,7 @@
     {
      "t": "p",
      "c": [
-      "Before we begin, we’ll provide you with a free, no-obligation quote with no hidden fees, and we’ll only start once you approve. Then, we’ll get to work: safely disconnecting plumbing and electrical (if needed), carefully dismantling the unit, removing all pieces, cleaning the area thoroughly, and handling all disposal. We specialize in making space and clearing out the old. With our experienced crew, Jacuzzi removal is so simple that we can get it done in no time!"
+      "We specialize in making space and clearing out the old. With our experienced crew, Jacuzzi removal is so simple that we can get it done in no time!"
      ]
     },
     {
@@ -97,12 +97,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Jacuzzi Removal – Call or Book Online!"
+     "text": "Jacuzzi Removal – Call or Book Online!"
     },
     {
      "t": "p",
      "c": [
-      "Removing an old Jacuzzi doesn’t have to be difficult. Our professional removal service starts at just {{cad_125}}, and we take care of everything for you. We’ll safely disconnect any plumbing or electrical, dismantle your Jacuzzi (including built-in and freestanding models), clean the area thoroughly, and haul everything away – no heavy lifting or mess left behind."
+      "Removing an old Jacuzzi doesn’t have to be difficult. We’ll safely disconnect any plumbing or electrical, dismantle your Jacuzzi (including built-in and freestanding models), clean the area thoroughly, and haul everything away – no heavy lifting or mess left behind."
      ]
     },
     {
@@ -124,7 +124,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -143,7 +143,7 @@
     {
      "t": "p",
      "c": [
-      "Removing a Jacuzzi requires professional expertise, and that’s exactly what our team delivers. When you choose Live Junk Free, you’re guaranteed a smooth, worry-free experience from start to finish. We understand Jacuzzi removal often can’t wait, whether you’re renovating your outdoor space, dealing with a leak, or simply tired of that unused eyesore. That’s why we offer same-day or next-day removal whenever possible, so you don’t have to live with that bulky unit a moment longer than necessary."
+      "Removing a Jacuzzi requires professional expertise, and that’s exactly what our team delivers. {{fact:scheduling}} We understand Jacuzzi removal often can’t wait, whether you’re renovating your outdoor space, dealing with a leak, or simply tired of that unused eyesore. That’s why we offer same-day or next-day removal whenever possible, so you don’t have to live with that bulky unit a moment longer than necessary."
      ]
     },
     {
@@ -177,7 +177,7 @@
      "c": [
       {
        "b": [
-        "We Offer Same-Day Jacuzzi Removal."
+        "We Offer Jacuzzi Removal."
        ]
       }
      ]
@@ -199,7 +199,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We accommodate your timeline with same-day, next-day, and weekend appointments available when you need them."
+     "text": "Ask about available pickup times"
     },
     {
      "t": "h",
@@ -209,7 +209,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "You’ll get upfront quotes covering all costs – no hidden fees for labor, disposal, or unexpected complications."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "h",
@@ -333,10 +333,10 @@
        "Clear upfront quotes before we start any work"
       ],
       [
-       "Free instant estimates available by phone, text, or online"
+       "{{fact:freeOnsiteEstimates}}"
       ],
       [
-       "Special discounts for multiple unit removals"
+       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -394,25 +394,25 @@
       {
        "title": "Send a Photo",
        "text": [
-        "Text or upload pictures of your Jacuzzi, and our team will respond within minutes with a free estimate."
+        "{{fact:freeOnsiteEstimates}}"
        ]
       },
       {
        "title": "Get a Quote",
        "text": [
-        "Receive fair, transparent pricing with no hidden fees - you'll know exactly what you're paying."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Schedule Your Slot",
        "text": [
-        "Choose same-day or next-day removal, we work near you."
+        "Choose same-day or next-day removal when available, we work near you."
        ]
       },
       {
        "title": "We Remove It",
        "text": [
-        "Our crew pumps out water, removes the jacuzzi, cleans the area, and hauls it all away, typically done in just 1-2 hours."
+        "Our crew pumps out water, removes the jacuzzi, cleans the area, and hauls it all away."
        ]
       }
      ]
@@ -465,7 +465,7 @@
        "q": "Do you dismantle the Jacuzzi before removal?",
        "a": [
         [
-         "Yes, we professionally dismantle every unit. Our team carefully disconnects plumbing and electrical components before breaking down the structure for safe removal. "
+         "Yes, we professionally dismantle every unit. "
         ]
        ]
       },
@@ -473,7 +473,7 @@
        "q": "How much does Jacuzzi removal cost?",
        "a": [
         [
-         "Prices start at $125. The final cost depends on your Jacuzzi’s size, type, and location. Text us photos for a free, exact quote with no hidden fees. "
+         "The final cost depends on your Jacuzzi’s size, type, and location. "
         ]
        ]
       },

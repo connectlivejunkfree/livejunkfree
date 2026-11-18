@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -69,7 +69,7 @@
     {
      "t": "p",
      "c": [
-      "The process is designed to be completely hassle-free. We begin with a free, no-obligation quote so you understand exactly what to expect. Once you approve, our skilled team handles every detail: safely unplugging the unit, carefully removing it from your cabinets or countertop, thoroughly cleaning the surrounding area, and ensuring proper disposal or recycling of all components. We make microwave removal so efficient that most jobs are finished in under 30 minutes."
+      "The process is designed to be completely hassle-free. We begin with a free, no-obligation quote so you understand exactly what to expect. Once you approve, our skilled team handles every detail: safely unplugging the unit, carefully removing it from your cabinets or countertop, thoroughly cleaning the surrounding area, and ensuring proper disposal or recycling of all components."
      ]
     },
     {
@@ -97,12 +97,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Microwave Removal Made Easy – Book Now for Same-Day Service"
+     "text": "Microwave Removal Made Easy – Book Now for Service"
     },
     {
      "t": "p",
      "c": [
-      "Removing an old microwave couldn’t be simpler. Our professional same day microwave removal service starts at just {{cad_125}}, and we take care of everything for you. We’ll safely unplug your unit, carefully remove it from cabinets or countertops, and haul it away – leaving your kitchen spotless with no dust or debris behind."
+      "Removing an old microwave couldn’t be simpler. We’ll safely unplug your unit, carefully remove it from cabinets or countertops, and haul it away – leaving your kitchen tidy with no dust or debris behind."
      ]
     },
     {
@@ -116,7 +116,7 @@
      "c": [
       "Ready to free up your kitchen space? ",
       {
-       "a": "/contact/",
+       "a": "tel:+16479225865",
        "c": [
         "Call us now"
        ]
@@ -131,7 +131,7 @@
        "b": [
         {
          "i": [
-          "Calls answered in 1 minute or less"
+          ""
          ]
         }
        ]
@@ -168,7 +168,7 @@
     {
      "t": "p",
      "c": [
-      "Our complete same day microwave removal service includes:"
+      "Our complete same day when available microwave removal service includes:"
      ]
     },
     {
@@ -182,9 +182,6 @@
       ],
       [
        "Environmentally responsible e-waste recycling of all components"
-      ],
-      [
-       "Complete air dusting of the removal area"
       ]
      ]
     },
@@ -193,7 +190,7 @@
      "c": [
       {
        "b": [
-        "We Offer Same-Day Microwave Removal."
+        "We Offer Microwave Removal."
        ]
       }
      ]
@@ -245,7 +242,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We ensure all components, including metals, plastics, and electronic parts, are properly recycled through certified e-waste facilities."
+     "text": "{{fact:recycling}}"
     },
     {
      "t": "h",
@@ -255,7 +252,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "What might take you hours of frustrating work, our professionals typically complete in under 45 minutes, including full cleanup."
+     "text": "Timing confirmed at your estimate"
     },
     {
      "t": "h",
@@ -274,7 +271,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same Day Microwave Removal – Book Now"
+     "text": "Microwave Removal – Book Now"
     },
     {
      "t": "h",
@@ -339,7 +336,7 @@
     {
      "t": "p",
      "c": [
-      "Pay only for what we remove – no hidden fees"
+      "Pay only for what we remove"
      ]
     },
     {
@@ -349,7 +346,7 @@
        "Clear upfront quotes before we begin work"
       ],
       [
-       "Free instant estimates by phone/text/online"
+       "{{fact:freeOnsiteEstimates}}"
       ],
       [
        "Discounted rates for multiple appliance removals"
@@ -410,25 +407,25 @@
       {
        "title": "Send Us Details",
        "text": [
-        "Text or email photos of your microwave, and we'll provide a free quote within minutes - no matter what type"
+        "{{fact:freeOnsiteEstimates}}"
        ]
       },
       {
        "title": "Get Your Price",
        "text": [
-        "Receive transparent, upfront pricing with no hidden fees - you'll know the exact cost before we begin."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Choose Your Time",
        "text": [
-        "Select same-day or next-day service that works for you - we come directly to your home or office."
+        "Select same-day or next-day service when available that works for you - we come directly to your home or office."
        ]
       },
       {
        "title": "We Handle It All",
        "text": [
-        "Our professional team safely removes your microwave and most jobs finish in under 45 minutes."
+        "Timing confirmed at your estimate"
        ]
       }
      ]
@@ -489,7 +486,7 @@
        "q": "Do you recycle or properly dispose of old microwaves?",
        "a": [
         [
-         "Absolutely. We follow strict e-waste recycling protocols, ensuring 95 %+ of materials are properly recycled. All components are disposed of responsibly at certified recycling facilities. "
+         "Absolutely. All components are disposed of responsibly at recycling facilities. "
         ]
        ]
       },

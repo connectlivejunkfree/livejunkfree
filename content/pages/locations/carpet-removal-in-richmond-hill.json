@@ -6,12 +6,12 @@
  "template": "LocationService",
  "seo": {
   "title": "Carpet Removal in Richmond Hill for Homes and Businesses | Live Junk Free",
-  "description": "Fast carpet removal in Richmond Hill with same-day junk pickup, flooring disposal, and full cleanup services. Contact us and book now.",
+  "description": "Fast carpet removal in Richmond Hill with same-day junk pickup when available, flooring disposal, and full cleanup services. Contact us and book now.",
   "canonical": "https://livejunkfree.ca/locations/carpet-removal-in-richmond-hill/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "carpet-removal-in-richmond-hill",
+ "title": "Carpet Removal in Richmond Hill",
  "h1": "Carpet Removal Services in Richmond Hill, Ontario — The Broadloom Era Is Ending, One Room at a Time",
  "published": "2026-07-15T08:50:18",
  "modified": "2026-07-15T10:57:15",
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The conversion is visible on every street: nineties broadloom leaving Bayview Hill's big two-storeys, builder carpet exiting Jefferson and Oak Ridges ahead of plank installs, and older homes near Mill Pond and Crosby finally freeing their hardwood from decades underneath. Live Junk Free handles the tear-outs — 660+ five-star Google reviews earned by leaving subfloors the installers compliment."
+     "text": "The conversion is visible on every street: nineties broadloom leaving Bayview Hill's big two-storeys, builder carpet exiting Jefferson and Oak Ridges ahead of plank installs, and older homes near Mill Pond and Crosby finally freeing their hardwood from decades underneath. Live Junk Free handles the tear-outs — Google reviews earned by leaving subfloors the installers compliment."
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Tear-out labour, hauling, disposal fees, fuel — all locked inside the approved quote. When the underpad turns out to be glued or the staples number in the thousands, the price doesn't move. Under-carpet surprises are our specialty and our problem."
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} When the underpad turns out to be glued or the staples number in the thousands, the price doesn't move. Under-carpet surprises are our specialty and our problem."
     },
     {
      "t": "steps",
@@ -154,7 +154,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Richmond Hill's housing stock means carpeted staircases and full carpeted upper floors are the standard tear-out here — winders, landings, spindle-lined edges and all. Our crews strip them clean, staples included on request, without a mark on the railings or walls."
+     "text": "Richmond Hill's housing stock means carpeted staircases and full carpeted upper floors are the standard tear-out here — winders, landings, spindle-lined edges and all. Our crews strip them clean, staples included on request on the railings or walls."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent pricing — 30–50% under the franchise haulers",
+       "title": "Independent pricing",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national brands price royalties into every job. We're locally owned with none, and Richmond Hill tear-outs land 30–50% cheaper for the identical swept subfloor."
+     "text": "The national brands price royalties into every job."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small loads start at {{cad_125}} — a single room, rolled and gone. Upper floors, staircases and whole-home tear-outs scale with truck space, never with time or difficulty, and every figure is locked in person at the free walkthrough. From one musty basement to every carpeted inch of a Bayview Hill two-storey, the quote is the invoice."
+     "text": "Upper floors, staircases and whole-home tear-outs scale with truck space, never with time or difficulty, and every figure is locked in person at the free walkthrough. From one musty basement to every carpeted inch of a Bayview Hill two-storey, the quote is the invoice."
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Book the Walkthrough",
        "text": [
-        "Call +1 647 922 5865 or book online in minutes. Crews cover all of Richmond Hill seven days a week, 6AM to 11PM, with same-day slots and a 30-minute arrival text."
+        "Call +1 647 922 5865 or book online in minutes."
        ]
       },
       {
        "title": "2. Show Us Every Carpeted Surface",
        "text": [
-        "Bedrooms, stairs, hallways, the basement — we assess the carpet, the underpad and the layout, then hand you one flat, all-inclusive quote. Free, and easy to decline."
+        "Bedrooms, stairs, hallways, the basement — we assess the carpet, the underpad and the layout, then hand you one flat, quote. Free, and easy to decline."
        ]
       },
       {
@@ -324,7 +324,7 @@
          "Stair carpet and runners — straight runs, winders, full wraps"
         ],
         [
-         "Spindle-edge and railing-adjacent stripping, done without a scratch"
+         "Spindle-edge and railing-adjacent stripping, done"
         ],
         [
          "Underpad removal — stapled, glued and double-layered"
@@ -474,7 +474,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -504,7 +504,7 @@
        "q": "Q: How is carpet removal priced in Richmond Hill?",
        "a": [
         [
-         "A: By the truck space the rolled carpet, underpad and debris occupy — small loads from $125, single rooms at the low end, whole-home tear-outs scaling flat from there. The figure is confirmed free and in person before any cutting, and nothing found under the carpet can change it."
+         "The figure is confirmed free and in person before any cutting, and nothing found under the carpet can change it."
         ]
        ]
       },

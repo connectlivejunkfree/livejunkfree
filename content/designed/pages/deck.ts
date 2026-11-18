@@ -1,3 +1,4 @@
+import { fact } from "@/lib/content/facts";
 import { FAQS } from "../faqs";
 import { PRICE_NOTES } from "../pricing";
 import { svc } from "../routes";
@@ -7,8 +8,8 @@ import type { DemolitionContent } from "../types";
 export const DECK: DemolitionContent = {
   hero: {
     h1: "Deck removal and demolition",
-    lead: "We specialize in making old decks disappear quickly, safely, and affordably, and we handle every step from the first loose board to the final sweep of your clean, open yard.",
-    ticks: ["Same-day and next-day deck removal", "Wood, composite, and metal sorted for recycling", "Free, no-obligation estimates"],
+    lead: "We specialize in making old decks disappear quickly, safely, and affordably, and we handle every step from the first loose board to hauling the last of it away.",
+    ticks: [fact("sameDay", "short"), fact("recycling"), "Free, no-obligation estimates"],
     image: "deckAfter",
     alt: "Backyard after a Live Junk Free deck removal",
     primary: "Get a demolition quote",
@@ -27,9 +28,9 @@ export const DECK: DemolitionContent = {
     title: "How deck removal works",
     list: [
       { title: "Send us photos", text: "Take a few pictures of your deck and text or upload them to us for a free, no-obligation quote." },
-      { title: "Get your quote", text: "Straightforward pricing with no hidden fees, based on your deck's size, materials, and condition." },
-      { title: "Pick your time", text: "Select same-day service, next-day availability, or schedule a future date that works for you." },
-      { title: "We remove it", text: "Our crew arrives on time, safely demolishes your deck, removes all debris, and leaves your yard clean." },
+      { title: "Get your quote", text: "A clear quote based on your deck's size, materials and condition, confirmed before work begins." },
+      { title: "Pick your time", text: "Pick a date that works for you. We confirm timing when you book." },
+      { title: "We remove it", text: "Our crew arrives at the agreed time, takes the deck down, removes the debris and tidies the work area." },
     ],
   },
   other: {

@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-day Furniture Removal in Richmond Hill Made Easy | Live Junk Free",
-  "description": "Quick Richmond Hill furniture removal for sofas, beds, tables, and junk. Same-day pickup, cleanup, and clutter removal. Call today.",
+  "title": "Furniture Removal in Richmond Hill Made Easy | Live Junk Free",
+  "description": "Quick Richmond Hill furniture removal for sofas, beds, tables, and junk. Same-day pickup when available, cleanup, and clutter removal. Call today.",
   "canonical": "https://livejunkfree.ca/locations/furniture-removal-in-richmond-hill/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "furniture-removal-in-richmond-hill",
+ "title": "Furniture Removal in Richmond Hill",
  "h1": "Furniture Removal Services in Richmond Hill, Ontario — Because Furniture Is the Hardest Junk There Is",
  "published": "2026-07-15T11:57:35",
  "modified": "2026-07-15T11:25:28",
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Richmond Hill's furniture lives in challenging places: upstairs bedrooms in Bayview Hill and Jefferson two-storeys, compact condos along Yonge with booked elevators, and basement rec rooms whose sectionals arrived before the railing did. Live Junk Free carries out of all of it — 660+ five-star Google reviews earned on careful stairwells, spotless walls and pieces sent onward rather than under."
+     "text": "Richmond Hill's furniture lives in challenging places: upstairs bedrooms in Bayview Hill and Jefferson two-storeys, compact condos along Yonge with booked elevators, and basement rec rooms whose sectionals arrived before the railing did. Live Junk Free carries out of all of it — Google reviews earned on careful stairwells, tidy walls and pieces sent onward rather than under."
     },
     {
      "t": "steps",
@@ -109,7 +109,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Furniture is priced like everything we haul: by the truck space it fills. One sofa is a small load; a whole home's worth is more. No heavy-item fees, no per-piece menus with suspicious math, and no difference between Richmond Hill addresses."
+     "text": "Furniture is priced like everything we haul: by the truck space it fills. One sofa is a small load; a whole home's worth is more."
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Carrying, dismantling where doorways demand it, floor protection, hauling, disposal and donation logistics — all inside the quote you approve. If the wardrobe has to come apart to leave the room it was assembled in, that's included, not extra."
+     "text": "{{fact:propertyProtection}}. If the wardrobe has to come apart to leave the room it was assembled in, that's included, not extra."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent pricing — 30–50% under the franchise trucks",
+       "title": "Independent pricing",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national haulers price royalties into every pickup. We're locally owned with none, and Richmond Hill furniture removal lands 30–50% cheaper for the identical empty corner."
+     "text": "The national haulers price royalties into every pickup."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small loads start at {{cad_125}} — a single sofa or mattress sits at the friendly end of the scale. Bedroom sets, multi-piece clears and whole-home furniture loads scale only with the truck space they claim, and every figure is locked free at your door before anything lifts. The quote is the invoice, stairs and all."
+     "text": "Small loads start at {{min_price:C}} — a single sofa or mattress sits at the friendly end of the scale. Bedroom sets, multi-piece clears and whole-home furniture loads scale only with the truck space they claim, and every figure is locked free at your door before anything lifts. The quote is the invoice, stairs and all."
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Book the Pickup",
        "text": [
-        "Call +1 647 922 5865 or book online in two minutes. Crews cover all of Richmond Hill seven days a week, 6AM to 11PM, with same-day slots and a 30-minute text before arrival."
+        "Call +1 647 922 5865 or book."
        ]
       },
       {
        "title": "2. Show Us the Pieces",
        "text": [
-        "The sofa, the spare bedroom set, the wall unit that outlived its TV — point at everything going and get one flat, all-inclusive quote. Free either way."
+        "The sofa, the spare bedroom set, the wall unit that outlived its TV — point at everything going and get one flat, quote. Free either way."
        ]
       },
       {
@@ -474,7 +474,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -504,7 +504,7 @@
        "q": "Q: How much does furniture removal cost in Richmond Hill?",
        "a": [
         [
-         "A: The truck decides: small loads from $125, a single sofa or mattress at the low end, multi-piece clears scaling flat with combined volume. The free at-the-door quote already includes stairs, disassembly and careful handling — and it can’t change after you approve it."
+         "A: The truck decides: small loads from {{min_price:C}}, a single sofa or mattress at the low end, multi-piece clears scaling flat with combined volume. The free at-the-door quote already includes stairs, disassembly and careful handling — and it can’t change after you approve it."
         ]
        ]
       },
@@ -512,7 +512,7 @@
        "q": "Q: The sectional came in before the basement railing went up. Can it still come out?",
        "a": [
         [
-         "A: This is possibly our most common Richmond Hill call. Sectionals split into pieces, frames dismantle, doors come off hinges — one way or another, the furniture that “can’t leave” leaves, without a mark on the stairwell. Disassembly is included in the price."
+         "A: This is possibly our most common Richmond Hill call. Sectionals split into pieces, frames dismantle, doors come off hinges — one way or another, the furniture that “can’t leave” leaves on the stairwell. Disassembly is included in the price."
         ]
        ]
       },
@@ -520,7 +520,7 @@
        "q": "Q: Can you pick up from a condo with elevator bookings?",
        "a": [
         [
-         "A: Routinely. Give us your reservation window and the crew loads within it — pads up, corridors protected, property management satisfied. Certificates of insurance are available ahead of time where buildings require them."
+         "A: Routinely. Give us your reservation window and the crew loads within it — pads up, corridors protected, property management satisfied. {{fact:insuranceDocs}}."
         ]
        ]
       },

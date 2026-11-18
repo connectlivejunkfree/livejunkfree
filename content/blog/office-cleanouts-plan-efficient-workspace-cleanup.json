@@ -188,7 +188,7 @@
      "t": "ul",
      "items": [
       [
-       "E-Waste Compliance: They ensure secure, certified destruction of data-bearing devices and environmentally sound recycling of electronics, which is regulated in Ontario."
+       "{{fact:recycling}}"
       ],
       [
        "Heavy Lifting & Logistics: They safely remove bulky furniture, cubicle walls, and large quantities of material without disrupting your building or risking employee injury."
@@ -232,13 +232,13 @@
        "Consultation & Walk-through: We meet with your team to understand the scope, timeline, and special requirements, particularly for IT equipment."
       ],
       [
-       "Detailed Proposal: We provide a transparent, itemized quote covering labor, hauling, and all disposal fees."
+       "{{fact:competitorComparison}}"
       ],
       [
        "Scheduled Execution: Our crew works around your schedule, often during evenings or weekends. We handle all loading, heavy lifting, and site protection."
       ],
       [
-       "Secure & Sustainable Removal: We provide certificates of data destruction for electronics and ensure maximum donation and recycling."
+       ""
       ],
       [
        "Final Site Sweep: We leave the designated areas broom-clean and ready for your next phase."
@@ -329,7 +329,7 @@
       {
        "br": 1
       },
-      "We partner with certified e-waste recyclers. Devices are transported securely, data-bearing components are physically destroyed or digitally wiped with certification provided, and all materials are processed for recycling, keeping toxins out of landfills."
+      "We partner with e-waste recyclers. Devices are transported securely, data-bearing components are physically destroyed or digitally wiped with certification provided, and all materials are processed for recycling, keeping toxins out of landfills."
      ]
     },
     {
@@ -345,11 +345,11 @@
     {
      "t": "p",
      "c": [
-      "Do you provide donation receipts?",
+      "",
       {
        "br": 1
       },
-      "Yes, for items donated to our network of local charities, we can facilitate the provision of tax receipts for your company’s records."
+      "{{fact:recycling}}."
      ]
     },
     {

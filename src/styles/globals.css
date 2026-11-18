@@ -345,14 +345,20 @@
   /* ---------- load meter ---------- */
   .lm{background:var(--ink);color:#fff;border-radius:var(--r-xl);padding:clamp(24px,4vw,48px);display:grid;grid-template-columns:1.15fr .85fr;gap:clamp(24px,4vw,56px);align-items:center}
   @media (max-width:960px){.lm{grid-template-columns:1fr}}
-  .truck{width:100%;height:auto}
-  .truck .cell{fill:rgba(255,255,255,.07);transition:fill .35s}
-  .truck .cell.on{fill:var(--orange)}
-  .lm-tabs{display:grid;grid-template-columns:repeat(5,1fr);gap:4px;margin-top:22px;background:rgba(255,255,255,.07);padding:5px;border-radius:999px}
-  .lm-tabs button{min-height:46px;border:0;background:transparent;border-radius:999px;font-weight:600;font-size:.95rem;color:#C5D0DB;padding:4px}
-  .lm-tabs button small{display:none}
-  .lm-tabs button[aria-pressed=true]{background:#fff;color:var(--ink)}
-  .lm-tabs .pillbg{display:none}
+  .truck{width:100%;height:auto;display:block;margin-top:16px}
+  .lm-fill{transform-box:fill-box;transform-origin:0 50%}
+  .lm-product{display:inline-grid;grid-template-columns:1fr 1fr;gap:4px;background:rgba(255,255,255,.07);padding:5px;border-radius:999px}
+  .lm-product button,.lm-sizes button{min-height:44px;min-width:44px;border:0;background:transparent;border-radius:999px;font-weight:600;font-size:.95rem;color:#C5D0DB;padding:6px 14px;cursor:pointer}
+  .lm-product button[aria-checked=true],.lm-sizes button[aria-checked=true]{background:#fff;color:var(--ink)}
+  .lm-product button:focus-visible,.lm-sizes button:focus-visible{outline:3px solid var(--orange);outline-offset:2px}
+  .lm-sizes{display:grid;grid-template-columns:repeat(auto-fill,minmax(58px,1fr));gap:4px;margin-top:18px;background:rgba(255,255,255,.07);padding:5px;border-radius:24px}
+  .lm-sizes button{padding:6px 4px}
+  .lm-vol{color:#C5D0DB;font-size:1rem}
+  .lm-labour{color:#fff;font-weight:600}
+  .lm-price{font:700 clamp(1.9rem,4vw,2.8rem)/1.05 var(--display);letter-spacing:-.03em;color:#fff}
+  .lm-price.lm-tbd{font-size:clamp(1.15rem,2.2vw,1.5rem);color:#FFD2B3;letter-spacing:-.01em}
+  .lm-curb{color:#fff;background:rgba(255,106,19,.16);border:1px solid rgba(255,106,19,.4);padding:8px 12px;border-radius:12px}
+  @media (max-width:640px){.lm-ctas{flex-direction:column}.lm-ctas .btn{width:100%}}
   .lm-out .tag{background:rgba(255,255,255,.1);color:#fff}
   .lm-out .price{font:700 clamp(2.8rem,5vw,4rem)/1 var(--display);letter-spacing:-.04em;color:#fff}
   .lm-out .price small{font:500 1rem var(--body);color:#9DAAB8;letter-spacing:0}
@@ -363,11 +369,6 @@
   .lm .btn-ghost{background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.18);color:#fff}
   /* load meter: published prices only */
   .lm-out .eq-big{font:700 clamp(1.5rem,2.6vw,2.1rem)/1.1 var(--display);letter-spacing:-.03em;color:#fff}
-  .lm-prices{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-  .lm-prices>div{padding:14px 16px;border-radius:var(--r-md);background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);display:flex;flex-direction:column;gap:6px;transition:background .3s,border-color .3s}
-  .lm-prices>div.on{border-color:var(--orange);background:rgba(255,106,19,.14)}
-  .lm-prices .price{font:700 clamp(1.5rem,2.6vw,2.1rem)/1 var(--display);letter-spacing:-.03em;color:#fff}
-  .lm-prices small{font-size:.84rem;color:#C5D0DB;line-height:1.3}
   .chip{display:inline-flex;align-items:center;gap:8px;padding:9px 16px;background:#fff;border:1px solid var(--line);border-radius:999px;font-size:.92rem;color:var(--ink);text-decoration:none;white-space:nowrap}
   .chip svg{width:18px;height:18px;color:var(--orange)}
   a.chip:hover{border-color:var(--ink)}
@@ -598,7 +599,7 @@
     .btn-row>.btn{flex:1 1 auto}
     .hero .btn-row .btn{width:100%}
     .lm{padding:22px;border-radius:var(--r-lg)}
-    .lm-tabs button{font-size:.88rem;min-height:44px}
+    .lm-sizes button{font-size:.9rem}
     .panel{padding:22px}
     .rv{padding:22px}
     .faq details{padding:0 18px}
@@ -711,21 +712,10 @@
     .step.in .n{transform:none;opacity:1;background:var(--orange);color:var(--ink)}
     .on-dark .step.in .n{color:var(--ink)}
 
-    /* load meter: cells fill one by one, truck bumps, price flips */
-    .truck .cell{transition:fill .3s;transition-delay:calc(var(--ci)*55ms)}
-    .truck .body{transform-box:fill-box;transform-origin:50% 100%}
-    .truck.bump .body{animation:bump .5s var(--ease)}
-    @keyframes bump{30%{transform:translateY(3px)}60%{transform:translateY(-2px)}}
-    .truck .whl{transform-box:fill-box;transform-origin:center}
-    .truck.bump .whl{animation:spin .5s var(--ease)}
-    @keyframes spin{to{transform:rotate(360deg)}}
-    .lm .flip{display:inline-block;animation:flip .45s var(--ease)}
-    @keyframes flip{from{opacity:0;transform:translateY(40%)}to{opacity:1;transform:none}}
-    .lm-out ul li{animation:introIn .45s var(--ease) both;animation-delay:calc(var(--ci)*60ms);opacity:0;transform:translateY(10px)}
-    .lm-tabs{position:relative}
-    .lm-tabs .pillbg{display:block;position:absolute;top:5px;bottom:5px;left:0;border-radius:999px;background:#fff;transition:transform .45s var(--ease),width .45s var(--ease);z-index:0}
-    .lm-tabs button{position:relative;z-index:1;transition:color .3s}
-    .lm-tabs.has-pill button[aria-pressed=true]{background:transparent}
+    /* load meter: the load slides in (transform only, ~350ms); chips fade in */
+    .lm-fill{transition:transform .35s var(--ease)}
+    .lm-product button,.lm-sizes button{transition:background .25s,color .25s,transform .15s}
+    .lm-out ul li{animation:introIn .45s var(--ease) both;opacity:0;transform:translateY(10px)}
 
     /* before/after knob pulse until touched */
     .ba:not(.touched) .knob span{animation:pulse 2s ease-in-out infinite}
@@ -1004,7 +994,7 @@
     .trust .t svg{transition:transform .35s cubic-bezier(.3,1.6,.5,1)}
     .trust .t.rvl:not(.in) svg{transform:scale(.6)}
     /* load-meter tabs and chips: quick press feedback */
-    .lm-tabs button:active{transform:scale(.96)}
+    .lm-sizes button:active,.lm-product button:active{transform:scale(.96)}
   }
 }
 
@@ -1356,4 +1346,9 @@
   /* the quote band and photo heroes clip their decoration; let an open calendar/menu show in full */
   .cta-band:has(.cal,.menu),.hero-home:has(.cal,.menu),.lp-hero:has(.cal,.menu){overflow:visible}
   .hero-home:has(.cal,.menu)>.bg{overflow:hidden;border-radius:inherit}
+}
+
+/* Batch 1 QA (audit T07): body text is at least 16px on phones and tablets. */
+@media (max-width:960px){
+  .bx p,.step p,.route .items,.route .go,.dest p,.dest li,.panel,.panel p,.panel .ticks,.panel>p.muted,.svc-card p,.faq-a p,.rv blockquote,.areas li{font-size:1rem}
 }

@@ -815,3 +815,39 @@ export function mergeStepRuns(parts: Part[]): Part[] {
   }
   return parts;
 }
+
+/**
+ * One FAQ per page (audit G12, rule 6): pages copied from the old site often have
+ * two or three FAQ groups that repeat each other, and each emitted its own FAQPage.
+ * Every real FAQ group is merged into the first one (questions de-duplicated), so the
+ * page shows one FAQ and outputs one FAQPage whose answers match what is shown.
+ */
+export function mergeFaqs(parts: Part[]): Part[] {
+  const real = (b: Block): b is BlockOf<"faq"> => b.t === "faq" && !listFaq(b) && !faqLinkItems(b);
+  let first: BlockOf<"faq"> | null = null;
+  const seen = new Set<string>();
+  const key = (q: string) => q.toLowerCase().replace(/^q:\s*/, "").replace(/[^a-z0-9]+/g, " ").trim();
+  for (const p of parts) {
+    for (const b of p.blocks) {
+      if (!real(b)) continue;
+      if (!first) {
+        first = b;
+        b.items = b.items.filter((f) => {
+          if (seen.has(key(f.q))) return false;
+          seen.add(key(f.q));
+          return true;
+        });
+        continue;
+      }
+      for (const f of b.items) {
+        if (seen.has(key(f.q))) continue;
+        seen.add(key(f.q));
+        first.items.push(f);
+      }
+      b.items = [];
+    }
+    p.blocks = p.blocks.filter((b) => !(b.t === "faq" && b.items.length === 0));
+  }
+  // A section that held only a later FAQ (plus its heading) is now empty.
+  return parts.filter((p) => p.blocks.some((b) => b.t !== "h" && b.t !== "eyebrow") || p.group?.length || p.image || (!p.head.title && p.blocks.length));
+}

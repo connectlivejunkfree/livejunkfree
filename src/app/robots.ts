@@ -8,7 +8,7 @@ import { REVIEW_MODE, SITE_URL } from "@/lib/env";
 export default function robots(): MetadataRoute.Robots {
   if (REVIEW_MODE) return { rules: { userAgent: "*", disallow: "/" } };
   return {
-    rules: [{ userAgent: "*", allow: "/", disallow: ["/review/", "/thankpage-schedule/", "/thank-you-estate-quote/"] }],
+    rules: [{ userAgent: "*", allow: "/", disallow: ["/review/", "/admin/", "/api/", "/thankpage-schedule/", "/thank-you-estate-quote/"] }],
     sitemap: `${SITE_URL}/sitemap.xml`,
     host: SITE_URL,
   };

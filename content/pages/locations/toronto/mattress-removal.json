@@ -5,12 +5,12 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Mattress Removal Toronto | Same-Day Pickup | Live Junk Free",
-  "description": "Old mattress taking up space in Toronto? Live Junk Free picks it up same day — eco-friendly disposal, no hidden fees. Get your free quote now!",
+  "title": "Mattress Removal Toronto | Free Onsite Estimates | Live Junk Free",
+  "description": "Old mattress taking up space in Toronto? Live Junk Free picks it up same day — eco-friendly disposal, subject to scheduling. Get your free quote now!",
   "canonical": "https://livejunkfree.ca/locations/toronto/mattress-removal/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
  },
- "title": "mattress-removal",
+ "title": "Mattress Removal",
  "h1": "Mattress Removal Toronto — Gone Today, No Heavy Lifting Required",
  "published": "2026-07-12T04:04:54",
  "modified": "2026-07-12T04:04:54",
@@ -46,7 +46,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -109,7 +109,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
-      "alt": "DSC08963",
+      "alt": "Mattress Removal: Live Junk Free job photo",
       "width": 800,
       "height": 534
      }
@@ -148,7 +148,7 @@
         "Upfront pricing, always."
        ]
       },
-      " Before we move a single thing, you’ll know exactly what it costs. No bait-and-switch quotes, no add-ons once we’re at your door. With 598+ Google reviews backing us up, our reputation for honest pricing isn’t just a claim — it’s something real Toronto customers have verified hundreds of times over."
+      " Before we move a single thing, you’ll know exactly what it costs. With Google reviews backing us up, our reputation for honest pricing isn’t just a claim — it’s something real Toronto customers have verified hundreds of times over."
      ]
     },
     {
@@ -170,7 +170,7 @@
         "We take eco-friendly disposal seriously."
        ]
       },
-      " A mattress sent to landfill takes up roughly 1.4 cubic metres and resists breaking down for decades. We actively partner with certified recycling facilities that recover steel coils, foam, fabric, and wood — keeping as much material in circulation as possible. When a mattress is in donatable condition, we connect it with local Toronto community organizations."
+      " A mattress sent to landfill takes up roughly 1.4 cubic metres and resists breaking down for decades. We actively partner with recycling facilities that recover steel coils, foam, fabric, and wood — keeping as much material in circulation as possible. When a mattress is in donatable condition, we connect it with local Toronto community organizations."
      ]
     },
     {
@@ -181,7 +181,7 @@
         "Your home is treated with respect."
        ]
       },
-      " Our crew arrives in uniform, uses protective coverings on floors and doorways during removal, and leaves the space clean. No scuffs on the walls, no mess left behind. Licensed and insured — always."
+      " {{fact:propertyProtection}}. No scuffs on the walls, no mess left behind. Licensed and insured — always."
      ]
     }
    ]
@@ -209,10 +209,10 @@
      "c": [
       {
        "b": [
-        "One Price Covers Everything"
+        "{{fact:competitorComparison}}"
        ]
       },
-      " Labour, hauling, disposal — it’s all in your quote. There’s no separate charge for carrying it down the stairs, no recycling surcharge added at the end."
+      " {{fact:taxNote}}. {{fact:pricingIntro.extra}} There’s no separate charge for carrying it down the stairs, no recycling surcharge added at the end."
      ]
     },
     {
@@ -223,7 +223,7 @@
         "Materials Recycled, Not Just Dumped"
        ]
       },
-      " We work with certified processing partners who break mattresses down by material — foam, steel, fabric — and keep those resources in use. Less waste, less landfill, same outcome for you."
+      " Less waste, less landfill, same outcome for you."
      ]
     },
     {
@@ -234,7 +234,7 @@
         "Your Space and Your Property Stay Intact"
        ]
       },
-      " Our crew uses protective equipment on floors, walls, and door frames throughout the removal. No scuffs, no damage, no stress about your building’s elevator walls getting marked up."
+      " Our crew uses protective equipment on floors, walls, and door frames throughout the removal. No scuffs, no stress about your building’s elevator walls getting marked up."
      ]
     },
     {
@@ -278,9 +278,9 @@
        ]
       },
       {
-       "title": "All-Inclusive Pricing",
+       "title": "Pricing",
        "text": [
-        "Your upfront quote covers everything: labor, hauling, and disposal with no surprise fees"
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -294,7 +294,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Damage-Free Guarantee"
+     "text": "Careful Removal"
     },
     {
      "t": "cards",
@@ -357,7 +357,7 @@
     {
      "t": "p",
      "c": [
-      "What never affects the price: us deciding to add fees after we’ve already loaded the truck. The quote you approve on-site is what you pay. No surprises at the end, no fuel surcharges appearing on the invoice, no rounding up."
+      "What never affects the price: us deciding to add fees after we’ve already loaded the truck."
      ]
     },
     {
@@ -505,7 +505,7 @@
       {
        "title": "Book Your Appointment",
        "text": [
-        "Call us or use our quick online form. Tell us what needs to go and where you're in Toronto — we'll give you an upfront price right away. No commitment needed."
+        "Call us or use our quick online form. Tell us what needs to go and where you're in Toronto — we'll review your items and pickup details. No commitment needed."
        ]
       },
       {
@@ -523,7 +523,7 @@
       {
        "title": "Responsible Disposal, Every Time",
        "text": [
-        "Usable pieces get donated to local Toronto charities. Everything else goes to certified recycling facilities. We keep as much out of landfill as possible."
+        "Usable pieces get donated to local Toronto charities. Everything else goes to recycling facilities. We keep as much out of landfill as possible."
        ]
       }
      ]
@@ -544,35 +544,35 @@
      "images": [
       {
        "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
-       "alt": "20250405_140825"
+       "alt": "Mattress Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
-       "alt": "20250405_142357"
+       "alt": "Mattress Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142736-1024x577.webp",
-       "alt": "20250405_142736"
+       "alt": "Mattress Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_144606-1024x577.webp",
-       "alt": "20250405_144606"
+       "alt": "Mattress Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250611_115029-1024x577.webp",
-       "alt": "20250611_115029"
+       "alt": "Mattress Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250611_201732-1024x577.webp",
-       "alt": "20250611_201732"
+       "alt": "Mattress Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250530_110858-1024x577.webp",
-       "alt": "20250530_110858"
+       "alt": "Mattress Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250526_193102-1024x577.webp",
-       "alt": "20250526_193102"
+       "alt": "Mattress Removal: Live Junk Free job photo"
       }
      ]
     }
@@ -600,7 +600,7 @@
        "q": "Q: How much does mattress removal cost in Toronto?",
        "a": [
         [
-         "A: Pricing is based on truck volume, not a flat per-mattress rate. A single mattress is one of our more affordable jobs. We give you a firm quote on-site before we start — no surprises, no hidden fees."
+         "A: Pricing is based on truck volume, not a flat per-mattress rate. A single mattress is one of our more affordable jobs. We give you a firm quote on-site before we start — no surprises."
         ]
        ]
       },
@@ -616,7 +616,7 @@
        "q": "Q: What happens to my mattress after pickup?",
        "a": [
         [
-         "A: We send it to certified recycling partners who recover steel, foam, and fabric for reuse. If it’s in clean condition, we explore local donation options. We keep as much out of landfill as possible."
+         "A: We send it to recycling partners who recover steel, foam, and fabric for reuse. If it’s in clean condition, we explore local donation options. We keep as much out of landfill as possible."
         ]
        ]
       },

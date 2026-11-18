@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Looking to get rid of an old hot tub in Woodbridge? Live Junk Free handles the whole job — drain, disconnect, cut apart and haul away — with an insured crew, a flat hot tub removal cost quoted right at your door, and same-day hot tub pickup available seven days a week."
+     "text": "Looking to get rid of an old hot tub in Woodbridge?"
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Woodbridge backyards were designed for company — big patios, stone hardscaping, room for the whole family — and somewhere along the way, plenty of them picked up a hot tub that quietly stopped getting used. Live Junk Free spends a lot of time undoing exactly that. Along the older village streets, it’s often a jacuzzi that came with the house a generation back, drained and disconnected the same week the family finally starts the backyard renovation their parents never got to. Out through East and West Woodbridge’s bigger lots, a hot tub haul away is usually step one before an outdoor kitchen or a pool goes in. In Pine Valley and Weston Downs, where the properties run larger, tub removal happens with the same attention paid to the driveway and the stonework as to the tub itself. And when a house changes hands between generations, there’s almost always a jacuzzi nobody’s touched in years sitting somewhere in the yard, waiting to be part of the cleanout. Whatever brought you here — old hot tub removal, spa disposal, or just wanting the eyesore gone — the 700+ five-star reviews behind Live Junk Free reflect the same outcome every time: tub drained, cut down safely, hauled off, patio untouched."
+      "Woodbridge backyards were designed for company — big patios, stone hardscaping, room for the whole family — and somewhere along the way, plenty of them picked up a hot tub that quietly stopped getting used. Live Junk Free spends a lot of time undoing exactly that. Along the older village streets, it’s often a jacuzzi that came with the house a generation back, drained and disconnected the same week the family finally starts the backyard renovation their parents never got to. Out through East and West Woodbridge’s bigger lots, a hot tub haul away is usually step one before an outdoor kitchen or a pool goes in. In Pine Valley and Weston Downs, where the properties run larger, tub removal happens with the same attention paid to the driveway and the stonework as to the tub itself. And when a house changes hands between generations, there’s almost always a jacuzzi nobody’s touched in years sitting somewhere in the yard, waiting to be part of the cleanout. Whatever brought you here — old hot tub removal, spa disposal, or just wanting the eyesore gone — the Google reviews behind Live Junk Free reflect the same outcome every time: tub drained, cut down safely, hauled off, patio untouched."
      ]
     },
     {
@@ -117,7 +117,7 @@
        "title": "One flat hot tub removal price — draining, cutting and hauling all included",
        "text": [
         [
-         "A hot tub isn’t a normal junk item, and Live Junk Free’s quote reflects the real work: draining the water, disconnecting whatever needs disconnecting, cutting the shell into manageable sections, and hauling every piece away. All of it sits inside one written price agreed on site — no surprise fee for the water, the weight or the extra hour it takes to do it properly."
+         "A hot tub isn’t a normal junk item, and Live Junk Free’s quote reflects the real work: draining the water, disconnecting whatever needs disconnecting, cutting the shell into manageable sections, and hauling every piece away."
         ]
        ]
       },
@@ -150,19 +150,19 @@
       },
       {
        "n": "05",
-       "title": "Same-day hot tub removal, scheduled around your backyard project",
+       "title": "Hot tub removal, scheduled around your backyard project",
        "text": [
         [
-         "Book the morning slot and the tub is usually gone by afternoon — cleared in time for the landscaper, the new patio crew, or the pool installer starting Monday. Trucks run seven days a week, 6AM to 11PM, so Woodbridge’s renovation timelines don’t wait on us."
+         "Book the morning slot and the tub is usually gone by afternoon — cleared in time for the landscaper, the new patio crew, or the pool installer starting Monday."
         ]
        ]
       },
       {
        "n": "06",
-       "title": "Independent hot tub removal pricing — 30–50% under the bigger outfits",
+       "title": "Independent hot tub removal pricing",
        "text": [
         [
-         "The national junk removal brands price hot tub removal with a franchise premium built in. Live Junk Free is locally owned with none of that markup — the reason identical hot tub removals in Woodbridge invoice 30–50% lighter with us."
+         "The national junk removal brands price hot tub removal with a franchise premium built in."
         ]
        ]
       }
@@ -189,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "It depends on the tub — a small portable spa is a quick job; a full six-or-seven-seat unit with tricky access takes longer and prices accordingly. What doesn’t change is the structure: one flat figure covering the drain, the disconnect, the cutting, the haul, and the disposal or recycling. Nothing shows up on an invoice that wasn’t in the original quote."
+      "It depends on the tub — a small portable spa is a quick job; a full six-or-seven-seat unit with tricky access takes longer and prices accordingly. {{fact:taxNote}}. {{fact:pricingIntro.extra}} Nothing shows up on an invoice that wasn’t in the original quote."
      ]
     },
     {
@@ -211,7 +211,7 @@
     {
      "t": "price",
      "label": "Woodbridge Hot Tub Removal Price",
-     "value": "{{cad_265}}"
+     "value": "Priced at your free onsite estimate"
     },
     {
      "t": "p",
@@ -283,10 +283,10 @@
       },
       {
        "n": "04",
-       "title": "Hot Tub Hauled Away, Same-Day Disposal Complete",
+       "title": "Hot Tub Hauled Away, Disposal Complete",
        "text": [
         [
-         "By the time the truck pulls away, the metal and motor components are headed for recycling, the rest is disposed of properly, and your patio looks like nothing ever happened there. Most jobs wrap in under two hours."
+         "By the time the truck pulls away, the metal and motor components are headed for recycling, the rest is disposed of properly, and your patio looks like nothing ever happened there."
         ]
        ]
       }
@@ -677,7 +677,7 @@
     {
      "t": "p",
      "c": [
-      "Over 700 five-star Google reviews from backyard removals, pre-renovation clearouts, and estate jobs across Woodbridge, Vaughan, and the wider GTA."
+      "Google reviews from backyard removals, pre-renovation clearouts, and estate jobs across Woodbridge, Vaughan, and the wider GTA."
      ]
     },
     {
@@ -811,7 +811,7 @@
        "q": "What's a typical hot tub removal cost in Woodbridge?",
        "a": [
         [
-         "Pricing is confirmed on site once the crew sees the tub’s size, condition and how hard it is to get to — a portable spa costs less than a full six-seater with tight gate access. The hot tub removal cost covers draining, disconnecting, cutting, hauling and disposal together, and it’s the same number whether you searched “hot tub removal cost,” “jacuzzi removal cost,” or “spa removal cost” to find us."
+         "Pricing is confirmed on site once the crew sees the tub’s size, condition and how hard it is to get to — a portable spa costs less than a full six-seater with tight gate access. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
         ]
        ]
       },

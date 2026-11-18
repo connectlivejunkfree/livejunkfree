@@ -5,8 +5,8 @@
  "type": "blog",
  "template": "BlogPost",
  "seo": {
-  "title": "Same-day couch removal made simple and stress-free",
-  "description": "Say goodbye to your old sofa with Live Junk Free. Get expert couch removal, eco-friendly disposal, and hassle-free same-day pickup. Book your service now.",
+  "title": "Couch removal made simple and stress-free",
+  "description": "Say goodbye to your old sofa with Live Junk Free. Get expert couch removal, eco-friendly disposal, and hassle-free same-day pickup when available. Book your service now.",
   "canonical": "https://livejunkfree.ca/blog/couch-removal-services-say-goodbye-to-your-old-sofa-hassle-free/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2025/11/Couch-Removal-ServicesSay-Goodbye-to-Your-Old-Sofa-Hassle-Free.jpeg"
@@ -128,10 +128,10 @@
        "No Heavy Lifting: Our trained teams handle all the physical work, protecting you from injury"
       ],
       [
-       "Proper Equipment: We use furniture dollies, moving straps, and protective coverings to safeguard your property"
+       "{{fact:propertyProtection}}"
       ],
       [
-       "Time Efficiency: What might take you all day, we can typically complete in under an hour"
+       "Timing confirmed at your estimate"
       ],
       [
        "Insurance Protection: Professional services are insured against any accidental damage to your property"
@@ -207,7 +207,7 @@
        "Consider any access challenges (stairs, narrow hallways)"
       ],
       [
-       "Provide transparent, upfront pricing with no hidden fees"
+       "{{fact:competitorComparison}}"
       ]
      ]
     },
@@ -383,10 +383,10 @@
        "Local Expertise: We understand the specific regulations and facilities in each community we serve"
       ],
       [
-       "Flexible Scheduling: We work around your timeline with same-day and next-day options"
+       "Flexible Scheduling: We work around your timeline with same-day when available and next-day options"
       ],
       [
-       "Transparent Pricing: No surprise fees, you’ll know the cost before we start"
+       "Transparent Pricing:, you’ll know the cost before we start"
       ],
       [
        "Comprehensive Service: We handle everything from start to finish, including cleanup"

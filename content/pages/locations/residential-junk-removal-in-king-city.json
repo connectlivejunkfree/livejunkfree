@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-Day Residential Junk Removal in King City | Live Junk Free",
-  "description": "Book reliable same-day residential junk removal in King City. We handle full home cleanouts, garage junk, furniture, and yard waste with care. Call us now.",
+  "title": "Residential Junk Removal in King City | Live Junk Free",
+  "description": "Book reliable same-day residential junk removal in King City, subject to scheduling. We handle full home cleanouts, garage junk, furniture, and yard waste with care. Call us now.",
   "canonical": "https://livejunkfree.ca/locations/residential-junk-removal-in-king-city/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "residential-junk-removal-in-king-city",
+ "title": "Residential Junk Removal in King City",
  "h1": "Residential Junk Removal in King City, Ontario — What This Town Lets Go Of Deserves a Second Act",
  "published": "2026-07-16T02:28:03",
  "modified": "2026-07-16T02:28:03",
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The homes here range from original village houses to estates with more outbuildings than some streets have houses — and what they part with reflects it. Live Junk Free handles those pickups the way this town expects: 660+ five-star Google reviews built on punctual arrivals, locked quotes, floors and finishes treated like they cost what they cost, and good pieces sent onward rather than under."
+     "text": "The homes here range from original village houses to estates with more outbuildings than some streets have houses — and what they part with reflects it. Live Junk Free handles those pickups the way this town expects: Google reviews built on punctual arrivals, locked quotes, floors and finishes treated like they cost what they cost, and good pieces sent onward rather than under."
     },
     {
      "t": "steps",
@@ -154,7 +154,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Wide staircases, custom millwork, stone floors — our crews protect what stays as carefully as they carry what goes. Runners down, corners padded, doors off hinges before anything is forced, and long carries across the property done without a mark on either end."
+     "text": "Wide staircases, custom millwork, stone floors — our crews protect what stays as carefully as they carry what goes. Runners down, corners padded, doors off hinges before anything is forced, and long carries across the property done on either end."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent pricing, 30–50% under the national chains",
+       "title": "Independent pricing",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The franchise trucks price in royalties and, in towns like this one, opportunism. We do neither — locally owned, volume-priced, and consistently 30–50% below the big names for identical work."
+     "text": "The franchise trucks price in royalties and, in towns like this one, opportunism."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small pickups start at {{cad_125}}, single items sit at the low end, and multi-item clears — the redesign's full cast-off list, the outbuildings' accumulation — ride as one combined load priced by total truck space. The figure quoted free at your door is the figure on the receipt, however long the driveway between them."
+     "text": "Small pickups start at {{min_price:C}}, single items sit at the low end, and multi-item clears — the redesign's full cast-off list, the outbuildings' accumulation — ride as one combined load priced by total truck space. The figure quoted free at your door is the figure on the receipt, however long the driveway between them."
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Book the Visit",
        "text": [
-        "Call +1 647 922 5865 or book online in minutes. Crews cover King City and the township seven days a week, 6AM to 11PM, with same-day slots and a 30-minute text before we reach the gate."
+        "Call +1 647 922 5865 or book online in minutes."
        ]
       },
       {
        "title": "2. Walk Us Through the Property",
        "text": [
-        "Every item, every building — the full picture produces one flat, all-inclusive quote. Free to hear and free to decline."
+        "Every item, every building — the full picture produces one flat, quote. Free to hear and free to decline."
        ]
       },
       {
@@ -480,7 +480,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -510,7 +510,7 @@
        "q": "Q: How is junk removal priced in King City?",
        "a": [
         [
-         "A: By truck volume alone — small loads from $125, single items at the low end, larger clears scaling flat with the space they fill. The free at-the-door quote already includes long driveways, stairs and careful handling, and it can’t change once approved. No premium attaches to the postal code."
+         "A: By truck volume alone — small loads from {{min_price:C}}, single items at the low end, larger clears scaling flat with the space they fill. The free at-the-door quote already includes long driveways, stairs and careful handling, and it can’t change once approved. No premium attaches to the postal code."
         ]
        ]
       },

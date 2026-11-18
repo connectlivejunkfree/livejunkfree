@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -69,7 +69,7 @@
     {
      "t": "p",
      "c": [
-      "We start with a free, transparent quote, so you know exactly what to expect, with no hidden fees. Serving the Greater Toronto Area, we prioritize fast, affordable, and sustainable sofa disposal, helping you reclaim your living space without the hassle."
+      "Serving the Greater Toronto Area, we prioritize fast, affordable, and sustainable sofa disposal, helping you reclaim your living space without the hassle."
      ]
     },
     {
@@ -136,7 +136,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -161,13 +161,13 @@
     {
      "t": "p",
      "c": [
-      "We understand how quickly you want to free up space, whether you’re upgrading your living room furniture, moving, staging a home for sale, or just decluttering. That’s why we offer same-day and next-day sofa pickup to fit your schedule."
+      "We understand how quickly you want to free up space, whether you’re upgrading your living room furniture, moving, staging a home for sale, or just decluttering. That’s why we offer same-day and next-day sofa pickup to fit your schedule, subject to scheduling."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Our trained furniture removal specialists have the muscle, equipment, and know-how to get your sofa out safely and efficiently, even from condos, apartments, and basements with tight staircases. We use professional moving straps, furniture dollies, and floor protection to prevent damage to your home – something most homeowners simply don’t have access to."
+      "Our trained furniture removal specialists have the muscle, equipment, and know-how to get your sofa out safely and efficiently, even from condos, apartments, and basements with tight staircases. {{fact:propertyProtection}}."
      ]
     },
     {
@@ -192,7 +192,7 @@
      "c": [
       {
        "b": [
-        "We Offer Same-Day Sofa Removal!"
+        "We Offer Sofa Removal!"
        ]
       }
      ]
@@ -210,13 +210,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Multi-Service Savings",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         "Get discounts when combining sofa removal with mattress removal, furniture removal, or full home cleanout services"
        ]
       },
       {
-       "title": "Damage-Free Guarantee",
+       "title": "Careful Removal",
        "text": [
         "We use protective equipment and insured techniques to safeguard your floors, walls, and doorways during removal"
        ]
@@ -230,19 +230,19 @@
       {
        "title": "Eco-Conscious Disposal",
        "text": [
-        "90%+ of materials properly recycled or donated through certified programs to reduce environmental impact"
+        "{{fact:recycling}}"
        ]
       },
       {
-       "title": "All-Inclusive Pricing",
+       "title": "Pricing",
        "text": [
-        "Your upfront quote covers lifting, removal, hauling, and complete cleanup, no surprise charges"
+        "Your upfront quote covers lifting, removal, hauling, and complete cleanup"
        ]
       },
       {
        "title": "Same-Day Availability",
        "text": [
-        "Need it gone today? We offer urgent same-day couch pickup for quick cleanouts"
+        "Need it gone today? We offer urgent same-day couch pickup for quick cleanouts, subject to scheduling."
        ]
       }
      ]
@@ -297,7 +297,7 @@
      "t": "ul",
      "items": [
       [
-       "Responsible Recycling: We properly recycle up to 90% of materials, including wood frames, metal springs, and foam components, through certified facilities"
+       "{{fact:recycling}}"
       ],
       [
        "Donation Program: Gently used sofas and couches find new life through local community centers, shelters, and charities"
@@ -326,7 +326,7 @@
      "c": [
       {
        "b": [
-        "Fair, Upfront Pricing – No Hidden Fees"
+        "Fair, Upfront Pricing"
        ]
       }
      ]
@@ -341,7 +341,7 @@
      "t": "ul",
      "items": [
       [
-       "Free Instant Estimates – Get accurate sofa removal quotes by phone, text, or online in minutes"
+       "{{fact:freeOnsiteEstimates}}"
       ],
       [
        "Flat-Rate Pricing – Know exactly what you’ll pay before we start"
@@ -404,7 +404,7 @@
       {
        "title": "Get Your Quote",
        "text": [
-        "Receive fair, upfront pricing for your sofa removal, including hauling, cleanup, and eco-friendly disposal, donation, or recycling options."
+        "{{fact:taxNote}}. {{fact:pricingIntro.extra}}"
        ]
       },
       {
@@ -501,7 +501,7 @@
        "q": "5) Is sofa removal eco-friendly?",
        "a": [
         [
-         "Yes. We recycle up to 90% of materials, including wood, metal, and foam components, through certified facilities. Sofas in good condition are donated to local charities and shelters whenever possible. We minimize landfill waste through responsible disposal practices."
+         "Yes. Sofas in good condition are donated to local charities and shelters whenever possible. We minimize landfill waste through responsible disposal practices."
         ]
        ]
       }

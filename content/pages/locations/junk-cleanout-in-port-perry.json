@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-day Junk Cleanout Services in Port Perry | Live Junk Free",
-  "description": "Same-day junk cleanouts in Port Perry by Live Junk Free. We handle estate cleanouts, garage junk, attic debris, and appliances. Schedule your service today!",
+  "title": "Junk Cleanout Services in Port Perry | Live Junk Free",
+  "description": "Same-day junk cleanouts when available in Port Perry by Live Junk Free. We handle estate cleanouts, garage junk, attic debris, and appliances. Schedule your service today!",
   "canonical": "https://livejunkfree.ca/locations/junk-cleanout-in-port-perry/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "junk-cleanout-in-port-perry",
+ "title": "Junk Cleanout in Port Perry",
  "h1": "Junk Cleanout Services in Port Perry, Ontario — Whole Spaces Emptied, Not Just Items Removed",
  "published": "2026-07-13T07:47:07",
  "modified": "2026-07-13T07:51:19",
@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "There’s a difference between hauling away a couch and clearing out a space that’s been filling up for years. Cleanouts are our specialty. Whether it’s a family home, a lakeside cottage, a barn on a Scugog concession road or a storage unit you’d rather stop paying for, our fully insured Port Perry crew walks the space with you, quotes one locked-in price on the spot for free, and then empties it — sorted, swept and finished, usually in a single visit."
+      "There’s a difference between hauling away a couch and clearing out a space that’s been filling up for years. Cleanouts are our specialty."
      ]
     },
     {
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Port Perry is a town of long-held properties — heritage homes near the Queen Street downtown that stay in families for generations, cottages on Lake Scugog passed from parents to kids, farms and outbuildings that quietly gather half a century of stuff. Letting go of what's inside them is a big job, and Live Junk Free has become the crew Scugog trusts to do it — over 660 five-star Google reviews earned one careful, honest cleanout at a time."
+     "text": "Port Perry is a town of long-held properties — heritage homes near the Queen Street downtown that stay in families for generations, cottages on Lake Scugog passed from parents to kids, farms and outbuildings that quietly gather half a century of stuff. Letting go of what's inside them is a big job, and Live Junk Free has become the crew Scugog trusts to do it — Google reviews earned one careful, honest cleanout at a time."
     },
     {
      "t": "steps",
@@ -131,7 +131,7 @@
      "items": [
       {
        "n": "03",
-       "title": "One figure, everything included, locked before we lift",
+       "title": "{{fact:competitorComparison}}",
        "text": []
       }
      ]
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Crew, truck, fuel, tipping fees, donation runs — the quote covers the whole operation. If the attic holds triple what we all expected, the price you approved is still the price you pay. Surprises inside the house never become surprises on the bill."
+     "text": "If the attic holds triple what we all expected, the price you approved is still the price you pay. Surprises inside the house never become surprises on the bill."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent pricing beats the franchises by 30–50%",
+       "title": "Independent pricing beats the franchises by",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national cleanout brands carry royalty costs on every job, and their invoices show it. We're locally owned with no franchise overhead — which is why the same Port Perry cleanout typically lands 30–50% cheaper with us."
+     "text": "The national cleanout brands carry royalty costs on every job, and their invoices show it."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small cleanouts start at {{cad_125}}, and even the biggest jobs — full homes, estates, barns — are quoted as one firm figure during your free walkthrough. No hourly billing, no disposal fees tacked on later, no revised invoice when the job runs long. The number we shake on is the number you pay when the space is empty."
+     "text": "No hourly billing, no disposal fees tacked on later, no revised invoice when the job runs long. The number we shake on is the number you pay when the space is empty."
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Call and Pick Your Day",
        "text": [
-        "Reach us at +1 647 922 5865 or book online in about two minutes. Crews cover Port Perry and all of Scugog seven days a week, 6AM to 11PM, with same-day openings most days and a 30-minute text before we pull in."
+        "Reach us at +1 647 922 5865 or book online in about two minutes."
        ]
       },
       {
        "title": "2. Open the Doors, Get the Number",
        "text": [
-        "Walk us through everything — the house, the crawlspace, the boathouse, the barn. We size up the full job and hand you one all-inclusive quote. Free to receive, free to refuse."
+        "Walk us through everything — the house, the crawlspace, the boathouse, the barn. We size up the full job and hand you one quote. Free to receive, free to refuse."
        ]
       },
       {
@@ -474,7 +474,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -504,7 +504,7 @@
        "q": "Q: How much should I budget for a cleanout in Port Perry?",
        "a": [
         [
-         "A: It comes down to volume. Small cleanouts start at $125, single rooms and garages sit in the lower range, and full homes or estates are quoted as one flat figure at your free walkthrough. Whatever number you approve is final — hours, difficulty and distance never move it."
+         "A: It comes down to volume. Whatever number you approve is final — hours, difficulty and distance never move it."
         ]
        ]
       },

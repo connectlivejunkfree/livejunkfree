@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "Removing old sod shouldn’t be backbreaking work. Our professional service starts at just {{cad_125}}, and we handle everything for you. We’ll strip away unwanted grass, roots, and soil from any yard area, leaving your property clean and level"
+      "Removing old sod shouldn’t be backbreaking work. Our professional service starts at just {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), and we handle everything for you. We’ll strip away unwanted grass, roots, and soil from any yard area, leaving your property clean and level"
      ]
     },
     {
@@ -130,7 +130,7 @@
        "b": [
         {
          "i": [
-          "We answer calls in 1 minute."
+          "Easy Booking by Phone or Online"
          ]
         }
        ]
@@ -155,7 +155,7 @@
     {
      "t": "p",
      "c": [
-      "Whether you’re landscaping, renovating your yard, or prepping for new construction, our same-day service means no frustrating delays. Don’t risk back strain or improper removal – our licensed team handles sod extraction safely and efficiently every day."
+      "Whether you’re landscaping, renovating your yard, or prepping for new construction, our same-day service when available means no frustrating delays. Don’t risk back strain or improper removal – our licensed team handles sod extraction safely and efficiently every day."
      ]
     },
     {
@@ -206,7 +206,7 @@
       {
        "title": "Schedule When It Works For You",
        "text": [
-        "Choose same-day, next-day or weekend sod removal with no rush charges. We’ll coordinate the perfect time around your schedule."
+        "Choose same-day, next-day or weekend sod removal with no rush charges, subject to scheduling. We’ll coordinate the perfect time around your schedule."
        ]
       },
       {
@@ -218,11 +218,11 @@
       {
        "title": "Save on Large Projects",
        "text": [
-        "Clearing an entire lawn or multiple properties? We offer significant discounts for bulk sod removal and whole-yard projects."
+        "Clearing an entire lawn or multiple properties?"
        ]
       },
       {
-       "title": "Book in Just 60 Seconds",
+       "title": "Book",
        "text": [
         "Get on our schedule instantly through our website or by phone – no waiting for callbacks or filling out lengthy forms."
        ]
@@ -230,13 +230,13 @@
       {
        "title": "Rapid, Efficient Service",
        "text": [
-        "What would take you days of manual labor, we typically complete in 2-3 hours, including full removal, hauling, and site leveling."
+        "Timing confirmed at your estimate"
        ]
       },
       {
        "title": "Transparent Pricing",
        "text": [
-        "Your upfront quote covers everything – no hidden fees for difficult terrain, large areas, or disposal costs."
+        "{{fact:competitorComparison}}"
        ]
       }
      ]
@@ -305,7 +305,7 @@
      "c": [
       {
        "b": [
-        "Get Instant Pricing – Honest Quotes in Minutes!"
+        "{{fact:freeOnsiteEstimates}}"
        ]
       }
      ]
@@ -314,10 +314,10 @@
      "t": "ul",
      "items": [
       [
-       "Transparent pricing with no hidden fees"
+       "{{fact:competitorComparison}}"
       ],
       [
-       "Free same-day estimates by phone/text/email"
+       "Free estimates by phone/text/email"
       ],
       [
        "Special discounts for large-yard sod removal"
@@ -405,13 +405,13 @@
       {
        "title": "Get a Fair Quote",
        "text": [
-        "Receive honest pricing with no hidden fees - guaranteed."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Choose Your Time",
        "text": [
-        "Select a same-day or scheduled service that works for you."
+        "Select a same-day when available or scheduled service that works for you."
        ]
       },
       {
@@ -478,7 +478,7 @@
        "q": "How much does sod removal cost?",
        "a": [
         [
-         "Prices start at $125 for basic residential removal. Larger projects receive volume discounts. Get a free exact quote by sharing photos/measurements of your lawn area. "
+         "Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard) for basic residential removal. Get a free exact quote by sharing photos/measurements of your lawn area. "
         ]
        ]
       },
@@ -494,7 +494,7 @@
        "q": "Can I schedule same-day sod removal?",
        "a": [
         [
-         "Absolutely! Same-day service is available when booked, subject to crew availability. Weekend appointments are offered at no extra charge. "
+         "Absolutely! Same-day service is available when booked, subject to crew availability. "
         ]
        ]
       },

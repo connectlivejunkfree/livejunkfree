@@ -6,7 +6,7 @@
  "template": "BlogIndex",
  "seo": {
   "title": "Blog - Live JunkFree",
-  "description": "",
+  "description": "Practical guides on junk removal, cleanouts, decluttering and disposal in Toronto and the GTA, written by the Live Junk Free crew.",
   "canonical": "https://livejunkfree.ca/blog/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/06/Commercial-Services.webp"
@@ -21,7 +21,7 @@
     {
      "t": "p",
      "c": [
-      "    LIVE JUNK FREE Blog Fresh junk removal updates, cleanup tips, and company news from the Live Junk Free team.        Latest Posts Explore Professional Junk Removal & Cleanup Services     ",
+      "    LIVE JUNK FREE Blog Fresh junk removal updates, cleanup tips, and company news from the Live Junk Free team. Latest Posts Explore Professional Junk Removal & Cleanup Services     ",
       {
        "a": "/blog/does-toronto-have-same-day-junk-removal/",
        "c": [
@@ -32,7 +32,7 @@
       {
        "a": "/blog/does-toronto-have-same-day-junk-removal/",
        "c": [
-        "Does Toronto Have Same-Day Junk Removal?"
+        "Does Toronto Have Junk Removal?"
        ]
       },
       " Yes, Toronto has same-day junk removal services that can help homeowners, renters, landlords, and businesses get rid of unwanted items without waiting… ",

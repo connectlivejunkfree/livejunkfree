@@ -54,7 +54,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
-      "alt": "DSC08963",
+      "alt": "TV Removal 1: Live Junk Free job photo",
       "width": 800,
       "height": 534
      }
@@ -71,7 +71,7 @@
     {
      "t": "p",
      "c": [
-      "We offer top-notch TV removal starting at just {{cad_125}}. Just sit back and relax, we handle everything from start to finish. Our professional team will safely remove your TV, clean up the area, and take care of all the lifting for you. No stress, no mess, just quick and easy service. Before you know it, your space will be clear."
+      "We offer top-notch TV removal starting at just {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). Just sit back and relax, we handle everything from start to finish. Our professional team will safely remove your TV, clean up the area, and take care of all the lifting for you. No stress, no mess, just quick and easy service. Before you know it, your space will be clear."
      ]
     },
     {
@@ -87,7 +87,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -121,13 +121,13 @@
       {
        "title": "3. Pick Your Time",
        "text": [
-        "Same-day or next-day slots."
+        "Or next-day slots."
        ]
       },
       {
        "title": "4. We Remove It",
        "text": [
-        "Done in under 30 minutes."
+        "Timing confirmed at your estimate"
        ]
       }
      ]
@@ -169,7 +169,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same Day TV Removal Service Near You"
+     "text": "TV Removal Service Near You"
     },
     {
      "t": "p",
@@ -196,7 +196,7 @@
        "Eco-friendly disposal with recycling prioritization"
       ],
       [
-       "Spotless cleanup after removal"
+       "Tidy cleanup after removal"
       ]
      ]
     },
@@ -205,7 +205,7 @@
      "c": [
       {
        "b": [
-        "We Offer Same-Day TV Removal."
+        "We Offer TV Removal."
        ]
       }
      ]
@@ -214,7 +214,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2025/06/20250504_123132.webp",
-      "alt": "20250504",
+      "alt": "TV Removal 1: Live Junk Free job photo",
       "width": 800,
       "height": 450
      }
@@ -243,7 +243,7 @@
        "Insured, uniformed, and respectful crew"
       ],
       [
-       "Rated 5.0 on Google by 780+ customers"
+       "{{fact:reviews}}"
       ]
      ]
     },
@@ -290,9 +290,9 @@
        ]
       },
       {
-       "title": "100% satisfaction guarantee",
+       "title": "",
        "text": [
-        "We handle your junk responsibly with a 100% satisfaction promise and sustainable disposal."
+        "We handle your junk responsibly with sustainable disposal."
        ]
       }
      ]
@@ -401,7 +401,7 @@
     {
      "t": "h",
      "l": 4,
-     "text": "Get Instant Pricing – No Surprises, Clear and Transparent Pricing"
+     "text": "{{fact:freeOnsiteEstimates}}"
     },
     {
      "t": "h",
@@ -412,13 +412,13 @@
      "t": "ul",
      "items": [
       [
-       "Straightforward quotes with no hidden fees."
+       "{{fact:competitorComparison}}"
       ],
       [
-       "Free instant estimates via phone, text, or online."
+       "{{fact:freeOnsiteEstimates}}"
       ],
       [
-       "Discounts for bulk removals (e.g., student housing cleanouts)."
+       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -507,7 +507,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/05/IMG_1614-scaled-1.jpg",
-      "alt": "IMG 1614 scaled 1",
+      "alt": "TV Removal 1: Live Junk Free job photo",
       "width": 1600,
       "height": 1200
      }
@@ -519,7 +519,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Same-Day Removal Services- We Remove It All"
+     "text": "Removal Services- We Remove It All"
     },
     {
      "t": "h",
@@ -587,9 +587,6 @@
       ],
       [
        "Pool table removal (disassembly & setup)"
-      ],
-      [
-       "Load-bearing wall removal (basements included)"
       ],
       [
        "Cabinet removal (filing cabinets, kitchen cabinets)"
@@ -671,7 +668,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Old television removal is labor-intensive - our team works fast with same-day service"
+     "text": "Old television removal is labor-intensive - our team works fast with same-day service when available"
     },
     {
      "t": "steps",
@@ -731,7 +728,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "No logistics, no cleanup - just certified, insured pros"
+     "text": "{{fact:recycling}}"
     }
    ]
   },
@@ -918,7 +915,7 @@
      "t": "ctas",
      "items": [
       {
-       "label": "Book Now – It Takes 60 Seconds",
+       "label": "Easy Booking by Phone or Online",
        "href": "/contact/"
       }
      ]

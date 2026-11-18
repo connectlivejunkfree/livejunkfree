@@ -9,16 +9,16 @@
   },
   "email": "info@livejunkfree.ca",
   "hours": {
-    "display": "7 days a week, 6AM to 11PM",
-    "source": "/locations/toronto/ FAQ (“We operate 7 days a week, 6AM to 11PM.”)",
-    "schema": [{ "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"], "opens": "06:00", "closes": "23:00" }]
+    "display": "Phone hours: 7 am–11 pm",
+    "source": "Manisha follow-up, 18 Nov 2026 (phone hours; days not stated, so no schema openingHours)",
+    "schema": []
   },
   "rating": {
     "value": 5,
     "display": "5.0",
-    "count": 780,
-    "countDisplay": "780",
-    "source": "Trustindex Google reviews widget on livejunkfree.ca (“780 Google reviews”, 5.0 stars)"
+    "count": null,
+    "countDisplay": "",
+    "source": "Hidden until a verified count, rating and date are supplied (Answers B8.1)"
   },
   "socials": [
     { "label": "Facebook", "short": "Fb", "href": "https://www.facebook.com/share/18y5rgyG68/" },

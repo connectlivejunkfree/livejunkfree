@@ -9,13 +9,19 @@ export function Reviews({ ids = REVIEW_SETS.home }: { ids?: ReviewId[] }) {
     <div className="reviews">
       <div className="stack">
         <h2 className="d2">{REVIEWS_HEADING}</h2>
-        <div>
-          <ScoreCountUp value={RATING.score} />
-        </div>
-        <Stars />
-        <p className="muted">
-          {RATING.score} from <b>{RATING.count}</b> Google reviews.
-        </p>
+        {RATING.score && RATING.count ? (
+          <>
+            <div>
+              <ScoreCountUp value={RATING.score} />
+            </div>
+            <Stars />
+            <p className="muted">
+              {RATING.score} from <b>{RATING.count}</b> Google reviews.
+            </p>
+          </>
+        ) : (
+          <p className="muted">Real reviews from customers on Google.</p>
+        )}
         <a className="tlink self-start" href={GOOGLE_REVIEWS_URL} target="_blank" rel="noopener noreferrer">
           {REVIEW_LINK_LABEL}
         </a>

@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -69,7 +69,7 @@
     {
      "t": "p",
      "c": [
-      "Here’s how our dirt removal service works: First, we give you a free, transparent quote with no hidden charges. Once you approve, our professional crew arrives at your scheduled time to carefully remove the dirt, clean the area, and haul everything away properly. Most standard dirt removal jobs are completed in under an hour."
+      "Once you approve, our professional crew arrives at your scheduled time to carefully remove the dirt, clean the area, and haul everything away properly."
      ]
     },
     {
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "Our professional dirt removal service starts at just {{cad_125}}, and we handle everything for you. We’ll remove soil, debris, and construction waste from any location on your property – and leave the area completely clean."
+      "Our professional dirt removal service starts at just {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), and we handle everything for you. We’ll remove soil, debris, and construction waste from any location on your property – and leave the area completely clean."
      ]
     },
     {
@@ -137,7 +137,7 @@
        "b": [
         {
          "i": [
-          "We answer calls in 1 minute."
+          "Easy Booking by Phone or Online"
          ]
         }
        ]
@@ -151,7 +151,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Dirt Gone Today – Same-Day Removal Services"
+     "text": "Dirt Gone Today – Removal Services"
     },
     {
      "t": "p",
@@ -162,7 +162,7 @@
     {
      "t": "p",
      "c": [
-      "Whether you’re landscaping, renovating, or just clearing out years of accumulated debris, our same-day service means no frustrating delays. Don’t risk injury or property damage; our licensed team handles dirt removal safely every day."
+      "Whether you’re landscaping, renovating, or just clearing out years of accumulated debris, our same-day service when available means no frustrating delays. Don’t risk injury or property damage; our licensed team handles dirt removal safely every day."
      ]
     },
     {
@@ -213,7 +213,7 @@
       {
        "title": "Schedule When It Works For You:",
        "text": [
-        "Choose same-day, next-day, or weekend dirt removal with no rush charges. We’ll coordinate with your schedule to find the most convenient time for your project."
+        "Choose same-day, next-day, or weekend dirt removal with no rush charges, subject to scheduling. We’ll coordinate with your schedule to find the most convenient time for your project."
        ]
       },
       {
@@ -223,7 +223,7 @@
        ]
       },
       {
-       "title": "Book in Just 60 Seconds:",
+       "title": "Book:",
        "text": [
         "Get on our schedule instantly through our website or by phone – no lengthy wait times or complicated forms to complete."
        ]
@@ -231,13 +231,13 @@
       {
        "title": "Rapid, Efficient Service:",
        "text": [
-        "What would take you days of shoveling, we can typically complete in 1-2 hours, including full removal, hauling, and site cleanup."
+        "Timing confirmed at your estimate"
        ]
       },
       {
        "title": "Transparent Pricing:",
        "text": [
-        "Your upfront quote covers everything, with no hidden fees for difficult access, heavy materials, or disposal costs."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -304,13 +304,13 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Get Instant Pricing – Transparent & Fair Quotes Every Time!"
+     "text": "{{fact:freeOnsiteEstimates}}"
     },
     {
      "t": "ul",
      "items": [
       [
-       "Straightforward pricing with no hidden fees or surprise charges"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Free immediate estimates available by phone, text, or online form"
@@ -424,13 +424,13 @@
       {
        "title": "Get a Quote",
        "text": [
-        "Receive an honest, upfront price with no hidden fees - guaranteed."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Select Your Preferred Time",
        "text": [
-        "Choose same-day or scheduled removal at your convenience - we work around your timeline."
+        "Choose same-day when available or scheduled removal at your convenience - we work around your timeline."
        ]
       },
       {
@@ -489,7 +489,7 @@
        "q": "How much does dirt removal cost?",
        "a": [
         [
-         "Prices start at $125 for basic removal. Larger quantities get volume discounts. Get free exact pricing by sharing project details via text/photo. No hidden fees, the quote includes labor, hauling, and disposal."
+         "Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard) for basic removal. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
         ]
        ]
       },
@@ -505,7 +505,7 @@
        "q": "Can I schedule a same-day dirt removal service?",
        "a": [
         [
-         "Yes! Same-day service is available for urgent projects, subject to crew availability. Weekend appointments are offered at no extra cost."
+         "Yes! Same-day service is available for urgent projects, subject to crew availability."
         ]
        ]
       },
@@ -513,7 +513,7 @@
        "q": "Do you handle large quantities of dirt removal?",
        "a": [
         [
-         "Absolutely. Our teams handle small garden cleanouts to construction-scale projects. Special equipment ensures efficient removal for bulk quantities. Just ask about our excavator and dump truck services."
+         "Absolutely. Our teams handle small garden cleanouts to construction-scale projects. Special equipment ensures efficient removal for bulk quantities."
         ]
        ]
       }

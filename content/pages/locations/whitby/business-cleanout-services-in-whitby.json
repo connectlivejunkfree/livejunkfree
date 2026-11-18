@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -140,7 +140,7 @@
        "title": "One flat business cleanout price, confirmed before anything moves",
        "text": [
         [
-         "A crew member sees the actual space and gives one flat number before anything moves — no per-item guessing, no surprise costs once the work starts."
+         "A crew member sees the actual space and gives one flat number before anything moves — no per-item guessing once the work starts."
         ]
        ]
       },
@@ -149,7 +149,7 @@
        "title": "Same-day business cleanout service, most of the time",
        "text": [
         [
-         "Trucks run seven days a week, 6AM to 11PM, so a unit that needs to be empty for a new tenant can often be cleared the same day you call."
+         "{{fact:nextAvailable}}"
         ]
        ]
       },
@@ -173,7 +173,7 @@
       },
       {
        "n": "06",
-       "title": "Independent business cleanout pricing, 30–50% under the bigger outfits",
+       "title": "Independent business cleanout pricing",
        "text": [
         [
          "National junk removal franchises build a royalty into every quote. Live Junk Free carries none of that overhead."
@@ -203,13 +203,13 @@
     {
      "t": "p",
      "c": [
-      "What never enters the calculation is when the work actually happens. An after-hours or weekend visit costs the same as a weekday daytime one — scheduling around your business never comes with a premium. The figure is confirmed for free at an on-site walkthrough, and it’s the number on the invoice, with nothing added once the crew starts hauling."
+      "What never enters the calculation is when the work actually happens. {{fact:scheduling}} The figure is confirmed for free at an on-site walkthrough."
      ]
     },
     {
      "t": "checks",
      "items": [
-      "Sorting, Hauling and Disposal in One Price",
+      "{{fact:competitorComparison}}",
       "No Judgment, No Commentary, No Rushed Timelines"
      ]
     },
@@ -217,7 +217,7 @@
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
@@ -225,7 +225,7 @@
     {
      "t": "price",
      "label": "Whitby BUSINESS Cleanouts",
-     "value": "{{cad_125:suffix}}"
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
@@ -291,7 +291,7 @@
       },
       {
        "n": "04",
-       "title": "Your Space Is Ready, Same Day",
+       "title": "Your Space Is Ready",
        "text": [
         [
          "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and ready for the next tenant or its next chapter."
@@ -329,7 +329,7 @@
        "Business cleanouts for storefronts around the Four Corners and downtown core"
       ],
       [
-       "After-hours and weekend scheduling as standard, no extra cost"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Fixture and shelving removal handled carefully around neighbouring tenants"
@@ -636,7 +636,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — retail, office, restaurant and warehouse business cleanouts across Whitby, Durham Region and the GTA."
+      "Google reviews — retail, office, restaurant and warehouse business cleanouts across Whitby, Durham Region and the GTA."
      ]
     },
     {
@@ -998,7 +998,7 @@
          "Scheduling depends on crew availability and the size of the project. For time-sensitive business closures, lease deadlines, or tenant turnovers, it is best to contact the company as early as possible."
         ],
         [
-         "28. Do you offer same-day business cleanout services in Whitby?"
+         "28. Do you offer same-day business cleanout services in Whitby, subject to scheduling?"
         ],
         [
          "Same-day service may be available depending on the schedule and size of the job. Contact the team as early as possible if you need urgent commercial junk removal in Whitby."
@@ -1007,7 +1007,7 @@
          "29. Can commercial junk removal be scheduled after business hours?"
         ],
         [
-         "Yes, after-hours scheduling can be useful for businesses that cannot interrupt normal operations. Availability depends on the project and scheduling, so discuss your preferred time when requesting service."
+         "{{fact:scheduling}} Availability depends on the project and scheduling, so discuss your preferred time when requesting service."
         ],
         [
          "30. Do you provide weekend commercial cleanout services?"

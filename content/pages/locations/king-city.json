@@ -6,7 +6,7 @@
  "template": "TownHub",
  "seo": {
   "title": "Junk Removal King City | Professional Junk Removal Services",
-  "description": "Looking for reliable junk removal in King City? Live Junk Free provides professional, same-day junk removal services for homes, estates, farms, and businesses. Get a free estimate today.",
+  "description": "Looking for reliable junk removal in King City? Live Junk Free provides professional, same-day junk removal when available services for homes, estates, farms, and businesses. Get a free estimate today.",
   "canonical": "https://livejunkfree.ca/locations/king-city/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Bolton-1.png"
@@ -124,7 +124,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We never quote over the phone and hope for the best. We come to your King City or King Township property, walk through every area that needs clearing, and give you an accurate all-inclusive flat-rate quote on the spot. What we see is what we price."
+     "text": "We never quote over the phone and hope for the best. We come to your King City or King Township property, walk through every area that needs clearing, and give you an accurate flat-rate quote on the spot. What we see is what we price."
     },
     {
      "t": "steps",
@@ -146,7 +146,7 @@
      "items": [
       {
        "n": "03",
-       "title": "One number covers everything — no fine print",
+       "title": "{{fact:competitorComparison}}",
        "text": []
       }
      ]
@@ -154,7 +154,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Labour, truck, fuel, disposal, multiple trips if needed — every cost is inside that one quoted number. We do not discover \"extra fees\" after the job is done. We do not add charges because an estate property took longer than a townhouse. One quote. Everything covered."
+     "text": "We do not discover \"extra fees\" after the job is done. We do not add charges because an estate property took longer than a townhouse. One quote. Everything covered."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "05",
-       "title": "You approve it. It's locked. End of story",
+       "title": "You approve it. End of story",
        "text": []
       }
      ]
@@ -191,7 +191,7 @@
      "items": [
       {
        "n": "06",
-       "title": "30–50% less than franchise competitors",
+       "title": "",
        "text": []
       }
      ]
@@ -218,7 +218,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Our pricing in King City is built on three non-negotiable commitments: clarity, professionalism and zero shortcuts. Prices start as low as {{cad_125}} for small loads. Book your free King City junk removal estimate today — clear pricing, professional crew, no shortcuts."
+     "text": "Our pricing in King City is built on three non-negotiable commitments: clarity, professionalism and zero shortcuts. Prices start as low as {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). Book your free King City junk removal estimate today — clear pricing, professional crew, no shortcuts."
     },
     {
      "t": "cards",
@@ -269,13 +269,13 @@
       {
        "title": "Book Your King City Junk Removal — Fast & Easy",
        "text": [
-        "Call +1 647 922 5865 or book online in minutes. Tell us your location and what needs to go, and we'll schedule same-day or next-day service with a convenient arrival notice."
+        "Call +1 647 922 5865 or book online in minutes. Tell us your location and what needs to go, and we'll schedule same-day or next-day service when available with a convenient arrival notice."
        ]
       },
       {
        "title": "One Visit — Full Property Assessment & Upfront Quote",
        "text": [
-        "Our professional crew arrives on time, assesses everything that needs removal, and provides a clear, all-inclusive quote before any work begins. No hidden fees and no obligation."
+        "Our professional crew arrives on time, assesses everything that needs removal, and provides a clear, quote before any work begins. and no obligation."
        ]
       },
       {
@@ -588,7 +588,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -618,7 +618,7 @@
        "q": "Q: How much does junk removal cost in King City, Ontario?",
        "a": [
         [
-         "A: Our King City junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour and not based on your property type or size. Prices start at $125 for small loads. We provide a completely free on-site estimate before any work begins. The price you approve is guaranteed to be the final price — no adjustments, no surprises."
+         "A: Our King City junk removal pricing is volume-based — you pay based on how much space your items fill in our truck, not by the hour and not based on your property type or size. Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). We provide a completely free on-site estimate before any work begins. The price you approve is guaranteed to be the final price — no adjustments, no surprises."
         ]
        ]
       },
@@ -626,7 +626,7 @@
        "q": "Q: Do you offer same-day junk removal in King City?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of King City and King Township including Nobleton, Schomberg, Kettleby, Pottageville and Bond Head. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+         "A: Yes — same-day junk removal is available across all of King City and King Township including Nobleton, Schomberg, Kettleby, Pottageville and Bond Head. Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },

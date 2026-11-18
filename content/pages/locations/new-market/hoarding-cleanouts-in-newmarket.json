@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Hoarding cleanouts in Newmarket from Live Junk Free are handled privately, without judgment, and on whatever schedule actually works for your family — including evenings and weekends, at no extra cost — with a free confidential quote and an experienced crew, seven days a week."
+     "text": "Hoarding cleanouts in Newmarket from Live Junk Free are handled privately, without judgment, and on whatever schedule actually works for your family — including evenings and weekends, at no extra cost — with a free confidential quote and an experienced crew."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "A hoarding cleanout often needs to happen around whatever time a family can actually manage — a weekend when everyone who needs to be involved can be there, an evening after work rather than a weekday that means taking time off, or simply a quiet stretch when things feel more manageable. Live Junk Free treats that flexibility as standard practice in Newmarket, not a special accommodation that costs more. Saturday, Sunday and evening scheduling are available the same way weekday scheduling is, because a situation this personal shouldn’t have to bend around a nine-to-five window that doesn’t actually fit the people living through it."
+      "{{fact:scheduling}} Live Junk Free treats that flexibility as standard practice in Newmarket, not a special accommodation that costs more."
      ]
     },
     {
@@ -127,7 +127,7 @@
       },
       {
        "n": "02",
-       "title": "Weekend and evening scheduling, at no extra cost",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         [
          "A hoarding cleanout can happen on a Saturday, a Sunday, or after work on a weeknight — whatever timing actually lets the right family members be involved — and it’s priced exactly the same as a weekday appointment."
@@ -166,7 +166,7 @@
        "title": "Free on-site quotes, with an honest cost to clean out a hoarder's house",
        "text": [
         [
-         "A crew member walks the property, sees the real scope, and gives one flat number before anything moves — no guessing from a phone description, and no surprise costs once the work is underway."
+         "A crew member walks the property, sees the real scope, and gives one flat number before anything moves — no guessing from a phone description, and once the work is underway."
         ]
        ]
       }
@@ -199,13 +199,13 @@
     {
      "t": "p",
      "c": [
-      "What never factors in is when the work actually happens. A Saturday visit costs the same as a Tuesday one, and an evening appointment costs the same as a weekday afternoon — because the timing that works for a family shouldn’t come with a premium attached to it. The figure is confirmed privately at a free walkthrough, with no pressure to decide anything on the spot, and it’s the number that appears on the invoice, with nothing added afterward."
+      "What never factors in is when the work actually happens. {{fact:scheduling}} The figure is confirmed privately at a free walkthrough, with no pressure to decide anything on the spot."
      ]
     },
     {
      "t": "checks",
      "items": [
-      "Sorting, Hauling and Disposal in One Price",
+      "{{fact:competitorComparison}}",
       "No Weekend, Evening, Judgment or Rushed-Timeline Premiums"
      ]
     },
@@ -213,7 +213,7 @@
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
@@ -221,7 +221,7 @@
     {
      "t": "price",
      "label": "Newmarket Hoarding Cleanouts",
-     "value": "{{cad_125:suffix}}"
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
@@ -316,13 +316,13 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Weekend & Evening Hoarding Cleanouts in Newmarket"
+     "text": "{{fact:weekendPickup}}"
     },
     {
      "t": "ul",
      "items": [
       [
-       "Saturday, Sunday and evening scheduling at the same flat pricing as weekdays"
+       "{{fact:weekendPickup}}"
       ],
       [
        "Designed around whatever timing lets the right family members be present"
@@ -411,9 +411,6 @@
      "items": [
       [
        "Cleanouts arranged by adult children, siblings or other family members"
-      ],
-      [
-       "Regular updates and photo documentation for family members who can't be present"
       ],
       [
        "Coordination with social workers, healthcare providers or case managers where relevant"
@@ -892,7 +889,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — weekend, heritage and family-coordinated hoarding cleanouts across Newmarket, York Region and the GTA. The comment that comes up most: being able to have it happen on a Saturday, with everyone who needed to be there actually there, made a hard thing more manageable."
+      "Google reviews — weekend, heritage and family-coordinated hoarding cleanouts across Newmarket, York Region and the GTA. The comment that comes up most: being able to have it happen on a Saturday, with everyone who needed to be there actually there, made a hard thing more manageable."
      ]
     },
     {
@@ -1030,14 +1027,6 @@
        "a": [
         [
          "Hoarder clean out cost depends on the volume of belongings and how many rooms are affected — a single room prices modestly, a full property costs more given the time required. The exact figure is confirmed free at a private walkthrough, with no weekend or evening premium attached."
-        ]
-       ]
-      },
-      {
-       "q": "Can this really happen on a weekend or in the evening, at no extra cost?",
-       "a": [
-        [
-         "Yes. Saturday, Sunday and evening scheduling are treated as standard here, not an upgrade — because the timing that lets the right family members be involved matters more than fitting a generic weekday slot."
         ]
        ]
       },

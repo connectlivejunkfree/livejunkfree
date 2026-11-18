@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Live Junk Free provides hot tub removal services in Oshawa — a wartime-home backyard, a rental unit between tenants, or a rural Columbus property — for one flat price covering draining, disconnecting, cutting the shell into sections, and same-day haul-away."
+     "text": "Live Junk Free provides hot tub removal services in Oshawa — a wartime-home backyard, a rental unit between tenants, or a rural Columbus property — for one flat price covering draining, disconnecting, cutting the shell into sections, and same-day haul-away when available."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -159,7 +159,7 @@
       },
       {
        "n": "06",
-       "title": "Independent pricing, 30–50% under the bigger outfits",
+       "title": "Independent pricing",
        "text": [
         [
          "National junk removal franchises build a royalty into every quote. Live Junk Free carries none of that overhead."
@@ -189,13 +189,13 @@
     {
      "t": "p",
      "c": [
-      "Hot tub removal in Oshawa typically runs from a modest fee for a small portable spa up to a higher flat price for a full six-or-seven-seat unit, confirmed for free at an on-site walkthrough. The figure covers the whole job — no add-ons after the crew arrives."
+      "Hot tub removal in Oshawa typically runs from a modest fee for a small portable spa up to a higher flat price for a full six-or-seven-seat unit, confirmed for free at an on-site walkthrough."
      ]
     },
     {
      "t": "p",
      "c": [
-      "In Lakeview, Vanier and the wartime housing belt, it’s usually a tub that’s sat unused for years behind a small, solid house. Near Ontario Tech and Durham College, it’s landlord-coordinated removal between tenancies, cleared fast so the unit turns over on schedule. Out toward Columbus and Raglan, it’s a tub on a rural property removed at the same flat rate as anything in the city."
+      "In Lakeview, Vanier and the wartime housing belt, it’s usually a tub that’s sat unused for years behind a small, solid house. Near Ontario Tech and Durham College, it’s landlord-coordinated removal between tenancies, cleared fast so the unit turns over on schedule."
      ]
     },
     {
@@ -217,7 +217,7 @@
     {
      "t": "price",
      "label": "Oshawa Hot Tub Removal Price",
-     "value": "{{cad_265}}"
+     "value": "Priced at your free onsite estimate"
     },
     {
      "t": "p",
@@ -250,7 +250,7 @@
     {
      "t": "p",
      "c": [
-      "A hot tub removal appointment follows four steps: booking, a free on-site quote, the drain-and-cut-out process, and same-day haul-away. Most jobs finish within a couple of hours."
+      "A hot tub removal appointment follows four steps: booking, a free on-site quote, the drain-and-cut-out process, and same-day haul-away when available."
      ]
     }
    ]
@@ -289,7 +289,7 @@
       },
       {
        "n": "04",
-       "title": "Your Yard Is Clear the Same Day",
+       "title": "Your Yard Is Clear",
        "text": [
         [
          "Metal components, motors and pumps are routed to recycling and the rest is disposed of responsibly."
@@ -364,7 +364,7 @@
        "Documented removal for the landlord's file"
       ],
       [
-       "Move-in-ready timing that never slips a lease date"
+       "Scheduled around your move dates"
       ],
       [
        "Multi-unit and portfolio arrangements for landlords with several properties"
@@ -683,7 +683,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — heritage, waterfront, farmhouse and estate hot tub removals across Port Perry, Scugog and Durham Region."
+      "Google reviews — heritage, waterfront, farmhouse and estate hot tub removals across Port Perry, Scugog and Durham Region."
      ]
     },
     {

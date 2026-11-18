@@ -5,7 +5,7 @@
  "type": "location-town",
  "template": "TownHub",
  "seo": {
-  "title": "Junk Removal Services in Caledon | Same-Day | Live Junk Free",
+  "title": "Junk Removal Services in Caledon | Free Onsite Estimates | Live Junk Free",
   "description": "Need junk removal services in Caledon? Live Junk Free offers fast, eco-friendly & affordable junk removal across Caledon, ON. Same-day available. Call +1 647 922 5865!",
   "canonical": "https://livejunkfree.ca/locations/caledon/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -141,7 +141,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "From large-scale demolition and full property cleanouts to residential and commercial junk removal in Caledon, we handle it all under one roof. We specialize in removing every type of unwanted item while ensuring your space is left completely spotless once the job is done."
+     "text": "From large-scale demolition and full property cleanouts to residential and commercial junk removal in Caledon, we handle it all under one roof. We specialize in removing every type of unwanted item while ensuring your space is left completely tidy once the job is done."
     },
     {
      "t": "steps",
@@ -186,14 +186,14 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We believe in honest, straightforward pricing — always. Every quote we provide comes with a detailed cost breakdown and absolutely no hidden charges. What we quote is exactly what you pay, with zero last-minute surprises or add-ons."
+     "text": "We believe in honest, straightforward pricing — always."
     },
     {
      "t": "steps",
      "items": [
       {
        "n": "06",
-       "title": "100% Customer Satisfaction Guaranteed",
+       "title": "{{fact:licensedInsured}}",
        "text": []
       }
      ]
@@ -277,7 +277,7 @@
       {
        "title": "Receive a Free, No-Obligation Quote",
        "text": [
-        "No guessing games and no vague estimates. Following a brief on-site assessment, we provide a fully transparent, upfront quote with no hidden costs. Once you approve the price, it's locked in — nothing changes between the quote and your final bill."
+        "No guessing games and no vague estimates."
        ]
       },
       {
@@ -440,7 +440,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -493,7 +493,7 @@
        "q": "Q3. Do you provide free quotes for junk removal & hauling in Caledon, ON?",
        "a": [
         [
-         "Yes, absolutely. We provide a fully transparent, no-obligation quote following a brief on-site assessment of the items to be removed. There are no hidden fees, no ambiguous charges, and no pressure to proceed. The price we quote is the price you pay — it’s as simple as that. Our goal is to make affordable junk removal in Caledon accessible to every household and business."
+         "Yes, absolutely. We provide a fully transparent, no-obligation quote following a brief on-site assessment of the items to be removed. Our goal is to make affordable junk removal in Caledon accessible to every household and business."
         ]
        ]
       },

@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Piano Removal Services in Whitby from Live Junk Free — an experienced crew moves upright, baby grand and grand pianos safely out of family homes, estates and farmhouses, quoted flat on site, seven days a week."
+     "text": "Piano Removal Services in Whitby from Live Junk Free — an experienced crew moves upright, baby grand and grand pianos safely out of family homes, estates and farmhouses, quoted flat on site."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -123,7 +123,7 @@
        "title": "One flat price — stairs and access never bill extra",
        "text": [
         [
-         "A piano isn’t a normal junk item, and the quote reflects the real work: careful maneuvering, wall protection, and the crew size a piece that heavy actually needs."
+         "{{fact:propertyProtection}}."
         ]
        ]
       },
@@ -165,7 +165,7 @@
       },
       {
        "n": "06",
-       "title": "Independent pricing, 30–50% under the bigger outfits",
+       "title": "Independent pricing",
        "text": [
         [
          "National moving and junk removal franchises build a royalty into every quote. Live Junk Free carries none of that overhead."
@@ -195,14 +195,14 @@
     {
      "t": "p",
      "c": [
-      "Every quote is one flat number covering the move, any needed disassembly, and disposal, donation or recycling."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
      "t": "checks",
      "items": [
       "Move + Disassembly + Haul-Away",
-      "No Stairs Surcharges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -217,7 +217,7 @@
     {
      "t": "price",
      "label": "Whitby Piano Removal Price",
-     "value": "{{cad_265}}"
+     "value": "Priced at your free onsite estimate"
     },
     {
      "t": "p",
@@ -250,7 +250,7 @@
     {
      "t": "p",
      "c": [
-      "A piano removal appointment follows four steps: booking, a free on-site quote with the route measured first, careful moving and disassembly, and same-day haul-away."
+      "A piano removal appointment follows four steps: booking, a free on-site quote with the route measured first, careful moving and disassembly, and same-day haul-away when available."
      ]
     }
    ]
@@ -289,7 +289,7 @@
       },
       {
        "n": "04",
-       "title": "Your Space Is Clear the Same Day",
+       "title": "Your Space Is Clear",
        "text": [
         [
          "The piano leaves for a donation destination where it qualifies, or routes to responsible recycling where it doesn’t."
@@ -683,7 +683,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — family home, senior transition and estate piano removals across Whitby, Durham Region and the GTA."
+      "Google reviews — family home, senior transition and estate piano removals across Whitby, Durham Region and the GTA."
      ]
     },
     {
@@ -875,7 +875,7 @@
        "q": "Can you remove a piano the same day I call?",
        "a": [
         [
-         "Often, yes — trucks run seven days a week, 6AM to 11PM. "
+         "{{fact:sameDay}}. "
         ]
        ]
       },

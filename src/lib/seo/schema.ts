@@ -3,7 +3,7 @@
  * page's own content: hours as stated on the live site, the real Google rating,
  * and prices only where the page itself shows one.
  */
-import { resolvePrices, site, type PageDoc } from "@/lib/content";
+import { fact, resolvePrices, site, type PageDoc } from "@/lib/content";
 
 const SITE = site.url;
 export const abs = (path: string) => (path.startsWith("http") ? path : new URL(path, SITE).toString());
@@ -26,9 +26,12 @@ export function businessNode() {
     currenciesAccepted: "CAD",
     address: { "@type": "PostalAddress", addressRegion: site.region.province, addressCountry: site.region.country },
     areaServed: site.towns.map((t) => ({ "@type": "City", name: t.name, containedInPlace: { "@type": "AdministrativeArea", name: "Ontario", address: { "@type": "PostalAddress", addressRegion: "ON", addressCountry: "CA" } } })),
-    openingHoursSpecification: site.hours.schema.map((h) => ({ "@type": "OpeningHoursSpecification", dayOfWeek: h.days, opens: h.opens, closes: h.closes })),
+    // No openingHoursSpecification until Nav supplies current hours (Answers B2.3).
     sameAs: [...site.socials.map((s) => s.href), site.googleBusinessProfile],
-    aggregateRating: { "@type": "AggregateRating", ratingValue: site.rating.value, reviewCount: site.rating.count, bestRating: 5 },
+    // Review count / rating only once confirmed in content/business-facts.json (audit OBS-64, OBS-133).
+    ...(fact("reviews", "count") && fact("reviews", "rating")
+      ? { aggregateRating: { "@type": "AggregateRating", ratingValue: Number(fact("reviews", "rating")), reviewCount: Number(fact("reviews", "count")), bestRating: 5 } }
+      : {}),
   };
 }
 
@@ -51,11 +54,14 @@ export function breadcrumbNode(crumbs: { label: string; href: string }[]) {
   };
 }
 
-/** First price shown on the page (e.g. "starts at just $125"), as a CAD number. */
+/**
+ * The approved starting price ({{min_price}} → the 1/16 Junk Load minimum in business-facts.json), as a CAD number.
+ * Only pages that show {{min_price}} get an Offer. Other {{cad_N}} tokens are third-party amounts (city fines,
+ * landfill fees, buying prices), never our price, so they are ignored (Answers A1.3 / A1.6).
+ */
 export function pagePrice(doc: PageDoc): number | null {
   const text = JSON.stringify(doc.sections);
-  const m = text.match(/\{\{cad_(\d+)(?:_\d+)?(?::\w+)?\}\}/);
-  return m ? Number(m[1]) : null;
+  return /\{\{min_price(?::\w+)?\}\}/.test(text) ? Number(fact("minimumPrice", "value")) || null : null;
 }
 
 export function serviceNode(doc: PageDoc, opts: { name: string; town?: string }) {
@@ -70,7 +76,7 @@ export function serviceNode(doc: PageDoc, opts: { name: string; town?: string })
     provider: { "@id": BUSINESS_ID },
     areaServed: opts.town ? { "@type": "City", name: opts.town, address: { "@type": "PostalAddress", addressRegion: "ON", addressCountry: "CA" } } : site.towns.map((t) => ({ "@type": "City", name: t.name })),
     ...(price
-      ? { offers: { "@type": "Offer", priceCurrency: "CAD", priceSpecification: { "@type": "PriceSpecification", price, priceCurrency: "CAD", minPrice: price, description: "Starting price as shown on this page" } } }
+      ? { offers: { "@type": "Offer", priceCurrency: "CAD", priceSpecification: { "@type": "PriceSpecification", price, priceCurrency: "CAD", minPrice: price, description: `${fact("minimumPrice", "short")} (1/16 load, 1 cubic yard). Excludes applicable taxes. The final quote depends on the items, access and work required and is confirmed before removal begins.` } } }
       : {}),
   };
 }

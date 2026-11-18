@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "A grand piano on a King City estate rarely sits in a spare room — it's usually the anchor of a formal living room or a music room built around it, and getting it out takes the same discretion the rest of the property gets. Live Junk Free handles that quietly, with a flat price confirmed before anything moves, seven days a week."
+     "text": "A grand piano on a King City estate rarely sits in a spare room — it's usually the anchor of a formal living room or a music room built around it, and getting it out takes the same discretion the rest of the property gets. Live Junk Free handles that quietly, with a flat price confirmed before anything moves."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -159,7 +159,7 @@
        "title": "Finished floors and landscaping stay finished",
        "text": [
         [
-         "Hardwood, stone entries and driveway surfaces get protected along the entire route, not just inside the house. Felt padding, floor runners and corner guards go down before the piano moves an inch, and the same care extends outside — across a stone entry, down a set of exterior steps, along a gravel or paved drive to wherever the truck is parked."
+         "Hardwood, stone entries and driveway surfaces get protected along the entire route, not just inside the house. {{fact:propertyProtection}}."
         ]
        ]
       },
@@ -168,7 +168,7 @@
        "title": "Independent pricing, without the markup a name-brand mover adds for the neighbourhood",
        "text": [
         [
-         "Bigger companies price by address as much as by job, quietly building a King City premium into a quote that would look completely different for the same piano across town. Live Junk Free doesn’t do that math, which is generally why the number ends up 30–50% lower for genuinely identical work — same crew size, same equipment, same care, just without the markup for the postal code."
+         "Bigger companies price by address as much as by job, quietly building a King City premium into a quote that would look completely different for the same piano across town."
         ]
        ]
       }
@@ -202,7 +202,7 @@
      "t": "checks",
      "items": [
       "Move + Disassembly + Haul-Away",
-      "No Stairs Surcharges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -217,7 +217,7 @@
     {
      "t": "price",
      "label": "King City Piano Removal Price",
-     "value": "{{cad_265}}"
+     "value": "Priced at your free onsite estimate"
     },
     {
      "t": "p",
@@ -250,7 +250,7 @@
     {
      "t": "p",
      "c": [
-      "A piano removal appointment follows four steps: booking, a free on-site quote with the route measured first, careful moving and disassembly, and same-day haul-away."
+      "A piano removal appointment follows four steps: booking, a free on-site quote with the route measured first, careful moving and disassembly, and same-day haul-away when available."
      ]
     }
    ]
@@ -292,7 +292,7 @@
        "title": "Gone, and So Is Any Trace of the Visit",
        "text": [
         [
-         "Floors are checked, the drive is checked, and the truck leaves the way it arrived — without announcing itself to the street. Most single-piano jobs are done within a couple of hours from the crew’s arrival to their departure, and the room is left exactly as it was, minus the piano."
+         "Floors are checked, the drive is checked, and the truck leaves the way it arrived — without announcing itself to the street."
         ]
        ]
       }
@@ -399,7 +399,7 @@
        "Gates closed and left exactly as found"
       ],
       [
-       "Long driveways and rural access handled at no extra charge"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Same discretion standard applied regardless of the property's scale"
@@ -683,7 +683,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — family home, senior transition and estate piano removals across Whitby, Durham Region and the GTA."
+      "Google reviews — family home, senior transition and estate piano removals across Whitby, Durham Region and the GTA."
      ]
     },
     {

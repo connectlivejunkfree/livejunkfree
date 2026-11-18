@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because a village this size doesn’t always have its own storage facility, and a lot of local residents end up renting a unit at a facility just outside town — but that never changes what the job costs. The routes already pass through here on the way to somewhere else, so there’s no travel premium added whether the crew’s heading to a facility right in the village or one a short drive down the corridor."
+      "Because a village this size doesn’t always have its own storage facility, and a lot of local residents end up renting a unit at a facility just outside town — but that never changes what the job costs."
      ]
     },
     {
@@ -153,7 +153,7 @@
        "title": "Same-day storage unit cleanout service, most of the time",
        "text": [
         [
-         "Trucks run seven days a week, 6AM to 11PM, so a unit that needs to be cleared can often be handled the same day you call."
+         "{{fact:nextAvailable}}"
         ]
        ]
       },
@@ -168,7 +168,7 @@
       },
       {
        "n": "06",
-       "title": "Independent storage unit cleanout pricing, 30–50% under the bigger outfits",
+       "title": "Independent storage unit cleanout pricing",
        "text": [
         [
          "National junk removal franchises build a royalty into every quote, and some treat villages like Schomberg as out-of-zone with a surcharge on top. Live Junk Free does neither."
@@ -198,21 +198,21 @@
     {
      "t": "p",
      "c": [
-      "What never enters the calculation is the village itself, or whether the facility happens to be right in Schomberg or a short drive along the corridor. The figure is confirmed for free on site, and it’s the number on the invoice, with nothing added once the crew starts hauling."
+      "What never enters the calculation is the village itself, or whether the facility happens to be right in Schomberg or a short drive along the corridor. The figure is confirmed for free on site."
      ]
     },
     {
      "t": "checks",
      "items": [
       "Haul-Away",
-      "No Stairs Surcharges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
@@ -220,7 +220,7 @@
     {
      "t": "price",
      "label": "Schomberg Storage Unit Cleanout",
-     "value": "{{cad_125:suffix}}"
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
@@ -324,7 +324,7 @@
        "Cleanouts for storage facilities in Schomberg and nearby areas"
       ],
       [
-       "No extra charges for facilities along the Highway 9 or Highway 27 corridors"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Same-day service available for units with straightforward access"
@@ -655,7 +655,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — move, downsizing and family storage unit cleanouts across Whitby, Durham Region and the GTA."
+      "Google reviews — move, downsizing and family storage unit cleanouts across Whitby, Durham Region and the GTA."
      ]
     },
     {

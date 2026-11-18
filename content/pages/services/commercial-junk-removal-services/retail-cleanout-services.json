@@ -6,7 +6,7 @@
  "template": "Commercial",
  "seo": {
   "title": "Retail Cleanout Services - Live JunkFree",
-  "description": "Closing a store or clearing retail space in the GTA? Live Junk Free handles full retail cleanouts fast — fixtures, stock & debris gone in one visit. Call +1 647 922 5865!",
+  "description": "Closing a store or clearing retail space in the GTA? Call +1 647 922 5865!",
   "canonical": "https://livejunkfree.ca/services/commercial-junk-removal-services/retail-cleanout-services/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/Retail-Cleanout-Services.jpeg"
@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -102,13 +102,13 @@
     {
      "t": "p",
      "c": [
-      "Starting at just {{cad_125}}, our retail cleanout team manages every aspect – careful removal, proper sorting, thorough cleaning, and responsible disposal. Whether it’s a small boutique or a large department store, we ensure your retail cleanout is seamless from start to finish."
+      "Whether it’s a small boutique or a large department store, we ensure your retail cleanout is seamless from start to finish."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Need immediate service? We provide same-day and next-day retail cleanouts to meet your timeline."
+      "Need immediate service? We provide same-day and next-day retail cleanouts to meet your timeline, subject to scheduling."
      ]
     },
     {
@@ -133,7 +133,7 @@
     {
      "t": "p",
      "c": [
-      "Retail clutter can disrupt your business, but with Live Junk Free, clearing it out is quick and effortless. We offer same-day and next-day retail cleanout services across the area, helping you reopen, relocate, or renovate without delays."
+      "Retail clutter can disrupt your business, but with Live Junk Free, clearing it out is quick and effortless. We offer same-day and next-day retail cleanout services across the area, helping you reopen, relocate, or renovate without delays, subject to scheduling."
      ]
     },
     {
@@ -145,7 +145,7 @@
     {
      "t": "p",
      "c": [
-      "Our trained, insured crew works efficiently while respecting your space. Need after-hours service? We offer evening and weekend cleanouts to minimize business disruption."
+      "Our trained, insured crew works efficiently while respecting your space. Need after-hours service?"
      ]
     },
     {
@@ -176,7 +176,7 @@
      "c": [
       {
        "b": [
-        "We Offer Same-Day Retail Cleanout Services"
+        "We Offer Retail Cleanout Services"
        ]
       }
      ]
@@ -196,7 +196,7 @@
       {
        "title": "Licensed & Insured Team",
        "text": [
-        "– Fully certified professionals handling your retail cleanout with care and compliance"
+        "– Fully insured professionals handling your retail cleanout with care and compliance"
        ]
       },
       {
@@ -208,17 +208,17 @@
       {
        "title": "Transparent & Competitive Pricing",
        "text": [
-        "– Clear quotes starting at {{cad_125}}, with volume discounts for multiple locations"
+        "Contact us for a quote"
        ]
       },
       {
-       "title": "Rapid Same-Day Service",
+       "title": "Rapid Service",
        "text": [
         "– Urgent cleanouts available to meet tight deadlines and lease requirements"
        ]
       },
       {
-       "title": "100% Satisfaction Guarantee",
+       "title": "",
        "text": [
         "– We don’t stop until your space is perfectly cleared and cleaned"
        ]
@@ -309,7 +309,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "No Hidden Fees – Just Straightforward Retail Cleanout Pricing"
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "p",
@@ -324,7 +324,7 @@
        "Instant Free Quotes – Get pricing fast by text, email, or phone"
       ],
       [
-       "Clear Retail Cleanout Rates – No hidden fees for stores or boutiques"
+       "Clear Retail Cleanout Rates for stores or boutiques"
       ],
       [
        "Volume Savings – Discounted rates for multi-location or large retail cleanouts"
@@ -390,48 +390,20 @@
       {
        "title": "Get a Quote",
        "text": [
-        "Get straightforward, transparent pricing for your retail cleanout with no hidden costs or unexpected charges."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Schedule Your Slot",
        "text": [
-        "Select same-day, next-day, or schedule in advance - we work around your business hours for minimal disruption."
+        "Select same-day when available, next-day, or schedule in advance - we work around your business hours for minimal disruption."
        ]
       },
       {
        "title": "We Handle Everything",
        "text": [
-        "Our professional team arrives on schedule, clears your entire space in 1-3 hours, and leaves it broom-clean and ready for its next use."
+        "Timing confirmed at your estimate"
        ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Before & After Retail Cleanout Gallery"
-    },
-    {
-     "t": "p",
-     "c": [
-      "See the transformation from cluttered storefronts and packed stockrooms to completely cleared, move-in-ready retail spaces. Our results speak for themselves."
-     ]
-    },
-    {
-     "t": "gallery",
-     "images": [
-      {
-       "src": "/images/uploads/2026/07/Retail-Cleanout-Services-before-1024x765.jpeg",
-       "alt": "Retail Cleanout Services"
-      },
-      {
-       "src": "/images/uploads/2026/07/Retail-Cleanout-Services-after-1024x765.jpeg",
-       "alt": "Retail Cleanout Services"
       }
      ]
     }
@@ -483,7 +455,7 @@
        "q": "Can I get same-day service?",
        "a": [
         [
-         "Yes, we offer same-day and next-day retail cleanouts for urgent needs."
+         "Yes, we offer same-day when available and next-day retail cleanouts for urgent needs."
         ]
        ]
       }

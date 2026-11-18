@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Fast, Insured, Same-Day Business Junk Removal Serving Whitby & Durham Region"
+     "text": "Fast, Insured, Business Junk Removal Serving Whitby & Durham Region"
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Google Reviews"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -129,7 +129,7 @@
        "title": "Schedule Around Your Business Hours",
        "text": [
         [
-         "Choose same day junk removal, next-day, evening, or weekend service with no premium charges — we work around your Whitby operation’s timeline."
+         "Choose same day junk removal when available, next-day, evening, or weekend service with no premium charges — we work around your Whitby operation’s timeline."
         ]
        ]
       },
@@ -147,7 +147,7 @@
        "title": "Economical for Large-Scale Projects",
        "text": [
         [
-         "Clearing a warehouse, multi-unit office, or full retail plaza? We offer substantial discounts for bulk warehouse cleanout, retail cleanout, and recurring property management cleanout work."
+         "Clearing a warehouse, multi-unit office, or full retail plaza?"
         ]
        ]
       },
@@ -156,7 +156,7 @@
        "title": "Instant Booking Convenience",
        "text": [
         [
-         "Secure your spot in just 60 seconds online or by phone — no lengthy forms or waiting for a callback, making us one of the easiest junk removal companies near me to book in Whitby."
+         "Secure your spot online or by phone — no lengthy forms or waiting for a callback, making us one of the easiest junk removal companies near me to book in Whitby."
         ]
        ]
       },
@@ -171,10 +171,10 @@
       },
       {
        "n": "06",
-       "title": "Honest, All-Inclusive Pricing",
+       "title": "Honest, Pricing",
        "text": [
         [
-         "Your quoted price is final — no surprise fees for stairs, difficult access, item type, or disposal requirements. It’s why so many local businesses search commercial junk removal near me and choose us."
+         "Your quoted price is final — for stairs, difficult access, item type, or disposal requirements. It’s why so many local businesses search commercial junk removal near me and choose us."
         ]
        ]
       }
@@ -207,7 +207,7 @@
     {
      "t": "p",
      "c": [
-      "Whether you’re relocating, renovating, closing a location, or managing a property management cleanout across multiple tenants, our same day junk removal service means no waiting on your project timeline. As one of the most responsive junk removal companies near me in Whitby, our fully insured, uniformed team handles it all:"
+      "Whether you’re relocating, renovating, closing a location, or managing a property management cleanout across multiple tenants, our same day junk removal when available service means no waiting on your project timeline. As one of the most responsive junk removal companies near me in Whitby, our fully insured, uniformed team handles it all:"
      ]
     },
     {
@@ -228,8 +228,8 @@
     },
     {
      "t": "price",
-     "label": "Small Pickups Start At",
-     "value": "{{cad_125}}"
+     "label": "Small Pickups Pricing",
+     "value": "Junk Load from {{min_price:C}}"
     },
     {
      "t": "p",
@@ -277,7 +277,7 @@
        "title": "Snap & Send",
        "text": [
         [
-         "Text or email photos of your office, warehouse, or retail space, and we’ll respond within minutes with a customized quote for your Whitby commercial junk removal project."
+         "{{fact:freeOnsiteEstimates.long}}"
         ]
        ]
       },
@@ -286,7 +286,7 @@
        "title": "Get a Fair Quote",
        "text": [
         [
-         "Receive honest, all-inclusive pricing with no hidden fees — covering labour, hauling, and disposal for your office cleanout, warehouse cleanout, or retail cleanout."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -295,7 +295,7 @@
        "title": "Choose Your Time",
        "text": [
         [
-         "Book same day junk removal, next-day, or after-hours service — we work around your Whitby business’s schedule, no matter what hours you operate."
+         "Book same day junk removal when available, next-day, or after-hours service — we work around your Whitby business’s schedule, no matter what hours you operate."
         ]
        ]
       },
@@ -321,7 +321,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Removal Services — We Remove It All"
+     "text": "Removal Services — We Remove It All"
     }
    ]
   },
@@ -671,7 +671,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews from businesses and property managers across Aurora and the GTA."
+      "Google reviews from businesses and property managers across Aurora and the GTA."
      ]
     },
     {
@@ -713,7 +713,7 @@
        "q": "How much does commercial junk removal cost in Whitby?",
        "a": [
         [
-         "Pricing is based on volume and job type. We provide free, no-obligation quotes with transparent, all-inclusive pricing and no hidden fees. "
+         "Pricing is based on volume and job type. "
         ]
        ]
       },
@@ -721,7 +721,7 @@
        "q": "Can you schedule same-day commercial cleanouts?",
        "a": [
         [
-         "Yes, same-day and next-day service is available in Whitby, subject to crew availability. We recommend booking 24–48 hours ahead when possible."
+         "Yes, same-day and next-day service is available in Whitby, subject to crew availability."
         ]
        ]
       },

@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-day Junk Cleanout Services in Vaughan | Live Junk Free",
-  "description": "Vaughan’s trusted junk cleanout team offers same-day service. We handle estate cleanouts, garage debris, attic junk, and appliance removal. Schedule today!",
+  "title": "Junk Cleanout Services in Vaughan | Live Junk Free",
+  "description": "Vaughan’s trusted junk cleanout team offers same-day service when available. We handle estate cleanouts, garage debris, attic junk, and appliance removal. Schedule today!",
   "canonical": "https://livejunkfree.ca/locations/junk-cleanout-services-in-vaughan/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "junk-cleanout-services-in-vaughan",
+ "title": "Junk Cleanout Services in Vaughan",
  "h1": "Junk Cleanout Services in Vaughan, Ontario — Big Homes Deserve a Crew That Can Empty Them",
  "published": "2026-07-14T07:50:52",
  "modified": "2026-07-14T07:50:52",
@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Vaughan doesn’t do small. Its homes come with finished basements, three-car garages, cold cellars, cabanas and enough square footage to quietly absorb twenty years of belongings without anyone noticing — until the day it all has to go. That day is what we’re built for. Our fully insured crew walks the entire property with you, quotes one flat all-inclusive price for free, and clears everything — floor by floor, room by room, truckload by truckload — usually in a single visit."
+      "Vaughan doesn’t do small. Its homes come with finished basements, three-car garages, cold cellars, cabanas and enough square footage to quietly absorb twenty years of belongings without anyone noticing — until the day it all has to go. That day is what we’re built for. Our fully insured crew walks the entire property with you, quotes one flat price for free, and clears everything — floor by floor, room by room, truckload by truckload — usually in a single visit."
      ]
     },
     {
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "When a Vaughan property needs emptying, it's rarely a one-couch job. It's the Woodbridge family home with a basement kitchen and a cantina stocked since the eighties. The Kleinburg estate changing hands. The Maple garage where three generations parked everything except the cars. Live Junk Free has cleared them all — 7000+ five-star Google reviews earned on exactly this kind of work: big, careful, and finished when we said it would be."
+     "text": "When a Vaughan property needs emptying, it's rarely a one-couch job. It's the Woodbridge family home with a basement kitchen and a cantina stocked since the eighties. The Kleinburg estate changing hands. The Maple garage where three generations parked everything except the cars. Live Junk Free has cleared them all — Google reviews earned on exactly this kind of work: big, careful, and finished when we said it would be."
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Crew, trucks, fuel, disposal fees, donation runs — one figure holds it all. If the basement yields double the boxes or the sectional refuses to leave the way it came in, the price you approved stays the price you pay. Full stop."
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} If the basement yields double the boxes or the sectional refuses to leave the way it came in, the price you approved stays the price you pay. Full stop."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent pricing beats the franchises by 30–50%",
+       "title": "Independent pricing beats the franchises by",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The big national chains price in their royalty fees; we have none to pass on. On Vaughan-sized cleanouts, that difference compounds — the same multi-load job routinely runs 30–50% less with us."
+     "text": "The big national chains price in their royalty fees; we have none to pass on."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small cleanouts start at {{cad_125}}. Garages and basements land mid-range. Full homes, estates and multi-load clears are quoted as one firm, all-inclusive figure at your free walkthrough — and that figure holds no matter how many trips the truck makes or how long the crew works. In a city of big properties, a locked price is worth even more."
+     "text": "Garages and basements land mid-range. Full homes, estates and multi-load clears are quoted as one firm, figure at your free walkthrough — and that figure holds no matter how many trips the truck makes or how long the crew works. In a city of big properties, a locked price is worth even more."
     },
     {
      "t": "cards",
@@ -254,7 +254,7 @@
       {
        "title": "1. Book the Walkthrough",
        "text": [
-        "Call +1 647 922 5865 or book online. Crews cover all of Vaughan seven days a week, 6AM to 11PM, with same-day slots available and a 30-minute text before we arrive at the gate."
+        "Call +1 647 922 5865 or book online."
        ]
       },
       {
@@ -474,7 +474,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -504,7 +504,7 @@
        "q": "Q: How much does a full-home cleanout cost in Vaughan?",
        "a": [
         [
-         "A: It scales with volume alone. Small jobs start at $125, single spaces like garages and basements sit mid-range, and complete homes — even multi-truckload ones — are quoted as one flat, locked figure at your free walkthrough. Neither the size of the house nor the hours the crew works can move an approved price."
+         "A: It scales with volume alone. Neither the size of the house nor the hours the crew works can move an approved price."
         ]
        ]
       },

@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -130,7 +130,7 @@
        "b": [
         {
          "i": [
-          "We answer calls in 1 minute."
+          "Easy Booking by Phone or Online"
          ]
         }
        ]
@@ -149,7 +149,7 @@
     {
      "t": "p",
      "c": [
-      "Got cluttered shelves wasting valuable space? Preparing for an inventory refresh? Redesigning your retail layout? Our same-day shelving storage service handles it quickly, no waiting, no hassle."
+      "Got cluttered shelves wasting valuable space? Preparing for an inventory refresh? Redesigning your retail layout? Our same-day shelving storage service handles it quickly, no waiting, no hassle, subject to scheduling."
      ]
     },
     {
@@ -215,13 +215,13 @@
       {
        "title": "Eco-Friendly Processing",
        "text": [
-        "– 85%+ materials recycled or donated to minimize waste"
+        "{{fact:recycling}}"
        ]
       },
       {
        "title": "Honest Pricing",
        "text": [
-        "– All-inclusive quotes with no hidden fees"
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -259,7 +259,7 @@
        "Our professional shelving storage service takes the hassle out of organizing your business space. Whether you need to install new retail shelving storage, remove old units, or completely redesign your storage system, we make the process completely stress-free."
       ],
       [
-       "When you choose our service, our fully-equipped team arrives ready to handle every detail. We carefully remove outdated shelving storage units, install new systems with precision, and ensure your space is left perfectly organized. Every job includes floor protection during work and a thorough cleanup when we finish."
+       "When you choose our service, our fully-equipped team arrives ready to handle every detail. We carefully remove outdated shelving storage units, install new systems with precision, and ensure your space is left perfectly organized. {{fact:propertyProtection}}."
       ],
       [
        "This includes safe disassembly of existing shelving, proper disposal of old materials, expert installation of new shelving storage systems, and complete removal of all debris."
@@ -281,13 +281,13 @@
      "t": "ul",
      "items": [
       [
-       "Full recycling of metal, wood, and wire shelving at certified facilities"
+       "Full recycling of metal, wood, and wire shelving at recycling facilities"
       ],
       [
        "Donation program for quality used shelving storage units to local organizations"
       ],
       [
-       "Zero-landfill policy for all reusable materials"
+       "For all reusable materials"
       ]
      ]
     },
@@ -300,13 +300,13 @@
      "t": "ul",
      "items": [
       [
-       "All-inclusive rates with no surprise fees"
+       "Rates"
       ],
       [
-       "Free same-day estimates by phone, text, or email"
+       "Free estimates by phone, text, or email"
       ],
       [
-       "Volume discounts for large shelving storage projects"
+       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -367,19 +367,19 @@
       {
        "title": "Get Your Quote",
        "text": [
-        "Receive honest, upfront pricing for your shelving storage unit needs with no hidden fees - just clear, competitive rates."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Choose Your Time",
        "text": [
-        "Select same-day, next-day, or schedule in advance. We work around your business hours for zero disruption to your operations."
+        "Select same-day, next-day, or schedule in advance, subject to scheduling. We work around your business hours for zero disruption to your operations."
        ]
       },
       {
        "title": "We Handle Everything",
        "text": [
-        "Our professional team arrives on time, expertly manages your retail shelving storage project, and leaves your space perfectly organized, typically completed in just 1-2 hours."
+        "Our professional team arrives on time, expertly manages your retail shelving storage project, and leaves your space perfectly organized."
        ]
       }
      ]
@@ -460,7 +460,7 @@
        "q": "Can I schedule a same-day shelving pickup?",
        "a": [
         [
-         "Yes! Call us for same-day service."
+         "Yes! Call us for same-day service when available."
         ]
        ]
       }
@@ -616,7 +616,7 @@
          "4. Are disposal and recycling fees included in the removal estimate?"
         ],
         [
-         "Ask the removal company whether dismantling, loading, transportation, recycling, and disposal are included in the quoted price. A clear quote should explain any additional charges before work begins."
+         "{{fact:taxNote}}. {{fact:pricingIntro.extra}} A clear quote should explain any additional charges before work begins."
         ],
         [
          "5. Is there a discount if the shelving material has scrap value?"
@@ -640,7 +640,7 @@
          "8. What is the minimum service fee for a small residential closet shelving removal?"
         ],
         [
-         "Minimum charges vary by company and job size. For a small shelving removal, ask whether the company has a minimum service charge and whether hauling and disposal are included."
+         "Minimum charges vary by company and job size. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
         ],
         [
          "9. How long does it take to dismantle and remove a large warehouse storage system?"
@@ -745,10 +745,10 @@
          "Not every shelving removal service includes repairs. If you need wall, drywall, or concrete holes repaired after removing anchors, confirm whether those repairs are included or need to be arranged separately."
         ],
         [
-         "26. Do shelving removal companies provide a Certificate of Insurance (COI) for commercial sites?"
+         "26. {{fact:insuranceDocs}}."
         ],
         [
-         "Some commercial removal companies can provide proof of insurance or a Certificate of Insurance when requested by a landlord or property manager. Confirm the requirement before scheduling the work."
+         "{{fact:insuranceDocs}}. Confirm the requirement before scheduling the work."
         ],
         [
          "27. What safety precautions are taken to prevent accidental collapses during dismantling?"
@@ -832,7 +832,7 @@
          "40. Can shelving be removed from a property without disrupting normal business operations?"
         ],
         [
-         "Commercial shelving removal can often be scheduled around business hours, tenant access, or other property activities. For active warehouses and retail locations, discuss after-hours or weekend scheduling and building access requirements in advance."
+         "Commercial shelving removal can often be scheduled around business hours, tenant access, or other property activities. {{fact:scheduling}}"
         ]
        ]
       }

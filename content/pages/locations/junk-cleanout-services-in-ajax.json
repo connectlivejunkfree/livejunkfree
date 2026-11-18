@@ -5,12 +5,12 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same day Junk Cleanout Services in Ajax - Live Junk Free",
-  "description": "Live Junk Free provides same day junk cleanout services in Ajax. From garage cleanouts to estate cleanouts, attic junk removal, and appliance removal, we handle it all. Book today!",
+  "title": "Junk Cleanout Services in Ajax - Live Junk Free",
+  "description": "Live Junk Free provides same day junk cleanout when available services in Ajax. From garage cleanouts to estate cleanouts, attic junk removal, and appliance removal, we handle it all. Book today!",
   "canonical": "https://livejunkfree.ca/locations/junk-cleanout-services-in-ajax/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
  },
- "title": "junk-cleanout-services-in-ajax",
+ "title": "Junk Cleanout Services in Ajax",
  "h1": "Professional Junk Cleanout Services in Ajax, Ontario",
  "published": "2026-07-11T05:07:51",
  "modified": "2026-07-11T05:07:06",
@@ -46,7 +46,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -84,7 +84,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
-      "alt": "DSC08963",
+      "alt": "Junk Cleanout in Ajax: Live Junk Free job photo",
       "width": 800,
       "height": 534
      }
@@ -96,7 +96,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Junk Hauling in Ajax — Because Clutter Has Deadlines Too"
+     "text": "Junk Hauling in Ajax — Because Clutter Has Deadlines Too"
     },
     {
      "t": "p",
@@ -135,7 +135,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -223,13 +223,13 @@
       {
        "title": "03 – Ajax Is Home Turf",
        "text": [
-        "Daily routes through Durham mean same-day slots and no travel surcharges"
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "04 – Donation & Recycling First",
        "text": [
-        "Usable goods to Durham charities, metals and e-waste to certified recyclers, landfill last"
+        "Usable goods to Durham charities, metals and e-waste to recyclers, landfill last"
        ]
       },
       {
@@ -299,7 +299,7 @@
        "Charity Partners: Furniture, housewares, clothing, and working goods are offered to charities serving Ajax and Durham Region"
       ],
       [
-       "Certified Recycling: Appliances, electronics, scrap metal, cardboard, and clean wood are streamed to proper facilities"
+       "Recycling: Appliances, electronics, scrap metal, cardboard, and clean wood are streamed to proper facilities"
       ],
       [
        "Depot Guidance: Hazardous items we can’t carry — paint, propane, chemicals — come with clear directions to Durham’s household hazardous waste drop-offs"
@@ -343,7 +343,7 @@
        "Free Photo or On-Site Quotes – A firm written figure before anything is lifted"
       ],
       [
-       "All-Inclusive Rates – Labour, hauling, donation runs, recycling, and sweep-up in one price"
+       "Rates – Labour, hauling, donation runs, recycling, and sweep-up in one price"
       ],
       [
        "Bigger Loads, Better Value – Full-property cleanouts cost far less per item than piecemeal pickups"
@@ -409,7 +409,7 @@
       {
        "title": "Choose Your Slot",
        "text": [
-        "Same-day, evening, and weekend windows across Ajax, timed to your listing, move, or deadline."
+        "Same-day when available, evening, and weekend windows across Ajax, timed to your listing, move, or deadline."
        ]
       },
       {
@@ -440,35 +440,35 @@
      "images": [
       {
        "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
-       "alt": "20250405_140825"
+       "alt": "Junk Cleanout in Ajax: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
-       "alt": "20250405_142357"
+       "alt": "Junk Cleanout in Ajax: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142736-1024x577.webp",
-       "alt": "20250405_142736"
+       "alt": "Junk Cleanout in Ajax: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_144606-1024x577.webp",
-       "alt": "20250405_144606"
+       "alt": "Junk Cleanout in Ajax: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250611_115029-1024x577.webp",
-       "alt": "20250611_115029"
+       "alt": "Junk Cleanout in Ajax: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250611_201732-1024x577.webp",
-       "alt": "20250611_201732"
+       "alt": "Junk Cleanout in Ajax: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250530_110858-1024x577.webp",
-       "alt": "20250530_110858"
+       "alt": "Junk Cleanout in Ajax: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250526_193102-1024x577.webp",
-       "alt": "20250526_193102"
+       "alt": "Junk Cleanout in Ajax: Live Junk Free job photo"
       }
      ]
     }

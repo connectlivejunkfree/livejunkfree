@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Careful, flat-rate commercial junk removal in Port Perry — free quotes written on site, an insured crew that handles every carry through even the oldest doorways, and same-day junk pickup available seven days a week."
+     "text": "{{fact:nextAvailable}}"
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Junk Removal Reviews on Google"
+     "text": "★★★★★ Junk Removal Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Port Perry trades on its appearance — visitors drive an hour for Queen Street’s storefronts and the lakefront view behind them — which means junk piled by a back door here isn’t just clutter; it’s off-brand. Our junk removal keeps the postcard intact, and the 660+ five-star Google reviews behind Live Junk Free include the shopkeepers, innkeepers and Scugog farmers who’ve watched us do it: quotes written flat and kept flat, crews easing loads through 150-year-old doorframes without a mark, and clear-outs timed so no tour bus ever photographed a junk pile where the charm is supposed to be."
+      "Port Perry trades on its appearance — visitors drive an hour for Queen Street’s storefronts and the lakefront view behind them — which means junk piled by a back door here isn’t just clutter; it’s off-brand. Our junk removal keeps the postcard intact, and the Google reviews behind Live Junk Free include the shopkeepers, innkeepers and Scugog farmers who’ve watched us do it: quotes written flat and kept flat, crews easing loads through 150-year-old doorframes, and clear-outs timed so no tour bus ever photographed a junk pile where the charm is supposed to be."
      ]
     },
     {
@@ -115,7 +115,7 @@
        "title": "Flat truck-volume junk removal pricing — scenic towns pay standard rates",
        "text": [
         [
-         "Some haulers read “tourist town” as “tourist prices.” We don’t. Your Port Perry junk removal cost is your load’s share of the truck — no lakeside premium, no heritage-district markup, no distance charge out to the concessions. The same load prices the same here as anywhere we serve."
+         "Some haulers read “tourist town” as “tourist prices.” We don’t. The same load prices the same here as anywhere we serve."
         ]
        ]
       },
@@ -148,19 +148,19 @@
       },
       {
        "n": "05",
-       "title": "Junk pickup timed around tourists and seasons — 6AM to 11PM, daily",
+       "title": "{{fact:nextAvailable}}",
        "text": [
         [
-         "The best clear-out is the one no visitor sees. We book Port Perry junk removal for early mornings before the day-trippers arrive, evenings after the street quiets, or the off-season weeks when the whole town catches its breath — seven days a week, whichever your calendar prefers."
+         "The best clear-out is the one no visitor sees."
         ]
        ]
       },
       {
        "n": "06",
-       "title": "Independent junk removal — 30–50% under the franchise brands",
+       "title": "Independent junk removal",
        "text": [
         [
-         "National junk removal chains price small scenic towns with royalties inside and remoteness on top. We’re local and independent — neither applies — and the result is 30–{{percent_50}} off identical loads, whether it’s one boutique refresh or a standing seasonal arrangement."
+         "National junk removal chains price small scenic towns with royalties inside and remoteness on top."
         ]
        ]
       }
@@ -187,7 +187,7 @@
     {
      "t": "p",
      "c": [
-      "Small commercial junk pickups start at {{cad_125}} and rise only with truck volume — never with charm, difficulty or postal code. A single retired display hutch is a sliver of the box; a full inn-floor refresh or barn clearance fills it and prices in the open. The number is written before work begins, freezes at your approval, and survives every staircase between here and the truck."
+      "Small commercial junk pickups start at {{min_price:C}} and rise only with truck volume — never with charm, difficulty or postal code. A single retired display hutch is a sliver of the box; a full inn-floor refresh or barn clearance fills it and prices in the open. The number is written before work begins, freezes at your approval, and survives every staircase between here and the truck."
      ]
     },
     {
@@ -208,13 +208,13 @@
     },
     {
      "t": "price",
-     "label": "Port Perry Junk Removal From",
-     "value": "{{cad_125}}"
+     "label": "Port Perry Junk Removal Pricing",
+     "value": "Junk Load from {{min_price:C}}"
     },
     {
      "t": "p",
      "c": [
-      "One volume-based rate — careful carries, dismantling, hauling and disposal included."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -257,7 +257,7 @@
        "title": "Book Your Port Perry Junk Pickup",
        "text": [
         [
-         "Two minutes at +1 647 922 5865 — or online — reserves the window. Port Perry and greater Scugog ride our daily Durham routes, 6AM to 11PM, seven days, so same-day junk removal is realistic most mornings, with a 30-minute call ahead as the truck approaches town."
+         "Two minutes at +1 647 922 5865 — or online — reserves the window."
         ]
        ]
       },
@@ -337,7 +337,7 @@
        "Retired décor, fixtures and signage disposal"
       ],
       [
-       "Early-morning and evening scheduling so the street stays picturesque"
+       "{{fact:weekendPickup}}"
       ]
      ]
     },
@@ -413,7 +413,7 @@
        "Tenant turnover clear-outs for Port Perry landlords, documented"
       ],
       [
-       "Office and professional suite decommissions with certified e-waste recycling"
+       "Office and professional suite decommissions with e-waste recycling"
       ],
       [
        "Contractor and renovation debris pickup between phases"
@@ -675,7 +675,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — boutiques, inns, farms and landlords across Port Perry, Scugog and Durham Region."
+      "Google reviews — boutiques, inns, farms and landlords across Port Perry, Scugog and Durham Region."
      ]
     },
     {
@@ -701,7 +701,7 @@
        "q": "What does commercial junk removal cost in Port Perry?",
        "a": [
         [
-         "Truck volume alone: small pickups from $125, larger loads scaling with the space they fill and nothing else. The exact figure is written free at your Port Perry property before anything moves — narrow staircases, long carries and every disposal fee already inside — and it holds through to the invoice."
+         "Truck volume alone: small pickups from {{min_price:C}}, larger loads scaling with the space they fill and nothing else."
         ]
        ]
       },
@@ -709,7 +709,7 @@
        "q": "Can you work around tourist hours and the busy season?",
        "a": [
         [
-         "That’s standard practice here. Clear-outs book for early mornings before the day-trippers, evenings after the street empties, or off-season weeks entirely — 6AM to 11PM, seven days — so no visitor ever sees the work, only the result."
+         "That’s standard practice here."
         ]
        ]
       },
@@ -717,7 +717,7 @@
        "q": "How careful are you with heritage buildings?",
        "a": [
         [
-         "Genuinely careful, because Queen Street deserves it. Original doorframes get padded, plank floors get runners, oversized pieces get dismantled before they travel, and crews move through century structures with the patience they require. Damage-free isn’t a slogan; it’s the review history."
+         "Genuinely careful, because Queen Street deserves it. Original doorframes get padded, plank floors get runners, oversized pieces get dismantled before they travel, and crews move through century structures with the patience they require."
         ]
        ]
       },
@@ -733,7 +733,7 @@
        "q": "Do you cover Scugog Island and the rural concessions?",
        "a": [
         [
-         "All of them, at the same flat volume rates as Queen Street. The island, the farm concessions and every hamlet in Scugog ride the same daily routes — no distance surcharge, no longer wait, no difference in the number."
+         "All of them, at the same flat volume rates as Queen Street."
         ]
        ]
       },
@@ -741,7 +741,7 @@
        "q": "How fast can a truck reach my Port Perry business?",
        "a": [
         [
-         "Often same-day. Port Perry sits on our daily Durham circuit, 6AM–11PM, all week, and morning calls to +1 647 922 5865 regularly become afternoon junk pickups — quoted as a real window rather than a rough promise."
+         "Often same-day."
         ]
        ]
       },
@@ -754,7 +754,7 @@
        ]
       },
       {
-       "q": "Why are your rates 30–50% below the national junk removal chains?",
+       "q": "Why are your rates",
        "a": [
         [
          "No franchise royalty and no scenic-town premium — the two paddings that inflate brand-name quotes here. Local and independent means the identical load, handled more carefully, simply costs less."

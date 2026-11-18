@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -144,10 +144,10 @@
       },
       {
        "n": "02",
-       "title": "Flexible After-Hours & Weekend Office Cleanout Services",
+       "title": "{{fact:weekendPickup}}",
        "text": [
         [
-         "A business does not always have time to stop operating while an office is being cleared. We can arrange evening, weekend and other flexible appointments when property access allows, helping minimize disruption to employees, customers and neighbouring businesses."
+         "A business does not always have time to stop operating while an office is being cleared. {{fact:scheduling}}"
         ]
        ]
       },
@@ -165,7 +165,7 @@
        "title": "Computer, Monitor & Office Electronics Removal",
        "text": [
         [
-         "We remove desktops, laptops, monitors, printers, copiers, servers, phone systems, networking equipment, UPS units, cables and other unwanted office electronics. Electronics are separated for appropriate certified recycling channels rather than being treated as ordinary landfill waste."
+         "We remove desktops, laptops, monitors, printers, copiers, servers, phone systems, networking equipment, UPS units, cables and other unwanted office electronics. Electronics are separated for appropriate recycling channels rather than being treated as ordinary landfill waste."
         ]
        ]
       },
@@ -278,7 +278,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We Give Instant Pricing For Office Cleanout Services"
+     "text": "{{fact:freeOnsiteEstimates}}"
     },
     {
      "t": "p",
@@ -308,22 +308,22 @@
      "t": "checks",
      "items": [
       "Haul-Away",
-      "No Stairs Surcharges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
     },
     {
      "t": "price",
-     "label": "Port Perry Office Cleanout Services Starts From",
-     "value": "{{cad_125:suffix}}"
+     "label": "Port Perry Office Cleanout Pricing",
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
@@ -383,7 +383,7 @@
        "title": "Office Furniture Removed, Electronics Cleared & Property Documented",
        "text": [
         [
-         "Desks, chairs, cubicles, workstations, filing cabinets, shelving, boardroom furniture, reception furniture, computers, monitors, printers and other unwanted materials are removed efficiently. Usable furniture may be directed toward resale or donation, while electronics and metal are separated for recycling. Photo documentation can also be provided when required."
+         "Desks, chairs, cubicles, workstations, filing cabinets, shelving, boardroom furniture, reception furniture, computers, monitors, printers and other unwanted materials are removed efficiently. Usable furniture may be directed toward resale or donation, while electronics and metal are separated for recycling."
         ]
        ]
       },
@@ -492,12 +492,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Junk Removal, Demolition & Cleanout Services in Port Perry"
+     "text": "Junk Removal, Demolition & Cleanout Services in Port Perry"
     },
     {
      "t": "p",
      "c": [
-      "Same-day service covers far more than office cleanout services across Port Perry. Our commercial junk removal handles offices, local businesses, retail properties, contractor businesses, warehouses, workshops and commercial spaces around Queen Street, Water Street and throughout Scugog Township, including Blackstock, Nestleton, Seagrave, Greenbank, Prince Albert and surrounding communities. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from houses, cottages, rural properties and rental homes throughout Port Perry and Scugog. Our demolition services cover office partition and cubicle removal, interior strip-outs and built-in fixture removal, along with sheds, garages, decks, fences, gazebos, above-ground pools and hot tubs. Where a property requires complete clearing, we provide same-day office cleanout, retail cleanout, warehouse cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, with consistent GTA junk removal rates."
+      "Same-day service when available covers far more than office cleanout services across Port Perry. Our commercial junk removal handles offices, local businesses, retail properties, contractor businesses, warehouses, workshops and commercial spaces around Queen Street, Water Street and throughout Scugog Township, including Blackstock, Nestleton, Seagrave, Greenbank, Prince Albert and surrounding communities. Our residential junk removal covers furniture removal, appliances, mattresses, electronics, hot tubs, exercise equipment, household items and seasonal yard waste from houses, cottages, rural properties and rental homes throughout Port Perry and Scugog. Our demolition services cover office partition and cubicle removal, interior strip-outs and built-in fixture removal, along with sheds, garages, decks, fences, gazebos, above-ground pools and hot tubs. Where a property requires complete clearing, we provide same-day office cleanout, retail cleanout, warehouse cleanout, apartment cleanout, basement cleanout, estate cleanout, eviction cleanout, garage cleanout, hoarding cleanout, house cleanout, property management cleanout and storage unit cleanout services. All of it is available through a single booking, with consistent GTA junk removal rates."
      ]
     },
     {
@@ -821,7 +821,7 @@
     {
      "t": "p",
      "c": [
-      "More than 700 five-star Google reviews across restaurant strip-outs, heritage storefront closures, mall and big-box clearances and landlord re-lease preparations — from Main Street South through York Region and across the GTA."
+      "Google reviews across restaurant strip-outs, heritage storefront closures, mall and big-box clearances and landlord re-lease preparations — from Main Street South through York Region and across the GTA."
      ]
     },
     {
@@ -1196,7 +1196,7 @@
        "q": "Can you provide after-hours and weekend office cleanout services?",
        "a": [
         [
-         "Yes. Evening and weekend appointments can be arranged when property access allows. This gives businesses more flexibility when they cannot have removal work happening during normal operating hours. "
+         "Yes. {{fact:scheduling}} This gives businesses more flexibility when they cannot have removal work happening during normal operating hours. "
         ]
        ]
       },
@@ -1204,7 +1204,7 @@
        "q": "Can you remove computers, monitors and office electronics?",
        "a": [
         [
-         "Yes. We remove computers, monitors, printers, copiers, servers, phone systems, networking equipment, UPS units and cabling. Electronics are directed toward appropriate certified recycling channels whenever possible. "
+         "Yes. We remove computers, monitors, printers, copiers, servers, phone systems, networking equipment, UPS units and cabling. Electronics are directed toward appropriate recycling channels whenever possible. "
         ]
        ]
       }

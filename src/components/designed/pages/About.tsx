@@ -45,7 +45,7 @@ export function AboutPage() {
         </div>
         <div className="stack">
           <p className="lead">{A.guarantee.text}</p>
-          <div className="stats">
+          {STATS.length ? <div className="stats">
             {STATS.map((st) => (
               <div key={st.label}>
                 <b>
@@ -54,7 +54,7 @@ export function AboutPage() {
                 <span>{st.label}</span>
               </div>
             ))}
-          </div>
+          </div> : null}
         </div>
       </Sec>
       <CtaBand />

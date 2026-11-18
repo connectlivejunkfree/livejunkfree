@@ -148,7 +148,7 @@
      "t": "ul",
      "items": [
       [
-       "Inquire about the required insurance certificates from service providers"
+       "{{fact:licensedInsured}}"
       ],
       [
        "Reserve elevators or service lifts for moving day"
@@ -339,9 +339,6 @@
       ],
       [
        "Inventory of high-value items being removed"
-      ],
-      [
-       "Donation receipts from previous sorting"
       ],
       [
        "Insurance information and emergency contacts"

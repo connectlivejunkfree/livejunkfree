@@ -6,7 +6,7 @@
  "template": "TownHub",
  "seo": {
   "title": "Junk Removal Services in Ajax | Fast & Affordable Junk Pickup",
-  "description": "Looking for reliable junk removal in Ajax? Live Junk Free offers same-day pickup for furniture, appliances, yard waste & more. Upfront pricing. Book today!",
+  "description": "Looking for reliable junk removal in Ajax? Live Junk Free offers same-day pickup when available for furniture, appliances, yard waste & more. Upfront pricing. Book today!",
   "canonical": "https://livejunkfree.ca/locations/ajax/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Bolton.png"
@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Why so lazy to remove household junk or debris from the office and other relevant spaces? Or are you unable to find a reliable professional agency providing waste removal services in Ajax yet? Is it so?"
+      "Need household junk or office clutter gone in Ajax? Live Junk Free loads it, hauls it away and confirms your price at a free onsite estimate before any work starts. Is it so?"
      ]
     },
     {
@@ -48,22 +48,6 @@
        "label": "Schedule Now",
        "href": "tel:16479225865"
       }
-     ]
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "marquee",
-     "items": [
-      "House Cleanouts",
-      "Fence Removal",
-      "Shed Demolition",
-      "Yard Waste",
-      "Retail Cleanout",
-      "Wall Demolition",
-      "Deck Demolition"
      ]
     }
    ]
@@ -137,7 +121,7 @@
      "items": [
       {
        "n": "03",
-       "title": "Same-Day Service",
+       "title": "Same-Day Service when available",
        "text": []
       }
      ]
@@ -145,7 +129,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Need immediate junk removal? We provide same-day junk removal Ajax, ensuring quick, hassle-free cleanup without disrupting your daily routine."
+     "text": "Need immediate junk removal? We provide same-day junk removal when available Ajax, ensuring quick, hassle-free cleanup without disrupting your daily routine."
     },
     {
      "t": "steps",
@@ -320,7 +304,7 @@
        "q": "Demolition Services",
        "a": [
         [
-         "We provide professional demolition services for both residential and commercial properties, ensuring safe and controlled demolition. Whether you need an old deck, a garage, or an office partition removed, we handle the entire process with precision and care."
+         "We provide professional demolition services for both residential and commercial properties, ensuring safe and controlled demolition."
         ]
        ]
       },
@@ -429,7 +413,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -467,7 +451,7 @@
        "q": "2. How do I schedule a meeting with junk haulers in my area Ajax?",
        "a": [
         [
-         "Scheduling is easy. Call us or book online, and we’ll arrange a curbside pick up in Ajax at your convenience. We even offer same-day and next-day service. "
+         "Scheduling is easy. Call us or book online, and we’ll arrange a curbside pick up in Ajax at your convenience. We even offer same-day and next-day service, subject to scheduling. "
         ]
        ]
       },

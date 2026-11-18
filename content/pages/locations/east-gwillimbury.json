@@ -5,14 +5,14 @@
  "type": "location-town",
  "template": "TownHub",
  "seo": {
-  "title": "Junk Removal East Gwillimbury | Same-Day Service | Live Junk Free",
+  "title": "Junk Removal East Gwillimbury | Free Onsite Estimates | Live Junk Free",
   "description": "East Gwillimbury's go-to junk removal team — homes, garages, offices & more. Upfront pricing, eco-friendly disposal, same-day available. Call +1 647 922 5865!",
   "canonical": "https://livejunkfree.ca/locations/east-gwillimbury/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-East-Gwillimbury.png"
  },
  "title": "East Gwillimbury",
- "h1": "Junk Removal in East Gwillimbury, Ontario — Cleared Out, Cleaned Up, Same Day",
+ "h1": "Junk Removal in East Gwillimbury, Ontario — Cleared Out, Cleaned Up",
  "published": "2026-05-11T06:28:42",
  "modified": "2026-05-22T05:41:52",
  "sections": [
@@ -27,7 +27,7 @@
     {
      "t": "h",
      "l": 1,
-     "text": "Junk Removal in East Gwillimbury, Ontario — Cleared Out, Cleaned Up, Same Day"
+     "text": "Junk Removal in East Gwillimbury, Ontario — Cleared Out, Cleaned Up"
     },
     {
      "t": "img",
@@ -41,7 +41,7 @@
     {
      "t": "p",
      "c": [
-      "Got clutter taking over your home, garage, or property in East Gwillimbury? Live Junk Free is your local junk removal team — and we don’t just haul things away, we leave your space genuinely clean and clutter-free from top to bottom. Same day."
+      "Got clutter taking over your home, garage, or property in East Gwillimbury? Live Junk Free is your local junk removal team — and we don’t just haul things away, we leave your space genuinely clean and clutter-free from top to bottom. Same day, subject to scheduling."
      ]
     },
     {
@@ -53,7 +53,7 @@
     {
      "t": "p",
      "c": [
-      "East Gwillimbury is a rapidly growing community — from Sharon and Holland Landing to Mount Albert and Queensville — and we proudly serve every neighbourhood and rural property across the entire municipality. Our same-day junk removal service in East Gwillimbury, Ontario runs 7 days a week, 6AM to 11PM, so we’re almost always available today."
+      "East Gwillimbury is a rapidly growing community — from Sharon and Holland Landing to Mount Albert and Queensville — and we proudly serve every neighbourhood and rural property across the entire municipality."
      ]
     },
     {
@@ -115,7 +115,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "When your neighbours in East Gwillimbury, Sharon, Holland Landing and Mount Albert consistently choose the same junk removal company — and keep coming back — that says everything. Junk Professionals has become the go-to junk removal service across East Gwillimbury and York Region because we do what we say, charge what we quote, and treat every property like it's our own. We're not a national franchise pushing call volumes and upsells. We're a locally owned, fully insured junk removal company that has built its reputation one East Gwillimbury driveway at a time. No hidden charges. No no-shows. No excuses."
+     "text": "When your neighbours in East Gwillimbury, Sharon, Holland Landing and Mount Albert consistently choose the same junk removal company — and keep coming back — that says everything. Junk Professionals has become the go-to junk removal service across East Gwillimbury and York Region because we do what we say, charge what we quote, and treat every property like it's our own. We're not a national franchise pushing call volumes and upsells. We're a locally owned, fully insured junk removal company that has built its reputation one East Gwillimbury driveway at a time. No no-shows. No excuses."
     },
     {
      "t": "steps",
@@ -137,7 +137,7 @@
      "items": [
       {
        "n": "02",
-       "title": "You get a flat, all-inclusive quote upfront",
+       "title": "You get a flat, quote upfront",
        "text": []
       }
      ]
@@ -145,7 +145,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "One number. That number covers labour, truck, fuel, and disposal — everything. No line items added on afterward."
+     "text": "One number. {{fact:taxNote}}. {{fact:pricingIntro.extra}} No line items added on afterward."
     },
     {
      "t": "steps",
@@ -175,7 +175,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Whether it takes our crew 30 minutes or 3 hours, your price is locked in. You're not penalized if we take longer. You're not rushed if you want to double-check rooms."
+     "text": "You're not penalized if we take longer. You're not rushed if you want to double-check rooms."
     },
     {
      "t": "steps",
@@ -190,14 +190,14 @@
     {
      "t": "h",
      "l": 3,
-     "text": "No franchise fees means no inflated rates passed onto East Gwillimbury customers. Our pricing is typically 30–50% lower than national junk removal chains for the identical service."
+     "text": "No franchise fees means no inflated rates passed onto East Gwillimbury customers."
     },
     {
      "t": "steps",
      "items": [
       {
        "n": "06",
-       "title": "Prices start as low as {{cad_125}} for small loads",
+       "title": "Prices start as low as {{min_price:C}} for a 1/16 Junk Load (1 cubic yard)",
        "text": []
       }
      ]
@@ -225,9 +225,9 @@
      "t": "cards",
      "items": [
       {
-       "title": "Book Your East Gwillimbury Junk Removal in 2 Minutes",
+       "title": "Book Your East Gwillimbury Junk Removal",
        "text": [
-        "Call us at +1 647 922 5865 or fill out our quick online booking form. Tell us what you need removed and your location in East Gwillimbury — whether you're in Sharon, Holland Landing, Mount Albert, Queensville, or anywhere across the municipality. We'll confirm your same-day or next-day time window immediately. You'll get a 30-minute heads-up call before our crew arrives, so there's no waiting around wondering when we'll show up."
+        "Call us at +1 647 922 5865 or fill out our quick online booking form. Tell us what you need removed and your location in East Gwillimbury — whether you're in Sharon, Holland Landing, Mount Albert, Queensville, or anywhere across the municipality. We'll confirm your same-day or next-day time window immediately, subject to scheduling. You'll get a 30-minute heads-up call before our crew arrives, so there's no waiting around wondering when we'll show up."
        ]
       },
       {
@@ -257,7 +257,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "No Hourly Rates. No Hidden Fees. Just Clear Junk Removal Pricing Built for East Gwillimbury Residents"
+     "text": "No Hourly Rates. Just Clear Junk Removal Pricing Built for East Gwillimbury Residents"
     },
     {
      "t": "h",
@@ -508,7 +508,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -538,7 +538,7 @@
        "q": "Q: How much does junk removal cost in East Gwillimbury, Ontario?",
        "a": [
         [
-         "A: Our junk removal pricing in East Gwillimbury is volume-based — you pay based on how much space your items take up in our truck, not by the hour. Prices start as low as $125 for small loads. We provide a free on-site estimate before any work begins — the price you approve is the price you pay."
+         "A: Our junk removal pricing in East Gwillimbury is volume-based — you pay based on how much space your items take up in our truck, not by the hour. Prices start as low as {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). We provide a free on-site estimate before any work begins."
         ]
        ]
       },
@@ -546,7 +546,7 @@
        "q": "Q: Do you offer same-day junk removal in East Gwillimbury?",
        "a": [
         [
-         "A: Yes — we offer same-day junk removal across all of East Gwillimbury including Sharon, Holland Landing, Mount Albert and Queensville. We operate 7 days a week, 6AM to 11PM. Call ",
+         "A: Yes — we offer same-day junk removal when available across all of East Gwillimbury including Sharon, Holland Landing, Mount Albert and Queensville. Call ",
          {
           "a": "tel:+16479225865",
           "c": [
@@ -569,7 +569,7 @@
        "q": "Q: Are you a local East Gwillimbury company or a national franchise?",
        "a": [
         [
-         "A: We are 100% locally owned and operated. We are not affiliated with any national franchise, which means no franchise markups — our pricing is consistently 30–50% lower than big-name junk removal chains serving East Gwillimbury."
+         "A: We are 100% locally owned and operated."
         ]
        ]
       },

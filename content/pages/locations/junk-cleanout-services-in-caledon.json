@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same day Junk Cleanout Services in Caledon | Live Junk Free",
-  "description": "Live Junk Free offers Caledon same day junk cleanout services. We take care of garage cleanouts, appliance removal, attic waste, and estate cleanups. Book today!",
+  "title": "Junk Cleanout Services in Caledon | Live Junk Free",
+  "description": "Live Junk Free offers Caledon same day junk cleanout when available services. We take care of garage cleanouts, appliance removal, attic waste, and estate cleanups. Book today!",
   "canonical": "https://livejunkfree.ca/locations/junk-cleanout-services-in-caledon/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "junk-cleanout-services-in-caledon",
+ "title": "Junk Cleanout Services in Caledon",
  "h1": "Junk Cleanout Services in Caledon, Ontario — Yes, Including The Pile",
  "published": "2026-07-15T06:29:02",
  "modified": "2026-07-15T06:29:02",
@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Every Caledon property has one. The spot behind the shed where things go to “deal with later.” The corner of the drive shed that stopped being a corner years ago. The garage bay, the fence-line stack, the trailer that hasn’t rolled since the millennium. Our fully insured crew clears all of it — indoor spaces, outdoor piles, single buildings or the whole spread — with one free walkthrough, one flat quote, and no distance charge to any laneway in the township."
+      "Every Caledon property has one. The spot behind the shed where things go to “deal with later.” The corner of the drive shed that stopped being a corner years ago. The garage bay, the fence-line stack, the trailer that hasn’t rolled since the millennium."
      ]
     },
     {
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The township's junk is as varied as its landscape: suburban garages in Bolton, workshop corners in Caledon East, barn lean-tos near Palgrave sheltering thirty years of maybe-useful, and the outdoor accumulations that every rural property grows like a crop. Live Junk Free clears them all — 660+ five-star Google reviews earned one emptied space (and flattened pile) at a time."
+     "text": "The township's junk is as varied as its landscape: suburban garages in Bolton, workshop corners in Caledon East, barn lean-tos near Palgrave sheltering thirty years of maybe-useful, and the outdoor accumulations that every rural property grows like a crop. Live Junk Free clears them all — Google reviews earned one emptied space (and flattened pile) at a time."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent pricing runs 30–50% under the franchises",
+       "title": "{{fact:competitorComparison}}",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "National chains fold royalty fees into every quote and hesitate at rural work besides. We're locally owned, we like the back roads, and Caledon cleanouts land 30–50% cheaper with us for the same cleared space."
+     "text": "National chains fold royalty fees into every quote and hesitate at rural work besides."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small cleanouts start at {{cad_125}} — a shed, a locker, a modest pile. Garages, basements and barn corners land mid-range. Whole properties and multi-load outdoor clears still resolve to one flat, locked figure at the free walkthrough. From a Bolton driveway to the far side of Terra Cotta, the rate structure never changes and the quote never grows."
+     "text": "Garages, basements and barn corners land mid-range. Whole properties and multi-load outdoor clears still resolve to one flat, locked figure at the free walkthrough. From a Bolton driveway to the far side of Terra Cotta, the rate structure never changes and the quote never grows."
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Book the Look",
        "text": [
-        "Call +1 647 922 5865 or book online in minutes. Crews cover the whole township seven days a week, 6AM to 11PM, with same-day slots and a 30-minute text before we turn down your road."
+        "Call +1 647 922 5865 or book online in minutes."
        ]
       },
       {
        "title": "2. Show Us Everything — Even the Embarrassing Part",
        "text": [
-        "The garage, the shed, the pile you've stopped seeing — we assess the true volume and hand you one flat, all-inclusive number. Free, and judgment-free."
+        "The garage, the shed, the pile you've stopped seeing — we assess the true volume and hand you one flat, number. Free, and judgment-free."
        ]
       },
       {
@@ -477,7 +477,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -507,7 +507,7 @@
        "q": "Q: What does a cleanout cost in Caledon?",
        "a": [
         [
-         "A: Volume, start to finish. Small jobs — a shed, a locker, a modest pile — start at $125; garages and barn corners land mid-range; whole properties resolve to one flat multi-load figure. Every price is quoted free and in person, and rural distance never adds to it."
+         "A: Volume, start to finish. Every price is quoted free and in person, and rural distance never adds to it."
         ]
        ]
       },

@@ -3,6 +3,7 @@
  * 26 towns, company links, phone, email, socials and hours (as stated on the
  * live site). Content used: content/site.json, content/navigation.json.
  */
+import { fact } from "@/lib/content/facts";
 import Link from "next/link";
 import { navigation, site } from "@/lib/content";
 
@@ -32,12 +33,8 @@ export function Footer({ minimal = false }: { minimal?: boolean }) {
               </span>
             </Link>
             <p className="max-w-[44ch]">{site.footerBlurb}</p>
-            <div className="hours">
-              <div>
-                <span>Hours</span>
-                <b>{site.hours.display}</b>
-              </div>
-            </div>
+            {/* No opening hours until Nav supplies them (Answers B2.3). */}
+            <p className="small">{fact("businessHours")}.</p>
             <ul className="contact-list">
               <li>
                 <a href={`tel:${site.phone.tel}`}>{site.phone.display}</a>

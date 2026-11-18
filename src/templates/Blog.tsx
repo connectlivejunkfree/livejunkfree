@@ -20,7 +20,7 @@ import { BlogBrowser, type PostCard } from "@/components/sections/BlogBrowser";
 import { Breadcrumbs } from "@/components/ui/Breadcrumbs";
 import { JsonLd } from "@/components/ui/JsonLd";
 import { blockText } from "@/lib/content/text";
-import { blogPosts, imageSize, site, type Block, type BlockOf, type Inline, type PageDoc } from "@/lib/content";
+import { blogPosts, imageSize, resolvePrices, site, type Block, type BlockOf, type Inline, type PageDoc } from "@/lib/content";
 import { isPhoto } from "@/components/designed/auto/normalize";
 
 const CtaBand = DesignedCtaBand;
@@ -32,11 +32,18 @@ export const POSTS_PER_PAGE = 12;
 const fmtDate = (iso: string) => new Date(iso).toLocaleDateString("en-CA", { year: "numeric", month: "long", day: "numeric", timeZone: "America/Toronto" });
 export const readingTime = (doc: PageDoc) => Math.max(1, Math.round(doc.sections.flatMap((s) => s.blocks).map(blockText).join(" ").split(/\s+/).length / 220));
 
+/** Card excerpts cut to ~150 characters at a word boundary, so the blog index stays scannable (audit B1-11). */
+function shortExcerpt(s: string): string {
+  const t = s.replace(/\s+/g, " ").trim();
+  if (t.length <= 160) return t;
+  return t.slice(0, 150).replace(/\s+\S*$/, "").replace(/[,;:—–-]+$/, "") + "…";
+}
+
 export function postCards(): PostCard[] {
   return blogPosts().map((p) => ({
     href: p.path,
     title: p.doc.title,
-    excerpt: p.doc.excerpt ?? "",
+    excerpt: shortExcerpt(p.doc.excerpt ?? ""),
     date: p.doc.published,
     dateLabel: fmtDate(p.doc.published),
     minutes: readingTime(p.doc),
@@ -131,7 +138,9 @@ export function BlogPost({ doc }: { doc: PageDoc }) {
     .flatMap((s) => s.blocks)
     .filter((b) => !(b.t === "h" && b.l === 1) && !(b.t === "img" && (!isPhoto(b.image) || sameImg(b.image.src, doc.featuredImage?.src))))
     .map((b): Block =>
-      b.t === "cards"
+      b.t === "h"
+        ? { ...b, text: resolvePrices(b.text) } // {{fact:…}} / {{min_price}} in headings and the "On this page" list
+        : b.t === "cards"
         ? { ...b, items: b.items.map((c) => (c.image && !isPhoto(c.image) ? { ...c, image: undefined } : c)) }
         : b.t === "gallery"
           ? { ...b, images: b.images.filter(isPhoto) }

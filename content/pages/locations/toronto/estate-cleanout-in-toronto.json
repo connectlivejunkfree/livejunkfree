@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because almost nowhere else packs in as many genuinely different ways of getting furniture out of a building. A condo tower downtown means a freight elevator booked to a specific window, a certificate of insurance filed with management, and a route through a lobby that can’t look like a move-out in progress. A house in Rosedale, Forest Hill or the Beaches means driveways, narrow front walks, and sometimes original woodwork that needs protecting on the way out. A semi on a tight laneway in the west end means figuring out the truck’s actual path before anyone commits to a plan."
+      "Because almost nowhere else packs in as many genuinely different ways of getting furniture out of a building. {{fact:insuranceDocs}}. A house in Rosedale, Forest Hill or the Beaches means driveways, narrow front walks, and sometimes original woodwork that needs protecting on the way out. A semi on a tight laneway in the west end means figuring out the truck’s actual path before anyone commits to a plan."
      ]
     },
     {
@@ -116,7 +116,7 @@
     {
      "t": "p",
      "c": [
-      "No — the building type isn’t what sets the price. Building logistics like freight elevator bookings and certificates of insurance get planned for and absorbed into the process, not charged as a premium for the address."
+      "No — the building type isn’t what sets the price. {{fact:insuranceDocs}}."
      ]
     }
    ]
@@ -140,7 +140,7 @@
        "title": "Condo and tower-compliant estate cleanouts",
        "text": [
         [
-         "COIs go to building management at booking, freight elevators reserve ahead, and the work is timed so hallways and common areas see nothing unusual."
+         "{{fact:insuranceDocs}}."
         ]
        ]
       },
@@ -209,7 +209,7 @@
     {
      "t": "p",
      "c": [
-      "What doesn’t factor in is the property type itself. A condo tower doesn’t cost more because of building logistics — those get planned for, not billed as an extra — and a larger house doesn’t cost more simply because of the neighbourhood it’s in. The figure is confirmed privately at a free walkthrough, and it’s the number that appears on the invoice, with nothing added afterward."
+      "What doesn’t factor in is the property type itself. A condo tower doesn’t cost more because of building logistics — those get planned for, not billed as an extra — and a larger house doesn’t cost more simply because of the neighbourhood it’s in. The figure is confirmed privately at a free walkthrough."
      ]
     },
     {
@@ -223,7 +223,7 @@
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
@@ -231,12 +231,12 @@
     {
      "t": "price",
      "label": "Toronto Estate Cleanout",
-     "value": "{{cad_125:suffix}}"
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
      "c": [
-      "Volume-priced and all-inclusive — sorting, carrying, hauling and disposal in one figure."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -347,7 +347,7 @@
        "Estate cleanouts in suites across the downtown core and every surrounding condo corridor"
       ],
       [
-       "COIs, freight elevator bookings and building rules handled before arrival"
+       "{{fact:licensedInsured}}"
       ],
       [
        "Discreet timing coordinated with concierge and management"
@@ -433,9 +433,6 @@
      "items": [
       [
        "Cleanouts arranged by adult children, siblings, or executors"
-      ],
-      [
-       "Regular updates and photo documentation for family members who can't be present"
       ],
       [
        "Coordination with realtors, lawyers or estate trustees where relevant"
@@ -690,7 +687,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — condo, established home and laneway estate cleanouts across Toronto and the GTA. The detail that comes up most: the quote given at the walkthrough held exactly, even once the crew got into the harder parts of the job."
+      "Google reviews — condo, established home and laneway estate cleanouts across Toronto and the GTA. The detail that comes up most: the quote given at the walkthrough held exactly, even once the crew got into the harder parts of the job."
      ]
     },
     {
@@ -827,7 +824,7 @@
        "q": "Can you handle an estate cleanout in a downtown condo tower?",
        "a": [
         [
-         "Yes, and it’s handled by the building’s book. COIs go to management at booking, freight elevators reserve ahead, and timing is arranged so hallways and common areas see nothing unusual."
+         "Yes, and it’s handled by the building’s book. {{fact:insuranceDocs}}."
         ]
        ]
       },

@@ -3,8 +3,6 @@
  */
 import type { ReactNode } from "react";
 import { FAQ_DEFAULT_TITLE, type FaqList } from "@content/designed/faqs";
-import Link from "next/link";
-import { HREF } from "@content/designed/routes";
 import { SITE } from "@content/designed/site";
 import type { Step } from "@content/designed/types";
 import { faqPage } from "@/components/designed/lib/schema";
@@ -66,9 +64,9 @@ export function PriceNote({ text }: { text: string }) {
     <div className="callout stack max-w-[72ch]">
       <p className="h4">{text}</p>
       <div className="btn-row">
-        <Link className="btn btn-primary btn-sm" href={HREF.contact}>
+        <a className="btn btn-primary btn-sm" href="#quote-form">
           Get a free quote
-        </Link>
+        </a>
         <a className="btn btn-ghost btn-sm" href={SITE.tel}>
           Call {SITE.phone}
         </a>

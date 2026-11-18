@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Hot Tub Removal Services in Mississauga from Live Junk Free — done safely and in one visit, draining, disconnecting, cutting apart and hauling away by an insured crew, quoted flat on site with a committed arrival window, and the space left clear the same day, seven days a week."
+     "text": "{{fact:nextAvailable}}"
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Nobleton is a village of people who build and fix their own projects, and hot tub removal is usually the one part they’d rather hand off. Around the village core, it’s a tub tucked behind a house, drained and cleared to make room for whatever’s actually planned next. On the big lots where owners run real workshops, it’s a tub cleared out of the way of a new build or a workshop expansion. Out on the surrounding concessions and hobby farms, it’s a tub left by a previous owner in a yard full of other projects, cleared alongside whatever else needs to go. And whatever the size — a single portable spa or a full six-seater — Live Junk Free prices it the same honest way, without a minimum charge inflating a small job. The 700+ five-star Google reviews behind Live Junk Free come from every one of those properties — a hot tub removal crew that drained it properly, cut it down safely without wrecking the deck underneath, and hauled every piece away the same visit."
+      "Nobleton is a village of people who build and fix their own projects, and hot tub removal is usually the one part they’d rather hand off. Around the village core, it’s a tub tucked behind a house, drained and cleared to make room for whatever’s actually planned next. On the big lots where owners run real workshops, it’s a tub cleared out of the way of a new build or a workshop expansion. Out on the surrounding concessions and hobby farms, it’s a tub left by a previous owner in a yard full of other projects, cleared alongside whatever else needs to go. And whatever the size — a single portable spa or a full six-seater — Live Junk Free prices it the same honest way, without a minimum charge inflating a small job. The Google reviews behind Live Junk Free come from every one of those properties — a hot tub removal crew that drained it properly, cut it down safely without wrecking the deck underneath, and hauled every piece away the same visit."
      ]
     },
     {
@@ -117,7 +117,7 @@
        "title": "One flat hot tub removal price — forecastable to the dollar",
        "text": [
         [
-         "A hot tub isn’t a normal junk item, and Live Junk Free’s quote reflects the real work: draining the water, disconnecting whatever needs disconnecting, cutting the shell into manageable sections, and hauling every piece away. All of it sits inside one written price agreed on site — no hourly clocks, no weight surprises, a number you can plan around."
+         "A hot tub isn’t a normal junk item, and Live Junk Free’s quote reflects the real work: draining the water, disconnecting whatever needs disconnecting, cutting the shell into manageable sections, and hauling every piece away."
         ]
        ]
       },
@@ -135,7 +135,7 @@
        "title": "Condo and tower terrace hot tub removal, run to the building's clock",
        "text": [
         [
-         "Rooftop and terrace hot tub removal in City Centre and other Mississauga towers gets handled by the book: COIs to management at booking, freight elevators reserved to the hour, common areas protected throughout, and the crew in and out inside the window the building granted — every time."
+         "{{fact:insuranceDocs}}."
         ]
        ]
       },
@@ -159,10 +159,10 @@
       },
       {
        "n": "06",
-       "title": "Independent hot tub removal pricing — 30–50% under the bigger outfits",
+       "title": "Independent hot tub removal pricing",
        "text": [
         [
-         "The national junk removal brands price hot tub removal with a franchise premium built in. Live Junk Free is locally owned with none of that markup — the reason identical hot tub removals in Mississauga invoice 30–50% lighter with us."
+         "The national junk removal brands price hot tub removal with a franchise premium built in."
         ]
        ]
       }
@@ -189,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "Pricing is set on site once the crew sees the tub’s size, condition and access — small portable spas price lower, full-size six-and-seven-seat tubs price accordingly, and rooftop or terrace access gets factored in honestly at the walkthrough rather than surcharged blindly. The number covers draining, cutting, hauling and responsible disposal or recycling as one figure, paired with an arrival window built to hold."
+      "Pricing is set on site once the crew sees the tub’s size, condition and access — small portable spas price lower, full-size six-and-seven-seat tubs price accordingly, and rooftop or terrace access gets factored in honestly at the walkthrough rather than surcharged blindly. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
      ]
     },
     {
@@ -211,7 +211,7 @@
     {
      "t": "price",
      "label": "Mississauga Hot Tub Removal Price",
-     "value": "{{cad_265}}"
+     "value": "Priced at your free onsite estimate"
     },
     {
      "t": "p",
@@ -259,7 +259,7 @@
        "title": "Book Your Hot Tub Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots are usually available, seven days a week, 6AM to 11PM. Tell us the tub’s rough size and location, including any building requirements if it’s a condo terrace."
+         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots are usually available. Tell us the tub’s rough size and location, including any building requirements if it’s a condo terrace."
         ]
        ]
       },
@@ -283,10 +283,10 @@
       },
       {
        "n": "04",
-       "title": "Your Space Is Clear the Same Day",
+       "title": "Your Space Is Clear",
        "text": [
         [
-         "The area where the tub sat gets left clean, with metal components, motors and pumps routed to recycling and the rest disposed of responsibly. Most Mississauga hot tub removals finish within a couple of hours, exactly when promised."
+         "The area where the tub sat gets left clean, with metal components, motors and pumps routed to recycling and the rest disposed of responsibly."
         ]
        ]
       }
@@ -327,10 +327,10 @@
        "Condo & Tower Terrace Hot Tub Removal in Mississauga"
       ],
       [
-       "COIs, freight elevator bookings and building rules handled before arrival"
+       "{{fact:licensedInsured}}"
       ],
       [
-       "COIs, freight elevator bookings and building rules handled before arrival"
+       "{{fact:licensedInsured}}"
       ]
      ]
     },
@@ -641,7 +641,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — heritage, waterfront, farmhouse and estate hot tub removals across Port Perry, Scugog and Durham Region."
+      "Google reviews — heritage, waterfront, farmhouse and estate hot tub removals across Port Perry, Scugog and Durham Region."
      ]
     },
     {
@@ -807,7 +807,7 @@
        "q": "Is it safe to remove a hot tub that's still wired to electrical?",
        "a": [
         [
-         "Yes, and it’s regular work for us on the concessions around the village. Long laneways are included at no extra charge, and crews work calmly around any animals or active operations on the property."
+         "Yes, and it’s regular work for us on the concessions around the village. {{fact:pricingIntro.extra}}"
         ]
        ]
       }

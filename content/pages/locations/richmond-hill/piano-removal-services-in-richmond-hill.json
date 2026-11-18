@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Piano Removal Services in Richmond Hill from Live Junk Free have to work in two directions at once — up, for the towers along Yonge Street where a piano might be twenty floors above the street, and inward, for the heritage homes around Mill Pond where the piano's been part of the house for generations. Live Junk Free handles both the same careful way, priced flat, seven days a week."
+     "text": "Piano Removal Services in Richmond Hill from Live Junk Free have to work in two directions at once — up, for the towers along Yonge Street where a piano might be twenty floors above the street, and inward, for the heritage homes around Mill Pond where the piano's been part of the house for generations. Live Junk Free handles both the same careful way, priced flat."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Most piano removal jobs come down to doorways and stairs. In Richmond Hill’s condo towers along the Yonge corridor, the job comes down to something most piano movers aren’t set up for at all — a freight elevator that has to be booked in advance, building management that needs a certificate of insurance before a crew sets foot in the lobby, and a piano that has to travel through common areas without leaving a mark on anything. Live Junk Free plans for all of that before the truck even shows up. Around Mill Pond and the town’s original streets, the challenge flips entirely — no elevator, but a piano that’s often been part of a heritage home for decades, in a house where the doorframes and trim deserve the same protection as the piano itself. In Bayview Hill and Beverley Acres, it’s a larger property where the piano might be one part of a bigger, more discreet job. Through Oak Ridges, it’s the more straightforward version, handled with the same standard either way."
+      "Most piano removal jobs come down to doorways and stairs. {{fact:insuranceDocs}}. Live Junk Free plans for all of that before the truck even shows up. Around Mill Pond and the town’s original streets, the challenge flips entirely — no elevator, but a piano that’s often been part of a heritage home for decades, in a house where the doorframes and trim deserve the same protection as the piano itself. In Bayview Hill and Beverley Acres, it’s a larger property where the piano might be one part of a bigger, more discreet job. Through Oak Ridges, it’s the more straightforward version, handled with the same standard either way."
      ]
     },
     {
@@ -110,7 +110,7 @@
     {
      "t": "p",
      "c": [
-      "Yes — and it’s one of the few genuinely specialized services in the city set up to do it properly. Certificates of insurance go to building management at booking, freight elevators reserve ahead, and the piano is disassembled and carried through common areas without a mark left behind."
+      "Yes — and it’s one of the few genuinely specialized services in the city set up to do it properly. {{fact:insuranceDocs}}."
      ]
     }
    ]
@@ -134,7 +134,7 @@
        "title": "Condo and tower-compliant piano removal, planned in advance",
        "text": [
         [
-         "COIs, freight elevator bookings and building rules are handled before arrival, so the move happens without a single note for the concierge or a delay caused by paperwork nobody thought about."
+         "{{fact:insuranceDocs}}."
         ]
        ]
       },
@@ -167,7 +167,7 @@
       },
       {
        "n": "06",
-       "title": "Independent pricing, 30–50% under the bigger outfits",
+       "title": "Independent pricing",
        "text": [
         [
          "National moving and junk removal franchises build a royalty into every quote. Live Junk Free carries none of that overhead."
@@ -198,7 +198,7 @@
     {
      "t": "p",
      "c": [
-      "What changes that baseline meaningfully in Richmond Hill is the building itself, not the piano. A condo tower job adds real logistics on top of the physical move — COIs filed with management, a freight elevator booked to a specific window, common areas protected the whole way through. A heritage home near Mill Pond adds the opposite kind of complexity — narrower original doorframes, trim that needs protecting, a pace that respects the age of the house. A larger Bayview Hill property might mean the piano is only one part of a bigger, more discreet visit. None of that shows up as a separate charge. It gets identified honestly at the free walkthrough and folded into the number that holds through to the invoice."
+      "What changes that baseline meaningfully in Richmond Hill is the building itself, not the piano. {{fact:insuranceDocs}}. A heritage home near Mill Pond adds the opposite kind of complexity — narrower original doorframes, trim that needs protecting, a pace that respects the age of the house. A larger Bayview Hill property might mean the piano is only one part of a bigger, more discreet visit. None of that shows up as a separate charge."
      ]
     },
     {
@@ -220,7 +220,7 @@
     {
      "t": "price",
      "label": "Richmond Hill Piano Removal",
-     "value": "{{cad_265}}"
+     "value": "Priced at your free onsite estimate"
     },
     {
      "t": "p",
@@ -286,7 +286,7 @@
       },
       {
        "n": "04",
-       "title": "Hauled Out, Same Day",
+       "title": "Hauled Out",
        "text": [
         [
          "The piano leaves for donation where it still qualifies, or routes to responsible recycling where it doesn’t, with the space checked and left clear before the crew goes."
@@ -324,7 +324,7 @@
        "Piano removal in suites across the Yonge corridor"
       ],
       [
-       "COIs, freight elevator bookings and building rules handled before arrival"
+       "{{fact:licensedInsured}}"
       ],
       [
        "Careful disassembly and carry-down technique for suites without ground access"
@@ -674,7 +674,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — condo, heritage and estate piano removals across Richmond Hill and the GTA. The comment that comes up most from tower residents specifically: the building never had a single issue with the move."
+      "Google reviews — condo, heritage and estate piano removals across Richmond Hill and the GTA. The comment that comes up most from tower residents specifically: the building never had a single issue with the move."
      ]
     },
     {
@@ -812,7 +812,7 @@
        "q": "Can you remove a piano from a Yonge Street condo tower?",
        "a": [
         [
-         "Yes, and it’s handled by the building’s book. COIs go to management at booking, freight elevators reserve ahead, and the piano is disassembled and carried through common areas without a mark left behind."
+         "Yes, and it’s handled by the building’s book. {{fact:insuranceDocs}}."
         ]
        ]
       },
@@ -868,7 +868,7 @@
        "q": "Can you remove a piano the same day I call?",
        "a": [
         [
-         "Often, yes — trucks run seven days a week, 6AM to 11PM."
+         "{{fact:sameDay}}."
         ]
        ]
       }

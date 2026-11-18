@@ -5,8 +5,8 @@
  "type": "location-town",
  "template": "TownHub",
  "seo": {
-  "title": "Junk Removal Whitby | Same-Day Junk Removal Services",
-  "description": "Looking for reliable junk removal in Whitby? Live Junk Free offers same-day junk removal, furniture removal, tenant cleanouts, and debris removal. Get a free estimate today.",
+  "title": "Junk Removal Whitby | Junk Removal Services",
+  "description": "Looking for reliable junk removal in Whitby? Live Junk Free offers same-day junk removal when available, furniture removal, tenant cleanouts, and debris removal. Get a free estimate today.",
   "canonical": "https://livejunkfree.ca/locations/whitby/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
  },
@@ -46,7 +46,7 @@
         "Live Junk Free"
        ]
       },
-      " is Whitby’s trusted local junk removal service provider company — locally operated, fully insured and built to clear every type of property across every Whitby neighbourhood, fast and professionally. We come to your Whitby property, assess everything in person, give you a completely free on-site estimate before touching a single item, and if you’re ready, your clutter is cleared the same day. No complicated process. No surprise charges. No dragging it out."
+      " is Whitby’s trusted local junk removal service provider company — locally operated, fully insured and built to clear every type of property across every Whitby neighbourhood, fast and professionally. We come to your Whitby property, assess everything in person, give you a completely free on-site estimate before touching a single item, and if you’re ready, your clutter is cleared the same day. No complicated process.. No dragging it out."
      ]
     },
     {
@@ -145,7 +145,7 @@
      "items": [
       {
        "n": "03",
-       "title": "One all-inclusive flat-rate number",
+       "title": "One flat-rate number",
        "text": []
       }
      ]
@@ -153,7 +153,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Labour, truck, fuel, disposal — inside that one number. No additional charges for Whitby or Brooklin addresses. No Durham Region travel fees. No \"disposal premium\" waiting at the end. One number, everything covered, nothing hidden."
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} No Durham Region travel fees. No \"disposal premium\" waiting at the end. One number, everything covered, nothing hidden."
     },
     {
      "t": "steps",
@@ -175,7 +175,7 @@
      "items": [
       {
        "n": "05",
-       "title": "You approve it, it's locked",
+       "title": "{{fact:competitorComparison}}",
        "text": []
       }
      ]
@@ -190,7 +190,7 @@
      "items": [
       {
        "n": "06",
-       "title": "30–50% less than franchise competitors",
+       "title": "",
        "text": []
       }
      ]
@@ -217,7 +217,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Our pricing is designed to make complete sense — from the moment we hand you the quote to the moment we hand you the invoice. Prices start as low as {{cad_125}} for small loads. Get your free Whitby junk removal estimate today — pricing that actually makes sense."
+     "text": "Our pricing is designed to make complete sense — from the moment we hand you the quote to the moment we hand you the invoice. Prices start as low as {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). Get your free Whitby junk removal estimate today — pricing that actually makes sense."
     },
     {
      "t": "cards",
@@ -260,7 +260,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The most straightforward promise in Whitby junk removal: book today, wake up to a clutter-free property tomorrow. Our same-day and next-day junk removal process in Whitby, Ontario is built around delivering exactly that — from your first call to a completely cleared, swept-clean space. Here's the complete 4-step process:"
+     "text": "The most straightforward promise in Whitby junk removal: book today, wake up to a clutter-free property tomorrow. Our same-day and next-day junk removal process in Whitby, Ontario is built around delivering exactly that — from your first call to a completely cleared, swept-clean space, subject to scheduling. Here's the complete 4-step process:"
     },
     {
      "t": "cards",
@@ -268,13 +268,13 @@
       {
        "title": "Book Your Pickup",
        "text": [
-        "Call +1 647 922 5865 or book online in minutes. We'll confirm your same-day or next-day appointment and provide a 30-minute arrival notice before we arrive."
+        "Call +1 647 922 5865 or book online in minutes. We'll confirm your same-day or next-day appointment when available and provide a 30-minute arrival notice before we arrive."
        ]
       },
       {
        "title": "Get a Fair, Upfront Quote",
        "text": [
-        "Our crew arrives on time, assesses everything that needs removal, and provides one clear, all-inclusive quote. No hidden fees and no obligation to proceed."
+        "Our crew arrives on time, assesses everything that needs removal, and provides one clear, quote. and no obligation to proceed."
        ]
       },
       {
@@ -621,7 +621,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -651,7 +651,7 @@
        "q": "Q: How much does junk removal cost in Whitby, Ontario?",
        "a": [
         [
-         "A: Our Whitby junk removal pricing is volume-based and designed to make complete sense — you pay based on how much space your items fill in our truck, not by the hour. No Durham Region premiums, no hidden fees. Prices start at $125 for small loads. We provide a completely free on-site estimate before any work begins — the price you approve is exactly what you pay."
+         "A: Our Whitby junk removal pricing is volume-based and designed to make complete sense — you pay based on how much space your items fill in our truck, not by the hour. No Durham Region premiums. Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard)."
         ]
        ]
       },
@@ -659,7 +659,7 @@
        "q": "Q: Do you offer same-day junk removal in Whitby?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of Whitby including Pringle Creek, Port Whitby, Rolling Acres, Brooklin, Taunton North, Williamsburg and all surrounding Durham Region communities. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+         "A: Yes — same-day junk removal is available across all of Whitby including Pringle Creek, Port Whitby, Rolling Acres, Brooklin, Taunton North, Williamsburg and all surrounding Durham Region communities. Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },
@@ -675,7 +675,7 @@
        "q": "Q: Do you serve Brooklin as well as Whitby proper?",
        "a": [
         [
-         "A: Yes — we serve all of Whitby municipality including Brooklin, Port Whitby, Pringle Creek, Rolling Acres, Williamsburg, Taunton North, Fallingbrook, Country Lane and every neighbourhood across the city. Brooklin properties are priced the same as any other Whitby location — by volume, with no area premiums."
+         "A: Yes — we serve all of Whitby municipality including Brooklin, Port Whitby, Pringle Creek, Rolling Acres, Williamsburg, Taunton North, Fallingbrook, Country Lane and every neighbourhood across the city."
         ]
        ]
       },
@@ -691,7 +691,7 @@
        "q": "Q: Are you a local Whitby company or a national franchise?",
        "a": [
         [
-         "A: We are 100% locally owned and operated — not a franchise. No franchise royalties means our Whitby pricing is consistently 30–50% lower than national junk removal chains for the same or better quality of service."
+         "A: We are 100% locally owned and operated — not a franchise."
         ]
        ]
       },

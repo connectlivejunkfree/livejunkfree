@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -69,7 +69,7 @@
     {
      "t": "p",
      "c": [
-      "We start with a free, transparent quote, so you know exactly what to expect, with no hidden fees. Serving your area, we prioritize fast, affordable, and sustainable removal so you can reclaim your workspace without the hassle."
+      "Serving your area, we prioritize fast, affordable, and sustainable removal so you can reclaim your workspace without the hassle."
      ]
     },
     {
@@ -102,7 +102,7 @@
     {
      "t": "p",
      "c": [
-      "Getting rid of old filing cabinets shouldn’t be stressful. Our professional removal service starts at just {{cad_125}}, and we handle everything for you. We carefully remove cabinets from offices, basements, or tight spaces, haul them away, and leave your area clean and clutter-free. No heavy lifting, no mess – just a quick and easy solution."
+      "Getting rid of old filing cabinets shouldn’t be stressful. Our professional removal service starts at just {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), and we handle everything for you. We carefully remove cabinets from offices, basements, or tight spaces, haul them away, and leave your area clean and clutter-free. No heavy lifting, no mess – just a quick and easy solution."
      ]
     },
     {
@@ -130,7 +130,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -144,7 +144,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Local Same-Day Filing Cabinet Removal"
+     "text": "Local Filing Cabinet Removal"
     },
     {
      "t": "p",
@@ -155,7 +155,7 @@
     {
      "t": "p",
      "c": [
-      "We know how quickly you need solutions – whether you’re updating your workspace, moving locations, or just want to free up valuable office real estate. That’s why we offer flexible same-day and next-day appointments to meet your urgent timeline needs."
+      "We know how quickly you need solutions – whether you’re updating your workspace, moving locations, or just want to free up valuable office real estate. That’s why we offer flexible same-day and next-day appointments to meet your urgent timeline needs, subject to scheduling."
      ]
     },
     {
@@ -187,9 +187,6 @@
       ],
       [
        "Responsible recycling of all materials"
-      ],
-      [
-       "Complete the air dust of your workspace"
       ]
      ]
     },
@@ -198,7 +195,7 @@
      "c": [
       {
        "b": [
-        "We offer same-day Cabinet Removal."
+        "We offer same-day when available Cabinet Removal."
        ]
       }
      ]
@@ -218,13 +215,13 @@
       {
        "title": "Flexible Scheduling",
        "text": [
-        "We accommodate your business hours with after-hours and weekend slots available. Same-day services for urgent requests."
+        "{{fact:scheduling}} Same-day services when available for urgent requests."
        ]
       },
       {
-       "title": "All-Inclusive Pricing",
+       "title": "Pricing",
        "text": [
-        "Your upfront quote covers complete service: disassembly, removal, and eco-disposal with no hidden costs"
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -234,13 +231,13 @@
        ]
       },
       {
-       "title": "Damage-Free Guarantee",
+       "title": "Careful Removal",
        "text": [
-        "Our team uses floor protection and specialized equipment to safeguard your workspace"
+        "{{fact:propertyProtection}}"
        ]
       },
       {
-       "title": "Volume Discounts",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         "Cost-effective solutions for multi-unit removals and full office cleanouts"
        ]
@@ -296,7 +293,7 @@
      "t": "ul",
      "items": [
       [
-       "Metal Recycling Program: We carefully dismantle and recycle all steel components through certified facilities"
+       "Metal Recycling Program: We carefully dismantle and recycle all steel components through recycling facilities"
       ],
       [
        "Community Donations: Usable cabinets find new homes in schools, nonprofits, and startups"
@@ -342,13 +339,13 @@
      "t": "ul",
      "items": [
       [
-       "Pay Only for What We Take – No hidden fees or service charges"
+       "Pay Only for What We Take or service charges"
       ],
       [
        "Free On-Spot Quotes – Get accurate estimates by phone, text, or online in minutes"
       ],
       [
-       "Volume Discounts – Special pricing when clearing multiple cabinets or office furniture"
+       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -399,13 +396,13 @@
       {
        "title": "Get Your Price",
        "text": [
-        "Receive fair, transparent pricing with no hidden fees or surprises"
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Choose Your Time",
        "text": [
-        "Pick a same-day or next-day removal that fits your schedule"
+        "Pick a same-day or next-day removal when available that fits your schedule"
        ]
       },
       {
@@ -488,7 +485,7 @@
        "q": "How much does filing cabinet removal cost?",
        "a": [
         [
-         "Costs vary by size or quantity, but most standard 4-drawer units start from 125$ to remove. We provide free exact quotes with no hidden fees."
+         "Costs vary by size or quantity, but most standard 4-drawer units start from 125$ to remove."
         ]
        ]
       }

@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Hot Tub Removal Services in Richmond Hill from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub, from a Yonge Street tower suite to a Bayview Hill estate, quoted flat on site, seven days a week."
+     "text": "Hot Tub Removal Services in Richmond Hill from Live Junk Free — an insured crew drains, disconnects, cuts apart and hauls away any hot tub, from a Yonge Street tower suite to a Bayview Hill estate, quoted flat on site."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -123,7 +123,7 @@
        "title": "Condo and terrace removal, by the building's book",
        "text": [
         [
-         "Rooftop and terrace hot tub removal in Yonge corridor towers gets handled properly — COIs filed, freight elevators booked, the crew in and out inside the window the building grants."
+         "{{fact:insuranceDocs}}."
         ]
        ]
       },
@@ -159,13 +159,13 @@
        "title": "Environmentally conscious removal near the Oak Ridges Moraine",
        "text": [
         [
-         "Work stays inside the approved footprint and drainage gets respected — no additional charge for the extra care."
+         "{{fact:pricingIntro.extra}}"
         ]
        ]
       },
       {
        "n": "06",
-       "title": "Independent pricing, 30–50% under the bigger outfits",
+       "title": "Independent pricing",
        "text": [
         [
          "National junk removal franchises build a royalty into every quote. Live Junk Free carries none of that overhead."
@@ -223,7 +223,7 @@
     {
      "t": "price",
      "label": "Richmond Hill Hot Tub Removal Price",
-     "value": "{{cad_265}}"
+     "value": "Priced at your free onsite estimate"
     },
     {
      "t": "p",
@@ -256,7 +256,7 @@
     {
      "t": "p",
      "c": [
-      "A hot tub removal appointment follows four steps: booking, a free on-site quote, the drain-and-cut-out process, and same-day haul-away. Most jobs finish within a couple of hours."
+      "A hot tub removal appointment follows four steps: booking, a free on-site quote, the drain-and-cut-out process, and same-day haul-away when available."
      ]
     }
    ]
@@ -295,7 +295,7 @@
       },
       {
        "n": "04",
-       "title": "Your Space Is Clear the Same Day",
+       "title": "Your Space Is Clear",
        "text": [
         [
          "Metal components, motors and pumps are routed to recycling and the rest is disposed of responsibly."
@@ -336,7 +336,7 @@
      "t": "ul",
      "items": [
       [
-       "For Yonge corridor suites: COIs, freight elevator bookings and building rules handled before arrival."
+       "{{fact:licensedInsured}}"
       ]
      ]
     },
@@ -379,7 +379,7 @@
      "t": "ul",
      "items": [
       [
-       "For properties near the moraine: environmentally conscious removal at no added cost."
+       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -629,7 +629,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — heritage, waterfront, farmhouse and estate hot tub removals across Port Perry, Scugog and Durham Region."
+      "Google reviews — heritage, waterfront, farmhouse and estate hot tub removals across Port Perry, Scugog and Durham Region."
      ]
     },
     {
@@ -771,7 +771,7 @@
        "q": "Can you remove a hot tub from a Yonge Street condo tower?",
        "a": [
         [
-         "Yes, and it’s handled by the building’s book. COIs go to management at booking, freight elevators reserve ahead, and the tub is cut down and carried through common areas without a mark left behind."
+         "Yes, and it’s handled by the building’s book. {{fact:insuranceDocs}}."
         ]
        ]
       },

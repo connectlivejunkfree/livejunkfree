@@ -57,7 +57,7 @@ export const CATEGORIES: Record<CategoryKey, Category> = {
     slug: "junk-demolition-services",
     template: "demolition",
     h1: "Junk demolition",
-    lead: "Decks, sheds, fences, hot tubs and playsets, torn down and hauled away the same day.",
+    lead: "Decks, sheds, fences, hot tubs and playsets, taken down and hauled away.",
     card: { title: "Demolition", text: "Decks, sheds, fences, hot tubs", icon: "hammer", image: "deckAfter" },
   },
 };
@@ -114,7 +114,7 @@ const RESIDENTIAL: Row[] = [
 ];
 
 const COMMERCIAL: Row[] = [
-  ["Business cleanouts", "business-cleanout-services", "Office cleanouts"],
+  ["Business cleanouts", "business-cleanout-services", "Business cleanout services"],
   ["Computers", "computer-removal-services", "Computer removal"],
   ["Electronics", "electronics-removal-services", "Electronics removal"],
   ["Monitors", "monitor-removal-services", "Monitor removal"],
@@ -143,7 +143,7 @@ const CLEANOUTS: Row[] = [
 const DEMOLITION: Row[] = [
   ["Above-ground pools", "above-ground-pool-demolition-services", "Above-ground pool removal"],
   ["Concrete", "concrete-demolition-services", "Concrete removal"],
-  ["Decks", "deck-demolition-services", "Deck removal"],
+  ["Decks", "deck-demolition-services", "Deck demolition"],
   ["Fences", "fence-demolition-services", "Fence removal"],
   ["Garages", "garage-demolition-services", "Garage demolition"],
   ["Gazebos", "gazebo-demolition-services", "Gazebo removal"],

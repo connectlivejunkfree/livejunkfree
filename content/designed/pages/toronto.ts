@@ -1,3 +1,4 @@
+import { fact } from "@/lib/content/facts";
 import { FAQS } from "../faqs";
 import { TOP_AREAS } from "../locations";
 import { cityLinks } from "../nav";
@@ -10,7 +11,7 @@ export const TORONTO: LocationContent = {
   hero: {
     h1: "Junk removal in Toronto",
     lead: "From downtown condos on King Street to detached homes in Willowdale, we come to your Toronto property, assess everything in person and hand you a free on-site estimate before touching a single item.",
-    ticks: ["Same-day junk removal, 7 days a week, 6AM to 11PM", "Condo-ready: elevator booking and loading docks", "Free on-site estimate before any work begins"],
+    ticks: [fact("sameDay", "short"), "Condo moves: tell us your elevator and loading dock booking", "Free on-site estimate before any work begins"],
     image: "crewAbout",
     alt: "Live Junk Free crew loading the truck in Toronto",
   },
@@ -20,7 +21,7 @@ export const TORONTO: LocationContent = {
     panels: [
       {
         title: "Condo towers",
-        text: "For condo and high-rise buildings across downtown Toronto, Midtown, North York and beyond — elevator booking and building coordination is included in your quote.",
+        text: `For condo and high-rise buildings across downtown Toronto, Midtown, North York and beyond. ${fact("accessCoordination")}`,
       },
       {
         title: "Priced by volume",
@@ -42,7 +43,7 @@ export const TORONTO: LocationContent = {
       { label: "Couch removal", href: HREF.couch, icon: "sofa" },
       { label: "Condo cleanouts", href: svc("apartment-cleanouts-services"), icon: "building" },
       { label: "Estate cleanouts", href: HREF.estate, icon: "heart" },
-      { label: "Office cleanouts", href: HREF.office, icon: "file" },
+      { label: "Office cleanouts", href: "/services/junk-cleanout-services/office-cleanout-services/", icon: "file" },
     ],
   },
   reviews: REVIEW_SETS.toronto,

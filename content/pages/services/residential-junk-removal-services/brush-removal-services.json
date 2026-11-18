@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -115,7 +115,7 @@
     {
      "t": "p",
      "c": [
-      "For invasive shrubs, fallen branches, or snow removal brush in car areas, our professional same-day brush removal service ensures thorough cleanup. No heavy lifting, no mess, just seamless removal from start to finish."
+      "For invasive shrubs, fallen branches, or snow removal brush in car areas, our professional same-day brush removal service ensures thorough cleanup, subject to scheduling. No heavy lifting, no mess, just seamless removal from start to finish."
      ]
     },
     {
@@ -143,7 +143,7 @@
        "b": [
         {
          "i": [
-          "Calls answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -169,13 +169,13 @@
         "Live Junk Free"
        ]
       },
-      ", our specialized same-day brush removal service eliminates all the hassle, providing a complete solution from initial cutting to final eco-friendly disposal."
+      ", our specialized same-day brush removal service eliminates all the hassle, providing a complete solution from initial cutting to final eco-friendly disposal, subject to scheduling."
      ]
     },
     {
      "t": "p",
      "c": [
-      "We understand the importance of prompt brush clearing, whether you’re preparing your property for sale, maintaining your landscape after winter (including snow removal brush car areas), or simply reclaiming your outdoor space. That’s why we offer flexible same-day and next-day pickup options to meet your specific timeline needs."
+      "We understand the importance of prompt brush clearing, whether you’re preparing your property for sale, maintaining your landscape after winter (including snow removal brush car areas), or simply reclaiming your outdoor space. That’s why we offer flexible same-day and next-day pickup options to meet your specific timeline needs, subject to scheduling."
      ]
     },
     {
@@ -212,7 +212,7 @@
      "c": [
       {
        "b": [
-        "We Offer Same-Day Brush Removal"
+        "We Offer Brush Removal"
        ]
       }
      ]
@@ -230,21 +230,21 @@
      "t": "cards",
      "items": [
       {
-       "title": "Multi-Service Savings",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         "– Save when combining brush removal with other yard services – perfect for property cleanouts or landscaping renovations"
        ]
       },
       {
-       "title": "Damage-Free Guarantee",
+       "title": "Careful Removal",
        "text": [
         "– Our professional equipment and techniques protect your property during removal"
        ]
       },
       {
-       "title": "24/7 Scheduling",
+       "title": "{{fact:nextAvailable}}",
        "text": [
-        "– Available weekends and evenings with emergency same-day service for storm damage or urgent brush snow removal needs"
+        "{{fact:nextAvailable}}"
        ]
       },
       {
@@ -260,7 +260,7 @@
        ]
       },
       {
-       "title": "Certified Professionals",
+       "title": "Insured Professionals",
        "text": [
         "Fully insured teams trained in safe brush handling"
        ]
@@ -274,7 +274,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Our Same-day Brush Removal Process – What to Expect"
+     "text": "Our Same-day when available Brush Removal Process – What to Expect"
     },
     {
      "t": "h",
@@ -346,10 +346,10 @@
      "t": "ul",
      "items": [
       [
-       "Free Instant Quotes – Get accurate estimates by phone, text, or online in minutes"
+       "{{fact:freeOnsiteEstimates}}"
       ],
       [
-       "Flat-Rate Pricing – Know your total cost upfront with no surprise fees"
+       "Flat-Rate Pricing – Know your total cost upfront"
       ],
       [
        "Area Discounts – Special savings for large property clearings and bulk brush removal"
@@ -429,7 +429,7 @@
       {
        "title": "Get Your Quote",
        "text": [
-        "Receive a fair, transparent price for brush removal, including cutting, hauling, and eco-friendly disposal. No hidden fees"
+        "{{fact:competitorComparison}}"
        ]
       },
       {

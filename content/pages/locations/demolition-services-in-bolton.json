@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Demolition Services in Bolton from Live Junk Free bring real muscle to a heavy job — a full above ground pool, a big garage, a concrete pad — and just as much care to a small one behind a Queen Street heritage home, torn down and hauled away the same day either way."
+     "text": "Demolition Services in Bolton from Live Junk Free bring real muscle to a heavy job — a full above ground pool, a big garage, a concrete pad — and just as much care to a small one behind a Queen Street heritage home, torn down and hauled away the same day either way, subject to scheduling."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Bolton asks for a wider range from a demolition crew than most towns its size. In North Hill and South Hill’s established subdivisions, it’s the standard job — an above ground pool, a deck or a garage torn down ahead of a backyard renovation the family’s finally getting to. Around the Queen Street core, it’s smaller and slower work, done with real patience around century-old buildings that deserve it. On the rural concessions past town, it’s fence lines and outbuildings, sometimes several across one property, cleared without a rural surcharge tacked on for the drive. And near the industrial south end, it’s the occasional bigger residential structure that needs real crew size and equipment to bring down properly. The 700+ five-star reviews behind Live Junk Free describe both ends of that range — heavy work handled with proper technique, delicate work handled with real patience."
+      "Bolton asks for a wider range from a demolition crew than most towns its size. In North Hill and South Hill’s established subdivisions, it’s the standard job — an above ground pool, a deck or a garage torn down ahead of a backyard renovation the family’s finally getting to. Around the Queen Street core, it’s smaller and slower work, done with real patience around century-old buildings that deserve it. On the rural concessions past town, it’s fence lines and outbuildings, sometimes several across one property, cleared without a rural surcharge tacked on for the drive. And near the industrial south end, it’s the occasional bigger residential structure that needs real crew size and equipment to bring down properly. The Google reviews behind Live Junk Free describe both ends of that range — heavy work handled with proper technique, delicate work handled with real patience."
      ]
     },
     {
@@ -159,10 +159,10 @@
       },
       {
        "n": "06",
-       "title": "Independent demolition pricing — 30–50% under the bigger outfits",
+       "title": "Independent demolition pricing",
        "text": [
         [
-         "National franchises build a royalty into every quote, and some add a rural surcharge on top. Live Junk Free does neither, which typically puts identical demolition jobs 30–50% lower here."
+         "National franchises build a royalty into every quote, and some add a rural surcharge on top."
         ]
        ]
       }
@@ -189,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "Size, material and how the structure needs to come apart determine the number — a fence section is inexpensive; a full above ground pool, garage or concrete pad costs more given the crew time and equipment involved. The figure is confirmed at the walkthrough and holds through to the invoice, with no rural or heavy-structure premium added on top."
+      "Size, material and how the structure needs to come apart determine the number — a fence section is inexpensive; a full above ground pool, garage or concrete pad costs more given the crew time and equipment involved."
      ]
     },
     {
@@ -203,7 +203,7 @@
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
@@ -211,7 +211,7 @@
     {
      "t": "price",
      "label": "Bolton Demolition Quotes",
-     "value": "{{cad_125:suffix}}"
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
@@ -283,10 +283,10 @@
       },
       {
        "n": "04",
-       "title": "Site Cleared, Debris Hauled the Same Day",
+       "title": "Site Cleared, Debris Hauled",
        "text": [
         [
-         "Metal goes to recyclers, other materials disposed of properly. Most single-structure demolition jobs finish within a few hours."
+         "Metal goes to recyclers, other materials disposed of properly."
         ]
        ]
       }
@@ -653,7 +653,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — mezzanine tear-downs, century-home gut-outs and barn removals across Bolton, Caledon and the GTA."
+      "Google reviews — mezzanine tear-downs, century-home gut-outs and barn removals across Bolton, Caledon and the GTA."
      ]
     },
     {
@@ -986,7 +986,7 @@
        "q": "How much does demolition cost in Bolton?",
        "a": [
         [
-         "One flat written number per project, scoped free on site, covering labour, tear-out, loading, trucking and all disposal. Nothing meters hourly, nothing bills by weight, and the approved figure holds regardless of what the cavity, crawlspace or hayloft was hiding."
+         "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Nothing meters hourly, nothing bills by weight, and the approved figure holds regardless of what the cavity, crawlspace or hayloft was hiding."
         ]
        ]
       },
@@ -1002,7 +1002,7 @@
        "q": "How careful are you around Queen Street's older buildings?",
        "a": [
         [
-         "Cleanly and patiently — it’s messier than drywall and punishes rushed crews. We seal the zone, strip plaster and lath in controlled passes, protect the original trim and floors that stay, and haul the surprisingly heavy debris the same day."
+         "Cleanly and patiently — it’s messier than drywall and punishes rushed crews. We seal the zone, strip plaster and lath in controlled passes, protect the original trim and floors that stay, and haul the surprisingly heavy debris the same day, subject to scheduling."
         ]
        ]
       },

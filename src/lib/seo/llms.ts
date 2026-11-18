@@ -2,27 +2,31 @@
  * llms.txt / llms-full.txt (generative-engine optimisation). Built only from
  * facts already on the site: content/site.json and each page's own copy.
  */
-import { builtRows, getDoc, site, type ManifestRow } from "@/lib/content";
+import { builtRows, fact, getDoc, resolvePrices, site, type ManifestRow } from "@/lib/content";
 import { summary } from "@/lib/content/page";
 import { blockText } from "@/lib/content/text";
 import { inlinePlainText } from "./text";
 import { abs } from "./schema";
 
 const tidy = (t: string) => t.replace(/\s*[-|–]\s*Live\s?Junk\s?Free.*$/i, "").trim();
-const line = (r: ManifestRow) => `- [${tidy(r.title)}](${abs(r.path)})${r.description ? `: ${r.description}` : ""}`;
+// The page's own (rule-processed) description, not the manifest's copy of the original WordPress text.
+const line = (r: ManifestRow) => {
+  const doc = getDoc(r.path);
+  const d = doc?.seo?.description ?? r.description;
+  return `- [${tidy(doc?.seo?.title || doc?.title || r.title)}](${abs(r.path)})${d ? `: ${d}` : ""}`;
+};
 
 export function llmsTxt(): string {
   const rows = builtRows();
   const pick = (t: string) => rows.filter((r) => r.type === t);
-  return `# ${site.name}
+  return resolvePrices(`# ${site.name}
 
-> ${site.name} provides residential and commercial junk removal, cleanouts and demolition across the Greater Toronto Area (Ontario, Canada). Phone ${site.phone.display}, email ${site.email}. Hours: ${site.hours.display}. Rated ${site.rating.display}/5 from ${site.rating.countDisplay} Google reviews.
+> ${site.name} provides residential and commercial junk removal, cleanouts and demolition across the Greater Toronto Area (Ontario, Canada). Phone ${site.phone.display}, email ${site.email}. ${fact("businessHours")}. ${fact("sameDay")}.
 
 ## Contact
 - Phone: ${site.phone.display} (tel:${site.phone.tel})
 - Email: ${site.email}
 - Book online: ${abs("/contact/")}
-- Hours: ${site.hours.display}
 - Google Business Profile: ${site.googleBusinessProfile}
 
 ## Service areas (Ontario, Canada)
@@ -39,7 +43,7 @@ ${pick("core").map(line).join("\n")}
 
 ## Optional
 - [Full page summaries and FAQs](${abs("/llms-full.txt")})
-`;
+`);
 }
 
 export function llmsFullTxt(): string {
@@ -57,7 +61,8 @@ export function llmsFullTxt(): string {
       .filter(Boolean)
       .join("\n");
   });
-  return `# ${site.name} — page summaries\n\nEvery summary is quoted from the page itself. Phone ${site.phone.display}.\n\n${parts.join("\n\n")}\n`;
+  // {{fact:…}} / {{min_price}} tokens resolve exactly as they do on the pages.
+  return resolvePrices(`# ${site.name} — page summaries\n\nEvery summary is quoted from the page itself. Phone ${site.phone.display}.\n\n${parts.join("\n\n")}\n`);
 }
 
 export { blockText };

@@ -5,8 +5,8 @@
  "type": "location-town",
  "template": "TownHub",
  "seo": {
-  "title": "Junk Removal Oshawa | Same-Day Junk Removal Services",
-  "description": "Looking for reliable junk removal in Oshawa? Live Junk Free offers fast, affordable, and same-day junk removal services for homes, businesses, and construction cleanups across Durham Region.",
+  "title": "Junk Removal Oshawa | Junk Removal Services",
+  "description": "Looking for reliable junk removal in Oshawa? Live Junk Free offers fast, affordable, and same-day junk removal when available services for homes, businesses, and construction cleanups across Durham Region.",
   "canonical": "https://livejunkfree.ca/locations/oshawa/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Bolton-1.png"
@@ -54,7 +54,7 @@
     {
      "t": "p",
      "c": [
-      "From North Oshawa and Downtown Oshawa to Lakeview, Courtice, Whitby, Ajax, Bowmanville, and Pickering, our trucks are on the road daily helping homeowners, landlords, contractors, and businesses clear unwanted clutter fast. We provide junk hauling services in Oshawa Ontario 7 days a week with flexible scheduling and free estimate junk removal Oshawa residents can trust."
+      "From North Oshawa and Downtown Oshawa to Lakeview, Courtice, Whitby, Ajax, Bowmanville, and Pickering, our trucks are on the road daily helping homeowners, landlords, contractors, and businesses clear unwanted clutter fast."
      ]
     },
     {
@@ -168,7 +168,7 @@
      "items": [
       {
        "n": "04",
-       "title": "All-Inclusive Quotes",
+       "title": "Quotes",
        "text": []
       }
      ]
@@ -176,7 +176,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Labour, loading, transportation, disposal, recycling, and cleanup are included in your upfront quote with no hidden charges."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "steps",
@@ -198,7 +198,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Same-Day Junk Pickup",
+       "title": "Junk Pickup",
        "text": []
       }
      ]
@@ -271,7 +271,7 @@
       {
        "title": "Book Your Oshawa Pickup",
        "text": [
-        "Call us or use our online booking form to schedule same day junk removal Oshawa or next-day service anywhere in Oshawa, Whitby, Ajax, Bowmanville, Courtice, or Pickering."
+        "Call us or use our online booking form to schedule same day junk removal when available Oshawa or next-day service anywhere in Oshawa, Whitby, Ajax, Bowmanville, Courtice, or Pickering."
        ]
       },
       {
@@ -592,7 +592,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },

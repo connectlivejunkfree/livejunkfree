@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -69,7 +69,7 @@
     {
      "t": "p",
      "c": [
-      "First, we provide a free, upfront quote with zero hidden charges. Once you give us the go-ahead, our team will arrive at your preferred time, remove the paper clutter safely and efficiently, and leave the area spotless. Most jobs take less than an hour."
+      "Once you give us the go-ahead, our team will arrive at your preferred time, remove the paper clutter safely and efficiently, and leave the area tidy. Most jobs take less than an hour."
      ]
     },
     {
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "Stacks of paper piling up? Our service starts at just {{cad_125}}, and we handle it all for you. We remove loose documents, file boxes, bags of shredded paper, whatever you need, wherever it’s located."
+      "Stacks of paper piling up? Our service starts at just {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), and we handle it all for you. We remove loose documents, file boxes, bags of shredded paper, whatever you need, wherever it’s located."
      ]
     },
     {
@@ -130,7 +130,7 @@
        "b": [
         {
          "i": [
-          "We answer calls in 1 minute."
+          "Easy Booking by Phone or Online"
          ]
         }
        ]
@@ -144,12 +144,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Paper Removal"
+     "text": "Paper Removal"
     },
     {
      "t": "p",
      "c": [
-      "Got piles of paperwork sitting in storage? Cleaning out an office? Moving or downsizing? We offer same-day service to help you deal with it fast, no waiting, no stress."
+      "Got piles of paperwork sitting in storage? Cleaning out an office? Moving or downsizing? We offer same-day service when available to help you deal with it fast, no waiting, no stress."
      ]
     },
     {
@@ -175,9 +175,6 @@
       ],
       [
        "Eco-friendly shredding, recycling, or disposal"
-      ],
-      [
-       "Full air dust of the removal area"
       ]
      ]
     },
@@ -208,7 +205,7 @@
     {
      "t": "p",
      "c": [
-      "Choose same-day, next-day, or weekend document shredding with no rush fees. We’ll coordinate around your office hours or personal schedule for complete convenience."
+      "We’ll coordinate around your office hours or personal schedule for complete convenience."
      ]
     },
     {
@@ -219,7 +216,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We provide certified destruction and recycle 100% of shredded materials. Sensitive documents are processed with bank-level security while minimizing environmental impact."
+     "text": "Sensitive documents are processed with bank-level security while minimizing environmental impact."
     },
     {
      "t": "h",
@@ -229,7 +226,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Book in Just One Minute"
+     "text": "Easy Booking by Phone or Online"
     },
     {
      "t": "h",
@@ -244,7 +241,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Your upfront quote includes all collection, destruction, recycling, and certificates of completion – no hidden fees for sensitive materials or large volumes."
+     "text": "Your upfront quote includes all collection, destruction, recycling, and certificates of completion for sensitive materials or large volumes."
     },
     {
      "t": "h",
@@ -299,29 +296,26 @@
      "t": "ul",
      "items": [
       [
-       "Secure shredding of all sensitive materials"
-      ],
-      [
        "High-volume recycling of paper products"
       ],
       [
-       "Zero landfill policy for processed documents"
+       "For processed documents"
       ]
      ]
     },
     {
      "t": "h",
      "l": 3,
-     "text": "Get Instant Pricing – Transparent & Competitive Rates"
+     "text": "{{fact:freeOnsiteEstimates}}"
     },
     {
      "t": "ul",
      "items": [
       [
-       "All-inclusive pricing with no hidden fees"
+       "{{fact:competitorComparison}}"
       ],
       [
-       "Free same-day estimates via phone/text/email"
+       "Free estimates via phone/text/email"
       ],
       [
        "Special corporate rates for bulk document removal"
@@ -387,13 +381,13 @@
       {
        "title": "Get a Quote",
        "text": [
-        "Fair, upfront pricing with no extra charges."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Pick Your Time",
        "text": [
-        "Choose same-day or next-day pickup, whatever suits your schedule."
+        "Choose same-day or next-day pickup when available, whatever suits your schedule."
        ]
       },
       {
@@ -452,7 +446,7 @@
        "q": "How much does paper removal cost?",
        "a": [
         [
-         "Prices start at $125 for small residential jobs. Commercial projects and bulk removal receive volume discounts, with free on-site estimates available."
+         "Prices start at {{min_price:C}} for small residential jobs."
         ]
        ]
       },
@@ -468,7 +462,7 @@
        "q": "Can I schedule a same-day paper removal?",
        "a": [
         [
-         "Same-day service is available when booked before noon, with weekend appointments offered at standard rates for urgent document disposal needs."
+         "Ask about available pickup times"
         ]
        ]
       },
@@ -476,7 +470,7 @@
        "q": "Do you recycle all collected paper waste?",
        "a": [
         [
-         "All shredded paper materials are 100% recycled through certified facilities after secure destruction, with certificates of recycling provided upon request."
+         ""
         ]
        ]
       },

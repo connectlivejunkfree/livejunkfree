@@ -5,12 +5,12 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Treadmill Removal Toronto | Same-Day Pickup | Live Junk Free",
+  "title": "Treadmill Removal Toronto | Free Onsite Estimates | Live Junk Free",
   "description": "Treadmill taking up space in Toronto? Live Junk Free removes it fast — broken or working, any size. Upfront pricing, same-day available. Get a free quote!",
   "canonical": "https://livejunkfree.ca/locations/toronto/treadmill-removal/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
  },
- "title": "treadmill-removal",
+ "title": "Treadmill Removal",
  "h1": "Treadmill Removal in Toronto — We Lift It, Load It & Take It Away",
  "published": "2026-07-12T06:38:59",
  "modified": "2026-07-12T06:38:59",
@@ -46,7 +46,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -102,7 +102,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
-      "alt": "DSC08963",
+      "alt": "Treadmill Removal: Live Junk Free job photo",
       "width": 800,
       "height": 534
      }
@@ -138,10 +138,10 @@
      "c": [
       {
        "b": [
-        "Your price is locked in before we start."
+        "{{fact:competitorComparison}}"
        ]
       },
-      " We’ve built a reputation across Toronto — backed by 598+ Google reviews — on one thing: saying what we charge and charging what we said. You get a clear quote on-site, before the treadmill moves an inch. No add-ons once the job is underway."
+      " We’ve built a reputation across Toronto — backed by Google reviews — on one thing: saying what we charge and charging what we said. You get a clear quote on-site, before the treadmill moves an inch."
      ]
     },
     {
@@ -163,7 +163,7 @@
         "We recycle what we can — and we mean it."
        ]
       },
-      " Treadmills contain steel frames, motors, and electronic components — all of which have real recycling value. We route them to certified facilities rather than dumping them whole into a landfill. If a machine is in working condition, we explore donation options first."
+      " Treadmills contain steel frames, motors, and electronic components — all of which have real recycling value. We route them to recycling facilities rather than dumping them whole into a landfill. If a machine is in working condition, we explore donation options first."
      ]
     },
     {
@@ -174,7 +174,7 @@
         "Licensed, insured, and genuinely careful with your property."
        ]
       },
-      " Boot covers go on at the door. Protective padding goes on the walls and elevator interiors. We work the way you’d want a crew working inside your home — quietly, efficiently, and without leaving a mess."
+      " Boot covers go on at the door. {{fact:propertyProtection}}. We work the way you’d want a crew working inside your home — quietly, efficiently, and without leaving a mess."
      ]
     }
    ]
@@ -200,7 +200,7 @@
         "Reserve Your Pickup Window"
        ]
       },
-      " Call us or fill out our online form in under two minutes. Let us know the treadmill’s location — basement, condo, second floor — and we’ll confirm your time slot. Same-day and next-day options are available across most Toronto neighbourhoods, so you’re not waiting long."
+      " Call us or fill out our online form. Let us know the treadmill’s location — basement, condo, second floor — and we’ll confirm your time slot. Same-day and next-day options are available across most Toronto neighbourhoods, so you’re not waiting long."
      ]
     },
     {
@@ -244,9 +244,9 @@
        ]
       },
       {
-       "title": "All-Inclusive Pricing",
+       "title": "Pricing",
        "text": [
-        "Your upfront quote covers everything: labor, hauling, and disposal with no surprise fees"
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -256,7 +256,7 @@
        ]
       },
       {
-       "title": "Damage-Free Guarantee",
+       "title": "Careful Removal",
        "text": [
         "We protect your home during removal with padding and careful handling"
        ]
@@ -300,10 +300,10 @@
      "c": [
       {
        "b": [
-        "One Quote Covers Everything"
+        "{{fact:competitorComparison}}"
        ]
       },
-      " Labour, disassembly if needed, hauling, and responsible disposal — all included in a single upfront price. No line items added at the end."
+      " {{fact:taxNote}}. {{fact:pricingIntro.extra}} No line items added at the end."
      ]
     },
     {
@@ -314,7 +314,7 @@
         "Components Recycled, Not Just Dumped"
        ]
       },
-      " Steel frames, motors, and electronics inside your treadmill have real recyclable value. We send them to certified processing facilities rather than a general landfill."
+      " Steel frames, motors, and electronics inside your treadmill have real recyclable value."
      ]
     },
     {
@@ -488,7 +488,7 @@
       {
        "title": "Book Your Appointment",
        "text": [
-        "Call us or use our quick online form. Tell us what needs to go and where you're in Toronto — we'll give you an upfront price right away. No commitment needed."
+        "Call us or use our quick online form. Tell us what needs to go and where you're in Toronto — we'll review your items and pickup details. No commitment needed."
        ]
       },
       {
@@ -506,7 +506,7 @@
       {
        "title": "Responsible Disposal, Every Time",
        "text": [
-        "Usable pieces get donated to local Toronto charities. Everything else goes to certified recycling facilities. We keep as much out of landfill as possible."
+        "Usable pieces get donated to local Toronto charities. Everything else goes to recycling facilities. We keep as much out of landfill as possible."
        ]
       }
      ]
@@ -527,35 +527,35 @@
      "images": [
       {
        "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
-       "alt": "20250405_140825"
+       "alt": "Treadmill Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
-       "alt": "20250405_142357"
+       "alt": "Treadmill Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142736-1024x577.webp",
-       "alt": "20250405_142736"
+       "alt": "Treadmill Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_144606-1024x577.webp",
-       "alt": "20250405_144606"
+       "alt": "Treadmill Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250611_115029-1024x577.webp",
-       "alt": "20250611_115029"
+       "alt": "Treadmill Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250611_201732-1024x577.webp",
-       "alt": "20250611_201732"
+       "alt": "Treadmill Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250530_110858-1024x577.webp",
-       "alt": "20250530_110858"
+       "alt": "Treadmill Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250526_193102-1024x577.webp",
-       "alt": "20250526_193102"
+       "alt": "Treadmill Removal: Live Junk Free job photo"
       }
      ]
     }
@@ -599,7 +599,7 @@
        "q": "Q: Can you remove a treadmill from a condo or apartment in Toronto?",
        "a": [
         [
-         "A: Absolutely. We coordinate elevator access, follow building time restrictions, and protect hallway walls throughout the removal. Just let us know it’s a condo when booking and we’ll plan accordingly."
+         "A: Absolutely. {{fact:propertyProtection}}. Just let us know it’s a condo when booking and we’ll plan accordingly."
         ]
        ]
       },
@@ -607,7 +607,7 @@
        "q": "Q: What happens to my old treadmill after pickup — is it recycled?",
        "a": [
         [
-         "A: Yes. Steel frames, motors, and electronics inside treadmills are sent to certified recycling facilities. Working units are explored for donation first. We keep as much as possible out of landfill."
+         "A: Yes. Steel frames, motors, and electronics inside treadmills are sent to recycling facilities. Working units are explored for donation first. We keep as much as possible out of landfill."
         ]
        ]
       }

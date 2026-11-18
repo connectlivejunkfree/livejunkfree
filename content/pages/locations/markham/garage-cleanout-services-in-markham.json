@@ -6,7 +6,7 @@
  "template": "LocationService",
  "seo": {
   "title": "Garage Cleanout Services in Markham | Live Junk Free",
-  "description": "Garage cleanout services in Markham from Live Junk Free route old electronics through certified recyclers as standard.",
+  "description": "Garage cleanout services in Markham from Live Junk Free route old electronics through recyclers as standard.",
   "canonical": "https://livejunkfree.ca/locations/markham/garage-cleanout-services-in-markham/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/08/Garage-Cleanout-Services-in-Markham-735x1024.jpg"
@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Garage cleanout services in Markham from Live Junk Free route old electronics through certified recyclers as standard — the dead monitors, retired routers, boxes of cables and worn-out small appliances that pile up in a garage here get disposed of properly, not just dumped with everything else."
+     "text": "Garage cleanout services in Markham from Live Junk Free route old electronics through recyclers as standard — the dead monitors, retired routers, boxes of cables and worn-out small appliances that pile up in a garage here get disposed of properly, not just dumped with everything else."
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Because a garage in a city built around tech tends to accumulate a specific kind of clutter — old monitors, dead laptops, routers from three upgrades ago, cables nobody can identify anymore. That kind of e-waste needs to go through the right channel rather than general disposal, and Live Junk Free routes it to certified recyclers as a standard part of every garage cleanout, not an extra step that has to be requested."
+      "Because a garage in a city built around tech tends to accumulate a specific kind of clutter — old monitors, dead laptops, routers from three upgrades ago, cables nobody can identify anymore. That kind of e-waste needs to go through the right channel rather than general disposal, and Live Junk Free routes it to recyclers as a standard part of every garage cleanout, not an extra step that has to be requested."
      ]
     },
     {
@@ -116,7 +116,7 @@
     {
      "t": "p",
      "c": [
-      "Yes, as standard practice. Monitors, computers, small appliances and anything else with a cord or a battery get routed to certified electronics recyclers rather than mixed into general disposal, and documentation is available if you want a record of it."
+      "Yes, as standard practice."
      ]
     }
    ]
@@ -128,10 +128,10 @@
      "items": [
       {
        "n": "01",
-       "title": "Certified electronics recycling for every garage cleanout",
+       "title": "{{fact:recycling}}",
        "text": [
         [
-         "Old monitors, computers, routers and small appliances get sorted out and routed to certified recyclers as standard, not as an extra step."
+         "Old monitors, computers, routers and small appliances get sorted out and routed to recyclers as standard, not as an extra step."
         ]
        ]
       },
@@ -173,7 +173,7 @@
       },
       {
        "n": "06",
-       "title": "Independent garage cleanout pricing, 30–50% under the bigger outfits",
+       "title": "Independent garage cleanout pricing",
        "text": [
         [
          "National junk removal franchises build a royalty into every quote. Live Junk Free carries none of that overhead."
@@ -203,13 +203,13 @@
     {
      "t": "p",
      "c": [
-      "What never enters the calculation is the type of address or how many people share the garage. The figure is confirmed for free at an on-site walkthrough, with certified electronics recycling and documentation included as standard rather than an upcharge."
+      "What never enters the calculation is the type of address or how many people share the garage."
      ]
     },
     {
      "t": "checks",
      "items": [
-      "Hauling + Sorting + Disposal in One Price",
+      "{{fact:competitorComparison}}",
       "No Village, Distance or Rural Premium, Ever"
      ]
     },
@@ -217,7 +217,7 @@
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
@@ -225,12 +225,12 @@
     {
      "t": "price",
      "label": "Markham Garage Cleanout",
-     "value": "{{cad_125:suffix}}"
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
      "c": [
-      "Volume-priced and all-inclusive — sorting, carrying, hauling and disposal in one figure."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -273,7 +273,7 @@
        "title": "Book Your Garage Cleanout Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online — same-day slots are usually available, seven days a week, 6AM to 11PM."
+         "Call +1 647 922 5865 or book online — same-day slots are usually available."
         ]
        ]
       },
@@ -282,7 +282,7 @@
        "title": "Get a Free On-Site Quote",
        "text": [
         [
-         "The crew looks at the actual garage, notes any electronics that need certified recycling, and gives you one flat price before anything moves."
+         "The crew looks at the actual garage, notes any electronics that need recycling, and gives you one flat price before anything moves."
         ]
        ]
       },
@@ -291,7 +291,7 @@
        "title": "The Garage Gets Cleared and Sorted Properly",
        "text": [
         [
-         "Items get separated into keep, donate, recycle and dispose categories, with electronics routed to certified recyclers and a record kept as it goes."
+         "Items get separated into keep, donate, recycle and dispose categories, with electronics routed to recyclers and a record kept as it goes."
         ]
        ]
       },
@@ -300,7 +300,7 @@
        "title": "Your Garage Is Usable, With a Record to Show for It",
        "text": [
         [
-         "Whatever’s leaving gets hauled out, donations go to local partners, electronics go to certified recyclers, and documentation is available without a follow-up request."
+         "Whatever’s leaving gets hauled out, donations go to local partners, electronics go to recyclers, and documentation is available without a follow-up request."
         ]
        ]
       }
@@ -341,7 +341,7 @@
        "Garage cleanouts with a significant volume of old electronics and appliances"
       ],
       [
-       "Certified recycling for monitors, computers, routers and cables"
+       "Recycling for monitors, computers, routers and cables"
       ],
       [
        "Documentation of what was recycled available as standard"
@@ -411,13 +411,13 @@
        "Storage locker and underground parking space cleanouts near Commerce Valley"
       ],
       [
-       "COIs and building rules handled before arrival"
+       "{{fact:licensedInsured}}"
       ],
       [
        "Discreet timing coordinated with concierge and management"
       ],
       [
-       "Certified electronics recycling for anything found in storage"
+       "{{fact:recycling}}"
       ]
      ]
     }
@@ -660,7 +660,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — new-subdivision, Marsh-farm and Holland Street garage cleanouts across Bradford, Simcoe County and the GTA."
+      "Google reviews — new-subdivision, Marsh-farm and Holland Street garage cleanouts across Bradford, Simcoe County and the GTA."
      ]
     },
     {
@@ -797,7 +797,7 @@
        "q": "Are old electronics really recycled properly, not just thrown out?",
        "a": [
         [
-         "Yes, as standard. Monitors, computers, routers and small appliances get routed to certified recyclers, and documentation is available if you want a record. "
+         "Yes, as standard. Monitors, computers, routers and small appliances get routed to recyclers, and documentation is available if you want a record. "
         ]
        ]
       },
@@ -829,7 +829,7 @@
        "q": "What happens to tools and equipment still in good condition?",
        "a": [
         [
-         "Donation partners are checked first for anything still usable; only genuinely worn-out items go to disposal or certified recycling. "
+         "Donation partners are checked first for anything still usable; only genuinely worn-out items go to disposal or recycling. "
         ]
        ]
       }

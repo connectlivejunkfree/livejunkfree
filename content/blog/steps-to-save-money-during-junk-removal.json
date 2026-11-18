@@ -299,13 +299,13 @@
     {
      "t": "p",
      "c": [
-      "An all-inclusive quote makes it easier to compare companies accurately."
+      "An quote makes it easier to compare companies accurately."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Live Junk Free states that its Toronto quotes include labour, truck, fuel, disposal, and building access in one price."
+      "{{fact:taxNote}}. {{fact:pricingIntro.extra}}"
      ]
     }
    ]
@@ -786,7 +786,7 @@
       "Live Junk Free recommends scheduling ",
       {
        "b": [
-        "24–48 hours in advance"
+        "Timing confirmed at your estimate"
        ]
       },
       " when possible, although same-day appointments may be available depending on availability."
@@ -874,7 +874,7 @@
       "Live Junk Free’s Toronto pricing is volume-based, with prices currently starting at ",
       {
        "b": [
-        "{{cad_125}} for small loads"
+        "{{min_price:C}} for a 1/16 Junk Load (1 cubic yard)"
        ]
       },
       ". The company provides a free on-site estimate before work begins."
@@ -939,7 +939,7 @@
       "Always compare the ",
       {
        "b": [
-        "final all-inclusive price"
+        "final price"
        ]
       },
       ", not just the starting price."
@@ -948,7 +948,7 @@
     {
      "t": "p",
      "c": [
-      "Live Junk Free says its Toronto pricing includes labour, truck, fuel, disposal, and building access in the quoted amount."
+      "{{fact:taxNote}}. {{fact:pricingIntro.extra}}"
      ]
     }
    ]
@@ -1148,7 +1148,7 @@
       {
        "title": "How can I save money on junk removal?",
        "text": [
-        "Sort your belongings first, remove items you can donate or recycle yourself, combine multiple items into one pickup, compare all-inclusive quotes, and choose a pricing model that fits the size of your load."
+        "Sort your belongings first, remove items you can donate or recycle yourself, combine multiple items into one pickup, compare quotes, and choose a pricing model that fits the size of your load."
        ]
       },
       {
@@ -1237,7 +1237,7 @@
     {
      "t": "p",
      "c": [
-      "Then compare clear, all-inclusive quotes."
+      "Then compare clear, quotes."
      ]
     },
     {

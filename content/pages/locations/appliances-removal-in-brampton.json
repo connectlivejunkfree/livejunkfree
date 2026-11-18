@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-day Appliance Removal in Brampton for Homes and Offices | Live Junk Free",
+  "title": "Appliance Removal in Brampton for Homes and Offices | Live Junk Free",
   "description": "Reliable appliances removal in Brampton. We handle home junk, commercial loads, bulky items, electronics. Eco friendly and fast. Call us now!",
   "canonical": "https://livejunkfree.ca/locations/appliances-removal-in-brampton/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "appliances-removal-in-brampton",
+ "title": "Appliances Removal in Brampton",
  "h1": "Appliance Removal Services in Brampton, Ontario — Out of the Kitchen, Off Your Hands, Today",
  "published": "2026-07-14T08:14:42",
  "modified": "2026-07-14T08:13:37",
@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Brampton homes work their appliances hard. Many houses run two full kitchens, big households push washers through multiple loads a day, and when a machine finally quits, it tends to quit in the least convenient spot — wedged into a basement suite, boxed into a corner, or heavier than any two family members can safely move. One call solves it: our fully insured crew arrives, quotes free on the spot, disconnects the standard hookups, and carries the old unit out without a scratch on your home. Same-day pickup, most days."
+      "Brampton homes work their appliances hard. Many houses run two full kitchens, big households push washers through multiple loads a day, and when a machine finally quits, it tends to quit in the least convenient spot — wedged into a basement suite, boxed into a corner, or heavier than any two family members can safely move. One call solves it: our fully insured crew arrives, quotes free on the spot, disconnects the standard hookups, and carries the old unit out on your home. Same-day pickup, most days."
      ]
     },
     {
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Live Junk Free has hauled appliances out of every kind of Brampton home: split-levels in Bramalea where the freezer's been running since the nineties, basement-suite kitchens in Springdale, brand-new builds in Mount Pleasant swapping builder units for upgrades, and everything across Castlemore, Heart Lake and downtown. The 660+ five-star Google reviews behind our name were earned one careful staircase at a time."
+     "text": "Live Junk Free has hauled appliances out of every kind of Brampton home: split-levels in Bramalea where the freezer's been running since the nineties, basement-suite kitchens in Springdale, brand-new builds in Mount Pleasant swapping builder units for upgrades, and everything across Castlemore, Heart Lake and downtown. The Google reviews behind our name were earned one careful staircase at a time."
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Disconnection of standard hookups, the dolly work, floor protection, hauling, recycling and disposal fees — all inside the single price you approve before we start. However stubborn the stairwell turns out to be, the number doesn't move."
+     "text": "{{fact:propertyProtection}}. However stubborn the stairwell turns out to be, the number doesn't move."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Local and franchise-free — 30–50% below the chains",
+       "title": "Local and franchise-free",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national haulers price royalty fees into every pickup. We're independently owned with none, and Brampton customers see it directly: the same fridge, gone for 30–50% less."
+     "text": "The national haulers price royalty fees into every pickup."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small loads start at {{cad_125}}, a single appliance stays at the affordable end, and multi-unit pickups — a whole kitchen, both kitchens, or appliances plus other junk — scale only with the truck space they claim. Every figure is confirmed in person before work begins, and no discovery mid-job can change it. Book the free quote and judge the number yourself."
+     "text": "Every figure is confirmed in person before work begins, and no discovery mid-job can change it. Book the free quote and judge the number yourself."
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Book the Pickup",
        "text": [
-        "Call +1 647 922 5865 or book online in minutes. Trucks cover all of Brampton seven days a week, 6AM to 11PM, with same-day slots most days and a text 30 minutes before arrival."
+        "Call +1 647 922 5865 or book online in minutes."
        ]
       },
       {
        "title": "2. Get the At-the-Door Quote",
        "text": [
-        "We look at the appliance, check its path out — hallway, stairs, side entrance — and hand you one flat, all-inclusive figure. Free, and no hard feelings if you pass."
+        "We look at the appliance, check its path out — hallway, stairs, side entrance — and hand you one flat, figure. Free, and no hard feelings if you pass."
        ]
       },
       {
@@ -272,7 +272,7 @@
       {
        "title": "4. Recycled the Way Appliances Should Be",
        "text": [
-        "Old units head to the right end: refrigerant-bearing machines processed properly, metals recovered at licensed facilities, and still-working appliances offered to donation partners before recycling is even considered."
+        ""
        ]
       }
      ]
@@ -471,7 +471,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -501,7 +501,7 @@
        "q": "Q: What does it cost to remove an appliance in Brampton?",
        "a": [
         [
-         "A: Truck space sets the price — small loads start at $125, and a single fridge or washer sits at the low end of the scale. Weight and stairs never add a cent, and the flat figure quoted free at your door is exactly what you’ll pay."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },

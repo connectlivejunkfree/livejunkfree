@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "We specialize in making problematic fences vanish quickly, safely, and affordably. Our professional fence demolition service starts at just {{cad_125}}, and we handle every step from removing the first post to final cleanup of your property line."
+      "We specialize in making problematic fences vanish quickly, safely, and affordably."
      ]
     },
     {
@@ -130,7 +130,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -144,7 +144,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Fence Demolition Service in Your Neighborhood"
+     "text": "Fence Demolition Service in Your Neighborhood"
     },
     {
      "t": "p",
@@ -155,7 +155,7 @@
     {
      "t": "p",
      "c": [
-      "Our professional fence demolition team eliminates these risks by handling every aspect of the job. Whether you’re preparing for a new fence installation, removing a safety hazard, or simply tired of looking at that broken-down boundary, we offer same-day and next-day fence removal throughout the area."
+      "Our professional fence demolition team eliminates these risks by handling every aspect of the job. Whether you’re preparing for a new fence installation, removing a safety hazard, or simply tired of looking at that broken-down boundary, we offer same-day and next-day fence removal throughout the area, subject to scheduling."
      ]
     },
     {
@@ -186,7 +186,7 @@
      "c": [
       {
        "b": [
-        "We Offer Same-Day Fence Demolition Service"
+        "We Offer Fence Demolition Service"
        ]
       }
      ]
@@ -206,7 +206,7 @@
       {
        "title": "Fast & Efficient Service",
        "text": [
-        "– Most fence demolition projects completed in just 3-5 hours"
+        "Timing confirmed at your estimate"
        ]
       },
       {
@@ -218,7 +218,7 @@
       {
        "title": "Flexible Scheduling",
        "text": [
-        "– Available 7 days a week with same-day emergency service"
+        ""
        ]
       },
       {
@@ -236,7 +236,7 @@
       {
        "title": "Complete Cleanup",
        "text": [
-        "– Includes post hole filling, grading, and final debris removal"
+        ""
        ]
       }
      ]
@@ -294,7 +294,7 @@
        "Concrete footings are crushed and repurposed for construction use"
       ],
       [
-       "Metal hardware and fasteners are processed at certified recycling centers"
+       "Metal hardware and fasteners are processed at recycling centers"
       ]
      ]
     },
@@ -327,13 +327,13 @@
      "t": "ul",
      "items": [
       [
-       "Free same-day estimates via phone, text, or online"
+       "Free estimates via phone, text, or online"
       ],
       [
        "Discounted rates for multiple fence removals"
       ],
       [
-       "Written price-match guarantee on all quotes"
+       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -387,13 +387,13 @@
       {
        "title": "Get Your Quote",
        "text": [
-        "Get honest, upfront pricing with no hidden costs."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Pick Your Time",
        "text": [
-        "Select from our flexible scheduling options, including same-day emergency service, next-day availability, or book a future date that fits your timeline."
+        ""
        ]
       },
       {
@@ -456,7 +456,7 @@
        "q": "How much does fence removal cost?",
        "a": [
         [
-         "Our fence demolition services start at just $125, with final pricing based on the fence length, height, material type, and complexity of post/concrete removal."
+         "{{fact:quoteText}}"
         ]
        ]
       },
@@ -472,7 +472,7 @@
        "q": "Do I need a permit for deck removal?",
        "a": [
         [
-         "Most municipalities don’t require permits for demolition, but we’ll advise on local regulations and can handle permits if needed."
+         ""
         ]
        ]
       },

@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-Day Residential Junk Removal in Bradford | Live Junk Free",
-  "description": "Choose reliable same-day residential junk removal in Bradford. Get rid of mattresses, furniture, yard waste, appliances, and home clutter fast.",
+  "title": "Residential Junk Removal in Bradford | Live Junk Free",
+  "description": "Choose reliable same-day residential junk removal in Bradford, subject to scheduling. Get rid of mattresses, furniture, yard waste, appliances, and home clutter fast.",
   "canonical": "https://livejunkfree.ca/locations/residential-junk-removal-in-bradford/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "residential-junk-removal-in-bradford",
+ "title": "Residential Junk Removal in Bradford",
  "h1": "Residential Junk Removal in Bradford, Ontario — We Carry It Out So You Never Have To",
  "published": "2026-07-13T03:53:24",
  "modified": "2026-07-13T03:53:24",
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "More than 660 five-star Google reviews tell the same story: a crew that shows up when promised, quotes honestly, lifts carefully and leaves homes cleaner than they found them. From century houses along Holland Street to brand-new builds in the subdivisions off Yonge Street, Live Junk Free has become the name Bradford West Gwillimbury passes over the fence when someone asks, \"who hauled your stuff away?\""
+     "text": "Google reviews tell the same story: a crew that shows up when promised, quotes honestly, lifts carefully and leaves homes cleaner than they found them. From century houses along Holland Street to brand-new builds in the subdivisions off Yonge Street, Live Junk Free has become the name Bradford West Gwillimbury passes over the fence when someone asks, \"who hauled your stuff away?\""
     },
     {
      "t": "steps",
@@ -124,7 +124,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Photos lie and descriptions miss things, so we don't price blind. A crew member looks at your actual items, in your actual home, and writes an actual number — free, and yours to refuse. What we quote at the door is what you pay, period."
+     "text": "Photos lie and descriptions miss things, so we don't price blind. A crew member looks at your actual items, in your actual home, and writes an actual number — free, and yours to refuse."
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Lifting, loading, driving, dumping, recycling fees, fuel — a single all-in price covers it. Whether your junk sits at the curb or three flights up in a Bradford townhouse, the number doesn't move after you've approved it."
+     "text": "Lifting, loading, driving, dumping, recycling fees, fuel — a single upfront price covers it. Whether your junk sits at the curb or three flights up in a Bradford townhouse, the number doesn't move after you've approved it."
     },
     {
      "t": "steps",
@@ -154,7 +154,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Hauling a sectional down a staircase without a scuff is a learned skill. Our movers pad the tight corners, roll out floor protection, break down oversized pieces when needed, and treat a rental unit with the same caution as a brand-new build."
+     "text": "Hauling a sectional down a staircase is a learned skill. {{fact:propertyProtection}}."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent and local — priced 30–50% under the franchises",
+       "title": "Independent and local — priced",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national junk brands build royalty fees into every invoice. We don't have any, and Bradford homeowners see the difference: the same pickup, done with more care, at 30–50% less."
+     "text": "The national junk brands build royalty fees into every invoice."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small pickups start at just {{cad_125}}, single items cost single-item money, and larger clears scale fairly with the space they occupy in our truck. Every price is confirmed face-to-face before work begins — so the only surprise on invoice day is that there isn't one. Book your free Bradford estimate and see the number for yourself."
+     "text": "Small pickups start at just {{min_price:C}}, single items cost single-item money, and larger clears scale fairly with the space they occupy in our truck. Every price is confirmed face-to-face before work begins — so the only surprise on invoice day is that there isn't one. Book your free Bradford estimate and see the number for yourself."
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Grab a Time Slot",
        "text": [
-        "Phone +1 647 922 5865 or book through the website — it takes about two minutes. Crews run seven days a week from 6AM to 11PM across Bradford, with same-day slots most days and a 30-minute heads-up text before we arrive."
+        "Phone +1 647 922 5865 or book through the website — it takes about two minutes."
        ]
       },
       {
        "title": "2. Point at What's Going",
        "text": [
-        "Walk us through the house, the garage, the yard — point at anything and everything. We size it up on the spot and hand you one clear, all-inclusive price. No obligation attached."
+        "Walk us through the house, the garage, the yard — point at anything and everything. We size it up on the spot and hand you one clear, price. No obligation attached."
        ]
       },
       {
@@ -489,7 +489,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -519,7 +519,7 @@
        "q": "Q: What will it cost to remove junk from my Bradford home?",
        "a": [
         [
-         "A: The truck decides. Pricing is based purely on how much space your items occupy — starting at $125 for small loads — and the exact figure is confirmed with a free quote at your door before anything is touched. No hourly rates, no heavy-item fees, no adjustments afterward."
+         "A: The truck decides. Pricing is based purely on how much space your items occupy — starting at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard) — and the exact figure is confirmed with a free quote at your door before anything is touched."
         ]
        ]
       },
@@ -527,7 +527,7 @@
        "q": "Q: Can you come today?",
        "a": [
         [
-         "A: Usually, yes. Our Bradford crews run seven days a week from 6AM to 11PM, and same-day slots open most mornings. Call +1 647 922 5865 and we’ll tell you honestly what’s available right now."
+         "A: Usually, yes. Call +1 647 922 5865 and we’ll tell you honestly what’s available right now."
         ]
        ]
       },

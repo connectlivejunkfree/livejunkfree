@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-day Junk Cleanout Services in King City | Live Junk Free",
-  "description": "King City residents get fast junk cleanout service with Live Junk Free. We offer same-day garage and estate cleanouts, attic junk, and appliance removal. Call now!",
+  "title": "Junk Cleanout Services in King City | Live Junk Free",
+  "description": "King City residents get fast junk cleanout service with Live Junk Free. We offer same-day garage and estate cleanouts, attic junk, and appliance removal, subject to scheduling. Call now!",
   "canonical": "https://livejunkfree.ca/locations/junk-cleanout-in-king-city/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "junk-cleanout-in-king-city",
+ "title": "Junk Cleanout in King City",
  "h1": "Junk Cleanout Services in King City, Ontario — Quiet Streets Deserve Quiet, Careful Clearing",
  "published": "2026-07-15T08:38:45",
  "modified": "2026-07-15T08:38:45",
@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "Properties change hands discreetly in King City, and the clearing of them should match. Whether it’s an estate home passing between generations, an original bungalow emptying before the rebuild, or a garage on a country lot that’s quietly absorbed twenty years — our fully insured crew works the way this town prefers: unhurried walkthrough, one flat all-inclusive quote, careful sorting of everything that matters, and a property left empty, swept and ready for whatever comes next."
+      "Properties change hands discreetly in King City, and the clearing of them should match. Whether it’s an estate home passing between generations, an original bungalow emptying before the rebuild, or a garage on a country lot that’s quietly absorbed twenty years — our fully insured crew works the way this town prefers: unhurried walkthrough, one flat quote, careful sorting of everything that matters, and a property left empty, swept and ready for whatever comes next."
      ]
     },
     {
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The properties here span the township's whole story: original homes in the village core now sitting on coveted lots, estate residences on acreage toward Mary Lake, equestrian properties with barns and coach houses, and new luxury builds replacing what stood before. Live Junk Free has cleared across all of it — 660+ five-star Google reviews earned with punctual crews, locked quotes and a habit of treating every property like the neighbours are watching. In King City, they usually are."
+     "text": "The properties here span the township's whole story: original homes in the village core now sitting on coveted lots, estate residences on acreage toward Mary Lake, equestrian properties with barns and coach houses, and new luxury builds replacing what stood before. Live Junk Free has cleared across all of it — Google reviews earned with punctual crews, locked quotes and a habit of treating every property like the neighbours are watching. In King City, they usually are."
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Crew, trucks, fuel, disposal fees, donation runs — all inside the quote before you accept it. When the basement turns out to run the length of the house (here, it often does), the surprise is ours to carry, not yours to fund."
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} When the basement turns out to run the length of the house (here, it often does), the surprise is ours to carry, not yours to fund."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent pricing — 30–50% under the franchise names",
+       "title": "Independent pricing",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national brands add royalty fees to every quote and premiums to certain postal codes. We do neither — locally owned, volume-priced, and consistently 30–50% below the chains on identical King City work."
+     "text": "The national brands add royalty fees to every quote and premiums to certain postal codes."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small cleanouts start at {{cad_125}}, single spaces like garages land mid-range, and full estates — multi-load, multi-building — still resolve to one locked figure at the free walkthrough. No hourly billing, no luxury-market markup, no revisions after the fact. The number agreed on the doorstep is the number paid when the last room is swept."
+     "text": "No hourly billing, no luxury-market markup, no revisions after the fact. The number agreed on the doorstep is the number paid when the last room is swept."
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. A Private Booking",
        "text": [
-        "Call +1 647 922 5865 or book online. Crews cover King City and the township seven days a week, 6AM to 11PM, with same-day availability and a 30-minute text before we arrive at the gate."
+        "Call +1 647 922 5865 or book online."
        ]
       },
       {
        "title": "2. The Full Walkthrough",
        "text": [
-        "House, basement, garage, coach house, barn — everything you want cleared gets seen, and one flat, all-inclusive quote follows. Free, unhurried, and yours to consider."
+        "House, basement, garage, coach house, barn — everything you want cleared gets seen, and one flat, quote follows. Free, unhurried, and yours to consider."
        ]
       },
       {
@@ -474,7 +474,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -504,7 +504,7 @@
        "q": "Q: What does a cleanout cost in King City?",
        "a": [
         [
-         "A: Volume sets it, nothing else — small jobs from $125, garages mid-range, full estates as one flat multi-load figure quoted at the free walkthrough. There’s no address premium and no hourly meter, and approved prices are final regardless of what the property reveals."
+         "There’s no address premium and no hourly meter, and approved prices are final regardless of what the property reveals."
         ]
        ]
       },
@@ -512,7 +512,7 @@
        "q": "Q: We're clearing the house before demolition. How does that work?",
        "a": [
         [
-         "A: Cleanly and on your builder’s clock. We empty the entire structure — contents, fixtures you’re not salvaging, garage and outbuildings if wanted — flag anything that looks worth saving before it loads, and hand back a building that’s ready for the excavator. Timeline-critical lots are familiar work."
+         "A: Cleanly and on your builder’s clock. Timeline-critical lots are familiar work."
         ]
        ]
       },

@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -136,7 +136,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -168,7 +168,7 @@
     {
      "t": "p",
      "c": [
-      "We recognize the urgency of clearing out unwanted tires, whether you’re cleaning your garage, preparing a property for sale, or managing overflow at your auto shop. That’s why we provide same-day and next-day pickup options to accommodate your timeline."
+      "We recognize the urgency of clearing out unwanted tires, whether you’re cleaning your garage, preparing a property for sale, or managing overflow at your auto shop. That’s why we provide same-day and next-day pickup options to accommodate your timeline, subject to scheduling."
      ]
     },
     {
@@ -190,7 +190,7 @@
        "Safe loading and secure transport of all tire types"
       ],
       [
-       "Environmentally responsible recycling through certified facilities"
+       "Environmentally responsible recycling through recycling facilities"
       ],
       [
        "Proper documentation for commercial and municipal compliance"
@@ -202,7 +202,7 @@
      "c": [
       {
        "b": [
-        "We Offer Same-Day Tire Removal!"
+        "We Offer Tire Removal!"
        ]
       }
      ]
@@ -219,7 +219,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Multi-Service Savings:"
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "h",
@@ -229,7 +229,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Damage-Free Guarantee:"
+     "text": "Careful Removal:"
     },
     {
      "t": "h",
@@ -239,12 +239,12 @@
     {
      "t": "h",
      "l": 3,
-     "text": "24/7 Scheduling:"
+     "text": "{{fact:nextAvailable}}"
     },
     {
      "t": "h",
      "l": 3,
-     "text": "Available weekends and evenings with emergency same-day pickup for urgent tire disposal needs"
+     "text": "{{fact:nextAvailable}}"
     },
     {
      "t": "h",
@@ -254,13 +254,13 @@
     {
      "t": "h",
      "l": 3,
-     "text": "90%+ of tires are properly processed through certified recycling programs, keeping rubber out of landfills"
+     "text": "{{fact:recycling}}"
     },
     {
      "t": "cards",
      "items": [
       {
-       "title": "Certified Professionals",
+       "title": "Insured Professionals",
        "text": [
         "Fully insured teams trained in proper tire handling"
        ]
@@ -268,7 +268,7 @@
       {
        "title": "Green Disposal Guarantee",
        "text": [
-        "90%+ of materials recycled or repurposed responsibly"
+        "{{fact:recycling}}"
        ]
       }
      ]
@@ -313,7 +313,7 @@
      "t": "ul",
      "items": [
       [
-       "Responsible Recycling: We recycle up to 90% of tire materials through certified processors, transforming old rubber into new products"
+       "{{fact:recycling}}"
       ],
       [
        "Community Donation Program: Usable tires find new purpose through local schools, playgrounds, and urban farming initiatives"
@@ -352,13 +352,13 @@
      "t": "ul",
      "items": [
       [
-       "Free Instant Quotes: Get accurate estimates by phone, text, or online in minutes"
+       "{{fact:freeOnsiteEstimates}}"
       ],
       [
-       "Flat-Rate Pricing: Know your total cost upfront with no surprise fees"
+       "Flat-Rate Pricing: Know your total cost upfront"
       ],
       [
-       "Volume Discounts: Special savings for bulk tire removal"
+       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -391,9 +391,6 @@
       ],
       [
        "Bus/Shuttle tires"
-      ],
-      [
-       "Heavy equipment tires (loaders, excavators)"
       ]
      ]
     },
@@ -435,7 +432,7 @@
       {
        "title": "Get Your Quote",
        "text": [
-        "Receive a fair, transparent price for removal, including pickup, hauling, and recycling. No hidden fees!"
+        "Receive a fair, transparent price for removal, including pickup, hauling, and recycling."
        ]
       },
       {
@@ -508,7 +505,7 @@
        "q": "How do you dispose of old tires?",
        "a": [
         [
-         "We partner with certified recycling facilities that shred tires for repurposing into playground surfaces, rubberized asphalt, and other products. Functional tires get donated to community projects. Nothing goes to landfills. "
+         "We partner with recycling facilities that shred tires for repurposing into playground surfaces, rubberized asphalt, and other products. Functional tires get donated to community projects. Nothing goes to landfills. "
         ]
        ]
       },
@@ -516,7 +513,7 @@
        "q": "How much does tire removal cost?",
        "a": [
         [
-         "Prices start at $125 per tire with volume discounts available. Get a free instant quote online or by phone. Our transparent pricing includes pickup, hauling, and eco-friendly disposal with no hidden fees. "
+         "{{fact:freeOnsiteEstimates}} "
         ]
        ]
       },
@@ -540,7 +537,7 @@
        "q": "Do you recycle or repurpose used tires?",
        "a": [
         [
-         "90%+ get recycled through certified processors. Usable tires go to urban farms, playgrounds, and nonprofits. We provide recycling certificates for commercial clients upon request."
+         "Usable tires go to urban farms, playgrounds, and nonprofits. We provide recycling certificates for commercial clients upon request."
         ]
        ]
       },

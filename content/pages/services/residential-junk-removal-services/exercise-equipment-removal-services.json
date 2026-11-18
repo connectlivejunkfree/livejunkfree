@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -69,7 +69,7 @@
     {
      "t": "p",
      "c": [
-      "We start with a free, transparent quote, so you know exactly what to expect, with no hidden fees. Serving your area, we prioritize fast, affordable, and sustainable removal, helping you reclaim your space without the hassle."
+      "Serving your area, we prioritize fast, affordable, and sustainable removal, helping you reclaim your space without the hassle."
      ]
     },
     {
@@ -97,7 +97,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Clear Out Your Home Gym – Same-Day Exercise Equipment Removal"
+     "text": "Clear Out Your Home Gym – Exercise Equipment Removal"
     },
     {
      "t": "p",
@@ -136,7 +136,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -168,13 +168,13 @@
     {
      "t": "p",
      "c": [
-      "We understand how important it is to reclaim your space quickly. Whether you’re upgrading your home gym, moving to a new place, or simply decluttering, we offer same-day and next-day pickup options to fit your busy schedule."
+      "We understand how important it is to reclaim your space quickly. Whether you’re upgrading your home gym, moving to a new place, or simply decluttering, we offer same-day and next-day pickup options to fit your busy schedule, subject to scheduling."
      ]
     },
     {
      "t": "p",
      "c": [
-      "Our trained removal specialists have the strength, equipment, and expertise to remove your exercise equipment safely and efficiently. Using professional moving straps, appliance dollies, and protective ramps, we ensure your home stays damage-free throughout the entire process, equipment that most homeowners don’t have access to."
+      "Our trained removal specialists have the strength, equipment, and expertise to remove your exercise equipment safely and efficiently."
      ]
     },
     {
@@ -202,7 +202,7 @@
      "c": [
       {
        "b": [
-        "We Offer Same-Day Exercise Equipment Removal!"
+        "We Offer Exercise Equipment Removal!"
        ]
       }
      ]
@@ -226,7 +226,7 @@
        ]
       },
       {
-       "title": "Zero-Damage Promise",
+       "title": "Careful Removal",
        "text": [
         "Our professional-grade moving pads, dollies, and protective gear ensure your floors, walls, and doorways stay perfectly protected"
        ]
@@ -234,25 +234,25 @@
       {
        "title": "Convenient Scheduling",
        "text": [
-        "Available 7 days a week with evening appointments and same-day service for urgent needs"
+        "{{fact:nextAvailable}}"
        ]
       },
       {
        "title": "Green Removal Solutions",
        "text": [
-        "Over 90% of materials responsibly recycled or donated through our certified partner network"
+        "{{fact:recycling}}"
        ]
       },
       {
        "title": "Transparent Pricing",
        "text": [
-        "One upfront price includes complete disassembly, careful removal, transport, and full cleanup – no hidden fees"
+        "One upfront price includes complete disassembly, careful removal, transport, and full cleanup"
        ]
       },
       {
        "title": "Immediate Availability",
        "text": [
-        "Need space fast? We provide same-day pickup for urgent removal needs"
+        "Need space fast? We provide same-day pickup when available for urgent removal needs"
        ]
       }
      ]
@@ -297,7 +297,7 @@
      "t": "ul",
      "items": [
       [
-       "Responsible Recycling: We recycle up to 90% of materials, including steel frames, electronic components, and rubber parts ,through certified recycling partners"
+       "{{fact:recycling}}"
       ],
       [
        "Donation Program: Gently used equipment gets a second life through local youth centers, shelters, and nonprofit organizations"
@@ -342,7 +342,7 @@
        "Clear Flat Rates: Know your total cost upfront before we begin any work"
       ],
       [
-       "Multi-Item Discounts: Save when removing multiple pieces of equipment at once"
+       "{{fact:competitorComparison}}"
       ]
      ]
     }
@@ -419,13 +419,13 @@
       {
        "title": "Get Your Transparent Quote",
        "text": [
-        "Receive a fair, no-obligation price for removal, covering disassembly, hauling, and eco-friendly disposal or recycling."
+        "{{fact:taxNote}}. {{fact:pricingIntro.extra}}"
        ]
       },
       {
        "title": "Pick Your Preferred Time",
        "text": [
-        "Schedule same-day or next-day pickup with our reliable team. We work around your schedule for a hassle-free experience."
+        "Schedule same-day or next-day pickup when available with our reliable team. We work around your schedule for a hassle-free experience."
        ]
       },
       {
@@ -492,7 +492,7 @@
        "q": "Can you recycle or donate my old exercise equipment?",
        "a": [
         [
-         "Absolutely! We recycle 90%+ of materials and donate functional gear to local charities, with eco-friendly disposal guaranteed."
+         "Absolutely!"
         ]
        ]
       },
@@ -500,7 +500,7 @@
        "q": "How much does exercise equipment removal cost?",
        "a": [
         [
-         "Prices vary by size/type, but we offer free upfront quotes with no hidden fees. Discounts for multiple items!"
+         "{{fact:competitorComparison}}"
         ]
        ]
       },

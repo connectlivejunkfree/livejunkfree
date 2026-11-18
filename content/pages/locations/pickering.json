@@ -5,7 +5,7 @@
  "type": "location-town",
  "template": "TownHub",
  "seo": {
-  "title": "Junk Removal Pickering | Same-Day Junk Removal Services",
+  "title": "Junk Removal Pickering | Junk Removal Services",
   "description": "Need junk removal in Pickering, ON? We provide fast, affordable, and professional junk hauling, property cleanouts, renovation debris removal, and commercial cleanup services.",
   "canonical": "https://livejunkfree.ca/locations/pickering/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
@@ -103,14 +103,14 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Live Junk Free is a locally owned, fully insured Pickering junk removal team that has built its reputation across Durham Region one job at a time — with over 660 five-star Google reviews from real customers, and a crew that takes genuine pride in the results we leave behind."
+     "text": "Live Junk Free is a locally owned, fully insured Pickering junk removal team that has built its reputation across Durham Region one job at a time — with Google reviews from real customers, and a crew that takes genuine pride in the results we leave behind."
     },
     {
      "t": "steps",
      "items": [
       {
        "n": "01",
-       "title": "You pay for the space your junk takes up — nothing more",
+       "title": "You pay for the space your junk takes up",
        "text": []
       }
      ]
@@ -140,7 +140,7 @@
      "items": [
       {
        "n": "03",
-       "title": "One flat all-inclusive number — labour, truck, fuel, disposal",
+       "title": "One flat number — labour, truck, fuel, disposal",
        "text": []
       }
      ]
@@ -148,7 +148,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Whether you're a homeowner in Frenchman's Bay clearing out a garage or a business owner on Kingston Road clearing out a commercial unit — your quote covers labour, truck, fuel and disposal in one number. Nothing is added afterward."
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Nothing is added afterward."
     },
     {
      "t": "steps",
@@ -185,7 +185,7 @@
      "items": [
       {
        "n": "06",
-       "title": "30–50% less than national franchise competitors",
+       "title": "",
        "text": []
       }
      ]
@@ -212,7 +212,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Our pricing model at Live Junk Free has been the same since day one: fair, volume-based and completely transparent. Prices start as low as {{cad_125}} for small loads. Book your free Pickering junk removal estimate today — fair, volume-based pricing every time."
+     "text": "Our pricing model at Live Junk Free has been the same since day one: fair, volume-based and completely transparent. Prices start as low as {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). Book your free Pickering junk removal estimate today — fair, volume-based pricing every time."
     },
     {
      "t": "cards",
@@ -255,7 +255,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The reason most people in Pickering put off dealing with their junk isn't that they don't want it gone — it's that they expect the process to be complicated. Confusing booking. Vague pricing. Crews that don't show. Our entire same-day junk removal process in Pickering, Ontario is built to prove that wrong. Here's how simple it actually is — 4 steps, start to finish:"
+     "text": "The reason most people in Pickering put off dealing with their junk isn't that they don't want it gone — it's that they expect the process to be complicated. Confusing booking. Vague pricing. Crews that don't show. Our entire same-day junk removal when available process in Pickering, Ontario is built to prove that wrong. Here's how simple it actually is — 4 steps, start to finish:"
     },
     {
      "t": "cards",
@@ -263,13 +263,13 @@
       {
        "title": "Book Quickly, Get Confirmed Instantly",
        "text": [
-        "Call +1 647 922 5865 or use our online booking form to schedule your Pickering junk removal service in minutes. We offer same-day and next-day appointments with a 30-minute arrival notice, so you're never left waiting around."
+        "Call +1 647 922 5865 or use our online booking form to schedule your Pickering junk removal service in minutes. We offer same-day and next-day appointments with a 30-minute arrival notice, so you're never left waiting around, subject to scheduling."
        ]
       },
       {
        "title": "We Arrive, Assess, and Quote",
        "text": [
-        "Our professional crew arrives on time, reviews everything you want removed, and provides a clear, all-inclusive quote before any work begins. There is no obligation to proceed and no hidden fees."
+        "Our professional crew arrives on time, reviews everything you want removed, and provides a clear, quote before any work begins."
        ]
       },
       {
@@ -298,7 +298,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Pickering is one of Durham Region's most dynamic municipalities — a city where established lakefront communities in Frenchman's Bay sit alongside one of Ontario's largest new development projects in Seaton, where mature residential neighbourhoods blend with a growing commercial and industrial corridor along Kingston Road and Brock Road. Live Junk Free is built to serve every single corner of that diversity — residential, commercial and construction — with the same professional standard, transparent pricing and same-day speed every time."
+     "text": "Pickering is one of Durham Region's most dynamic municipalities — a city where established lakefront communities in Frenchman's Bay sit alongside one of Ontario's largest new development projects in Seaton, where mature residential neighbourhoods blend with a growing commercial and industrial corridor along Kingston Road and Brock Road. Live Junk Free is built to serve every single corner of that diversity — residential, commercial and construction — with the same professional standard, transparent pricing and same-day speed every time, subject to scheduling."
     },
     {
      "t": "faq",
@@ -569,7 +569,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -599,7 +599,7 @@
        "q": "Q: How much does junk removal cost in Pickering, Ontario?",
        "a": [
         [
-         "A: Our Pickering junk removal pricing is 100% volume-based — you pay based on how much space your items fill in our truck, not by the hour. Prices start at $125 for small loads. We provide a free on-site estimate before any work begins. The price you approve is the price you pay — fair, flat and final."
+         "A: Our Pickering junk removal pricing is 100% volume-based — you pay based on how much space your items fill in our truck, not by the hour. Prices start at {{min_price:C}} for a 1/16 Junk Load (1 cubic yard). We provide a free on-site estimate before any work begins.. — fair, flat and final."
         ]
        ]
       },
@@ -607,7 +607,7 @@
        "q": "Q: Do you offer same-day junk removal in Pickering?",
        "a": [
         [
-         "A: Yes — same-day junk removal is available across all of Pickering including Frenchman’s Bay, Bay Ridges, Seaton, Dunbarton, Rougemount and all surrounding Durham Region communities. We operate 7 days a week, 6AM to 11PM. Call +1 647 922 5865 to confirm today’s availability."
+         "A: Yes — same-day junk removal is available across all of Pickering including Frenchman’s Bay, Bay Ridges, Seaton, Dunbarton, Rougemount and all surrounding Durham Region communities. Call +1 647 922 5865 to confirm today’s availability."
         ]
        ]
       },
@@ -639,7 +639,7 @@
        "q": "Q: Are you a local Pickering company or a national franchise?",
        "a": [
         [
-         "A: We are 100% locally owned and operated — not a franchise. No franchise royalties means our Pickering pricing is consistently 30–50% lower than national junk removal chains for the exact same work."
+         "A: We are 100% locally owned and operated — not a franchise."
         ]
        ]
       },

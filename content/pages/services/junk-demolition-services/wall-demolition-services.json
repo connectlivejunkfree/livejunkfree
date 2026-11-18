@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "We arrive with everything the job needs: reciprocating saws and pry bars for stud walls, sledges and demolition hammers for masonry, plastic sheeting and zip-wall barriers for dust containment, and floor protection for the rooms and hallways the debris travels through. Before any cutting starts, we help confirm what’s inside the wall — checking for wiring, plumbing, and ductwork so live services are safely handled or capped by the right trade first. Then the wall comes down cleanly, the debris goes out in bins and bags, and the space is broom-swept for the next trade."
+      "{{fact:propertyProtection}}. Before any cutting starts, we help confirm what’s inside the wall — checking for wiring, plumbing, and ductwork so live services are safely handled or capped by the right trade first. Then the wall comes down cleanly, the debris goes out in bins and bags, and the space is broom-swept for the next trade."
      ]
     },
     {
@@ -136,7 +136,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -167,7 +167,7 @@
     {
      "t": "p",
      "c": [
-      "One important note we’re upfront about: if a wall is load-bearing, it can’t simply be knocked down — it needs an engineered beam plan and, in most municipalities, a permit. We’ll help you identify the signs, and where structural work is involved, we handle the demolition phase in coordination with your contractor or engineer rather than putting your home at risk. Honest scoping like this is exactly why contractors keep our number."
+      "{{fact:structuralDemolition}}. We’ll help you identify the signs, and where structural work is involved, we handle the demolition phase in coordination with your contractor or engineer rather than putting your home at risk. Honest scoping like this is exactly why contractors keep our number."
      ]
     },
     {
@@ -218,7 +218,7 @@
       {
        "title": "Serious Dust Containment",
        "text": [
-        "Zip-wall barriers, sealed doorways, and floor protection keep the mess in one room"
+        "{{fact:propertyProtection}}"
        ]
       },
       {
@@ -228,7 +228,7 @@
        ]
       },
       {
-       "title": "Straight Talk on Load-Bearing Walls",
+       "title": "",
        "text": [
         "Honest scoping, engineer & permit guidance — never a risky shortcut"
        ]
@@ -447,18 +447,10 @@
      "t": "faq",
      "items": [
       {
-       "q": "1) How do I know if my wall is load-bearing?",
-       "a": [
-        [
-         "Common clues include walls running perpendicular to floor joists, walls stacked above beams or other walls on lower floors, and walls near the centre of the house — but photos and rules of thumb are never conclusive. If there’s any chance a wall is structural, an engineer’s confirmation comes first; we’ll tell you honestly during quoting and coordinate demolition with your contractor’s beam plan rather than guessing."
-        ]
-       ]
-      },
-      {
        "q": "2) What happens to the wiring, plumbing, or vents inside the wall?",
        "a": [
         [
-         "They’re identified before demolition begins. Simple items like an outlet or switch are typically deactivated and made safe by a licensed electrician, while plumbing and ductwork are rerouted or capped by the appropriate trade. We sequence our teardown around that work, and many clients have us on site the same day their trades complete it."
+         "They’re identified before demolition begins. Simple items like an outlet or switch are typically deactivated and made safe by a licensed electrician, while plumbing and ductwork are rerouted or capped by the appropriate trade. We sequence our teardown around that work, and many clients have us on site the same day their trades complete it, subject to scheduling."
         ]
        ]
       },
@@ -466,7 +458,7 @@
        "q": "3) How do you keep dust out of the rest of the house?",
        "a": [
         [
-         "With genuine containment, not just a dropcloth. We seal the work zone with plastic zip-wall barriers, close and mask doorways and vents, lay floor protection along the debris route, and bag material as it comes down. Most clients are surprised the rest of the home stays livable throughout."
+         "With genuine containment, not just a dropcloth. {{fact:propertyProtection}}. Most clients are surprised the rest of the home stays livable throughout."
         ]
        ]
       },
@@ -607,7 +599,7 @@
     {
      "t": "p",
      "c": [
-      "Wall demolition can range from removing a simple drywall partition to opening up a load-bearing wall that requires structural support. Below are answers to common questions about wall removal costs, structural safety, hidden utilities, permits, debris removal, replacement beams, and DIY wall demolition."
+      "{{fact:structuralDemolition}}."
      ]
     },
     {
@@ -617,34 +609,34 @@
        "q": "Read What People Ask About Wall Demolition Services",
        "a": [
         [
-         "1. How can I tell if a wall is load-bearing before hiring a demolition contractor?"
+         "1. {{fact:structuralDemolition}}."
         ],
         [
-         "You should not rely on appearance alone to determine whether a wall is load-bearing. The wall’s position, framing, joists, beams, roof structure, and the layout of the home all matter. A qualified contractor or structural professional can assess the wall before demolition."
+         "{{fact:structuralDemolition}}. The wall’s position, framing, joists, beams, roof structure, and the layout of the home all matter. A qualified contractor or structural professional can assess the wall before demolition."
         ],
         [
          "2. Do I need a structural engineer to inspect the wall before tearing it down?"
         ],
         [
-         "For a suspected load-bearing wall, consulting a structural engineer is strongly recommended and may be required for permit or structural-design purposes. An engineer can determine how the load is supported and specify the appropriate beam, posts, or other structural solution."
+         "{{fact:structuralDemolition}}. An engineer can determine how the load is supported and specify the appropriate beam, posts, or other structural solution."
         ],
         [
-         "3. What happens if a contractor accidentally demolishes a load-bearing wall?"
+         "3. {{fact:structuralDemolition}}."
         ],
         [
-         "Removing a load-bearing wall without proper support can cause structural movement, sagging, cracking, or, in severe cases, partial structural failure. If a wall is accidentally removed, work should stop and a qualified structural professional should assess the property and determine the required temporary and permanent support."
+         "{{fact:structuralDemolition}}. If a wall is accidentally removed, work should stop and a qualified structural professional should assess the property and determine the required temporary and permanent support."
         ],
         [
-         "4. How do contractors install a temporary support wall or shoring during the demolition process?"
+         "4. {{fact:structuralDemolition}}."
         ],
         [
-         "For a load-bearing wall, temporary supports are typically installed before the existing wall is removed. The exact shoring method depends on the structure above, the span, the loads involved, and the engineer’s design. Temporary supports must be properly positioned and secured before demolition starts."
+         "{{fact:structuralDemolition}}. The exact shoring method depends on the structure above, the span, the loads involved, and the engineer’s design."
         ],
         [
-         "5. What is the cost difference between removing a load-bearing wall versus a simple partition wall?"
+         "5. {{fact:structuralDemolition}}."
         ],
         [
-         "A non-load-bearing partition is generally simpler and less expensive to remove because it does not require structural replacement. Load-bearing wall removal can involve engineering, permits, temporary shoring, structural beams, posts, and additional labour, which can significantly increase the overall project cost."
+         "{{fact:structuralDemolition}}."
         ],
         [
          "6. How much does it cost per square foot to demolish an interior wall?"
@@ -653,10 +645,10 @@
          "Interior wall demolition costs vary according to the wall’s material, size, location, accessibility, and whether it contains electrical, plumbing, or HVAC components. Live Junk Free provides project-specific quotes based on the actual demolition and removal work required."
         ],
         [
-         "7. What is the average price to replace a load-bearing wall with a support beam such as LVL or steel?"
+         "7. {{fact:structuralDemolition}}."
         ],
         [
-         "The cost depends on the beam size and material, span, structural loads, number of support posts, engineering requirements, permits, and installation complexity. LVL and steel beams can have very different material and labour costs, so a structural assessment is needed before an accurate quote can be provided."
+         "The cost depends on the beam size and material, span, structural loads, number of support posts, engineering requirements, permits, and installation complexity. {{fact:structuralDemolition}}."
         ],
         [
          "8. Does the demolition quote include hauling away drywall, studs, and plaster debris?"
@@ -668,7 +660,7 @@
          "9. What are the hidden costs of wall removal, such as patching the ceiling and floor?"
         ],
         [
-         "Additional costs can arise from repairing the ceiling, flooring, drywall edges, electrical wiring, plumbing, HVAC systems, trim, and other finishes exposed when a wall is removed. Structural wall removal may also require engineering, permits, beams, posts, and additional carpentry."
+         "Additional costs can arise from repairing the ceiling, flooring, drywall edges, electrical wiring, plumbing, HVAC systems, trim, and other finishes exposed when a wall is removed. {{fact:structuralDemolition}}."
         ],
         [
          "10. Is it more expensive to demolish a brick or concrete block wall than a standard drywall partition?"
@@ -692,7 +684,7 @@
          "13. How do demolition crews control plaster dust, drywall dust, and airborne debris inside a home?"
         ],
         [
-         "Professional crews can isolate the work area using barriers, protective coverings, controlled demolition methods, ventilation or filtration equipment, and appropriate personal protective equipment. Good dust control helps protect occupants, furniture, and the rest of the home."
+         "{{fact:propertyProtection}}. Good dust control helps protect occupants, furniture, and the rest of the home."
         ],
         [
          "14. What is the protocol if the crew discovers asbestos insulation or lead paint inside an older wall?"
@@ -704,19 +696,19 @@
          "15. What specialized tools are used for wall demolition?"
         ],
         [
-         "The tools depend on the wall material and project. Crews may use reciprocating saws, pry bars, drills, sledgehammers, drywall tools, concrete or masonry cutters, and other specialized demolition equipment. Load-bearing or masonry walls may require additional equipment and structural support."
+         "The tools depend on the wall material and project. Crews may use reciprocating saws, pry bars, drills, sledgehammers, drywall tools, concrete or masonry cutters, and other specialized demolition equipment. {{fact:structuralDemolition}}."
         ],
         [
          "16. How long does it typically take to demolish an interior wall and install a replacement header beam?"
         ],
         [
-         "A simple partition wall may be removed relatively quickly, while a load-bearing wall with a replacement beam requires considerably more planning and work. Engineering, permitting, temporary support, beam installation, electrical or plumbing changes, and finishing can all affect the timeline."
+         "{{fact:structuralDemolition}}."
         ],
         [
          "17. Will removing a wall cause sagging or cracking in the ceiling or rooms upstairs?"
         ],
         [
-         "It can if the wall provides structural support and is removed without an appropriate replacement. Even when a wall is non-load-bearing, removing it can expose existing gaps or create finishing work at the ceiling and floor. Proper assessment and structural planning help reduce these risks."
+         "It can if the wall provides structural support and is removed without an appropriate replacement. {{fact:structuralDemolition}}. Proper assessment and structural planning help reduce these risks."
         ],
         [
          "18. Can an exterior wall be demolished to add a large glass sliding door or window expansion?"
@@ -728,13 +720,13 @@
          "19. Do I need a building permit from my local city or county to remove an interior wall?"
         ],
         [
-         "Permit requirements depend on the municipality and whether the wall affects the building’s structure, electrical, plumbing, HVAC, fire separation, or other regulated systems. Non-structural cosmetic work may have different requirements from load-bearing wall removal. Confirm local requirements before demolition."
+         "Permit requirements depend on the municipality and whether the wall affects the building’s structure, electrical, plumbing, HVAC, fire separation, or other regulated systems. {{fact:structuralDemolition}}. Confirm local requirements before demolition."
         ],
         [
          "20. Will my homeowners insurance cover damage if a wall demolition causes structural cracking?"
         ],
         [
-         "Home insurance coverage varies according to the policy and circumstances. Damage resulting from unauthorized or improper renovations may not be covered in the same way as unexpected accidental damage. Speak with your insurer before major structural demolition if you are concerned about coverage."
+         "Home insurance coverage varies according to the policy and circumstances. Damage resulting from unauthorized or improper renovations may not be covered in the same way as unexpected accidental damage."
         ],
         [
          "21. Do wall demolition services include drywall patching and painting the remaining edges, or is that a separate trade?"
@@ -752,16 +744,16 @@
          "DIY vs. Professional Wall Demolition"
         ],
         [
-         "23. Can I safely DIY a non-load-bearing wall removal, or should I always hire a pro?"
+         "23. {{fact:structuralDemolition}}."
         ],
         [
-         "Some experienced homeowners can remove a confirmed non-load-bearing partition, but the wall should first be properly identified and checked for hidden electrical, plumbing, HVAC, and other systems. If there is any uncertainty about the wall’s structural role or utilities, professional assessment is the safer option."
+         "{{fact:structuralDemolition}}. If there is any uncertainty about the wall’s structural role or utilities, professional assessment is the safer option."
         ],
         [
          "24. What are the most common mistakes homeowners make when attempting to tear down their own walls?"
         ],
         [
-         "Common mistakes include failing to confirm whether the wall is load-bearing, cutting into hidden wiring or plumbing, overlooking HVAC ducts, creating excessive dust, damaging flooring or ceilings, and underestimating debris removal. Another common mistake is starting demolition before checking local permit requirements."
+         "{{fact:structuralDemolition}}. Another common mistake is starting demolition before checking local permit requirements."
         ]
        ]
       }

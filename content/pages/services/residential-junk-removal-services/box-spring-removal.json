@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -69,7 +69,7 @@
     {
      "t": "p",
      "c": [
-      "The process begins with a completely free, no-pressure quote. Simply describe your box spring or send us a photo, and we’ll provide transparent pricing with no hidden fees. Once you approve, our uniformed professionals arrive at your scheduled time fully prepared."
+      "The process begins with a completely free, no-pressure quote. Once you approve, our uniformed professionals arrive at your scheduled time fully prepared."
      ]
     },
     {
@@ -115,7 +115,7 @@
     {
      "t": "p",
      "c": [
-      "Getting rid of an old box spring shouldn’t be a frustrating struggle. Our professional removal service starts at just {{cad_125}}, and we take care of every detail for you. We’ll carefully remove your box spring from any bedroom, basement, or tight space, clean the surrounding area, and haul everything away – no heavy lifting or leftover mess for you to deal with."
+      "Getting rid of an old box spring shouldn’t be a frustrating struggle. We’ll carefully remove your box spring from any bedroom, basement, or tight space, clean the surrounding area, and haul everything away – no heavy lifting or leftover mess for you to deal with."
      ]
     },
     {
@@ -137,7 +137,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 60 seconds."
+          "Call answered."
          ]
         }
        ]
@@ -151,7 +151,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same Day Box Spring Removal Service"
+     "text": "Box Spring Removal Service"
     },
     {
      "t": "p",
@@ -169,7 +169,7 @@
         "Live Junk Free"
        ]
       },
-      ", we take the hassle out of box spring removal when time matters most. Whether you’re upgrading your bedroom set, preparing for a move, or converting a guest room, our same-day and next-day services ensure you won’t be stuck with that space-hogging box spring longer than necessary."
+      ", we take the hassle out of box spring removal when time matters most. Whether you’re upgrading your bedroom set, preparing for a move, or converting a guest room, our same-day and next-day services ensure you won’t be stuck with that space-hogging box spring longer than necessary, subject to scheduling."
      ]
     },
     {
@@ -226,13 +226,13 @@
       {
        "title": "Flexible Scheduling",
        "text": [
-        "Book same-day, next-day, or weekend slots to fit your busy life."
+        "Book same-day when available, next-day, or weekend slots to fit your busy life."
        ]
       },
       {
-       "title": "No Hidden Costs",
+       "title": "{{fact:competitorComparison}}",
        "text": [
-        "Transparent upfront pricing that includes labor, disposal, and cleanup fees."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -250,7 +250,7 @@
       {
        "title": "Time Savings",
        "text": [
-        "What could take you hours of struggle, we complete in under 30 minutes."
+        "Timing confirmed at your estimate"
        ]
       },
       {
@@ -307,7 +307,7 @@
        "Community Donations – Gently used box springs are sanitized and donated to local shelters"
       ],
       [
-       "Waste Reduction – Over 85% of materials diverted from landfills through responsible methods"
+       "{{fact:recycling}}"
       ]
      ]
     },
@@ -340,7 +340,7 @@
      "t": "ul",
      "items": [
       [
-       "Pay only for what we take – No hidden fees"
+       "Pay only for what we take"
       ],
       [
        "Instant free quotes – Get pricing by phone, text, or online"
@@ -403,19 +403,19 @@
       {
        "title": "Send a Photo",
        "text": [
-        "Just snap a photo of your box spring and text it to us or upload it through our website. We'll get back to you within minutes with everything you need to know."
+        "Just snap a photo of your box spring and text it to us or upload it through our website. {{fact:freeOnsiteEstimates.long}}"
        ]
       },
       {
        "title": "Get a Quote",
        "text": [
-        "Receive honest, upfront pricing with no hidden fees or surprises."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Schedule Pickup",
        "text": [
-        "Select same-day or next-day service at a time that works best for you - we accommodate evenings and weekends."
+        "Select same-day or next-day service when available at a time that works best for you - we accommodate evenings and weekends."
        ]
       },
       {

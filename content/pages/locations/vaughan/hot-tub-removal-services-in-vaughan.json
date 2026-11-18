@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Hot Tub Removal Services in Vaughan from Live Junk Free — done safely and in one visit, draining, disconnecting, cutting apart and hauling away by an insured crew, quoted flat on site, with the yard left clear the same day, seven days a week."
+     "text": "{{fact:nextAvailable}}"
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,7 +80,7 @@
     {
      "t": "p",
      "c": [
-      "Vaughan builds and rebuilds constantly, and hot tub removal shows up in almost every version of that story. Across Maple, Vellore Village and Sonoma Heights, it’s a tub left behind by a previous owner, drained and cleared as a new family renovates the backyard to fit their own plans. On builder and renovation projects across the city, it’s hot tub removal coordinated directly with the GC — timed to a backyard’s construction schedule the same way any other trade would be. In Kleinburg and Islington Woods, it’s larger estate properties removing tubs and spa structures with real discretion, grounds and landscaping protected throughout. And through Woodbridge and Vaughan’s older streets, it’s a tub that’s simply outlived its use, cleared alongside the rest of a backyard refresh. The 700+ five-star Google reviews behind Live Junk Free come from every one of those backyards — a hot tub removal crew that drained it properly, cut it down safely without wrecking the deck or patio underneath, and hauled every piece away the same visit."
+      "Vaughan builds and rebuilds constantly, and hot tub removal shows up in almost every version of that story. Across Maple, Vellore Village and Sonoma Heights, it’s a tub left behind by a previous owner, drained and cleared as a new family renovates the backyard to fit their own plans. On builder and renovation projects across the city, it’s hot tub removal coordinated directly with the GC — timed to a backyard’s construction schedule the same way any other trade would be. In Kleinburg and Islington Woods, it’s larger estate properties removing tubs and spa structures with real discretion, grounds and landscaping protected throughout. And through Woodbridge and Vaughan’s older streets, it’s a tub that’s simply outlived its use, cleared alongside the rest of a backyard refresh. The Google reviews behind Live Junk Free come from every one of those backyards — a hot tub removal crew that drained it properly, cut it down safely without wrecking the deck or patio underneath, and hauled every piece away the same visit."
      ]
     },
     {
@@ -117,7 +117,7 @@
        "title": "One flat hot tub removal price — draining, cutting and hauling all included",
        "text": [
         [
-         "A hot tub isn’t a normal junk item, and Live Junk Free’s quote reflects the real work: draining the water, disconnecting whatever needs disconnecting, cutting the shell into manageable sections, and hauling every piece away. All of it sits inside one written price agreed on site — no surprise fee for the water, the weight or the extra hour it takes to do it properly."
+         "A hot tub isn’t a normal junk item, and Live Junk Free’s quote reflects the real work: draining the water, disconnecting whatever needs disconnecting, cutting the shell into manageable sections, and hauling every piece away."
         ]
        ]
       },
@@ -159,10 +159,10 @@
       },
       {
        "n": "06",
-       "title": "Independent hot tub removal pricing — 30–50% under the bigger outfits",
+       "title": "Independent hot tub removal pricing",
        "text": [
         [
-         "The national junk removal brands price hot tub removal with a franchise premium built in. Live Junk Free is locally owned with none of that markup — the reason identical hot tub removals in Vaughan invoice 30–50% lighter with us."
+         "The national junk removal brands price hot tub removal with a franchise premium built in."
         ]
        ]
       }
@@ -189,7 +189,7 @@
     {
      "t": "p",
      "c": [
-      "Pricing is set on site once the crew sees the tub’s size, condition and access — small portable spas price lower, full-size six-and-seven-seat tubs price accordingly, and anything with unusually difficult access (basement tubs, elevated decks, tight side-yard gates) gets factored in honestly at the walkthrough. The number covers draining, cutting, hauling and responsible disposal or recycling as one figure, with per-unit pricing available for builders removing several tubs across a development."
+      "Pricing is set on site once the crew sees the tub’s size, condition and access — small portable spas price lower, full-size six-and-seven-seat tubs price accordingly, and anything with unusually difficult access (basement tubs, elevated decks, tight side-yard gates) gets factored in honestly at the walkthrough. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
      ]
     },
     {
@@ -211,7 +211,7 @@
     {
      "t": "price",
      "label": "Vaughan Hot Tub Removal Price",
-     "value": "{{cad_265}}"
+     "value": "Priced at your free onsite estimate"
     },
     {
      "t": "p",
@@ -259,7 +259,7 @@
        "title": "Book Your Hot Tub Removal Visit",
        "text": [
         [
-         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots are usually available, seven days a week, 6AM to 11PM. Tell us the tub’s rough size and location in the yard, or your project’s schedule if it’s part of a renovation."
+         "Call +1 647 922 5865 or book online with Live Junk Free — same-day slots are usually available. Tell us the tub’s rough size and location in the yard, or your project’s schedule if it’s part of a renovation."
         ]
        ]
       },
@@ -283,10 +283,10 @@
       },
       {
        "n": "04",
-       "title": "Your Yard Is Clear the Same Day",
+       "title": "Your Yard Is Clear",
        "text": [
         [
-         "The space where the tub sat gets left clean, with metal components, motors and pumps routed to recycling and the rest disposed of responsibly. Most Vaughan hot tub removals finish within a couple of hours."
+         "The space where the tub sat gets left clean, with metal components, motors and pumps routed to recycling and the rest disposed of responsibly."
         ]
        ]
       }
@@ -677,7 +677,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — backyard, contractor-coordinated and estate hot tub removals across Vaughan, York Region and the GTA."
+      "Google reviews — backyard, contractor-coordinated and estate hot tub removals across Vaughan, York Region and the GTA."
      ]
     },
     {
@@ -811,7 +811,7 @@
        "q": "How much does hot tub removal cost in Vaughan?",
        "a": [
         [
-         "Pricing is confirmed on site once the crew sees the tub’s size, condition and how hard it is to get to — a portable spa costs less than a full six-seater with tight gate access. The number covers draining, cutting, hauling and disposal together, with per-unit pricing available if a builder needs several removals across a project."
+         "Pricing is confirmed on site once the crew sees the tub’s size, condition and how hard it is to get to — a portable spa costs less than a full six-seater with tight gate access. {{fact:taxNote}}. {{fact:pricingIntro.extra}}"
         ]
        ]
       },

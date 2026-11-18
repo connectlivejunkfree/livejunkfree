@@ -61,7 +61,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/11/DSC08963-1024x683.webp",
-      "alt": "DSC08963",
+      "alt": "Hutch Removal: Live Junk Free job photo",
       "width": 800,
       "height": 534
      }
@@ -239,20 +239,20 @@
     {
      "t": "p",
      "c": [
-      "Simple, flat-rate quotes, no hidden charges"
+      "Simple, flat-rate quotes"
      ]
     },
     {
      "t": "ul",
      "items": [
       [
-       "Free, instant quote via call/text or online form"
+       "{{fact:freeOnsiteEstimates}}"
       ],
       [
-       "No hidden fees, no last-minute add-ons"
+       "{{fact:competitorComparison}}"
       ],
       [
-       "Discounts when you book with other furniture or junk removal services"
+       "{{fact:competitorComparison}}"
       ]
      ]
     },
@@ -309,9 +309,9 @@
        ]
       },
       {
-       "title": "100% satisfaction guarantee",
+       "title": "",
        "text": [
-        "We handle your junk responsibly with a 100% satisfaction promise and sustainable disposal."
+        "We handle your junk responsibly with sustainable disposal."
        ]
       }
      ]
@@ -410,7 +410,7 @@
      "t": "img",
      "image": {
       "src": "/images/uploads/2024/11/DSC08977-scaled.webp",
-      "alt": "DSC08977 scaled",
+      "alt": "Hutch Removal: Live Junk Free job photo",
       "width": 2560,
       "height": 1707
      }
@@ -434,9 +434,9 @@
        ]
       },
       {
-       "title": "2. Get an Instant Quote",
+       "title": "2.",
        "text": [
-        "We give you a flat price with no hidden charges"
+        "{{fact:competitorComparison}}"
        ]
       },
       {
@@ -524,7 +524,7 @@
        "Fast response for move-outs, renovations, or upgrades"
       ],
       [
-       "No damage to property or surrounding fixtures"
+       "To property or surrounding fixtures"
       ],
       [
        "Flexible hours, including after-hours pickups"
@@ -560,7 +560,7 @@
     {
      "t": "p",
      "c": [
-      "Managing multiple properties or doing renovations? Ask about our bulk pricing and scheduled pickups."
+      "Managing multiple properties or doing renovations?"
      ]
     },
     {
@@ -805,7 +805,7 @@
        "q": "How much does a hutch removal cost?",
        "a": [
         [
-         "Pricing depends on size and complexity, but we offer free, transparent quotes with no hidden fees. Contact us for an instant estimate tailored to your specific hutch removal needs."
+         "{{fact:freeOnsiteEstimates}}"
         ]
        ]
       },

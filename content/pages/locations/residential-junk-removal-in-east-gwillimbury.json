@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-Day Residential Junk Removal in East Gwillimbury | Live Junk Free",
-  "description": "Get expert same-day residential junk removal in East Gwillimbury. We remove junk from basements, garages, backyards, and more efficiently. Call us now.",
+  "title": "Residential Junk Removal in East Gwillimbury | Live Junk Free",
+  "description": "Get expert same-day residential junk removal in East Gwillimbury, subject to scheduling. We remove junk from basements, garages, backyards, and more efficiently. Call us now.",
   "canonical": "https://livejunkfree.ca/locations/residential-junk-removal-in-east-gwillimbury/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "residential-junk-removal-in-east-gwillimbury",
+ "title": "Residential Junk Removal in East Gwillimbury",
  "h1": "Residential Junk Removal in East Gwillimbury, Ontario — Young Town, Fast-Growing Households, Short-Career Furniture",
  "published": "2026-07-15T08:11:06",
  "modified": "2026-07-15T08:11:06",
@@ -32,7 +32,7 @@
     {
      "t": "p",
      "c": [
-      "East Gwillimbury is a young town, and young households outgrow things at speed. The crib becomes a toddler bed becomes a bunk bed. The swing set gives way to bikes, the bikes to a basketball net. The starter sofa survives exactly one spill too many. All of it needs somewhere to go — and that’s us. One call brings a fully insured crew to your door with a free flat quote, and everything you’ve outgrown leaves the same day, carried from wherever it sits."
+      "East Gwillimbury is a young town, and young households outgrow things at speed. The crib becomes a toddler bed becomes a bunk bed. The swing set gives way to bikes, the bikes to a basketball net. The starter sofa survives exactly one spill too many. All of it needs somewhere to go — and that’s us. One call brings a fully insured crew to your door with a free flat quote, and everything you’ve outgrown leaves the same day, carried from wherever it sits, subject to scheduling."
      ]
     },
     {
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Half our East Gwillimbury bookings start with \"our neighbour used you.\" In a town of new streets and young families, word moves fast — and 660+ five-star Google reviews say the same thing the fences do: on time, flat quotes, careful with the new floors, gone before nap time's over."
+     "text": "Half our East Gwillimbury bookings start with \"our neighbour used you.\" In a town of new streets and young families, word moves fast — and Google reviews say the same thing the fences do: on time, flat quotes, careful with the new floors, gone before nap time's over."
     },
     {
      "t": "steps",
@@ -109,7 +109,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "An outgrown crib is a sliver of the truck; a garage's worth of outgrown everything is more — and that's the entire calculation. No hourly rates, no heavy-item fees, no difference between Holland Landing and the newest Queensville street."
+     "text": "An outgrown crib is a sliver of the truck; a garage's worth of outgrown everything is more — and that's the entire calculation."
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Carrying, loading, fuel, disposal and recycling fees — every cost lives inside the quote you approve. Whatever the job turns out to involve, the figure has already stopped moving."
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Whatever the job turns out to involve, the figure has already stopped moving."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent pricing runs 30–50% under the big chains",
+       "title": "{{fact:competitorComparison}}",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national junk franchises carry royalty fees in every quote. We're locally owned with none — and young households, who have better uses for every dollar, keep the 30–50% difference."
+     "text": "The national junk franchises carry royalty fees in every quote."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small pickups start at {{cad_125}}, single items stay proportionally cheap, and the everything-at-once clear — outgrown furniture, the old appliances, the deflated bouncy castle — rides as one combined load priced by total truck space. The figure quoted free at your door is the figure on the receipt, to the dollar."
+     "text": "Small pickups start at {{min_price:C}}, single items stay proportionally cheap, and the everything-at-once clear — outgrown furniture, the old appliances, the deflated bouncy castle — rides as one combined load priced by total truck space. The figure quoted free at your door is the figure on the receipt, to the dollar."
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Grab a Slot",
        "text": [
-        "Call +1 647 922 5865 or book online in two minutes. Crews run all of East Gwillimbury seven days a week, 6AM to 11PM, with same-day openings and a 30-minute text before we pull up."
+        "Call +1 647 922 5865 or book."
        ]
       },
       {
        "title": "2. Point at the Pile",
        "text": [
-        "The nursery set, the garage corner, the sofa on its last legs — show us everything and get one flat, all-inclusive quote on the spot. No obligation attached."
+        "The nursery set, the garage corner, the sofa on its last legs — show us everything and get one flat, quote on the spot. No obligation attached."
        ]
       },
       {
@@ -483,7 +483,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -513,7 +513,7 @@
        "q": "Q: How much does junk removal cost for an East Gwillimbury home?",
        "a": [
         [
-         "A: Exactly as much truck space as your items fill — small loads from $125, single items at the low end, bigger clears scaling honestly. The flat figure is quoted free at your door with stairs, weight and awkwardness already inside it, and it can’t grow after you approve."
+         "A: Exactly as much truck space as your items fill — small loads from {{min_price:C}}, single items at the low end, bigger clears scaling honestly. The flat figure is quoted free at your door with stairs, weight and awkwardness already inside it, and it can’t grow after you approve."
         ]
        ]
       },

@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-Day Residential Junk Removal in Port Perry | Live Junk Free",
-  "description": "Trust us for same-day residential junk removal in Port Perry. We remove junk from homes, garages, backyards, basements, and more affordably. Call us now.",
+  "title": "Residential Junk Removal in Port Perry | Live Junk Free",
+  "description": "Trust us for same-day residential junk removal in Port Perry, subject to scheduling. We remove junk from homes, garages, backyards, basements, and more affordably. Call us now.",
   "canonical": "https://livejunkfree.ca/locations/residential-junk-removal-in-port-perry/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "residential-junk-removal-in-port-perry",
+ "title": "Residential Junk Removal in Port Perry",
  "h1": "Residential Junk Removal in Port Perry, Ontario — Point at It, and It's Gone",
  "published": "2026-07-13T08:14:14",
  "modified": "2026-07-13T08:14:14",
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Port Perry doesn't run on advertising — it runs on recommendations traded at the marina, the arena and the Saturday market. That's exactly how Live Junk Free grew here: over 660 five-star Google reviews from homeowners who watched our crew show up on time, quote a fair number, carry heavy things through narrow century-home hallways without a scratch, and sweep up on the way out."
+     "text": "Port Perry doesn't run on advertising — it runs on recommendations traded at the marina, the arena and the Saturday market. That's exactly how Live Junk Free grew here: Google reviews from homeowners who watched our crew show up on time, quote a fair number, carry heavy things through narrow century-home hallways, and sweep up on the way out."
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Lifting, loading, driving, tipping fees, fuel, the works — one figure covers everything from your hallway to the disposal facility. Once you've approved it, nothing that happens during the job can raise it."
+     "text": "Once you've approved it, nothing that happens during the job can raise it."
     },
     {
      "t": "steps",
@@ -154,7 +154,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "A lot of Port Perry furniture has to come down staircases older than the province's highway system. Our movers pad the banisters, shield the floors, take doors off hinges when needed and dismantle oversized pieces rather than force them — original trim survives every visit."
+     "text": "A lot of Port Perry furniture has to come down staircases older than the province's highway system. {{fact:propertyProtection}}."
     },
     {
      "t": "steps",
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Every big-brand junk truck carries a royalty fee inside its price. Ours doesn't, because there's no head office taking a cut — just a local operation whose Port Perry rates land 30–50% under the national chains."
+     "text": "Every big-brand junk truck carries a royalty fee inside its price."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small pickups begin at {{cad_125}}, single items are priced like single items, and bigger clears grow only as fast as the truck fills. Every figure is settled face-to-face before a single thing is lifted — which means the invoice at the end matches the handshake at the start, every time. Book your free Port Perry quote and see the number before you decide anything."
+     "text": "Small pickups begin at {{min_price:C}}, single items are priced like single items, and bigger clears grow only as fast as the truck fills. Every figure is settled face-to-face before a single thing is lifted — which means the invoice at the end matches the handshake at the start, every time. Book your free Port Perry quote and see the number before you decide anything."
     },
     {
      "t": "cards",
@@ -252,15 +252,15 @@
      "t": "cards",
      "items": [
       {
-       "title": "1. Book in Two Minutes",
+       "title": "1. Book",
        "text": [
-        "Call +1 647 922 5865 or use the online form. Crews cover Port Perry and all of Scugog seven days a week, 6AM to 11PM, with same-day openings most days and a 30-minute heads-up text before arrival."
+        "Call +1 647 922 5865 or use the online form."
        ]
       },
       {
        "title": "2. Give Us the Tour",
        "text": [
-        "Point out everything that's going — one item or forty. We measure it against the truck, quote one all-inclusive price, and leave the decision entirely with you."
+        "Point out everything that's going — one item or forty. We measure it against the truck, quote one price, and leave the decision entirely with you."
        ]
       },
       {
@@ -486,7 +486,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -516,7 +516,7 @@
        "q": "Q: What does junk removal cost for a Port Perry home?",
        "a": [
         [
-         "A: Whatever space your items claim in the truck — that’s the entire formula. Small loads start at $125, and the exact figure is quoted free at your door before anything moves. No hourly rates, no weight fees, no revisions after the fact."
+         "A: Whatever space your items claim in the truck — that’s the entire formula. Small loads start at {{min_price:C}}, and the exact figure is quoted free at your door before anything moves."
         ]
        ]
       },
@@ -524,7 +524,7 @@
        "q": "Q: How soon can a crew get here?",
        "a": [
         [
-         "A: Often today. We run seven days a week, 6AM to 11PM, across Port Perry and all of Scugog, and same-day slots open most mornings. Call +1 647 922 5865 for a straight answer on current availability."
+         "A: Often today. Call +1 647 922 5865 for a straight answer on current availability."
         ]
        ]
       },
@@ -532,7 +532,7 @@
        "q": "Q: The stuff is in the basement / upstairs / out in the boathouse — is that a problem?",
        "a": [
         [
-         "A: It’s the job. We carry items from exactly where they live — basements, second floors, sheds, bunkies, boathouses — with floor runners down and corners padded. You never need to stage anything at the curb."
+         "A: It’s the job. {{fact:propertyProtection}}. You never need to stage anything at the curb."
         ]
        ]
       },

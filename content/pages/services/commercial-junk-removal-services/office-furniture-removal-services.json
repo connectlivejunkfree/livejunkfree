@@ -5,13 +5,13 @@
  "type": "service",
  "template": "Commercial",
  "seo": {
-  "title": "office-furniture-removal-services - Live JunkFree",
-  "description": "Need office furniture removal in Toronto & GTA? Live Junk Free removes desks, chairs & cubicles same day — fully insured, no hidden fees. Call +1 647 922 5865!",
+  "title": "Office Furniture Removal Services - Live JunkFree",
+  "description": "Need office furniture removal in Toronto & GTA? Live Junk Free removes desks, chairs & cubicles same day — fully insured, subject to scheduling. Call +1 647 922 5865!",
   "canonical": "https://livejunkfree.ca/services/commercial-junk-removal-services/office-furniture-removal-services/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/Office-Furniture-Removal-Services-before.jpg"
  },
- "title": "office-furniture-removal-services",
+ "title": "Office Furniture Removal Services",
  "h1": "Toronto's Most Trusted Office Furniture Removal Company!",
  "published": "2026-07-10T02:52:06",
  "modified": "2026-07-23T06:39:07",
@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -108,7 +108,7 @@
     {
      "t": "p",
      "c": [
-      "Clearing out old office furniture shouldn’t disrupt your business. Our professional office furniture removal service starts at just {{cad_125}}, and we handle everything from start to finish. We’ll carefully remove unwanted workstations, conference tables, filing cabinets, and more, including disassembly if needed, then thoroughly clean the area and haul everything away. No heavy lifting for your staff and no mess left behind!"
+      "Clearing out old office furniture shouldn’t disrupt your business. We’ll carefully remove unwanted workstations, conference tables, filing cabinets, and more, including disassembly if needed, then thoroughly clean the area and haul everything away. No heavy lifting for your staff and no mess left behind!"
      ]
     },
     {
@@ -130,7 +130,7 @@
        "b": [
         {
          "i": [
-          "Call answered in 1 minute."
+          ""
          ]
         }
        ]
@@ -144,7 +144,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Office Furniture Removal Service Near You"
+     "text": "Office Furniture Removal Service Near You"
     },
     {
      "t": "p",
@@ -162,7 +162,7 @@
     {
      "t": "p",
      "c": [
-      "We recognize that office timelines can’t wait, whether you’re renovating, relocating, upgrading workstations, or simply need to clear space fast. That’s why we offer same-day and after-hours office furniture removal across Toronto, often completing jobs during evenings or weekends to avoid business interruptions."
+      "We recognize that office timelines can’t wait, whether you’re renovating, relocating, upgrading workstations, or simply need to clear space fast. {{fact:scheduling}}"
      ]
     },
     {
@@ -181,7 +181,7 @@
        "Equipment to handle heavy filing cabinets and conference tables"
       ],
       [
-       "Floor protection systems for your office flooring"
+       "{{fact:propertyProtection}}"
       ]
      ]
     },
@@ -190,7 +190,7 @@
      "c": [
       {
        "b": [
-        "We Offer Same-Day Office Furniture Removal Service"
+        "We Offer Office Furniture Removal Service"
        ]
       }
      ]
@@ -214,7 +214,7 @@
        ]
       },
       {
-       "title": "Volume Discounts",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         "– Special rates for whole office clearouts"
        ]
@@ -222,7 +222,7 @@
       {
        "title": "Flexible Scheduling",
        "text": [
-        "– Book next-day, weekend, or same-day slots to fit your timeline"
+        "– Book next-day, weekend, or same-day slots when available to fit your timeline"
        ]
       },
       {
@@ -234,7 +234,7 @@
       {
        "title": "One-Call Service",
        "text": [
-        "– We handle disassembly, removal & final air dust"
+        ""
        ]
       },
       {
@@ -243,79 +243,6 @@
         "– Commercial-grade floor guards and corner protectors safeguard your office flooring during the entire removal process"
        ]
       }
-     ]
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "How Our Office Furniture Removal Services Work"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Sustainable Office Furniture Removal That Supports Our Community"
-    },
-    {
-     "t": "p",
-     "c": [
-      "At Live Junk Free, we combine efficient service with environmental responsibility:"
-     ]
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "Modular furniture systems are carefully disassembled and recycled"
-      ],
-      [
-       "Metal components from workstations are processed at certified facilities"
-      ],
-      [
-       "Office electronics were responsibly wiped and recycled"
-      ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "b": [
-        {
-         "i": [
-          "We Take Pride in Our Sustainable Office Solutions."
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Transparent Office Furniture Removal Pricing – No Surprises"
-    },
-    {
-     "t": "p",
-     "c": [
-      "You only pay for what we remove."
-     ]
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "Free instant estimates via virtual survey, email, or office walkthrough"
-      ],
-      [
-       "Volume discounts for multi-floor office clearouts or recurring contracts"
-      ],
-      [
-       "Corporate pricing with detailed invoices for accounting"
-      ]
      ]
     }
    ]
@@ -385,25 +312,25 @@
       {
        "title": "Send us Photos",
        "text": [
-        "Email or text photos of your office furniture, and we'll respond within 30 minutes with a solution."
+        "Email or text photos of your office furniture and we'll get back to you with a quote."
        ]
       },
       {
        "title": "Get a Quote",
        "text": [
-        "Receive transparent, all-inclusive pricing, no hidden fees for disassembly or elevator use."
+        "Receive transparent, pricing for disassembly or elevator use."
        ]
       },
       {
        "title": "Pick Your Time",
        "text": [
-        "Choose after-hours, weekend, or business-hour slots to minimize office disruption."
+        "{{fact:weekendPickup}}"
        ]
       },
       {
        "title": "We Remove It",
        "text": [
-        "Our uniformed team arrives on time, removes all items, and leaves your space broom-clean, typically in 2-4 hours."
+        "Our uniformed team arrives on time, removes all items, and leaves your space broom-clean."
        ]
       }
      ]
@@ -436,11 +363,11 @@
       },
       {
        "src": "/images/uploads/2025/07/20250405_140825-1024x577.webp",
-       "alt": "20250405_140825"
+       "alt": "Office Furniture Removal: Live Junk Free job photo"
       },
       {
        "src": "/images/uploads/2025/07/20250405_142357-1024x577.webp",
-       "alt": "20250405_142357"
+       "alt": "Office Furniture Removal: Live Junk Free job photo"
       }
      ]
     }
@@ -468,7 +395,7 @@
        "q": "Do you dismantle desks, cubicles, and other large office furniture?",
        "a": [
         [
-         "Yes, our team professionally disassembles all modular furniture systems and large office items before removal."
+         "In most cases, yes. Tell us about any modular or wired systems when you call and we'll confirm what's involved at the estimate."
         ]
        ]
       },
@@ -476,7 +403,7 @@
        "q": "How much does office furniture removal cost?",
        "a": [
         [
-         "Prices start at $125, based on volume. We provide free, no-obligation quotes tailored to your specific needs."
+         "We provide free, no-obligation quotes tailored to your specific needs."
         ]
        ]
       },

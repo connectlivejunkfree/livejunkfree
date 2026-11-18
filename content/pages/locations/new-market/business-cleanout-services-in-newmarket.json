@@ -26,7 +26,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Business cleanout services in Newmarket from Live Junk Free happen on evenings and weekends at no extra cost, because every day a business stays closed for a cleanout is a day it isn't making money — and getting you reopened faster matters more here than almost anywhere else."
+     "text": "{{fact:pricingIntro.extra}}"
     },
     {
      "t": "ctas",
@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -80,13 +80,13 @@
     {
      "t": "p",
      "c": [
-      "Because a business that’s closed is a business that isn’t earning, and a cleanout that drags into weekday business hours costs more than the invoice ever will. Live Junk Free treats weekend and evening scheduling as the default for business cleanout, not a special request, timed so a reopening happens as fast as the actual work allows."
+      "Because a business that’s closed is a business that isn’t earning, and a cleanout that drags into weekday business hours costs more than the invoice ever will. {{fact:scheduling}}"
      ]
     },
     {
      "t": "p",
      "c": [
-      "Along the Davis Drive medical corridor, that matters even more — a clinic or medical office closed for days affects patients who depend on it. Around historic Main Street, it’s a family shop trying to minimize the days the doors stay locked."
+      "Around historic Main Street, it’s a family shop trying to minimize the days the doors stay locked."
      ]
     },
     {
@@ -116,7 +116,7 @@
     {
      "t": "p",
      "c": [
-      "No. Saturday, Sunday and evening business cleanouts cost exactly what a weekday visit costs — the flat price given at the walkthrough doesn’t change based on which day the actual work happens."
+      "No. {{fact:scheduling}}"
      ]
     }
    ]
@@ -131,13 +131,13 @@
        "title": "Zero-downtime business cleanout scheduling",
        "text": [
         [
-         "Weekend and evening execution is standard, timed to get a business back open as fast as possible rather than extending a closure into the workweek."
+         "{{fact:scheduling}}"
         ]
        ]
       },
       {
        "n": "02",
-       "title": "No weekend or evening premium on business cleanout, ever",
+       "title": "{{fact:weekendPickup}}",
        "text": [
         [
          "The price a crew gives at the walkthrough is the same whether the job happens on a Tuesday or a Sunday."
@@ -149,7 +149,7 @@
        "title": "Davis Drive medical corridor business cleanout coordination",
        "text": [
         [
-         "Clinics and medical offices get scheduling sensitive to patient impact, with the space cleared and ready as quickly as the real work allows."
+         ""
         ]
        ]
       },
@@ -158,7 +158,7 @@
        "title": "One flat business cleanout price, confirmed before anything moves",
        "text": [
         [
-         "A crew member sees the actual space and gives one flat number before anything moves — no per-item guessing, no surprise costs."
+         "A crew member sees the actual space and gives one flat number before anything moves — no per-item guessing."
         ]
        ]
       },
@@ -173,7 +173,7 @@
       },
       {
        "n": "06",
-       "title": "Independent business cleanout pricing, 30–50% under the bigger outfits",
+       "title": "Independent business cleanout pricing",
        "text": [
         [
          "National junk removal franchises build a royalty into every quote, and some charge extra for weekend work. Live Junk Free does neither."
@@ -209,21 +209,21 @@
     {
      "t": "p",
      "c": [
-      "What never changes the price is which day the work actually happens. Weekend and evening execution is included in the quote, never added on top. The figure is confirmed for free at an on-site walkthrough, and it’s the number on the invoice."
+      "What never changes the price is which day the work actually happens. {{fact:scheduling}} The figure is confirmed for free at an on-site walkthrough."
      ]
     },
     {
      "t": "checks",
      "items": [
       "Hauling-Away",
-      "No Stairs Surcharges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
@@ -231,7 +231,7 @@
     {
      "t": "price",
      "label": "Newmarket Business Cleanout",
-     "value": "{{cad_125:suffix}}"
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
@@ -297,7 +297,7 @@
       },
       {
        "n": "04",
-       "title": "Your Business Is Back Open, Same Day",
+       "title": "Your Business Is Back Open",
        "text": [
         [
          "Whatever’s leaving gets hauled out, donations and resale items go to the right channels, and the space is left swept and ready — often the same weekend you called."
@@ -332,13 +332,10 @@
      "t": "ul",
      "items": [
       [
-       "Business cleanouts for clinics and medical offices along Davis Drive"
-      ],
-      [
        "Scheduling sensitive to patient impact and appointment continuity"
       ],
       [
-       "Weekend and evening completion as standard, no extra cost"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Same flat pricing as any other business cleanout"
@@ -372,7 +369,7 @@
        "Same-day service for straightforward downtown access"
       ],
       [
-       "Weekend scheduling as standard, no extra cost"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Same flat pricing as any other district"
@@ -395,7 +392,7 @@
        "Business cleanouts for offices and units across Newmarket's business parks"
       ],
       [
-       "Evening scheduling for tenants who can only manage this after hours"
+       "{{fact:weekendPickup}}"
       ],
       [
        "Same-day completion for most straightforward jobs"
@@ -678,7 +675,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — medical corridor, heritage and business park cleanouts across Newmarket, York Region and the GTA."
+      "Google reviews — medical corridor, heritage and business park cleanouts across Newmarket, York Region and the GTA."
      ]
     },
     {
@@ -815,7 +812,7 @@
        "q": "How much do business cleanout services cost in Newmarket?",
        "a": [
         [
-         "Pricing is confirmed free at the walkthrough — with weekend and evening execution included in the number, never surcharged."
+         "{{fact:scheduling}}"
         ]
        ]
       },
@@ -828,18 +825,10 @@
        ]
       },
       {
-       "q": "Do you have experience with medical offices along Davis Drive?",
-       "a": [
-        [
-         "Yes — scheduling for clinics and medical spaces is sensitive to patient impact, timed for evenings or weekends wherever possible."
-        ]
-       ]
-      },
-      {
        "q": "We can only manage this after hours — is that a problem?",
        "a": [
         [
-         "Not at all. Evening scheduling is standard practice, not an exception, and it costs the same as a weekday daytime slot."
+         "Not at all. {{fact:scheduling}}"
         ]
        ]
       },
@@ -863,7 +852,7 @@
        "q": "Can you clear the space the same day I call?",
        "a": [
         [
-         "Often, yes — trucks run seven days a week, 6AM to 11PM."
+         "{{fact:sameDay}}."
         ]
        ]
       },

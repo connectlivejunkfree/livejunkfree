@@ -5,13 +5,13 @@
  "type": "location-service",
  "template": "LocationService",
  "seo": {
-  "title": "Same-day Apartment Cleanout Services in Oshawa | Live Junk Free",
-  "description": "Oshawa apartment cleanouts by Live Junk Free. We offer same-day service for clutter removal, furniture haul-away, tenant junk, and appliance disposal. Schedule now!",
+  "title": "Apartment Cleanout Services in Oshawa | Live Junk Free",
+  "description": "Oshawa apartment cleanouts by Live Junk Free. We offer same-day service when available for clutter removal, furniture haul-away, tenant junk, and appliance disposal. Schedule now!",
   "canonical": "https://livejunkfree.ca/locations/apartment-cleanouts-in-oshawa/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "apartment-cleanouts-in-oshawa",
+ "title": "Apartment Cleanouts in Oshawa",
  "h1": "Apartment Cleanout Services in Oshawa, Ontario — Because Units Change Hands, and Stuff Gets Left Behind",
  "published": "2026-07-14T01:47:02",
  "modified": "2026-07-14T01:47:02",
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Between the apartment towers along Simcoe, the student rentals surrounding Durham College and Ontario Tech in the north end, and basement units woven through McLaughlin, Eastdale and Vanier, Oshawa keeps a cleanout crew busy year-round. Live Junk Free has built 660+ five-star Google reviews doing exactly this work — for tenants racing a lease date, landlords facing a full unit, and families clearing a loved one's apartment with care."
+     "text": "Between the apartment towers along Simcoe, the student rentals surrounding Durham College and Ontario Tech in the north end, and basement units woven through McLaughlin, Eastdale and Vanier, Oshawa keeps a cleanout crew busy year-round. Live Junk Free has built Google reviews doing exactly this work — for tenants racing a lease date, landlords facing a full unit, and families clearing a loved one's apartment with care."
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Carrying, dismantling, hallway protection, hauling, tipping fees, fuel — it all lives inside the single number you approve before we start. Whatever the unit reveals along the way changes nothing on your invoice."
+     "text": "{{fact:taxNote}}. {{fact:pricingIntro.extra}} Whatever the unit reveals along the way changes nothing on your invoice."
     },
     {
      "t": "steps",
@@ -154,7 +154,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Turnover cleanouts are about the next tenant, so we work to that standard: everything out including what's stuck to the back of closets, common areas protected and left spotless, before-and-after photos on request, and units returned swept and showable — sometimes within hours of the call."
+     "text": "Turnover cleanouts are about the next tenant, so we work to that standard: everything out including what's stuck to the back of closets, common areas protected and left tidy, before-and-after photos on request, and units returned swept and showable — sometimes within hours of the call."
     },
     {
      "t": "steps",
@@ -176,7 +176,7 @@
      "items": [
       {
        "n": "06",
-       "title": "Independent pricing runs 30–50% under the big chains",
+       "title": "{{fact:competitorComparison}}",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Franchise trucks carry franchise fees in every quote. Ours don't — we're locally owned with no royalties to pay — which is why the identical Oshawa cleanout consistently costs 30–50% less with us."
+     "text": "Franchise trucks carry franchise fees in every quote."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small loads start at {{cad_125}}, a typical one-bedroom clears in the mid-range, and even the fullest unit gets one fixed all-in figure before work begins. No hourly billing while the elevator dawdles, no stair surcharges in walk-up buildings, no adjustments after the fact. The free walkthrough produces the number; the number is the bill."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Book It",
        "text": [
-        "Call +1 647 922 5865 or book online in a couple of minutes. Oshawa crews run seven days a week, 6AM to 11PM, same-day slots included, with a 30-minute text before we arrive at the building."
+        "Call +1 647 922 5865 or book online in a couple of minutes."
        ]
       },
       {
        "title": "2. Walk It",
        "text": [
-        "Show us the unit and everything attached to it — balcony, locker, storage cage. We size the whole job and hand you one flat, all-inclusive quote, free of charge and free of pressure."
+        "Show us the unit and everything attached to it — balcony, locker, storage cage. We size the whole job and hand you one flat, quote, free of charge and free of pressure."
        ]
       },
       {
@@ -272,7 +272,7 @@
       {
        "title": "4. Hand It Back",
        "text": [
-        "The unit gets swept and left inspection-ready — for the landlord, the photographer or the new keys. The load gets sorted at our end: donations first, recycling second, landfill only for what remains."
+        "The unit gets swept — for the landlord, the photographer or the new keys. The load gets sorted at our end: donations first, recycling second, landfill only for what remains."
        ]
       }
      ]
@@ -318,7 +318,7 @@
        "q": "Landlord & Property Cleanouts in Oshawa",
        "a": [
         [
-         "Abandoned-belonging cleanouts with photo documentation on request"
+         ""
         ],
         [
          "Eviction unit clearing, handled promptly and professionally"
@@ -474,7 +474,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -504,7 +504,7 @@
        "q": "Q: What does an apartment cleanout run in Oshawa?",
        "a": [
         [
-         "A: Truck volume is the only dial. Small loads start at $125, one-bedrooms typically land mid-range, and packed units cost more because they fill more — always as one flat figure quoted free inside the unit before anything moves. Stairs, elevators and building quirks are included, never extra."
+         "A: Truck volume is the only dial. Stairs, elevators and building quirks are included, never extra."
         ]
        ]
       },
@@ -528,7 +528,7 @@
        "q": "Q: The building has an elevator booking / insurance requirement — is that an issue?",
        "a": [
         [
-         "A: Standard procedure for us. Tell us the elevator window when you book and we’ll load within it; if property management needs a certificate of insurance, we’ll have documentation sent over before cleanout day. Buildings run smoother when the crew knows the rules — so we ask up front."
+         "A: Standard procedure for us. {{fact:insuranceDocs}}. Buildings run smoother when the crew knows the rules — so we ask up front."
         ]
        ]
       },

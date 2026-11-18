@@ -1,12 +1,13 @@
 import { PageShell } from "@/components/designed/layout/PageShell";
 import { MapEmbed } from "@/components/designed/sections/Areas";
+import { fact } from "@/lib/content/facts";
 import { BookingForm } from "@/components/forms/BookingForm";
 import { WordReveal } from "@/components/designed/sections/WordReveal";
 import { Breadcrumbs } from "@/components/designed/ui/Breadcrumbs";
 import { Ticks } from "@/components/designed/ui/Ticks";
 import { CONTACT } from "@content/designed/pages/other";
 import { HREF } from "@content/designed/routes";
-import { HOURS, SITE } from "@content/designed/site";
+import { SITE } from "@content/designed/site";
 
 
 export function ContactPage() {
@@ -31,9 +32,7 @@ export function ContactPage() {
                   {SITE.email}
                 </a>
               </p>
-              <p className="small muted">
-                {C.hoursLabel} {HOURS.summary}
-              </p>
+              <p className="small muted">{fact("businessHours")}.</p>
             </div>
             <Ticks items={C.ticks} />
             <MapEmbed className="min-h-[260px]!" />

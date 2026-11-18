@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -209,21 +209,21 @@
     {
      "t": "p",
      "c": [
-      "What never enters the calculation is an assumption that “estate cleanout” automatically means a bigger invoice. The word describes the situation, not the size of the job — a family clearing one room of a parent’s estate pays for a one-room job, not a padded minimum. The figure is confirmed privately at a free walkthrough, and it’s the number that appears on the invoice, with nothing added afterward."
+      "What never enters the calculation is an assumption that “estate cleanout” automatically means a bigger invoice. The word describes the situation, not the size of the job — a family clearing one room of a parent’s estate pays for a one-room job, not a padded minimum. The figure is confirmed privately at a free walkthrough."
      ]
     },
     {
      "t": "checks",
      "items": [
       "One Flat Price, Sized to the Actual Job",
-      "No Minimum Charge Just Because It's an Estate"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
@@ -231,12 +231,12 @@
     {
      "t": "price",
      "label": "Nobleton Estate Cleanout",
-     "value": "{{cad_125:suffix}}"
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
      "c": [
-      "Volume-priced and all-inclusive — sorting, carrying, hauling and disposal in one figure."
+      "{{fact:competitorComparison}}"
      ]
     },
     {
@@ -341,7 +341,7 @@
        "Estate cleanouts for homes around the King Road and Highway 27 corner"
       ],
       [
-       "No minimum charge for small or single-room jobs"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Family-initiated cleanouts handled with real patience"
@@ -372,7 +372,7 @@
        "Barn, shed and outbuilding coordination under one single booking"
       ],
       [
-       "Long-laneway access included at no extra charge"
+       "{{fact:competitorComparison}}"
       ],
       [
        "Careful handling around active farm operations if any remain"
@@ -399,9 +399,6 @@
      "items": [
       [
        "Cleanouts arranged by adult children, siblings or other family members"
-      ],
-      [
-       "Regular updates and photo documentation for family who live elsewhere"
       ],
       [
        "Coordination with social workers, healthcare providers or case managers where relevant"
@@ -684,7 +681,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — village and hobby farm estate cleanouts across Nobleton, King Township and the GTA. The comment that comes up most: the crew handled the heavy lifting and let the family make every call about what actually mattered."
+      "Google reviews — village and hobby farm estate cleanouts across Nobleton, King Township and the GTA. The comment that comes up most: the crew handled the heavy lifting and let the family make every call about what actually mattered."
      ]
     },
     {
@@ -813,7 +810,7 @@
        "q": "How much does an estate cleanout cost in Nobleton?",
        "a": [
         [
-         "Pricing is based on the actual scope of the job — a single room prices modestly, a full property with a barn costs more given the real time required. There’s no minimum charge just because it’s called an estate cleanout."
+         "Pricing is based on the actual scope of the job — a single room prices modestly, a full property with a barn costs more given the real time required."
         ]
        ]
       },

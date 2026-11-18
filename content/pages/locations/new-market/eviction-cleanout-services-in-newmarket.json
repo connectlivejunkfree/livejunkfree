@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -147,7 +147,7 @@
        "title": "Affordable Eviction Cleanout Pricing in Newmarket",
        "text": [
         [
-         "Our eviction cleanout pricing in Newmarket starts at {{cad_125}}. The final price depends on the amount of material and complexity of the job. Large cleanouts can qualify for bulk pricing, while multi-unit properties can receive custom pricing."
+         "The final price depends on the amount of material and complexity of the job."
         ]
        ]
       },
@@ -265,34 +265,34 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We Give Instant Pricing For Eviction Cleanout Services"
+     "text": "{{fact:freeOnsiteEstimates}}"
     },
     {
      "t": "p",
      "c": [
-      "Our eviction cleanout services in Newmarket start at {{cad_125}}. Pricing depends on the volume of belongings and the complexity of the property. We provide clear, upfront pricing before the cleanout begins. Bulk pricing is available for large jobs, while multi-unit buildings can receive custom pricing based on the overall scope."
+      "Pricing depends on the volume of belongings and the complexity of the property. We provide clear, upfront pricing before the cleanout begins."
      ]
     },
     {
      "t": "checks",
      "items": [
       "Haul-Away",
-      "No Stairs Surcharges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
     },
     {
      "t": "price",
-     "label": "Newmarket Eviction Cleanout Services Starts From",
-     "value": "{{cad_125:suffix}}"
+     "label": "Newmarket Eviction Cleanout Pricing",
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
@@ -461,12 +461,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Junk Removal, Demolition & Cleanout Services in Newmarket"
+     "text": "Junk Removal, Demolition & Cleanout Services in Newmarket"
     },
     {
      "t": "p",
      "c": [
-      "Need more than an eviction cleanout? Live Junk Free also provides same-day junk removal, demolition, and cleanout services in Newmarket, including house cleanouts, apartment cleanouts, basement cleanouts, garage cleanouts, estate cleanouts, hoarding cleanouts, storage unit cleanouts, office cleanouts, property management cleanouts, retail cleanouts, deck demolition, fence removal, shed demolition, garage demolition, hot tub demolition, and other junk removal solutions. These services can be scheduled separately according to the property’s requirements."
+      "Need more than an eviction cleanout? Live Junk Free also provides same-day junk removal when available, demolition, and cleanout services in Newmarket, including house cleanouts, apartment cleanouts, basement cleanouts, garage cleanouts, estate cleanouts, hoarding cleanouts, storage unit cleanouts, office cleanouts, property management cleanouts, retail cleanouts, deck demolition, fence removal, shed demolition, garage demolition, hot tub demolition, and other junk removal solutions. These services can be scheduled separately according to the property’s requirements."
      ]
     },
     {
@@ -800,7 +800,7 @@
     {
      "t": "p",
      "c": [
-      "More than 700 five-star Google reviews across restaurant strip-outs, heritage storefront closures, mall and big-box clearances and landlord re-lease preparations — from Main Street South through York Region and across the GTA."
+      "Google reviews across restaurant strip-outs, heritage storefront closures, mall and big-box clearances and landlord re-lease preparations — from Main Street South through York Region and across the GTA."
      ]
     },
     {
@@ -1144,7 +1144,7 @@
        "q": "How much does an eviction cleanout cost in Newmarket?",
        "a": [
         [
-         "Our Newmarket eviction cleanout services start at $125. The final price depends on the volume of belongings and complexity of the job. Contact Live Junk Free for a free quote. "
+         "The final price depends on the volume of belongings and complexity of the job. Contact Live Junk Free for a free quote. "
         ]
        ]
       },
@@ -1176,7 +1176,7 @@
        "q": "Can you handle multiple eviction units in Newmarket?",
        "a": [
         [
-         "Yes. We can handle larger and multi-unit eviction cleanouts. Bulk pricing is available for large cleanouts, while multi-unit properties can receive custom pricing based on the overall scope of the work. "
+         "Yes. We can handle larger and multi-unit eviction cleanouts. "
         ]
        ]
       }

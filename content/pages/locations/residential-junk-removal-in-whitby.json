@@ -11,7 +11,7 @@
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/05/Junk-Removal-Services-in-Aurora.png"
  },
- "title": "residential-junk-removal-in-whitby",
+ "title": "Residential Junk Removal in Whitby",
  "h1": "Residential Junk Removal in Whitby, Ontario — When Everything Bought Together Retires Together",
  "published": "2026-07-17T08:01:12",
  "modified": "2026-07-17T08:00:54",
@@ -94,7 +94,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The town's homes are hitting their furnishing milestones in unison: the 2000s builds of Rolling Acres and Williamsburg replacing their first full sets, Brooklin's newer streets already on round one of upgrades, and the established neighbourhoods deep into round two. Live Junk Free hauls the outgoing at every stage — 660+ five-star Google reviews earned on punctual trucks, locked quotes and careful stairwells."
+     "text": "The town's homes are hitting their furnishing milestones in unison: the 2000s builds of Rolling Acres and Williamsburg replacing their first full sets, Brooklin's newer streets already on round one of upgrades, and the established neighbourhoods deep into round two. Live Junk Free hauls the outgoing at every stage — Google reviews earned on punctual trucks, locked quotes and careful stairwells."
     },
     {
      "t": "steps",
@@ -139,7 +139,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Carrying, dismantling, floor protection, hauling, disposal and donation fees — all inside the quote before you say yes. Whatever the stairwell or the sectional decides to make of the exit, the price already made peace with it."
+     "text": "{{fact:propertyProtection}}. Whatever the stairwell or the sectional decides to make of the exit, the price already made peace with it."
     },
     {
      "t": "steps",
@@ -169,14 +169,14 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Half of Whitby's pickups race an incoming delivery — the new mattress Thursday, the appliance Saturday morning. Tell us the window and we clear the old one ahead of it, 6AM to 11PM, seven days a week, no scheduling premium."
+     "text": "Half of Whitby's pickups race an incoming delivery — the new mattress Thursday, the appliance Saturday morning."
     },
     {
      "t": "steps",
      "items": [
       {
        "n": "06",
-       "title": "Independent pricing — 30–50% under the franchise trucks",
+       "title": "Independent pricing",
        "text": []
       }
      ]
@@ -184,7 +184,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "The national haulers price royalties into every pickup, and a full replacement cycle multiplies the difference. We're locally owned with none — Whitby households keep the 30–50% across every item of the wave."
+     "text": "The national haulers price royalties into every pickup, and a full replacement cycle multiplies the difference."
     }
    ]
   },
@@ -203,7 +203,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Small pickups start at {{cad_125}}, single items sit at the friendly end, and the full changeover — furniture, appliances and the garage's accumulated extras together — prices by combined truck space, always beating piecemeal bookings. The figure quoted free at your door is the figure on the receipt, wave after wave."
+     "text": "Small pickups start at {{min_price:C}}, single items sit at the friendly end, and the full changeover — furniture, appliances and the garage's accumulated extras together — prices by combined truck space, always beating piecemeal bookings. The figure quoted free at your door is the figure on the receipt, wave after wave."
     },
     {
      "t": "cards",
@@ -254,13 +254,13 @@
       {
        "title": "1. Book the Truck",
        "text": [
-        "Call +1 647 922 5865 or book online in two minutes. Crews cover all of Whitby seven days a week, 6AM to 11PM, with same-day slots most days and a 30-minute text before arrival."
+        "Call +1 647 922 5865 or book."
        ]
       },
       {
        "title": "2. Show Us the Outgoing",
        "text": [
-        "The mattress, the washer, the sectional and whatever else the season claimed — point at it all and get one flat, all-inclusive quote. Free either way."
+        "The mattress, the washer, the sectional and whatever else the season claimed — point at it all and get one flat, quote. Free either way."
        ]
       },
       {
@@ -483,7 +483,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "- Recent Reviews -"
+     "text": "Recent Reviews -"
     }
    ]
   },
@@ -513,7 +513,7 @@
        "q": "Q: What does junk removal cost in Whitby?",
        "a": [
         [
-         "A: Truck space is the whole formula — small loads from $125, single items at the low end, larger clears scaling flat with volume. The free at-the-door quote already includes stairs, dismantling and careful handling, and it can’t change after approval."
+         "A: Truck space is the whole formula — small loads from {{min_price:C}}, single items at the low end, larger clears scaling flat with volume. The free at-the-door quote already includes stairs, dismantling and careful handling, and it can’t change after approval."
         ]
        ]
       },
@@ -529,7 +529,7 @@
        "q": "Q: The new appliance arrives Saturday morning — can the old one be gone first?",
        "a": [
         [
-         "A: That’s a standard Whitby booking. Give us the delivery window and we’ll clear the outgoing unit ahead of it — 6AM starts and evening slots run seven days a week, no premium attached."
+         "A: That’s a standard Whitby booking."
         ]
        ]
       },

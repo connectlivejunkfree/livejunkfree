@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -75,14 +75,14 @@
     {
      "t": "p",
      "c": [
-      "We prioritize fast, affordable, and damage-free piano removal, so you can reclaim your space without hassle. Let us handle the hard work, you just enjoy your clutter-free home."
+      "Let us handle the hard work, you just enjoy your clutter-free home."
      ]
     },
     {
      "t": "ctas",
      "items": [
       {
-       "label": "Book Your Scrap Metal Now",
+       "label": "Request a Piano Removal Quote",
        "href": "/contact/"
       }
      ]
@@ -103,12 +103,12 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Fast Booking & Best Price Guaranteed – Call Now!"
+     "text": "Fast Booking – Call Now!"
     },
     {
      "t": "p",
      "c": [
-      "Getting rid of an old piano shouldn’t be a stressful ordeal. We carefully remove pianos from challenging locations like upstairs bedrooms, basement rec rooms, or tight apartment spaces, transporting them safely and leaving your area spotless. No heavy lifting on your part, no damage to your property, just a seamless, professional process from start to finish."
+      "Getting rid of an old piano shouldn’t be a stressful ordeal. We carefully remove pianos from challenging locations like upstairs bedrooms, basement rec rooms, or tight apartment spaces, transporting them safely and leaving your area tidy. No heavy lifting on your part to your property, just a seamless, professional process from start to finish."
      ]
     },
     {
@@ -122,7 +122,7 @@
      "c": [
       "Ready to free up your space? ",
       {
-       "a": "/contact/",
+       "a": "tel:+16479225865",
        "c": [
         "Call us now"
        ]
@@ -137,7 +137,7 @@
        "b": [
         {
          "i": [
-          "We answer calls in 1 minute or less!"
+          "Easy Booking by Phone or Online"
          ]
         }
        ]
@@ -163,7 +163,7 @@
         "Live Junk Free"
        ]
       },
-      ", you’re guaranteed a seamless, stress-free experience from start to finish."
+      "{{fact:sameDay.short}}"
      ]
     },
     {
@@ -197,7 +197,7 @@
        "Professional disassembly (if required for tight spaces)"
       ],
       [
-       "Careful removal using piano dollies and protective padding"
+       "{{fact:propertyProtection}}"
       ],
       [
        "Proper disposal, including recycling metal components or donating to schools/community centers"
@@ -209,7 +209,7 @@
      "c": [
       {
        "b": [
-        "We offer same-day Piano Removal Service."
+        "We offer same-day when available Piano Removal Service."
        ]
       }
      ]
@@ -231,17 +231,17 @@
     {
      "t": "h",
      "l": 3,
-     "text": "We work around your availability with next-day, weekend, and evening slots. Same-day service available for urgent requests."
+     "text": "Same-day service available for urgent requests."
     },
     {
      "t": "h",
      "l": 3,
-     "text": "All-Inclusive Pricing"
+     "text": "Pricing"
     },
     {
      "t": "h",
      "l": 3,
-     "text": "– Your upfront quote covers everything: professional disassembly, labor, transport, and disposal, no hidden fees."
+     "text": "{{fact:competitorComparison}}"
     },
     {
      "t": "h",
@@ -256,7 +256,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "Damage-Free Guarantee"
+     "text": "Careful Removal"
     },
     {
      "t": "h",
@@ -282,79 +282,6 @@
      "t": "h",
      "l": 3,
      "text": "Our trained piano removal specialists are fully insured and equipped to handle upright, baby grand, and antique pianos safely and professionally."
-    }
-   ]
-  },
-  {
-   "blocks": [
-    {
-     "t": "h",
-     "l": 2,
-     "text": "Expect Safe, Easy, and Professional Piano Removal"
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "Piano Removal with the Planet in Mind"
-    },
-    {
-     "t": "p",
-     "c": [
-      "At Live Junk Free, we believe removing your old piano should be harmonious with the environment. That’s why we go beyond standard disposal:"
-     ]
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "Responsible Breakdown: We carefully separate wood, metal, and ivory components for proper recycling"
-      ],
-      [
-       "Give Pianos New Life: Playable instruments get donated to schools, churches, and community centers"
-      ],
-      [
-       "Landfill-Last Policy: Less than 5% of the materials we remove become waste"
-      ]
-     ]
-    },
-    {
-     "t": "p",
-     "c": [
-      {
-       "b": [
-        {
-         "i": [
-          "We handle every step with sustainability in mind, ensuring your piano gets the most environmentally friendly second chapter possible."
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "t": "h",
-     "l": 3,
-     "text": "No Hidden Fees – Just Straightforward Piano Removal Pricing"
-    },
-    {
-     "t": "p",
-     "c": [
-      "At Live Junk Free, we believe in honest pricing you can trust:"
-     ]
-    },
-    {
-     "t": "ul",
-     "items": [
-      [
-       "Pay Only for What We Remove – No inflated fees or unnecessary charges"
-      ],
-      [
-       "Free Instant Estimates – Get a clear quote via phone, text, or our website"
-      ],
-      [
-       "Multi-Item Discounts – Special rates when removing multiple pieces of furniture or instruments"
-      ]
-     ]
     }
    ]
   },
@@ -403,25 +330,25 @@
       {
        "title": "Send a Photo",
        "text": [
-        "Simply text or upload pictures of your piano, and we’ll respond within minutes."
+        "{{fact:freeOnsiteEstimates}}"
        ]
       },
       {
        "title": "Get a Quote",
        "text": [
-        "Receive honest, upfront pricing with no hidden fees."
+        "{{fact:competitorComparison}}"
        ]
       },
       {
        "title": "Pick Your Time",
        "text": [
-        "Schedule same-day or next-day removal, and we work around your schedule."
+        "Schedule same-day or next-day removal when available, and we work around your schedule."
        ]
       },
       {
        "title": "We Handle the Rest",
        "text": [
-        "Our team arrives, safely removes your piano, cleans up, and hauls it away, usually in under an hour."
+        "Our team arrives, safely removes your piano, cleans up, and hauls it away."
        ]
       }
      ]
@@ -474,7 +401,7 @@
        "q": "2) How do you ensure the safe removal of heavy pianos?",
        "a": [
         [
-         "Our trained crews use specialized equipment like piano dollies, moving straps, and protective padding to safely move heavy pianos without damage to your property or the instrument. "
+         "{{fact:propertyProtection}}. "
         ]
        ]
       },
@@ -490,7 +417,7 @@
        "q": "4) What happens to the piano after it's removed?",
        "a": [
         [
-         "Playable pianos are donated to schools/charities. Others are responsibly recycled, with metal, wood, and parts separated for eco-friendly disposal. We minimize landfill waste. "
+         "Others are responsibly recycled, with metal, wood, and parts separated for eco-friendly disposal. We minimize landfill waste. "
         ]
        ]
       },

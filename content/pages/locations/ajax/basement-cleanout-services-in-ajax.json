@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -296,22 +296,22 @@
      "t": "checks",
      "items": [
       "Haul-Away",
-      "No Stairs Surcharges"
+      "{{fact:competitorComparison}}"
      ]
     },
     {
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
     },
     {
      "t": "price",
-     "label": "Ajax Basement Cleanout Services Starts From",
-     "value": "{{cad_125:suffix}}"
+     "label": "Ajax Basement Cleanout Pricing",
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
@@ -480,7 +480,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Same-Day Basement Cleanout Services Near Me in Ajax"
+     "text": "Basement Cleanout Services Near Me in Ajax"
     },
     {
      "t": "p",
@@ -819,7 +819,7 @@
     {
      "t": "p",
      "c": [
-      "More than 700 five-star Google reviews across restaurant strip-outs, heritage storefront closures, mall and big-box clearances and landlord re-lease preparations — from Main Street South through York Region and across the GTA."
+      "Google reviews across restaurant strip-outs, heritage storefront closures, mall and big-box clearances and landlord re-lease preparations — from Main Street South through York Region and across the GTA."
      ]
     },
     {
@@ -1179,7 +1179,7 @@
        "q": "3. Is a basement cleanout in Ajax useful before a basement renovation?",
        "a": [
         [
-         "Yes. Basement cleanout services near me can be available for same-day appointments depending on scheduling. Weekend and evening appointments are also offered."
+         "Yes. Basement cleanout services near me can be available for same-day appointments depending on scheduling. {{fact:scheduling}}"
         ]
        ]
       },

@@ -6,7 +6,7 @@
  "template": "ItemRemoval",
  "seo": {
   "title": "Furniture Removal Services - Live JunkFree",
-  "description": "Need furniture removal services across Toronto & GTA? We pick up sofas, beds, dressers & more — same day, from $125, fully insured. No hidden fees. Call +1 647 922 5865!",
+  "description": "Need furniture removal services across Toronto & GTA? We pick up sofas, beds, dressers & more — same day, from {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), fully insured, subject to scheduling. Call +1 647 922 5865!",
   "canonical": "https://livejunkfree.ca/services/residential-junk-removal-services/furniture-removal-services/",
   "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2026/07/furniture-removal-services_before.jpg_202607142157.jpeg"
@@ -47,7 +47,7 @@
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -103,7 +103,7 @@
     {
      "t": "p",
      "c": [
-      "Give us a call or book online—it’s quick and easy. We’ll come by, take a look, and give you a clear, upfront quote. No pressure, no hidden costs—just honest, reliable service you can count on."
+      "Give us a call or book online—it’s quick and easy. We’ll come by, take a look, and give you a clear, upfront quote. No pressure—just honest, reliable service you can count on."
      ]
     },
     {
@@ -136,7 +136,7 @@
     {
      "t": "p",
      "c": [
-      "Getting rid of old furniture doesn’t have to be a hassle. Whether it’s a bulky sofa, a worn-out mattress, or a heavy dresser, our team takes care of everything—from lifting and loading to leaving your space clean when we’re done. Our pricing starts at just {{cad_125}}, with no hidden surprises. You’ll know exactly what to expect, and we’ll handle the rest quickly and safely."
+      "Getting rid of old furniture doesn’t have to be a hassle. Whether it’s a bulky sofa, a worn-out mattress, or a heavy dresser, our team takes care of everything—from lifting and loading to leaving your space clean when we’re done. Our pricing starts at just {{min_price:C}} for a 1/16 Junk Load (1 cubic yard), with no hidden surprises. You’ll know exactly what to expect, and we’ll handle the rest quickly and safely."
      ]
     },
     {
@@ -175,12 +175,7 @@
      "t": "p",
      "c": [
       "Need that old furniture gone today? We’ve got you covered. Our team offers quick, ",
-      {
-       "a": "/",
-       "c": [
-        "same-day removal"
-       ]
-      },
+      "same-day removal when available",
       " so you don’t have to wait around or deal with the hassle."
      ]
     },
@@ -191,7 +186,7 @@
       {
        "a": "/contact/",
        "c": [
-        "same-day schedule"
+        "same-day when available schedule"
        ]
       },
       ". Once booked, our team arrives on time, ready to handle everything—from careful lifting and loading to making sure your space is left clean."
@@ -224,7 +219,7 @@
       {
        "title": "Flexible Scheduling",
        "text": [
-        "Your life doesn’t pause for furniture removal, and neither should you. We offer same-day, next-day, and weekend slots at no extra charge. Morning, afternoon, or evening — we fit into your day, not the other way around."
+        "Your life doesn’t pause for furniture removal, and neither should you. {{fact:pricingIntro.extra}} Morning, afternoon, or evening — we fit into your day, not the other way around."
        ]
       },
       {
@@ -236,23 +231,23 @@
       {
        "title": "Bulk removal discounts",
        "text": [
-        "The more you need gone, the more you save. Whether you are clearing a single room or an entire property, our bulk rates make large cleanouts surprisingly affordable. One call and everything goes — no second trips, no extra bookings."
+        "The more you need gone, the more you save. One call and everything goes — no second trips, no extra bookings."
        ]
       },
       {
-       "title": "Instant booking",
+       "title": "Easy booking",
        "text": [
-        "No waiting on hold, no chasing callbacks, no lengthy back-and-forth. Book your slot online in under 60 seconds or call us directly and we will lock in your appointment on the spot. Simple, fast, done."
+        "No waiting on hold, no chasing callbacks, no lengthy back-and-forth. Book your slot online or call us directly and we will lock in your appointment on the spot. Simple, fast, done."
        ]
       },
       {
-       "title": "In and Out in Under an Hour",
+       "title": "Timing confirmed at your estimate",
        "text": [
-        "Our trained crew arrives fully equipped and ready to move. What would take you an entire weekend of stress and heavy lifting, we handle swiftly and efficiently — leaving your space spotless before you have finished your morning coffee."
+        "Our trained crew arrives fully equipped and ready to move. What would take you an entire weekend of stress and heavy lifting, we handle swiftly and efficiently — leaving your space tidy before you have finished your morning coffee."
        ]
       },
       {
-       "title": "What We Quote is What You Pay",
+       "title": "{{fact:competitorComparison}}",
        "text": [
         "We give you a clear, honest price based on truck volume before a single item is touched. No hidden labour fees, no disposal surcharges, no last-minute additions. The number you see upfront is the exact number on your final invoice."
        ]
@@ -286,7 +281,7 @@
        "Confirm items to be removed before starting"
       ],
       [
-       "Protect walls, floors, and doorways during removal"
+       "{{fact:propertyProtection}}"
       ],
       [
        "Carefully lift and load all furniture"
@@ -388,7 +383,7 @@
          "Items We Do Not Accept:"
         ]
        },
-       " Large pianos, hazardous materials, or heavily infested items."
+       " Large pianos, hazardous materials. For bed bug–infested furniture, see our bed bug furniture removal service."
       ]
      ]
     }
@@ -413,7 +408,7 @@
       {
        "title": "Get a Clear Quote",
        "text": [
-        "We review the details and give you a fair, upfront price. No hidden costs—just simple and transparent pricing."
+        "We review the details and give you a fair, upfront price. —just simple and transparent pricing."
        ]
       },
       {
@@ -470,7 +465,7 @@
        "q": "How does your furniture removal process work?",
        "a": [
         [
-         "Our process is simple: Send us photos or details of your items, receive a free quote, pick your preferred time, and our team will arrive for safe, efficient removal. We handle all lifting, disassembly, cleanup, and responsible disposal, leaving your space spotless and stress-free."
+         "Our process is simple: Send us photos or details of your items, receive a free quote, pick your preferred time, and our team will arrive for safe, efficient removal. We handle all lifting, disassembly, cleanup, and responsible disposal, leaving your space tidy and stress-free."
         ]
        ]
       },
@@ -478,7 +473,7 @@
        "q": "Do you offer same-day or next-day furniture removal?",
        "a": [
         [
-         "Yes! We provide same-day and next-day removal services. Just contact us, and we’ll do our best to accommodate your schedule, so you can reclaim your space as quickly as possible."
+         "Yes! We provide same-day and next-day removal services, subject to scheduling. Just contact us, and we’ll do our best to accommodate your schedule, so you can reclaim your space as quickly as possible."
         ]
        ]
       },
@@ -486,7 +481,7 @@
        "q": "How much does your service cost?",
        "a": [
         [
-         "Our pricing starts at just $125, with transparent quotes provided upfront and no hidden fees. You only pay for what we remove. We also offer discounts for multiple items or whole-home cleanouts, making it affordable to clear out any space."
+         "You only pay for what we remove."
         ]
        ]
       },
@@ -502,7 +497,7 @@
        "q": "How do I book your services?",
        "a": [
         [
-         "Booking is easy! Call, text, or book online in just 60 seconds. Send us photos for a fast quote, then choose your preferred removal time. We respond quickly and can often schedule your pickup the same day."
+         "Booking is easy! Call, text, or book. Send us photos for a fast quote, then choose your preferred removal time. We respond quickly and can often schedule your pickup the same day."
         ]
        ]
       }

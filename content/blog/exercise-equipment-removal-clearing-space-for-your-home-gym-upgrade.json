@@ -6,7 +6,7 @@
  "template": "BlogPost",
  "seo": {
   "title": "Safe and fast exercise equipment removal tips",
-  "description": "Clear your old gym gear the easy way with Live Junk Free. Get same-day exercise equipment removal, safe hauling, and eco-friendly disposal options.",
+  "description": "Clear your old gym gear the easy way with Live Junk Free. Get same-day exercise equipment removal, safe hauling, and eco-friendly disposal options, subject to scheduling.",
   "canonical": "https://livejunkfree.ca/blog/exercise-equipment-removal-clearing-space-for-your-home-gym-upgrade/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2025/11/Exercise-Equipment-Removal-Clearing-Space-for-Your-Home-Gym-Upgrade.jpeg"
@@ -142,7 +142,7 @@
      "t": "ul",
      "items": [
       [
-       "Experience with Heavy and Bulky Items: Professional crews are trained and equipped to handle the unique challenges of fitness equipment. They use equipment like appliance dollies, moving straps, and protective blankets to safely maneuver items through your home."
+       "Experience with Heavy and Bulky Items: Professional crews are trained and equipped to handle the unique challenges of fitness equipment. {{fact:propertyProtection}}."
       ],
       [
        "Efficient Disassembly and Handling: They have the expertise to quickly and safely disassemble complex machines, making them manageable to remove without causing damage to your property."
@@ -151,7 +151,7 @@
        "Total Liability Coverage: Reputable junk removal services are fully insured. This means you are protected from any financial liability should an accidental injury or property damage occur during the removal process."
       ],
       [
-       "Comprehensive Cleanup and Haul-Away: The service is all-inclusive. They don’t just take the main unit; they also remove the associated mats, loose weights, and any other debris, leaving your space completely clear and ready for your home gym upgrade."
+       "They don’t just take the main unit; they also remove the associated mats, loose weights, and any other debris, leaving your space completely clear and ready for your home gym upgrade."
       ]
      ]
     }

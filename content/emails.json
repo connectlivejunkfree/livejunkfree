@@ -1,0 +1,37 @@
+{
+  "_readme": "Every word in the site's emails. Wording approved in LJF_Akshat_Point_by_Point_Answers_18_Nov_2026.pdf (A3.2, A3.3, A3.5 and 'Email templates for immediate implementation'). Placeholders: {firstName} {service} {city} {inCity} {date} {window} {address} {phone}. Do not add response times, opening hours, prices, cancellation or payment terms unless separately agreed.",
+  "_status": "APPROVED – Answers 18 Nov 2026",
+  "brand": {
+    "senderName": "Live Junk Free",
+    "replyTo": "info@livejunkfree.ca",
+    "signoff": "Live Junk Free",
+    "signoffEmail": "info@livejunkfree.ca",
+    "footer": "Live Junk Free · Junk removal, cleanouts and demolition in Toronto and the GTA · 647-922-5865 · livejunkfree.ca"
+  },
+  "acknowledgement": {
+    "subject": "We received your Live Junk Free enquiry",
+    "preheader": "Thanks for contacting Live Junk Free.",
+    "greeting": "Hi {firstName},",
+    "paragraphs": [
+      "Thanks for contacting Live Junk Free about {service}{inCity}. We’ve received your request and our team will review the details and contact you to discuss next steps and pickup availability.",
+      "If you’d like to reach us sooner, call 647-922-5865.",
+      "Please note: submitting an enquiry or selecting a preferred callback time does not confirm a pickup appointment."
+    ]
+  },
+  "confirmed": {
+    "subject": "Your Live Junk Free pickup is confirmed — {date}",
+    "preheader": "Your pickup details.",
+    "greeting": "Hi {firstName},",
+    "intro": "Following our conversation, your pickup is confirmed with the following details:",
+    "labels": { "service": "Service", "address": "Address", "date": "Date", "window": "Arrival window" },
+    "closing": "If anything needs to change, please call 647-922-5865 or reply to this email."
+  },
+  "internal": {
+    "subject": "New website enquiry — {service} — {city}",
+    "heading": "New website enquiry",
+    "openAdmin": "Open in admin",
+    "photosNote": "{count} photo(s) attached – view them securely in admin.",
+    "callbackNote": "Requested callback time (not a pickup booking)",
+    "confirmHint": "Call the customer to agree the pickup day and arrival window. Then open the enquiry in admin, mark it Confirmed and press Send confirmation."
+  }
+}

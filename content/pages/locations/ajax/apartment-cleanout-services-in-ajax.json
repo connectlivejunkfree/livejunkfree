@@ -45,13 +45,13 @@
      "t": "cards",
      "items": [
       {
-       "title": "Trusted by people of the Canada"
+       "title": "Trusted across Toronto and the GTA"
       },
       {
        "title": "Insured, uniformed, and respectful crew"
       },
       {
-       "title": "Rated 5.0 on Google by 780+ customers"
+       "title": "{{fact:reviews}}"
       }
      ]
     }
@@ -66,7 +66,7 @@
     {
      "t": "h",
      "l": 3,
-     "text": "★★★★★ 700+ Five-Star Live Junk Free Reviews on Google"
+     "text": "★★★★★ Live Junk Free Reviews on Google"
     }
    ]
   },
@@ -107,7 +107,7 @@
     {
      "t": "h",
      "l": 2,
-     "text": "Can an Apartment Cleanout in Ajax Really Be Guaranteed Before a Lease Deadline?"
+     "text": "Can you work around a move-out, closing or lease deadline?"
     }
    ]
   },
@@ -149,7 +149,7 @@
        "title": "One flat apartment cleanout price, confirmed before the clock starts",
        "text": [
         [
-         "The number is set at the free walkthrough and holds through to the invoice, with nothing appearing as a surprise cost days before a deadline."
+         "{{fact:competitorComparison}}"
         ]
        ]
       },
@@ -173,7 +173,7 @@
       },
       {
        "n": "06",
-       "title": "Independent apartment cleanout pricing, 30–50% under the bigger outfits",
+       "title": "Independent apartment cleanout pricing",
        "text": [
         [
          "National junk removal franchises build a royalty into every quote. Live Junk Free carries none of that overhead."
@@ -215,7 +215,7 @@
     {
      "t": "checks",
      "items": [
-      "Hauling + Sorting + Disposal in One Price",
+      "{{fact:competitorComparison}}",
       "Written Completion Dates, Not Vague Promises"
      ]
     },
@@ -223,7 +223,7 @@
      "t": "ctas",
      "items": [
       {
-       "label": "Ask About This Week's Demo Slots",
+       "label": "Book a Free Onsite Estimate",
        "href": "tel:+16479225865"
       }
      ]
@@ -231,7 +231,7 @@
     {
      "t": "price",
      "label": "Ajax Apartment Cleanout",
-     "value": "{{cad_125:suffix}}"
+     "value": "Contact us for a quote"
     },
     {
      "t": "p",
@@ -254,7 +254,7 @@
    "blocks": [
     {
      "t": "eyebrow",
-     "text": "HOW OUR HOARDING CLEANOUT WORKS"
+     "text": "HOW OUR APARTMENT CLEANOUT WORKS"
     },
     {
      "t": "h",
@@ -300,7 +300,7 @@
        "title": "Empty, Well Before the Date That Matters",
        "text": [
         [
-         "The unit is left swept and ready — days ahead of the deadline, not the same afternoon as it."
+         "Timing confirmed at your estimate"
         ]
        ]
       }
@@ -369,7 +369,7 @@
        "Documented removal for the landlord's property file"
       ],
       [
-       "Move-in-ready timing that lands on the possession date"
+       "Scheduled around your move dates"
       ],
       [
        "Same flat pricing regardless of who's on title"
@@ -678,7 +678,7 @@
     {
      "t": "p",
      "c": [
-      "700+ five-star Google reviews — lease-deadline, portfolio landlord and family apartment cleanouts across Ajax, Durham Region and the GTA."
+      "Google reviews — lease-deadline, portfolio landlord and family apartment cleanouts across Ajax, Durham Region and the GTA."
      ]
     },
     {
@@ -700,7 +700,7 @@
     {
      "t": "p",
      "c": [
-      "Hoarding cleanouts are just one part of what we do. Every kind of home, estate and property cleanout is bookable with the same free, judgment-free quote."
+      "Apartment cleanouts are just one part of what we do. Every kind of home, estate and property cleanout is bookable with the same free, judgment-free quote."
      ]
     },
     {
@@ -812,7 +812,7 @@
      "t": "faq",
      "items": [
       {
-       "q": "Can you guarantee an apartment cleanout is done before our lease deadline?",
+       "q": "Can you work around a move-out, closing or lease deadline?",
        "a": [
         [
          "That’s the whole point of how we schedule here. Tell the crew the deadline at the walkthrough and the job books backward from it with margin."
@@ -855,7 +855,7 @@
        "q": "Can you clear the apartment the same day I call?",
        "a": [
         [
-         "Often, yes — trucks run seven days a week, 6AM to 11PM."
+         "{{fact:sameDay}}."
         ]
        ]
       },

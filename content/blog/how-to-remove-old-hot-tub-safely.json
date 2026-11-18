@@ -6,7 +6,7 @@
  "template": "BlogPost",
  "seo": {
   "title": "Safe and Easy Hot Tub Removal Tips Without Damaging Your Yard",
-  "description": "Learn how to remove an old hot tub safely with expert removal and disposal services. Protect your yard, save time, and book same-day hot tub removal now.",
+  "description": "Learn how to remove an old hot tub safely with expert removal and disposal services. Protect your yard, save time, and book same-day hot tub removal now, subject to scheduling.",
   "canonical": "https://livejunkfree.ca/blog/how-to-remove-old-hot-tub-safely/",
   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
   "ogImage": "/images/uploads/2025/10/How-Do-I-Remove-an-Old-Hot-Tub-Without-Damaging-My-Yard.jpeg"
@@ -84,7 +84,7 @@
          "Electrical Hazards:"
         ]
        },
-       " Hot tubs are powered by electricity. Ensure power is disconnected by a certified electrician before starting removal."
+       " Hot tubs are powered by electricity."
       ],
       [
        {
@@ -291,9 +291,6 @@
     {
      "t": "ul",
      "items": [
-      [
-       "Drain all water and disconnect electrical and plumbing connections."
-      ],
       [
        "Wear protective equipment to prevent injury."
       ]
